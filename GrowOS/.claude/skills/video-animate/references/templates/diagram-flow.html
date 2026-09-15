@@ -1,0 +1,243 @@
+<!doctype html>
+<html
+  lang="en"
+  data-resolution="landscape"
+  data-composition-variables='[
+    {"id":"accent","type":"color","label":"Accent","default":"#3B82F6"},
+    {"id":"font","type":"string","label":"Font family","default":"system-ui"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Diagram - 3-Step Flow</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #0b0f14;
+      }
+
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        font-family: var(--font), -apple-system, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+      }
+
+      /* Full-bleed background lives on a child div, never on #root. */
+      .bg-fill {
+        position: absolute;
+        inset: 0;
+        background: #0b0f14;
+      }
+
+      .clip {
+        position: absolute;
+      }
+
+      #title {
+        left: 0;
+        width: 1920px;
+        top: 140px;
+        text-align: center;
+        font-weight: 700;
+        font-size: 34px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, 0.55);
+      }
+
+      .box {
+        position: absolute;
+        top: 410px;
+        width: 420px;
+        height: 260px;
+        background: #12161c;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 20px;
+        padding: 34px;
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+        transform-origin: 50% 50%;
+        will-change: transform;
+      }
+      #box-1 {
+        left: 120px;
+      }
+      #box-2 {
+        left: 750px;
+      }
+      #box-3 {
+        left: 1380px;
+      }
+      .box-num {
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        background: var(--accent);
+        color: #0b0f14;
+        font-weight: 800;
+        font-size: 26px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .box-label {
+        font-weight: 800;
+        font-size: 40px;
+        color: #ffffff;
+      }
+      .box-sub {
+        font-weight: 400;
+        font-size: 22px;
+        color: rgba(255, 255, 255, 0.6);
+      }
+
+      .arrow-wrap {
+        position: absolute;
+        top: 520px;
+        width: 210px;
+        height: 40px;
+      }
+      #arrow-1 {
+        left: 540px;
+      }
+      #arrow-2 {
+        left: 1170px;
+      }
+      .arrow-wrap svg {
+        width: 100%;
+        height: 100%;
+        overflow: visible;
+      }
+      .arrow-line {
+        fill: none;
+        stroke: var(--accent);
+        stroke-width: 6;
+        stroke-linecap: round;
+      }
+      .arrow-head {
+        fill: var(--accent);
+        opacity: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="flowdiagram"
+      data-start="0"
+      data-width="1920"
+      data-height="1080"
+      data-duration="8"
+    >
+      <div class="bg-fill"></div>
+
+      <div id="title" class="clip" data-start="0" data-duration="8" data-track-index="0">
+        How It Works
+      </div>
+
+      <div id="box-1" class="clip box" data-start="0.3" data-duration="7.7" data-track-index="1">
+        <div class="box-num">1</div>
+        <div class="box-label">Step one</div>
+        <div class="box-sub">What happens first</div>
+      </div>
+
+      <div id="arrow-1" class="clip arrow-wrap" data-start="1.0" data-duration="7.0" data-track-index="2">
+        <svg viewBox="0 0 210 40" xmlns="http://www.w3.org/2000/svg">
+          <path class="arrow-line" id="arrow-1-line" d="M6 20 L182 20" />
+          <polygon class="arrow-head" id="arrow-1-head" points="176,8 204,20 176,32" />
+        </svg>
+      </div>
+
+      <div id="box-2" class="clip box" data-start="1.7" data-duration="6.3" data-track-index="3">
+        <div class="box-num">2</div>
+        <div class="box-label">Step two</div>
+        <div class="box-sub">What happens next</div>
+      </div>
+
+      <div id="arrow-2" class="clip arrow-wrap" data-start="2.4" data-duration="5.6" data-track-index="4">
+        <svg viewBox="0 0 210 40" xmlns="http://www.w3.org/2000/svg">
+          <path class="arrow-line" id="arrow-2-line" d="M6 20 L182 20" />
+          <polygon class="arrow-head" id="arrow-2-head" points="176,8 204,20 176,32" />
+        </svg>
+      </div>
+
+      <div id="box-3" class="clip box" data-start="3.1" data-duration="4.9" data-track-index="5">
+        <div class="box-num">3</div>
+        <div class="box-label">Step three</div>
+        <div class="box-sub">The result</div>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // Title
+      tl.fromTo(
+        "#title",
+        { opacity: 0, y: -10 },
+        { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" },
+        0,
+      );
+
+      // Box 1 pop
+      tl.fromTo(
+        "#box-1",
+        { scale: 0, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 0.5, ease: "power3.out" },
+        0.3,
+      );
+
+      // Arrow 1 draw - measure the real path length, then tween
+      // dashoffset from that length to 0. Do not re-derive this by hand;
+      // it is what keeps the arrowhead landing exactly on the box edge.
+      const arrow1Line = document.getElementById("arrow-1-line");
+      const arrow1Len = arrow1Line.getTotalLength();
+      arrow1Line.style.strokeDasharray = `${arrow1Len}`;
+      arrow1Line.style.strokeDashoffset = `${arrow1Len}`;
+      tl.to(arrow1Line, { strokeDashoffset: 0, duration: 0.5, ease: "power2.out" }, 1.0);
+      tl.to("#arrow-1-head", { opacity: 1, duration: 0.15, ease: "power1.out" }, 1.45);
+
+      // Box 2 pop
+      tl.fromTo(
+        "#box-2",
+        { scale: 0, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 0.5, ease: "power3.out" },
+        1.7,
+      );
+
+      // Arrow 2 draw
+      const arrow2Line = document.getElementById("arrow-2-line");
+      const arrow2Len = arrow2Line.getTotalLength();
+      arrow2Line.style.strokeDasharray = `${arrow2Len}`;
+      arrow2Line.style.strokeDashoffset = `${arrow2Len}`;
+      tl.to(arrow2Line, { strokeDashoffset: 0, duration: 0.5, ease: "power2.out" }, 2.4);
+      tl.to("#arrow-2-head", { opacity: 1, duration: 0.15, ease: "power1.out" }, 2.85);
+
+      // Box 3 pop
+      tl.fromTo(
+        "#box-3",
+        { scale: 0, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 0.5, ease: "power3.out" },
+        3.1,
+      );
+
+      window.__timelines["flowdiagram"] = tl;
+    </script>
+  </body>
+</html>

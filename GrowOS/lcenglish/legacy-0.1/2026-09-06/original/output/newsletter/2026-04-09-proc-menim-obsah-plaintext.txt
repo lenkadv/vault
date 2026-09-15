@@ -1,0 +1,32 @@
+Subject: Ještě jste tady?
+-----------------------------------
+Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
+
+dlouho jsem se neozývala a vy jste to {% if subscriber.tags contains "M" %}vydržel{% elsif subscriber.tags contains "F" %}vydržela{% else %}vydrželi{% endif %} :-) Díky, že jste stále tady.
+Proč jsem se odmlčela? Protože jsem začala znovu chodit do školy a přestala jsem stíhat. 
+
+Tady je celý příběh - i nová kapitola LCEnglish.
+
+***
+
+Před dvěma lety jsem začala studovat dějiny umění.
+
+Po dlouhých letech, kdy to byl jen nesplněný sen, jsem znovu seděla na přednáškách a rozplývala se blahem. Bylo to ještě lepší, než jsem si představovala.
+
+Umění má jednu úžasnou schopnost - přinutí vás dívat se pozorně. Všimnout si, co vidíte. Popsat kontext. A pozor - to všechno můžete samozřejmě dělat i v cizím jazyce.
+
+Koukala jsem před časem na video o barokním malíři Caravaggiovi. Lektorka z National Gallery v Londýně vykládala o jeho slavném obraze Večeře v Emauzích - jaké jsou tam postavy a co mají na sobě, jejich gesta, jídlo na stole... Říkala věci jako: the man on the right, the basket is on the edge of the table, he is stretching his arms out...
+
+A mně najednou došlo: tohle jsou fráze, které se hodí! Konkrétní, použitelné, zapamatovatelné. Ne proto, že jsou v seznamu na konci lekce - ale proto, že je můžete použít i v normálním životě. A navíc jsou nepřekonatelně "ilustrované" jedním z nejslavnějších malířů!
+
+Tabulku s gramatickými tvary přes noc zapomenete. Příběh z obrazu zůstane, i v angličtině.
+
+Tak se v mé hlavě zrodil nový formát, který skloubí obě mé lásky dohromady. Jmenuje se Art for English - Umění mluvit.
+
+Každý týden jeden obraz. Pět minut. Tři konkrétní fráze, jeden gramatický bod a jeden úkol na rozmluvení.
+
+Začneme právě tou Caravaggiovou Večeří v Emauzích. Drama, světlo, příběh - a úkol, který zvládne každý.
+
+Těším se.
+
+Zdraví L.

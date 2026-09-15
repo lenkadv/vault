@@ -1,0 +1,66 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.path.contains("/work/")
+    - status.isTruthy()
+    - '!file.path.contains("/_")'
+    - '!file.path.startsWith("_")'
+properties:
+  note.business:
+    displayName: Business
+  note.channel:
+    displayName: Channel
+  note.type:
+    displayName: Type
+  note.status:
+    displayName: Status
+  note.headline:
+    displayName: Headline
+  note.project:
+    displayName: Round
+  note.note:
+    displayName: Your note
+  note.created:
+    displayName: Created
+views:
+  - type: cards
+    name: Board
+    order:
+      - business
+      - channel
+      - type
+      - project
+      - note.note
+      - created
+    sort:
+      - property: status
+        direction: ASC
+      - property: created
+        direction: DESC
+    group_by: status
+    image: note.creative
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Waiting for you
+    filters:
+      and:
+        - status == "review"
+    order:
+      - headline
+      - channel
+      - type
+      - created
+    group_by: business
+  - type: table
+    name: Everything
+    order:
+      - business
+      - channel
+      - type
+      - status
+      - headline
+      - created
+    sort:
+      - property: created
+        direction: DESC

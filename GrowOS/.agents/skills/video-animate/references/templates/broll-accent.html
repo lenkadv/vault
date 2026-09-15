@@ -1,0 +1,156 @@
+<!doctype html>
+<html
+  lang="en"
+  data-resolution="landscape"
+  data-composition-variables='[
+    {"id":"accent","type":"color","label":"Accent","default":"#3B82F6"},
+    {"id":"font","type":"string","label":"Font family","default":"system-ui"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>B-roll Accent - Grid Pulse (seamless loop)</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #0b0f14;
+      }
+
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        font-family: var(--font), -apple-system, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+      }
+
+      /* Full-bleed background lives on a child div, never on #root. */
+      .bg-fill {
+        position: absolute;
+        inset: 0;
+        background: #0b0f14;
+      }
+
+      .clip {
+        position: absolute;
+      }
+
+      /* Concrete, geometric grid - not a generative shader texture. Every
+         cell's opacity/scale is a plain finite-repeat GSAP tween (never
+         repeat:-1), so the composition stays a bounded, seek-safe
+         timeline while still reading as a continuous, breathing loop. */
+      .grid-cell {
+        width: 220px;
+        height: 150px;
+        border-radius: 16px;
+        background: var(--accent);
+        transform-origin: 50% 50%;
+        will-change: transform, opacity;
+      }
+      .cell-a {
+        opacity: 0.28;
+        transform: scale(0.86);
+      }
+      .cell-b {
+        opacity: 0.95;
+        transform: scale(1.08);
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="brollaccent"
+      data-start="0"
+      data-width="1920"
+      data-height="1080"
+      data-duration="8"
+    >
+      <div class="bg-fill"></div>
+
+      <div class="clip grid-cell cell-a" id="cell-0-0" style="left:240px;top:204px" data-start="0" data-duration="8" data-track-index="0"></div>
+      <div class="clip grid-cell cell-b" id="cell-0-1" style="left:484px;top:204px" data-start="0" data-duration="8" data-track-index="1"></div>
+      <div class="clip grid-cell cell-a" id="cell-0-2" style="left:728px;top:204px" data-start="0" data-duration="8" data-track-index="2"></div>
+      <div class="clip grid-cell cell-b" id="cell-0-3" style="left:972px;top:204px" data-start="0" data-duration="8" data-track-index="3"></div>
+      <div class="clip grid-cell cell-a" id="cell-0-4" style="left:1216px;top:204px" data-start="0" data-duration="8" data-track-index="4"></div>
+      <div class="clip grid-cell cell-b" id="cell-0-5" style="left:1460px;top:204px" data-start="0" data-duration="8" data-track-index="5"></div>
+
+      <div class="clip grid-cell cell-b" id="cell-1-0" style="left:240px;top:378px" data-start="0" data-duration="8" data-track-index="6"></div>
+      <div class="clip grid-cell cell-a" id="cell-1-1" style="left:484px;top:378px" data-start="0" data-duration="8" data-track-index="7"></div>
+      <div class="clip grid-cell cell-b" id="cell-1-2" style="left:728px;top:378px" data-start="0" data-duration="8" data-track-index="8"></div>
+      <div class="clip grid-cell cell-a" id="cell-1-3" style="left:972px;top:378px" data-start="0" data-duration="8" data-track-index="9"></div>
+      <div class="clip grid-cell cell-b" id="cell-1-4" style="left:1216px;top:378px" data-start="0" data-duration="8" data-track-index="10"></div>
+      <div class="clip grid-cell cell-a" id="cell-1-5" style="left:1460px;top:378px" data-start="0" data-duration="8" data-track-index="11"></div>
+
+      <div class="clip grid-cell cell-a" id="cell-2-0" style="left:240px;top:552px" data-start="0" data-duration="8" data-track-index="12"></div>
+      <div class="clip grid-cell cell-b" id="cell-2-1" style="left:484px;top:552px" data-start="0" data-duration="8" data-track-index="13"></div>
+      <div class="clip grid-cell cell-a" id="cell-2-2" style="left:728px;top:552px" data-start="0" data-duration="8" data-track-index="14"></div>
+      <div class="clip grid-cell cell-b" id="cell-2-3" style="left:972px;top:552px" data-start="0" data-duration="8" data-track-index="15"></div>
+      <div class="clip grid-cell cell-a" id="cell-2-4" style="left:1216px;top:552px" data-start="0" data-duration="8" data-track-index="16"></div>
+      <div class="clip grid-cell cell-b" id="cell-2-5" style="left:1460px;top:552px" data-start="0" data-duration="8" data-track-index="17"></div>
+
+      <div class="clip grid-cell cell-b" id="cell-3-0" style="left:240px;top:726px" data-start="0" data-duration="8" data-track-index="18"></div>
+      <div class="clip grid-cell cell-a" id="cell-3-1" style="left:484px;top:726px" data-start="0" data-duration="8" data-track-index="19"></div>
+      <div class="clip grid-cell cell-b" id="cell-3-2" style="left:728px;top:726px" data-start="0" data-duration="8" data-track-index="20"></div>
+      <div class="clip grid-cell cell-a" id="cell-3-3" style="left:972px;top:726px" data-start="0" data-duration="8" data-track-index="21"></div>
+      <div class="clip grid-cell cell-b" id="cell-3-4" style="left:1216px;top:726px" data-start="0" data-duration="8" data-track-index="22"></div>
+      <div class="clip grid-cell cell-a" id="cell-3-5" style="left:1460px;top:726px" data-start="0" data-duration="8" data-track-index="23"></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // Two checkerboard groups, opposite phase, each a finite
+      // repeat+yoyo tween (repeat: 7 => 8 one-second legs = 8s total).
+      // 8 is an even play count, so the LAST leg of every cell is a
+      // yoyo-reverse leg that lands exactly back on that cell's own
+      // starting opacity/scale - the composition's last frame matches
+      // its first frame exactly, which is what makes the 8s render a
+      // clean, seamless loop when video-edit repeats or trims it.
+      const cellsA = document.querySelectorAll(".cell-a");
+      const cellsB = document.querySelectorAll(".cell-b");
+
+      tl.fromTo(
+        cellsA,
+        { opacity: 0.28, scale: 0.86 },
+        {
+          opacity: 0.95,
+          scale: 1.08,
+          duration: 1,
+          ease: "sine.inOut",
+          yoyo: true,
+          repeat: 7,
+        },
+        0,
+      );
+
+      tl.fromTo(
+        cellsB,
+        { opacity: 0.95, scale: 1.08 },
+        {
+          opacity: 0.28,
+          scale: 0.86,
+          duration: 1,
+          ease: "sine.inOut",
+          yoyo: true,
+          repeat: 7,
+        },
+        0,
+      );
+
+      window.__timelines["brollaccent"] = tl;
+    </script>
+  </body>
+</html>

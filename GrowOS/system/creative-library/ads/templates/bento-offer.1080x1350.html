@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+.frame{width:1080px;height:1350px;background:var(--paper-2);
+  font-family:var(--sans);padding:70px;
+  display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:1fr 1fr .72fr;gap:22px;}
+.tile{background:#FBF7EF;border-radius:30px;padding:44px;box-shadow:0 10px 26px rgba(20,15,8,.08);
+  display:flex;flex-direction:column;}
+.big{grid-column:1/3;grid-row:1/3;justify-content:center;background:var(--ink-deep);color:var(--paper);}
+.big .k{font-size:27px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:#9aa3b5;margin-bottom:20px;}
+.big h1{font-family:var(--serif);font-size:88px;line-height:.98;letter-spacing:-1px;}
+.big .price{font-family:var(--serif);font-size:78px;margin-top:30px;line-height:1;}
+.big .price b{color:var(--accent-soft);font-weight:400;}
+.claude{grid-column:3;grid-row:1;background:var(--ink-deep);color:#fff;justify-content:center;align-items:flex-start;}
+.claude .spark{width:52px;height:52px;margin-bottom:18px;}
+.claude .spark svg{width:100%;height:100%;fill:var(--accent-soft);}
+.claude .t{font-family:var(--serif);font-size:42px;line-height:1.02;}
+.folder{grid-column:3;grid-row:2;justify-content:center;}
+.folder .fico{width:58px;height:58px;margin-bottom:20px;}
+.folder .fico svg{width:100%;height:100%;fill:var(--accent);}
+.folder .t{font-size:29px;font-weight:600;color:var(--ink);line-height:1.24;}
+.channels{grid-column:1;grid-row:3;justify-content:center;align-items:flex-start;}
+.channels .cap{font-size:22px;font-weight:600;color:#8a8574;margin-bottom:18px;letter-spacing:.4px;}
+.chrow{display:flex;gap:16px;flex-wrap:wrap;}
+.chrow span{width:52px;height:52px;border-radius:14px;background:#F0E8D8;display:flex;align-items:center;justify-content:center;}
+.chrow svg{width:28px;height:28px;stroke:var(--ink);stroke-width:1.9;fill:none;stroke-linecap:round;stroke-linejoin:round;}
+.proof{grid-column:2/4;grid-row:3;justify-content:center;background:var(--accent-soft);color:#241c06;}
+.proof b{font-family:var(--serif);font-size:56px;line-height:1;display:block;margin-bottom:8px;}
+.proof span{font-size:26px;font-weight:600;line-height:1.2;}
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="tile big">
+    <div class="k">The offer</div>
+    <h1>[Your big<br>promise,<br>3-4 words]</h1>
+    <div class="price"><b>[$price].</b> [Once / per month]</div>
+  </div>
+  <div class="tile claude">
+    <div class="spark"><svg viewBox="0 0 24 24"><path d="M12 1l2.2 6.6L21 9.8l-5.4 4.1L17.6 21 12 16.9 6.4 21l2-7.1L3 9.8l6.8-2.2z"/></svg></div>
+    <div class="t">Set up in<br>[X minutes]</div>
+  </div>
+  <div class="tile folder">
+    <div class="fico"><svg viewBox="0 0 24 24"><path d="M3 6a2 2 0 012-2h4l2 2.5h8a2 2 0 012 2V18a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></div>
+    <div class="t">starts from your business, not a blank page</div>
+  </div>
+  <div class="tile channels">
+    <div class="cap">every channel</div>
+    <div class="chrow">
+      <span><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg></span>
+      <span><svg viewBox="0 0 24 24"><path d="M4 5h16v11H8l-4 4z"/></svg></span>
+      <span><svg viewBox="0 0 24 24"><path d="M4 11v2a1 1 0 001 1h3l5 4V6L8 10H5a1 1 0 00-1 1z"/><path d="M18 8a6 6 0 010 8"/></svg></span>
+      <span><svg viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="12" rx="3"/><path d="M10.5 9.5l4.5 2.5-4.5 2.5z" fill="var(--ink)" stroke="none"/></svg></span>
+    </div>
+  </div>
+  <div class="tile proof">
+    <b>[Your number]</b>
+    <span>[what it proves]</span>
+  </div>
+</div>
+</body>
+</html>

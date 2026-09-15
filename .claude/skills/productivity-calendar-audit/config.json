@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-09-05",
+  "output": {
+    "audit_reports_folder": "G:\\Můj disk\\vault\\gtd\\calendar-audits"
+  },
+  "pack_integration": {
+    "meeting_recaps_folder": null,
+    "decisions_log_file": null,
+    "goals_file_path": "G:\\Můj disk\\vault\\gtd\\goals.md",
+    "plans_folder": "G:\\Můj disk\\vault\\daily",
+    "contacts_index_file": null,
+    "next_actions_file": "G:\\Můj disk\\vault\\gtd\\next-actions.md"
+  },
+  "preferences": {
+    "default_window": "week",
+    "work_hours_start": "09:00",
+    "work_hours_end": "17:00"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "from": "C:\\Users\\Lenka\\GrowOS-migration\\growos-0.1-backup-260906\\lcenglish",
+  "business": "lcenglish",
+  "when": "2026-09-06",
+  "files": 122,
+  "fingerprint": "1381aa5a4dd916f9a22d23c5e2febd6f0c7021cccfa4579da5997ecf045304f2",
+  "note": "Everything from the old folder is under original/, byte for byte. Nothing here claims a file was ever published."
+}

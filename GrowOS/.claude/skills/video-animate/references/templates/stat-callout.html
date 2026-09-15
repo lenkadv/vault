@@ -1,0 +1,163 @@
+<!doctype html>
+<html
+  lang="en"
+  data-resolution="landscape"
+  data-composition-variables='[
+    {"id":"accent","type":"color","label":"Accent","default":"#3B82F6"},
+    {"id":"font","type":"string","label":"Font family","default":"system-ui"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Stat Callout - Number Counts Up</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #0b0f14;
+      }
+
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        font-family: var(--font), -apple-system, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+      }
+
+      /* Full-bleed background lives on a child div, never on #root. */
+      .bg-fill {
+        position: absolute;
+        inset: 0;
+        background: #0b0f14;
+      }
+
+      .clip {
+        position: absolute;
+      }
+
+      #stat-group {
+        left: 0;
+        width: 1920px;
+        top: 340px;
+        text-align: center;
+        transform-origin: 50% 50%;
+        will-change: transform;
+      }
+
+      #stat-number {
+        font-weight: 900;
+        font-size: 260px;
+        line-height: 1;
+        color: var(--accent);
+        letter-spacing: -0.01em;
+        font-variant-numeric: tabular-nums;
+      }
+
+      #stat-rule {
+        width: 120px;
+        height: 6px;
+        margin: 28px auto 0;
+        background: var(--accent);
+        border-radius: 999px;
+        transform-origin: 50% 50%;
+      }
+
+      #stat-label {
+        margin-top: 34px;
+        font-weight: 600;
+        font-size: 34px;
+        color: rgba(255, 255, 255, 0.72);
+        opacity: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="statcallout"
+      data-start="0"
+      data-width="1920"
+      data-height="1080"
+      data-duration="5"
+    >
+      <div class="bg-fill"></div>
+
+      <div
+        id="stat-group"
+        class="clip"
+        data-start="0.3"
+        data-duration="4.7"
+        data-track-index="1"
+      >
+        <div id="stat-number">0</div>
+        <div id="stat-rule"></div>
+        <div id="stat-label">[PLACEHOLDER: proof point]</div>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // The number, the rule, and the label are template scaffolding -
+      // the real figure comes only from brain/proof/ or the source
+      // script (SKILL.md Step 3). Never render this counting to an
+      // invented number. The count-up target below (100) is a
+      // placeholder that only proves the animation mechanism.
+      const numberEl = document.getElementById("stat-number");
+      const counter = { val: 0 };
+
+      // Group pop-in
+      tl.fromTo(
+        "#stat-group",
+        { scale: 0.9, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 0.5, ease: "power3.out" },
+        0.3,
+      );
+
+      // Count-up: a pure function of tl.time() via GSAP's own tween
+      // interpolation - deterministic and seek-safe, never Date.now()
+      // or Math.random().
+      tl.to(
+        counter,
+        {
+          val: 100,
+          duration: 2.0,
+          ease: "power2.out",
+          onUpdate: () => {
+            numberEl.textContent = String(Math.round(counter.val));
+          },
+        },
+        0.5,
+      );
+
+      // Underline draws in as the count settles. fromTo (not to) so GSAP
+      // owns the full transform state from the start - lint flags a
+      // plain .to() paired with a CSS transform on the same property as
+      // gsap_css_transform_conflict, since GSAP overwrites the whole
+      // computed transform rather than merging with CSS.
+      tl.fromTo(
+        "#stat-rule",
+        { scaleX: 0 },
+        { scaleX: 1, duration: 0.5, ease: "power2.out" },
+        2.0,
+      );
+
+      // Label fades in last
+      tl.to("#stat-label", { opacity: 1, duration: 0.5, ease: "power2.out" }, 2.3);
+
+      window.__timelines["statcallout"] = tl;
+    </script>
+  </body>
+</html>

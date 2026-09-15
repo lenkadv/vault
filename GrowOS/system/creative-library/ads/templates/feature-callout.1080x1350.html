@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+.frame{width:1080px;height:1350px;background:#F4EEE3;
+  font-family:var(--sans);}
+svg.layer{position:absolute;inset:0;width:1080px;height:1350px;}
+.lbl{position:absolute;display:flex;align-items:center;gap:14px;width:300px;}
+.lbl .ic{width:56px;height:56px;flex:none;border-radius:16px;background:#fff;
+  box-shadow:0 5px 16px rgba(20,15,8,.10);display:flex;align-items:center;justify-content:center;}
+.lbl .ic svg{width:32px;height:32px;stroke:var(--accent);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round;}
+.lbl .tx{font-family:"Bradley Hand","Marker Felt","Noteworthy",cursive;font-weight:700;
+  font-size:36px;color:#1f2b29;line-height:1.08;}
+.left .tx{max-width:224px;}
+.right{flex-direction:row-reverse;justify-content:flex-start;left:auto;}
+.right .tx{max-width:224px;text-align:right;}
+.l1{left:40px;top:296px;}
+.l2{left:40px;top:520px;}
+.l3{left:40px;top:722px;}
+.l4{right:40px;top:330px;}
+.l5{right:40px;top:596px;}
+.kick{position:absolute;left:0;right:0;top:988px;text-align:center;
+  font-family:"Bradley Hand","Marker Felt","Noteworthy",cursive;font-weight:700;
+  font-size:54px;color:var(--ink-deep);}
+.kick b{color:var(--accent);}
+</style>
+</head>
+<body>
+<div class="frame">
+  <svg class="layer" viewBox="0 0 1080 1350">
+    <defs>
+      <marker id="ah" markerWidth="12" markerHeight="12" refX="7" refY="6" orient="auto">
+        <path d="M1 1L9 6L1 11" fill="none" style="stroke:var(--accent)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+      <linearGradient id="scr" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" style="stop-color:var(--ink-deep)"/><stop offset="1" style="stop-color:var(--ink-deep-2)"/>
+      </linearGradient>
+    </defs>
+    <!-- laptop -->
+    <g transform="translate(540 600)">
+      <rect x="-190" y="-140" width="380" height="252" rx="18" fill="#1b2422"/>
+      <rect x="-176" y="-126" width="352" height="224" rx="10" fill="url(#scr)"/>
+      <g transform="translate(0 -14)">
+        <path d="M-56 -34a10 10 0 0110-10h30l14 15h58a10 10 0 0110 10v54a10 10 0 01-10 10h-102a10 10 0 01-10-10z" style="fill:var(--accent)"/>
+        <path d="M-56 -20h124" style="stroke:var(--paper)" stroke-width="2.5" opacity=".35"/>
+      </g>
+      <circle cx="0" cy="-14" r="118" style="fill:var(--accent-soft)" opacity=".13"/>
+      <path d="M-232 112 L232 112 L262 150 Q262 158 254 158 L-254 158 Q-262 158 -262 150 Z" fill="#2b3735"/>
+      <rect x="-44" y="112" width="88" height="10" rx="5" fill="#1b2422"/>
+    </g>
+    <!-- arrows: all land inside/on the laptop, none cross the kicker band -->
+    <path d="M300 358 Q356 420 392 484" fill="none" style="stroke:var(--accent)" stroke-width="4.5" stroke-linecap="round" marker-end="url(#ah)"/>
+    <path d="M300 566 Q332 576 356 582" fill="none" style="stroke:var(--accent)" stroke-width="4.5" stroke-linecap="round" marker-end="url(#ah)"/>
+    <path d="M300 760 Q356 742 398 720" fill="none" style="stroke:var(--accent)" stroke-width="4.5" stroke-linecap="round" marker-end="url(#ah)"/>
+    <path d="M780 392 Q724 440 690 486" fill="none" style="stroke:var(--accent)" stroke-width="4.5" stroke-linecap="round" marker-end="url(#ah)"/>
+    <path d="M780 642 Q748 652 724 658" fill="none" style="stroke:var(--accent)" stroke-width="4.5" stroke-linecap="round" marker-end="url(#ah)"/>
+  </svg>
+
+  <div class="lbl left l1"><div class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg></div><div class="tx">writes your newsletter</div></div>
+  <div class="lbl left l2"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 11v2a1 1 0 001 1h3l5 4V6L8 10H5a1 1 0 00-1 1z"/><path d="M18 8a6 6 0 010 8"/></svg></div><div class="tx">drafts your ads</div></div>
+  <div class="lbl left l3"><div class="ic"><svg viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 01-9 8.4L4 21l1.1-4A8.4 8.4 0 1121 11.5z"/></svg></div><div class="tx">replies to customers</div></div>
+  <div class="lbl right l4"><div class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg></div><div class="tx">plans your week</div></div>
+  <div class="lbl right l5"><div class="ic"><svg viewBox="0 0 24 24"><path d="M12 3a4 4 0 014 4v3a4 4 0 01-8 0V7a4 4 0 014-4z"/><path d="M6 11a6 6 0 0012 0M12 17v4"/></svg></div><div class="tx">learns how you talk</div></div>
+
+  <div class="kick"><b>[$price].</b> Not per month.</div>
+</div>
+</body>
+</html>

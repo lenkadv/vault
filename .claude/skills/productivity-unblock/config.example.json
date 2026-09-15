@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "unblock_log_file": "REPLACE_WITH_ABSOLUTE_PATH_TO_YOUR_UNBLOCK_LOG_FILE"
+  },
+  "pack_integration": {
+    "plans_folder": null,
+    "next_actions_file": null
+  }
+}

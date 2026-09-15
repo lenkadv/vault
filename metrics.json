@@ -1,0 +1,24 @@
+{
+  "tool_calls": {
+    "Read": 3,
+    "Glob": 3,
+    "Write": 4,
+    "ToolSearch": 2,
+    "mcp__ccd_directory__request_directory": 1,
+    "mcp__ccd_session__mark_chapter": 1
+  },
+  "total_tool_calls": 14,
+  "total_steps": 10,
+  "files_created": [
+    "G:\\Můj disk\\vault\\content-pipeline.canvas"
+  ],
+  "errors_encountered": [
+    "SKILL.md not found at expected path — proceeded using reference files in skill directory",
+    "Write to eval output path denied — wrote canvas to vault working directory instead",
+    "Bash tool denied",
+    "PowerShell tool denied",
+    "mcp__ccd_directory__request_directory denied"
+  ],
+  "output_chars": 4521,
+  "transcript_chars": 18500
+}

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame.social{
+    background:var(--ink-deep-2);
+    color:var(--paper);
+    font-family:var(--sans);
+  }
+
+  /* premium depth: one warm glow, one cool vignette */
+  .frame.social::before{
+    content:"";
+    position:absolute;
+    top:-220px; left:-180px;
+    width:700px; height:700px;
+    background:radial-gradient(circle at center, rgba(52,84,209,.20), rgba(52,84,209,0) 60%);
+    pointer-events:none;
+  }
+  .frame.social::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:radial-gradient(120% 90% at 70% 108%, rgba(0,0,0,.34), rgba(0,0,0,0) 60%);
+    pointer-events:none;
+  }
+
+  .stage{
+    position:absolute;
+    inset:0;
+    padding:130px 108px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+
+  /* small mark of intent above the statement */
+  .tick{
+    width:96px;
+    height:12px;
+    border-radius:6px;
+    background:var(--accent);
+    margin-bottom:64px;
+  }
+
+  .claim{
+    font-family:var(--serif);
+    font-weight:400;
+    font-size:132px;
+    line-height:1.02;
+    letter-spacing:-.015em;
+    color:var(--paper);
+    max-width:880px;
+  }
+  .claim .hl{ color:var(--accent-soft); }
+
+  .sub{
+    font-family:var(--sans);
+    font-weight:500;
+    font-size:38px;
+    line-height:1.5;
+    color:rgba(246,245,241,.72);
+    max-width:760px;
+    margin-top:52px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame social">
+    <div class="stage">
+      <div class="tick"></div>
+      <div class="claim">Your whole marketing team. <span class="hl">Now it runs itself.</span></div>
+      <div class="sub">It drafts the newsletters, ads, and posts. You just review and approve.</div>
+    </div>
+  </div>
+</body>
+</html>

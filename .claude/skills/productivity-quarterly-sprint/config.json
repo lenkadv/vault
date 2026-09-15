@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "onboarded_at": "260823",
+  "output": {
+    "reviews_folder": "G:\\Můj disk\\vault\\quarterly-reviews",
+    "themes_file": "G:\\Můj disk\\vault\\gtd\\quarterly-themes.md",
+    "goals_file_path": "G:\\Můj disk\\vault\\gtd\\goals.md",
+    "state_file": "G:\\Můj disk\\vault\\quarterly-reviews\\.sprint-state.json"
+  },
+  "pack_integration": {
+    "weekly_reviews_folder": "G:\\Můj disk\\vault\\weekly-reviews",
+    "plans_folder": "G:\\Můj disk\\vault\\daily",
+    "brain_dumps_folder": "G:\\Můj disk\\vault\\Brain Dumps",
+    "meeting_recaps_folder": null,
+    "decisions_log_file": null,
+    "decision_journal_folder": "G:\\Můj disk\\vault\\decisions",
+    "reading_digests_folder": "G:\\Můj disk\\vault\\reading-digests",
+    "calendar_audits_folder": "G:\\Můj disk\\vault\\gtd\\calendar-audits",
+    "unblock_log_file": "G:\\Můj disk\\vault\\gtd\\unblock-log.md",
+    "contacts_index_file": null,
+    "note_synthesis_folder": null,
+    "email_digests_folder": null
+  },
+  "preferences": {
+    "suggest_scheduled_reminders": true
+  }
+}

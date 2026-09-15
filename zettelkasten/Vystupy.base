@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("zettelkasten/vystupy")
+views:
+  - type: table
+    name: Výstupy
+    order:
+      - file.name
+      - typ
+      - instituce
+      - datum
+      - tags
+      - kde_najit

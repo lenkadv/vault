@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame.social{
+    font-family:var(--sans);
+    background:
+      radial-gradient(120% 90% at 50% 0%, #fbf6ee 0%, var(--paper) 55%, var(--paper-2) 100%);
+    display:flex;flex-direction:column;justify-content:center;
+    padding:120px 104px;
+  }
+
+  .kick{
+    font-weight:700;font-size:28px;letter-spacing:5px;text-transform:uppercase;
+    color:var(--ink-deep);margin-bottom:56px;
+  }
+
+  .stmt{
+    font-family:var(--serif);color:var(--ink);
+    font-size:150px;line-height:1.02;letter-spacing:-3px;
+  }
+
+  /* the redaction: an accent bar over the hidden word, with a ghost of text under it */
+  .redact{
+    position:relative;display:inline-block;
+    color:transparent;background:var(--accent);
+    border-radius:10px;padding:0 26px;margin:0 6px;
+    box-shadow:0 14px 34px rgba(52,84,209,.30);
+    transform:rotate(-1.5deg);
+  }
+  .redact::after{
+    content:"?";position:absolute;inset:0;
+    display:flex;align-items:center;justify-content:center;
+    color:rgba(255,255,255,.92);font-family:var(--serif);
+    font-size:120px;letter-spacing:0;
+  }
+
+  .foot{
+    margin-top:72px;
+    font-weight:600;font-size:40px;letter-spacing:.2px;color:var(--muted);
+    max-width:780px;
+  }
+  .foot b{color:var(--ink);font-weight:800;}
+</style>
+</head>
+<body>
+<div class="frame social">
+  <div class="kick">Guess what it replaces</div>
+  <div class="stmt">
+    One AI does<br>
+    the job of a<br>
+    whole <span class="redact">marketing</span><br>
+    team.
+  </div>
+  <div class="foot">You already have everything you need. <b>It just runs differently now.</b></div>
+</div>
+</body>
+</html>

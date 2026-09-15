@@ -1,0 +1,4 @@
+{
+  "_note": "GrowOS machine settings. This file is yours to edit; the AI is blocked from changing anything under system/. Update it in your own editor and the Doctor will list it as a customization that updates preserve.",
+  "isolation": "strict"
+}

@@ -1,0 +1,150 @@
+---
+platform: Instagram Reel + Facebook
+status: 📝 ready to record
+type: Art for English #2 — Vermeer, There is/are
+length: ~45 sekund
+---
+
+# Vermeer Reel — Production Guide
+
+---
+
+## PŘED NATÁČENÍM
+
+**Připrav si:**
+- Obraz stažený ve vysokém rozlišení na disk (viz odkaz níže) — použije se ve střihu
+  → rijksmuseum.nl/en/collection/SK-A-2344 (tlačítko "Download" vpravo nahoře, největší rozlišení)
+- Script níže — na obrazovce mimo záběr nebo vytištěný
+- Telefon nabitý, DND zapnutý
+
+**Setup kamery:**
+- Vertikálně (na výšku) — 9:16 pro Reels
+- Na stativu nebo opřený — ne v ruce
+- Framing: od ramen nahoru, uprostřed záběru
+
+**Světlo:**
+- Přirozené světlo z okna zpředu (okno před tebou, ne za tebou)
+- Pokud svítí přímé slunce, použij záclonu jako difuzér
+
+**Pozadí:**
+- Čisté, neutrální — zeď nebo police s knihami
+
+---
+
+## SCRIPT (~45 sekund)
+
+> Mluvit přirozeně, konverzačním tempem. U frází mírně zpomalit.
+
+---
+
+**[0–3s: CUT NA MLÉKAŘKU — přidává se ve střihu]**
+
+*(voiceover nebo ticho přes obraz — viz varianta níže)*
+
+---
+
+**[Lenka mluví do kamery]**
+
+"Vermeer strávil malováním tohoto obrazu dva roky. Žena lije mléko ze džbánu - a jinak o ní nic nevíme. Je to jedno z nejslavnějších děl v Rijksmuseu v Amsterodamu.
+
+Nás dnes zajímá kvůli angličtině, protože i když se na obraze nic moc neděje, je tam hodně věcí, pro které se hodí vazba there is - there are. Koukejte se se mnou a opakujte:"
+
+---
+
+**[mírně pomalejší tempo, zřetelná výslovnost]**
+
+"*There is bread on the table.* Na stole leží chléb.
+*There is a window on the left side of the room.* Na levé straně místnosti je okno.
+*There are tiles on the wall.* Na zdi jsou dlaždičky."
+
+---
+
+"*There is* použijete u jedné věci, *there are* u víc věcí. A to opakování nahlas, to mu se říká shadowing a je to moje oblíbená technika, jak se učit mluvit anglicky, aniž byste museli šprtat slovíčka a gramatiku."
+
+---
+
+*(přímý pohled do kamery)*
+"Budeme to spolu trénovat zase příště. Zatím zkuste popsat svůj pokoj. *There is a...*"
+
+---
+
+## VARIANTA SCRIPTU: VOICEOVER PŘES OBRAZ
+
+Pokud chceš začít přímo obrazem (silnější vizuální hook):
+
+**[0–4s: obraz na celé obrazovce]**
+*(říkáš do kamery, záběr se přidá ve střihu)*
+"Vermeer strávil malováním tohoto obrazu dva roky."
+
+**[4s: cut na tebe]**
+"Žena leje mléko do mísy, nikdo si nikdy nezapsal, jak se jmenovala..."
+*(pokračuj scriptem výše)*
+
+---
+
+## POST-PRODUKCE
+
+**Krok 1 — Záběr obrazu:**
+Obraz stačí vložit jako video clip na začátek (3–4 sekundy, statický obrázek). Zvládne to jakýkoliv editor i CapCut.
+
+Konkrétně v CapCut:
+- Nový projekt → přidej obrázek Mlékařky → nastav délku na 3s → přidej svůj záznam
+- Volitelně: jemný zoom efekt na obraz (Ken Burns) — CapCut to má pod "Animation"
+
+Pokud chceš víc střihů (obraz se vrací při každé frázi): použít `/video-edit`
+
+**Krok 2 — Titulky:**
+- Spustit `/video-subtitle`
+- Styl: word-by-word, klíčová slova zvýrazněná zlatě `#FFBD4A`
+- Anglické fráze nechat anglicky, český překlad je v mluveném slově
+
+**Krok 3 — Cover image:**
+- Screenshot z úvodního záběru Mlékařky nebo z tebe při mluvení
+- Nastavit v Instagramu jako thumbnail Reelu
+
+**Krok 4 — Export:**
+MP4, 1080×1920, 30fps
+
+**Krok 5 — Uložit hotový soubor jako:**
+`lcenglish/output/video/2026-04-23-vermeer-reel-final.mp4`
+
+---
+
+**POZNÁMKA K BUDOUCÍM DÍLŮM:**
+Pro jednodušší workflow od druhého dílu dál zvážit green screen — obraz by mohl být vidět celou dobu za tebou a střih by odpadl. Pro tenhle první test stačí jednoduchý cut.
+
+---
+
+## CAPTION — INSTAGRAM
+
+```
+Johannes Vermeer strávil malováním téhle ženy, která přelévá mléko, dva roky.
+
+Nás ale zajímá kvůli angličtině - a třem frázím, na které dva roky potřebovat nebudete.
+
+Opakujte nahlas:
+→ There is bread on the table.
+→ There is a window on the left side of the room.
+→ There are tiles on the wall.
+
+Téhle technice - opakování nahlas po mluvčím — se říká shadowing. Je skvělá!
+
+Zkuste popsat, co je kolem vás. There is a... 👇
+```
+
+---
+
+## CAPTION — FACEBOOK
+
+Nepostovat — Lenka testuje pouze IG.
+
+---
+
+## CHECKLIST PŘED PUBLIKOVÁNÍM
+
+- [x] Cover image: `lcenglish/assets/photos/2026-04-28-ig-vermeer-reel-cover.jpg`
+- [x] Video: `lcenglish/output/video/2026-04-28-vermeer-reel-final.mp4`
+- [ ] Titulky synchronizované
+- [ ] Caption zkopírovaný (viz výše)
+- [ ] Cover nastavený v Instagramu
+- [ ] Zveřejněno na IG

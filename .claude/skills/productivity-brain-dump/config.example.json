@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "dumps_folder": "REPLACE_WITH_ABSOLUTE_PATH_TO_YOUR_BRAIN_DUMPS_FOLDER",
+    "next_actions_file": "REPLACE_WITH_ABSOLUTE_PATH_TO_YOUR_NEXT_ACTIONS_FILE",
+    "inbox_file_path": null
+  },
+  "goals": {
+    "goals_file_path": null
+  },
+  "preferences": {
+    "ask_to_plan_after_dump": true,
+    "enrich_tasks": true
+  }
+}

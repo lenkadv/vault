@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "from": "C:\\Users\\Lenka\\GrowOS-migration\\growos-0.1-backup-260906\\tadylenka",
+  "business": "tadylenka",
+  "when": "2026-09-06",
+  "files": 247,
+  "fingerprint": "802cdb5f5afb6629e7fe5efd201fdf6d7706db78943d417eefdb87dd40e60171",
+  "note": "Everything from the old folder is under original/, byte for byte. Nothing here claims a file was ever published."
+}

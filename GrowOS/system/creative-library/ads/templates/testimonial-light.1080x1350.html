@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=1080,initial-scale=1">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .stage{width:1080px;height:1350px;position:relative;overflow:hidden;
+    background:linear-gradient(160deg,#fbf7f1 0%,var(--paper-2) 100%);
+    font-family:var(--sans);
+    display:flex;align-items:center;justify-content:center;}
+  /* soft accent glow */
+  .glow1{position:absolute;width:560px;height:560px;border-radius:50%;top:-220px;right:-160px;
+    background:radial-gradient(circle,rgba(52,84,209,.16),rgba(52,84,209,0) 70%);}
+  .glow2{position:absolute;width:620px;height:620px;border-radius:50%;bottom:-260px;left:-200px;
+    background:radial-gradient(circle,rgba(27,35,51,.14),rgba(27,35,51,0) 70%);}
+  .card{position:relative;width:856px;background:#ffffff;border-radius:40px;
+    box-shadow:0 40px 90px rgba(20,15,8,.13),0 6px 20px rgba(20,15,8,.06);
+    padding:78px 76px 70px;}
+  /* verified pill */
+  .pill{display:inline-flex;align-items:center;gap:12px;background:var(--paper-2);color:var(--ink-deep);
+    font-weight:700;font-size:25px;letter-spacing:.2px;padding:14px 26px 14px 20px;border-radius:100px;}
+  .pill svg{display:block;}
+  /* stars */
+  .stars{display:flex;gap:10px;margin-top:46px;}
+  .stars svg{display:block;}
+  .rate{margin-top:18px;color:#9a8f80;font-size:25px;font-weight:600;letter-spacing:.3px;}
+  /* quote */
+  .quote{margin-top:34px;font-family:var(--serif);color:#211a12;
+    font-size:64px;line-height:1.16;letter-spacing:-.5px;}
+  .quote .hl{color:var(--accent);}
+  /* person */
+  .person{margin-top:62px;display:flex;align-items:center;gap:26px;}
+  .avatar{width:118px;height:118px;border-radius:50%;flex:0 0 118px;overflow:hidden;
+    box-shadow:0 0 0 4px #fff,0 0 0 8px var(--accent-soft),0 12px 24px rgba(20,15,8,.18);}
+  .avatar img{width:100%;height:100%;object-fit:cover;object-position:50% 28%;}
+  .who .name{font-weight:700;font-size:39px;color:#1c150d;letter-spacing:-.2px;}
+  .who .role{margin-top:7px;font-size:27px;color:#8a7f70;font-weight:500;}
+  /* footer */
+  .foot{margin-top:64px;display:flex;align-items:center;justify-content:space-between;
+    border-top:1px solid #efe7da;padding-top:30px;}
+  .mark{font-weight:800;font-size:29px;letter-spacing:.4px;color:#1c150d;}
+  .src{font-size:24px;color:#b1a796;font-weight:600;}
+</style></head>
+<body><div class="stage">
+  <div class="glow1"></div><div class="glow2"></div>
+  <div class="card">
+    <span class="pill">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><path d="M12 2l2.5 2.2 3.3-.3.9 3.2 2.8 1.8-1.5 3 1.5 3-2.8 1.8-.9 3.2-3.3-.3L12 22l-2.5-2.2-3.3.3-.9-3.2L2.5 15l1.5-3-1.5-3 2.8-1.8.9-3.2 3.3.3L12 2z" fill="var(--ink-deep)"/><path d="M8.5 12.2l2.4 2.4 4.6-4.8" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Verified customer
+    </span>
+
+    <div class="stars">
+      <svg width="50" height="50" viewBox="0 0 24 24"><path d="M12 2l2.95 5.98 6.6.96-4.77 4.65 1.13 6.57L12 17.02 6.09 20.16l1.13-6.57L2.45 8.94l6.6-.96L12 2z" fill="var(--accent)"/></svg>
+      <svg width="50" height="50" viewBox="0 0 24 24"><path d="M12 2l2.95 5.98 6.6.96-4.77 4.65 1.13 6.57L12 17.02 6.09 20.16l1.13-6.57L2.45 8.94l6.6-.96L12 2z" fill="var(--accent)"/></svg>
+      <svg width="50" height="50" viewBox="0 0 24 24"><path d="M12 2l2.95 5.98 6.6.96-4.77 4.65 1.13 6.57L12 17.02 6.09 20.16l1.13-6.57L2.45 8.94l6.6-.96L12 2z" fill="var(--accent)"/></svg>
+      <svg width="50" height="50" viewBox="0 0 24 24"><path d="M12 2l2.95 5.98 6.6.96-4.77 4.65 1.13 6.57L12 17.02 6.09 20.16l1.13-6.57L2.45 8.94l6.6-.96L12 2z" fill="var(--accent)"/></svg>
+      <svg width="50" height="50" viewBox="0 0 24 24"><path d="M12 2l2.95 5.98 6.6.96-4.77 4.65 1.13 6.57L12 17.02 6.09 20.16l1.13-6.57L2.45 8.94l6.6-.96L12 2z" fill="var(--accent)"/></svg>
+    </div>
+    <div class="rate">5.0 out of 5</div>
+
+    <div class="quote">This is <span class="hl">exactly</span> what my business needed.</div>
+
+    <div class="person">
+      <div class="avatar"><img src="assets/placeholder-avatar.svg" alt="Customer photo"></div>
+      <div class="who">
+        <div class="name">Customer name</div>
+        <div class="role">What they do &middot; Where they're from</div>
+      </div>
+    </div>
+
+    <div class="foot">
+      <div class="mark">[Your Brand]</div>
+      <div class="src">Customer testimonial</div>
+    </div>
+  </div>
+</div></body></html>

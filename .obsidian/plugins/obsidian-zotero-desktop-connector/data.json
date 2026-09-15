@@ -1,0 +1,20 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "zettelkasten/literature",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Zettelkasten",
+      "outputPathTemplate": "zettelkasten/literature/LN – {{citekey}}.md",
+      "imageOutputPathTemplate": "assets/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "noteContentTemplate": "# LN – {{title}}\n**Zdroj:** {% if authors %}{% for a in authors %}{{a.lastName}}{% if a.firstName %}, {{a.firstName}}{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}{% else %}?{% endif %}, {{title}}, {{date}}\n**Datum čtení:** \n**Tagy:** #\n\n## Hlavní myšlenky (vlastními slovy)\n\n## Přímé citace (s číslem strany)\n\n## Otázky a reakce\n\n## Permanent notes, které z toho vzniknou\n"
+    }
+  ],
+  "citeSuggestTemplate": "[[LN – {{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

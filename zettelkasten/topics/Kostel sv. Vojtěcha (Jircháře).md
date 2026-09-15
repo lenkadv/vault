@@ -1,0 +1,22 @@
+# Kostel sv. Vojtěcha (Jircháře)
+
+Kostel sv. Vojtěcha na Novém Městě pražském (Jircháře) — obecné informace o stavbě, jejích přestavbách a osudech mobiliáře, nezávisle na otázce autorství či datace konkrétního obrazu sv. Vojtěcha na Zelené hoře.
+
+**Zdroje k tématu:** viz Linked mentions dole.
+
+## Co víme
+
+- Středověký kostel sv. Vojtěcha je doložen písemně poprvé v roce 1318. ([[POZ – Baťková kostel doložen 1318]], [[LN – batkovaUmeleckePamatkyPrahy1998|batkovaUmeleckePamatkyPrahy1998]])
+- František Ekert, který v době puristických úprav působil jako kaplan u sv. Vojtěcha, v Pamětní knize pečlivě zdokumentoval stav kostela i postup regotizačních prací. ([[POZ – Ekert dokumentace regotizace v Pamětní knize]], [[LN – pametniKniha1827|pametniKniha1827]])
+- V presbytáři stál dle Ekertova zápisu až do demontáže v r. 1875 oltář z r. 1693 a „nad svatostánkem byl veliký obraz na plátně představující sv. Vojtěcha an stoje na Zelené hoře pravicí žehná českou zemi, na niž hojný déšť z temných mračen řine“. ([[POZ – Pamětní kniha popis obrazu do 1875]], [[LN – pametniKniha1827|pametniKniha1827]])
+- Podrobnou zprávu o regotizaci kostela přináší Josef Füssel v r. 1931. ([[POZ – Füssel 1931 zpráva o regotizaci]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- O odstranění barokního oltáře bylo rozhodnuto v roce 1871 zvláštní komisí ustanovenou městskou radou. ([[POZ – Füssel komise 1871 rozhodnutí o odstranění]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- K odstranění barokního oltáře došlo v r. 1875. ([[POZ – Füssel demontáž 1875]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- Malíři Petru Maixnerovi bylo již předtím zadáno zhotovení tří nových oltářních obrazů pro regotizovaný kostel, za které mu bylo vyplaceno celkem 1000 zl. ([[POZ – Füssel Maixner tři nové obrazy 1000 zl]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- Z pramene, na který se Preiss odvolává, přitom jasně vyplývá, že o odstranění barokního oltáře a obrazu bylo rozhodnuto komisí již v roce 1871, zatímco posudek Maixnera a Barvitia z roku 1875 sloužil až k ocenění plátna, o jehož odprodej tehdy požádala Jednota paní sv. Anny (později nazývaná Ernestinum). ([[POZ – Füssel skutečná chronologie 1871 vs 1875]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- František Ekert, který jako kaplan kostel sv. Vojtěcha důvěrně znal a měl přístup k jeho archivním materiálům, se historii chrámu věnuje detailně ve svých Posvátných místech král. hl. města Prahy. ([[POZ – Ekert detailní historie chrámu]], [[LN – ekertPosvatnaMistaKral1884|ekertPosvatnaMistaKral1884]])
+- Ekert popisuje zásadní barokní přestavbu kostela sv. Vojtěcha, iniciovanou farářem Boleluckým a dokončenou jeho nástupcem Matějem Machtem z Löwenthalu v r. 1693. ([[POZ – Ekert přestavba dokončena 1693]], [[LN – ekertPosvatnaMistaKral1884|ekertPosvatnaMistaKral1884]])
+- Ekert popisuje zřízení oltáře sv. Anny u kruchty v r. 1698, oltáře Bolestné Matky Boží vedle kazatelny v r. 1700, či oltáře v kapli sv. Kříže v r. 1717 — o novém hlavním oltáři z roku 1718 se ale nezmiňuje vůbec. ([[POZ – Ekert boční oltáře 1698 1700 1717]], [[LN – ekertPosvatnaMistaKral1884|ekertPosvatnaMistaKral1884]])
+- V korespondenci ohledně prodeje oltáře v r. 1875 se objevuje, že „mnoho dílů [oltáře] scházelo a všechno velice poroucháno bylo“. ([[POZ – Füssel korespondence mnoho dílů scházelo]], [[LN – fusselRegotisaceKostelaSv1931|fusselRegotisaceKostelaSv1931]])
+- Hammerschmidt popisuje oltář: „Nahoře je vyobrazen Bůh Otec mezi oblaky a anděly, obklopen zlatě zářícími paprsky, pravou rukou uděluje požehnání, na hlavě má zlatou korunu, pod kterou jsou vidět krásné zlaté ozdoby. Na pravé straně stojí socha svatého Václava, patrona českého království, nalevo svatý Florián. Pod nimi níže stojí dva sloupy, umělecky namalované tak, že napodobují mramorový kámen; jsou ozdobené zlatou révou s listy a hrozny. Mezi nimi stojí sochy – napravo svatý Petr, nalevo svatý Pavel.“ ([[POZ – Hammerschmidt popis oltáře Bůh Otec]], [[LN – hammerschmidtProdromusGloriaePragenae1723|hammerschmidtProdromusGloriaePragenae1723]])
+- Dobový tisk přináší zprávu o vysvěcení kaple hradčanského ústavu arcibiskupem Schwarzenbergem v r. 1876 — právě tam byl přestěhován oltář od sv. Vojtěcha, který je „marmorovaný do červenošeda a zdoben pozlacenými sochami sv. Petra a Pavla“. ([[POZ – Bohemia 1876 barevnost oltáře]], [[LN – idiotenAnstaltBohemia1876|idiotenAnstaltBohemia1876]])

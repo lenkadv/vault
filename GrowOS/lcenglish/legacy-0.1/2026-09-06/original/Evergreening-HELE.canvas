@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a5be7dd6b01c86f4","type":"text","text":"WebinarKit","x":-320,"y":-400,"width":250,"height":60,"color":"5"},
+		{"id":"bec3312cfe795a08","type":"text","text":"Sales  Page se slevou","x":-720,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"1977db5dc7172d50","type":"text","text":"Facebook","x":-720,"y":-620,"width":250,"height":60,"color":"5"},
+		{"id":"c89190f07e8c07ef","type":"text","text":"AutomateHero","x":345,"y":-180,"width":250,"height":60,"color":"5"},
+		{"id":"c1ac38fe3e7b55be","type":"text","text":"reklama","x":-720,"y":-680,"width":250,"height":60,"color":"3"},
+		{"id":"0ce3363ca10e49d6","type":"text","text":"posílá maily před webinářem","x":-320,"y":-460,"width":250,"height":60,"color":"3"},
+		{"id":"d3e4fc82f515da8f","type":"text","text":"odpočítává čas bonusu z webináře","x":345,"y":-120,"width":250,"height":60,"color":"3"},
+		{"id":"7562188907e8e367","type":"text","text":"Drip","x":400,"y":-620,"width":250,"height":60,"color":"5"},
+		{"id":"308fd26f0eb00c70","type":"text","text":"posílá maily po webináři","x":400,"y":-540,"width":250,"height":60,"color":"3"},
+		{"id":"e94269e56cdc90ba","type":"text","text":"Sales Page stálá","x":-720,"y":120,"width":250,"height":60,"color":"6"},
+		{"id":"a58b6cbc3fb22530","type":"text","text":"Registration Page","x":-720,"y":-310,"width":250,"height":60,"color":"6"},
+		{"id":"9e4db717e0883caf","x":-720,"y":-250,"width":250,"height":60,"color":"6","type":"text","text":"Thank You Page"}
+	],
+	"edges":[
+		{"id":"a20fe9adf01ebdfb","fromNode":"1977db5dc7172d50","fromSide":"bottom","toNode":"a58b6cbc3fb22530","toSide":"top"},
+		{"id":"2a188e8f3a022fb8","fromNode":"a58b6cbc3fb22530","fromSide":"right","toNode":"a5be7dd6b01c86f4","toSide":"left"},
+		{"id":"221dbec00f97c886","fromNode":"a5be7dd6b01c86f4","fromSide":"bottom","toNode":"bec3312cfe795a08","toSide":"right","label":"odkazuje na Sales Page během webináře"},
+		{"id":"cd353d31bb2fc453","fromNode":"a5be7dd6b01c86f4","fromSide":"right","toNode":"7562188907e8e367","toSide":"left","label":"1. automaticky: odešle email a přidá tag\n2. lze pomocí webhooku poslat další info (čas registrace, jméno atd.)"},
+		{"id":"0ac03df52c0c3384","fromNode":"c89190f07e8c07ef","fromSide":"left","toNode":"bec3312cfe795a08","toSide":"right","label":"nastavuje odpočítávání"},
+		{"id":"2d4ccf66ffa5b20e","fromNode":"bec3312cfe795a08","fromSide":"bottom","toNode":"e94269e56cdc90ba","toSide":"top","label":"po skončení lhůty"},
+		{"id":"4787c887fabfcf6f","fromNode":"7562188907e8e367","fromSide":"bottom","toNode":"c89190f07e8c07ef","toSide":"top","fromEnd":"arrow","label":"Counter triggered when tag applied"}
+	]
+}

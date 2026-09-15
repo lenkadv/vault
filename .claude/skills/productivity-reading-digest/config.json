@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-09-05",
+  "output": {
+    "digests_folder": "G:\\Můj disk\\vault\\reading-digests"
+  },
+  "sources": {
+    "reading_list_file": null,
+    "newsletter_gmail_label": null,
+    "use_read_later_connector": false
+  },
+  "pack_integration": {
+    "next_actions_file": "G:\\Můj disk\\vault\\gtd\\next-actions.md",
+    "goals_file_path": "G:\\Můj disk\\vault\\gtd\\goals.md"
+  },
+  "preferences": {
+    "max_articles_per_digest": 12,
+    "process_action": "mark_done"
+  }
+}

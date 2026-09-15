@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"g-ideas","type":"group","label":"1. Ideas","x":-50,"y":-50,"width":500,"height":800,"color":"5"},
+		{"id":"g-scripting","type":"group","label":"2. Scripting / Writing","x":550,"y":-50,"width":500,"height":800,"color":"3"},
+		{"id":"g-production","type":"group","label":"3. Production","x":1150,"y":-50,"width":500,"height":800,"color":"2"},
+		{"id":"g-review","type":"group","label":"4. Review & Edit","x":1750,"y":-50,"width":500,"height":800,"color":"1"},
+		{"id":"g-published","type":"group","label":"5. Published","x":2350,"y":-50,"width":500,"height":800,"color":"4"},
+		{"id":"idea-yt-1","type":"text","x":0,"y":0,"width":400,"height":200,"color":"5","text":"## YouTube Idea\n**Title:** _(working title)_\n**Hook:** \n**Target audience:** \n**Estimated length:** "},
+		{"id":"idea-yt-2","type":"text","x":0,"y":220,"width":400,"height":120,"text":"## YouTube Idea\n**Title:** _(working title)_\n**Hook:** \n**Target audience:** "},
+		{"id":"idea-nl-1","type":"text","x":0,"y":360,"width":400,"height":200,"color":"5","text":"## Newsletter Idea\n**Subject line:** _(draft)_\n**Core insight:** \n**CTA:** \n**Related video:** "},
+		{"id":"idea-nl-2","type":"text","x":0,"y":580,"width":400,"height":120,"text":"## Newsletter Idea\n**Subject line:** _(draft)_\n**Core insight:** \n**CTA:** "},
+		{"id":"script-yt","type":"text","x":600,"y":0,"width":400,"height":280,"color":"3","text":"## YouTube Script\n**Status:** drafting\n\n### Structure\n- [ ] Hook (0:00–0:30)\n- [ ] Intro / problem\n- [ ] Main content\n- [ ] CTA + outro\n\n**B-roll notes:** \n**Thumbnail concept:** "},
+		{"id":"script-nl","type":"text","x":600,"y":310,"width":400,"height":280,"color":"3","text":"## Newsletter Draft\n**Status:** drafting\n\n### Structure\n- [ ] Subject line (A/B options)\n- [ ] Opening hook\n- [ ] Body / insight\n- [ ] CTA\n- [ ] PS line\n\n**Word count target:** ~600–900"},
+		{"id":"production-yt","type":"text","x":1200,"y":0,"width":400,"height":300,"color":"2","text":"## YouTube Production\n**Status:** recording / editing\n\n### Checklist\n- [ ] Record footage\n- [ ] Record voiceover / B-roll\n- [ ] Edit in DaVinci / Premiere\n- [ ] Add captions\n- [ ] Create thumbnail\n- [ ] Write description + tags\n- [ ] Schedule upload"},
+		{"id":"production-nl","type":"text","x":1200,"y":330,"width":400,"height":220,"color":"2","text":"## Newsletter Production\n**Status:** finalizing\n\n### Checklist\n- [ ] Paste into email platform\n- [ ] Add images / formatting\n- [ ] Test send to self\n- [ ] Check links\n- [ ] Set send time"},
+		{"id":"review-yt","type":"text","x":1800,"y":0,"width":400,"height":250,"color":"1","text":"## YouTube Review\n**Status:** review\n\n### Quality Check\n- [ ] Watch full cut end-to-end\n- [ ] Audio levels OK\n- [ ] Captions accurate\n- [ ] Thumbnail eye-catching\n- [ ] Description SEO'd\n- [ ] Cards / end screen set"},
+		{"id":"review-nl","type":"text","x":1800,"y":280,"width":400,"height":200,"color":"1","text":"## Newsletter Review\n**Status:** review\n\n### Quality Check\n- [ ] Subject line punchy?\n- [ ] Mobile preview OK\n- [ ] No broken links\n- [ ] Plain-text version\n- [ ] Unsubscribe link present"},
+		{"id":"published-yt","type":"text","x":2400,"y":0,"width":400,"height":220,"color":"4","text":"## Published: YouTube\n**Published:** YYMMDD\n**URL:** \n**Views (7d):** \n**Engagement:** \n\n### Repurpose\n- [ ] Clip for Shorts\n- [ ] Quote card for IG\n- [ ] Thread for X"},
+		{"id":"published-nl","type":"text","x":2400,"y":250,"width":400,"height":220,"color":"4","text":"## Published: Newsletter\n**Sent:** YYMMDD\n**Issue #:** \n**Open rate:** \n**CTR:** \n\n### Repurpose\n- [ ] Post key insight on LinkedIn\n- [ ] Archive on website\n- [ ] Feed into future video idea"},
+		{"id":"cross-pollinate","type":"text","x":600,"y":620,"width":400,"height":120,"text":"### Cross-pollination tip\nNewsletter insights -> YouTube angles\nYouTube comments -> Newsletter topics"}
+	],
+	"edges":[
+		{"id":"e-yt-idea-script","fromNode":"idea-yt-1","toNode":"script-yt","fromSide":"right","toSide":"left","label":"develop script"},
+		{"id":"e-yt2-script","fromNode":"idea-yt-2","toNode":"script-yt","fromSide":"right","toSide":"left","label":"develop script"},
+		{"id":"e-nl-idea-draft","fromNode":"idea-nl-1","toNode":"script-nl","fromSide":"right","toSide":"left","label":"write draft"},
+		{"id":"e-nl2-draft","fromNode":"idea-nl-2","toNode":"script-nl","fromSide":"right","toSide":"left","label":"write draft"},
+		{"id":"e-script-production-yt","fromNode":"script-yt","toNode":"production-yt","fromSide":"right","toSide":"left","label":"record & edit"},
+		{"id":"e-script-production-nl","fromNode":"script-nl","toNode":"production-nl","fromSide":"right","toSide":"left","label":"format & schedule"},
+		{"id":"e-production-review-yt","fromNode":"production-yt","toNode":"review-yt","fromSide":"right","toSide":"left","label":"quality check"},
+		{"id":"e-production-review-nl","fromNode":"production-nl","toNode":"review-nl","fromSide":"right","toSide":"left","label":"quality check"},
+		{"id":"e-review-publish-yt","fromNode":"review-yt","toNode":"published-yt","fromSide":"right","toSide":"left","label":"publish"},
+		{"id":"e-review-publish-nl","fromNode":"review-nl","toNode":"published-nl","fromSide":"right","toSide":"left","label":"send"},
+		{"id":"e-yt-feeds-nl","fromNode":"idea-yt-1","toNode":"idea-nl-1","fromSide":"bottom","toSide":"top","label":"inspires newsletter angle","color":"6"},
+		{"id":"e-nl-feeds-yt","fromNode":"idea-nl-2","toNode":"idea-yt-2","fromSide":"top","toSide":"bottom","label":"newsletter response -> video","color":"6"},
+		{"id":"e-published-yt-repurpose","fromNode":"published-yt","toNode":"published-nl","fromSide":"bottom","toSide":"top","label":"repurpose content","color":"3"}
+	]
+}

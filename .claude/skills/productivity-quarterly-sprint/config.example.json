@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "reviews_folder": "REPLACE_WITH_ABSOLUTE_PATH_TO_QUARTERLY_REVIEWS_FOLDER",
+    "themes_file": "REPLACE_WITH_ABSOLUTE_PATH_TO_QUARTERLY_THEMES_FILE",
+    "goals_file_path": "REPLACE_WITH_ABSOLUTE_PATH_TO_GOALS_FILE",
+    "state_file": "REPLACE_WITH_ABSOLUTE_PATH_TO_SPRINT_STATE_FILE"
+  },
+  "pack_integration": {
+    "weekly_reviews_folder": null,
+    "plans_folder": null,
+    "brain_dumps_folder": null,
+    "meeting_recaps_folder": null,
+    "decisions_log_file": null,
+    "decision_journal_folder": null,
+    "reading_digests_folder": null,
+    "calendar_audits_folder": null,
+    "unblock_log_file": null,
+    "contacts_index_file": null,
+    "note_synthesis_folder": null,
+    "email_digests_folder": null
+  },
+  "preferences": {
+    "suggest_scheduled_reminders": true
+  }
+}

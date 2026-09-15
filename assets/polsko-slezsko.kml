@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Polsko — slezské baroko + gotika</name>
+    <description>Výlet se Štěpánkou</description>
+
+    <Placemark>
+      <name>Kladsko (Kłodzko)</name>
+      <description>Pevnost, barokní most, základna pro okolí</description>
+      <Point><coordinates>16.6575,50.4338,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Krzeszów</name>
+      <description>Benediktinský klášter — klenot slezského baroka</description>
+      <Point><coordinates>16.0585,50.7338,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Legnicke Pole (Legnickie Pole)</name>
+      <description>Benediktinský klášter na místě bitvy 1241</description>
+      <Point><coordinates>16.2428,51.1444,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Legnica</name>
+      <description>Gotický kostel sv. Jana (Piastovské mauzoleum), kostel sv. Petra a Pavla</description>
+      <Point><coordinates>16.1619,51.2070,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vratislav (Wrocław)</name>
+      <description>Ostrów Tumski (gotická katedrála, kolegiátní kostely), kostel sv. Alžběty, Aula Leopoldina</description>
+      <Point><coordinates>17.0385,51.1079,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Třebnice (Trzebnica)</name>
+      <description>Cisterciacký klášter se sv. Hedvikou — gotický tympanon portálu</description>
+      <Point><coordinates>17.0633,51.3086,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lubiąż</name>
+      <description>Obří cisterciacký klášter na Odře — jeden z největších barokních komplexů ve střední Evropě</description>
+      <Point><coordinates>16.470755,51.263004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Świdnica</name>
+      <description>Kostel míru (UNESCO) + gotická katedrála sv. Stanislava a Václava</description>
+      <Point><coordinates>16.4869,50.8488,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jawor</name>
+      <description>Kostel míru (UNESCO) — méně turistický než Świdnica</description>
+      <Point><coordinates>16.1981,51.0542,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wambierzyce</name>
+      <description>"Slezský Jeruzalém" — poutní areál s křížovou cestou na kopci</description>
+      <Point><coordinates>16.4379,50.4800,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Henryków</name>
+      <description>Cisterciacký klášter, Jindřichovská kniha (první věta v polštině)</description>
+      <Point><coordinates>17.0103,50.6533,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bardo</name>
+      <description>Poutní kostel nad řekou — cestou z Kladska</description>
+      <Point><coordinates>16.741,50.506,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paczków</name>
+      <description>"Polský Carcassonne" — opevněné středověké město, gotický kostel-pevnost sv. Jana</description>
+      <Point><coordinates>17.0031,50.4678,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nysa (Neisse)</name>
+      <description>Gotická katedrála sv. Jakuba a Anežky</description>
+      <Point><coordinates>17.3342,50.4742,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bolków</name>
+      <description>Zřícenina gotického hradu na skále — cestou mezi Krzeszówem a Legnicí</description>
+      <Point><coordinates>16.0979,50.9218,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

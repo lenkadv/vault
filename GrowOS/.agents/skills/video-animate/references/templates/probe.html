@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en" data-resolution="custom">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=320, height=180" />
+    <title>Probe</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 320px;
+        height: 180px;
+        overflow: hidden;
+        background: #0b0f14;
+      }
+
+      #root {
+        position: relative;
+        width: 320px;
+        height: 180px;
+        overflow: hidden;
+      }
+
+      .bg-fill {
+        position: absolute;
+        inset: 0;
+        background: #0b0f14;
+      }
+
+      #dot {
+        position: absolute;
+        left: 145px;
+        top: 65px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background: #ffffff;
+        opacity: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="probe"
+      data-start="0"
+      data-width="320"
+      data-height="180"
+      data-duration="1"
+    >
+      <div class="bg-fill"></div>
+      <div
+        id="dot"
+        class="clip"
+        data-start="0"
+        data-duration="1"
+        data-track-index="0"
+      ></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // The cheapest possible real render: one dot, fade in, fade out.
+      // This exercises the full pipeline - browser launch, frame capture,
+      // encode - at the lowest cost in pixels and seconds. See
+      // references/setup.md section 4: a green probe is the ONLY thing
+      // that unlocks render-mode for the rest of a job's session.
+      tl.to("#dot", { opacity: 1, duration: 0.4, ease: "power1.out" }, 0);
+      tl.to("#dot", { opacity: 0, duration: 0.4, ease: "power1.in" }, 0.6);
+
+      window.__timelines["probe"] = tl;
+    </script>
+  </body>
+</html>

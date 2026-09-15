@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+html,body{overflow:hidden;-webkit-font-smoothing:antialiased;}
+.frame{width:1080px;height:1080px;position:relative;overflow:hidden;
+  background:radial-gradient(120% 100% at 50% 6%, var(--ink-deep) 0%, var(--ink-deep-2) 62%, #05070a 100%);
+  font-family:var(--sans);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:72px;}
+.avatar{width:300px;height:300px;border-radius:50%;overflow:hidden;border:6px solid rgba(255,255,255,.10);
+  box-shadow:0 26px 60px rgba(0,0,0,.55);background:var(--ink-deep);flex:0 0 auto;}
+.avatar img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;display:block;}
+.stars{font-size:44px;letter-spacing:9px;color:#FFC24B;line-height:1;margin:46px 0 32px;}
+.quote{font-family:var(--serif);color:#fff;font-size:80px;line-height:1.05;letter-spacing:-1px;text-align:center;max-width:820px;}
+.quote em{color:var(--accent-soft);font-style:normal;}
+.name{margin-top:44px;font-weight:800;font-size:38px;color:#fff;}
+.role{margin-top:7px;font-weight:600;font-size:27px;color:#9aa3b5;text-align:center;}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent-soft);vertical-align:middle;margin:0 13px 4px;}
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="avatar"><img src="assets/placeholder-avatar.svg" alt="Customer photo"></div>
+  <div class="stars">★★★★★</div>
+  <div class="quote">Best decision <em>I made all year.</em></div>
+  <div class="name">Customer name</div>
+  <div class="role">What they do <span class="dot"></span> Where they're from</div>
+</div>
+</body>
+</html>

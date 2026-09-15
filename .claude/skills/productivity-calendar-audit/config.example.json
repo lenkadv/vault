@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "audit_reports_folder": "REPLACE_WITH_ABSOLUTE_PATH_TO_CALENDAR_AUDITS_FOLDER"
+  },
+  "pack_integration": {
+    "meeting_recaps_folder": null,
+    "decisions_log_file": null,
+    "goals_file_path": null,
+    "plans_folder": null,
+    "contacts_index_file": null,
+    "next_actions_file": null
+  },
+  "preferences": {
+    "default_window": "week",
+    "work_hours_start": "09:00",
+    "work_hours_end": "17:00"
+  }
+}

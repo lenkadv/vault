@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+.frame{width:1080px;height:1350px;background:#EFE7D8;
+  font-family:var(--sans);padding:80px 72px;
+  display:flex;flex-direction:column;}
+.head{text-align:center;margin-bottom:44px;}
+.head h1{font-family:var(--serif);font-size:66px;color:#1b2422;line-height:1;letter-spacing:-.5px;}
+.grid{flex:1;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:22px;}
+.tile{background:#fff;border-radius:22px;padding:22px 22px 18px;box-shadow:0 8px 22px rgba(20,15,8,.07);
+  display:flex;flex-direction:column;position:relative;overflow:hidden;}
+.mock{flex:1;display:flex;flex-direction:column;gap:9px;justify-content:center;}
+.bar{height:15px;border-radius:5px;background:#e7e1d5;}
+.bar.t{height:20px;width:70%;background:var(--ink-deep);}
+.bar.s{width:100%}.bar.m{width:82%}.bar.n{width:56%}
+.label{margin-top:14px;font-size:23px;font-weight:700;color:#2a3a37;letter-spacing:-.2px;}
+.tag{position:absolute;top:16px;right:16px;width:26px;height:26px;}
+.tag svg{width:100%;height:100%;stroke:var(--accent);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round;}
+/* variants */
+.avatar{width:34px;height:34px;border-radius:50%;background:var(--accent-soft);flex:none;}
+.imgblk{height:56px;border-radius:8px;background:linear-gradient(135deg,var(--accent-soft),var(--accent));}
+.imgblk.teal{background:linear-gradient(135deg,#384357,var(--ink-deep));}
+.row{display:flex;gap:10px;align-items:center;}
+.col{display:flex;flex-direction:column;gap:8px;flex:1;}
+.portrait{align-self:center;width:60px;height:90px;border-radius:8px;background:linear-gradient(160deg,#1b2422,#3a544f);position:relative;}
+.portrait::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-42%,-50%);
+  border-left:16px solid #fff;border-top:11px solid transparent;border-bottom:11px solid transparent;}
+.bubble{max-width:80%;height:16px;border-radius:9px;background:#e7e1d5;}
+.bubble.r{align-self:flex-end;background:#dde3ec;width:60%}
+.bubble.l{width:72%}
+.cal{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;}
+.cal i{height:14px;border-radius:3px;background:#e7e1d5;}
+.cal i.on{background:var(--ink-deep);}
+.stack{display:flex;flex-direction:column;gap:7px;}
+.env{height:20px;border-radius:5px;background:#f0ebe0;border:1.5px solid #e2dbcc;position:relative;}
+.env::after{content:"";position:absolute;left:0;top:0;width:100%;height:100%;
+  background:linear-gradient(135deg,transparent 48%,#dcd4c4 49%,#dcd4c4 51%,transparent 52%);border-radius:5px;}
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="head"><h1>One week. One folder.</h1></div>
+  <div class="grid">
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="imgblk teal" style="height:38px"></div><div class="bar t"></div><div class="bar s"></div><div class="bar m"></div></div>
+      <div class="label">Newsletter</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="imgblk"></div><div class="bar m"></div><div class="bar n"></div></div>
+      <div class="label">Ad creative</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="row"><div class="avatar"></div><div class="col"><div class="bar n" style="height:12px"></div><div class="bar" style="width:40%;height:10px"></div></div></div><div class="bar s"></div><div class="bar m"></div></div>
+      <div class="label">LinkedIn post</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="bar t" style="width:85%;height:22px"></div><div class="imgblk" style="height:46px"></div><div class="bar m"></div></div>
+      <div class="label">Blog header</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="bubble l"></div><div class="bubble r"></div><div class="bubble l" style="width:56%"></div></div>
+      <div class="label">Customer reply</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="imgblk" style="height:74px;background:linear-gradient(135deg,var(--paper),var(--paper-2))"></div></div>
+      <div class="label">Product image</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="portrait"></div></div>
+      <div class="label">Reel cover</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="stack"><div class="env"></div><div class="env"></div><div class="env"></div></div></div>
+      <div class="label">Email sequence</div></div>
+    <div class="tile"><span class="tag"><svg viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></svg></span>
+      <div class="mock"><div class="cal"><i></i><i class="on"></i><i></i><i class="on"></i><i></i><i class="on"></i><i></i><i class="on"></i><i></i><i class="on"></i></div></div>
+      <div class="label">Next-week plan</div></div>
+  </div>
+</div>
+</body>
+</html>

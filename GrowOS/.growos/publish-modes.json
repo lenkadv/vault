@@ -1,0 +1,18 @@
+{
+  "businesses": {
+    "lcenglish": {
+      "email": "explicit-safe",
+      "social": "explicit-safe",
+      "ads": "unanswered",
+      "video": "unanswered",
+      "support": "explicit-safe"
+    },
+    "tadylenka": {
+      "email": "explicit-safe",
+      "social": "explicit-safe",
+      "ads": "unanswered",
+      "video": "unanswered",
+      "support": "explicit-safe"
+    }
+  }
+}

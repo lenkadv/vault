@@ -1,0 +1,46 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame{width:1080px;height:1350px;
+    background:linear-gradient(165deg,#F6F1E7 0%,#EFE6D4 60%,#E7D9C0 100%);
+    font-family:-apple-system,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    display:flex;align-items:center;justify-content:center;}
+  .card{width:930px;background:#fff;border-radius:22px;box-shadow:0 24px 60px rgba(60,45,20,.16);
+    padding:64px 60px 58px;position:relative;}
+  .qmark{position:absolute;top:26px;right:48px;font-family:Georgia,serif;font-size:150px;
+    color:var(--accent);opacity:.16;line-height:1;}
+  .head{display:flex;align-items:flex-start;gap:22px;}
+  .av{width:132px;height:132px;border-radius:50%;overflow:hidden;flex:0 0 132px;background:#e6e6e6;}
+  .av img{width:100%;height:100%;object-fit:cover;object-position:50% 26%;display:block;}
+  .who{flex:1;min-width:0;padding-top:4px;}
+  .nrow{display:flex;align-items:center;gap:12px;}
+  .nm{font-size:39px;font-weight:700;color:#191919;}
+  .deg{font-size:29px;color:#00000099;font-weight:400;}
+  .deg b{color:#191919;font-weight:600;}
+  .hl{font-size:29px;color:#00000099;margin-top:5px;line-height:1.25;}
+  .meta{font-size:27px;color:#00000099;margin-top:5px;display:flex;align-items:center;gap:9px;}
+  .meta svg{opacity:.55;}
+  .more{display:flex;flex-direction:column;align-items:center;gap:30px;color:#00000099;padding-top:6px;}
+  .body{font-size:40px;line-height:1.4;color:#191919;margin:32px 2px 30px;letter-spacing:-.1px;}
+  .reacts{display:flex;align-items:center;padding:6px 2px 26px;}
+  .reacts .p{width:46px;height:46px;border-radius:50%;border:2px solid #fff;margin-left:-8px;
+    display:flex;align-items:center;justify-content:center;}
+  .reacts .p:first-child{margin-left:0;}
+  .like{background:#378fe9;}.cel{background:#6dae4f;}.love{background:#df704d;}
+  .divider{border-top:1px solid #e8e8e8;}
+  .actions{display:flex;justify-content:space-between;padding:20px 20px 14px;}
+  .act{display:flex;align-items:center;gap:14px;color:#00000099;font-size:29px;font-weight:600;}
+</style></head>
+<body><div class="frame">
+  <div class="card">
+    <div class="qmark">&#8221;</div>
+    <div class="body" style="margin:6px 2px 44px;font-size:47px;">I've spent [X years] building [what you do]. These days my marketing runs itself, and I just approve what goes out. Strangest career development yet.</div>
+    <div class="head" style="align-items:center;">
+      <div class="av"><img src="assets/placeholder-avatar.svg" alt="Your photo"></div>
+      <div class="who">
+        <div class="nrow"><span class="nm">Your Name</span></div>
+        <div class="hl">[Your credibility line: years in business, a notable result, a credential]</div>
+      </div>
+    </div>
+  </div>
+</div></body></html>

@@ -1,0 +1,36 @@
+# Staré/archivované - zůstává jen na Google Disku, negituje se
+/archive/
+/GrowOS-0.1-archiv/
+/.trash/
+
+# Binárky a média - Disk sync je zálohuje sám, Git na to není vhodný
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.jfif
+*.gif
+*.pdf
+*.pptx
+*.mp3
+*.mp4
+*.mov
+*.zip
+
+# Google Disk cloudové odkazy (ne skutečné soubory, Git je neumí číst)
+*.gsheet
+*.gdoc
+*.gslides
+*.gform
+*.gdraw
+*.gmap
+
+# Tajemství - nikdy do Gitu
+.env
+**/.env
+
+# Lokální/strojově specifické
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

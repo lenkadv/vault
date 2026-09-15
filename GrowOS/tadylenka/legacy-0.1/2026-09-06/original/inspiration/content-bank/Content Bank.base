@@ -1,0 +1,71 @@
+filters:
+  and:
+    - file.inFolder("GrowOS/tadylenka/content-bank")
+views:
+  - type: table
+    name: Podle tématu
+    order:
+      - file.name
+      - temata
+      - status
+      - tagy_platforma
+      - intent
+      - datum_zachyceno
+      - zdroj
+    sort:
+      - property: temata
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 340
+      note.temata: 220
+      note.zdroj: 200
+  - type: table
+    name: K napsání
+    filters:
+      and:
+        - note.status == "volny-napad"
+    order:
+      - file.name
+      - temata
+      - tagy_platforma
+      - intent
+      - datum_zachyceno
+    sort:
+      - property: temata
+        direction: ASC
+    columnSize:
+      file.name: 340
+      note.temata: 220
+  - type: table
+    name: Rozpracované
+    filters:
+      and:
+        - note.status == "rozpracovane"
+    order:
+      - file.name
+      - temata
+      - tagy_platforma
+      - datum_zachyceno
+  - type: table
+    name: Nedozrálo
+    filters:
+      and:
+        - note.status == "nedozralo"
+    order:
+      - file.name
+      - temata
+      - zdroj
+  - type: table
+    name: Použito
+    filters:
+      and:
+        - note.status == "pouzito"
+    order:
+      - file.name
+      - temata
+      - datum_pouzito
+    sort:
+      - property: datum_pouzito
+        direction: DESC

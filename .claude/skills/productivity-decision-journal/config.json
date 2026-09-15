@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "onboarded_at": "260523",
+  "output": {
+    "journal_folder": "G:\\Můj disk\\vault\\decisions"
+  },
+  "pack_integration": {
+    "decisions_log_file": null,
+    "next_actions_file": null
+  },
+  "preferences": {
+    "default_review_months": 3,
+    "allow_proactive_offers": true
+  }
+}

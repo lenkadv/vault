@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-09-05",
+  "output": {
+    "unblock_log_file": "G:\\Můj disk\\vault\\gtd\\unblock-log.md"
+  },
+  "pack_integration": {
+    "plans_folder": "G:\\Můj disk\\vault\\daily",
+    "next_actions_file": "G:\\Můj disk\\vault\\gtd\\next-actions.md"
+  }
+}

@@ -1,0 +1,116 @@
+filters:
+  and:
+    - file.inFolder("GrowOS/tadylenka/library/content-bank")
+    - note.type == "content-idea"
+views:
+  - type: table
+    name: Podle rubriky
+    order:
+      - file.name
+      - rubrika
+      - status
+      - temata
+      - datum_zachyceno
+      - zdroj
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 380
+      note.zdroj: 260
+  - type: table
+    name: Tři rubriky
+    filters:
+      and:
+        - note.status == "fresh"
+        - or:
+            - note.rubrika == "zeny-v-obraze"
+            - note.rubrika == "co-vidis"
+            - note.rubrika == "vsichni-svati"
+    order:
+      - file.name
+      - rubrika
+      - temata
+      - datum_zachyceno
+      - zdroj
+    sort:
+      - property: rubrika
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 380
+      note.zdroj: 240
+  - type: table
+    name: Ženy v obraze
+    filters:
+      and:
+        - note.rubrika == "zeny-v-obraze"
+        - note.status == "fresh"
+    order:
+      - file.name
+      - temata
+      - datum_zachyceno
+      - zdroj
+    columnSize:
+      file.name: 400
+  - type: table
+    name: Co vidíš
+    filters:
+      and:
+        - note.rubrika == "co-vidis"
+        - note.status == "fresh"
+    order:
+      - file.name
+      - temata
+      - datum_zachyceno
+      - zdroj
+    columnSize:
+      file.name: 400
+  - type: table
+    name: Všichni svatí
+    filters:
+      and:
+        - note.rubrika == "vsichni-svati"
+        - note.status == "fresh"
+    order:
+      - file.name
+      - temata
+      - datum_zachyceno
+      - zdroj
+    columnSize:
+      file.name: 400
+  - type: table
+    name: Jiné (bez rubriky)
+    filters:
+      and:
+        - note.rubrika == "jine"
+        - note.status == "fresh"
+    order:
+      - file.name
+      - temata
+      - datum_zachyceno
+      - zdroj
+    columnSize:
+      file.name: 400
+  - type: table
+    name: Použité
+    filters:
+      and:
+        - note.status == "used"
+    order:
+      - file.name
+      - rubrika
+      - datum_pouzito
+    sort:
+      - property: datum_pouzito
+        direction: DESC
+  - type: table
+    name: Retired / mimo
+    filters:
+      and:
+        - note.status == "retired"
+    order:
+      - file.name
+      - rubrika
+      - temata

@@ -1,0 +1,66 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+.frame{width:1080px;height:1350px;background:#14161c;
+  font-family:var(--sans);color:#F4EEE2;
+  display:flex;flex-direction:column;align-items:center;padding:58px 54px;}
+.title{font-family:var(--serif);font-size:64px;letter-spacing:-.5px;line-height:1;}
+.sub{font-size:26px;color:#9aa3ac;margin-top:12px;margin-bottom:40px;}
+.map{position:relative;width:910px;height:960px;}
+.grid{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:22px;}
+.q{border-radius:22px;background:#1e2129;border:1.5px solid #2f333d;padding:30px 32px;
+  display:flex;flex-direction:column;position:relative;}
+.q .who{font-family:var(--serif);font-size:38px;line-height:1.05;}
+.q .say{font-size:24px;line-height:1.3;color:#a8adb8;margin-top:14px;font-style:italic;}
+.q .art{margin-top:auto;font-size:60px;line-height:1;}
+.q.grailbox{background:linear-gradient(150deg,var(--accent),var(--ink-deep) 70%);border:2.5px solid var(--accent-soft);
+  box-shadow:0 0 60px rgba(52,84,209,.28);}
+.q.grailbox .who{color:#fff;}
+.q.grailbox .say{color:#dbe1f5;}
+.grail{position:absolute;top:-20px;right:24px;background:var(--accent);color:#fff;font-size:20px;
+  font-weight:800;letter-spacing:1.5px;border-radius:99px;padding:8px 20px;}
+.ylab{position:absolute;left:-40px;top:50%;transform:rotate(-90deg);transform-origin:center;
+  font-size:22px;color:#8f97a5;font-weight:700;letter-spacing:1.4px;white-space:nowrap;width:0;}
+.xlab{position:absolute;bottom:-46px;left:0;right:0;text-align:center;
+  font-size:22px;color:#8f97a5;font-weight:700;letter-spacing:1.4px;}
+.youarrow{position:absolute;left:300px;top:462px;z-index:5;
+  font-family:"Bradley Hand","Marker Felt",cursive;color:var(--accent-soft);font-size:33px;font-weight:700;
+  transform:rotate(-6deg);text-align:center;line-height:1.02;text-shadow:0 2px 10px rgba(0,0,0,.5);}
+svg.yarr{position:absolute;left:250px;top:556px;width:110px;height:130px;overflow:visible;z-index:5;}
+</style></head>
+<body><div class="frame">
+  <div class="title">Where is your marketing?</div>
+  <div class="sub">Everyone doing their own marketing lives in one of these squares.</div>
+  <div class="map">
+    <div class="ylab">SHIPS EVERY WEEK &#8593;</div>
+    <div class="xlab">MADE BY HAND &#8594; MADE BY A SYSTEM</div>
+    <div class="grid">
+      <div class="q">
+        <div class="who">The Content Treadmill</div>
+        <div class="say">"Always posting. Always drained. Growth: flat."</div>
+        <div class="art">&#129397;</div>
+      </div>
+      <div class="q grailbox">
+        <div class="grail">THE EXIT</div>
+        <div class="who">Marketing, Handled</div>
+        <div class="say">"A system drafts it all. I read, tweak one line, approve."</div>
+        <div class="art">&#127796;</div>
+      </div>
+      <div class="q">
+        <div class="who">The Midnight Batcher</div>
+        <div class="say">"Sunday, 11pm. Guilt does the scheduling."</div>
+        <div class="art">&#127769;</div>
+      </div>
+      <div class="q">
+        <div class="who">The Tool Hoarder</div>
+        <div class="say">"14 AI subscriptions. 30 custom GPTs. Still writes it all by hand."</div>
+        <div class="art">&#129520;</div>
+      </div>
+    </div>
+    <div class="youarrow">most of us<br>are here</div>
+    <svg class="yarr" viewBox="0 0 110 120">
+      <path d="M60 14 C 40 50, 30 74, 34 100" fill="none" style="stroke:var(--accent-soft)" stroke-width="7" stroke-linecap="round"/>
+      <path d="M34 100 l -4 -26 M34 100 l 24 -12" fill="none" style="stroke:var(--accent-soft)" stroke-width="7" stroke-linecap="round"/>
+    </svg>
+  </div>
+</div></body></html>

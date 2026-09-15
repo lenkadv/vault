@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("zettelkasten/poznamky")
+views:
+  - type: table
+    name: Poznámky
+    order:
+      - file.name
+      - zdroj
+      - strana
+      - pouziti
+      - tags
+      - temata
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: temata
+        direction: ASC
+      - property: strana
+        direction: ASC
+    columnSize:
+      file.name: 346
+      note.zdroj: 219
+      note.strana: 60
+      note.pouziti: 200
+      note.tags: 274

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  :root{
+    --black:"Arial Black","Helvetica Neue",Arial,sans-serif;
+    --tile:#fffdf8; --line:#e4dccc;
+  }
+  .frame{width:1080px;height:1350px;position:relative;overflow:hidden;background:var(--paper);
+    font-family:var(--sans);color:var(--ink);
+    background-image:radial-gradient(#00000008 1.2px,transparent 1.3px);background-size:22px 22px;}
+  .pad{position:absolute;inset:0;padding:78px 66px 66px;display:flex;flex-direction:column;}
+
+  .title{font-family:var(--black);text-transform:uppercase;text-align:center;line-height:.98;
+    letter-spacing:-1px;}
+  .title .a{font-size:62px;}
+  .title .b{font-size:82px;color:var(--accent);}
+
+  .grid{margin-top:auto;margin-bottom:auto;display:grid;grid-template-columns:1fr 1fr;
+    gap:34px 34px;}
+  .tile{background:var(--tile);border:1.5px solid var(--line);border-radius:24px;
+    padding:26px 24px 22px;display:flex;flex-direction:column;align-items:center;
+    box-shadow:0 8px 22px rgba(20,15,8,.06);}
+  .tile .art{height:186px;display:flex;align-items:center;justify-content:center;}
+  .tile .art svg{height:186px;width:auto;display:block;}
+  .tile .lab{margin-top:16px;font-weight:800;font-size:32px;letter-spacing:-.3px;text-align:center;}
+  .tile .lab.o{color:var(--accent);}
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="pad">
+      <div class="title">
+        <div class="a">Overwhelmed Solo Founder</div>
+        <div class="b">Starter Pack</div>
+      </div>
+
+      <div class="grid">
+        <!-- 23 tabs -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <rect x="6" y="30" width="208" height="114" rx="12" fill="#fff" stroke="#cfc7b6" stroke-width="3"/>
+            <rect x="6" y="30" width="208" height="34" rx="12" fill="#eee7d8"/>
+            <g id="tabs"></g>
+            <rect x="20" y="82" width="120" height="10" rx="5" fill="#e7dfce"/>
+            <rect x="20" y="104" width="176" height="9" rx="4" fill="#eee7d8"/>
+            <rect x="20" y="122" width="150" height="9" rx="4" fill="#eee7d8"/>
+          </svg></div>
+          <div class="lab">23 tabs open</div>
+        </div>
+
+        <!-- cold coffee -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <ellipse cx="150" cy="126" rx="58" ry="12" fill="#e4dccc"/>
+            <path d="M56 54 h84 v40 a42 42 0 0 1-84 0 Z" fill="#fff" stroke="#cfc7b6" stroke-width="3"/>
+            <path d="M140 60 h20 a18 18 0 0 1 0 36 h-8" fill="none" stroke="#cfc7b6" stroke-width="7"/>
+            <ellipse cx="98" cy="56" rx="42" ry="10" fill="#7a5a3a"/>
+            <ellipse cx="98" cy="55" rx="42" ry="9" fill="#8a6a48"/>
+            <circle cx="182" cy="120" r="16" fill="none" stroke="#c9a27a" stroke-width="4" opacity=".7"/>
+          </svg></div>
+          <div class="lab">cold coffee, 3rd refill</div>
+        </div>
+
+        <!-- invoice -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <rect x="42" y="14" width="136" height="126" rx="8" fill="#fff" stroke="#cfc7b6" stroke-width="3" transform="rotate(-4 110 77)"/>
+            <g transform="rotate(-4 110 77)">
+              <rect x="58" y="32" width="52" height="8" rx="4" fill="#d9d0be"/>
+              <rect x="58" y="46" width="34" height="6" rx="3" fill="#e7dfce"/>
+              <rect x="116" y="26" width="46" height="26" rx="5" fill="none" style="stroke:var(--accent)" stroke-width="3" transform="rotate(-10 139 39)"/>
+              <text x="139" y="45" text-anchor="middle" font-family="Arial Black" font-size="14" style="fill:var(--accent)" transform="rotate(-10 139 39)">DUE</text>
+              <text x="58" y="98" font-family="Arial Black" font-size="33" fill="#232019">$5,000</text>
+              <text x="58" y="118" font-family="Arial" font-weight="700" font-size="17" fill="#8a8375">per month</text>
+            </g>
+          </svg></div>
+          <div class="lab">$5,000/mo invoice</div>
+        </div>
+
+        <!-- newsletter draft -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <rect x="34" y="20" width="152" height="110" rx="10" fill="#fff" stroke="#cfc7b6" stroke-width="3"/>
+            <path d="M34 30 L110 84 L186 30" fill="none" stroke="#e0d8c6" stroke-width="4"/>
+            <rect x="54" y="98" width="70" height="20" rx="6" fill="#f0d9c4"/>
+            <text x="89" y="113" text-anchor="middle" font-family="Arial Black" font-size="14" style="fill:var(--accent)">DRAFT</text>
+            <text x="150" y="114" text-anchor="middle" font-family="Arial" font-weight="800" font-size="16" fill="#8a8375">Mar</text>
+          </svg></div>
+          <div class="lab">newsletter draft, March</div>
+        </div>
+
+        <!-- clock 1:13 -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <circle cx="110" cy="75" r="60" fill="#fff" stroke="#cfc7b6" stroke-width="4"/>
+            <circle cx="110" cy="75" r="60" fill="none" stroke="#e4dccc" stroke-width="1"/>
+            <g stroke="#c3bba8" stroke-width="3" stroke-linecap="round">
+              <line x1="110" y1="22" x2="110" y2="32"/><line x1="110" y1="118" x2="110" y2="128"/>
+              <line x1="57" y1="75" x2="67" y2="75"/><line x1="153" y1="75" x2="163" y2="75"/>
+            </g>
+            <line x1="110" y1="75" x2="134" y2="61" stroke="#232019" stroke-width="6" stroke-linecap="round"/>
+            <line x1="110" y1="75" x2="140" y2="86" stroke="#232019" stroke-width="4" stroke-linecap="round"/>
+            <circle cx="110" cy="75" r="6" style="fill:var(--accent)"/>
+          </svg></div>
+          <div class="lab">1:13am, still up</div>
+        </div>
+
+        <!-- guilt -->
+        <div class="tile">
+          <div class="art"><svg viewBox="0 0 220 150">
+            <ellipse cx="110" cy="132" rx="52" ry="9" fill="#e4dccc"/>
+            <path d="M52 88 a26 26 0 0 1 14-44 a30 30 0 0 1 56-14 a28 28 0 0 1 44 16 a24 24 0 0 1 2 42 a26 26 0 0 1-38 14 a30 30 0 0 1-52 -2 a24 24 0 0 1-26-12 Z"
+              fill="#a9a294" stroke="#8a8375" stroke-width="3"/>
+            <path d="M88 62 q7 7 14 0" fill="none" stroke="#4d473c" stroke-width="4" stroke-linecap="round"/>
+            <path d="M122 62 q7 7 14 0" fill="none" stroke="#4d473c" stroke-width="4" stroke-linecap="round"/>
+            <path d="M100 84 q12 8 24 0" fill="none" stroke="#4d473c" stroke-width="4" stroke-linecap="round" transform="rotate(180 112 88)"/>
+            <g stroke="#a9a294" stroke-width="4" stroke-linecap="round" opacity=".7">
+              <line x1="84" y1="104" x2="82" y2="116"/><line x1="112" y1="108" x2="112" y2="120"/><line x1="140" y1="104" x2="142" y2="116"/>
+            </g>
+          </svg></div>
+          <div class="lab">guilt</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  // draw a crowded tab strip (visual "many tabs"; label states 23)
+  var g = document.getElementById('tabs');
+  var ns='http://www.w3.org/2000/svg', x=12, i=0;
+  while(x < 200 && i < 14){
+    var r=document.createElementNS(ns,'rect');
+    r.setAttribute('x',x); r.setAttribute('y',36); r.setAttribute('width',13); r.setAttribute('height',22);
+    r.setAttribute('rx',3); r.setAttribute('fill', i%2? '#ded5c2':'#e9e1d0');
+    r.setAttribute('stroke','#cfc7b6'); r.setAttribute('stroke-width','1.5');
+    g.appendChild(r); x+=14.5; i++;
+  }
+</script>
+</body>
+</html>

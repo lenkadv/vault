@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "kie-ai": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\Lenka\\AppData\\Roaming\\npm\\node_modules\\@felores\\kie-ai-mcp-server\\dist\\index.js"
+      ],
+      "env": {
+        "KIE_AI_API_KEY": "d249d083572fe48220c6203960f3969f"
+      }
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@anthropic-ai/mcp-server-playwright@latest"
+      ]
+    }
+  }
+}

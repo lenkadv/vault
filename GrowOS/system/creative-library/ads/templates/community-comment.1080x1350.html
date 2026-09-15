@@ -1,0 +1,55 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame{width:1080px;height:1350px;background:#f0f2f5;
+    font-family:-apple-system,"Segoe UI","Helvetica Neue",Arial,sans-serif;color:#1c1e21;
+    display:flex;align-items:center;justify-content:center;}
+  .card{width:960px;background:#fff;border:1px solid #e4e6eb;border-radius:20px;padding:52px 52px 44px;
+    box-shadow:0 6px 24px rgba(0,0,0,.06);}
+  /* top comment */
+  .cm{display:flex;gap:26px;}
+  .av{width:84px;height:84px;border-radius:50%;flex:0 0 84px;display:flex;align-items:center;justify-content:center;
+    color:#fff;font-size:38px;font-weight:700;overflow:hidden;}
+  .av.member{background:linear-gradient(135deg,var(--accent-soft),var(--accent));}
+  .av.founder img{width:100%;height:100%;object-fit:cover;object-position:50% 26%;}
+  .body{flex:1;min-width:0;}
+  .nrow{display:flex;align-items:center;gap:16px;margin-bottom:6px;}
+  .nm{font-size:33px;font-weight:700;}
+  .time{font-size:26px;color:#65676b;}
+  .badge{font-size:20px;font-weight:700;color:var(--accent);background:var(--paper-2);padding:5px 14px;border-radius:20px;letter-spacing:.3px;}
+  .txt{font-size:34px;line-height:1.45;color:#1c1e21;}
+  .acts{display:flex;align-items:center;gap:40px;margin-top:22px;color:#65676b;font-size:28px;font-weight:600;}
+  .acts .a{display:flex;align-items:center;gap:12px;}
+  /* reply */
+  .reply{display:flex;gap:22px;margin:38px 0 0 60px;padding-left:44px;border-left:3px solid #eceef1;}
+  .reply .av{width:66px;height:66px;flex:0 0 66px;font-size:30px;}
+  .reply .nm{font-size:30px;}
+  .reply .txt{font-size:31px;}
+</style></head>
+<body><div class="frame">
+  <div class="card">
+    <div class="cm">
+      <div class="av member">M</div>
+      <div class="body">
+        <div class="nrow"><span class="nm">Member name</span><span class="time">&#8226; 2d</span></div>
+        <div class="txt">I use this every single day now. You do need to spend a little time customizing it for your own business, there's no one size fits all. But once you're set up, it's genuinely easy to keep going.</div>
+        <div class="acts">
+          <span class="a"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#65676b" stroke-width="2"><path d="M4 10h3v10H4zM20 11a2 2 0 0 0-2-2h-5l.9-4.2A1.6 1.6 0 0 0 11 4L7 9v11h9a2 2 0 0 0 2-1.5z"/></svg>Like</span>
+          <span class="a">Reply</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="reply">
+      <div class="av founder"><img src="assets/placeholder-avatar.svg" alt="Your photo"></div>
+      <div class="body">
+        <div class="nrow"><span class="nm">Your Name</span><span class="badge">FOUNDER</span><span class="time">&#8226; 1d</span></div>
+        <div class="txt">This is why I built it.</div>
+        <div class="acts">
+          <span class="a"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#65676b" stroke-width="2"><path d="M4 10h3v10H4zM20 11a2 2 0 0 0-2-2h-5l.9-4.2A1.6 1.6 0 0 0 11 4L7 9v11h9a2 2 0 0 0 2-1.5z"/></svg>Like</span>
+          <span class="a">Reply</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></body></html>

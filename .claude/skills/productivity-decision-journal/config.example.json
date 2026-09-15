@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "journal_folder": "REPLACE_WITH_ABSOLUTE_PATH_TO_DECISION_JOURNAL_FOLDER"
+  },
+  "pack_integration": {
+    "decisions_log_file": null,
+    "next_actions_file": null
+  },
+  "preferences": {
+    "default_review_months": 3,
+    "allow_proactive_offers": true
+  }
+}

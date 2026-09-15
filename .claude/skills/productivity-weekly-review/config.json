@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "onboarded_at": "260523",
+  "output": {
+    "reviews_folder": "G:\\Můj disk\\vault\\weekly-reviews",
+    "next_week_priorities_file": "G:\\Můj disk\\vault\\gtd\\next-week-priorities.md"
+  },
+  "pack_integration": {
+    "next_actions_file": "G:\\Můj disk\\vault\\gtd\\next-actions.md",
+    "brain_dumps_folder": "G:\\Můj disk\\vault\\Brain Dumps",
+    "areas_folder": "G:\\Můj disk\\vault\\areas",
+    "waiting_for_file": "G:\\Můj disk\\vault\\gtd\\waiting-for.md",
+    "plans_folder": null,
+    "unblock_log_file": null,
+    "goals_file_path": null,
+    "reading_digests_folder": null,
+    "quarterly_themes_file": null
+  },
+  "preferences": {
+    "review_day": "Saturday"
+  }
+}

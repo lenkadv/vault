@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "onboarded_at": "260523",
+  "output": {
+    "dumps_folder": "G:\\Můj disk\\vault\\Brain Dumps",
+    "next_actions_file": "G:\\Můj disk\\vault\\gtd\\next-actions.md",
+    "someday_maybe_file": "G:\\Můj disk\\vault\\gtd\\someday-maybe.md",
+    "inbox_file_path": null
+  },
+  "preferences": {
+    "ask_to_write_after_dump": true,
+    "enrich_tasks": true
+  }
+}

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
+  <info>
+    <title>ÚDKU</title>
+    <title-short>ÚDKU UK</title-short>
+    <id>http://www.zotero.org/styles/udku-uk</id>
+    <link href="http://www.zotero.org/styles/udku-uk" rel="self"/>
+    <author>
+      <name>ÚDKU UK</name>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <category field="history"/>
+    <category field="theology"/>
+    <summary>Citační styl pro Ústav dějin křesťanského umění UK</summary>
+    <updated>2025-07-23T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  
+  <locale xml:lang="cs">
+    <terms>
+      <term name="editor" form="short">ed.</term>
+      <term name="editor" form="verb-short">ed.</term>
+      <term name="translator" form="short">red.</term>
+      <term name="editortranslator" form="short">ed.</term>
+      <term name="chapter" form="short">kap.</term>
+      <term name="page" form="short">s.</term>
+      <term name="page">strana</term>
+      <term name="volume" form="short">sv.</term>
+      <term name="issue" form="short">č.</term>
+      <term name="accessed">poslední návštěva</term>
+      <term name="ibid">Tamtéž</term>
+      <term name="no date">b. d.</term>
+      <term name="no place">b. m.</term>
+    </terms>
+  </locale>
+
+  <!-- MAKRA -->
+  <macro name="author">
+    <names variable="author">
+      <name initialize="false" initialize-with=". " delimiter=" – " delimiter-precedes-last="always"/>
+      <substitute>
+        <names variable="editor">
+          <name initialize="false" delimiter=" – "/>
+          <label form="short" prefix=", "/>
+        </names>
+        <names variable="translator">
+          <name initialize="false" delimiter=" – "/>
+          <label form="short" prefix=", "/>
+        </names>
+        <text macro="title"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" initialize="false" delimiter=" – "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+        <text macro="title-short"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <!-- Makro pro příjmení autora -->
+  <macro name="author-surname">
+    <names variable="author">
+      <name form="short" initialize="false" delimiter=" – "/>
+      <substitute>
+        <names variable="editor">
+          <name form="short" initialize="false" delimiter=" – "/>
+        </names>
+        <names variable="translator">
+          <name form="short" initialize="false" delimiter=" – "/>
+        </names>
+        <text macro="title-short"/>
+      </substitute>
+    </names>
+  </macro>
+
+<macro name="author-last-upper">
+  <!-- Jen příjmení VERZÁLKAMI — choose místo substitute, aby editor nebyl suppresnutý -->
+  <choose>
+    <if variable="author">
+      <names variable="author">
+        <name form="short" delimiter=" – ">
+          <name-part name="family" text-case="uppercase"/>
+        </name>
+      </names>
+    </if>
+    <else-if variable="editor">
+      <names variable="editor">
+        <name form="short" delimiter=" – ">
+          <name-part name="family" text-case="uppercase"/>
+        </name>
+      </names>
+    </else-if>
+    <else>
+      <text variable="title" form="short" text-case="uppercase"/>
+    </else>
+  </choose>
+</macro>
+
+
+  <macro name="editor">
+    <names variable="editor" delimiter=", ">
+      <name initialize="false" delimiter=" – "/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+
+  <macro name="translator">
+    <names variable="translator" delimiter=", ">
+      <name initialize="false" delimiter=" – "/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+
+  <macro name="title">
+    <choose>
+      <if type="book thesis" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="title-short">
+    <choose>
+      <if type="book thesis" match="any">
+        <text variable="title" form="short" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="container-title">
+    <choose>
+      <if type="chapter paper-conference article-journal article-magazine article-newspaper" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </if>
+    </choose>
+  </macro>
+
+  <macro name="publisher">
+    <group delimiter=" ">
+      <text variable="publisher-place"/>
+      <date variable="issued" form="numeric" date-parts="year"/>
+    </group>
+  </macro>
+
+  <macro name="date">
+    <date variable="issued" form="numeric" date-parts="year"/>
+  </macro>
+
+  <macro name="locators">
+    <choose>
+      <if locator="page">
+        <group delimiter=" ">
+          <label variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <label variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="pages">
+    <group>
+      <label variable="page" form="short" suffix=" "/>
+      <text variable="page"/>
+    </group>
+  </macro>
+
+  <macro name="volume-issue">
+    <group delimiter=", ">
+      <group delimiter=" ">
+        <text variable="volume"/>
+      </group>
+      <group delimiter=" ">
+        <date variable="issued" form="numeric" date-parts="year"/>
+      </group>
+      <group delimiter=" ">
+        <label variable="issue" form="short"/>
+        <text variable="issue"/>
+      </group>
+    </group>
+  </macro>
+
+  <macro name="access">
+    <choose>
+      <if variable="URL">
+        <group delimiter=" ">
+          <text variable="URL"/>
+          <group prefix="(" suffix=")">
+            <text term="accessed"/>
+            <date variable="accessed" form="text" prefix=" "/>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+
+  <!-- CITATION (poznámky pod Íarou) -->
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true">
+    <layout delimiter="; " suffix=".">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid"/>
+            <text macro="locators"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <else>
+          <group delimiter=", ">
+            <text macro="author-short"/>
+            <text macro="date"/>
+            <choose>
+              <if variable="locator">
+                <text macro="locators"/>
+              </if>
+            </choose>
+          </group>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+
+  <!-- BIBLIOGRAPHY (závěrečný seznam) -->
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="0">
+    <sort>
+      <key macro="author-last-upper" sort="ascending"/>
+    </sort>
+
+
+    <layout suffix=".">
+      <!-- Příjmení a rok na vlastním řádku, příjmení VELKÝMI PÍSMENY -->
+  	<group delimiter=" " display="block">
+   	 <text macro="author-last-upper"/>
+   	 <text macro="date"/>
+ 	</group>
+      
+      <!-- Úplná citace -->
+      <group delimiter=", ">
+        <text macro="author"/>
+        <choose>
+          <!-- Kniha -->
+          <if type="book" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text macro="editor"/>
+              <text macro="translator"/>
+              <text macro="publisher"/>
+            </group>
+          </if>
+          
+          <!-- Článek v časopise -->
+          <else-if type="article-journal" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text macro="container-title"/>
+              <text macro="volume-issue"/>
+              <text macro="pages"/>
+            </group>
+          </else-if>
+          
+          <!-- Článek v novinách/časopisech -->
+          <else-if type="article-magazine article-newspaper" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text macro="container-title"/>
+              <text variable="volume"/>
+              <date variable="issued" form="numeric" date-parts="year"/>
+              <group delimiter=" ">
+                <label variable="issue" form="short"/>
+                <text variable="issue"/>
+              </group>
+              <group delimiter=" ">
+                <date variable="issued" form="text" date-parts="month-day" prefix="(" suffix=")"/>
+              </group>
+              <text macro="pages"/>
+            </group>
+          </else-if>
+          
+          <!-- Kapitola v knize -->
+          <else-if type="chapter paper-conference" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <group delimiter=": ">
+                <text value="in"></text>
+                <text macro="container-title"/>
+              </group>
+              <text macro="editor"/>
+              <text macro="translator"/>
+              <text macro="publisher"/>
+              <text macro="pages"/>
+            </group>
+          </else-if>
+          
+          <!-- Dizertace -->
+          <else-if type="thesis" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text variable="genre"/>
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+              <text macro="date"/>
+            </group>
+          </else-if>
+          
+          <!-- Webové zdroje -->
+          <else-if type="webpage post-weblog" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text macro="container-title"/>
+              <text value="[online]"/>
+              <text macro="date"/>
+              <text macro="access"/>
+            </group>
+          </else-if>
+          
+          <!-- Rukopis -->
+          <else-if type="manuscript" match="any">
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text variable="publisher-place"/>
+              <text macro="date"/>
+              <text variable="archive"/>
+              <text variable="archive_location"/>
+            </group>
+          </else-if>
+          
+          <!-- Ostatní typy -->
+          <else>
+            <group delimiter=", ">
+              <text macro="title"/>
+              <text macro="container-title"/>
+              <text macro="editor"/>
+              <text macro="translator"/>
+              <text macro="publisher"/>
+              <text macro="pages"/>
+            </group>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

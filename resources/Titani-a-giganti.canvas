@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"5cfdd47c2bb4a74c","type":"text","text":"Gaia","x":-280,"y":-100,"width":140,"height":50},
+		{"id":"8cd529a52dde7ca1","type":"text","text":"Uranos","x":70,"y":-100,"width":130,"height":50},
+		{"id":"18e5a215d37793b2","type":"text","text":"Rhea","x":525,"y":10,"width":100,"height":50},
+		{"id":"1e8de6ce3df9869f","type":"text","text":"Chaos","x":-440,"y":-320,"width":250,"height":60},
+		{"id":"96722525ff5271a2","type":"text","text":"### Titáni \n6 male + 6 female","x":-190,"y":10,"width":270,"height":80},
+		{"id":"6cf69c6574b3a350","type":"text","text":"Cronos","x":200,"y":10,"width":125,"height":50},
+		{"id":"88e1fae7b86d9d26","type":"text","text":"### Olympští bohové","x":660,"y":190,"width":250,"height":60},
+		{"id":"30187ae9f0b70de8","type":"text","text":"Zeus","x":380,"y":320,"width":105,"height":60},
+		{"id":"b1d0a442aa3c183a","type":"text","text":"### Giganti","x":-140,"y":440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4cacb89401a6bbd1","fromNode":"5cfdd47c2bb4a74c","fromSide":"right","toNode":"8cd529a52dde7ca1","toSide":"left","fromEnd":"arrow","label":"matka a syn\npartneři"},
+		{"id":"58eaf4feaf1161f4","fromNode":"6cf69c6574b3a350","fromSide":"right","toNode":"18e5a215d37793b2","toSide":"left","fromEnd":"arrow","label":"bratr a sestra\npartneři"},
+		{"id":"6aae61a37e1352cb","fromNode":"6cf69c6574b3a350","fromSide":"left","toNode":"8cd529a52dde7ca1","toSide":"right","color":"1","label":"vykastruje"},
+		{"id":"18f3998fcab8a46f","fromNode":"5cfdd47c2bb4a74c","fromSide":"bottom","toNode":"96722525ff5271a2","toSide":"top"},
+		{"id":"0294ec989d57c058","fromNode":"8cd529a52dde7ca1","fromSide":"bottom","toNode":"96722525ff5271a2","toSide":"top"},
+		{"id":"7aa4e262cb3e9a03","fromNode":"8cd529a52dde7ca1","fromSide":"top","toNode":"5cfdd47c2bb4a74c","toSide":"top","color":"1","label":"krev po kastraci"},
+		{"id":"aac4060cc5e6be4b","fromNode":"5cfdd47c2bb4a74c","fromSide":"top","toNode":"b1d0a442aa3c183a","toSide":"left","color":"1"},
+		{"id":"082418095b4e8ad5","fromNode":"1e8de6ce3df9869f","fromSide":"bottom","toNode":"5cfdd47c2bb4a74c","toSide":"left"},
+		{"id":"62d1899c43e6caec","fromNode":"6cf69c6574b3a350","fromSide":"bottom","toNode":"88e1fae7b86d9d26","toSide":"top"},
+		{"id":"7f7e0983f80218af","fromNode":"18e5a215d37793b2","fromSide":"bottom","toNode":"88e1fae7b86d9d26","toSide":"top"},
+		{"id":"49951237265c8f98","fromNode":"6cf69c6574b3a350","fromSide":"bottom","toNode":"88e1fae7b86d9d26","toSide":"left","color":"5","label":"žere je \npo narození"},
+		{"id":"706793c84a0cfa88","fromNode":"30187ae9f0b70de8","fromSide":"left","toNode":"6cf69c6574b3a350","toSide":"left","color":"5","label":"vysvobodí sežrané sourozence, \npak svrhnou Crona a Titány do Tartaru"},
+		{"id":"3e38801958bc12c7","fromNode":"88e1fae7b86d9d26","fromSide":"bottom","toNode":"30187ae9f0b70de8","toSide":"right"},
+		{"id":"159d5e4e42623ee4","fromNode":"b1d0a442aa3c183a","fromSide":"right","toNode":"88e1fae7b86d9d26","toSide":"bottom","fromEnd":"arrow","color":"6","label":"Gigantomachie"},
+		{"id":"9be19a3c4a7ebf70","fromNode":"88e1fae7b86d9d26","fromSide":"bottom","toNode":"96722525ff5271a2","toSide":"bottom","fromEnd":"arrow","color":"6","label":"Titanomachie"},
+		{"id":"10d4bf1b92615878","fromNode":"96722525ff5271a2","fromSide":"right","toNode":"6cf69c6574b3a350","toSide":"top"},
+		{"id":"8c1feb2c4e0699e6","fromNode":"96722525ff5271a2","fromSide":"right","toNode":"18e5a215d37793b2","toSide":"top"}
+	]
+}

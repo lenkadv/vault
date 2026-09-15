@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame{width:1080px;height:1350px;
+    font-family:-apple-system,"SF Pro Text","Segoe UI","Helvetica Neue",Arial,sans-serif;
+    background:linear-gradient(160deg,#eef1f5,#e4e8ee);color:#172b4d;}
+  .boardhead{padding:64px 72px 0;display:flex;align-items:center;gap:22px;}
+  .boardhead .bt{font-size:40px;font-weight:800;color:#334263;letter-spacing:-.4px;}
+  .boardhead .mdot{margin-left:auto;color:#8b97ad;font-size:44px;font-weight:800;letter-spacing:2px;}
+  .cols{display:flex;gap:34px;padding:52px 0 0 72px;}
+  .col{flex:0 0 720px;background:#f1f2f4;border-radius:20px;padding:30px 26px 34px;box-shadow:0 2px 6px rgba(23,43,77,.08);}
+  .colhead{display:flex;align-items:center;gap:16px;margin-bottom:30px;padding:0 6px;}
+  .colhead .ct{font-size:34px;font-weight:800;color:#42526e;}
+  .colhead .cnt{font-size:30px;font-weight:700;color:#97a2b6;}
+  .colhead .add{margin-left:auto;color:#97a2b6;font-size:42px;font-weight:400;line-height:.6;}
+  .card{background:#fff;border-radius:15px;padding:30px 30px;margin-bottom:24px;
+    box-shadow:0 2px 4px rgba(23,43,77,.16),0 0 1px rgba(23,43,77,.12);}
+  .card .tt{font-size:37px;font-weight:600;color:#172b4d;line-height:1.22;margin-bottom:20px;}
+  .ready{display:inline-flex;align-items:center;gap:12px;background:#e3f6ea;color:#177245;
+    font-size:24px;font-weight:800;padding:10px 20px;border-radius:24px;text-transform:lowercase;letter-spacing:.3px;}
+  .ready .dot{width:14px;height:14px;border-radius:50%;background:#22a45d;box-shadow:0 0 0 4px rgba(34,164,93,.18);}
+  /* peek of next column */
+  .peek{flex:0 0 220px;background:#f1f2f4;border-radius:20px 0 0 20px;padding:30px 26px;opacity:.7;}
+  .peek .ct{font-size:32px;font-weight:800;color:#8f9bb0;}
+</style></head>
+<body><div class="frame">
+  <div class="boardhead"><span class="bt">Marketing board</span><span class="mdot">&#8943;</span></div>
+  <div class="cols">
+    <div class="col">
+      <div class="colhead"><span class="ct">Waiting for your OK</span><span class="cnt">(4)</span><span class="add">+</span></div>
+      <div class="card"><div class="tt">Thursday newsletter</div><span class="ready"><span class="dot"></span>ready</span></div>
+      <div class="card"><div class="tt">2 ad variants</div><span class="ready"><span class="dot"></span>ready</span></div>
+      <div class="card"><div class="tt">LinkedIn post: pricing story</div><span class="ready"><span class="dot"></span>ready</span></div>
+      <div class="card"><div class="tt">Customer email reply</div><span class="ready"><span class="dot"></span>ready</span></div>
+    </div>
+    <div class="peek"><div class="ct">Approved</div></div>
+  </div>
+</div></body></html>

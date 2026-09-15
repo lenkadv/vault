@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  .frame.social{
+    font-family:var(--sans);
+    background:radial-gradient(130% 100% at 50% 42%, #232a3d 0%, var(--ink-deep-2) 60%, #05060a 100%);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    padding:110px 96px;color:#fff;
+  }
+
+  .kick{
+    font-weight:700;font-size:27px;letter-spacing:5px;text-transform:uppercase;
+    color:rgba(220,222,230,.55);margin-bottom:70px;text-align:center;
+  }
+
+  /* the incongruity: a lone, oversized, satisfying checkbox in a huge void */
+  .box{
+    width:360px;height:360px;border-radius:44px;
+    background:var(--accent);
+    display:flex;align-items:center;justify-content:center;
+    box-shadow:0 40px 90px rgba(0,0,0,.45), inset 0 4px 0 rgba(255,255,255,.18);
+    transform:rotate(-3deg);
+  }
+  .box .tick{
+    width:210px;height:120px;
+    border-left:34px solid #fff;border-bottom:34px solid #fff;
+    border-bottom-left-radius:14px;
+    transform:rotate(-45deg) translate(6px,-24px);
+  }
+
+  .line{
+    margin-top:96px;text-align:center;
+    font-family:var(--serif);font-size:104px;line-height:1.0;letter-spacing:-2px;
+    color:#fff;max-width:900px;
+  }
+  .line em{color:var(--accent-soft);font-style:normal;}
+
+  .sub{
+    margin-top:34px;text-align:center;
+    font-weight:600;font-size:38px;letter-spacing:.2px;
+    color:rgba(220,222,230,.62);
+  }
+</style>
+</head>
+<body>
+<div class="frame social">
+  <div class="kick">Your entire marketing to-do list</div>
+  <div class="box"><span class="tick"></span></div>
+  <div class="line">One box. <em>Approve.</em></div>
+  <div class="sub">The AI already did the rest.</div>
+</div>
+</body>
+</html>

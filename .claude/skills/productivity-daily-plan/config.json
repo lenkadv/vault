@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "onboarded_at": "260523",
+  "schedule": {
+    "work_start": "11:00",
+    "work_end": "20:00",
+    "peak_focus_windows": [
+      {"start": "17:00", "end": "19:00", "label": "peak focus"}
+    ],
+    "recurring_blocks": []
+  },
+  "goals": {
+    "areas": ["tadylenka", "lcenglish", "health", "studies", "family", "japanese", "finances-admin", "slepekure"],
+    "goals_file_path": "G:\\Můj disk\\vault\\gtd\\goals.md"
+  },
+  "output": {
+    "plans_folder": "G:\\Můj disk\\vault\\daily",
+    "next_week_priorities_file": "G:\\Můj disk\\vault\\gtd\\next-week-priorities.md"
+  },
+  "preferences": {
+    "mit_count": 2,
+    "evening_cutoff_hour": 20
+  }
+}

@@ -1,0 +1,41 @@
+/* Default brand tokens, imported by every template in this library.
+   This is the ONE file that controls the look of every re-skinned template. Change a value here
+   and every template that uses it updates on the next render. No font files to install: both
+   stacks below are system fonts already on every Mac and Windows machine. See RENDER.md for how
+   to rebrand this in five minutes. */
+
+:root{
+  /* accent pair: used for highlights, CTAs-inside-the-scene, badges, quote marks */
+  --accent:       #3454D1;   /* primary accent */
+  --accent-soft:  #7A8EE0;   /* lighter accent, for secondary emphasis */
+
+  /* ink pair: used for dark panels and dark-mode cards (testimonials, quote cards) */
+  --ink-deep:     #1B2333;   /* dark panel background */
+  --ink-deep-2:   #10141C;   /* darker panel background, for gradients */
+
+  /* paper pair: used for light panels and card backgrounds */
+  --paper:        #F6F5F1;   /* primary light background */
+  --paper-2:      #EAE7DE;   /* secondary light background, for contrast blocks */
+
+  /* text */
+  --ink:          #17181C;   /* primary text on light backgrounds */
+  --muted:        #6B7280;   /* secondary/caption text */
+
+  /* type */
+  --serif: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+  --sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+*{margin:0;padding:0;box-sizing:border-box;}
+html,body{overflow:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;}
+.frame{position:relative;overflow:hidden;}
+.frame.social{width:1080px;height:1350px;}
+.frame.wide{width:1200px;height:675px;}
+
+/* shared wordmark / brand-bar utility classes some templates reuse */
+.wm{font-family:var(--serif);}
+.wm b{color:var(--accent);font-weight:400;}
+.brandbar{display:flex;align-items:center;gap:12px;font-family:var(--sans);}
+.brandbar .url{font-weight:600;letter-spacing:.3px;}
+.circimg{border-radius:50%;overflow:hidden;}
+.circimg img{width:100%;height:100%;object-fit:cover;object-position:50% 28%;display:block;}

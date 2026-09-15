@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "onboarded_at": "2026-01-01",
+  "output": {
+    "digests_folder": "REPLACE_WITH_ABSOLUTE_PATH_TO_READING_DIGESTS_FOLDER"
+  },
+  "sources": {
+    "reading_list_file": null,
+    "newsletter_gmail_label": null,
+    "use_read_later_connector": false
+  },
+  "pack_integration": {
+    "next_actions_file": null,
+    "goals_file_path": null
+  },
+  "preferences": {
+    "max_articles_per_digest": 12,
+    "process_action": "mark_done"
+  }
+}

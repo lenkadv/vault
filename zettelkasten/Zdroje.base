@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.inFolder("zettelkasten/literature/LN")
+views:
+  - type: table
+    name: Zdroje
+    order:
+      - file.name
+      - autor
+      - nazev
+      - rok
+      - typ
+      - stav
+      - tags
+      - kde_najit
+      - pouzito_v
+      - temata
+    sort:
+      - property: autor
+        direction: ASC
+    columnSize:
+      file.name: 224
+      note.rok: 84
+      note.tags: 274
