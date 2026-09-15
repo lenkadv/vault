@@ -299,6 +299,29 @@ Sjednocený katalog všeho, co Lenka vlastní/má k dispozici ke čtení — fyz
 - Zdroj fotek: Google Photos → stáhnout → drag & drop do poznámky → přejmenovat v Obsidianu
 - **Výjimka — archivní fotky bez číslování stran:** přejmenovat na původní název z Google Photos (`PXL_YYYYMMDD_HHMMSS.jpg`) — zachová dohledatelnost zpět ke zdroji; `fol[X]` formát použít jen pokud jsou folia číslovaná
 
+## Git záloha vaultu (od 260915)
+
+Vault zůstává primárně na Google Disku (sync beze změny) — Git je nad tím **přidaná** verzovaná
+vrstva, ne náhrada. Repozitář: `https://github.com/lenkadv/vault` (privátní).
+
+- **Rozsah:** trackuje se jen aktivní textový obsah — `areas/, projects/, gtd/, zettelkasten/,
+  daily/, weekly-reviews/, quarterly-reviews/, decisions/, inbox/, resources/ (poznámky, ne
+  přílohy), GrowOS/ (text), CLAUDE.md` a další kořenové soubory.
+- **Mimo Git** (zůstává jen na Disku, viz `.gitignore` v kořeni vaultu): `archive/`,
+  `GrowOS-0.1-archiv/`, `.trash/`, velké binárky (obrázky, PDF, pptx, zip), `.env` soubory
+  (tajemství), Google Disk cloudové odkazy (`.gsheet`/`.gdoc`/…), lokální/strojová nastavení
+  (`.obsidian/workspace.json`, `.claude/settings.local.json`).
+- **Claude nesmí pushovat** — bezpečnostní klasifikátor blokuje `git push` (i `git remote add`)
+  jako "out-of-place publication". Claude může lokálně `git add` + `git commit` (např. při
+  zavírání session), ale **push na GitHub musí spustit Lenka sama** v PowerShellu:
+  ```powershell
+  cd "G:\Můj disk\vault"
+  git push
+  ```
+- Instalováno přes YouCloned/AI Clone setup (viz [[project_youcloned_integration]] v memory) —
+  Cursor se nainstaloval, ale **nepoužívá se** jako pracovní prostředí, zůstáváme u Claude Code
+  (Code tab). NotebookLM a Supabase jsou zatím jen připravené `.env` placeholdery, nenastavené.
+
 ## Pravidla
 
 - [[omnibus]] je jediný vstupní bod — nikdy přímo do areas/ nebo gtd/ bez zpracování
