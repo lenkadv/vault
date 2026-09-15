@@ -7,6 +7,7 @@ Online kurzy angličtiny pro Čechy. Příběhová metoda, animovaný seriál. S
 
 - [[projects/lcenglish-art-for-english]]
 - [[projects/lcenglish-online-kurz]]
+- [[projects/lcenglish-10x-english-sales-page]]
 - [[projects/claude-academy]]
 
 ## Klíčové odkazy

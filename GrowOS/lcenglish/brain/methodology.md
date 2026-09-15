@@ -31,6 +31,22 @@ Detailní checklisty (tvorba epizody, týdenní checklist) jsou v `library/proce
 - **shadowing** — metoda 10x ENGLISH: poslech a souběžné opakování dialogu, plná rychlost i 80 % tempo, integrace se Shadowloop appem.
 - **HELE** — interní název vlajkového kurzu „Angličtina s příběhem".
 
+## Shadowloop — jak appka skutečně funguje (napříč kurzy)
+
+Zatím to bylo popsané jen v admin/technickém `resources/shadowloop-admin.md` (jak přiřadit balíček uživateli) a v uživatelském návodu na Disku (`3 LCEnglish/Products/Shadowloop/SHADOWLOOP návod.pdf`). Tady je to jako framing napříč kurzy — používá HELE, 10x ENGLISH i Nepravidelná slovesa, je to průřezový differentiator (potvrzeno 2026-09-14 v `brain/business.md`).
+
+**Co appka dělá:**
+- Progresivní webová appka (`shadowloop.lcenglish.cz`) — funguje z prohlížeče na počítači i mobilu, žádný app store. Jde přidat jako ikonu na plochu telefonu (Android i iPhone).
+- Student se přihlásí stejným emailem, jakým koupil kurz, a vidí jen balíčky, ke kterým má přístup.
+- Balíček = sada frází/vět. Každá se přehraje **3×** s pauzou mezi opakováními — v té pauze student frázi nahlas zopakuje (shadowing). Délka pauzy je nastavitelná.
+- Text jde zobrazit anglicky, česky, oboje, nebo schovat úplně (test porozumění bez nápovědy).
+- Tlačítko se dvěma šipkami pustí frázi ve smyčce, když je obzvlášť těžká.
+- Dva typy balíčků: **nezávislé fráze** — pořadí se při každém spuštění zamíchá, aby žádná fráze nezůstala "sirotkem" bez procvičení; **balíček s příběhem** — pořadí zůstává pevné, aby dávalo smysl.
+
+**Proč to je framing hodnota, ne jen technický detail:** appka řeší přesně to, co studentům chybí — aktivní opakování nahlas (ne pasivní poslech), v jejich vlastním tempu, kdykoli a kdekoli. Je to mechanismus za slibem "porozumíte mluvené angličtině a rozmluvíte se", ne jen bonus navíc.
+
+**Zatím nevybudováno:** jednotný, opakovaně použitelný text/vizuál vysvětlující Shadowloop zákazníkovi (na sales page, v kurzu, v onboardingu) — dosud se to zmiňuje jen letmo ("přidejte si materiály do appky Shadowloop"), bez vysvětlení mechanismu. Příležitost pro standardní blok, který se vloží do všech prodejních stránek stejně.
+
 ## What we believe that others do not
 - Gramatická tabulka se zapomene přes noc; příběh z obrazu (a jazyk v něm) zůstane. Vizuální a příběhový kontext > izolované cvičení.
 - Streak není pokrok. Dva roky denně na aplikaci ≠ umět si objednat kafe.
