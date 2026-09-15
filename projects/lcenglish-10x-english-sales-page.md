@@ -52,4 +52,4 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 
 - [[areas/lcenglish]]
 - [[projects/lcenglish-online-kurz]] — HELE funnel, stejný FAPI/Shadowloop/FreshLearn mechanismus
-- [[project_youcloned_integration]] (memory) — kontext, jak tenhle projekt vznikl
+- [[resources/youcloned-ai-clone-setup]] — kontext, jak tenhle projekt vznikl (vaultová kopie, čitelná i beze mě)
