@@ -52,7 +52,7 @@ sort by due
 
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
 - [ ] Zaregistrovat GNOSTIKA CONSULTING do dotačního programu
-- [ ] Napsat NG návrh na přímou spolupráci — nacenění spolupráce napřímo
+- [x] Napsat NG návrh na přímou spolupráci — nacenění spolupráce napřímo ✅ 2026-09-16
 - [ ] Vyzkoušet Blotato (publishing tool — scheduling/API/MCP pro Claude Code), 7denní trial zdarma — teď dává smysl: 7 dní doma — https://www.blotato.com/
 
 ```tasks

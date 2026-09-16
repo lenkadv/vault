@@ -37,37 +37,48 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## TANDEM
 
-**Typ:** faktura 2× ročně (konec června + prosinec), 750,- Kč/hod
-**K fakturaci červen 2026:** 7 hodin (od 1/2026, dosud nevyfakturováno)
+**Typ:** faktura 2× ročně (konec června + prosinec), 750,- Kč/hod (90 min = 1 125 Kč, 120 min = 1 500 Kč dle sazebníku od 9/2025)
 
-| #   | Datum  | Délka | Akce                    |
-| --- | ------ | ----- | ----------------------- |
-| 1   | 260318 | 1,5 h | SM — SOU a SOŠ Hlinky   |
-| 2   | 260410 | 1,5 h | SM — SOU Mladá Boleslav |
-| 3   | 260429 | 2 h   | MS — škola EU Praha     |
-| 4   | 260506 | 2 h   | SM — škola EU Praha     |
+### K fakturaci (prosinec 2026)
+
+| #   | Datum  | Délka | Cena     | Akce                                            |
+| --- | ------ | ----- | -------- | ------------------------------------------------ |
+| 5   | 260916 | 1,5 h | 1 125 Kč | MS — SŠ Rožnov (17 studentů, 18-19 let, B1-B2) |
+### Proplaceno (červnová faktura 2026)
+
+| #   | Datum  | Délka | Cena     | Akce                    |
+| --- | ------ | ----- | -------- | ----------------------- |
+| 1   | 260318 | 1,5 h | 1 125 Kč | SM — SOU a SOŠ Hlinky   |
+| 2   | 260410 | 1,5 h | 1 125 Kč | SM — SOU Mladá Boleslav |
+| 3   | 260429 | 2 h   | 1 500 Kč | MS — škola EU Praha     |
+| 4   | 260506 | 2 h   | 1 500 Kč | SM — škola EU Praha     |
+
 
 ---
 
 ## Michal Kocián
 
-**Typ:** předplacený balíček, faktura č. 426501, uhrazeno 260521
-**Nový balíček (domluven 260806):** 10 hodin — faktura zatím nevystavená/nepotvrzená, doplnit až přijde
+### Nový balíček (10 hodin, domluveno 260806) — faktura zatím nevystavená/nepotvrzená, doplnit až přijde
 
-| #   | Datum  | Poznámka      |
-| --- | ------ | ------------- |
-| 1   | 260423 | ✓             |
-| 2   | 260430 | zrušeno pozdě |
-| 3   | 260512 | ✓             |
-| 4   | 260514 | ✓             |
-| 5   | 260521 | ✓             |
-| 6   | 260528 | ✓             |
-| 7   | 260618 | ✓             |
-| 8   | 260625 | ✓             |
-| 9   | 260723 | zrušeno pozdě |
-| 10  | 260730 | ✓             |
-| 11  | 260806 | ✓ — nový balíček domluven na této hodině |
-| 12  | 260910 | ✓ — 1. hodina nového balíčku (10 h) |
+| #   | Datum  | Poznámka                            |
+| --- | ------ | ------------------------------------ |
+| 11  | 260806 | ✓ — 1. hodina nového balíčku (10 h) |
+| 12  | 260910 | ✓ — 2. hodina nového balíčku (10 h) |
+
+### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
+
+| #   | Datum  | Poznámka       |
+| --- | ------ | -------------- |
+| 1   | 260423 | ✓              |
+| 2   | 260430 | zrušeno pozdě  |
+| 3   | 260512 | ✓              |
+| 4   | 260514 | ✓              |
+| 5   | 260521 | ✓              |
+| 6   | 260528 | ✓              |
+| 7   | 260618 | ✓              |
+| 8   | 260625 | ✓              |
+| 9   | 260723 | zrušeno pozdě  |
+| 10  | 260730 | ✓              |
 
 ---
 
