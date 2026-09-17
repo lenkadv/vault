@@ -19,6 +19,7 @@ rubrika: zeny-v-obraze
 runway_slot: 1
 publish_target_date: 2026-09-18
 source: "Lenčina seminárka Male gaze ve výtvarném umění raného novověku (KTF UK, 2026) — https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit"
+own_draft: "Lenka píše vlastní verzi v Google Docs (260917) — https://docs.google.com/document/d/14ENLRZ8OdvGLJ5IdtxCt4Juhcmc2TuteKvgXIVcCiRo/edit"
 wordcount: 950
 revision: 3
 ---

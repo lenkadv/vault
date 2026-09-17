@@ -84,7 +84,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
-- [ ] Ověřit se Štěpánkou GNOSTIKinu historii kurzů: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — vyřešeno KAM se to dokládá: nikam předem, ÚP si čestné prohlášení vyžádá sám při posuzování prvního zaregistrovaného kurzu, takže tohle připravit, ale nepodávat aktivně #next-action #online
+- [ ] Ověřit se Štěpánkou historii kurzů GNOSTIKy: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — vyřešeno KAM se to dokládá: nikam předem, ÚP si čestné prohlášení vyžádá sám při posuzování prvního zaregistrovaného kurzu, takže tohle připravit, ale nepodávat aktivně #next-action #online
 - [ ] Získat přístup k profilu GNOSTIKy v Databázi (editor/kontaktní osoba) #online
 
 ### Obsah kurzu

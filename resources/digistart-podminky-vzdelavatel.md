@@ -34,7 +34,7 @@ Tzn. nejde o nepřetržité 12měsíční období ani o oprávnění/licenci —
 
 DigiStart bude realizován **pod GNOSTIKou** (s.r.o., vlastník Ing. Štěpánka Uličná, Ph.D. — viz [[projects/gnostika-fekt-audit]]). Podmínka v Čl. XIV bodu 5 se váže na subjekt, který se registruje jako vzdělavatel a kurzy **realizoval** — tedy na **GNOSTIKu jako firmu**, ne na Lenčinu osobní lektorskou historii mimo GNOSTIku. Lenčiny kurzy realizované pod jiným IČO (vlastním) se do track recordu GNOSTIKY pravděpodobně nezapočítávají, pokud GNOSTIKA nebyla jejich formálním poskytovatelem/organizátorem.
 
-Lenka zatím zkoumá formulář na svém vlastním profilu (IČO 64728617) — k profilu GNOSTIKY v Databázi zatím nemá přístup. Až bude mít přístup, je potřeba ověřit **GNOSTIKinu** vlastní historii: min. 12 kurzů zaměřených na digitální vzdělávání s počátkem v 12 různých kalendářních měsících za poslední 3 roky.
+Lenka zatím zkoumá formulář na svém vlastním profilu (IČO 64728617) — k profilu GNOSTIKY v Databázi zatím nemá přístup. Až bude mít přístup, je potřeba ověřit **vlastní historii GNOSTIKy**: min. 12 kurzů zaměřených na digitální vzdělávání s počátkem v 12 různých kalendářních měsících za poslední 3 roky.
 
 ### Kam se čestné prohlášení zadává — vyřešeno 260915
 

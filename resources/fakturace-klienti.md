@@ -64,6 +64,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | --- | ------ | ------------------------------------ |
 | 11  | 260806 | ✓ — 1. hodina nového balíčku (10 h) |
 | 12  | 260910 | ✓ — 2. hodina nového balíčku (10 h) |
+| 13  | 260917 | no-show — Michal v Egyptě, zapomněl seanci zrušit |
 
 ### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
 
