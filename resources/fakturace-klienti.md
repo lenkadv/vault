@@ -114,6 +114,18 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | #   | Datum  | Délka | Poznámka |
 | --- | ------ | ----- | -------- |
 | 1   | 260904 | 1 h   | 12–13 h  |
+| 2   | 260918 | 1 h   | ✓        |
+
+---
+
+## Rudolf Vacek (PENTA)
+
+**Typ:** fakturovat po skončení
+**Plán:** 3–5 hodin
+
+| #   | Datum  | Délka | Poznámka |
+| --- | ------ | ----- | -------- |
+| 1   | 260918 | 1 h   | ✓        |
 
 ---
 
