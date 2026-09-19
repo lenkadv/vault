@@ -17,6 +17,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 2   | 260807 | 1 h 10 min | Práce na auditu |
 | 3   | 260812–260814 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
 | 4   | 260817–260819 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
+| 5   | 260919 | 2 h | Vnitřní předpisy FEKT (12:00–14:00) |
 
 ---
 

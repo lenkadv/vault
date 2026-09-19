@@ -21,6 +21,10 @@ Správa příjmů, opakující se administrativa, dokumenty pro rodinu.
 | VOX — otevřené kurzy | potenciální, neřešeno | — |
 Klíčové trvalé odkazy
 - [[resources/fakturace-klienti]] — evidence odučených hodin a fakturačního stavu klientů
+- [[resources/fekt-vut-vnitrni-normy-nestudijni]] — GNOSTIKA: rozhodnutí děkana FEKT, vnitřní předpisy FEKT, výběr směrnic VUT (260919)
+- [[resources/fekt-vut-smernice-pokyny-metodicke-listy]] — GNOSTIKA: platné nestudijní směrnice, pokyny a metodické listy FEKT/VUT/Rektorát vč. odpovědného útvaru (260919)
+- [[resources/vnitrni-predpisy-fakult-uk-vs-fekt-vut]] — GNOSTIKA: srovnání nestudijních agend PřF/MFF/FSV UK vs. FEKT/VUT (260919)
+- resources/Stav-vnitrnich-predpisu-FEKT-VUT-260919.docx — GNOSTIKA: dokument o stavu vnitřních předpisů FEKT (executive summary, zhodnocení, doporučení; 260919)
 ## Opakující se administrativa
 
 | Co | Frekvence |
