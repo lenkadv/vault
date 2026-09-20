@@ -100,7 +100,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Rekapitulovat a odsouhlasit zadání epizody #23 (Van Gogh, Červená vinice, předložky pohybu along/across/through/towards), pak připravit brief ✅ 2026-09-20
 - [x] Napsat newsletter #23 — hook: podzim jako oblíbené období, procházka po vinici; draft prošel humanizerem, Lenka finalizovala v Dripu ✅ 2026-09-20
 - [x] Vybrat subject, dodělat obrázek a naplánovat newsletter #23 v Dripu (odeslání 22. 9.) ✅ 2026-09-20 — finální verze napsaná Lenkou, subject "Zima? Jaká zima?", připraveno k odeslání v úterý
-- [ ] Rekapitulovat a odsouhlasit zadání epizody #24 (Myslbek, Jezdecká socha sv. Václava, past simple: vyprávění legendy; hook zpětně na 28. 9. Den české státnosti, ideálně vlastní foto z Prahy), pak připravit brief a newsletter — odeslání 29. 9. #next-action #online 📅 2026-09-24
+- [ ] Rekapitulovat a odsouhlasit zadání epizody #24 (Myslbek, Jezdecká socha sv. Václava, past simple: vyprávění legendy; hook zpětně na 28. 9. Den české státnosti, ideálně vlastní foto z Prahy), pak připravit brief a newsletter — odeslání 29. 9. #next-action #online 📅 2026-09-25
 
 ## Aktuální stav
 
