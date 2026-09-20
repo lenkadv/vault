@@ -11,6 +11,7 @@
 Odeslané newslettery Art for English (přeneseno z GrowOS 0.1, 2026-09-06). Jádro hlasového korpusu — real-life hook → anglická lekce → jeden měkký CTA, podpis „Zdraví L.".
 
 - [[2026-09-06-0.1-newsletter-2026-04-09-proc-menim-obsah]] — pivot email „Proč měním obsah", odeslán ~2026-04-09. Zakladatelský příběh série, nejteplejší hlas, dobré pro otvírání.
+- [[episodes-23-vangogh-newsletter]] — AfE #23, van Gogh, Červená vinice, předložky pohybu. (Naplánováno v Dripu na 22. 9., odejde automaticky.)
 - [[episodes-22-kimhongdo-newsletter]] — AfE #22, Kim Hong-do, Ssireum, adverbs of frequency. (Naplánováno v Dripu, odejde automaticky.)
 - [[episodes-21-colosseum-newsletter]] — AfE #21, Koloseum. (Naplánováno v Dripu, odejde automaticky.)
 - [[episodes-20-steen-newsletter]] — AfE #20, Jan Steen, Škola pro chlapce a děvčata.

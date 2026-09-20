@@ -31,6 +31,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - #19 Wayne Thiebaud — Cakes (offers/requests) — 25. 8. 2026
 - #20 Jan Steen — Škola pro chlapce a dívky (must/mustn't) — 1. 9. 2026
 - #21 Colosseum & antické velarium (quantifiers: a lot of / a few / a little) — 8. 9. 2026
+- #22 Kim Hong-do — Ssireum (adverbs of frequency) — 15. 9. 2026
+- #23 Vincent van Gogh — Červená vinice (předložky pohybu: through / across / along / towards) — 22. 9. 2026
 
 ## Sekvence (opakující se)
 
@@ -94,12 +96,16 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Rekapitulovat a odsouhlasit zadání epizody #22 (Kim Hong-do, Ssireum, adverbs of frequency), pak připravit brief — termín 15. 9. ✅ 2026-09-14
 - [x] Napsat newsletter #22 — draft (Claude, hook: korejské seriály jako guilty pleasure) přepracován Lenkou do finální verze (přímo psáno s ohledem na Drip), kanonické věty sometimes/always/never o vlastním seriálovém návyku, ne o pravidlech zápasu ✅ 2026-09-14
 - [x] Finalizovat a naplánovat newsletter #22 v Dripu (odeslání 15. 9.) #next-action #online 📅 2026-09-14 ✅ 2026-09-14 — finální verze napsaná Lenkou, subject "Moje (ne úplně) tajná neřest", naplánováno k odeslání v Dripu
-- [ ] Připravit brief pro epizodu #23 — Josef Václav Myslbek, Jezdecká socha sv. Václava (past simple: vyprávění legendy), návaznost na 28. 9. Den české státnosti #next-action #online 📅 2026-09-21
+- [x] Prohodit #23 a #24 v curriculu — Myslbek posunut na 29. 9. (den po Dni české státnosti), van Gogh na 22. 9. ✅ 2026-09-20
+- [x] Rekapitulovat a odsouhlasit zadání epizody #23 (Van Gogh, Červená vinice, předložky pohybu along/across/through/towards), pak připravit brief ✅ 2026-09-20
+- [x] Napsat newsletter #23 — hook: podzim jako oblíbené období, procházka po vinici; draft prošel humanizerem, Lenka finalizovala v Dripu ✅ 2026-09-20
+- [x] Vybrat subject, dodělat obrázek a naplánovat newsletter #23 v Dripu (odeslání 22. 9.) ✅ 2026-09-20 — finální verze napsaná Lenkou, subject "Zima? Jaká zima?", připraveno k odeslání v úterý
+- [ ] Rekapitulovat a odsouhlasit zadání epizody #24 (Myslbek, Jezdecká socha sv. Václava, past simple: vyprávění legendy; hook zpětně na 28. 9. Den české státnosti, ideálně vlastní foto z Prahy), pak připravit brief a newsletter — odeslání 29. 9. #next-action #online 📅 2026-09-24
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #22 Kim Hong-do, Ssireum (adverbs of frequency: sometimes/always/never) — 15. 9. 2026
-- **Další výstup:** NL #23 — Myslbek, Jezdecká socha sv. Václava (past simple), termín úterý 22. 9. 2026
+- **Poslední newsletter:** #23 van Gogh, Červená vinice (předložky pohybu) — naplánováno na 22. 9. 2026 (zatím neodeslán; do odeslání poslední odeslaný je #22, 15. 9.)
+- **Další výstup:** NL #24 — Myslbek, Jezdecká socha sv. Václava (past simple), termín úterý 29. 9. 2026 (den po Dni české státnosti)
 
 ## GrowOS 2.0
 

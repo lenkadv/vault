@@ -50,8 +50,8 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 | 20  | 1. 9.  | must / mustn't (školní pravidla)          | Škola pro chlapce a dívky (A School for Boys and Girls) | Jan Steen (cca 1670), Scottish National Gallery, Edinburgh | **Umístěno 2026-08-15 na první školní den.** Chaotická školní třída, kompozice volně podle Raffaelovy Athénské školy — pravidla třídy = přirozený kontext pro must/mustn't. Nahrazuje Eschera (viz Otevřené body — hledá se nový termín) |
 | 21  | 8. 9.  | quantifiers (a lot of / a few / a little)          | Colosseum + antické velarium (vlastní fotka Lenky) | — (výjimka formátu, jako díl #18) | **Revize 2026-09-06.** Původně Zhang Zeduan, *Podél řeky o svátku Čching-ming* — svitek 25 cm × 5 m nešel použít jako obrázek do newsletteru, přesunut do Otevřených bodů. Nahrazeno návaznou epizodou na Lenčin návrat z Říma: davy + výheň u Colossea vs. antické velarium (měli hodně stínu / máme málo). ✅ materiál hotový |
 | 22  | 15. 9. | adverbs of frequency (sometimes/always/never) | Ssireum (Zápas)     | Kim Hong-do (18. stol.), Národní muzeum Koreje              | ✅ materiál hotový. Hook: Lenčino guilty pleasure — korejské seriály probudily zájem o korejskou kulturu, který ji dovedl k tomuhle obrazu. Kanonické věty o vlastním seriálovém návyku, ne o pravidlech zápasu (ten zůstává jako fakt o obraze). |
-| 23  | 22. 9. | past simple (vyprávění legendy)           | Jezdecká socha sv. Václava     | Josef Václav Myslbek (1912–1924), Václavské náměstí Praha   | 28. 9. Den české státnosti — socha místo obrazu, jiné médium |
-| 24  | 29. 9. | some / any + vinobraní slovní zásoba      | Červená vinice                 | Vincent van Gogh (1888), Puškinovo muzeum Moskva            | Vinobraní; van Gogh prodal za života jediný obraz — nahrazuje původní návrh s Caravaggiem, odstraňuje opakování z týdne 1 |
+| 23  | 22. 9. | předložky pohybu (along / across / through / towards) + vinobraní slovní zásoba | Červená vinice                 | Vincent van Gogh (1888), Puškinovo muzeum Moskva            | **Prohozeno 2026-09-20 s Myslbekem (dřív #24). Gramatika změněna 2026-09-20 ze some/any na předložky pohybu** — some/any už byla v #8 (Peeters), kvantifikátory v #21. Vinobraní; nahrazuje původní návrh s Caravaggiem, odstraňuje opakování z týdne 1. ⚠️ Tvrzení "jediný prodaný obraz" je sporné (prodal nejméně dva) — v textu opatrně. ✅ materiál hotový, hook: podzim jako oblíbené období + procházka po vinici, subject "Zima? Jaká zima?", naplánováno v Dripu |
+| 24  | 29. 9. | past simple (vyprávění legendy)           | Jezdecká socha sv. Václava     | Josef Václav Myslbek (1912–1924), Václavské náměstí Praha   | **Prohozeno 2026-09-20 s van Goghem (dřív #23).** Newsletter vychází den po 28. 9. Dni české státnosti — hook zpětně („včera byl svátek"). Socha místo obrazu, jiné médium; ideálně vlastní foto z Prahy |
 
 ---
 
@@ -115,8 +115,8 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 | 20 | Jan Steen — Škola pro chlapce a dívky | https://www.nationalgalleries.org/art-and-artists/5676/school-boys-and-girls-about-1670 (nebo Wikimedia Commons) |
 | 21 | Zhang Zeduan — Podél řeky o svátku Čching-ming | Palácové muzeum Peking / Wikimedia Commons (hledat "Along the River During the Qingming Festival") |
 | 22 | Kim Hong-do — Ssireum | Národní muzeum Koreje / Wikimedia Commons |
-| 23 | Myslbek — Socha sv. Václava | Wikimedia Commons (hledat "Wenceslas Square statue Myslbek") — jde o veřejnou sochu, ideálně vlastní foto z Prahy |
-| 24 | Van Gogh — Červená vinice | https://pushkinmuseum.art/ (hledat "Red Vineyard van Gogh") nebo Wikimedia Commons |
+| 23 | Van Gogh — Červená vinice | https://pushkinmuseum.art/ (hledat "Red Vineyard van Gogh") nebo Wikimedia Commons |
+| 24 | Myslbek — Socha sv. Václava | Wikimedia Commons (hledat "Wenceslas Square statue Myslbek") — jde o veřejnou sochu, ideálně vlastní foto z Prahy |
 
 ---
 
@@ -129,7 +129,7 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 - **Berthe Morisot — Kolébka + Gustav Klimt — Mateřství (téma mateřství/rodiny):** znovu otevřeno 2026-07-28 — plánováno na týden 15, ale vyměněno za Bruegel/Homer (nesedělo k real-life hooku dané epizody). Oba obrazy zůstávají dobrý materiál, hledat vhodnější týden/hook (např. epizoda přímo o rodičovství, ne o dětské nostalgii).
 - **Bruegel v plánu potřetí:** týden 15 (Children's Games) přidán 2026-07-28 vedle už existujících týdnů 23 a 27. Zvážit v některém příštím vydání nahrazení jednoho z těchto tří (ideálně týden 15 nebo 23) jiným umělcem, přednostně ženou — vyrovná se tím i ženské zastoupení (aktuálně 9 z 35 týdnů po odebrání Morisot z týdne 15).
 - ~~Týden 13 (should/shouldn't – galerie)~~ → vyřešeno, týden 14 (21. 7.), Zoffany — Tribuna degli Uffizi.
-- ~~Týden 16 Caravaggio repeat (vinobraní)~~ → vyřešeno, týden 24 (29. 9.) nahrazen van Goghem — Caravaggio se tak v roce 2026 objevuje jen jednou (týden 1).
+- ~~Týden 16 Caravaggio repeat (vinobraní)~~ → vyřešeno, týden 23 (22. 9.) nahrazen van Goghem — Caravaggio se tak v roce 2026 objevuje jen jednou (týden 1).
 - **Rembrandt — Mojžíš rozbíjí desky Desatera (have to/must/mustn't):** vyřazeno z týdne 16 (2026-08-04) — náboženský kontext nesedí k cílovce. Materiál v `output/episodes/` nahrazen, samotný nápad na must/mustn't se přesouvá na Jana Steena (viz níže).
 - ~~Jan Steen — Škola pro chlapce a dívky (must/mustn't, školní pravidla)~~ → vyřešeno 2026-08-15, týden 20 (1. 9., první školní den), nahrazuje Eschera.
 - **Hilma af Klint — The Ten Largest, No. 7 (adjectives: barvy, tvary, nálada):** vyřazena z týdne 18 (2026-08-15) — nahrazena Rivièrem (Odysseus a Argos, dvojitý hook na jmeniny Heleny + Nolanovu Odysseu v kinech). Fakta i obrázek už hotové a ověřené, viz `output/episodes/_unplaced-af-klint/brief.md` — zatím bez přiřazeného termínu, dobrý materiál pro "adjectives" nebo podobnou vizuální/náladovou gramatiku.
@@ -148,16 +148,16 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 | Baroko | 1, 11, 25 (Bosch) |
 | Holandská zlatá éra | 2, 8, 12, 20 (Jan Steen), 31 |
 | 18. století | 5, 14 (Zoffany) |
-| 19. století (ne-impresionismus) | 30 (Delacroix), 24 (Van Gogh — post-impresionismus), 15 (Homer — americký realismus), 18 (Rivière — viktoriánský akademismus) |
+| 19. století (ne-impresionismus) | 30 (Delacroix), 23 (Van Gogh — post-impresionismus), 15 (Homer — americký realismus), 18 (Rivière — viktoriánský akademismus) |
 | Impresionismus | 6, 7, 9 |
-| Post-impresionismus | 10, 24 (Van Gogh) |
+| Post-impresionismus | 10, 23 (Van Gogh) |
 | Symbolismus / secese | 27 (Mucha) |
 | Raná abstrakce | nepřiřazeno (Hilma af Klint — viz Otevřené body) |
 | Mexický muralismus (20. stol.) | 17 (Diego Rivera) |
 | Indická moderna / post-impresionismus (20. stol.) | 16 (Amrita Sher-Gil) |
 | Moderní grafika / 20. stol. | 20 (Escher), 26 (Kahlo) |
-| Sochařství (jiné médium) | 23 (Myslbek) |
-| Česká / středoevropská díla | 23 (Myslbek), 27 (Mucha) |
+| Sochařství (jiné médium) | 24 (Myslbek) |
+| Česká / středoevropská díla | 24 (Myslbek), 27 (Mucha) |
 
 ---
 
@@ -175,12 +175,12 @@ Cíl: prostřídat evropskou tradici zastoupením mimo Evropu a méně obvyklým
 | Velká Británie (Zoffany, něm. původ) | 14 |
 | Vlámsko / dnešní Belgie (Bruegel) | 15 |
 | USA | 15 (Homer), 19 (Thiebaud) |
-| Nizozemsko | 20 (Escher), 24 (Van Gogh) |
+| Nizozemsko | 20 (Escher), 23 (Van Gogh) |
 | Indie / Maďarsko (Amrita Sher-Gil) | 16 |
 | Mexiko (Rivera) | 17 |
 | Velká Británie (Rivière) | 18 |
 | Čína (Zhang Zeduan) | 21 |
 | Korea (Kim Hong-do) | 22 |
-| Česko (Myslbek) | 23 |
+| Česko (Myslbek) | 24 |
 
 10 různých zemí/regionů napříč 11 týdny — dvě opakování: Nizozemsko (3×, ale tři zcela odlišná období: baroko, 20. stol. grafika, post-impresionismus) a USA (2×, Homer 19. stol. realismus vs. Thiebaud 20. stol. pop-art).
