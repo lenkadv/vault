@@ -34,7 +34,7 @@ resources/         ← referenční materiály: MOC, clippings, lookup tabulky, 
 
 ## Areas
 
-tadylenka, lcenglish, health, finances-admin, family, japanese, slepekure, studies, domacnost
+tadylenka, lcenglish, health, finances-admin, family, japanese, slepekure, studies, domacnost, ai-nastroje
 
 ### Co patří do areas/
 

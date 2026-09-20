@@ -8,7 +8,7 @@ Spouštěč: protéká záchod (splachování). Než volat, sesbírat další dr
 
 ## Úkoly
 
-- [ ] Sepsat seznam oprav pro hodinového manžela — začít protékajícím záchodem, projít byt a přidat další drobnosti #next-action #doma
+- [x] Sepsat seznam oprav (Lenčina část hotová 260920; Vítek doplní a sehná opraváře → [[waiting-for]])
 - [ ] Sehnat a objednat hodinového manžela (poptat, domluvit termín)
 
 ## Seznam oprav (průběžně doplňovat)

@@ -8,17 +8,22 @@ Správa příjmů, opakující se administrativa, dokumenty pro rodinu.
 - [[projects/if-i-die-folder]] — dokumenty a instrukce pro rodinu
 - [[projects/gnostika-fekt-audit]] — konzultantka v týmu GNOSTIKA, audit děkanátu FEKT VUT
 - [[projects/digistart]] — kurz digitálních dovedností pro 40+ s kolegyní Štěpánkou, přes databázi MPSV/ÚP
+- [[projects/arttinder-consulting]] — art consulting pro Michala Kociána (výběr děl do nového domu)
 
 ## Příjmy — přehled zdrojů
 
 | Zdroj | Stav | Pravidelnost |
 |-------|------|--------------|
 | Public speaking koučink | aktivní | nepravidelně, dle klientů |
-| Tandem — průvodce Prahou | aktivní | párkrát měsíčně |
+| TANDEM — série vycházek (zprostředkovává TANDEM; např. Rožnov 260916), evidence v [[resources/fakturace-klienti]] | aktivní | párkrát měsíčně |
 | LCEnglish kurzy | revival | nepravidelně |
 | tadylenka | zatím bez příjmu | budoucnost |
-| Národní galerie — lektor | someday (NG nemá poptávku) | zatím bez příjmu |
+| Národní galerie — lektor (odborná lektorská role) | someday (NG nemá poptávku) | zatím bez příjmu |
 | VOX — otevřené kurzy | potenciální, neřešeno | — |
+| Národní galerie — školení soft skills (komunikace) | jiná role než lektor výše; nacenění odesláno 260915 (3× 4 h) | dle domluvy s NG |
+| GNOSTIKA CONSULTING — audit FEKT VUT | aktivní (konzultantka), srpen–listopad 2026 | zakázka |
+| PENTA — koučink (Musil, Vacek a další) | aktivní | dle klientů |
+| Michal Kocián — angličtina (10h balíček) + art consulting | aktivní | dle domluvy |
 Klíčové trvalé odkazy
 - [[resources/fakturace-klienti]] — evidence odučených hodin a fakturačního stavu klientů
 - [[resources/fekt-vut-vnitrni-normy-nestudijni]] — GNOSTIKA: rozhodnutí děkana FEKT, vnitřní předpisy FEKT, výběr směrnic VUT (260919)

@@ -8,7 +8,6 @@
 ## Aktivní projekty
 
 - [[projects/tadylenka-publishing]]
-- [[projects/claude-academy]]
 
 ## Klíčové odkazy
 
@@ -21,7 +20,7 @@
 ## Nápady na rozvoj
 
 - **"Rande s uměním"** — název, který se hodí. Zatím bez jasného ukotvení — mohlo by být: komentované vycházky po galeriích, art consulting jako značka, nebo název pro lead magnet / interaktivní formát. Zachovat.
-- **ArtTinder lead magnet** — veřejná verze pro čtenáře s copyright-free starým uměním. Základ (HTML app) hotový. → [[gtd/someday-maybe]]
+- **ArtTinder lead magnet** — veřejná verze pro čtenáře s copyright-free starým uměním. Základ (HTML app) hotový. → [[projects/arttinder-consulting]]
 
 ## K prozkoumání
 

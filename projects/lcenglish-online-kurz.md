@@ -41,7 +41,7 @@ Shadowloop lead magnet jako vstupní bod zamítnut — viz [[GrowOS/lcenglish/re
 
 **Strategický základ VSL:** Anti-false-promises positioning — Lenka říká pravdu o časových očekáváních, humor staví na tom, že audience ty sliby zná a znovu se jim nechá nachytat. Diferenciátor: zábava a pohyb dopředu jsou důvod pokračovat, ne plynulost za 60 dní.
 
-- [ ] Napsat Mini VSL skript (WLC PAS šablona) #next-action #online ⏫
+- [ ] Napsat Mini VSL skript (WLC PAS šablona) #next-action #online
   - **Pozastaveno 260715** — Hook, Problem, Solution reveal a 4/5 bulletů hotové → [[GrowOS/lcenglish/output/funnel/260714-minivsl-draft-v1]]. Lenka odhalila strukturální problém: Hook/Problem/Solution spolu logicky nedrží jednu nit (viz [[feedback_mentor_throughline]]). Než se pokračuje, Lenka si sama promyslí throughline mimo sekvenční mentoring.
   - Zbývá: bullet 5 (bonus), close/CTA, a hlavně sladit throughline napříč sekcemi
   - Postup: [[GrowOS/lcenglish/research/260616-wlc-minivsl-process]]

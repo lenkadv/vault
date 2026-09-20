@@ -24,7 +24,15 @@ Před čímkoliv jiným: hledej `config.json` ve složce tohoto skillu.
 
 ## GTD kroky 1–10 (vždy první, bez ptaní)
 
-Projdi kroky jeden po druhém. Po každém kroku krátce shrň co bylo a přejdi dál. Po kroku 11 přejdi automaticky na Rituál.
+**Weekly review je reflexe Lenky, ne úkol, který Claude provede.** Claude vede, Lenka provádí a rozhoduje.
+
+Pravidla vedení (platí pro GTD kroky i Rituál):
+- **Jeden bod najednou.** Ukázat stav jedné věci (jeden projekt, jedna položka waiting-for, jedna položka someday, jedna položka omnibusu) a položit jednu otázku. Počkat na odpověď.
+- **Žádný souhrnný přehled předem** a žádný seznam všech otázek naráz. Nepředkládat "co potřebuju od tebe: 1, 2, 3".
+- **Claude sám dělá jen mechanické kroky** (kontrola Disku, archivace dailies, aktualizace `posledni_kontrola`, čtení souborů). Rozhodnutí (keep/drop/defer, přesun, smazání) dělá Lenka; Claude zapíše až po její odpovědi.
+- Nic nemazat ani nepřesouvat bez její reakce.
+- **Žádný krok nepřeskakovat z vlastního rozhodnutí.** Pokud je krok nevhodný nebo pozastavený (např. Notes fronta), Claude ho předloží a o přeskočení rozhodne Lenka. Platí i pro položky z CLAUDE.md (runway tadylenka, Zettelkasten review, kontrola Handy Library, master-dashboard, upozornění na úkoly bez pohybu 2+ týdny).
+- Po vyřízení jednoho bodu rovnou přejít na další. Po kroku 11 přejít na Rituál.
 
 1. [[master-dashboard]] — rychlý přehled: co má next action, co nemá, co čeká
 2. `projects/` — každý projekt: živý nebo do someday/archive? Next action aktuální?

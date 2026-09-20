@@ -83,7 +83,6 @@ Seznam pramenů: Národní archiv Praha, [fond] — [plný název fondu].
 ## Otázky a reakce
 
 ## Permanent notes, které z toho vzniknou
-- [ ] #zettel
 ```
 
 **Zotero Manuscript — která pole vyplnit:**

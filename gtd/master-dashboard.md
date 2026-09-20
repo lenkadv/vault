@@ -38,8 +38,8 @@ SORT file.mtime ASC
 
 ```dataview
 TASK
-FROM "gtd"
-WHERE !completed AND contains(tags, "#waiting")
+FROM "gtd/waiting-for.md"
+WHERE !completed
 SORT file.mtime ASC
 ```
 

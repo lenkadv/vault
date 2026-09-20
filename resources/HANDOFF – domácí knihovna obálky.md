@@ -115,7 +115,7 @@ Tohle běží při každém dalším syncu (weekly review krok Zettelkasten, neb
 
 **Fyzické (Handy Library) — NE podle ISBN.** Knihy starší ~30 let ISBN nemají (Lenka jich má hodně), takže ISBN matching by je systematicky přeskakoval jako "nic nového". Místo toho: Handy Library přiděluje každé katalogizované knize stabilní interní `_id` (autoincrement, nezávislý na ISBN, existuje u úplně každé knihy). Diffovat podle tohohle.
 
-- **Baseline snapshot:** [[handy-library-snapshot-260810.csv]] — obsahuje `handy_id` (= `_id` z `book_library`), Title, Author, ISBN pro všech 740 knih naimportovaných 260810.
+- **Baseline snapshot:** [[handy-library-snapshot-260920.csv]] — obsahuje `handy_id` (= `_id` z `book_library`), Title, Author, ISBN pro všech 740 knih naimportovaných 260810.
 - **Postup:** stáhnout čerstvou zálohu (krok 1 výše), vytáhnout `SELECT _id, Title, Author, ISBN FROM book_library WHERE Deleted_At IS NULL`, porovnat sloupec `_id` proti `handy_id` v posledním uloženém snapshotu. Nové fyzické knihy = `_id`, které v snapshotu chybí.
 - **Po zpracování:** přepsat snapshot soubor čerstvým plným exportem (nový baseline pro příští sync) — pojmenovat `handy-library-snapshot-{YYMMDD}.csv`, starý smazat nebo přesunout, ať nevznikají desítky verzí.
 

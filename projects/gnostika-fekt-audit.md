@@ -22,4 +22,4 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 
 ## Next actions
 
-Žádná — čeká se na Štěpánku (koordinace s FEKT). Až se ozve nebo přidělí Lence konkrétní úkol, doplnit #next-action.
+- [ ] Koupit lístek na vlak/autobus do Brna a zpět (cesta na FEKT) #next-action #online

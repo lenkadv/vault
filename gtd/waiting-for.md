@@ -22,6 +22,7 @@ sort by due
 
 ## Čeká na někoho
 
-- [ ] Michal Šedivý — reakce na rámec spolupráce (průvodcovský projekt s boromejkami / barokním špitálem: role, časový plán, finance/organizace). Lenka mu 2026-09-10 napsala (kapacitní a komfortní limity — produkce, telefonování — už dřív sděleny). Čeká na jeho odpověď. 📅 2026-09-24
 - [ ] Vítek — má od Alexe získat zpátky IKEA tašku, Lenka mu to 2026-09-14 znovu připomněla. 📅 2026-09-21
-- [ ] Mother's Earth — poptáno, proč nedošla objednaná zásilka, Lenka napsala 2026-09-15. 📅 2026-09-22
+- [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). 📅 2026-09-24
+- [ ] David Musil — upřesnění termínu online schůzky mezi 25. a 28. 9. (až se domluví s manželkou, bude ve Španělsku); případně se poptat. 📅 2026-09-24
+- [ ] PENTA — rozhodnutí o termínech konzultací: buď ve čtvrtek 24. 9. po Michalu Kociánovi dvě schůzky (Rudolf Vacek a Martin), nebo jen Martin ve čtvrtek a Rudolf v pátek 25. 9. Pokud v pátek, hlídat překryv s japonštinou (14:30) a domluvit jiný termín s lektorkou. V úterý začít honit. 📅 2026-09-22

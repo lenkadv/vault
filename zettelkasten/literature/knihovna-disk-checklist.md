@@ -2,7 +2,7 @@
 
 Pracovní seznam pro [[MOC – Zettelkasten]], sekce "Alternativní vznik — katalogová LN". Kontext a pravidla viz handoff v paměti / konverzaci 260731. Folder ID `1dy9tyD5wg0WFNZzXtxeoOorNlLo9XLk1`.
 
-**posledni_kontrola: 2026-09-14T12:34:00Z**
+**posledni_kontrola: 2026-09-20T11:45:00Z**
 
 Od 260803 běží tenhle checklist jako **průběžná kontrola přírůstků**, ne jednorázový projekt — viz [[HANDOFF – knihovna katalog]], sekce "Průběžná kontrola přírůstků". Automaticky se kontroluje při weekly review (krok Zettelkasten), nebo kdykoli na pokyn "zpracuj knihovnu". Nové soubory se přidávají jako další řádky na konec tabulky (číslování pokračuje od 202).
 

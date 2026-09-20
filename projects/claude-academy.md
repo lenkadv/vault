@@ -1,6 +1,6 @@
 # Claude Academy
 
-**Oblast:** [[areas/tadylenka]] [[areas/lcenglish]]
+**Oblast:** [[areas/ai-nastroje]]
 **Stav:** aktivní
 **Zdroj:** [anthropic.skilljar.com](https://anthropic.skilljar.com) — vše zdarma, bez registrace
 

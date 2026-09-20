@@ -1,6 +1,6 @@
 # Japonština
 
-Pravidelná výuka s lektorem — jednou týdně. Termíny v Google Kalendáři.
+Víceméně pravidelné hodiny s lektorkou (zhruba jednou týdně). Termíny v Google Kalendáři.
 → [[gtd/goals#japanese|Kvartální cíle]]
 
 ## Aktivní projekty

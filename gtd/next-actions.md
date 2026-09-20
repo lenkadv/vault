@@ -50,9 +50,8 @@ sort by due
 
 ## @online
 
+- [ ] Odpovědět Michalu Šedivému na jeho zprávu ohledně rámce spolupráce (průvodcovský projekt s boromejkami / barokním špitálem) — dnes večer
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
-- [ ] Zaregistrovat GNOSTIKA CONSULTING do dotačního programu
-- [ ] Vyzkoušet Blotato (publishing tool — scheduling/API/MCP pro Claude Code), 7denní trial zdarma — teď dává smysl: 7 dní doma — https://www.blotato.com/
 
 ```tasks
 not done
@@ -104,3 +103,7 @@ path does not include lcenglish
 (no due date) OR (due before in 4 days)
 sort by path
 ```
+
+## Odloženo
+
+- [ ] Vyzkoušet Blotato (publishing tool — scheduling/API/MCP pro Claude Code), 7denní trial zdarma — spustit, až bude 7 dní doma (příští týden se nehodí) — https://www.blotato.com/
