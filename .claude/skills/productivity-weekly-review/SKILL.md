@@ -44,7 +44,7 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle CLAUDE.md sekce Pravidelné revize. Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
 9. **tadylenka Notes fronta** — otevřít [[notes-candidates]]: projít kandidáty, vybrat co postovat (naformátovat jako hotovou Note), zbytek smazat nebo ponechat
 10. Note Inbox review — spustit `/note-inbox-review`
-11. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **kromě dnů otevřeného týdne** (pondělí aktuálního týdne až dnes) — ty zůstávají mimo měsíční složku, dokud týden neskončí. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.
+11. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **kromě dneška** (den ještě běží). Týden, který review uzavírá (pondělí až včerejšek), se archivuje hned při tomhle review, ne až při dalším. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.
 
 ---
 
