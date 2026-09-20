@@ -2,7 +2,7 @@
 
 > Okno: 14. 9. → 20. 9. 2026
 
-## GTD kroky (12:00–13:25)
+## GTD kroky (review 11:34–13:27)
 
 - **Projekty:** tadylenka-publishing, lcenglish-art-for-english (brief #23), claude-academy, domaci-knihovna, hubnuti-pohyb (📅 1. 10.), if-i-die-folder, lcenglish-10x-sales-page, lcenglish-online-kurz (Mini VSL bez ⏫), slepekure (bez next action vědomě) — všechny zůstávají. [[projects/gnostika-fekt-audit]]: nová next action = lístky do Brna a zpět. [[projects/hodinovy-manzel]]: seznam oprav hotový, čeká na Vítka (waiting-for). [[projects/arttinder-consulting]] vrácen ze someday jako projekt (schůzka s Michalem Kociánem, sada otázek v Google Docu).
 - **Next-actions manuální:** zachováno 1 (Štěrbová/Transitorius mundus), smazáno 1 (GNOSTIKA dotační program — Štěpánka už zaregistrovala), odloženo 1 (Blotato), přepsáno 0. Nový úkol: odpovědět Michalu Šedivému (dnes večer).
