@@ -93,6 +93,14 @@ answers for `work/linkedin/` and for nothing else. If your posts are in
 and GrowOS will ask you before it does anything — which is safe, but it means
 the answer you wrote is never used.
 
+### Articles
+- Channel: articles
+- Provider: Substack
+- Destination id: tadylenka.substack.com
+- Route: manual
+- How far to go: safe-state
+- Notes: článek píše a vydává Lenka sama ve webovém Substacku (od 260921 potvrzeno jejím slovem); GrowOS jen eviduje work item a vydání zapisuje jako ruční
+
 ### Ads
 - Channel: ads
 - Provider: [PLACEHOLDER: the ad platform]

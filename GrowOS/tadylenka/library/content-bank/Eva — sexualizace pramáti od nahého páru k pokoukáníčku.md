@@ -2,7 +2,8 @@
 project: tadylenka
 type: content-idea
 rubrika: zeny-v-obraze
-status: fresh
+status: used
+datum_pouzito: "260921"
 temata: ["Eva", "male gaze", "renesanční akt"]
 datum_zachyceno: "260910"
 zdroj: ["https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit"]

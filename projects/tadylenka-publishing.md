@@ -43,14 +43,15 @@ ohýbá (2× Co vidíš v slotech 2–3, pak Všichni svatí na svátek).
 
 ## Vydané díly
 
+- 21. 9. 2026 — **Ženy v obraze:** Eva: První pin-up girl (Substack článek, díl #1 nové páteře, 1 232 slov, psáno celé Lenkou ze seminárky; vzorek a rozbor v GrowOS brainu) — https://tadylenka.substack.com/p/eva-prvni-pin-up-girl
 - 25. 5. 2026 — **Všichni svatí:** Sv. Josef (Substack článek)
 - 18. 6. 2026 — Jan van Eyck, Arnolfiniho portrét (navazující na IG carousel „Co vidíš?")
 - 16. 4. 2026 — **Ženy v obraze:** Constance Quéniaux a Původ světa (Courbet)
 
 ## Aktuální stav
 
-Poslední Substack: 18. 6. 2026 (Arnolfini). Poslední IG carousel: 13. 7. 2026 (Bastille Day).
-**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Další výstup = díl #1 (**Eva**, rozhodnuto 260910 místo Máří Magdalény), pátek 18. 9. 2026.
+Poslední Substack: 21. 9. 2026 (Eva, díl #1). Poslední IG carousel: 13. 7. 2026 (Bastille Day).
+**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Díl #1 (**Eva**) vyšel 21. 9. (o 3 dny později než plán 18. 9.). Další výstup = díl #2 (Mr and Mrs Andrews), pátek 2. 10. 2026.
 
 ## Kadence (rozhodnuto 260507, upřesněno 260804, přepsáno 260909)
 
@@ -106,10 +107,10 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 
 ## Další kroky
 
-- [ ] Napsat a publikovat díl #1 — **Eva** (Ženy v obraze), pátek 18. 9. 2026 #next-action #online
+- [ ] Napsat a publikovat díl #2 — **Mr and Mrs Andrews** (Co vidíš), pátek 2. 10. 2026 #next-action #online 📅 2026-10-02
 
 Po vydání: odškrtnout, přesunout do „Vydané díly", `status: used` v souboru námětu,
-`#next-action` na díl #2 (Mr and Mrs Andrews). Dál pokračuje runway nahoře.
+`#next-action` na díl #3 (memento mori / vanitas, 16. 10.). Dál pokračuje runway nahoře.
 Pozn.: díl #1 přehozen z Máří Magdalény na Evu (260910). Podklad = Lenčina seminárka Male Gaze: https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit — z ní vytáhnout úhel pro 800–1200 slov. Založit/doplnit i námět v content-banku (`temata: Eva`).
 
 ## GrowOS 2.0

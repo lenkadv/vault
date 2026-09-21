@@ -50,7 +50,6 @@ sort by due
 
 ## @online
 
-- [ ] Odpovědět Michalu Šedivému na jeho zprávu ohledně rámce spolupráce (průvodcovský projekt s boromejkami / barokním špitálem) — dnes večer
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
 
 ```tasks

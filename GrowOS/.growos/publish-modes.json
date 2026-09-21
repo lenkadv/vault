@@ -10,6 +10,7 @@
     "tadylenka": {
       "email": "explicit-safe",
       "social": "explicit-safe",
+      "articles": "explicit-safe",
       "ads": "unanswered",
       "video": "unanswered",
       "support": "explicit-safe"

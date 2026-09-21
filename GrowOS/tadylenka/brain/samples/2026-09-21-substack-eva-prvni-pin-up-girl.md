@@ -1,42 +1,13 @@
----
-id: x8k3q9m2wd
-status: published
-type: article
-business: tadylenka
-channel: articles
-created: 2026-09-10
-headline: "Ženy v obraze #1 — Eva: První pin-up girl"
-skill: ""
-note: |
-  Lenka na draft #1 (2026-09-10): „vůbec to nezní jako já. je to obsahově zkrácený
-  můj akademický text, ale nic víc - není tam nic z tónu, kterým píšu populární
-  věci, a i čeština pokulhává, to je dlouhodobý problém."
-  Lenka na draft #3 (2026-09-10): „Zpracuju si to sama, budeme na tom tónu pracovat
-  průběžně, zatím to je dost nepoužitelné. (…) zatím to vypadá hlavně pro delší
-  texty neprůchozí." → AI draft odložen, prózu píše Lenka. Text níž = jen podklad
-  (sled beatů + materiál ze seminárky). Viz brain/lessons/260910-longform-drafting-not-viable-yet.md
-rubrika: zeny-v-obraze
-runway_slot: 1
-published_url: "https://tadylenka.substack.com/p/eva-prvni-pin-up-girl"
-publish_target_date: 2026-09-18
-source: "Lenčina seminárka Male gaze ve výtvarném umění raného novověku (KTF UK, 2026) — https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit"
-own_draft: "Lenka píše vlastní verzi v Google Docs (260917) — https://docs.google.com/document/d/14ENLRZ8OdvGLJ5IdtxCt4Juhcmc2TuteKvgXIVcCiRo/edit"
-wordcount: 1232
-revision: 4
-publish_destination: "tadylenka.substack.com"
-publish_ref: "https://tadylenka.substack.com/p/eva-prvni-pin-up-girl"
-publish_attempted_at: "2026-09-21T12:01:37.000Z"
-publish_state: "prepared"
-publish_note: "Vydáno ručně Lenkou na Substacku 21. 9. 2026 (e-mailová kopie 12:01:37 UTC). Znění vydané verze = tělo tohoto itemu; drobné úpravy dělala přímo v Substacku. Obrázky a popisky nejsou součástí těla."
-publish_reason: "owner-chose-manual"
-published_at: "2026-09-21T12:01:37.000Z"
----
+Eva: První pin-up girl
+Může za všechno, a přitom je v tom nevinně.
+Lenka Dvořáková
+Sep 21, 2026
 
-# Eva: První pin-up girl
-
-*Může za všechno, a přitom je v tom nevinně.*
-
-> Tělo níž je **vydaná verze** (Substack, 21. 9. 2026), kterou celou napsala Lenka. Původní AI podklad (260910) nahrazen; je v historii gitu. Obrázky a jejich popisky v této kopii nejsou (viz `brain/lessons/260921-eva-seminarka-na-substack.md`, 5b).
+> Zdroj: Substack článek tadylenka, díl #1 rubriky Ženy v obraze (páteř od 260909), vydáno 21. 9. 2026.
+> URL: https://tadylenka.substack.com/p/eva-prvni-pin-up-girl
+> Text je **jak vyšel** (z e-mailové kopie Substacku). Napsala ho celý Lenka sama (Google Doc `14ENLRZ8OdvGLJ5IdtxCt4Juhcmc2TuteKvgXIVcCiRo`), drobné úpravy dělala přímo v Substacku. Vypuštěn jen Substackův vložený řádek „Díky, že mě čtete! …" (widget, ne text).
+> **Chybí obrázky a jejich popisky** (e-mailová kopie je neobsahuje). Článek jich má 9. Popisky jsou zapsané v rozboru `brain/lessons/260921-eva-seminarka-na-substack.md`, oddíl 5b; přesné znění a pořadí ověřit v originále na Substacku.
+> Podklad: Lenčina seminárka „Male gaze ve výtvarném umění raného novověku" (KTF UK, 2026), kap. 2.1 Eva. Rozbor, čím se seminárka proměnila v tenhle text: `brain/lessons/260921-eva-seminarka-na-substack.md`.
 
 Můžete říct francouzsky „*cherchez la femme*“, aby to znělo víc *chic*, nebo česky a lapidárně „kam čert nemůže, tam strčí ženskou“ – smysl je pořád stejný. Ženy můžou za všechno. A všichni víme, kdo byla ta první, která to způsobila.
 

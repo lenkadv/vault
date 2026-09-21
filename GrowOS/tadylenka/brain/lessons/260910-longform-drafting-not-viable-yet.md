@@ -36,5 +36,7 @@ esejističtější text, tím míň průchozí přes AI.
 
 ## Otevřené
 
+**260921:** rozbor vydané verze Evy (Lenka psala celou sama ze seminárky) — co AI draftu chybělo a jaká je role AI, viz `260921-eva-seminarka-na-substack.md`.
+
 Na tónu populárních tadylenka textů se bude pracovat průběžně. Až se to zlepší,
 tuhle lekci zrevidovat.

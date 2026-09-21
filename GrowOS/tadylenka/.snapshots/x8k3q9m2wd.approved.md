@@ -1,6 +1,6 @@
 ---
 id: x8k3q9m2wd
-status: published
+status: approved
 type: article
 business: tadylenka
 channel: articles
@@ -23,13 +23,6 @@ source: "Lenčina seminárka Male gaze ve výtvarném umění raného novověku 
 own_draft: "Lenka píše vlastní verzi v Google Docs (260917) — https://docs.google.com/document/d/14ENLRZ8OdvGLJ5IdtxCt4Juhcmc2TuteKvgXIVcCiRo/edit"
 wordcount: 1232
 revision: 4
-publish_destination: "tadylenka.substack.com"
-publish_ref: "https://tadylenka.substack.com/p/eva-prvni-pin-up-girl"
-publish_attempted_at: "2026-09-21T12:01:37.000Z"
-publish_state: "prepared"
-publish_note: "Vydáno ručně Lenkou na Substacku 21. 9. 2026 (e-mailová kopie 12:01:37 UTC). Znění vydané verze = tělo tohoto itemu; drobné úpravy dělala přímo v Substacku. Obrázky a popisky nejsou součástí těla."
-publish_reason: "owner-chose-manual"
-published_at: "2026-09-21T12:01:37.000Z"
 ---
 
 # Eva: První pin-up girl
