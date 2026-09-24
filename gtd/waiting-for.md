@@ -26,3 +26,4 @@ sort by due
 - [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). 📅 2026-09-24
 - [ ] David Musil — upřesnění termínu online schůzky mezi 25. a 28. 9. (až se domluví s manželkou, bude ve Španělsku); případně se poptat. 📅 2026-09-24
 - [ ] PENTA — rozhodnutí o termínech konzultací: buď ve čtvrtek 24. 9. po Michalu Kociánovi dvě schůzky (Rudolf Vacek a Martin), nebo jen Martin ve čtvrtek a Rudolf v pátek 25. 9. Pokud v pátek, hlídat překryv s japonštinou (14:30) a domluvit jiný termín s lektorkou. V úterý začít honit. 📅 2026-09-22
+- [ ] Anthropic: zkontrolovat fakturu Claude Pro z 261006 (č. QRVMHXKX-0006) — v „Bill to" nesmí být CZ VAT, má tam být DPH. Pokud DIČ zůstane → odpovědět do vlákna podpory a požádat o eskalaci na člověka. 📅 2026-10-07

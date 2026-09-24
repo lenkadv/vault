@@ -18,8 +18,10 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 
 ## Aktuální stav (pokračování)
 
-260804: Lenka odeslala Štěpánce své podklady (organigram, registr kompetencí, research vnitřních norem). Koordinaci s FEKT (žádost o podklady, domluva termínů) dál řeší Štěpánka — projekt čeká na její další krok, viz [[waiting-for]].
+260804: Lenka odeslala Štěpánce své podklady (organigram, registr kompetencí, research vnitřních norem).
+
+260924: Dny na FEKT v Brně (22.–24. 9.) proběhly, cesta tam i zpět dokončena. Dalším krokem je Lenčin vlastní úkol — uspořádat všechny podklady z auditu na disku.
 
 ## Next actions
 
-- [ ] Koupit zpáteční lístek z Brna (cesta tam je koupená, autobus 21. 9. 17:00) #next-action #online
+- [ ] Uspořádat podklady z FEKT auditu na disku #next-action #online

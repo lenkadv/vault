@@ -66,6 +66,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 11  | 260806 | ✓ — 1. hodina nového balíčku (10 h) |
 | 12  | 260910 | ✓ — 2. hodina nového balíčku (10 h) |
 | 13  | 260917 | no-show — Michal v Egyptě, zapomněl seanci zrušit |
+| 14  | 260924 | ✓ — 3. hodina nového balíčku (10 h) |
 
 ### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
 
@@ -116,6 +117,17 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | --- | ------ | ----- | -------- |
 | 1   | 260904 | 1 h   | 12–13 h  |
 | 2   | 260918 | 1 h   | ✓        |
+
+---
+
+## Martin Lukášik (PENTA)
+
+**Typ:** fakturovat po skončení
+**Kontext:** příprava prezentace na konferenci PRE (domluveno přes Jana Lapeše)
+
+| #   | Datum  | Délka | Poznámka |
+| --- | ------ | ----- | -------- |
+| 1   | 260924 | 1 h   | ✓        |
 
 ---
 
