@@ -141,6 +141,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | #   | Datum  | Délka | Poznámka |
 | --- | ------ | ----- | -------- |
 | 1   | 260918 | 1 h   | ✓        |
+| 2   | 260925 | 1 h   | 14:30–15:30 |
 
 ---
 
