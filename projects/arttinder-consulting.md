@@ -8,11 +8,15 @@ Freelance art consulting pro Michala Kociána (klient z F2F koučinku): pomoc s 
 
 260920: po odložení do someday (260910) dohodnuto pokračování. Schůzka s Michalem Kociánem ve čtvrtek 24. 9.
 
+260924: schůzka proběhla (sada otázek). Další schůzka **st 7. 10. 2026 17:00** (v kalendáři) — trénink v terénu: vycházka, nebo galerie podle počasí.
+
 **Sada otázek na schůzku:** [Google Doc](https://docs.google.com/document/d/1OHPiSk_C1f_VRUFiTVSEEO4R4Y8xF-sxqz5vI3NGkYM/edit?tab=t.0) (záměr a vztah k umění, vkus, prostor domu, rozpočet, proces).
 
 ## Next actions
 
-- [ ] Schůzka s Michalem Kociánem — projít sadu otázek #next-action #online 📅 2026-09-24
+- [x] Schůzka s Michalem Kociánem — projít sadu otázek ✅ 2026-09-24
+- [ ] O víkendu 3.–4. 10. prověřit počasí na 7. 10. → buď vyzvat Michala Kociána k vycházce, nebo vyhlédnout galerii na trénink #next-action #online 📅 2026-10-04
+- [ ] Schůzka s Michalem Kociánem 7. 10. 17:00 — trénink (vycházka / galerie)
 
 ## Podklady (převzato ze someday-maybe)
 
