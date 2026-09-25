@@ -27,6 +27,8 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 
 - Správa mapy podkladů: Lenka je správkyně `00 MAPA PODKLADŮ.xlsx`. Nové dokumenty buď uloží kdokoli rovnou do složky oddělení (+ řádek v Soupisu), nebo je přepošle Lence mailem a ta je uloží a zapíše do mapy (pravidlo doplněné Lenkou 260925). Tabulky agend: podpora projektů, marketing a internacionalizace je nikdy nedělali; personální existuje jen v PDF (předělat na xls).
 
+- **Ready-to-resume (otevřené otázky k mapě, 260925):** (1) dokument k delegaci podpisových práv u VZ — v Přehledu vyřazen, v listu Chybí dál „ověřit“: vyřadit, nebo vrátit? (2) kdo převede personální tabulku agend z PDF do xls (Lenka / Claude / oddělení)? (3) až Štěpánka smaže duplikát, opravit v Přehledu personální B Agendy ✅ 2 → ✅ 1. Mapu generuje skript — při dalších úpravách vždy nejdřív načíst aktuální verzi ze SharePointu (Lenka ji ručně upravuje).
+
 ## Next actions
 
 - [x] Uspořádat podklady z FEKT auditu na disku ✅ 2026-09-25

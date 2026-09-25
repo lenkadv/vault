@@ -19,7 +19,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 4   | 260817–260819 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
 | 5   | 260919 | 2 h | Vnitřní předpisy FEKT (12:00–14:00) |
 | 6   | 260922–260924 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
-| 7   | 260925 | 1 h 29 min | Uspořádání podkladů na SharePointu GNOSTIKA — mapa dokumentů, 12 souhrnů rozhovorů z Voicenotes na Disk, nová struktura podle oddělení, 17 souhrnů jako .docx, MAPA PODKLADŮ.xlsx (11:54–13:23) |
+| 7   | 260925 | 1 h 43 min | Uspořádání podkladů na SharePointu GNOSTIKA — mapa dokumentů, 12 souhrnů rozhovorů z Voicenotes na Disk, nová struktura podle oddělení, 17 souhrnů jako .docx, MAPA PODKLADŮ.xlsx, mail Štěpánce, úpravy mapy (11:54–13:37) |
 
 ---
 
