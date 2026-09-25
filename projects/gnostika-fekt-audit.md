@@ -25,6 +25,8 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 260925: Podklady uspořádány (pověření od Štěpánky). SharePoint GNOSTIKA → `FEKT VUT Brno/Podklady pro audit FEKT/`: nová struktura `00 MAPA PODKLADŮ.xlsx`, `01 Zadání a harmonogram`, `02 Celofakultní podklady`, `03 Oddělení` (10 složek), `04 Průběžné výstupy`, `99 Archiv`; soubory s předponami A popis práce / B agendy / C zápis ŠU / D souhrn z nahrávky / E další. Mapa má listy Přehled, Soupis, Chybí – vyžádat (15 položek, hlavně tabulky agend), Pravidla. Na Disk (`FEKT VUT/Rozhovory`) doplněno 12 chybějících souhrnů z Voicenotes (celkem 17), na SharePoint nahrány jako .docx. Mimo SharePoint zůstávají: PřF materiály, .md/.json výstupy, Google Docs „Podklady pro audit“ a „Zjištění a doporučení“, mp3 Rychtecký.
 - Lenka je na SharePointu host jen s právem přidávat (ne přesouvat/přejmenovat/mazat, do `FEKT VUT Brno` nezapíše) → originály jen zkopírovány. Štěpánce odeslán mail: přesunout 00–04, 99 o úroveň výš do `FEKT VUT Brno`, smazat `Podklady pro audit FEKT` (8 původních složek), smazat duplikát `B Agendy – Personální oddělení.pdf`, doplnit zápis ke správě budov 18. 8. (zápis Šroubek je jiný rozhovor).
 
+- Správa mapy podkladů: Lenka je správkyně `00 MAPA PODKLADŮ.xlsx`. Nové dokumenty buď uloží kdokoli rovnou do složky oddělení (+ řádek v Soupisu), nebo je přepošle Lence mailem a ta je uloží a zapíše do mapy (pravidlo doplněné Lenkou 260925). Tabulky agend: podpora projektů, marketing a internacionalizace je nikdy nedělali; personální existuje jen v PDF (předělat na xls).
+
 ## Next actions
 
 - [x] Uspořádat podklady z FEKT auditu na disku ✅ 2026-09-25
