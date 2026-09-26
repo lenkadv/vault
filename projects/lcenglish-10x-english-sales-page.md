@@ -24,7 +24,7 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 - **WordPress Leadpages plugin upgradován** z legacy 2.3.13 na 1.3.0 (nová verze podporuje Nova i Classic účet) — starý plugin bezpečně nahrazen, staré landing pages nepoškozené
 - **Nova Leadpages účet připojen** k WordPressu přes OAuth, stránka publikovaná přes "Publish to WordPress" (ne přes REST API — ten stripuje `<style>`/`<link>` přes `wp_kses`, viz [[reference_wordpress_rest_api_kses_stripping]])
 - **Shadowloop mechanismus poprvé sepsaný pro zákazníka** (ne jen admin postup) → `GrowOS/lcenglish/brain/methodology.md` sekce "Shadowloop — jak appka skutečně funguje" — použitelné napříč kurzy (HELE, 10x English, Irregular)
-- **Bezpečnostní nález:** Drip API klíč (`ecb18c9026fb3967e3e78b3f1f6ae355`) leží natvrdo v plaintextu na 3 místech (`jmena.py` na ploše, `jmena.py` v `3 LCEnglish/Tech/`, starý "Webhook tutorial" Google Doc) — nevyřešeno, Lenka zatím nechtěla řešit hned
+- **Bezpečnostní nález:** Drip API klíč (hodnota odstraněna 260926 — byla omylem i tady, a tím v Gitu/GitHubu) leží natvrdo v plaintextu na 3 místech (`jmena.py` na ploše, `jmena.py` v `3 LCEnglish/Tech/`, starý "Webhook tutorial" Google Doc) — **260926 Lenka rozhodla: neřešit, klíč nerotovat, nechat jak je, dál neotevírat**
 
 ### 🟡 Rozpracováno — vizuální varianta
 
@@ -36,7 +36,6 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
   - Odstartovat z aktuální verze, případně dál zkoušet i **vyprávěcí/narativnější varianty** — Lenka chce více verzí na porovnání, ne jednu finální přestavbu
   - Zachovat: barvy, existující text/copy, FAPI CTA odkaz, Shadowloop vysvětlovací sekci obsahově
   - Publikovat znovu přes Leadpages "Publish to WordPress" (funguje, ne přes REST API)
-- [ ] (nízká priorita, Lenku netrápí) Odstranit Drip API klíč z plaintextu na 3 místech (`jmena.py` na ploše, `jmena.py` v `3 LCEnglish/Tech/`, starý "Webhook tutorial" Google Doc) #online
 
 260926 (weekly review): varianta 2 a další kroky se stránkou zůstávají aktivní — je potřeba rozhodně postoupit dál.
 

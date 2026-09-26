@@ -9,7 +9,7 @@ Neexistujici id vraci HTTP 200 s prazdnym #detailHires src - takove id se presko
 
 Pouziti:
     python petrbrandl-downloader.py --id 33
-    python petrbrandl-downloader.py --start 1 --end 300 --output "G:\\Muj disk\\vault\\resources\\petrbrandl-images"
+    python petrbrandl-downloader.py --start 1 --end 300 --output "G:\\Muj disk\\vault\\resources\\petrbrandl\\petrbrandl-images"
 """
 
 import argparse

@@ -40,7 +40,7 @@ GrowOS/lcenglish/swipe-files/swipe-content.md ← swipe file pro lcenglish
 Před triáží načti **paralelně**:
 - `CLAUDE.md` — struktura vault a workflow
 - `gtd/next-actions.md` — aktuální priority
-- `GrowOS/tadylenka/brand.md` — hlas a styl tadylenka (sekce 4: Brand Voice)
+- `GrowOS/tadylenka/brain/voice.md` + `brain/brand.md` — hlas a styl tadylenka (cesta opravena na GrowOS 2.0, 260926)
 - `GrowOS/tadylenka/lessons.md` — naučená pravidla pro tadylenka
 - `GrowOS/lcenglish/brand.md` — hlas a styl lcenglish (sekce 4: Brand Voice)
 - `GrowOS/lcenglish/lessons.md` — naučená pravidla pro lcenglish
@@ -205,7 +205,7 @@ Oblast: [[areas/X]]
 
 ### [Note: slug] → `zettelkasten/literature/[slug].md`
 
-Vytvoř nebo doplň note podle šablony z CLAUDE.md. Slug = stručný název bez diakritiky.
+Vytvoř nebo doplň note podle šablony z `resources/postupy/zettelkasten.md` (a [[MOC – Zettelkasten]]). Slug = stručný název bez diakritiky.
 
 Na konci sekce "Permanent notes, které z toho vzniknou" aktivně navrhni 1–2 atomické myšlenky, které by z tohoto zdroje mohly vzniknout jako permanent notes — i když ještě neexistují.
 

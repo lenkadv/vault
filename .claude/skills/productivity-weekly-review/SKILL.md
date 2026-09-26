@@ -41,7 +41,7 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 5. [[someday-maybe]] — projdi položku po položce: posunulo se něco do akce? Co je mrtvé? Každou věc aktivně zvažuj, neprojíždět jen "nechat."
 6. [[omnibus]] — zpracovat zachycené položky
 7. `areas/` — aktivní projekty v každé oblasti aktuální?
-8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle CLAUDE.md sekce Pravidelné revize. Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
+8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle `resources/postupy/knihovna.md` (odkaz z CLAUDE.md sekce Pravidelné revize). Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
 9. **tadylenka Notes fronta** — otevřít [[notes-candidates]]: projít kandidáty, vybrat co postovat (naformátovat jako hotovou Note), zbytek smazat nebo ponechat
 10. Note Inbox review — spustit `/note-inbox-review`
 11. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **všechny starší než dnešní** (dnešní den ještě běží). Review běží mezi pátkem a nedělí, o víkendu dailies většinou nevznikají, takže se archivuje hned všechno předchozí, nic nevisí další týden. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.

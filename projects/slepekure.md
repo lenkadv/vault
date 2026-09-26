@@ -29,7 +29,7 @@ Fáze archivního průzkumu. Průzkum NA Hradčanská zahájen, zápisky přenes
 - [[resources/brandl-restauratorske-zpravy]] — restaurátorské zprávy 22 Brandlových děl + srovnávací tabulka technických dat
 - Přesah: [[projects/seminarka-restaurovani]] — seminárka Restaurování zpracovává stejný materiál
 - Klíčový indikátor pro dataci: přítomnost/absence šedé podmalby (dle zprávy Grohmanové: charakteristická pro rané práce — ověřit v knize studií o technice)
-- **221 Brandlových děl v plném rozlišení** staženo z katalogu petrbrandl.eu → `resources/petrbrandl-images/` (soubory `id_nazev.jpg`), katalogový přehled (id, název, autor, původní URL, soubor) v [[resources/petrbrandl-katalog.csv]]. Materiál pro tasky "Projít Brandlovy obrazy kus po kuse" a "Sestavit katalog vousáčů". Stahovací skript: `resources/scripts/petrbrandl-downloader.py`.
+- **221 Brandlových děl v plném rozlišení** staženo z katalogu petrbrandl.eu → `resources/petrbrandl/petrbrandl-images/` (soubory `id_nazev.jpg`), katalogový přehled (id, název, autor, původní URL, soubor) v [[resources/petrbrandl/petrbrandl-katalog.csv]]. Materiál pro tasky "Projít Brandlovy obrazy kus po kuse" a "Sestavit katalog vousáčů". Stahovací skript: `resources/petrbrandl/petrbrandl-downloader.py`. (Vše k Brandlovi sloučeno do `resources/petrbrandl/` 260926.)
 
 ## AHMP — Farní archiv sv. Vojtěcha NMP (NAD č. 1122, č. pomůcky 486)
 
