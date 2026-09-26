@@ -350,11 +350,19 @@ Při zavírání sezení (Lenka řekne "zavírám", "končím" apod.):
 1. **Projít konverzaci** — co bylo domluveno jako pravidlo nebo změna systému?
 2. **Ověřit** — je každá změna zapsána v `CLAUDE.md` a/nebo `memory/`? Pokud ne → opravit.
 3. **Git commit + push check** — pokud v sezení vznikly změny v trackované části vaultu (viz [[#Git záloha vaultu (od 260915)]]), lokálně je committnout (`git add -A && git commit`). Zkontrolovat `git status` / `git log origin/main..HEAD`, jestli existují neodeslané commity (i z dřívějška) — pokud ano, připomenout Lence, ať spustí `git push` sama (Claude pushovat nesmí, viz sekce výše). Pokud nic k odeslání není, nic neříkat.
-4. **tadylenka content mining** — bylo v sezení tadylenka content (research, recenze výstavy, rozepsaný text, zajímavý zdroj)? Pokud ano → přidat jako námět do `GrowOS/tadylenka/library/content-bank/`, zařadit do rubriky, `status: fresh` (nebo `retired`, pokud spíš someday). Notes fronta je pozastavená (pozdější fáze) — do [[notes-candidates]] se nic nepřidává.
-5. **Aktualizovat kalendář** — aktualizovat Todoist kalendář na skutečné časy pracovních bloků (start + end). Neuskutečněné bloky: buď rovnou přesunout na konkrétní termín, nebo smazat — žádný blok nesmí zůstat v minulosti jako neaktualizovaný. Do kalendáře patří reálná aktivita bez ohledu na to, jestli byla dopředu naplánovaná — pokud pro proběhlé sezení žádný blok neexistoval, založit nový (Todoist kalendář, Sage) se skutečným časem trvání sezení. Pokud Lenka čas nenahlásila, zeptat se.
-6. **Zapsat daily note** — otevřít `daily/YYMMDD.md` (jeden soubor pro celý den: plán nahoře, zbytek — Průběh dne, Systémové změny — pod ním). **YYMMDD = den, kdy seance reálně probíhala, ne systémové datum.** Pokud je po půlnoci a Lenka ještě nešla spát (pokračující konverzace, žádné oznámení "jdu spát" nebo nový den), zápis pořád patří do souboru **předchozího** dne — viz [[feedback_daily_note_midnight]]. Append: shrnutí sezení, klíčová rozhodnutí, systémové změny. Pokud soubor neexistuje → vytvořit.
-7. **Před potvrzením zkontrolovat**: byl `daily/YYMMDD.md` skutečně zapsán/aktualizován v tomto sezení? Pokud ne → vrátit se ke kroku 6.
-8. **Potvrdit** Lence: "Systémové změny jsou zapsány, vault je aktuální."
+4. **Sync skillů do Notionu** — sáhli jsme v sezení na nějaký skill (nový, upravený SKILL.md nebo
+   jeho skripty — vault `.claude/skills/`, GrowOS `GrowOS/.claude/skills/`, `~/.claude/skills/`)?
+   Pokud ano → aktualizovat jeho řádek v Notion databázi **Skills**
+   (`https://app.notion.com/p/3dfaeae60bc6805b92e7d2fe49cb6934`): Description podle aktuálního
+   `description`, v těle stránky plný aktuální text SKILL.md + pomocných skriptů (každý v bloku kódu,
+   `replace_content`). Nový skill → nový řádek (Zdroj, Tags). Smazaný skill → upozornit Lenku.
+   Cíl: tabulka vždy odpovídá tomu, jak je skill právě postavený. Pokud se na skill nesáhlo, nic.
+   (Pravidlo od 260926.)
+5. **tadylenka content mining** — bylo v sezení tadylenka content (research, recenze výstavy, rozepsaný text, zajímavý zdroj)? Pokud ano → přidat jako námět do `GrowOS/tadylenka/library/content-bank/`, zařadit do rubriky, `status: fresh` (nebo `retired`, pokud spíš someday). Notes fronta je pozastavená (pozdější fáze) — do [[notes-candidates]] se nic nepřidává.
+6. **Aktualizovat kalendář** — aktualizovat Todoist kalendář na skutečné časy pracovních bloků (start + end). Neuskutečněné bloky: buď rovnou přesunout na konkrétní termín, nebo smazat — žádný blok nesmí zůstat v minulosti jako neaktualizovaný. Do kalendáře patří reálná aktivita bez ohledu na to, jestli byla dopředu naplánovaná — pokud pro proběhlé sezení žádný blok neexistoval, založit nový (Todoist kalendář, Sage) se skutečným časem trvání sezení. Pokud Lenka čas nenahlásila, zeptat se.
+7. **Zapsat daily note** — otevřít `daily/YYMMDD.md` (jeden soubor pro celý den: plán nahoře, zbytek — Průběh dne, Systémové změny — pod ním). **YYMMDD = den, kdy seance reálně probíhala, ne systémové datum.** Pokud je po půlnoci a Lenka ještě nešla spát (pokračující konverzace, žádné oznámení "jdu spát" nebo nový den), zápis pořád patří do souboru **předchozího** dne — viz [[feedback_daily_note_midnight]]. Append: shrnutí sezení, klíčová rozhodnutí, systémové změny. Pokud soubor neexistuje → vytvořit.
+8. **Před potvrzením zkontrolovat**: byl `daily/YYMMDD.md` skutečně zapsán/aktualizován v tomto sezení? Pokud ne → vrátit se ke kroku 7.
+9. **Potvrdit** Lence: "Systémové změny jsou zapsány, vault je aktuální."
 
 Lenka nekontroluje soubory — "zavírám" je záruka, ne jen záznam.
 
