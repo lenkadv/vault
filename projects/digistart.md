@@ -88,13 +88,13 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
   2. **Pilot bez příspěvku ÚP** — zvažovaný, aby se kurz odpilotoval.
 - Obě varianty je pořád potřeba vymyslet, postavit a odpilotovat. Je to náročnější, než vypadá.
 
-260926 večer: Lenka ověřila přístup do administrace profilu GNOSTIKY v Databázi MPSV — funguje. Cvičný kurz založený se Štěpánkou v Brně se jí ale nezobrazuje; Štěpánka se má podívat, jestli ho vidí pod přihlášením GNOSTIKY.
+260926 večer: Lenka ověřila přístup do administrace profilu GNOSTIKY v Databázi MPSV — funguje. Cvičný kurz založený se Štěpánkou v Brně se jí ale nezobrazuje; Štěpánka ho pod přihlášením GNOSTIKY nevidí taky → cvičný kurz se v Brně pravděpodobně neuložil (nebo vznikl jinde); nic neblokuje, šlo jen o zkoušku formuláře.
 
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
 - [x] Ověřit se Štěpánkou historii kurzů GNOSTIKy: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — Štěpánka potvrdila (Brno, 22.–24. 9.), že 12 kurzů v posledních 3 letech GNOSTIKA dá; dokládá se až na vyžádání ÚP čestným prohlášením ✅ 2026-09-26
-- [x] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — přístup funguje; jen se nezobrazuje cvičný kurz založený se Štěpánkou v Brně → dotaz na Štěpánku ve [[waiting-for]] ✅ 2026-09-26
+- [x] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — přístup funguje; jen se nezobrazuje cvičný kurz založený se Štěpánkou v Brně (nevidí ho ani Štěpánka) ✅ 2026-09-26
 
 ### Obsah kurzu
 - [ ] Vymyslet náplň kurzu (Lenka sama) — jedna náplň pro obě koleje (pilot bez ÚP i varianta s příspěvkem ÚP); výchozí bod = draft osnovy výše. Za Štěpánkou až s hotovým návrhem #next-action #online
