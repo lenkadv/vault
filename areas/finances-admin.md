@@ -5,10 +5,10 @@ Správa příjmů, opakující se administrativa, dokumenty pro rodinu.
 
 ## Aktivní projekty
 
-- [[projects/if-i-die-folder]] — dokumenty a instrukce pro rodinu
 - [[projects/gnostika-fekt-audit]] — konzultantka v týmu GNOSTIKA, audit děkanátu FEKT VUT
 - [[projects/digistart]] — kurz digitálních dovedností pro 40+ s kolegyní Štěpánkou, přes databázi MPSV/ÚP
 - [[projects/arttinder-consulting]] — art consulting pro Michala Kociána (výběr děl do nového domu)
+- [[projects/penta-hacked-list-report]] — report z Hacked List (firma synů) pro management PENTY + vzor výstupu pro Hacked List
 
 ## Příjmy — přehled zdrojů
 
@@ -40,7 +40,7 @@ Klíčové trvalé odkazy
 
 ## Závěť a dokumenty pro rodinu
 
-Tasky a obsah → [[projects/if-i-die-folder]]
+Projekt odložen do [[someday-maybe]] (260926) — záznam „If I Die… složka“ obsahuje vše včetně zachycených dat.
 
 
 

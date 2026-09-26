@@ -50,6 +50,7 @@ sort by due
 
 ## @online
 
+- [ ] Spustit 7denní trial Blotato (publishing tool — scheduling/API/MCP pro Claude Code) a vyzkoušet — týden 28. 9.–4. 10. je Lenka doma — https://www.blotato.com/
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
 
 ```tasks
@@ -105,4 +106,3 @@ sort by path
 
 ## Odloženo
 
-- [ ] Vyzkoušet Blotato (publishing tool — scheduling/API/MCP pro Claude Code), 7denní trial zdarma — spustit, až bude 7 dní doma (příští týden se nehodí) — https://www.blotato.com/

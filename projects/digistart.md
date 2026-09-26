@@ -81,14 +81,23 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 260915: Založen draft kurzu ve formuláři ÚP na Lenčině vlastním profilu (placeholder název "DigiStart - draft", zarizeniId 5164) — jen pro průzkum formuláře, Lenka zatím nemá přístup k profilu GNOSTIKY, pod kterou bude DigiStart reálně realizován. Vytažen a uložen kompletní číselník dovedností (206 položek) přímo z formuláře, viz [[resources/digistart-dovednosti-mpsv]], vč. předvýběru relevantních položek pro cílovku 40+ / AI / marketing. Prostudovány a zapsány Podmínky pro vzdělavatele v Databázi (1.7.2026), viz [[resources/digistart-podminky-vzdelavatel]] — včetně klíčové vstupní podmínky (Čl. XIV/5): GNOSTIKA musí doložit min. 12 kurzů zaměřených na digitální vzdělávání s počátkem v 12 různých měsících za poslední 3 roky.
 
+260926 (weekly review, podle rozhovoru se Štěpánkou v Brně 22.–24. 9.):
+- **Vstupní podmínka 12 kurzů / 3 roky je splněná** — Štěpánka potvrdila. GNOSTIKA je formálně založená jako poskytovatel; dál se zatím nepokročilo.
+- **Dvě koleje:**
+  1. **Varianta s příspěvkem ÚP** — před Vánoci nereálná. Kurz ještě není postavený; 50 h = cca 4–5 týdnů intenzivní výuky (bloky ~6 h); konec nejpozději v půlce prosince → start začátkem listopadu → přihlášky se zavírají 30 dní předem → uzávěrka začátkem října, tj. teď. Navíc nábor přes reklamu na sociálních sítích by teď padl do předvánočního cenového píku. → **ÚP varianta až po Vánocích**, kdy je reklama levnější.
+  2. **Pilot bez příspěvku ÚP** — zvažovaný, aby se kurz odpilotoval.
+- Obě varianty je pořád potřeba vymyslet, postavit a odpilotovat. Je to náročnější, než vypadá.
+
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
-- [ ] Ověřit se Štěpánkou historii kurzů GNOSTIKy: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — vyřešeno KAM se to dokládá: nikam předem, ÚP si čestné prohlášení vyžádá sám při posuzování prvního zaregistrovaného kurzu, takže tohle připravit, ale nepodávat aktivně #next-action #online
-- [ ] Získat přístup k profilu GNOSTIKy v Databázi (editor/kontaktní osoba) #online
+- [x] Ověřit se Štěpánkou historii kurzů GNOSTIKy: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — Štěpánka potvrdila (Brno, 22.–24. 9.), že 12 kurzů v posledních 3 letech GNOSTIKA dá; dokládá se až na vyžádání ÚP čestným prohlášením ✅ 2026-09-26
+- [ ] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — v Brně bylo vidět, že je Lenka přidaná; přihlásit se a zkusit #next-action #online
 
 ### Obsah kurzu
-- [ ] Se Štěpánkou doladit osnovu podle persony (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) a rozhodnout jednotlivci vs. firmy #online
+- [ ] Vymyslet náplň kurzu (Lenka sama) — jedna náplň pro obě koleje (pilot bez ÚP i varianta s příspěvkem ÚP); výchozí bod = draft osnovy výše. Za Štěpánkou až s hotovým návrhem #online
+- [ ] Se Štěpánkou projít návrh náplně, doladit podle persony (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) a rozhodnout jednotlivci vs. firmy #online
+- [ ] Pilot bez ÚP — kdy, v jakém rozsahu, za kolik #online
 - [ ] Z předvýběru v [[resources/digistart-dovednosti-mpsv]] vybrat finální dovednosti pro kartu kurzu
 - [ ] Rozhodnout formu výuky (prezenční / distanční / kombinovaná) a místo realizace
 

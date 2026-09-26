@@ -8,6 +8,8 @@ Výzkum oltářního obrazu *Sv. Vojtěch na Zelené hoře* (kostel sv. Vojtěch
 
 Fáze archivního průzkumu. Průzkum NA Hradčanská zahájen, zápisky přeneseny do [[resources/archiv-NA-hradcanska]].
 
+260926 (weekly review): záměrně **bez next action do 31. 10. 2026** — čeká se na rozhodnutí o tématu bakalářky (slepekure vs. Male Gaze téma) → [[decisions/260823-bakalarka-slepekure-pending]], viz [[waiting-for]].
+
 ## Tasky
 
 - [x] Doplnit prošlé/neprošlé položky do [[resources/archiv-NA-hradcanska]] #doma ✅ 2026-06-07

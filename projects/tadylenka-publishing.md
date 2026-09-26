@@ -108,6 +108,7 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 ## Další kroky
 
 - [ ] Napsat a publikovat díl #2 — **Mr and Mrs Andrews** (Co vidíš), pátek 2. 10. 2026 #next-action #online 📅 2026-10-02
+  - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
 Po vydání: odškrtnout, přesunout do „Vydané díly", `status: used` v souboru námětu,
 `#next-action` na díl #3 (memento mori / vanitas, 16. 10.). Dál pokračuje runway nahoře.

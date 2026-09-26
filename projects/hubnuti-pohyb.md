@@ -16,9 +16,14 @@
 
 ## Otevřené úkoly
 
-- [ ] Zaplatit permanentku FuTru a začít chodit — odpověď dorazila (260803), přesunuto na říjen (příští týden ještě 3 dny Brno, nemá smysl platit vstup nadarmo) #next-action #online 📅 2026-10-01
+- [ ] Podívat se do rozvrhu FuTru: je volno v pondělí a ve středu, jak jsou rozepsané kurzy → zaplatit permanentku od října #next-action #online 📅 2026-10-01
+- [ ] Začít chodit (po, st) — po zaplacení permanentky
 - [x] Nastavit denní ranní vážení nalačno + vybrat appku pro sledování trendu ✅ 2026-08-05
 - [x] Koupit inulin, zkusit přidat k snídani ✅ 2026-08-03
+
+## Průběh
+
+260926 (weekly review): permanentka FuTru od října pořád platí. Váha se sleduje „plus mínus“, ne striktně denně — po výletu do Brna (22.–24. 9.) to dopadlo líp, než se Lenka obávala.
 
 ## Otevřené otázky
 

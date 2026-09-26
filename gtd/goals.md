@@ -37,4 +37,4 @@
 
 ## finances-admin
 → [[areas/finances-admin]]
-- Dotáhnout projekt "if I die folder" — systematicky → [[projects/if-i-die-folder]]
+- Dotáhnout projekt "if I die folder" — systematicky → odloženo do [[someday-maybe]] 260926 (není kapacita)

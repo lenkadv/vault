@@ -8,6 +8,8 @@
 
 Zalogovat všechny fyzické knihy z domácí police — hlavně starší beletrii bez čárových kódů, která zatím chybí. Pravidelný slot v týdnu.
 
+**260926:** sběr beletrie odložen do [[someday-maybe]]. Projekt teď nese dvě věci, na kterých Lence záleží víc: **fyzické uspořádání knihovny** (logika řazení) a **zpracování poznámek z přečtených knih**.
+
 ## Architektura (260810)
 
 - **Handy Library** = jednorázový sběrný nástroj na telefonu (skenování kódů + ruční zadání u starších knih). Není to trvalé úložiště.
@@ -18,7 +20,9 @@ Zalogovat všechny fyzické knihy z domácí police — hlavně starší beletri
 
 - [x] Dokončit ~430 vyfocených obálek v Notion katalogu (upload + vložení do těla stránky) — postup viz [[HANDOFF – domácí knihovna obálky]]
 - [x] V Notion UI přepnout Gallery view "Cover" zdroj z property na "Page content" ✅ 2026-09-10
-- [ ] Pokračovat v katalogizaci — hlavně starší beletrie bez čárových kódů, ruční zadání do Handy Library #next-action #doma
+- [ ] Promluvit si s Claude o logice fyzického uspořádání knih v knihovně — po stěhování se pomíchalo; část knih má důvod, proč stojí, kde stojí, část ne. Cíl: domluvit systém/logiku řazení #next-action #online
+- [ ] Zpracovat poznámky z přečtených knih — poznačené přímo v knížkách, válí se kolem; Lenka tomu chce věnovat čas a nemůže se k tomu dostat → potřebuje pravidelný blok v kalendáři (zakládá se v sekci Priority weekly review 260926) #online
+  - První kniha: McCormack, *Women in the Picture* — ~40 záložek → POZ notes, viz [[LN – mccormackWomenPicture]]
 
 ## Průběh
 
@@ -39,3 +43,5 @@ Zalogovat všechny fyzické knihy z domácí police — hlavně starší beletri
 **260821 — obálky vyfocených knih DOKONČENY:** +115 obálek (dávka 12: `_id` 576–609; dávka 13: `_id` 610–646; dávka 14: `_id` 647–686; dávka 15: `_id` 687–740) — **430/430 hotovo, celý katalog má teď obrázky u všech položek.** V dávce 12 se objevila a byla opravena vážná chyba: upload-pořadí a page-pořadí se rozjely (řazeno jinak), takže všech 29 stránek dostalo dočasně špatnou obálku — opraveno přes `replace_content` po zpětné kontrole, ověřeno `notion-fetch`. Od dávky 13 dál se používá zpevněný postup (dva JSON soubory keyed by `dedup_key`, programové spojení, cross-validace množin klíčů před zápisem) — dávky 13–15 proběhly bez jediné chyby v párování. Zbývá jen ruční krok v Notion UI: přepnout Gallery view na "Page content" (safe teď, když všechny stránky mají obrázek).
 
 **260920 (weekly review) — kontrola přírůstků:** Diff zálohy z 16. 9. (`handy_library_manual_backup_20260916_1946_v2.zip`) proti snapshotu z 10. 8. podle `_id`: 2 nové fyzické knihy — *Monuments and Maidens* (Marina Warner, `_id` 745) a *Předminulé století* (Jiří Hanuš, Vít Hloušek, `_id` 746). Obě zapsány rovnou v Notionu „📚 Knihovna“ (Vlastní-fyzicky, Non-Fiction). Nic nezmizelo. Snapshot přepsán novým `resources/handy-library-snapshot-260920.csv` (742 knih), starý smazán. Obálka u 745 nahrána z vlastní fotky (ověřeno), u 746 vložena z goodreads (malý náhled, `Image_Url`, bez vlastní fotky).
+
+**260926 (weekly review) — kontrola přírůstků:** Žádné nové LN soubory od 20. 9. Handy Library: nejnovější záloha pořád `handy_library_manual_backup_20260916_1946_v2.zip` (už zpracovaná 260920) → nic nového ke zpracování. Sběr beletrie přesunut do someday.

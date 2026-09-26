@@ -2,6 +2,7 @@
 
 **Oblast:** lcenglish
 **Stav:** aktivní — Fáze 3: tvorba obsahu
+**260926 (weekly review):** od 260715 bez pohybu. Nechává se, jak je — o osudu projektu (aktivní / someday) se rozhodne při revizi „lcenglish jako donor“ 5. 10. 2026 → [[decisions/260523-lcenglish-jako-donor]].
 **Zahájeno:** 260521
 
 ---

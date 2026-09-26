@@ -36,6 +36,9 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
   - Odstartovat z aktuální verze, případně dál zkoušet i **vyprávěcí/narativnější varianty** — Lenka chce více verzí na porovnání, ne jednu finální přestavbu
   - Zachovat: barvy, existující text/copy, FAPI CTA odkaz, Shadowloop vysvětlovací sekci obsahově
   - Publikovat znovu přes Leadpages "Publish to WordPress" (funguje, ne přes REST API)
+- [ ] (nízká priorita, Lenku netrápí) Odstranit Drip API klíč z plaintextu na 3 místech (`jmena.py` na ploše, `jmena.py` v `3 LCEnglish/Tech/`, starý "Webhook tutorial" Google Doc) #online
+
+260926 (weekly review): varianta 2 a další kroky se stránkou zůstávají aktivní — je potřeba rozhodně postoupit dál.
 
 ---
 

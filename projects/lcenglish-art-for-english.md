@@ -104,8 +104,9 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #23 van Gogh, Červená vinice (předložky pohybu) — naplánováno na 22. 9. 2026 (zatím neodeslán; do odeslání poslední odeslaný je #22, 15. 9.)
-- **Další výstup:** NL #24 — Myslbek, Jezdecká socha sv. Václava (past simple), termín úterý 29. 9. 2026 (den po Dni české státnosti)
+- **Poslední newsletter:** #23 van Gogh, Červená vinice (předložky pohybu) — odesláno 22. 9. 2026 (naplánované v Dripu)
+- **Další výstup:** NL #24 — Myslbek, Jezdecká socha sv. Václava (past simple), termín úterý 29. 9. 2026 (den po Dni české státnosti) — výroba v neděli 27. 9. (blok v kalendáři z weekly review 260926)
+- **K vyřešení při přípravě #25/#26:** v hrubém curriculu říjen–prosinec je #26 (13. 10.) znovu past simple hned po #24; a chybí termín 20. 10. (#26 → #27 skáče na 27. 10.) — záměrná pauza?
 
 ## GrowOS 2.0
 

@@ -32,3 +32,5 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 ## Next actions
 
 - [x] Uspořádat podklady z FEKT auditu na disku ✅ 2026-09-25
+
+260926 (weekly review): momentálně bez next action záměrně — projekt se vyvíjí organicky, další úkol Lenka ohlásí, až vznikne. Čeká se jen na Štěpánku Uličnou (přesun struktury na SharePointu) → [[waiting-for]].

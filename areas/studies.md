@@ -20,6 +20,8 @@ Bakalářské studium dějin umění, KTF UK Praha.
 | Seminární práce Restaurování             | 📅 2026-08-15 (vlastní cíl)                                        | ✅ odesláno — projekt hotový, viz [[archive/seminarka-restaurovani]] |
 | Příspěvek do sborníku *Transitorius mundus* (emblematická reprezentace sv. Terezie z Ávily), 10–15 normostran, .docx, nakl. Artefactum | 📅 2026-11-30 | čeká na domluvu s dr. Štěrbovou → [[gtd/next-actions]] |
 
+**Zimní semestr 2026/27 začíná 1. 10. 2026** — rozvrh je, akademické povinnosti (seminárky, zkoušky) se ukážou během prvních týdnů → doplnit do tabulky.
+
 ## Workflow
 
 - [[resources/zotero-word-workflow]] — citace ve Wordu

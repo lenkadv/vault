@@ -5,7 +5,6 @@ Vztahy s rodiči, syny a přáteli — vědomě pěstované, ne jen reaktivní.
 
 ## Aktivní projekty
 
-- [[projects/if-i-die-folder]]
 
 ## Trvalé poznámky
 
