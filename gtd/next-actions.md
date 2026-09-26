@@ -55,6 +55,7 @@ sort by due
 - [ ] FAPI: zkontrolovat, jestli se zálohová faktura 26119196 (2 408 Kč, FAPI START roční) strhne kartou; jinak zaplatit převodem do 28. 9. (ze svodky 260926)
 - [ ] Knihovna KTF: zkontrolovat výpůjčky — 18. 9. přišlo upozornění na konec výpůjční lhůty; vrátit nebo prodloužit (ze svodky 260926)
 - [ ] Google účet 07pmtalk@gmail.com: rozhodnout, jestli ho zachovat (pak se přihlásit) — 23. 9. upozornění na neaktivitu (ze svodky 260926)
+- [ ] AI Black Magic: vytěžit Pro trial, než skončí (260927/28) — napsat Claudovi „navaž na AI Black Magic“: (1) stáhnout a rozbalit Humanize Writing plugin → vybrat skilly pro vault, (2) projít newsletterové/obsahové prompty a uložit ty použitelné do resources/ — https://aiblackmagic.com
 
 ```tasks
 not done
