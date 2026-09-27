@@ -52,7 +52,10 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 
 Návrh 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale některé chce ad hoc uchovat — rozhodnutí má být rychlé a filtrovatelné.
 
-1. **Claude při svodce označí kandidáty na uchování** štítkem `Svodka/uchovat` (Gmail ID `Label_89`): maily, ke kterým se Lenka může chtít vrátit (Mollick, swipe sekvence, výstavy s termínem, praktické prompty, novinky Drip/Leadpages, silné články k dějinám umění). Radši méně než víc.
+1. **Claude při svodce označí kandidáty na uchování** štítkem `Svodka/uchovat` (Gmail ID `Label_89`). Radši méně než víc. **Pravidla třídění (Lenka 260927):**
+   - **Uchovat:** Ethan Mollick (chodí mailem, výjimka mezi Substacky) · mail s odkazem na materiál, který chce Lenka podrobně nastudovat (např. série Slow Looking) — k takovému navíc udělat poznámku do `resources/`.
+   - **Mazat:** Substacky obecně, hlavně umělecko-historické (dají se najít na Substacku) · maily, ze kterých už je swipe (např. Schumacher) · maily, ze kterých svodka vytáhla informaci a nic dalšího s nimi nebude (Guardian, NG London, Kunsti, Výstavník, AI Inner Circle, novinky Leadpages bez úkolu).
+   - Zvážit: novinka Drip/Leadpages, se kterou je třeba něco udělat → spíš úkol do GTD než uchovat mail.
 2. **Lenka v Gmailu projde štítek** (`label:svodka-uchovat`): co nechce, tomu štítek odebere; co chce navíc, tomu ho přidá (ručně, cokoli z období svodky).
 3. **Na pokyn „ukliď schránku“** Claude:
    - maily se štítkem `Svodka/uchovat` **archivuje** (odebere `INBOX`, štítek zůstává → dohledatelné),
