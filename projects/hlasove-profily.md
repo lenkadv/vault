@@ -54,6 +54,7 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
 
 - Reference z Gmailu (štítek testimonial): lcenglish → `GrowOS/lcenglish/brain/proof/` (6 souborů, approval pending), AI lektoři → [[reference-ai-lektori]].
 - Drip AI lektoři (účet 8879539, 282 broadcastů + 19 sérií) → `resources/hlas/drip-ai-lektori/`; statistiky obou účtů se stahují skriptem (limit 20 dotazů/h).
+  - **AI lektoři hotovo 260927 23:48** → `resources/hlas/drip-ai-lektori/00-statistiky.md` (248 e-mailů, 717 objednávek připsaných e-mailům). **LCEnglish pomalé** — automatické série zahlcují okna (10 e-mailů/dotaz), za 2 h jen leden–březen 2023; běží s `SINCE=2023-01-01`. Příště nejdřív zkusit parametr, který omezí metrics jen na broadcasty (např. `email_type`), jinak nechat běžet přes noc.
   - Výsledky statistik (dočasně, mimo vault): LCEnglish `C:/Users/Lenka/AppData/Local/Temp/claude/G--M-j-disk-vault/cafa1e1f-83d0-4f66-b280-05e696153b41/scratchpad/drip/metrics_all.json`, AI lektoři `…/d2deb034-9f08-4ea8-b4d3-07b1bcbd5259/scratchpad/ail/metrics_all.json` (logy `crawl.log` vedle). Skript `metrics_crawl.py` je resumable — při přerušení znovu spustit ve stejné složce s `DRIP_API_KEY` a `DRIP_ACCOUNT_ID` (2094497 / 8879539). Po doběhnutí přesunout výsledky do vaultu (research lcenglish / resources/hlas).
 - Skill `/drip` — nová verze připravena, Lenka ji kopíruje sama (`GrowOS/.claude/` je machine set, guard blokuje Clauda).
 
