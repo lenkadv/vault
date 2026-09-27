@@ -35,9 +35,21 @@ GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
 
 ## Vlastní skilly (přenesené z 0.1, cesty na 2.0)
 
-- `/drip` — Drip API pro LCEnglish (`DRIP_API_KEY` v `lcenglish/.env`). Broadcasty
-  read-only, odesílá se ve webovém Dripu. „Výsledná verze" od Lenky = už upraveno
-  v Dripu, nezakládat draft.
+- `/drip` — Drip API pro LCEnglish (`DRIP_API_KEY` v `lcenglish/.env`). Vedle něj
+  je připojený **Drip MCP** (od 260927) — totéž API; kterou cestu použít, volí Claude
+  (typicky MCP na dotazy a zápisy, API na hromadná stahování do souborů).
+  **Zakládání broadcastů jako draftů je vítaná pomoc** (skill `/drip` je v tomhle
+  zastaralý — tvrdí read-only). Odesílá/plánuje Lenka ve webovém Dripu; odeslání,
+  naplánování a mazání/odhlašování odběratelů jen po výslovném potvrzení.
+  „Výsledná verze" od Lenky = už upraveno v Dripu, nezakládat duplicitní draft.
+  **Smyčka učení (260927):** Claude založí draft v Dripu a svou verzi (předmět,
+  preheader, text, broadcast ID) uloží do `GrowOS/lcenglish/work/email/` → Lenka
+  draft v Dripu doupraví a odešle → Claude přečte odeslanou verzi (`get_broadcast`),
+  porovná se svou a opakující se úpravy (slova, délka, tón, struktura, předmět)
+  zapíše do `GrowOS/lcenglish/brain/lessons/`. Kdy: jakmile Lenka řekne „odesláno“,
+  jinak nejpozději na začátku přípravy dalšího newsletteru (dohnat všechny
+  neporovnané). Jednorázovou úpravu nezobecňovat — lekce až z opakování nebo když
+  je změna zjevně zásadová.
 - `/metricool` — draft social postů + otevře Metricool v prohlížeči (potřebuje
   playwright MCP; bez něj copy-paste fallback).
 - `/inbox-review` — Notion Content Inbox → `brain/ideas.md` (lcenglish) /

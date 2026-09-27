@@ -156,15 +156,34 @@ Their body text is not available through the API — only in the Drip web UI.
 
 ## Action: Create a Draft Broadcast
 
-Only for a newsletter that is `approved` in the GrowOS review queue.
+For a newsletter that is `approved` in the GrowOS review queue, or whenever Lenka
+asks for a draft in the conversation. Creating drafts is welcome help (Lenka,
+260927). If she says her "final version" is already in Drip, do not create a
+duplicate. Not idempotent — every call makes a new broadcast; if unsure whether
+a call went through, list drafts first instead of retrying.
+
+Preferred: Drip MCP `create_broadcast` (account_id, name, subject, preheader,
+`content`). Or the API:
 
 ```bash
-curl -s -u "$DRIP_API_KEY:" -H "Content-Type: application/json" -X POST   "https://api.getdrip.com/v2/$DRIP_ACCOUNT_ID/broadcasts"   -d '{"broadcasts":[{"name":"INTERNAL NAME","subject":"SUBJECT","html_body":"<p>…</p>","from_name":"Lenka z LCEnglish","from_email":"lenka@lcenglish.cz"}]}'
+curl -s -u "$DRIP_API_KEY:" -H "Content-Type: application/json" -X POST   "https://api.getdrip.com/v2/$DRIP_ACCOUNT_ID/broadcasts"   -d '{"broadcasts":[{"name":"INTERNAL NAME","subject":"SUBJECT","preheader":"PREVIEW TEXT","content":{"html":{"type":"document","value":"<html><body>…</body></html>"}}}]}'
 ```
 
-A broadcast created through the API always starts as a **draft**. Choosing the
-audience, scheduling and sending stay in the Drip web UI with Lenka. Tell her
-the draft is waiting there.
+`content.html.value` must be a full HTML document; `html_body` is the old field.
+`PATCH` can edit a broadcast only while it is a draft. Internal name follows the
+house pattern `Subject//Artwork` (e.g. `Zima? Jaká zima?//Van Gogh`).
+
+A broadcast created this way always starts as a **draft**. Choosing the
+audience, scheduling and sending stay in the Drip web UI with Lenka. Give her the
+`preview_url` and tell her the draft is waiting there.
+
+**Learning loop.** Save your own version (subject, preheader, body, broadcast id)
+in `lcenglish/work/email/` when you create the draft. Lenka edits it in Drip and
+sends it. When she says it is sent — or at the latest when the next newsletter
+is being prepared — read the sent broadcast (`get_broadcast`), compare it with
+your saved version, and write recurring edits (words, length, tone, structure,
+subject lines) into `lcenglish/brain/lessons/`. Do not turn a one-off change into
+a rule unless it is clearly a principle.
 
 ---
 
@@ -273,6 +292,7 @@ When the user wants to draft a newsletter:
 ## Notes
 
 - The API can **create a draft broadcast** but never schedules or sends one — that is done in the Drip web UI.
-- Drip MCP (`https://api.getdrip.com/mcp`, OAuth) exposes the same v2 API; nothing extra beyond what is here.
+- Drip MCP (`https://api.getdrip.com/mcp`, OAuth) exposes the same v2 API with the same limits. Both are connected (260927); Claude picks: MCP for quick questions and drafts (no key needed, works in cloud/mobile), API/curl for bulk downloads saved to files. MCP also exposes destructive tools (delete/unsubscribe subscriber, delete broadcast) — only on Lenka's explicit yes.
+- `metrics/email` accepts `broadcast_ids[]` / `workflow_ids[]` filters (up to 1,000 emails) — use them to get stats for specific newsletters.
 - The API uses HTTP Basic Auth: API key as username, empty password.
 - All responses are JSON. Use `python -m json.tool` to pretty-print when needed.
