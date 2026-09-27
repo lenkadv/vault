@@ -9,7 +9,7 @@
 Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualizace**, ~150 vláken za 2 týdny) a hromadně je maže. Claude z nich dělá **svodku** jako na ministerstvu: souvislý text po tématech, ne seznam shrnutí — aby se nemusela vracet do zdrojů.
 
 - **Postup, formát, pravidla podle odesílatelů a profil zájmů → [[resources/postupy/svodka]]** (od 260927).
-- Maily z „Vyžaduje pozornost“ se přesouvají do hlavního inboxu (Primary) — z něj Lenka vyřizuje. Potřebuje oprávnění Gmail konektoru upravovat štítky (260927 chybělo).
+- Maily z „Vyžaduje pozornost“ se přesouvají do hlavního inboxu (Primary) — z něj Lenka vyřizuje. Funguje od 260927.
 - Formát č. 1: Vyžaduje pozornost (maily, které nejsou newslettery) → Hlavní body → AI → Umění a dějiny → Marketing a psaní → Česko a svět → Pro tvou práci → Kandidáti na odhlášení → 4 otázky.
 - Publikováno jako soukromá stránka (stejná adresa pro další čísla): https://claude.ai/artifact/7SYdebdeLaDZdvG9DV4QQ8 — zdrojový HTML je jen dočasně ve scratchpadu; pro další číslo republikovat přes `url`.
 - **Zájem neodvozovat z přečteno/nepřečteno** (memory `feedback_newsletter_read_signal`) — jen profil zájmů + Lenčiny reakce.
@@ -19,8 +19,8 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 
 - [x] Lenka přečetla svodku č. 1 a odpověděla na 4 otázky (260927)
 - [x] Profil zájmů a formát zapsány → [[resources/postupy/svodka]]; rytmus = denně v rámci `/daily-plan`
-- [ ] Povolit Gmail konektoru úpravu štítků (claude.ai → Nastavení → Konektory → Gmail), aby šlo přesouvat maily do hlavního inboxu #next-action #online
-- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly
+- [x] Gmail konektor má od 260927 právo upravovat štítky (po odpojení a novém připojení)
+- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly #next-action #online 📅 2026-10-04
 
 ## Vydaná čísla
 
