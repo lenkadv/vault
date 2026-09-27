@@ -48,6 +48,20 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **OpenAI** | Chodí na dvě adresy — Lenka jednu odhlásí. |
 | **Email Marketing Heroes** | Už chodí jen na jednu adresu. |
 
+## Úklid schránky po svodce (štítek Svodka/uchovat)
+
+Návrh 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale některé chce ad hoc uchovat — rozhodnutí má být rychlé a filtrovatelné.
+
+1. **Claude při svodce označí kandidáty na uchování** štítkem `Svodka/uchovat` (Gmail ID `Label_89`): maily, ke kterým se Lenka může chtít vrátit (Mollick, swipe sekvence, výstavy s termínem, praktické prompty, novinky Drip/Leadpages, silné články k dějinám umění). Radši méně než víc.
+2. **Lenka v Gmailu projde štítek** (`label:svodka-uchovat`): co nechce, tomu štítek odebere; co chce navíc, tomu ho přidá (ručně, cokoli z období svodky).
+3. **Na pokyn „ukliď schránku“** Claude:
+   - maily se štítkem `Svodka/uchovat` **archivuje** (odebere `INBOX`, štítek zůstává → dohledatelné),
+   - ostatní z Promo akcí a Aktualizací za období svodky **přesune do koše** (`trash_thread`; 30 dní lze vrátit).
+   - Období = stejné jako svodka; dotaz `(category:promotions OR category:updates) after:YYYY/MM/DD before:YYYY/MM/DD -label:svodka-uchovat`.
+4. Mazání vždy až po Lenčině pokynu, nikdy automaticky.
+
+Filtr pro Lenku: `label:svodka-uchovat` (kandidáti) · `(category:promotions OR category:updates) after:2026/09/13 before:2026/09/27 -label:svodka-uchovat` (co by šlo do koše za svodku č. 1).
+
 ## Pro tvou práci — nezakládat
 
 Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do projektů. Lenka je vyhodnotí sama a dá zpětnou vazbu.
