@@ -49,6 +49,6 @@ Další hotové kusy jsou v `brain/samples/` (21 odeslaných newsletterů Art fo
   - První věta po pozdravu: malé písmeno, max 6 slov, rovnou do příběhu („tak jsem začala chodit na latinu.")
   - Délka brutálně variabilní — od 10 řádků po 30. Nikdy výplň.
   - Struktura: real-life pozorování nebo osobní příběh → anglická lekce nebo postřeh → jeden měkký CTA (odkaz vmáčknutý do věty).
-  - Nikdy víc než jeden odkaz na akci. Nikdy tlačítko „Klikněte ZDE."
+  - Jeden cíl odkazu na e-mail: z jednoho mailu se neodkazuje na víc různých míst. **Tentýž odkaz může být v textu víckrát** (i 3–5×), aby čtenář mohl kliknout ve chvíli, kdy se rozhodne (upřesněno Lenkou 260927). Nikdy tlačítko „Klikněte ZDE."
   - Liquid codes pro oslovení v hlavičce, rodové tagy tam, kde text oslovuje čtenáře rodově citlivě.
   - Podpis: „Zdraví L." — vždy.

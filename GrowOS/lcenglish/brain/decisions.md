@@ -13,6 +13,9 @@ Epizody 15–19 přeházené v curriculu podle real-life hooků a vhodnosti kont
 ## 2026-07-13
 Série Art for English pokračuje přes léto beze změny tempa. Curriculum na zbytek léta a září sestaveno 2026-07-14.
 
+## 2026-09-27
+**Reference: jmenovitě jen se souhlasem, anonymně volně** (Lenka 260927). Všechny reference v `proof/` jsou `approved`; pole `use` říká jak: `full-name` = výslovný souhlas, celé jméno; `first-name-or-anonymous` = bez souhlasu se jménem, citovat jen křestním jménem nebo anonymně. Myšlenky a slova klientů **bez jména** lze používat volně: v propagačních materiálech (např. „jedna studentka mi napsala…“, parafráze, jazyk klientů v textech) i pro budování persony a jazyka publika (`audience.md`, voice of customer).
+
 ## 2026 (průběžně)
 **Carousely k Art for English pozastaveny** — téměř nulový dopad. Rozhodnutí přehodnotit až po datech z Reelů. Carousel-copy se píše jen na výslovné vyžádání.
 

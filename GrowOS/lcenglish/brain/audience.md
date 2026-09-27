@@ -48,6 +48,17 @@ plan's design, not to their own discipline — **low**, one specific quote.
 - Doubt that this course will be different from ones already tried —
   **low**.
 
+## Jazyk klientů — anonymně použitelný (přidáno 260927)
+Pravidlo (`decisions.md` 2026-09-27): reference v `brain/proof/` jsou `approved`; pole `use` určuje formu — `full-name` (celé jméno) nebo `first-name-or-anonymous` (křestní jméno / anonymně). Anonymně lze použít všechny, do propagace i jako jazyk publika.
+
+Nové doklady z Gmailu (štítek testimonial), zatím **unchecked** — k zapracování do sekcí výš při příštím `research-audience`:
+- Věk jako překážka, která padá: „mám 77 let a snažím se učit angličtinu na internetu“ (HELE); „postarší student, nejméně ostrá tužka v penálu“ (vysvětlení z Duolinga).
+- Příběh drží pozornost: „byla jsem tak zvědavá, jak to s těmi mladými ženami dopadne… ale nepředbíhala jsem a poslouchala svou učitelku“ (HELE).
+- Denní zadání jako opora: „takhle na mě, každý den zadání, které musím splnit“ (Nepravidelná slovesa).
+- Strach z gramatiky → hra: „co tak strašného jsem na předpřítomném čase tolik let viděla“ (Nepravidelná slovesa).
+- Maily samy motivují k návratu: „Motivujete mne opravdu velmi, znovu jsem začala s Hele“.
+- Aplikace nevysvětlují „proč“ (Duolingo) — potřeba vysvětlení, ne jen drilu.
+
 ## Interpretation (not fact — see the dossier for the full reasoning)
 The strongest emotional pull in the evidence is not about content (grammar,
 vocabulary) but about permission: being told it's fine to progress
@@ -74,5 +85,5 @@ copy decisions.
   without it, it's not possible to say how big or representative this
   evidence base is relative to the real audience.
 
-- **Checked against:** brain/proof/testimonials.md, LCEnglish YouTube channel
+- **Checked against:** brain/proof/ (dříve testimonials.md, rozděleno 260927), LCEnglish YouTube channel
 - **When:** 2026-09-14

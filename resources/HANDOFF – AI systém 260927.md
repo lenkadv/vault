@@ -42,9 +42,9 @@ Z databanky: [[ABM – Brand voice guide]] — struktura pro sepsání hlasu.
 
 ## Drobnost k opravě (trvá z 260926)
 
-`/note-inbox-review` má v Kroku 0 a „Vault struktura“ cesty z GrowOS 0.1 → přepsat na 2.0 + sync do Notion Skills DB.
+Hotovo 260927: cesty v `/note-inbox-review` opraveny na GrowOS 2.0 (sync do Notion Skills DB při zavírání).
 
 ## Při zavírání nezapomenout
 
 - Sync skillu `productivity-daily-plan` do Notion Skills DB (260927 přibyl krok 2e + `assets/svodka-template.html`).
-- Todoist kalendář: blok pro seanci 260927 odpoledne (svodka + hlasové profily) — Lenka nahlásí čas.
+- Todoist kalendář: blok pro seanci 260927 odpoledne (svodka + hlasové profily) — čas odvodit ze záznamu seance (na čas se Lenky neptat, pravidlo 260927).

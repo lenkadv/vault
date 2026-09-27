@@ -27,10 +27,10 @@ areas/                                    ← trvalé oblasti: tadylenka, lcengl
 projects/                                 ← časově ohraničené projekty s koncem
 gtd/next-actions.md                       ← konkrétní další kroky podle kontextu
 zettelkasten/literature/                  ← poznámky ze zdrojů
-GrowOS/tadylenka/content-ideas.md         ← content nápady pro tadylenka
-GrowOS/tadylenka/swipe-files/swipe-content.md ← swipe file pro tadylenka
-GrowOS/lcenglish/content-ideas.md         ← content nápady pro lcenglish
-GrowOS/lcenglish/swipe-files/swipe-content.md ← swipe file pro lcenglish
+GrowOS/tadylenka/library/content-bank/    ← náměty tadylenka (1 soubor = 1 námět, schéma _SCHEMA.md)
+GrowOS/tadylenka/library/swipe-content.md ← swipe file pro tadylenka
+GrowOS/lcenglish/brain/ideas.md           ← banka nápadů lcenglish (1 nápad = 1 řádek)
+GrowOS/lcenglish/library/swipe-content.md ← swipe file pro lcenglish
 ```
 
 ---
@@ -40,10 +40,12 @@ GrowOS/lcenglish/swipe-files/swipe-content.md ← swipe file pro lcenglish
 Před triáží načti **paralelně**:
 - `CLAUDE.md` — struktura vault a workflow
 - `gtd/next-actions.md` — aktuální priority
-- `GrowOS/tadylenka/brain/voice.md` + `brain/brand.md` — hlas a styl tadylenka (cesta opravena na GrowOS 2.0, 260926)
-- `GrowOS/tadylenka/lessons.md` — naučená pravidla pro tadylenka
-- `GrowOS/lcenglish/brand.md` — hlas a styl lcenglish (sekce 4: Brand Voice)
-- `GrowOS/lcenglish/lessons.md` — naučená pravidla pro lcenglish
+- `GrowOS/tadylenka/brain/voice.md` + `brain/brand.md` — hlas a styl tadylenka
+- `GrowOS/tadylenka/brain/lessons/` — naučená pravidla pro tadylenka (všechny soubory kromě README)
+- `GrowOS/lcenglish/brain/voice.md` + `brain/brand.md` — hlas a styl lcenglish
+- `GrowOS/lcenglish/brain/lessons/` — naučená pravidla pro lcenglish (všechny soubory kromě README)
+
+(Cesty podle GrowOS 2.0, opraveno 260927.)
 
 ---
 
@@ -94,7 +96,7 @@ Před navržením destinace do Obsidianu: **K jakému konkrétnímu projektu neb
 | Odpověď nejasná | `[Notion archiv]` — do Obsidianu nic |
 | „Chci dál zpracovat, nevím jak" | `[Omnibus]` — jen výjimečně |
 
-Výjimky: Akademické zdroje projdou filtrem pokud jde o aktivní seminářku/bakalářku nebo pokud Lenka explicitně chce zdroj v resources/. Swipe projde pokud jde o formát nebo mechaniku s jasnou adaptací pro tadylenka nebo lcenglish.
+Výjimky: Akademické zdroje projdou filtrem pokud jde o aktivní seminárku/bakalářku nebo pokud Lenka explicitně chce zdroj v resources/. Swipe projde pokud jde o formát nebo mechaniku s jasnou adaptací pro tadylenka nebo lcenglish.
 
 Prezentuj tabulku:
 
@@ -126,11 +128,11 @@ Prezentuj tabulku:
 - **[Area: X]** — X = tadylenka / health / family / finances / japanese / slepekure / lcenglish (ne studies — viz [Resource: téma])
 - **[Project: název]** — vytvoří/aktualizuje `projects/název.md`
 - **[Note: slug]** — vytvoří `zettelkasten/literature/slug.md`
-- **[GTD]** — přidá do `gtd/next-actions.md` (kontexty: @online, @telefon jen pro hovory, @venku/pochůzky)
-- **[NL: tadylenka]** / **[IG: tadylenka]** / **[NL+IG: tadylenka]** — námět na newsletter nebo IG post pro tadylenka → `content-ideas.md`
-- **[Swipe: tadylenka]** — zajímavý formát nebo přístup k napodobení → `swipe-files/swipe-content.md`
-- **[NL: lcenglish]** / **[IG: lcenglish]** / **[NL+IG: lcenglish]** — námět pro lcenglish → `content-ideas.md`
-- **[Swipe: lcenglish]** — swipe file pro lcenglish → `swipe-files/swipe-content.md`
+- **[GTD]** — přidá do `gtd/next-actions.md` (kontexty: @online, @telefon jen pro hovory, @doma, @venku/pochůzky)
+- **[NL: tadylenka]** / **[IG: tadylenka]** / **[NL+IG: tadylenka]** — námět pro tadylenka → nový soubor v `library/content-bank/`
+- **[Swipe: tadylenka]** — zajímavý formát nebo přístup k napodobení → `library/swipe-content.md`
+- **[NL: lcenglish]** / **[IG: lcenglish]** / **[NL+IG: lcenglish]** — námět pro lcenglish → `brain/ideas.md`
+- **[Swipe: lcenglish]** — swipe file pro lcenglish → `library/swipe-content.md`
 - **[Omnibus]** — přidá do `inbox/omnibus.md`
 - **[Books]** — vytvoří záznam v Notion DB `📖 Book Recommendations` (`collection://2a5e491b-229c-4daa-834b-1f7e67948738`) — viz sekce níže
 - **[Art Image Bank]** — vytvoří záznam v Notion DB `Art Image Bank — tadylenka` (`collection://9b7a40ab-08d6-424b-adee-b005c0f5775a`) — viz sekce níže
@@ -213,30 +215,45 @@ V sekci "Otázky a reakce" přidej `[[...]]` na existující permanent notes, kt
 
 ### [GTD] → `gtd/next-actions.md`
 
-Přidej jako novou checkbox položku do správné sekce podle kontextu (@počítač, @telefon, @venku/pochůzky, @čekání).
+Přidej jako novou checkbox položku do správné sekce podle kontextu (`## @online`, `## @telefon`, `## @doma`, `## @venku/pochůzky`; @telefon jen hovory, vše ostatní u počítače i mobilu = @online). Čeká-li se na někoho → `gtd/waiting-for.md`.
 
-### [NL/IG/NL+IG: tadylenka] nebo [NL/IG/NL+IG: lcenglish] → `GrowOS/[business]/content-ideas.md`
+### [NL/IG/NL+IG: tadylenka] → nový soubor v `GrowOS/tadylenka/library/content-bank/`
 
-Přidej do sekce `## Quick Capture` (nové záznamy nahoře, pod `<!-- Add new captures at the top -->`):
+Jeden námět = jeden soubor, název = téma (`<Téma>.md`). Frontmatter a tělo přesně podle `library/content-bank/_SCHEMA.md`:
 
 ```
-### [DATUM] — Z Notion inboxu
+---
+project: tadylenka
+type: content-idea
+rubrika: "zeny-v-obraze"   # zeny-v-obraze | co-vidis | vsichni-svati | jine | mimo
+status: fresh
+temata: []
+datum_zachyceno: "YYMMDD"
+zdroj: ["URL"]
+---
 
-- [NL] [případně i IG] [Název nebo téma]
-  - Zdroj: [URL pokud existuje]
-  - Angle: [co je na tom zajímavého, jak uchopit — vycházej z brand.md a lessons.md]
-  - [Rubrika pokud sedí]
-  - Intent type: [TEACH / STORY / HOT TAKE / ENGAGE / OBSERVE]
-  - Vault: [[...]] (odkazy na relevantní zettelkasten noty, areas nebo projects — jen pokud existují)
+# [Téma]
+
+## Úhel
+[2–4 věty: o čem to je a co je na tom pro tadylenku zajímavé — vycházej z voice.md a lessons/]
+
+## Inspirační zdroje
+- [název / účet] — [URL] — [co konkrétně odtud beru]
 ```
 
-Pro [IG] přidej navíc:
-- Navrhovaný formát (carousel / post / reel)
-- Návrh hooku pokud je zřejmý
+Formát (článek / IG / Note) se v bance nesleduje. Než založíš nový soubor, zkontroluj, jestli podobný námět už v bance není — pokud ano, přidej zdroj do jeho `zdroj` a `## Inspirační zdroje`.
 
-Vault linking pro tadylenka je obzvlášť důležitý — tadylenka se prolíná s osobním životem, výzkumem a studiem. Hledej propojení v `zettelkasten/`, `areas/studies.md`, `areas/tadylenka.md` a `projects/`.
+Vault linking pro tadylenka je obzvlášť důležitý — tadylenka se prolíná s osobním životem, výzkumem a studiem. Hledej propojení v `zettelkasten/`, `areas/studies.md`, `areas/tadylenka.md` a `projects/` a přidej `[[...]]` do úhlu (jen existující noty).
 
-### [Swipe: tadylenka] nebo [Swipe: lcenglish] → `GrowOS/[business]/swipe-files/swipe-content.md`
+### [NL/IG/NL+IG: lcenglish] → `GrowOS/lcenglish/brain/ideas.md`
+
+Jeden nápad = jeden řádek do správné sekce pod `## The bank` (Newsletter / email angly, Instagram / engage, Články / SEO, Video, Bigger swings), nahoru v sekci:
+
+```
+- [Nápad a úhel v 1–2 větách, vycházej z voice.md a lessons/] [URL] — channel: email|instagram|articles|video|strategy · status: fresh · added: YYYY-MM-DD
+```
+
+### [Swipe: tadylenka] nebo [Swipe: lcenglish] → `GrowOS/[business]/library/swipe-content.md`
 
 ```
 ## [DATUM] — [Název/zdroj]
