@@ -2,13 +2,14 @@
 
 **Oblast:** [[areas/ai-nastroje]]
 **Založeno:** 260926
-**Stav:** aktivní — zkušební číslo 1 hotové, čeká na Lenčinu zpětnou vazbu
+**Stav:** aktivní — formát ustálen 260927, svodka běží denně jako krok `/daily-plan`
 
 ## Co to je
 
 Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualizace**, ~150 vláken za 2 týdny) a hromadně je maže. Claude z nich dělá **svodku** jako na ministerstvu: souvislý text po tématech, ne seznam shrnutí — aby se nemusela vracet do zdrojů.
 
-- Primární inbox má 1 vlákno — cíl ≤ 20–30 splněn, nic se v Gmailu nepřesouvá ani neštítkuje.
+- **Postup, formát, pravidla podle odesílatelů a profil zájmů → [[resources/postupy/svodka]]** (od 260927).
+- Maily z „Vyžaduje pozornost“ se přesouvají do hlavního inboxu (Primary) — z něj Lenka vyřizuje. Funguje od 260927.
 - Formát č. 1: Vyžaduje pozornost (maily, které nejsou newslettery) → Hlavní body → AI → Umění a dějiny → Marketing a psaní → Česko a svět → Pro tvou práci → Kandidáti na odhlášení → 4 otázky.
 - Publikováno jako soukromá stránka (stejná adresa pro další čísla): https://claude.ai/artifact/7SYdebdeLaDZdvG9DV4QQ8 — zdrojový HTML je jen dočasně ve scratchpadu; pro další číslo republikovat přes `url`.
 - **Zájem neodvozovat z přečteno/nepřečteno** (memory `feedback_newsletter_read_signal`) — jen profil zájmů + Lenčiny reakce.
@@ -16,9 +17,17 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 
 ## Postup
 
-- [ ] Lenka přečte svodku č. 1 a odpoví na 4 otázky na konci (délka, sekce, AI zprávy vs. tipy, zakládat náměty?) #next-action #online
-- [ ] Podle odpovědí zapsat profil zájmů (soubor) a ustálit formát
-- [ ] Rozhodnout rytmus (návrh: týdně čt/pá před weekly review) a zda z toho udělat skill / naplánovanou úlohu (upravený `reading-digest` čte záložky místo štítku)
+- [x] Lenka přečetla svodku č. 1 a odpověděla na 4 otázky (260927)
+- [x] Profil zájmů a formát zapsány → [[resources/postupy/svodka]]; rytmus = denně v rámci `/daily-plan`
+- [x] Gmail konektor má od 260927 právo upravovat štítky (po odpojení a novém připojení)
+- [ ] První denní svodka v rámci `/daily-plan` 260928 (období od 27. 9.) #next-action #online 📅 2026-09-28
+- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly 📅 2026-10-04
+
+## Vydaná čísla
+
+| Č. | Období | Poznámka |
+|---|---|---|
+| 1 | 14.–26. 9. 2026 | zkušební, ~150 vláken; 260927 doplněn rozbor Mollicka; schránka vyčištěna (Lenka smazala `Svodka/smazat`) |
 
 ## Související
 

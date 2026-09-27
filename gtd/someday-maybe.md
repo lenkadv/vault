@@ -16,6 +16,8 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
   - Zachycená data (přesunout do finální složky): **Penzijní připojištění** — KB Penzijní společnost; účastník Mgr. Lenka Dvořáková; archivní číslo 544647; číslo smlouvy 7055171002; určené osoby pro pozůstalostní penzi: Vítek Peterka 50 %, Alexandr Peterka 50 %.
   - Oblasti: [[areas/finances-admin]] · [[areas/family]]
 
+- **Städel Museum — online kurz „Kunstgeschichte Online“ (moderní umění 1750–dnes)** — zdarma, filmy, texty, časová osa; registrace z 12. 3. 2024 platí, přihlásit se vlastním heslem a pokračovat, kde jsem skončila. Jde i v němčině (spojit s [[areas/deutsch]]). Kurz: https://onlinekursmoderne.staedelmuseum.de/de (EN: https://onlinekursmoderne.staedelmuseum.de/en) · další digitální nabídka Städelu: https://www.staedelmuseum.de/de/digitale-angebote · uvítací mail: https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1793341858521771142 (zachyceno 260927 z hlavního inboxu)
+
 ## Místa
 
 - **The Hundred Hunt** — fotografování čísel existujících v kontextu (na dokovišti, ve výloze) — není cropped, není staged. Potenciální tadylenka projekt nebo osobní hra. — https://thehundredhunt.com/

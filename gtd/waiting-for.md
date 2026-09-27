@@ -18,6 +18,7 @@ sort by due
 
 - [ ] Review rozhodnutí lcenglish jako donor — [[decisions/260523-lcenglish-jako-donor]], posunuto z 260823 kvůli chybějícímu odstupu a kapacitě (face-to-face práce zabírá 6+ týdnů); při revizi rozhodnout i osud [[projects/lcenglish-online-kurz]] (HELE funnel, stojí od 260715) 📅 2026-10-05
 - [ ] GrowOS 2.0 běží měsíc bez problémů? → `GrowOS-0.1-archiv` už je mimo vault (260926 přesunut na `G:\Můj disk\GrowOS-0.1-archiv`); zbývá rozhodnout, jestli ho smazat. Kompletní 0.1 je i v `archive/growos-0.1-pred-migraci-260906.zip`. Viz [[growos-2-migration]] 📅 2026-10-06
+- [ ] Vídeň do 11. 10.? Albertina 250 let + Belvedere (Lampi) končí 11. 10. — rozhodnout, jestli jet; Borghese (Řím) asi ne. Viz [[mista-k-navstiveni]] 📅 2026-10-04
 - [ ] Getty přednáška „Édouard Manet, Jeanne Demarsy, and the Art of Parisian Chic“ (Justine De Young, 27. 9. v noci — nestihla, spala): zkontrolovat, jestli je záznam na YouTube kanálu Getty Museum, případně pustit 📅 2026-10-04
 
 ## Čeká na někoho

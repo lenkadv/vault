@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/ai-nastroje]] (souvisí s [[areas/lcenglish]], [[areas/tadylenka]], [[areas/studies]])
 **Založeno:** 260926
-**Stav:** aktivní — zatím jen návrh, mapování nezačalo
+**Stav:** aktivní — zdroje zmapovány 260927, čeká na Lenčino potvrzení profilů
 
 ## Cíl
 
@@ -21,10 +21,29 @@ Méně přepisování toho, co Claude napíše. Z banky Lenčiných skutečných
 
 GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (profil), `brain/lessons/` (poučení z přepisů). lcenglish má ~20 A4E newsletterů v samples, tadylenka jen 3–4.
 
+## Mapa zdrojů (260927, jen čtení)
+
+**Gmail — odeslané:** každá ze 4 adres má 200+ odeslaných vláken (Gmail víc nepočítá). Adresy se kryjí s rolemi:
+
+| Adresa | Komu píše (vzorek červen–září 2026) | Hlas |
+|---|---|---|
+| lnk.dvorakova@gmail.com | rodina, přátelé, úřady, e-shopy; ale i GNOSTIKA / DigiStart (Štěpánka Uličná) | 1 osobní (+ část 2) |
+| info@lenkadvorakova.cz | EVIDENT (firemní školení, HR, víc lidí v kopii) | 2 profesní — korporát |
+| lenka@publicspeaking.cz | NG Praha, VOX kurzy, KTF knihovna | 2 profesní — kultura/vzdělávání |
+| lenka@lcenglish.cz | studenti a klienti lcenglish (Tandem) | 2 profesní — lektorka / 3 lcenglish 1:1 |
+
+**Drip, Substack, web lcenglish.cz:** z cloudového prostředí nedostupné (síť je blokuje). Drip jde přes GrowOS skill `/drip` v seanci na Lenčině počítači; Substack umí export všech článků (Nastavení → Export) jako zip; web přes lokální seanci.
+
+**Akademický text (Drive):** seminárka Male Gaze (finál `LDvorakova_Male Gaze_260803.pdf`, docx ve složce „Male gaze v renesančním umění“), seminárka Restaurování (`seminarka-restaurovani.md`), a hlavně **`260921-eva-seminarka-na-substack.md`** — převod téže látky z akademického do tadylenka hlasu = ideální dvojice pro porovnání hlasů 5 a 6.
+
+**Už ve vaultu:** lcenglish `brain/samples/` 27 souborů (A4E newslettery 1–20+), tadylenka 4 (De Chirico, Courbet, Eva — pin-up); oba `voice.md` ~3 KB.
+
+**Z databanky:** [[ABM – Brand voice guide]] (skill, neprozkoumáno) — struktura pro sepsání hlasu značky.
+
 ## Postup
 
-- [ ] Zmapovat zdroje (jen čtení, dělá Claude, ~20 min): kolik odeslaných mailů v Gmailu a z jakých adres, co je v Dripu (broadcasty, sekvence, statistiky), Substack, web #next-action #online
-- [ ] S Lenkou potvrdit rozdělení do profilů a co do banky patří (~15 min)
+- [x] Zmapovat zdroje (260927, viz Mapa zdrojů výše)
+- [ ] S Lenkou potvrdit rozdělení do profilů, pořadí a co do banky patří #next-action #online
 - [ ] Profil po profilu: banka → návrh profilu → Lenčiny opravy. Začít lcenglish e-maily z Dripu.
 - [ ] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy (zapsat do CLAUDE.md / GrowOS lessons)
 - [ ] Volitelně: nainstalovat skill Email Triage (Productivity Pack v `Downloads`) — jeho voice-profile je menší verze profilu 1

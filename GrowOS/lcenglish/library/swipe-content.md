@@ -4,6 +4,23 @@ Zajímavé formáty, přístupy a inspirace od jiných tvůrců. Ne obsah k pře
 
 ---
 
+## 260927 — Jon Schumacher — kompletní e-mailová sekvence k webináři (registrace → replay → prodej)
+
+- **Co to je:** Celá sekvence k bezplatnému tréninku „How to Use AI to Build a Webinar That Books High-Ticket Clients in 60 Minutes or Less“ (14.–26. 9. 2026), která končí prodejem šestitýdenního programu Webinar Launchpad 4.0. Lenka byla registrovaná, takže přišlo všechno.
+- **Časová osa:**
+  1. *You're in! Here's everything you need* — hned po registraci: odkaz, pozvánka do kalendáře, e-book zdarma („The Client-Winning Webinar“, 7 sekcí webináře).
+  2. *One thing I'll cover Tuesday that surprises people* (4 dny předem) — ochutnávka jedné myšlenky: „dobré webináře učí míň, ale správné věci ve správném pořadí, a nepotřebují tvrdý prodej“. V P.S. už nabídka placené konzultace.
+  3. *Why this matters more in 2026* (2 dny předem) — proč právě teď: trh je přehlcený obsahem z AI, vzácná je důvěra; 45 minut živě udělá víc než měsíce postování.
+  4. *Tomorrow* (den předem) — co si účastník odnese.
+  5. *We start in 2 hours* → *Starting in 20 minutes* — jen odkaz, krátké.
+  6. *We're doing one more* (večer po živém vysílání) — „dopadlo to dobře, spousta z vás to časově nestihla, tak ještě jednou“ + sociální důkaz (klient: 43 prodejních hovorů) + jiný čas (večer). Druhé kolo stejné mini-sekvence (*Did you get your link?*, *Tomorrow*, *Starting in 20 minutes*).
+  7. *Lenka, webinar replay available* — „pokud jste nestihli“.
+  8. *2 things that stop you from webinars…* — prodejní mail programu: rozbíjí dvě námitky (obraz „hypeového prodejce s odpočtem“ a představu, že je potřeba velké publikum — „10 lidí stačí, 3 z nich byli vážní zájemci“). Termín uzávěrky, začátek programu, P.S. na identitu („nemusíš se stát někým jiným“), P.P.S. s odkazem na **odhlášení jen z této série**.
+  9. *My AI Brains. What they look like…* — pokračování prodeje přes ukázku vlastní práce.
+- **Proč to funguje:** Každý mail má jednu věc. Připomínky jsou krátké a opakují odkaz. Hodnota (e-book, ochutnávka) přichází dřív než nabídka. Druhé kolo („encore“) zachrání lidi, kterým nevyhovoval čas, a zároveň slouží jako sociální důkaz. Prodejní mail nepřesvědčuje o produktu, ale bourá důvod, proč lidi webinář nedělají. Odhlášení jen ze série snižuje odhlašování z celého seznamu.
+- **Jak použít pro lcenglish:** Kostra pro webinářovou/workshopovou sekvenci (HELE funnel, [[lcenglish-online-kurz]]): registrace + dárek → ochutnávka → „proč právě teď“ → den předem → 2 h → 20 min → encore v jiném čase → replay → prodejní mail proti hlavní námitce („na angličtinu už je pozdě / nemám talent“) s uzávěrkou → odhlášení jen ze série. V Dripu jako workflow se zpožděními podle data akce.
+- Odkaz: Gmail, odesílatel jon@jonschumacher.com, 14.–26. 9. 2026; landing page encore https://jonschumacher.com/AI-Webinar-Encore/ · program https://jonschumacher.com/launchpad/
+
 ## 260713 — "Boost Your Japanese" — landing page pro jazykový kurz
 
 - **Co to je:** Prodejní stránka kurzu japonské slovní zásoby (Japanese Vocabulary: The Shortcut) — reklama cílená na lidi, co už japonštinu trochu umí, ale váznou na konverzaci a přirozeném užití slov.

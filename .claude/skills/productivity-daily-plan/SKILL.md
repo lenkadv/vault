@@ -1,6 +1,6 @@
 ---
 name: productivity-daily-plan
-description: Sestaví denní plán — 2–3 nejdůležitější úkoly (MITs) s časovými bloky, zbytek flexibilně. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
+description: Sestaví denní plán — 2–3 nejdůležitější úkoly (MITs) s časovými bloky, zbytek flexibilně. Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
 ---
 
 # productivity-daily-plan
@@ -175,6 +175,10 @@ Načti `G:\Můj disk\vault\gtd\goals.md`. Použij jako kontext při výběru MIT
 **e. Týdenní priority.**
 
 Načti `G:\Můj disk\vault\gtd\next-week-priorities.md`. Toto je **kontext**, ne seznam úkolů. Při výběru MITů preferuj tasky, které jasně posouvají týdenní prioritu.
+
+**e2. Svodka z e-mailů.**
+
+Přečti `G:\Můj disk\vault\resources\postupy\svodka.md` a sestav svodku z nevytříděných mailů od posledního čísla (obvykle za uplynulý den, po delší pauze za víc dní). Maily z oddílu „Vyžaduje pozornost“ přesuň do hlavního inboxu. Svodku publikuj na stálou adresu a do plánu dej jeden řádek s odkazem. Věci s termínem z „Vyžaduje pozornost“ ber jako kandidáty do flexibilního seznamu.
 
 **f. Uživatelovy tasky.**
 
