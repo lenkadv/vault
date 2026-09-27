@@ -42,6 +42,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Domácí knihovna, Notion „📚 Knihovna“, Handy Library, knihovna „knihy a články“ na Disku | `resources/postupy/knihovna.md` |
 | GrowOS, lcenglish/tadylenka výstupy, publishing projekty, `/drip`, `/metricool` | `resources/postupy/growos.md` (+ `GrowOS/AGENTS.md`) |
 | Git, `.gitignore`, commit/push | `resources/postupy/git-zaloha.md` |
+| Svodka z e-mailů (newslettery, nevytříděná pošta), `/daily-plan` krok svodka | `resources/postupy/svodka.md` |
 | Databanka AI (tutoriály, skilly, prompty z kurzů), nový zdroj do databanky | `resources/postupy/databanka.md` |
 
 **Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`): na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
@@ -235,7 +236,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 
 **Denní otvírací rituál** (každý den při sezení u počítače):
 - Spustit `/daily-plan` nebo napsat „denní plán" / „naplánuj mi den"
-- Skill přečte Google Kalendář, projde `projects/` pro `#next-action` tasky (vč. publishing projektů), zkontroluje [[next-week-priorities]]. GrowOS 2.0 review frontu bere zvlášť (`growos.js doctor`)
+- Skill sestaví svodku z nevytříděných e-mailů od posledního čísla ([[resources/postupy/svodka]]), přečte Google Kalendář, projde `projects/` pro `#next-action` tasky (vč. publishing projektů), zkontroluje [[next-week-priorities]]. GrowOS 2.0 review frontu bere zvlášť (`growos.js doctor`)
 - Výstup: plán (2–3 MITy v časových blocích + flexibilní seznam) jako sekce nahoře v `daily/YYMMDD.md`
 - Kalendářní bloky z weekly review jsou základ — denní plán je upřesňuje, nevytváří od nuly
 - Goals soubor: [[goals]] — kvartální směry, aktualizuje se při Quarterly Sprint

@@ -9,6 +9,9 @@ Aktivní letní plán: [[projects/letni-vylety-2026]]
 ## ⚠️ Časově omezené
 
 - **Kunsthalle Praha** — William Kentridge (jihoafrický umělec, animace uhlem, divadlo — jeden z nejvýznamnějších žijících umělců) · Klárov 5 · do září 2026
+- **Vídeň, Albertina** — 250 let Albertiny (mj. Dürerův *Zajíc*) · **do 11. 10. 2026** · možná stihnout (zdroj: Kunsti, svodka č. 1)
+- **Vídeň, Horní Belvedere** — restaurované obrazy Lampiho otce a syna (přemalovaná matka na portrétu Tomatisových) · do 11. 10. 2026 · spojit s Albertinou
+- **Řím, Galerie Borghese** — Ovidiovy *Metamorfózy* (Bernini, Apollón a Dafné), prodlouženo · do 11. 10. 2026 · asi se už nestihne
 - **Veletržní palác NG** - 230 let Národní galerie - výstava k výročí, asi do konce roku 2026
 
 ---

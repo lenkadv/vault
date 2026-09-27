@@ -1,0 +1,255 @@
+<title>Lenčina svodka</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+:root{
+  --bg:#F5F6F3; --surface:#FFFFFF; --ink:#1C232D; --muted:#5A6470; --rule:#D5D9D3;
+  --accent:#1F5C63; --accent-soft:#E3EEEE; --warn:#A5561A; --warn-soft:#F7ECE2;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --cond:"IBM Plex Sans Condensed", "Arial Narrow", Arial, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#13171C; --surface:#1A1F26; --ink:#E4E7EA; --muted:#9AA4AE; --rule:#2E353E;
+    --accent:#72B5BA; --accent-soft:#1D2B2E; --warn:#E3A365; --warn-soft:#2C2219;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#13171C; --surface:#1A1F26; --ink:#E4E7EA; --muted:#9AA4AE; --rule:#2E353E;
+  --accent:#72B5BA; --accent-soft:#1D2B2E; --warn:#E3A365; --warn-soft:#2C2219;
+  color-scheme:dark;
+}
+body{background:var(--bg);color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.6;padding-inline:16px;padding-block:32px 64px}
+.wrap{max-width:680px;margin:0 auto;display:flex;flex-direction:column;gap:40px}
+a{color:var(--accent);text-underline-offset:2px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.src{font-family:var(--mono);font-size:12px;white-space:nowrap;text-decoration:none;border-bottom:1px solid var(--rule)}
+.src:hover{border-bottom-color:var(--accent)}
+header{display:flex;flex-direction:column;gap:10px;border-bottom:2px solid var(--ink);padding-bottom:18px}
+.dateline{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+h1{font-family:var(--cond);font-weight:700;font-size:clamp(34px,7vw,46px);line-height:1.05;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.lede{margin:0;color:var(--muted);font-size:16px}
+h2{font-family:var(--cond);font-weight:600;font-size:14px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0;padding-bottom:6px;border-bottom:1px solid var(--rule)}
+h3{font-family:var(--cond);font-weight:600;font-size:19px;margin:0;line-height:1.25;text-wrap:balance}
+h4{font-family:var(--cond);font-weight:600;font-size:16px;margin:0;color:var(--accent)}
+section{display:flex;flex-direction:column;gap:16px}
+p{margin:0;max-width:65ch}
+.block{display:flex;flex-direction:column;gap:8px}
+.attn{background:var(--warn-soft);border:1px solid color-mix(in srgb,var(--warn) 35%,transparent);border-radius:6px;padding:20px 18px;display:flex;flex-direction:column;gap:14px}
+.attn h2{color:var(--warn);border-bottom-color:color-mix(in srgb,var(--warn) 30%,transparent)}
+ol.items,ul.items{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:10px}
+ul.minor{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:4px;font-size:15px;color:var(--muted)}
+.when{font-family:var(--mono);font-size:12px;color:var(--warn);font-weight:500}
+.key li::marker{color:var(--accent);font-family:var(--cond);font-weight:700}
+.tag{display:inline-block;font-family:var(--cond);font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);padding:1px 7px;border-radius:3px;margin-right:6px;vertical-align:1px}
+.note{font-size:15px;color:var(--muted)}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px 24px}
+.two > div{display:flex;flex-direction:column;gap:6px}
+.deep{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:20px 18px;display:flex;flex-direction:column;gap:14px}
+.deep .kicker{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.proj{display:flex;flex-direction:column;gap:6px;padding-top:12px;border-top:1px solid var(--rule)}
+.proj .meta{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.adv{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px 20px}
+.adv > div{display:flex;flex-direction:column;gap:4px}
+footer{border-top:2px solid var(--ink);padding-top:18px;display:flex;flex-direction:column;gap:14px;font-size:15px}
+code{font-family:var(--mono);font-size:.85em}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="dateline"><span>Svodka č. 1</span><span>14.–26. 9. 2026</span><span>Promo akce + Aktualizace</span><span>doplněno 27. 9.</span></div>
+  <h1>Co se psalo, zatímco jsi nečetla</h1>
+  <p class="lede">Výtah z asi 150 vláken, která ležela v záložkách Promo akce a Aktualizace. 27. 9. doplněn podrobný rozbor Mollickova textu. Od příštího čísla chodí svodka denně jako součást denního plánu.</p>
+</header>
+
+<section class="attn" id="pozornost">
+  <h2>Vyžaduje pozornost</h2>
+  <p class="note">Tyhle maily nejsou newslettery. Měly se přesunout do hlavního inboxu, ale Gmail konektor má zatím jen právo číst, takže přesun neproběhl. Dokud se to nepovolí, jsou tady odkazy.</p>
+  <ol class="items">
+    <li><strong>Knihovna KTF:</strong> 18. 9. přišlo upozornění na konec výpůjční lhůty. Vyřešeno 27. 9., týkalo se jen nově objednané knihy. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0b20dfc4bf7ead" target="_blank" rel="noopener">mail ↗</a></li>
+    <li><strong>FAPI:</strong> zálohová faktura č. 26119196 na roční FAPI START, 2 408 Kč. Při platbě kartou se strhne sama, při převodu je splatná <span class="when">po 28. 9.</span> <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c2cfc7f02e64b" target="_blank" rel="noopener">mail ↗</a></li>
+    <li><strong>Kaufland, reklamace koleček (MQKDW85):</strong> 26. 9. odpověděl prodejce, uvedené číslo neexistuje. Napsala jsi mu, stav ve waiting-for (1. 10.). <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0ddd3d659c9857" target="_blank" rel="noopener">mail ↗</a></li>
+    <li><strong>Google účet 07pmtalk:</strong> 23. 9. upozornění, že bude brzy veden jako neaktivní. Kdo ho chce zachovat, musí se do něj přihlásit. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d0a313c778cea" target="_blank" rel="noopener">mail ↗</a></li>
+    <li><strong>Claude:</strong> máš jednorázový reset limitů, platí do <span class="when">22. 10.</span> (Nastavení → Využití). Podle Ben's Bites dostávají předplatitelé Pro i kredit 100 $ na cloudové relace Claude Code, vyzvednout do 7. 10. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d126cbdfd1d2f" target="_blank" rel="noopener">Claude ↗</a> <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d394258be9162" target="_blank" rel="noopener">Ben's Bites ↗</a></li>
+    <li><strong>Getty, Manet a Jeanne Demarsy:</strong> přednáška proběhla v noci na 27. 9., záznam zkontrolovat 4. 10. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a085cbcd643f509" target="_blank" rel="noopener">mail ↗</a></li>
+  </ol>
+  <ul class="minor">
+    <li>PRE: změna termínu odečtu a nové zálohy na elektřinu (v příloze). <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c7e045a7e34e8" target="_blank" rel="noopener">↗</a></li>
+    <li>PayU 21. 9.: vrácení platby do 3 pracovních dnů. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c3adb59d4e735" target="_blank" rel="noopener">↗</a></li>
+    <li>Univerzita Vídeň: nové podmínky pro hesla. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0b33e95a265fac" target="_blank" rel="noopener">↗</a></li>
+    <li>AI Black Magic: bezplatný Pro přístup končí v pondělí 28. 9. Stahování je hotové. <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0ddfa82505e8b9" target="_blank" rel="noopener">↗</a></li>
+  </ul>
+</section>
+
+<section id="hlavni">
+  <h2>Hlavní body týdne</h2>
+  <ul class="items key">
+    <li>Anthropic vydal <strong>Claude Opus 5.5</strong>. Je teď nejvýš v nezávislém žebříčku, o zhruba 40 % levnější než předchozí Opus a výslovně lépe drží zadaná pravidla psaní.</li>
+    <li><strong>Meta udělala z asistenta Muse hlavní produkt:</strong> nejstahovanější aplikace v USA, přívěsek na klíče, brýle a otevření pro vývojáře.</li>
+    <li>Claude sloučil <strong>Chat a Cowork</strong> do jedné konverzace a přidal dokumenty a prezentace přímo vedle chatu.</li>
+    <li>V Římě a ve Vídni končí 11. 10. dvě velké výstavy: <strong>Ovidiovy Metamorfózy</strong> v Galerii Borghese a <strong>250 let Albertiny</strong>. Zapsáno do Míst k navštívení a připomínka na 4. 10., jestli jet do Vídně.</li>
+    <li>Vláda schválila <strong>rozpočet na rok 2027</strong> se schodkem 386 miliard. Prezident Pavel v OSN vyzval Čínu, aby tlačila na Rusko.</li>
+  </ul>
+</section>
+
+<section id="ai">
+  <h2>Umělá inteligence</h2>
+
+  <div class="deep" id="mollick">
+    <span class="kicker">Rozbor · One Useful Thing · 18. 9.</span>
+    <h3>Ethan Mollick: The Overhang (převis schopností)</h3>
+    <p>Hlavní myšlenka: o budoucích modelech se vedou velké spory, ale už ty dnešní (Mollick jmenuje GPT-6 Astra a Fable 5.1) stačí na to, aby změnily velkou část ekonomiky. Správně vedené zvládnou práci, která by lidem zabrala týdny. Mezi tím, co umějí, a tím, co s nimi skoro všichni dělají, je obrovská mezera. Tu mezeru Mollick nazývá <em>capability overhang</em>. Nejde podle něj o to, s AI soutěžit ve výrobě, ale přinést k ní vlastní výhody, díky kterým z ní člověk dostane víc než ostatní.</p>
+    <p>Na čtyřech projektech ukazuje, co tím myslí. Aby šlo pochopit, jak je udělal, pomůže jedna věc: ve všech případech model nepsal jen odpovědi do chatu. Dostal k dispozici počítač, tedy programy, prohlížeč a soubory, a pracoval v dlouhé smyčce: naplánovat, udělat, podívat se na výsledek, opravit. Stejně jako Claude Code u tebe ve vaultu, když 27. 9. stáhl knihovnu AI Black Magic ve třech vrstvách, založil 147 poznámek a postavil k nim tabulku, aniž bys musela vědět, jak přesně.</p>
+
+    <div class="proj">
+      <h4>1. Zork jako 3D hra</h4>
+      <span class="meta">GPT-6 Astra</span>
+      <p>Zork je textová hra z roku 1977. Nemá žádnou grafiku, každé místo je jen odstavec prózy a hráč píše příkazy typu „jdi na sever“. Mollick zadal, ať z ní model udělá hratelnou 3D akční hru. Model musel sám rozhodnout, jak vypadá bílý dům, u kterého hra začíná, jak vypadá grue (originál o něm říká jen to, že tě ve tmě nejspíš sežere) a jak z příkazu „bojuj s trolem“ udělat akční scénu. Technicky to znamená napsat kód hry, vymodelovat prostředí a postavy, hru spustit, vyzkoušet a opravovat chyby. Mollickova práce byla hru vybrat a díky tomu, že Zork zná, poznat, kde se model spletl.</p>
+    </div>
+
+    <div class="proj">
+      <h4>2. Knihovna Umberta Eca ve 3D</h4>
+      <span class="meta">Fable 5.1</span>
+      <p>Eco měl v milánském bytě desítky tisíc knih. Model měl knihovnu zrekonstruovat, ale půdorys bytu nenašel. Tak si ho odvodil sám z pramenů: z tuctu videí, fotografií jednotlivých knihoven, které zveřejnila Ecova nadace, a ze dvou knihovních katalogů. Ve videích četl hřbety knih snímek po snímku, z nich odvodil rozložení místností a zhruba 5 000 knih, které dokázal identifikovat, rozmístil do 27 000 míst na policích. U každé knihy uvedl míru jistoty: jistá, odhad, neznámá. Police, kam kamera nikdy nedohlédla, nakreslil v mlze, aby bylo vidět, že o nich nic neví.</p>
+      <p>Tohle je postup historika: práce s prameny, jejich křížení a poctivé označení míry jistoty. Dá se to přenést na tvůj obor, třeba na rekonstrukci barokní knihovny nebo interiéru z inventářů a starých fotografií, nebo na domácí knihovnu z fotek hřbetů.</p>
+    </div>
+
+    <div class="proj">
+      <h4>3. Trailer ke knize z pohledu AI</h4>
+      <span class="meta">GPT-6 Astra · 45 minut</span>
+      <p>Mollick dal modelu rukopis své nové knihy <em>Co-Existence</em> a požádal o trailer z pohledu AI. Jasné instrukce nedal. Model se sám rozhodl použít Blender, profesionální program pro 3D modelování a animaci (Mollick přiznává, že ani nevěděl, že to model umí, dokud to neudělal). Blender se dá ovládat skripty, takže model v něm mohl stavět scénu kódem. Postavil celou animovanou 3D scénu, napsal scénář s vtipy a odhaleními, vygeneroval hlasy, hudbu a zvukové efekty a za 45 minut odevzdal film. První vtip Mollick zamítl, druhý byl podle něj dobrý. Trailer vyšel zlověstnější, než by si přál, ale tak se rozhodla AI.</p>
+    </div>
+
+    <div class="proj">
+      <h4>4. Akční trailer do 30 sekund</h4>
+      <span class="meta">GPT-6 Astra · Blender + video generátor v prohlížeči</span>
+      <p>Pak Mollick napsal: „To je dobré, ale ve skutečnosti chci akční filmový trailer podle Co-Existence. Bav se tím. Maximálně 30 sekund.“ Model znovu napsal scénář a v Blenderu udělal hrubý 3D prototyp. Když Mollick chtěl filmovější verzi, model použil blenderovou animaci jako storyboard, přes Mollickův prohlížeč ovládal generátor videa (webovou službu, jakou by jinak ovládal člověk myší), nechal vygenerovat jednotlivé záběry a sestříhal je do výsledného traileru. Mollick dal jen drobnou tvůrčí zpětnou vazbu, do výroby nezasahoval a ani přesně nevěděl, jak to model dělá. Všechno spotřebovalo jen zlomek tokenů z jeho běžného předplatného ChatGPT.</p>
+    </div>
+
+    <p>Mollick přiznává, že výsledky mají chyby, a že je to trochu děsivé, protože AI tu projevuje úsudek a kreativitu, které se donedávna považovaly za čistě lidské. Zdůrazňuje ale, že žádný z projektů nevznikl sám. Vybral je on, znal Zork, Eca i vlastní knihu natolik, aby poznal chyby, a žádal o další verzi, když první nebyla dobrá.</p>
+
+    <h4>Čtyři lidské výhody</h4>
+    <div class="adv">
+      <div><strong>Hluboká znalost</strong><p class="note">Odbornost, ze které vzniká intuice. Díky ní Mollick během vteřin poznal, že první trailer je temnější než kniha. Jen odborník vidí, kde AI v jeho oboru selhává, a podle výzkumu Anthropicu z ní dostane lepší i větší kus práce.</p></div>
+      <div><strong>Široký rozhled</strong><p class="note">AI zná designové myšlení, Toyota Production System i marxistickou literární kritiku, ale sama je nenabídne. Kdo zná správné pojmy, umí si o ně říct. Příklad: kdo ví něco o designu, řekne AI, ať přestane dávat „nadnadpisky“ nad nadpisy. Návrat svobodných umění.</p></div>
+      <div><strong>Vkus</strong><p class="note">Vyrábět je teď rychlé a levné, vzácné je umět vybrat. Mollick u traileru rozhodl jen o vtipu a o filmovější verzi, ale právě tím. Vkus je obrana proti záplavě průměrného obsahu.</p></div>
+      <div><strong>Iniciativa (agency)</strong><p class="note">Ochota zkoušet, co jde, když nikdo neví, kde jsou hranice. Nečekat, až ti někdo řekne, že AI už něco umí, ale zjistit to sám. Proto Mollick dělá tolik podivných experimentů.</p></div>
+    </div>
+    <p><strong>„AI tends not to volunteer.“</strong> Z celého textu je tohle možná nejpraktičtější věta. Schopnost v modelu je, ale sám ji nenabídne, dokud člověk nevstoupí a úkol nezadá. Na to jste narazily opakovaně při třídění zdrojů pro práci s AI a pro marketing. Proto má vault pravidla, která to obracejí: Claude má na začátku většího úkolu sám prohledat Databanku AI a říct, co sedí, a skilly se procházejí systematicky podle katalogu, ne jen podle toho, co už děláš. Je to pokus naučit systém nabízet, když to model sám od sebe nedělá.</p>
+    <p>Pro tebe: hluboká znalost je dějiny umění a baroko, široký rozhled jazyky, výuka, marketing a japonština, vkus máš vycvičený na obrazech. Iniciativu teď cvičíš průchodem katalogem ochutnávek. A Mollickova věta, že kapacitu dnes omezuje hlavně to, co si umíme představit, sedí přesně na to, že sis tyhle projekty neuměla představit.</p>
+    <p class="note">Kniha Co-Existence vychází 20. 10. Kdo ji předobjedná a nahlásí to na co-existence.ai, dostane hlasový rozhovor s AI, který zmapuje jeho čtyři výhody a navrhne k nim použití a prompty. Celý text si můžeš pustit jako audio na Substacku.
+      <a class="src" href="https://www.oneusefulthing.org/p/the-overhang" target="_blank" rel="noopener">článek ↗</a> <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0b5a97a72c80af" target="_blank" rel="noopener">mail ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Nové modely: Anthropic vede, OpenAI zlevňuje</h3>
+    <p>Claude Opus 5.5 vyšel 22. září a v indexu Artificial Analysis dosáhl 58 bodů, zatímco Fable 5.1 i GPT-6 Astra mají 53. Úspora proti Opusu 5 plyne z toho, že model k odpovědi potřebuje méně tokenů. Anthropic zároveň slibuje méně žargonu a věrnější dodržování stylových pravidel. V Claude Code je nový výchozí model se střední úrovní přemýšlení a pětihodinové limity se zvedly o 20 %. OpenAI odpověděl o hodinu a půl později modely GPT-6 Sol a Luna za poloviční cenu. Zatím jsou jen v Codexu a ChatGPT Work a podle Ben's Bites zůstávají za Opusem o krok pozadu. xAI vydalo Grok 4.7, který má vydržet u dlouhých úloh.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d92d9c8992d8a" target="_blank" rel="noopener">AI Inner Circle ↗</a> <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d394258be9162" target="_blank" rel="noopener">Ben's Bites ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Claude mění podobu</h3>
+    <p>Od 16. září se na Pro a Max postupně ruší přepínač mezi Chatem a Coworkem. Napíšeš, co potřebuješ, a Claude sám rozhodne, jestli odpoví, napíše dokument, udělá prezentaci, nebo se pustí do delší práce. Se změnou přišly Claude Docs a Slides: příkaz <code>/docs</code> otevře dokument vedle chatu, dá se v něm komentovat po větách a exportovat do Wordu, PDF, Google Docs nebo Notionu. Recenzent AI Signal upozorňuje, že dokumenty zatím nemají historii verzí a klientům je lepší posílat exportovaný soubor. Dále: cloudové relace Claude Code vyšly z testovací fáze a mobilní aplikace Claude umí více účtů.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c98e12f0c14d2" target="_blank" rel="noopener">AI Signal ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Meta, Google a ostatní</h3>
+    <p>Muse od Mety byl 18. září nejstahovanější bezplatnou aplikací v americkém App Storu. Vývojáři pro něj teď mohou psát konektory a na konferenci Connect Zuckerberg ukázal přívěsek Charm (prodej od prosince), nasazení do brýlí a mluvícího avatara. Mezi partnery jsou PayPal, Walmart a Shopify, zatímco Amazon agentovi nakupování zablokoval. Muse funguje jen v USA a Kanadě. Google spouští notebooky Googlebook, které spojují Android a ChromeOS (od 899 $, v prodeji 4. 10.). V rámci projektu Suncatcher 1. října vynese do vesmíru první čipy pro AI, aby otestoval datová centra na oběžné dráze. Nový hlasový model Gemini 3.8 Flash TTS umí přes sto jazyků a naklonovat vlastní hlas, za poloviční cenu proti předchůdci. ChatGPT má doplněk přímo do Wordu, Excelu a PowerPointu, dostupný i zdarma.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c9c2b983e7fe8" target="_blank" rel="noopener">AI Inner Circle ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Prakticky</h3>
+    <p>AI Inner Circle nabízí tři krátké šablony promptů: rychlé shrnutí dlouhého vlákna (co se změnilo, co čeká na tvoje rozhodnutí, co ignorovat), těžkou odpověď ve třech tónech od vstřícné po pevnou a „červenou tužku“, která nejdřív pojmenuje slabá místa textu a teprve pak přepíše. K Opusu 5.5 mají zdarma průvodce s radou, že střední úroveň přemýšlení je teď nová vysoká.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c9c2b983e7fe8" target="_blank" rel="noopener">prompty ↗</a></p>
+    <p class="note">Jen podle předmětů: 404 Media o lidech, kteří stojí za AI; AI Black Magic o tom, jak se Gemini omylem dostalo do systémů tří firem; The AI Exchange o tom, jak zajistit, aby se opravy AI chyb nemusely opakovat.</p>
+  </div>
+</section>
+
+<section id="umeni">
+  <h2>Umění a dějiny</h2>
+
+  <div class="block">
+    <h3>Objevy a trh</h3>
+    <p>Getty koupilo znovuobjeveného Velázqueze. Prado dokončilo čištění obrazu Domenica Tintoretta. Fragonard a jeho okruh dosáhli v pařížské aukci Christie's výrazných cen. Řecký premiér trvá na tom, že dohoda o návratu Parthenónských mramorů je stále možná.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d5e3aa1701280" target="_blank" rel="noopener">Art History News ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Výstavy v zahraničí</h3>
+    <p>National Gallery v Londýně poprvé v historii sestaví všechny van Eyckovy portréty: <strong>Van Eyck: The Portraits</strong>, 21. 11. 2026 – 11. 4. 2027, předprodej pro členy už běží. The Guardian označil letošní Turnerovu cenu v Middlesbrough (od 26. 9.) za nejzajímavější po letech. V Britském muzeu od 1. 10. začíná přehlídka dvou tisíc let korejského umění. Jako mistrovské dílo týdne vybral Guardian Rembrandtova <em>Starého muže jako svatého Pavla</em>, kde postava působí nezvykle pochybovačně a lidsky.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c86f39d4c0fee" target="_blank" rel="noopener">NG London ↗</a> <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d9186ed5a3be0" target="_blank" rel="noopener">Guardian ↗</a></p>
+    <p>Kunsti vypsalo 93 evropských výstav, které končí v říjnu. Z nich: Metamorfózy v Galerii Borghese byly prodlouženy do 11. 10., takže Berniniho Apollón a Dafné tam zůstane déle. Ve stejný den končí ve Vídni výstava k 250 letům Albertiny, včetně Dürerova <em>Zajíce</em>. V Horním Belvederu do 11. 10. ukazují restaurované obrazy Lampiho otce a syna. Rentgen a infračervená reflektografie odhalily, že na dětském portrétu Tomatisových byla matka pozdější rukou přemalována bustou a že <em>Spící Venuše</em> měla přemalby, kvůli kterým byla dlouho mylně považována za portrét. Rubensova, Jordaensova a van Dyckova <em>Tajemství růžence</em> jsou do 25. 10. poprvé mimo antverpský kostel, v Den Boschi.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c385d906396c9" target="_blank" rel="noopener">Kunsti ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Česko</h3>
+    <p>Národní galerie slavila 24. 9. 230 let večerem ve Veletržním paláci, zároveň začal Prague Art Week. Museum Montanelli vystavuje Bedřicha Dlouhého až do června 2027. Portál České galerie zveřejnil dosud neznámé dopisy Jana Zrzavého matce a sestře.
+      <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0c2984cda05570" target="_blank" rel="noopener">Výstavník ↗</a></p>
+  </div>
+
+  <div class="block">
+    <h3>Ze Substacků (podle titulků)</h3>
+    <p>Detaily Klimtova <em>Polibku</em> (Christopher P. Jones), Coleův <em>Oxbow</em> (The Curatorial Collector), tajné dějiny barev (The Rose Period), průvodce pomalým díváním (Behind the Masterpiece). Bitchy History psala o ženách, které vedly kampaně proti ženským právům, a o tom, proč společnost děsí matka, která chce volné odpoledne. The Rest Is History o ženě v salonu revolucionářů. Art UK o viktoriánech inspirovaných minulostí, mimo jiné o Phoebe Traquair a Francesce Alexander.</p>
+    <p class="note">Od dalšího čísla čtu Substacky celé a ke každému píšu krátkou poznámku o obsahu.</p>
+  </div>
+</section>
+
+<section id="marketing">
+  <h2>Marketing a psaní</h2>
+  <p>Jon Schumacher ti od 14. do 26. 9. poslal kompletní webinářovou sérii: pozvánku, připomínky dva dny, dvě hodiny a dvacet minut předem, záznam a „ještě jednou naposledy“. Zapsáno 27. 9. jako vzor do swipe file lcenglish, včetně časové osy a toho, proč funguje. Danny Iny (Mirasee) opakuje, že koncepty jsou dnes levné a hodnotu má kontrola. Píše také o mailu, na který se nechce odpovídat, a o „problému Nokie“ v marketingu. Linda C. na Substacku hájí autory na Substacku proti kritice a ukazuje jednoduchý marketing knih s příklady. Drip zve na živé ukázky AI nad e-mailovými daty, Leadpages přidal znovupoužitelné bloky stránek.
+    <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0cb2c4c12e9d1d" target="_blank" rel="noopener">Schumacher ↗</a></p>
+  <p class="note">Od dalšího čísla: Danny Iny a Kennedy (Email Marketing Heroes) podrobněji, u Kennedyho i vzorec od historky k prodeji. Drip a Leadpages sleduji kvůli novým funkcím.</p>
+</section>
+
+<section id="svet">
+  <h2>Česko a svět</h2>
+  <div class="two">
+    <div>
+      <h3>Česko</h3>
+      <p>Rozpočet 2027 se schodkem 386 miliard, poplatky pro veřejnoprávní média zřejmě skončí nejdřív v polovině roku 2027. Nová pravidla pro cesty ruských diplomatů. Sporné nominace do Rady vlády pro lidská práva. Zásah kriminalistů v Akademii věd kvůli podezření z fiktivních dohod. Škoda JS podepsala s Rolls-Royce smlouvu na malé modulární reaktory. Sněmovna zrušila valorizaci dálničních známek a jednodenní známka má platit 24 hodin. Salmonelóza na škole v Újezdě nad Lesy.
+        <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d1cda0542d713" target="_blank" rel="noopener">Deník N ↗</a></p>
+    </div>
+    <div>
+      <h3>Svět</h3>
+      <p>Pavel v OSN varoval, že Rusko ohrožuje celou Evropu. Si Ťin-pching na státní návštěvě v USA. Trump odebral akreditaci třem redakcím včetně CNN. Friedrich Merz po historické porážce. Nejčtenější v Respektu: konec dokumentární série Up, Ursula von der Leyen a Babišova neúčast na summitu k Ukrajině.
+        <a class="src" href="https://mail.google.com/mail/u/0/#all/1a0d856e50f476a7" target="_blank" rel="noopener">Respekt ↗</a></p>
+    </div>
+  </div>
+  <p class="note">Podcasty (Podwise): The Ancients o mayském písmu, The Rest Is History o Robespierrově teroru, Easy German č. 698 o tom, jak se Lara sama naučila německy bez přízvuku.</p>
+</section>
+
+<section id="prace">
+  <h2>Pro tvou práci</h2>
+  <p class="note">Jen návrhy. Nic z toho nezakládám, vyhodnotíš sama.</p>
+  <ul class="items">
+    <li><span class="tag">tadylenka</span>Lampiho přemalovaná matka z Belvederu: žena, kterou pozdější ruka z obrazu vymazala. Silný námět pro rubriku Ženy v obraze. Doplňkově Phoebe Traquair a Francesca Alexander z Art UK.</li>
+    <li><span class="tag">lcenglish</span>Van Eyckova výstava v Londýně jako háček: epizodu A4E s van Eyckem už máš, můžeš se k ní vrátit v newsletteru.</li>
+    <li><span class="tag">hlas</span>Opus 5.5 má lépe držet stylová pravidla, dobrá chvíle na hlasové profily. Gemini 3.8 TTS s klonováním hlasu jako možná levnější alternativa k ElevenLabs.</li>
+    <li><span class="tag">němčina</span>Easy German č. 698 k poslechu.</li>
+  </ul>
+</section>
+
+<section id="odhlaseni">
+  <h2>Kandidáti na odhlášení</h2>
+  <p class="note">Stav po tvé odpovědi 27. 9.</p>
+  <ul class="items">
+    <li>Email Marketing Heroes: už chodí jen na jednu adresu. Hotovo.</li>
+    <li>OpenAI posílá stejné novinky na dvě adresy. Jednu odhlásíš.</li>
+    <li>Tonebase a White Label Comedy zůstávají. Burlington Magazine možná v příštím kole. Mother's Earth jsou jen žádosti o recenzi po nákupu.</li>
+  </ul>
+</section>
+
+<footer>
+  <p><strong>Jak svodka vznikla:</strong> asi 150 vláken z 14.–26. 9. (plus tři starší). Celé jsem přečetla zhruba patnáct klíčových newsletterů, ostatní podle předmětu a úvodních řádků. Propagaci, účtenky, jízdenky a notifikace jsem přeskočila, pokud nevyžadovaly akci.</p>
+  <p><strong>Co se mění:</strong> svodka se od teď sestavuje při denním plánu, obvykle za uplynulý den. Mollick dostává podrobný rozbor, Substacky čtu celé, Danny Iny a Kennedy mají vlastní shrnutí, Drip a Leadpages sleduji kvůli novým funkcím. Maily vyžadující pozornost půjdou do hlavního inboxu, jakmile to Gmail konektor dovolí.</p>
+</footer>
+
+</div>
