@@ -35,7 +35,7 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 
 | Odesílatel | Jak zpracovat |
 |---|---|
-| **Ethan Mollick (One Useful Thing)** | Nejdůležitější zdroj. Obsáhlejší souhrn: hlavní teze + **konkrétně rozebrat, co dělal a jak** (jeho experimenty, nástroje, postup), aby si to Lenka uměla představit. Lenka si pak pustí audio na Substacku nebo přečte mail. |
+| **Ethan Mollick (One Useful Thing)** | Nejdůležitější zdroj. Souhrn **o něco obsáhlejší** než u ostatních (hlavní teze, co zkoušel, 1–2 odstavce) — ne podrobný rozbor. Lenka si pak pustí audio na Substacku nebo přečte mail. (Rozbor z 260927 byl skoro tak dlouhý jako originál — byl to Lenčin brainstorming, ne standard.) |
 | **Substacky obecně** | Číst **celý text** (je v mailu), ne jen titulek. Ke každému krátká poznámka o obsahu. |
 | **Danny Iny (Mirasee)** | Lenka jeho práci obdivuje, ale maily nečte (je jich hodně). Shrnout, co v týdnu/dni psal — nechce ho ztratit z pozornosti. |
 | **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. |
@@ -55,7 +55,7 @@ Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do
 ## Výstup
 
 - Soukromá stránka (Artifact) na stálé adrese https://claude.ai/artifact/7SYdebdeLaDZdvG9DV4QQ8 — republikovat přes `url`, stránku předtím přečíst.
-- Vzhled podle šablony `.claude/skills/productivity-daily-plan/assets/svodka-template.html`.
+- Vzhled podle šablony `.claude/skills/productivity-daily-plan/assets/svodka-template.html` (jen vzhled; rozbor Mollicka v ní je delší, než má být).
 - Do daily plánu jedním řádkem: odkaz na svodku + počet mailů ve „Vyžaduje pozornost“.
 
 ## Profil zájmů
