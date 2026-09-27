@@ -57,7 +57,13 @@ Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale n
    - **Mazat:** Substacky obecně, hlavně umělecko-historické (dají se najít na Substacku) · maily, ze kterých už je swipe (např. Schumacher) · maily, ze kterých svodka vytáhla informaci a nic dalšího s nimi nebude (Guardian, NG London, Kunsti, Výstavník, AI Inner Circle, novinky Leadpages bez úkolu).
    - Zvážit: novinka Drip/Leadpages, se kterou je třeba něco udělat → spíš úkol do GTD než uchovat mail.
 2. **Lenka v Gmailu projde štítek** (`label:svodka-uchovat`): co nechce, tomu štítek odebere; co chce navíc, tomu ho přidá (ručně, cokoli z období svodky).
-3. **Claude označí zbytek období štítkem `Svodka/smazat`** (Gmail ID `Label_90`) — všechny newslettery, promo a notifikace z Promo akcí a Aktualizací za období svodky, které nemají `Svodka/uchovat`. **Neoznačovat** transakční a úřední maily: probíhající reklamace/objednávky, bankovní avíza, vrácení peněz, účtenky (Stripe, Google Play), pošta a datová podání, bezpečnostní upozornění (GitHub), shrnutí lekcí (italki) — ty nechat Lence k ručnímu posouzení.
+3. **Claude označí zbytek období štítkem `Svodka/smazat`** (Gmail ID `Label_90`) — všechny newslettery, promo a notifikace z Promo akcí a Aktualizací za období svodky, které nemají `Svodka/uchovat`. **Neoznačovat** transakční a úřední maily (Lenka 260927):
+   - probíhající objednávky a reklamace (Kaufland apod.) → nechat,
+   - bankovní avíza (Air Bank) → neoznačovat; Lenka jen rychle mrkne, jestli tam není něco divného, a smaže sama,
+   - účtenky (Stripe, Google Play) → nemazat,
+   - bezpečnostní upozornění (GitHub apod.) → nemazat,
+   - pošta, datová podání, shrnutí lekcí (italki) → nechat Lence.
+   - Potvrzení o vrácení peněz (RegioJet apod.) a proběhlé jízdenky → **ano**, štítek `Svodka/smazat`.
 4. **Lenka si štítek `Svodka/smazat` projde a smaže sama** (Claude mazání nemá povolené a nemá ho dělat). Uchované maily archivuje sama.
 
 Filtry pro Lenku: `label:svodka-uchovat` · `label:svodka-smazat`.
