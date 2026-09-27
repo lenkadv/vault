@@ -59,6 +59,8 @@ Jon (modul Supabase) ji nabízí na tři věci; u Lenky je každá už pokrytá 
 
 **Rozhodnutí:** nezakládat. Byla by to další úložiště navíc (proti zjednodušování), s dalším tajemstvím ke správě a daty, do kterých Lenka sama nenahlédne. Slot `DATABASE_URL` v kořenovém `.env` zůstává prázdný a připravený.
 
+**Aktualizace 260927:** pro Databanku AI zvoleny Obsidian Bases, ne Supabase (Lenka ji chce procházet očima). Konkrétní limity pro návrat (500 poznámek / míjení shod / hledání v plném textu) jsou v [[resources/postupy/databanka]].
+
 **Kdy se vrátit:** při konkrétním úkolu, kde narazí Notion — Claude má automaticky ukládat stovky/tisíce záznamů, které nepotřebuješ procházet očima, nebo vlastní aplikace (např. pro lcenglish), která potřebuje databázi. Založení pak ~10 min (supabase.com → přihlášení přes GitHub → nový projekt → connection string do `.env`).
 
 ## Pokračování 260915 večer — reálný test na 10x English sales page

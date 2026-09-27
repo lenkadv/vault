@@ -13,5 +13,6 @@ Učení a zavádění AI nástrojů (Claude Code, skills, agenti) do vlastní pr
 
 - Kurzy: https://anthropic.skilljar.com (zdarma, bez registrace)
 - [[katalog-moznosti]] — co všechno jde s nainstalovanými nástroji dělat
+- Databanka AI — materiály z kurzů (tutoriály, skilly, prompty): tabulka `resources/databanka/Databanka.base`, postup [[resources/postupy/databanka]]
 - [[youcloned-ai-clone-setup]] — YouCloned (Jon Benson): instalace, rozhodnutí, NotebookLM, Supabase, složky
 - NotebookLM z Claude Code: CLI `notebooklm` (notebooklm-py), přihlášení Lenčiným Google účtem

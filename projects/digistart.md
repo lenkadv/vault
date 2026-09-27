@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/finances-admin]]
 **Spolupráce:** kolegyně Štěpánka
-**Resources:** [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP
+**Resources:** [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP · [[AI Black Magic – přehled knihovny 260927]] §1 — materiály z AI Black Magic seřazené podle bloků osnovy (trial končí 27./28. 9. 2026, co chceme, se musí zkopírovat hned)
 
 ## Co to je
 

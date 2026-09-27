@@ -42,6 +42,9 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Domácí knihovna, Notion „📚 Knihovna“, Handy Library, knihovna „knihy a články“ na Disku | `resources/postupy/knihovna.md` |
 | GrowOS, lcenglish/tadylenka výstupy, publishing projekty, `/drip`, `/metricool` | `resources/postupy/growos.md` (+ `GrowOS/AGENTS.md`) |
 | Git, `.gitignore`, commit/push | `resources/postupy/git-zaloha.md` |
+| Databanka AI (tutoriály, skilly, prompty z kurzů), nový zdroj do databanky | `resources/postupy/databanka.md` |
+
+**Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`): na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
 
 ## Areas
 
@@ -182,6 +185,7 @@ Při zavírání sezení (Lenka řekne "zavírám", "končím" apod.):
    Cíl: tabulka vždy odpovídá tomu, jak je skill právě postavený. Pokud se na skill nesáhlo, nic.
    (Pravidlo od 260926.)
 5. **tadylenka content mining** — bylo v sezení tadylenka content (research, recenze výstavy, rozepsaný text, zajímavý zdroj)? Pokud ano → přidat jako námět do `GrowOS/tadylenka/library/content-bank/`, zařadit do rubriky, `status: fresh` (nebo `retired`, pokud spíš someday). Notes fronta je pozastavená (pozdější fáze) — do [[notes-candidates]] se nic nepřidává.
+5b. **Databanka** — porovnat, co se v sezení dělalo, s `resources/databanka/`. Max. 1–3 shody → do daily sekce **Z databanky** („k tomu je strukturovaně popsané X“), i u věcí, které už děláme po svém. Žádná shoda = nic nepsat. (Pravidlo od 260927, [[resources/postupy/databanka]].)
 6. **Aktualizovat kalendář** — aktualizovat Todoist kalendář na skutečné časy pracovních bloků (start + end). Neuskutečněné bloky: buď rovnou přesunout na konkrétní termín, nebo smazat — žádný blok nesmí zůstat v minulosti jako neaktualizovaný. Do kalendáře patří reálná aktivita bez ohledu na to, jestli byla dopředu naplánovaná — pokud pro proběhlé sezení žádný blok neexistoval, založit nový (Todoist kalendář, Sage) se skutečným časem trvání sezení. Pokud Lenka čas nenahlásila, zeptat se.
 7. **Zapsat daily note** — `daily/YYMMDD.md` (jeden soubor pro celý den: plán nahoře, pod ním Průběh dne a Systémové změny). **YYMMDD = den, kdy seance reálně probíhala** (pravidlo o půlnoci viz Pravidla výše). Append: shrnutí sezení, klíčová rozhodnutí, systémové změny. Pokud soubor neexistuje → vytvořit.
 8. **Před potvrzením zkontrolovat**: byl `daily/YYMMDD.md` skutečně zapsán/aktualizován v tomto sezení? Pokud ne → vrátit se ke kroku 7.
@@ -221,6 +225,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 7. `areas/` — rychlá kontrola: jsou aktivní projekty v každé oblasti aktuální? Jsou "doplnit" položky stále relevantní nebo je vyčistit? Vždy se zeptat na stav seminárek v [[studies]] (vytvářet tlak, i když nemají projekty)
 8. **Zettelkasten** — `#zettel` tasky v [[next-actions]]: relevantní pro aktuální seminárku nebo bakalářku? Pokud ano → `#next-action` do projektu. Zettelkasten review (wiki-linky, MOC, propojení PN) → [[resources/postupy/zettelkasten]]. **Kontroly přírůstků** do knihovny „knihy a články“ (Drive dotaz) i domácí knihovny (Handy Library) → [[resources/postupy/knihovna]] (pokynem **„zpracuj knihovnu“** i mimo review).
 9. **tadylenka runway** — zkontrolovat, že runway v [[projects/tadylenka-publishing]] není prázdná (min. 2–3 díly dopředu). Pokud dochází → říct Lence, ať doplní dávku z `Content Bank.base` (pohledy podle rubrik, `status: fresh`). NEvybírat díl po dílu každý týden — runway se plní dávkově. (Notes fronta pozastavená — pozdější fáze.)
+9b. **Databanka** — nabídnout jednu položku ve stavu `neprozkoumáno` z `Databanka.base` na seznámení (střídat zdroje a typy). Zkontrolovat počet poznámek: nad 500 → připomenout návrat k Supabase ([[resources/postupy/databanka]]).
 10. **Note Inbox review** — spustit `/note-inbox-review` a zpracovat Notion Note Inbox
 11. **Archivace dailies** — přesunout všechny soubory z `daily/` (YYMMDD*.md) do `daily/YYYY-MM/` podsložky odpovídající jejich měsíci (např. `daily/2026-06/`), **všechny starší než dnešní** (dnešní den ještě běží). Automaticky, bez ptaní. Upřesněno 260920.
 12. **Weekly review ritual** — navazuje bez ptaní: pohled zpátky na oblasti, reflexe (2-3 otázky), brain dump backlog, waiting-for přehled, kalendář příštího týdne, priority → uloží `weekly-reviews/YYMMDD-week-review.md` a `gtd/next-week-priorities.md`

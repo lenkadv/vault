@@ -1,0 +1,132 @@
+filters:
+  and:
+    - file.inFolder("resources/databanka")
+    - note.databanka == true
+views:
+  - type: table
+    name: Vše podle tématu
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - pro
+      - tema
+      - stav
+      - rok
+      - zdroj
+    sort:
+      - property: tema
+        direction: ASC
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Neprozkoumáno
+    filters:
+      and:
+        - note.stav == "neprozkoumáno"
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - pro
+      - tema
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: DigiStart
+    filters:
+      and:
+        - note.pro.contains("DigiStart")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Evident
+    filters:
+      and:
+        - note.pro.contains("Evident")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: lcenglish
+    filters:
+      and:
+        - note.pro.contains("lcenglish")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: tadylenka
+    filters:
+      and:
+        - note.pro.contains("tadylenka")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Konzultace
+    filters:
+      and:
+        - note.pro.contains("konzultace")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Pro mě
+    filters:
+      and:
+        - note.pro.contains("vlastní")
+    order:
+      - file.name
+      - typ
+      - pouzij_kdyz
+      - tema
+      - stav
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Použité a prohlédnuté
+    filters:
+      and:
+        - note.stav != "neprozkoumáno"
+    order:
+      - file.name
+      - stav
+      - pouzij_kdyz
+      - pro
+    columnSize:
+      file.name: 300
