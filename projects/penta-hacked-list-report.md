@@ -15,11 +15,14 @@ Dvojí užití výstupu:
 
 ## Tasky
 
-- [ ] Přepracovat report z Hacked List pro management PENTY (s Claudem; vstup = dokument od Hacked List) — potřebuje blok v kalendáři #next-action #online
-- [ ] Dát výstup Vítkovi Peterkovi ke kontrole věcné správnosti #online
+- [x] Přepracovat report z Hacked List pro management PENTY (s Claudem) ✅ 2026-09-27
+- [ ] Poslat Vítkovi zprávu s 10 body k ověření + obě PDF; po odpovědi opravit `prehled.html` a přegenerovat PDF #next-action #online
 - [ ] Předat report PENTĚ (Davidu Musilovi / managementu) #online
 - [ ] Předat výstup Hacked List jako vzor klientského reportu #online
 
 ## Podklady
 
-- Původní dokument od Hacked List: _doplnit cestu/odkaz_
+- Původní dokument od Hacked List (verze 2): `C:\Users\Lenka\Downloads\HackedList_Expanded_Report_Penta_Real_Estate_CZ_Adisseo_Style.pdf`
+- 260927 návrh pro Davida Musila (8 slajdů, PDF do mailu) + příloha pro IT s opraveným součtem: `C:\Users\Lenka\Downloads\Penta_RE_HackedList_prehled\` (zdroj `prehled.html`, PDF se generuje z Edge)
+- K vyjasnění s Hacked List: součet na s. 4 (uvedeno 45, tabulka dává 43; v příloze opraveno na 43), rozdíl 0 vs. 6 (firemní e-maily vs. tender portál), název souboru prozrazoval šablonu Adisseo, 4,5 mld. v reportu vs. 5,2 mld. na webu
+- Reference z hackedlist.io: Veolia, T-Mobile, Univerzita Karlova, RFE/RL
