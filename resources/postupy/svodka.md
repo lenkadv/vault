@@ -50,20 +50,17 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 
 ## Úklid schránky po svodce (štítek Svodka/uchovat)
 
-Návrh 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale některé chce ad hoc uchovat — rozhodnutí má být rychlé a filtrovatelné.
+Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale některé chce ad hoc uchovat — rozhodnutí má být rychlé a filtrovatelné.
 
 1. **Claude při svodce označí kandidáty na uchování** štítkem `Svodka/uchovat` (Gmail ID `Label_89`). Radši méně než víc. **Pravidla třídění (Lenka 260927):**
    - **Uchovat:** Ethan Mollick (chodí mailem, výjimka mezi Substacky) · mail s odkazem na materiál, který chce Lenka podrobně nastudovat (např. série Slow Looking) — k takovému navíc udělat poznámku do `resources/`.
    - **Mazat:** Substacky obecně, hlavně umělecko-historické (dají se najít na Substacku) · maily, ze kterých už je swipe (např. Schumacher) · maily, ze kterých svodka vytáhla informaci a nic dalšího s nimi nebude (Guardian, NG London, Kunsti, Výstavník, AI Inner Circle, novinky Leadpages bez úkolu).
    - Zvážit: novinka Drip/Leadpages, se kterou je třeba něco udělat → spíš úkol do GTD než uchovat mail.
 2. **Lenka v Gmailu projde štítek** (`label:svodka-uchovat`): co nechce, tomu štítek odebere; co chce navíc, tomu ho přidá (ručně, cokoli z období svodky).
-3. **Na pokyn „ukliď schránku“** Claude:
-   - maily se štítkem `Svodka/uchovat` **archivuje** (odebere `INBOX`, štítek zůstává → dohledatelné),
-   - ostatní z Promo akcí a Aktualizací za období svodky **přesune do koše** (`trash_thread`; 30 dní lze vrátit).
-   - Období = stejné jako svodka; dotaz `(category:promotions OR category:updates) after:YYYY/MM/DD before:YYYY/MM/DD -label:svodka-uchovat`.
-4. Mazání vždy až po Lenčině pokynu, nikdy automaticky.
+3. **Claude označí zbytek období štítkem `Svodka/smazat`** (Gmail ID `Label_90`) — všechny newslettery, promo a notifikace z Promo akcí a Aktualizací za období svodky, které nemají `Svodka/uchovat`. **Neoznačovat** transakční a úřední maily: probíhající reklamace/objednávky, bankovní avíza, vrácení peněz, účtenky (Stripe, Google Play), pošta a datová podání, bezpečnostní upozornění (GitHub), shrnutí lekcí (italki) — ty nechat Lence k ručnímu posouzení.
+4. **Lenka si štítek `Svodka/smazat` projde a smaže sama** (Claude mazání nemá povolené a nemá ho dělat). Uchované maily archivuje sama.
 
-Filtr pro Lenku: `label:svodka-uchovat` (kandidáti) · `(category:promotions OR category:updates) after:2026/09/13 before:2026/09/27 -label:svodka-uchovat` (co by šlo do koše za svodku č. 1).
+Filtry pro Lenku: `label:svodka-uchovat` · `label:svodka-smazat`.
 
 ## Pro tvou práci — nezakládat
 
