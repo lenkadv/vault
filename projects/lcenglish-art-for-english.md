@@ -105,8 +105,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Doplnit, odsouhlasit a finalizovat NL #24 (Myslbek, zápor) ✅ 2026-09-28 — podbřišník na soše je (Lenka ověřila, v textu se nezmiňuje), finální verze napsaná Lenkou v Dripu, subject "Která je ta pravá?"
 - [x] Naplánovat NL #24 v Dripu na úterý 29. 9. ✅ 2026-09-28
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
-- [ ] Založit Substack publikaci pro Art for English (název, popis, propojení doporučení s tadylenka) — rozhodnuto 260928, zrcadlo Dripu #next-action #online
-- [ ] Připravit Substack verzi #24 (bez Liquid kódů) a publikovat jako první díl #online
+- [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky v [[lcenglish-substack-art-for-english]]
 - [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
 
 ## Aktuální stav
@@ -122,6 +121,8 @@ Od 260906 běží GrowOS 2.0. Výroba epizody = **work item** v `GrowOS/lcenglis
 Tento projekt drží strategii, „Vydané díly", „Aktuální stav" a `#next-action` = co vyrobit dál.
 
 ## Viz také
+
+- Substack zrcadlo: [[lcenglish-substack-art-for-english]]
 
 - Curriculum: `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md`
 - Postup + checklisty: `GrowOS/lcenglish/library/process/`
