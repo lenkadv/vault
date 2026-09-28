@@ -45,7 +45,10 @@ Zdroj: [[00-statistiky]] (248 e-mailů, data od 2020) + texty v `broadcasty-2023
 - **Praktický servis místo tlaku:** faktura na zaměstnavatele („objednávku udělejte dnes, detaily dořešíme“), Zoom v prohlížeči, ID a heslo.
 - **Sebeironie a historky z vlastního života:** Komerční banka a padající fixy, japonština a „muří nožičky“, tramvaj.
 
-## Otázky pro Lenku
+## Rozhodnutí a poznámky Lenky (260928)
 
-1. Nedělní mail: vypustit, nebo zkusit přepsat (např. historka místo „Co můžeš udělat dnes…“)?
-2. Platí pro lcenglish webináře stejný rytmus (3 maily poslední den), nebo to na lcenglish publikum bylo moc?
+1. **Nedělní mail přepsat, ne vyřadit.** (Mail „Co můžeš udělat dnes, můžeš udělat i zítra, ale…“ chodí v neděli neplatícím registrovaným, když je záznam i přihláška ještě otevřená: „v neděli se nedělá“, připomínka konce záznamu a workshopu, osvědčení pro zaměstnavatele.) Cíl přepisu: aby vedl k nákupu.
+2. **Odhlášení nejsou náklad, ale úspora:** odhlašují se ti, kdo by nekoupili, a za kontakty v Dripu se platí. Počet odhlášení tedy neřešit jako problém.
+3. **Tři maily v poslední den platí i pro lcenglish** — osvědčená technika před zavřením okna. Samotné texty se ale budou psát znovu (dosavadní verze = jeden opakovaný vzorec); řešit až při psaní.
+4. **Pokles 2025 = prořezaná databáze:** po dlouhé pauze Lenka vyzvala odběratele k aktivnímu potvrzení, zůstalo ~150 z ~2000 — převážně lidé, kteří už něco koupili. Art for English navíc není prodejní; ani dřívější newebinářové maily neprodávaly.
+5. **Čísla o objednávkách ber orientačně:** propojení FAPI ↔ Drip se ladilo a občas nefungovalo.

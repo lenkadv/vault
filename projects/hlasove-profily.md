@@ -15,7 +15,7 @@ Rozhodnutí 260927: **6 profilů, profesní hlas jeden** (rozdíl korporát × k
 | # | Hlas | Zdroj textů | Kam |
 |---|---|---|---|
 | 1 | Lenka osobně (běžné maily) | Gmail odeslané | `resources/hlas/` — profil + banka, celé maily povoleny (260927) |
-| 2 | Lenka profesně (klienti, GNOSTIKA, KTF, NG) | Gmail odeslané, reporty | `resources/hlas/` |
+| 2 | Lenka profesně (klienti, GNOSTIKA, KTF, NG) | Gmail odeslané, reporty | `resources/hlas/profesni/` (banka + profil, 260928) |
 | 3 | lcenglish e-maily — webinář před/po, prodej, newslettery | Drip (broadcasty přes API; webinářové sekvence možná jen exportem — ověřit) + statistiky otevření/kliků = co fungovalo | `GrowOS/lcenglish/brain/samples/` + `voice.md` |
 | 4 | lcenglish články na webu | lcenglish.cz | GrowOS lcenglish |
 | 5 | tadylenka (Substack, blog) | Substack | `GrowOS/tadylenka/brain/samples/` + `voice.md` |
@@ -68,9 +68,11 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
   - [x] Zhodnotit webinářovou sekvenci AI lektorů 260928 → [[01-rozbor-webinarove-sekvence]] (prodává webinář; −15 min a záznam ≈ polovina tržeb; 3 maily poslední den bez únavy; nedělní mail nejslabší; 2 otázky pro Lenku na konci)
   - [x] Profil 5 (tadylenka): Substack export → `GrowOS/tadylenka/brain/samples/substack-archiv/` (10 článků + otevíranost) 260927
   - [ ] Kurzy z [[kurzy-marketing]] projít s Lenkou (postupně, nejdřív ten nejaktuálnější)
-  - [ ] Profil 2 — profesní (Gmail, 4 adresy): nové vlákno „Hlasové profily — profesní“, Claude sbírá banku + píše návrh, Lenka opravuje #next-action #online
-  - [ ] Profil 6 — akademický (Drive seminárky + dvojice Eva seminárka/Substack)
-  - [ ] Profil 1 — osobní (Gmail)
+  - [x] Profil 2 — profesní: banka + návrh 260928 → [[banka-profesni]], [[profil-profesni]] (26 mailů: PENTA, EVIDENT, Galleko, NG, VOX, KTF; maily Štěpánce Uličné vyřazeny — specifický tón kamarádky a spolupracovnice)
+  - [x] Profil 2: odpovědi na otázky zapracovány, profil odsouhlasen 260928
+  - [ ] Nedělní mail AI lektorů přepsat tak, aby vedl k nákupu (až se budou psát nové webinářové maily) — viz [[01-rozbor-webinarove-sekvence]]
+  - [ ] Profil 6 — akademický (Drive seminárky + dvojice Eva seminárka/Substack): Claude sbírá banku + píše návrh, Lenka odpovídá na otázky #next-action #online
+  - [ ] Profil 1 — osobní (Gmail); zahrnuje i maily Štěpánce Uličné (kamarádka + spolupráce, rozhodnutí 260928) — začátek banky v [[banka-osobni]]
   - [ ] Profil 4 — web lcenglish.cz (jen lokální seance)
   - [ ] Profil 5 — tadylenka: návrh profilu z `substack-archiv/` (banka hotová)
 
