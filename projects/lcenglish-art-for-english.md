@@ -107,6 +107,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
 - [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky v [[lcenglish-substack-art-for-english]]
 - [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
+- [ ] Po naplánování #25 v Dripu: verze pro Substack a zveřejnění (methodology 6b — povinný krok uzavření epizody)
 
 ## Aktuální stav
 

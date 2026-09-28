@@ -16,15 +16,18 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 
 ### Fáze 1 — Základ publikace
 - [x] Založit publikaci a zveřejnit první díl (#24 Myslbek, „Která je ta pravá?“) ✅ 2026-09-28
-- [ ] Připravit s Claudem texty pro nastavení: krátký popis publikace, kategorie, About stránka (bio, co čtenář dostane, odkaz na lcenglish.cz) → Lenka vloží do Substacku #next-action #online
-- [ ] Vzájemné doporučení tadylenka ↔ Art for English (Dashboard → Recommendations, u obou publikací) #online
-- [ ] Uvítací e-mail pro nové odběratele (krátký, lidský, 2–3 odkazy na díly, prosba přesunout e-mail do hlavní složky) — Claude připraví text #online
-- [ ] Navigační lišta publikace: odkaz na lcenglish.cz (později na přihlášku do Dripu) #online
-- [ ] Vypnout e-mailová upozornění na odhlášení odběru (ponechat komentáře) #online
+- [x] About stránka publikována (texty `GrowOS/lcenglish/library/substack/about.md`, vč. odkazu na tadylenka a lcenglish.cz/kurzy) ✅ 2026-09-28
+- [x] Krátký popis publikace + kategorie ✅ 2026-09-28
+- [x] Vzájemné doporučení tadylenka ↔ Art for English (Audience → Recommendations, obě strany) ✅ 2026-09-28
+- [x] Uvítací e-mail pro nové odběratele (text `GrowOS/lcenglish/library/substack/welcome-email.md`) ✅ 2026-09-28 — dárek/přihláška do Dripu se přidá ve Fázi 3
+- [x] Navigační lišta: „Kurzy angličtiny se mnou“ → lcenglish.cz/kurzy ✅ 2026-09-28 (později přihláška do Dripu)
+- [x] Upozornění na odhlášení — vypnutá od začátku ✅
 
 ### Fáze 2 — Archiv a pravidelnost
-- [ ] Vybrat 3–5 nejsilnějších dílů z #1–23 a zveřejnit je zpětně, aby měl nový návštěvník co číst (zdroje doporučují 3–5 „pilířových“ článků) #online
-- [ ] Zrcadlo každé úterý po odeslání z Dripu — běží přes krok 6b v methodology, sledovat 6 dílů (#24–#29, do 3. 11.)
+- [x] Připravit 5 archivních dílů jako drafty na Substacku (Claude přes Chrome) ✅ 2026-09-28 — texty `GrowOS/lcenglish/library/substack/archiv/`
+- [x] Publikovat 5 archivních dílů jen na web s původními daty ✅ 2026-09-28
+  - Výběr 260928 podle otevíranosti v Dripu (110–142 odeslání na díl, rozdíly jsou v řádu pár otevření): #1 Caravaggio (45,9 %, nejvíc prokliků 12 %), #5 Vigée Le Brun (47,4 %), #19 Thiebaud (46,3 %), #21 Colosseum (53,7 %, nejvyšší), #22 Kim Hong-do (46,0 %). Časově vázané díly (#13 dovolená, #16 vedra, #18 svátek Heleny, #20 první školní den, #23 podzim) s původním datem nevadí, ale nejsou první volba.
+- [ ] Zrcadlo každé epizody po naplánování v Dripu — povinný krok uzavření (methodology 6b), sledovat 6 dílů (#24–#29, do 3. 11.)
 
 ### Fáze 3 — Most do Dripu
 - [ ] Rozhodnout, kam Substack čtenáře posílá: přihláška do Dripu (formulář) vs. lead magnet k sérii (plán lcenglish ho stejně chce — viz `brain/plan.md`) #online
@@ -41,6 +44,9 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 
 ## Podklady
 
+- **Logo:** Google Drive, složka LCEnglish → Art for English — dvě verze (bez textu / s textem). Na Substacku použita verze **bez textu**, protože se logo zobrazuje velmi malé (Lenka 260928).
+- **Texty publikace:** `GrowOS/lcenglish/library/substack/` — about.md (publikováno), welcome-email.md.
+
 - **NotebookLM „Substack“** (dotaz 260928, shrnutí): About stránka = hlavní konverzní plocha; uvítací e-mail = nejčtenější e-mail (krátký, 2–3 články, přesun do primární, dárek); 3–5 pilířových článků; víc publikací pod jedním profilem, propojení přes Recommendations, navigační lištu a Notes; do Notes lze volně dávat externí odkazy; Substack umožňuje export e-mailů do CSV; lead magnet se doručuje v uvítacím e-mailu; fáze 0–100: profil, pilíře, Notes, komentáře; 100–500: doporučení a guest posty. Zdroje v notebooku: Sinem Günel, Jurgen Appelo, Kristina God, Pierre Herubel, Write • Build • Scale, Claudia Faith, Linda Lebrun.
 - `GrowOS/tadylenka/brain/research/2026-04-15-substack-rust-strategie.md` — růst v malém jazykovém trhu, doporučení, Notes, cross-platform (psáno pro tadylenka, platí obdobně).
 - [[substack-notes-postup]] — technika Notes s obrázky.
@@ -48,4 +54,6 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 ## Aktuální stav
 
 - Publikace založena 28. 9. 2026, první díl #24 zveřejněn bez odběratelů („ať něco je“).
-- Další krok: texty pro About stránku a popis publikace.
+- About stránka, popis, kategorie, logo (verze bez textu) a uvítací e-mail hotové 28. 9.
+- Vzájemná doporučení nastavena 28. 9.
+- Fáze 1 hotová 28. 9.; archiv 5 dílů + #24 publikován 28. 9. Zrcadlo každé epizody = povinný krok uzavření (methodology 6b).
