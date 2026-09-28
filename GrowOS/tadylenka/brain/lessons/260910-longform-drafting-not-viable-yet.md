@@ -38,5 +38,7 @@ esejističtější text, tím míň průchozí přes AI.
 
 **260921:** rozbor vydané verze Evy (Lenka psala celou sama ze seminárky) — co AI draftu chybělo a jaká je role AI, viz `260921-eva-seminarka-na-substack.md`.
 
+**260928:** v rubrice Všichni svatí (šablona Josefa) byl AI draft Václava použitelný základ — viz `260928-vaclav-draft-vs-vydano.md`. Pro texty se šablonou tahle lekce už neplatí.
+
 Na tónu populárních tadylenka textů se bude pracovat průběžně. Až se to zlepší,
 tuhle lekci zrevidovat.

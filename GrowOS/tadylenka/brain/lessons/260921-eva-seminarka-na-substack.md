@@ -124,6 +124,8 @@ originále), příklady:
 - Věcné popisky (Dürer, Cranach z Národní galerie, Michelangelo, Baldung Grien) jsou
   standardní: autor, dílo, rok, technika, rozměry, sbírka.
 
+**Doplněno 260928 (Václav):** když je informace o obrázku (autor, dílo, místo) přímo v textu vedle něj, Lenka popisek nepíše — neopakovat ji a nenavrhovat „chybějící“ popisky u takových obrázků.
+
 **Pravidlo:** popisek je místo, kam patří komentář k obrazu, který by v hlavním
 proudu textu zdržoval. Ne každý má humor; věcné a vtipné se střídají. Při návrhu
 dílu proto počítat i s **popisky jako součástí psaní** a s obrazovou přílohou

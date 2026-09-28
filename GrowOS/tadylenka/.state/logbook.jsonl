@@ -20,3 +20,11 @@
 {"actor":"ai","event":"publish-mode-change","channel":"articles","from":"unanswered","to":"explicit-safe","session":"833d5dc7-d0cf-46aa-8b5b-8eab2fd9d413","ts":"2026-09-21T13:19:28.522Z"}
 
 {"actor":"ai","session":"b05ab208-154a-4a2e-accb-bb36eb49b841","event":"created","id":"n8iolcwl91","path":"tadylenka/work/articles/vaclav-vsichni-svati.md","ts":"2026-09-28T16:45:07.650Z"}
+
+{"actor":"ai","session":"b05ab208-154a-4a2e-accb-bb36eb49b841","event":"flip","id":"n8iolcwl91","from":"draft","to":"review","ts":"2026-09-28T20:16:16.064Z"}
+
+{"actor":"ai","session":"b05ab208-154a-4a2e-accb-bb36eb49b841","event":"frozen","id":"n8iolcwl91","snapshot":".snapshots/n8iolcwl91.md","ts":"2026-09-28T20:16:16.071Z"}
+
+{"actor":"ai-on-owner-instruction","session":"b05ab208-154a-4a2e-accb-bb36eb49b841","event":"flip","id":"n8iolcwl91","from":"review","to":"approved","ts":"2026-09-28T20:16:19.055Z"}
+
+{"actor":"ai","session":"b05ab208-154a-4a2e-accb-bb36eb49b841","event":"flip","id":"n8iolcwl91","from":"approved","to":"published","ts":"2026-09-28T20:16:42.332Z"}

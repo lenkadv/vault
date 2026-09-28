@@ -19,9 +19,9 @@ Sloupec **téma** = hodnota `temata` ve frontmatteru, podle které se námět na
 | # | Pátek | Rubrika | Téma (v content-bank) | Námět | Proč tohle datum |
 |---|---|---|---|---|---|
 | 1 | 18. 9. | Ženy v obraze | `Eva` | Eva — čerpá z Lenčiny seminárky (Male Gaze), [Google Doc](https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit) | Rozhodnuto 260910: díl #1 bude Eva místo Máří Magdalény |
-| 2 | 2. 10. | Všichni svatí | `sv. Václav` | Svatí mezi námi: Václav — ikonografie ve stylu Josefa (draft `GrowOS/tadylenka/work/articles/vaclav-vsichni-svati.md`) | Přehozeno 260928: týden svatého Václava, navazuje na Art for English #24 (Myslbek) |
-| 2b | TBD | Co vidíš | `Gainsborough_Mr and Mrs Andrews` | „triple portrait", nedokončený klín, záhada v rohu | Odsunuto 260928 kvůli Václavovi; nový termín TBD |
+| 2 ✅ | 28. 9. | Všichni svatí | `sv. Václav` | Svatí mezi námi: Václav — ikonografie ve stylu Josefa (draft `GrowOS/tadylenka/work/articles/vaclav-vsichni-svati.md`) | Přehozeno 260928: týden svatého Václava, navazuje na Art for English #24 (Myslbek) |
 | 3 | 16. 10. | Co vidíš | `memento mori` / `vanitas` | proč si lidé po staletí nosili lebky domů | Náběh na Dušičky — vanitas jako předehra, ne přímo svatí |
+| 3b | TBD | Co vidíš | `Gainsborough_Mr and Mrs Andrews` | „triple portrait", nedokončený klín, záhada v rohu | Odsunuto 260928 kvůli Václavovi; zařazeno za memento mori, termín Lenka rozhodne, až slot přijde |
 | 4 | 30. 10. | Všichni svatí | `stigmata` | svaté rány od sv. Františka po baroko | Halloween + 1. 11. Všichni svatí + 2. 11. Dušičky — macabre-sacré přesně na svátek |
 | 5 | 13. 11. | Ženy v obraze | `Toyen` | žena, která odmítla být ženou, a změnila české umění | 17. 11. Den boje za svobodu a demokracii — Toyen dvakrát utekla před totalitou, český úhel |
 | 6 | 27. 11. | Co vidíš | `Georges de La Tour` | jedna svíčka; noční Narození a Adorace pastýřů | Advent od 29. 11. — svíčkové světlo, betlémská noc |
@@ -44,6 +44,7 @@ ohýbá (2× Co vidíš v slotech 2–3, pak Všichni svatí na svátek).
 
 ## Vydané díly
 
+- 28. 9. 2026 — **Všichni svatí:** Svatí mezi námi: Václav (Substack článek, díl #2 nové páteře, 857 slov; Claudův draft podle šablony Josefa, Lenka doladila; vydáno v pondělí na svátek místo pátku 2. 10.) — https://tadylenka.substack.com/p/svati-mezi-nami-vaclav
 - 21. 9. 2026 — **Ženy v obraze:** Eva: První pin-up girl (Substack článek, díl #1 nové páteře, 1 232 slov, psáno celé Lenkou ze seminárky; vzorek a rozbor v GrowOS brainu) — https://tadylenka.substack.com/p/eva-prvni-pin-up-girl
 - 25. 5. 2026 — **Všichni svatí:** Sv. Josef (Substack článek)
 - 18. 6. 2026 — Jan van Eyck, Arnolfiniho portrét (navazující na IG carousel „Co vidíš?")
@@ -51,8 +52,8 @@ ohýbá (2× Co vidíš v slotech 2–3, pak Všichni svatí na svátek).
 
 ## Aktuální stav
 
-Poslední Substack: 21. 9. 2026 (Eva, díl #1). Poslední IG carousel: 13. 7. 2026 (Bastille Day).
-**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Díl #1 (**Eva**) vyšel 21. 9. (o 3 dny později než plán 18. 9.). Další výstup = díl #2 (Mr and Mrs Andrews), pátek 2. 10. 2026.
+Poslední Substack: 28. 9. 2026 (Svatí mezi námi: Václav, díl #2). Poslední IG carousel: 13. 7. 2026 (Bastille Day).
+**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Díl #1 (**Eva**) vyšel 21. 9. (o 3 dny později než plán 18. 9.). Díl #2 (**Václav**, přehozený z Mr and Mrs Andrews kvůli svátku) vyšel 28. 9. Další výstup = díl #3 (memento mori / vanitas), pátek 16. 10. 2026.
 
 ## Kadence (rozhodnuto 260507, upřesněno 260804, přepsáno 260909)
 
@@ -108,12 +109,11 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 
 ## Další kroky
 
-- [ ] Dopsat a publikovat díl #2 — **Svatí mezi námi: Václav** (Všichni svatí), pátek 2. 10. 2026; Claudův hrubý návrh v `GrowOS/tadylenka/work/articles/vaclav-vsichni-svati.md` #next-action #online 📅 2026-10-02
-  - 260928: přehozeno z Mr and Mrs Andrews (odsunuto, termín TBD) kvůli svátku sv. Václava.
+- [ ] Připravit a publikovat díl #3 — **memento mori / vanitas** (Co vidíš), pátek 16. 10. 2026 #next-action #online 📅 2026-10-16
   - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
 Po vydání: odškrtnout, přesunout do „Vydané díly", `status: used` v souboru námětu,
-`#next-action` na díl #3 (memento mori / vanitas, 16. 10.). Dál pokračuje runway nahoře.
+`#next-action` na další díl z runway (Mr and Mrs Andrews za memento mori — termín rozhodne Lenka). Dál pokračuje runway nahoře.
 Pozn.: díl #1 přehozen z Máří Magdalény na Evu (260910). Podklad = Lenčina seminárka Male Gaze: https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit — z ní vytáhnout úhel pro 800–1200 slov. Založit/doplnit i námět v content-banku (`temata: Eva`).
 
 ## GrowOS 2.0

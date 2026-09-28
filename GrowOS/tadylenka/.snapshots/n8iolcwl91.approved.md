@@ -1,23 +1,15 @@
 ---
-status: published
+status: approved
 type: article
 headline: "Svatí mezi námi: Václav"
 skill: ""
 rubrika: vsichni-svati
 runway_slot: 2
 publish_target_date: 2026-10-02
-published_url: "https://tadylenka.substack.com/p/svati-mezi-nami-vaclav"
-publish_destination: "tadylenka.substack.com"
-publish_ref: "https://tadylenka.substack.com/p/svati-mezi-nami-vaclav"
-publish_attempted_at: "2026-09-28T20:07:10.919Z"
-publish_state: "prepared"
-publish_reason: "owner-chose-manual"
-published_at: "2026-09-28T20:07:10.919Z"
-wordcount: 857
 source: "NotebookLM „České církevní dějiny“ (b9f6e921) — Lenčiny zápisky z přednášek 251017 (Ludmila) a 251024 (Sv. Václav a raný český stát); web ověření viz sekce Zdroje níž"
 revision: 1
 substack_draft: "https://tadylenka.substack.com/publish/post/217863361"
-publish_note: "260928 Claude založil draft na Substacku (titulek, podtitulek, tělo vč. popisků jako kurzíva a ⚠️ poznámek; obrázky nevloženy). Lenka doladila přímo v Substacku a vydala sama 28. 9. 2026 (22:07). Vydaná verze: brain/samples/2026-09-28-substack-svati-mezi-nami-vaclav.md; rozbor: brain/lessons/260928-vaclav-draft-vs-vydano.md. Tělo níž = Claudův draft (pro srovnání). HTML: _vaclav-vsichni-svati/substack.html"
+publish_note: "260928 Claude založil draft na Substacku (titulek, podtitulek, tělo vč. popisků jako kurzíva a ⚠️ poznámek; obrázky nevloženy). Lenka dopracovává přímo v Substacku a vydává sama. HTML: _vaclav-vsichni-svati/substack.html"
 id: n8iolcwl91
 business: tadylenka
 channel: articles
