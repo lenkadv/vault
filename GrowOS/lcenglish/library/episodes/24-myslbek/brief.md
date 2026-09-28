@@ -38,7 +38,6 @@ Gramatický klíč (návrh):
 |---|---|---|
 | [brief.md](brief.md) | Tento soubor | ✅ |
 | [newsletter.md](newsletter.md) | Newsletter Art for English #24 — finální verze z Dripu | ✅ 28. 9. |
-| [newsletter-claude-draft.md](newsletter-claude-draft.md) | Claudův draft (pro porovnání) | archiv |
 | nl-thumb.jpg | Thumbnail z Canvy (7 hlav + socha) | ✅ |
 
 ---
