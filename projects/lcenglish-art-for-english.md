@@ -33,6 +33,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - #21 Colosseum & antické velarium (quantifiers: a lot of / a few / a little) — 8. 9. 2026
 - #22 Kim Hong-do — Ssireum (adverbs of frequency) — 15. 9. 2026
 - #23 Vincent van Gogh — Červená vinice (předložky pohybu: through / across / along / towards) — 22. 9. 2026
+- #24 Josef Václav Myslbek — Pomník sv. Václava (zápor: don't / doesn't / didn't) — 29. 9. 2026
 
 ## Sekvence (opakující se)
 
@@ -101,12 +102,15 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Napsat newsletter #23 — hook: podzim jako oblíbené období, procházka po vinici; draft prošel humanizerem, Lenka finalizovala v Dripu ✅ 2026-09-20
 - [x] Vybrat subject, dodělat obrázek a naplánovat newsletter #23 v Dripu (odeslání 22. 9.) ✅ 2026-09-20 — finální verze napsaná Lenkou, subject "Zima? Jaká zima?", připraveno k odeslání v úterý
 - [x] Rekapitulovat a odsouhlasit zadání epizody #24 — přestavěno na příběh Myslbeka (hádanka s modely hlavy) + zápor don't/doesn't/didn't; brief + draft hotové ✅ 2026-09-27
-- [ ] Až se Lenka vrátí z Václaváku (28. 9.): doplnit do draftu NL #24 výsledek (podbřišník ano/ne, fotky), odsouhlasit kanonické věty, vybrat subject a naplánovat v Dripu — odeslání 29. 9. #next-action #online 📅 2026-09-29
+- [x] Doplnit, odsouhlasit a finalizovat NL #24 (Myslbek, zápor) ✅ 2026-09-28 — podbřišník na soše je (Lenka ověřila, v textu se nezmiňuje), finální verze napsaná Lenkou v Dripu, subject "Která je ta pravá?"
+- [x] Naplánovat NL #24 v Dripu na úterý 29. 9. ✅ 2026-09-28
+- [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
+- [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #23 van Gogh, Červená vinice (předložky pohybu) — odesláno 22. 9. 2026 (naplánované v Dripu)
-- **Další výstup:** NL #24 — Myslbek, Pomník sv. Václava (zápor don't/doesn't/didn't), termín úterý 29. 9. 2026 — brief + draft hotové 27. 9. (`GrowOS/lcenglish/library/episodes/24-myslbek/`), chybí výsledek Lenčina výletu 28. 9. (podbřišník, fotky), odsouhlasení vět, subject, Drip
+- **Poslední newsletter:** #24 Myslbek, Pomník sv. Václava (zápor don't/doesn't/didn't) — naplánováno v Dripu na út 29. 9. 2026
+- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (have to / must / mustn't revision), úterý 6. 10. 2026
 - **K vyřešení při přípravě #25/#26:** chybí termín 20. 10. (#26 → #27 skáče na 27. 10.) — záměrná pauza? (Kolize past simple #24/#26 odpadla — #24 je zápor.)
 
 ## GrowOS 2.0

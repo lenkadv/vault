@@ -18,7 +18,7 @@ Dvojí užití výstupu:
 - [x] Přepracovat report z Hacked List pro management PENTY (s Claudem) ✅ 2026-09-27
 - [x] Poslat Vítkovi zprávu s 10 body k ověření + obě PDF (zpětná vazba přišla 28. 9.)
 - [ ] Zapracovat Vítkovu zpětnou vazbu (hotovo 28. 9. 10:30) + připomínky ke konzultaci s Davidem Musilem (28. 9.) do `prehled.html` a přegenerovat PDF — samostatné vlákno #next-action #online
-- [ ] Předat report PENTĚ (Davidu Musilovi / managementu) #online
+- [ ] Předat report PENTĚ (Davidu Musilovi / managementu) — Lenka se o HackedListu zmínila na konzultaci 28. 9.; připomenout Davidu Musilovi po 12. 10. (připomínka ve [[waiting-for]] 13. 10.) #online
 - [ ] Předat výstup Hacked List jako vzor klientského reportu #online
 
 ## Podklady

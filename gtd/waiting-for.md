@@ -21,6 +21,8 @@ sort by due
 - [ ] Vídeň do 11. 10.? Albertina 250 let + Belvedere (Lampi) končí 11. 10. — rozhodnout, jestli jet; Borghese (Řím) asi ne. Viz [[mista-k-navstiveni]] 📅 2026-10-04
 - [ ] Getty přednáška „Édouard Manet, Jeanne Demarsy, and the Art of Parisian Chic“ (Justine De Young, 27. 9. v noci — nestihla, spala): zkontrolovat, jestli je záznam na YouTube kanálu Getty Museum, případně pustit 📅 2026-10-04
 
+- [ ] Připomenout Davidu Musilovi HackedList (report pro PENTU) — domluveno na konzultaci 28. 9.: ozvat se po 12. 10., až bude mít volněji → [[penta-hacked-list-report]] 📅 2026-10-13
+
 ## Čeká na někoho
 
 - [ ] IKEA taška u Alexe — buď ji vyzvedne Vítek, až se s Alexem během týdne uvidí, nebo ji Lenka vezme přímo od Alexe (možná společná návštěva u rodičů příští týden). Připomenuto Vítkovi 2026-09-14; 260926 stále nevrácena. 📅 2026-10-04

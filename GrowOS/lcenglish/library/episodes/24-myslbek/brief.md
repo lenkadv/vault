@@ -16,15 +16,13 @@ Rekapitulace 2026-09-27: v curriculu „past simple — vyprávění legendy sv.
 
 ## Kanonické věty (zdroj pravdy — změna zde = update ve všech souborech)
 
-**Návrh 2026-09-27, čeká na odsouhlasení Lenkou.**
+**Finální podoba (Lenka 28. 9.).** Třetí věta na Lenčino přání o hlavě, ne o uzlu na ocase. Počet hlav 7 = Lenčiny fotky modelů (soupis Volavka 1929 uvádí 9 variant — v textu „těchto sedmi“).
 
 | # | Anglicky | Highlight | Česky |
 |---|---|---|---|
-| 1 | Myslbek **didn't use** any of the nine heads. | didn't use | Myslbek nepoužil ani jednu z devíti hlav. |
+| 1 | Myslbek **didn't use** any of these seven heads. | didn't use | Myslbek nepoužil ani jednu z těchto sedmi hlav. |
 | 2 | The head on the statue **doesn't look** like any of them. | doesn't look | Hlava na soše nevypadá ani jako jedna z nich. |
-| 3 | Most people **don't notice** the knot in the horse's tail. | don't notice | Většina lidí si uzlu na koňském ocase nevšimne. |
-
-Alternativa k větě 3 (ověřený fakt, silnější emoce): *He **didn't see** the finished monument.* — Hotový pomník už neviděl. (Myslbek † 1922, pomník dokončen 1925.)
+| 3 | Most people know the statue very well, but they **don't usually look** at Saint Wenceslas's face. | don't usually look | Většina lidí zná sochu velmi dobře, ale na tvář sv. Václava se většinou nekoukají. |
 
 Gramatický klíč (návrh):
 - Přítomný čas: **don't** (I / you / we / they) × **doesn't** (he / she / it).
@@ -38,9 +36,10 @@ Gramatický klíč (návrh):
 
 | Soubor | Popis | Stav |
 |---|---|---|
-| [brief.md](brief.md) | Tento soubor | ⏳ věty čekají na odsouhlasení |
-| [newsletter.md](newsletter.md) | Newsletter Art for English #24 | ⏳ draft, čeká na Lenčin výlet 28. 9. |
-| nl-thumb.png | Thumbnail z Canvy (hlavy) | ⏳ dělá Lenka |
+| [brief.md](brief.md) | Tento soubor | ✅ |
+| [newsletter.md](newsletter.md) | Newsletter Art for English #24 — finální verze z Dripu | ✅ 28. 9. |
+| [newsletter-claude-draft.md](newsletter-claude-draft.md) | Claudův draft (pro porovnání) | archiv |
+| nl-thumb.jpg | Thumbnail z Canvy (7 hlav + socha) | ✅ |
 
 ---
 
@@ -61,7 +60,11 @@ Hlavní zdroj: Rybařík, *K historii Myslbekovy sochy a pomníku sv. Václava n
 
 ⚠️ **Tradované, ne ověřené odborně:** koni zauzlovali ocas při přechodu přes blátivý dvůr a zapomněli ho rozvázat; Myslbekovi se to líbilo a nechal to tak. Zdroj: David Černý (autor *Skrytá tajemství Prahy*) v reportáži [Praha TV](https://archiv.prahatv.eu/zpravy/praha/praha/16534/dominanta-vaclavskeho-namesti-skryva-mnoho-zajimavosti). Uzel na ocase je vidět na fotkách. V textu psát „traduje se“.
 
-⚠️ **Neověřeno — nepoužít jako fakt:** chybějící podbřišník. Nenalezeno v žádném písemném zdroji (cs/en Wikipedia, Rybařík 2021, novinové články). Na snímku z Praha TV zespodu pás pod břichem vidět není. **Lenka jde ověřit na místo 28. 9.** → podle výsledku odstavec v newsletteru potvrdit, nebo smazat.
+✅ **Podbřišník na soše JE** — ověřila Lenka osobně na místě 28. 9. 2026. „Kůň bez podbřišníku“ je mýtus. V newsletteru se nezmiňuje (Lenka 28. 9.).
+
+**Drip draft (28. 9.):** broadcast `587657974`, „Která je ta pravá?//Myslbek“ — duplikát #23 (Text Builder, segment Newsletter), tělo vloženo z Claudova draftu (`newsletter.md` = Claudova verze pro pozdější porovnání). Náhled: https://www.getdrip.com/broadcasts/587657974/cdc327f5941133b948a89. (První pokus `919486828` přes API vznikl jako Custom HTML — ke smazání.)
+
+**Kanonické věty odsouhlaseny Lenkou 28. 9. beze změn. Jediný obrázek = modely hlav s proklikem na Google Maps** (obrázek sochy vypuštěn).
 
 Rozpory ve zdrojích (nepoužívat): jméno koně Ardo / Ard / Argo (Rybařík 2021 = Ardo, držet se toho); „přes 50 modelů“ (jen popularizační články); datum odhalení 1912 vs. 1913.
 
