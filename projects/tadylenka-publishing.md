@@ -19,7 +19,8 @@ Sloupec **téma** = hodnota `temata` ve frontmatteru, podle které se námět na
 | # | Pátek | Rubrika | Téma (v content-bank) | Námět | Proč tohle datum |
 |---|---|---|---|---|---|
 | 1 | 18. 9. | Ženy v obraze | `Eva` | Eva — čerpá z Lenčiny seminárky (Male Gaze), [Google Doc](https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit) | Rozhodnuto 260910: díl #1 bude Eva místo Máří Magdalény |
-| 2 | 2. 10. | Co vidíš | `Gainsborough_Mr and Mrs Andrews` | „triple portrait", nedokončený klín, záhada v rohu | Podzim, sklizeň — snopy obilí v poli za párem; anglická krajina počátku října |
+| 2 | 2. 10. | Všichni svatí | `sv. Václav` | Svatí mezi námi: Václav — ikonografie ve stylu Josefa (draft `GrowOS/tadylenka/work/articles/vaclav-vsichni-svati.md`) | Přehozeno 260928: týden svatého Václava, navazuje na Art for English #24 (Myslbek) |
+| 2b | TBD | Co vidíš | `Gainsborough_Mr and Mrs Andrews` | „triple portrait", nedokončený klín, záhada v rohu | Odsunuto 260928 kvůli Václavovi; nový termín TBD |
 | 3 | 16. 10. | Co vidíš | `memento mori` / `vanitas` | proč si lidé po staletí nosili lebky domů | Náběh na Dušičky — vanitas jako předehra, ne přímo svatí |
 | 4 | 30. 10. | Všichni svatí | `stigmata` | svaté rány od sv. Františka po baroko | Halloween + 1. 11. Všichni svatí + 2. 11. Dušičky — macabre-sacré přesně na svátek |
 | 5 | 13. 11. | Ženy v obraze | `Toyen` | žena, která odmítla být ženou, a změnila české umění | 17. 11. Den boje za svobodu a demokracii — Toyen dvakrát utekla před totalitou, český úhel |
@@ -107,7 +108,8 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 
 ## Další kroky
 
-- [ ] Napsat a publikovat díl #2 — **Mr and Mrs Andrews** (Co vidíš), pátek 2. 10. 2026 #next-action #online 📅 2026-10-02
+- [ ] Dopsat a publikovat díl #2 — **Svatí mezi námi: Václav** (Všichni svatí), pátek 2. 10. 2026; Claudův hrubý návrh v `GrowOS/tadylenka/work/articles/vaclav-vsichni-svati.md` #next-action #online 📅 2026-10-02
+  - 260928: přehozeno z Mr and Mrs Andrews (odsunuto, termín TBD) kvůli svátku sv. Václava.
   - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
 Po vydání: odškrtnout, přesunout do „Vydané díly", `status: used` v souboru námětu,

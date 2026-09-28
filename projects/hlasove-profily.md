@@ -64,7 +64,7 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
 - [x] S Lenkou potvrdit rozdělení do profilů, pořadí a co do banky patří (260927)
 - [ ] Profil po profilu: banka → návrh profilu → Lenčiny opravy. Profil 3 (lcenglish e-maily): banka + návrh hotové 260927.
   - [x] Profil 3: návrh odsouhlasen 260927 (odkaz víckrát = OK, příběhový styl lepší, ale ověřit proti kurzům)
-  - [ ] Dostáhnout statistiky LCEnglish (zastaveno 260927 23:50 u března 2023, 125 e-mailů uloženo): **jen broadcasty, od nejnovějších zpátky, bez Art for English 2026** (A4E už máme; začít 2025 → 2024 → zbytek 2023, leden–březen 2023 hotovo) (Lenčino zadání) — nejdřív ověřit parametr metrics pro broadcasty (`email_type` apod.); pokud neexistuje, okna po jednom dni odeslání broadcastu, sestupně od 2026 #next-action #online
+  - [x] Statistiky LCEnglish staženy 260928 (broadcasty 2023–2025 kompletní + část 2020–21) → `GrowOS/lcenglish/brain/research/260928-drip-statistiky-broadcastu.md`. Trik: MCP/API `metrics/email` s filtrem `broadcast_ids` po 10 = ~18 dotazů na 3 roky.
   - [ ] Zhodnotit webinářovou sekvenci AI lektorů (webinář ChatGPT → AI workshop, 2023–24; archiv `resources/hlas/drip-ai-lektori/`) až doběhnou statistiky #next-action #online
   - [x] Profil 5 (tadylenka): Substack export → `GrowOS/tadylenka/brain/samples/substack-archiv/` (10 článků + otevíranost) 260927
   - [ ] Kurzy z [[kurzy-marketing]] projít s Lenkou (postupně, nejdřív ten nejaktuálnější)

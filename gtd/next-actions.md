@@ -52,7 +52,7 @@ sort by due
 
 - [ ] Spustit 7denní trial Blotato (publishing tool — scheduling/API/MCP pro Claude Code) a vyzkoušet — týden 28. 9.–4. 10. je Lenka doma — https://www.blotato.com/
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
-- [ ] Google účet 07pmtalk@gmail.com: rozhodnout, jestli ho zachovat (pak se přihlásit) — 23. 9. upozornění na neaktivitu (ze svodky 260926)
+- [x] Google účet 07pmtalk@gmail.com: rozhodnout, jestli ho zachovat (pak se přihlásit) — 23. 9. upozornění na neaktivitu (ze svodky 260926) ✅ 2026-09-28
 - [ ] AI Black Magic: vytěžit Pro trial, než skončí (260927/28) — napsat Claudovi „navaž na AI Black Magic“: (1) stáhnout a rozbalit Humanize Writing plugin → vybrat skilly pro vault, (2) projít newsletterové/obsahové prompty a uložit ty použitelné do resources/ — https://aiblackmagic.com
 
 ```tasks
