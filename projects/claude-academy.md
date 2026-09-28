@@ -16,6 +16,11 @@ Projít vybrané kurzy a aplikovat poznatky na tadylenka/lcenglish skills a agen
 
 - [ ] **AI Agent Skills for Leaders** — Jules (Coursera; pravděpodobně Jules White, Vanderbilt — u něj Lenka prošla úvodním kurzem promptování) — skills pro ChatGPT, Claude i Gemini: kódování workflow, šablon a příkladů do znovupoužitelných „manuálů“. Odkaz na zápis v mailu: [Gmail – „You're Using AI Like It's 2023“ (260625)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1868989849478903934)
 
+- [ ] **AI Prompting for Everyone** — Andrew Ng (DeepLearning.AI, Coursera; od 4. 9. 2026). Cíl: myšlenky buď rovnou používat, nebo převzít do osnovy [[digistart]] / školení pro EVIDENT ([[omnibus]]). Odkaz v mailu: [Gmail – „AI Prompting for Everyone is now on Coursera!“ (260904)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1875386098777382109)
+
+> Oba kurzy (Jules + Andrew Ng) patří do stejného balíčku jako Agent Skills z Academy — zapsáno 260928, maily můžou pryč.
+> U AI Agent Skills for Leaders totéž: poznatky zvážit i pro DigiStart a EVIDENT.
+
 ## Pořadí
 
 **Priorita 1:**

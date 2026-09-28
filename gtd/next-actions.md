@@ -96,6 +96,7 @@ sort by path
 ## @venku/pochůzky
 
 - [ ] Knihovna KTF: vyzvednout objednané české vydání Zweig – Svět včerejška (z depozitáře, objednáno 260926)
+- [ ] Veletržní palác: výstava František Kobliha, cyklus Máj (dřevoryty 1911) — končí 4. 10. 2026 (+ IG Stories materiál pro tadylenka) https://www.ngprague.cz/vystavy-a-akce 📅 2026-10-04
 
 ```tasks
 not done

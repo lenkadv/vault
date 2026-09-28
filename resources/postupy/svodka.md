@@ -15,7 +15,7 @@ Gmail `lnk.dvorakova@gmail.com`: záložky **Promo akce**, **Aktualizace** a hla
 
 - Maily, které vyžadují akci (faktury, výpůjčky, reklamace, účty, termíny, osobní zprávy), jdou jako první oddíl svodky.
 - **Každý takový mail přesunout do hlavního (Primary) inboxu**, pokud skončil v Promo akcích nebo Aktualizacích: přidat `CATEGORY_PERSONAL`, odebrat `CATEGORY_PROMOTIONS` / `CATEGORY_UPDATES`. Primary = složka, ze které Lenka maily vyřizuje.
-- Přesun: `label_thread` s `CATEGORY_PERSONAL` + `INBOX`, pak `unlabel_thread` s `CATEGORY_PROMOTIONS` + `CATEGORY_UPDATES`. Konektor potřebuje oprávnění gmail.modify (funguje od 260927). Pokud přesun selže, dát do svodky u oddílu seznam odkazů a říct to Lence jednou větou; nejčastěji pomůže Gmail konektor odpojit a znovu připojit.
+- Přesun: `label_thread` s `CATEGORY_PERSONAL` + `INBOX`, pak `unlabel_thread` s `CATEGORY_PROMOTIONS` + `CATEGORY_UPDATES`. Konektor potřebuje oprávnění gmail.modify (funguje od 260927). **Přesun dělat vždy, u každého mailu z oddílu** — `search_threads` kategorie (`CATEGORY_*`) nevypisuje, takže mail, který vypadá jen jako `INBOX`, může ležet v Promo akcích (260928: Kaufland tiket zůstal v Promo akcích). Pokud přesun selže, dát do svodky u oddílu seznam odkazů a říct to Lence jednou větou; nejčastěji pomůže Gmail konektor odpojit a znovu připojit.
 - Věci s termínem zapsat i do GTD podle CLAUDE.md (next-actions / waiting-for) — ale náměty pro práci **ne** (viz níže).
 
 ## Formát a pořadí oddílů
@@ -36,7 +36,7 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | Odesílatel | Jak zpracovat |
 |---|---|
 | **Ethan Mollick (One Useful Thing)** | Nejdůležitější zdroj. Souhrn **o něco obsáhlejší** než u ostatních (hlavní teze, co zkoušel, 1–2 odstavce) — ne podrobný rozbor. Lenka si pak pustí audio na Substacku nebo přečte mail. (Rozbor z 260927 byl skoro tak dlouhý jako originál — byl to Lenčin brainstorming, ne standard.) |
-| **Substacky obecně** | Číst **celý text** (je v mailu), ne jen titulek. Ke každému krátká poznámka o obsahu. |
+| **Substacky obecně** | Číst **celý text** (je v mailu), ne jen titulek. Ke každému **2–3 věty z obsahu** (260928): hlavní teze + konkrétní zjištění/čísla/argumenty, aby Lenka nemusela otevírat zdroj. Nepsat obecné „píše o X“ — napsat, *co* o tom píše. Když je jádro za placenou zdí nebo mail obsahuje jen titulky (např. Artnet PRO), říct to výslovně. |
 | **Danny Iny (Mirasee)** | Lenka jeho práci obdivuje, ale maily nečte (je jich hodně). Shrnout, co v týdnu/dni psal — nechce ho ztratit z pozornosti. |
 | **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. |
 | **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. |
@@ -67,6 +67,20 @@ Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale n
 4. **Lenka si štítek `Svodka/smazat` projde a smaže sama** (Claude mazání nemá povolené a nemá ho dělat). Uchované maily archivuje sama.
 
 Filtry pro Lenku: `label:svodka-uchovat` · `label:svodka-smazat`.
+
+## Přehledové newslettery (Artnet apod.) — hlavní článek otevřít
+
+Když newsletter obsahuje jen titulky s odkazy (Artnet Daily apod.), **hlavní propagovaný článek otevřít a shrnout z webu**, pokud není za placenou zdí (260928). Odkazy jsou přesměrovací — WebFetch na news.artnet.com vrací 403, funguje vestavěný prohlížeč (`navigate` + `get_page_text`). Placený článek (Artnet PRO) jen označit. **Rozsah jako u Substacku: 2–3 věty o hlavním článku + max. jedna věta o zbytku přehledu** — shrnutí Artnetu 260928 (dva odstavce s cenami všech položek) bylo zbytečně podrobné.
+
+## Terminologie: smazat ≠ odhlásit
+
+- **Kandidát ke smazání** = konkrétní mail, dostane štítek `Svodka/smazat` (Lenka ho smaže).
+- **Kandidát na odhlášení** = odesílatel, kterého by Lenka mohla přestat odebírat (oddíl svodky).
+Mail zmíněný v odhlášení **pořád patří pod `Svodka/smazat`**, pokud z něj nic není potřeba (260928).
+
+## Frekvence odesílatelů — neodhadovat
+
+Z toho, co je ve schránce, **neusuzovat, jak často odesílatel chodí** („přišlo poprvé za dlouho“) — Lenka maily průběžně maže, takže historie ve schránce je neúplná (260928: Vox a Artnet chodí často). Kandidáty na odhlášení navrhovat podle obsahu, ne podle domnělé frekvence.
 
 ## Pro tvou práci — nezakládat
 

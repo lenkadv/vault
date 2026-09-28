@@ -20,14 +20,15 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 - [x] Lenka přečetla svodku č. 1 a odpověděla na 4 otázky (260927)
 - [x] Profil zájmů a formát zapsány → [[resources/postupy/svodka]]; rytmus = denně v rámci `/daily-plan`
 - [x] Gmail konektor má od 260927 právo upravovat štítky (po odpojení a novém připojení)
-- [ ] První denní svodka v rámci `/daily-plan` 260928 (období od 27. 9.) #next-action #online 📅 2026-09-28
-- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly 📅 2026-10-04
+- [x] První denní svodka v rámci `/daily-plan` 260928 (období od 27. 9.)
+- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly #next-action #online 📅 2026-10-04
 
 ## Vydaná čísla
 
 | Č. | Období | Poznámka |
 |---|---|---|
 | 1 | 14.–26. 9. 2026 | zkušební, ~150 vláken; 260927 doplněn rozbor Mollicka; schránka vyčištěna (Lenka smazala `Svodka/smazat`) |
+| 2 | 27. 9. – 28. 9. 8:40 | první denní, 19 vláken; 1× Vyžaduje pozornost (Kaufland tiket); 17 vláken `Svodka/smazat`, uchovat nic |
 
 ## Související
 
