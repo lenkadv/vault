@@ -11,7 +11,7 @@ tema:
   - značka
   - hlas
 pouzij_kdyz: "sepisuješ hlas značky"
-stav: neprozkoumáno
+stav: prozkoumáno
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/brand-voice-guide.md"
 ---
 
@@ -24,3 +24,5 @@ Creates a comprehensive brand voice guide with tone attributes, vocabulary lists
 [Otevřít soubor](<file:///G:/Můj disk/Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/brand-voice-guide.md>)
 
 Poznámky z použití:
+
+- 260928 přečteno u [[hlasove-profily]]. Postup: dotazník (přídavná jména, vzorové a odstrašující značky, vlastní ukázky) → 3–4 vlastnosti hlasu s „znamená / neznamená“ → slovník (používat / nikdy) → pravidla stylu → tabulka „jsme / nejsme“ → úpravy podle kanálu → stejné sdělení v 5 kontextech. Max. 3 strany. Pro profily z banky textů užitečné hlavně: vlastnosti se „znamená / neznamená“, tabulka „jsme / nejsme“, ukázka jednoho sdělení v různých kontextech, kontrolní seznam na konec. Vhodné spíš pro hlas značky (lcenglish, tadylenka) než pro osobní a profesní maily.
