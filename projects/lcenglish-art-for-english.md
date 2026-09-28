@@ -2,7 +2,7 @@
 
 **Oblast:** lcenglish
 **Stav:** aktivní
-**Kadence:** 1 díl týdně, newsletter v úterý
+**Kadence:** 1 díl týdně, newsletter v úterý (Drip); od 260928 zrcadlo na Substacku
 
 ## Cíl
 
@@ -105,6 +105,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Doplnit, odsouhlasit a finalizovat NL #24 (Myslbek, zápor) ✅ 2026-09-28 — podbřišník na soše je (Lenka ověřila, v textu se nezmiňuje), finální verze napsaná Lenkou v Dripu, subject "Která je ta pravá?"
 - [x] Naplánovat NL #24 v Dripu na úterý 29. 9. ✅ 2026-09-28
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
+- [ ] Založit Substack publikaci pro Art for English (název, popis, propojení doporučení s tadylenka) — rozhodnuto 260928, zrcadlo Dripu #next-action #online
+- [ ] Připravit Substack verzi #24 (bez Liquid kódů) a publikovat jako první díl #online
 - [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
 
 ## Aktuální stav

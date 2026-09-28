@@ -4,6 +4,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 
 ---
 
+## 2026-09-28
+**Art for English i na Substacku — jako zrcadlo** (Lenka 260928, mění dřívější „Substack pro AfE zatím ne“). Drip zůstává hlavní kanál (list, prodej, Liquid personalizace). Na Substack jde stejná epizoda s drobnými úpravami (bez Liquid kódů, oslovení v plurálu). Důvod: Substack je u tadylenka jediný kanál s organickým růstem a publika se překrývají (umění) → vzájemné doporučení tadylenka ↔ AfE. Lead magnet / cesta ze Substacku do Dripu se nabalí postupně, teď nekomplikovat.
+
 ## 2026-09-06
 Migrace LCEnglish z GrowOS 0.1 na 2.0. Obsah rozdělen z omnibus `brand.md` do `brain/` souborů. 21 odeslaných newsletterů Art for English přeneseno do `brain/samples/` jako hlasový korpus. Produkční archiv (briefy, carousel slidy, video rendery) buď smazán (binárky — v záloze zip), nebo přesunut do `library/`.
 
@@ -29,4 +32,4 @@ Série Art for English pokračuje přes léto beze změny tempa. Curriculum na z
 **Grammar-first, ne artist-first.** Nejdřív se zvolí jazykový cíl týdne, pak se k němu vybere dílo — zaručuje variabilitu a jazykovou progresi.
 
 ## dřívější
-Substack se pro Art for English zatím dělat nebude — Lenka má Substack věnovaný umění obecně (česky), druhý pro AfE zatím nechce. AfE obsah patří do emailového newsletteru LCEnglish.
+~~Substack se pro Art for English zatím dělat nebude~~ (změněno 2026-09-28, viz výše) — Lenka má Substack věnovaný umění obecně (česky), druhý pro AfE zatím nechce. AfE obsah patří do emailového newsletteru LCEnglish.

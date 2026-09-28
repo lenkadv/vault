@@ -243,7 +243,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 
 ## Pracovní kadence
 
-- LCEnglish: newsletter 1x týdně v úterý + reklama (průběžně) + social průběžně
+- LCEnglish: newsletter 1x týdně v úterý (Drip = hlavní kanál; od 260928 zrcadlo Art for English i na Substacku) + reklama (průběžně) + social průběžně
 - tadylenka (přepsáno 260909): **1× Substack článek á 14 dní, pátek**, tři rotující rubriky — Ženy v obraze → Co vidíš? Tak vidíš! → Všichni svatí, dokola; 800–1200 slov. **Úspěch = pravidelnost, ne dosah ani počet odběratelů.** IG Stories příležitostně — upomínat Lenku po každé zmínce o výstavě, galerii, muzeu nebo kulturní akci. Podrobnosti (runway, content bank, pozdější fáze) → [[resources/postupy/growos]].
 
 ## GrowOS — jádro
