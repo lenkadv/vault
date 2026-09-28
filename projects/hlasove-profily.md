@@ -77,6 +77,7 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
   - [ ] Profil 5 — tadylenka: návrh profilu z `substack-archiv/` (banka hotová)
 
 **Rytmus:** 1 profil = 1 vlákno = 1 blok v kalendáři (~1 h Lenčina času: přečíst návrh a opravit). Po dokončení profilu next-action advancement na další v pořadí výše a navrhnout blok na další profil.
+- [ ] Doplnit do profilů 3 prvky z [[ABM – Brand voice guide]] (odvozené z banky, ne z dotazníku): vlastnosti „znamená / neznamená“, tabulka „jsme / nejsme“, jedno sdělení v různých situacích (Lenka zkontroluje), kontrolní seznam pro Clauda. Pilot na [[profil-profesni]], pak jako šablona pro další profily (260928)
 - [ ] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy (zapsat do CLAUDE.md / GrowOS lessons)
 - [ ] Volitelně: nainstalovat skill Email Triage (Productivity Pack v `Downloads`) — jeho voice-profile je menší verze profilu 1
 
