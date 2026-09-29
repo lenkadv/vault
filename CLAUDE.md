@@ -179,7 +179,7 @@ Na konci každé seance (při "zavírám" nebo kdykoli je seance u konce) smazat
 Při zavírání sezení (Lenka řekne "zavírám", "končím" apod.):
 1. **Projít konverzaci** — co bylo domluveno jako pravidlo nebo změna systému? Pokud bylo vlákno tak dlouhé, že se jeho začátek zkomprimoval (v kontextu je souhrn místo původních zpráv), nejdřív sám spustit `/recap`. Ten čte celý záznam z disku, takže se na nic z počátku vlákna nezapomene. (260929)
 2. **Ověřit** — je každá změna zapsána v `CLAUDE.md`, `resources/postupy/` a/nebo `memory/`? Pokud ne → opravit.
-3. **Git commit + push check** — pokud v sezení vznikly změny v trackované části vaultu, lokálně je committnout (`git add -A && git commit`). Zkontrolovat `git log origin/main..HEAD`, jestli existují neodeslané commity (i z dřívějška) — pokud ano, připomenout Lence, ať spustí `git push` sama. Pokud nic k odeslání není, nic neříkat.
+3. **Git commit + push check** — pokud v sezení vznikly změny v trackované části vaultu, lokálně je committnout (`git add -A && git commit`). Zkontrolovat `git log origin/main..HEAD`, jestli existují neodeslané commity (i z dřívějška) — pokud ano, připomenout Lence, ať spustí `git push` sama — **vždy jako samostatný blok kódu ```bash s příkazem `cd "G:\Můj disk\vault"; git push`** (v aplikaci má tlačítko Run, nic se nekopíruje; 260929). Pokud nic k odeslání není, nic neříkat.
 4. **Sync skillů do Notionu** — sáhli jsme v sezení na nějaký skill (nový, upravený SKILL.md nebo
    jeho skripty — vault `.claude/skills/`, GrowOS `GrowOS/.claude/skills/`, `~/.claude/skills/`)?
    Pokud ano → aktualizovat jeho řádek v Notion databázi **Skills**
