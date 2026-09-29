@@ -10,6 +10,8 @@ tema:
   - Claude
 pouzij_kdyz: "chceš naučit Claude opakované postupy (skilly)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/15 Teach Claude Your Workflows (2026-07).html"
 ---
 

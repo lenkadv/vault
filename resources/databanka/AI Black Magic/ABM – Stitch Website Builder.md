@@ -9,6 +9,8 @@ tema:
   - web
 pouzij_kdyz: "chceš web nebo redesign přes Google Stitch"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/stitch-website-builder"
 ---
 

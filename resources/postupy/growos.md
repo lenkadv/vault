@@ -5,6 +5,11 @@ Přesunuto z `CLAUDE.md` 260926 (zkrácení hlavního návodu) — text beze zm�
 GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
 **Od 260906 běží GrowOS 2.0** (migrace z 0.1 — viz [[growos-2-migration]]).
 
+## Kde otevírat sezení a jak jsou vidět skilly (260929)
+
+- **Práce na lcenglish / tadylenka → otevřít sezení ve složce `GrowOS`.** Odtud jsou automaticky vidět skilly GrowOS i skilly a `CLAUDE.md` vaultu (Claude Code čte `.claude/skills` i v nadřazených složkách).
+- **Sezení otevřené ve vaultu:** skilly GrowOS se načtou až ve chvíli, kdy Claude otevře nebo upraví soubor v `GrowOS/` nástrojem Read/Edit (čtení přes příkazový řádek to nespustí). Proto při práci na GrowOS z vaultu **nejdřív otevřít `GrowOS/AGENTS.md` nástrojem Read**. Tím se skilly GrowOS načtou a jde je spouštět i sám podle popisu. Pokud skill pořád chybí, přečíst jeho `GrowOS/.claude/skills/<jméno>/SKILL.md` a postupovat podle něj.
+
 ## Jak je 2.0 postavené
 
 - **Charta je `GrowOS/AGENTS.md`** (CLAUDE.md tam jen odkazuje). Při práci v GrowOS

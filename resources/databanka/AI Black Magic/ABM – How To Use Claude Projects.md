@@ -10,6 +10,8 @@ tema:
   - Claude
 pouzij_kdyz: "učíš projekty s instrukcemi v Claude"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/12 How To Use Claude Projects (2026-04).html"
 ---
 

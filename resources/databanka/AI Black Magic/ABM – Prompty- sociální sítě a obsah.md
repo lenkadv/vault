@@ -11,6 +11,8 @@ tema:
   - sociální sítě
 pouzij_kdyz: "řešíš háčky, popisky, karusely, Stories, bio, komunitu, cold DM"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/03 Socialni site a obsah (DigiStart blok C, lcenglish marketing).md"
 ---
 

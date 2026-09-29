@@ -12,6 +12,8 @@ tema:
   - video
 pouzij_kdyz: "chceš realistické AI obrázky a video ze dvou snímků"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva3/Lights Camera Prompt - realisticke obrazky a video (2026-07).html"
 ---
 

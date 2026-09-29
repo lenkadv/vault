@@ -11,6 +11,8 @@ tema:
   - video
 pouzij_kdyz: "píšeš scénář videa"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/video-script-writer.md"
 ---
 

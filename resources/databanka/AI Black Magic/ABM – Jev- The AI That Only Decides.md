@@ -9,6 +9,8 @@ tema:
   - rozhodování
 pouzij_kdyz: "ukazuješ AI jako podporu rozhodování"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/09 Jev - The AI That Only Decides (2026-09).html"
 ---
 

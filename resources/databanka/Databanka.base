@@ -4,6 +4,54 @@ filters:
     - note.databanka == true
 views:
   - type: table
+    name: Nainstalované nástroje
+    filters:
+      and:
+        - note.nainstalovano == "ano"
+    groupBy:
+      property: zdroj
+      direction: ASC
+    order:
+      - file.name
+      - stav
+      - verdikt
+      - pouzij_kdyz
+      - spousteni
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 260
+      note.pouzij_kdyz: 420
+      note.spousteni: 260
+  - type: table
+    name: Používám
+    filters:
+      and:
+        - note.stav == "použito"
+    order:
+      - file.name
+      - zdroj
+      - verdikt
+      - pouzij_kdyz
+    columnSize:
+      file.name: 260
+      note.pouzij_kdyz: 420
+  - type: table
+    name: Skryté a vyřazené
+    filters:
+      or:
+        - note.verdikt == "skrýt"
+        - note.verdikt == "vyřadit"
+    order:
+      - file.name
+      - verdikt
+      - zdroj
+      - pouzij_kdyz
+    columnSize:
+      file.name: 260
+      note.pouzij_kdyz: 420
+  - type: table
     name: Vše podle tématu
     order:
       - file.name
@@ -12,6 +60,7 @@ views:
       - pro
       - tema
       - stav
+      - verdikt
       - rok
       - zdroj
     sort:
@@ -45,6 +94,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -59,6 +109,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -73,6 +124,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -87,6 +139,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -101,6 +154,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -115,6 +169,7 @@ views:
       - pouzij_kdyz
       - tema
       - stav
+      - verdikt
     columnSize:
       file.name: 300
       note.pouzij_kdyz: 420
@@ -126,6 +181,7 @@ views:
     order:
       - file.name
       - stav
+      - verdikt
       - pouzij_kdyz
       - pro
     columnSize:

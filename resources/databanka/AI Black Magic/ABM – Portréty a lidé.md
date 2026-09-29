@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "potřebuješ portrét nebo lidi v práci"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/10 Portrety a lide.md"
 ---
 

@@ -9,6 +9,8 @@ tema:
   - obrázky
 pouzij_kdyz: "chceš „amatérskou“ fotku; ukázka etiky na kurzu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/02 Prirozene UGC fotky z mobilu.md"
 ---
 

@@ -11,6 +11,8 @@ tema:
   - data a tabulky
 pouzij_kdyz: "potřebuješ rozebrat tabulku nebo učit práci s daty; má i verzi promptu pro ChatGPT/Gemini"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/spreadsheet-analyst"
 ---
 

@@ -9,6 +9,8 @@ tema:
   - e-mail
 pouzij_kdyz: "stavíš e-mailovou sekvenci"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/email-sequence-builder.md"
 ---
 

@@ -9,6 +9,8 @@ tema:
   - agenti
 pouzij_kdyz: "potřebuješ přehled, jak agenty nasadit"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/07 The AI Agent Playbook (2026-07).html"
 ---
 

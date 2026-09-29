@@ -4,6 +4,8 @@ Mapa toho, co jde dělat s nástroji, které máš nainstalované (GrowOS, balí
 
 **Jak číst:** u každé položky je *co dostaneš*, *co dodáš ty*, *nejmenší ochutnávka* (první krok bez závazku) a skill v závorce — skill nemusíš pamatovat, stačí mi napsat, co chceš.
 
+**Hodnocení nástrojů (používám / skrýt / poznámky z vyzkoušení) se od 260929 píše jen do Databanky** → [[Průvodce Databankou]]. Tady zůstává menu podle výsledku.
+
 **Stav:** 🟢 jde hned · 🟡 potřebuje napojení/účet/klíč/materiál · ⚪ pro tebe teď spíš ne
 
 **Bezpečnostní síť u všeho marketingového:** nic se nikam neodešle ani nezveřejní. Každý výstup GrowOS skončí v **review frontě** jako koncept; ty řekneš „schváleno“ nebo „změň“, a poslední tlačítko (odeslat, spustit) mačkáš vždycky ty. Zkoušet můžeš beztrestně.
@@ -208,6 +210,6 @@ Mapa toho, co jde dělat s nástroji, které máš nainstalované (GrowOS, balí
 - `/drip`, `/metricool`, `/inbox-review`, `/review-exhibition`, `/last30days` — tvoje vlastní, fungují
 
 ## Jak to zkoušet
-**Rozhodnuto 260926:** procházíme katalog **systematicky od sekce 1 po 7, položku po položce** — ne výběrově. Každou vyzkoušíme prakticky: na skutečném případu, pokud se hodí, jinak na fiktivním, jen abys možnost reálně osahala. Po vyzkoušení rozhodneš, jestli to má smysl používat dál. Tempo: ochutnávky po 30–45 min se mnou. Výstup skončí jako koncept v review frontě, nic se nezveřejní. Po ochutnávce zapíšu k položce ✔ + jednu větu, jestli se to hodí.
+**Rozhodnuto 260926:** procházíme katalog **systematicky od sekce 1 po 7, položku po položce** — ne výběrově. Každou vyzkoušíme prakticky: na skutečném případu, pokud se hodí, jinak na fiktivním, jen abys možnost reálně osahala. Po vyzkoušení rozhodneš, jestli to má smysl používat dál. Tempo: ochutnávky po 30–45 min se mnou. Výstup skončí jako koncept v review frontě, nic se nezveřejní. Po ochutnávce zapíšu stav, verdikt a jednu větu do poznámky nástroje v Databance (od 260929, dřív ✔ sem).
 
 Související: [[youcloned-ai-clone-setup]], [[resources/postupy/growos]]

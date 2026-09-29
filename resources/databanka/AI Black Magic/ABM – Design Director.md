@@ -12,6 +12,8 @@ tema:
   - značka
 pouzij_kdyz: "chceš kontrolu vizuální kvality výstupů"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/design-director"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - zpětná vazba
 pouzij_kdyz: "děláš dotazník, např. zpětnou vazbu účastníků"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/survey-builder.md"
 ---
 

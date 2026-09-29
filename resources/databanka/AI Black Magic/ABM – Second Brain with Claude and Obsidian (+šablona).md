@@ -10,6 +10,8 @@ tema:
   - Claude
 pouzij_kdyz: "vylepšuješ vault: Claudian, MCP, skilly brain-setup / weekly-update"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva3/Second Brain with Claude and Obsidian (2026-05).html"
 ---
 

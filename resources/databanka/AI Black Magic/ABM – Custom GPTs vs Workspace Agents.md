@@ -9,6 +9,8 @@ tema:
   - agenti
 pouzij_kdyz: "rozhoduješ mezi vlastním GPT a agentem v práci"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/04 Custom GPTs vs Workspace Agents (2026-06).html"
 ---
 

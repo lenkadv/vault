@@ -10,6 +10,8 @@ tema:
   - smlouvy
 pouzij_kdyz: "přehled 13 bezplatných právních pluginů"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/23 Claude For Legal (2026-05).html"
 ---
 

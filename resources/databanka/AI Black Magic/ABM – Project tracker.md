@@ -10,6 +10,8 @@ tema:
   - řízení projektů
 pouzij_kdyz: "sleduješ projekty a úkoly týmu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/project-tracker.md"
 ---
 

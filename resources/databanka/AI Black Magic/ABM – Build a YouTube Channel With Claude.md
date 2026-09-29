@@ -9,6 +9,8 @@ tema:
   - video
 pouzij_kdyz: "zakládáš YouTube kanál s pomocí AI"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/24 Build a YouTube Channel With Claude (2026-07).html"
 ---
 

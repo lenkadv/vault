@@ -10,6 +10,8 @@ tema:
   - video
 pouzij_kdyz: "plánuješ výrobu videa od námětu po střih"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/video-production-operator"
 ---
 

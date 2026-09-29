@@ -9,6 +9,8 @@ tema:
   - e-shop
 pouzij_kdyz: "potřebuješ obchodní podmínky vrácení zboží"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/return-policy-generator.md"
 ---
 

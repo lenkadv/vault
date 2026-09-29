@@ -11,6 +11,8 @@ tema:
   - prodej
 pouzij_kdyz: "chceš z výsledku klienta udělat případovou studii"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/case-study-writer.md"
 ---
 

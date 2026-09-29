@@ -12,6 +12,8 @@ tema:
   - obrázky
 pouzij_kdyz: "děláš grafiku na sítě"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/social-media-graphics.md"
 ---
 

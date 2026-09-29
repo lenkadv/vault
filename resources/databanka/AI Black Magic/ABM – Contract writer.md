@@ -10,6 +10,8 @@ tema:
   - smlouvy
 pouzij_kdyz: "potřebuješ kostru smlouvy o službách (americké právo)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/contract-writer.md"
 ---
 

@@ -36,7 +36,7 @@ Formální požadavky databáze (ověřeno 260915):
 
 ## Návrh osnovy kurzu (draft, 260915)
 
-> Zdroje k převzetí do osnovy: kurzy AI Prompting for Everyone (Andrew Ng) a AI Agent Skills for Leaders (Jules) → [[claude-academy]] (260928).
+> Zdroje k převzetí do osnovy: kurz AI Agent Skills for Leaders (Jules White), případně Build Anything with AI → [[claude-academy]] (260928; AI Prompting for Everyone vyřazen 260929 — placený).
 
 Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) — ne jen z toho, co Lenka náhodou má v `EDUCATION` (ty materiály jsou inspirace na dílčí techniky, ne kostra osnovy).
 

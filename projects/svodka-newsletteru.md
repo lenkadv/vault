@@ -29,6 +29,7 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 |---|---|---|
 | 1 | 14.–26. 9. 2026 | zkušební, ~150 vláken; 260927 doplněn rozbor Mollicka; schránka vyčištěna (Lenka smazala `Svodka/smazat`) |
 | 2 | 27. 9. – 28. 9. 8:40 | první denní, 19 vláken; 1× Vyžaduje pozornost (Kaufland tiket); 17 vláken `Svodka/smazat`, uchovat nic |
+| 3 | 28. 9. 8:40 – 29. 9. 10:30 | 47 vláken; 4× Vyžaduje pozornost (Kaufland storno, Česká pošta, Štěpánka Uličná Agendy OSA, ResearchGate); 33 vláken `Svodka/smazat`, uchovat nic |
 
 ## Související
 

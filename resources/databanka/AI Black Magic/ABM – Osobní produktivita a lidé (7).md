@@ -12,6 +12,8 @@ tema:
   - řízení lidí
 pouzij_kdyz: "řešíš návyky, hranice práce, vyhoření, nábor"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/10 Osobni produktivita a lide.md"
 ---
 

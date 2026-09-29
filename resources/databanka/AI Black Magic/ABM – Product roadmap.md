@@ -9,6 +9,8 @@ tema:
   - strategie
 pouzij_kdyz: "plánuješ roadmapu produktu v Notionu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/product-roadmap.md"
 ---
 

@@ -9,6 +9,8 @@ tema:
   - kurzy
 pouzij_kdyz: "stavíš kurz: osnova, scénáře lekcí, prezentace, pracovní listy, prodejní stránka"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/course-creator"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - provoz
 pouzij_kdyz: "chceš postup z nahraného videa"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/22 SOP Extraction from Loom (2026-03).html"
 ---
 

@@ -11,6 +11,8 @@ tema:
   - sociální sítě
 pouzij_kdyz: "plánuješ obsahový kalendář"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/content-calendar-planner.md"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - provoz
 pouzij_kdyz: "stavíš znalostní bázi podpory"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/customer-support-knowledge-base.md"
 ---
 

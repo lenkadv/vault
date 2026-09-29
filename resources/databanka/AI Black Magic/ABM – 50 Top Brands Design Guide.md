@@ -11,6 +11,8 @@ tema:
   - design
 pouzij_kdyz: "návod k design systémům 50 značek"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/50 Top Brands Design Guide md Files (2026-07).html"
 ---
 

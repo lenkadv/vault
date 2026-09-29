@@ -12,6 +12,8 @@ tema:
   - hlas
 pouzij_kdyz: "zakládáš novou značku nebo projekt a ještě nemáš vlastní texty"
 stav: prozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/brand-voice-guide.md"
 ---
 

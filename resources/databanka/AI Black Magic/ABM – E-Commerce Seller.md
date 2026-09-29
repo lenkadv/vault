@@ -9,6 +9,8 @@ tema:
   - e-shop
 pouzij_kdyz: "účastnice nebo klient má e-shop (Shopify)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/ecommerce-seller"
 ---
 

@@ -29,7 +29,7 @@ sort by due
 
 - [ ] Čekám na FuTru (info@funkcnitrenink.cz) — potvrzení volného místa Po + St 18:00 od října + variabilní symbol (mail odeslán 29. 9.) → pak zaplatit školné, viz [[hubnuti-pohyb]] 📅 2026-10-02
 
-- [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. 📅 2026-10-09
+- [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09
 
 - [ ] IKEA taška u Alexe — buď ji vyzvedne Vítek, až se s Alexem během týdne uvidí, nebo ji Lenka vezme přímo od Alexe (možná společná návštěva u rodičů příští týden). Připomenuto Vítkovi 2026-09-14; 260926 stále nevrácena. 📅 2026-10-04
 - [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). Lenka připomněla 260926. 📅 2026-10-03

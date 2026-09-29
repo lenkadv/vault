@@ -10,6 +10,8 @@ tema:
   - marketing
 pouzij_kdyz: "řešíš profil na Googlu, žádosti o recenze a odpovědi na ně"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/local-business-magnet"
 ---
 

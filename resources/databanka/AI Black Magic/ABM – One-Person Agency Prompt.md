@@ -11,6 +11,8 @@ tema:
   - marketing
 pouzij_kdyz: "chceš z jednoho promptu hlas značky, kalendář, reklamy a e-maily; závěrečný úkol DigiStart C"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/01 One-Person Agency Prompt (2026-04).md"
 ---
 

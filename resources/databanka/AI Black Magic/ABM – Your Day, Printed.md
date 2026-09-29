@@ -10,6 +10,8 @@ tema:
   - produktivita
 pouzij_kdyz: "chceš denní přehled na papír (kalendář, úkoly, e-maily)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/your-day-printed"
 ---
 

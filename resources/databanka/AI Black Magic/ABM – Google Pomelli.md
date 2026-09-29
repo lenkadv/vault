@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "hledáš bezplatný marketingový nástroj pro malé firmy"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/13 Google Pomelli (2026-03).html"
 ---
 

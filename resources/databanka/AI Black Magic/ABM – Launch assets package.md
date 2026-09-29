@@ -11,6 +11,8 @@ tema:
   - marketing
 pouzij_kdyz: "chystáš balíček materiálů k uvedení produktu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/launch-assets-package.md"
 ---
 

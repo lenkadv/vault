@@ -10,6 +10,8 @@ tema:
   - reporting
 pouzij_kdyz: "píšeš týdenní report"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/weekly-report-generator.md"
 ---
 

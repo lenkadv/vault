@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "potřebuješ infografiku nebo graf"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/06 Infografiky a vizualizace dat.md"
 ---
 

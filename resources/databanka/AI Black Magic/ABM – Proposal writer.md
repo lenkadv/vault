@@ -11,6 +11,8 @@ tema:
   - klienti
 pouzij_kdyz: "píšeš nabídku klientovi"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/proposal-writer.md"
 ---
 

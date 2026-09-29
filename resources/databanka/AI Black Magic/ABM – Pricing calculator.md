@@ -11,6 +11,8 @@ tema:
   - finance
 pouzij_kdyz: "stanovuješ ceny nebo kalkulačku sazeb"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/pricing-calculator.md"
 ---
 

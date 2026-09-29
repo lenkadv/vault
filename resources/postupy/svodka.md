@@ -18,6 +18,10 @@ Gmail `lnk.dvorakova@gmail.com`: záložky **Promo akce**, **Aktualizace** a hla
 - Přesun: `label_thread` s `CATEGORY_PERSONAL` + `INBOX`, pak `unlabel_thread` s `CATEGORY_PROMOTIONS` + `CATEGORY_UPDATES`. Konektor potřebuje oprávnění gmail.modify (funguje od 260927). **Přesun dělat vždy, u každého mailu z oddílu** — `search_threads` kategorie (`CATEGORY_*`) nevypisuje, takže mail, který vypadá jen jako `INBOX`, může ležet v Promo akcích (260928: Kaufland tiket zůstal v Promo akcích). Pokud přesun selže, dát do svodky u oddílu seznam odkazů a říct to Lence jednou větou; nejčastěji pomůže Gmail konektor odpojit a znovu připojit.
 - Věci s termínem zapsat i do GTD podle CLAUDE.md (next-actions / waiting-for) — ale náměty pro práci **ne** (viz níže).
 
+## Jazyk shrnutí
+
+**Shrnutí newsletteru psát v jazyce, ve kterém newsletter přišel** (260929): anglické newslettery shrnovat anglicky, české česky. Překladem se ztrácí nuance a Lenka ráda čte anglicky. Platí pro všechny oddíly včetně Marketingu a psaní. Nadpisy oddílů, „Vyžaduje pozornost“, „Hlavní body“, „Pro tvou práci“ a úklid zůstávají česky.
+
 ## Formát a pořadí oddílů
 
 1. **Vyžaduje pozornost**
@@ -38,8 +42,10 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **Ethan Mollick (One Useful Thing)** | Nejdůležitější zdroj. Souhrn **o něco obsáhlejší** než u ostatních (hlavní teze, co zkoušel, 1–2 odstavce) — ne podrobný rozbor. Lenka si pak pustí audio na Substacku nebo přečte mail. (Rozbor z 260927 byl skoro tak dlouhý jako originál — byl to Lenčin brainstorming, ne standard.) |
 | **Substacky obecně** | Číst **celý text** (je v mailu), ne jen titulek. Ke každému **2–3 věty z obsahu** (260928): hlavní teze + konkrétní zjištění/čísla/argumenty, aby Lenka nemusela otevírat zdroj. Nepsat obecné „píše o X“ — napsat, *co* o tom píše. Když je jádro za placenou zdí nebo mail obsahuje jen titulky (např. Artnet PRO), říct to výslovně. |
 | **Danny Iny (Mirasee)** | Lenka jeho práci obdivuje, ale maily nečte (je jich hodně). Shrnout, co v týdnu/dni psal — nechce ho ztratit z pozornosti. |
-| **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. |
-| **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. |
+| **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. Lenka ten přechod považuje za geniální (dělá ho v každém mailu) a sleduje ho kvůli vlastní práci; zatím se nic neukládá, Kennedyho celý kurz Lenka má (260929). |
+| **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. Lenka ho chce se mnou prozkoumat pro vlastní využití → [[omnibus]] (260929). |
+| **Danny Iny — AI Strategist** | Lenka chce jít (26.–28. 10. 2026). Hlídat mail s otevřením registrace a dát ho do „Vyžaduje pozornost“ → [[waiting-for]]. |
+| **Jon Benson (BNSN)** | ElevenLabs ukázky: výsledný hlas je nerozeznatelný od živého, ale postup je v placené komunitě (~300 $/měs.), do které Lenka zatím nejde. Stačí krátce zmínit, nic nenabízet. |
 | **Drip, Leadpages** | Nástroje, které Lenka používá. Sledovat **vývoj produktu** (nové funkce, změny, webináře o funkcích) a vytáhnout, co by se hodilo pro lcenglish/tadylenka. |
 | **Jon Schumacher a podobné sekvence** | Když přijde celá sekvence (webinář, launch), upozornit na ni jako na vzor. Swipe už zapsaný: [[GrowOS/lcenglish/library/swipe-content]] (260927). |
 | **Tonebase** | Nechává si ho jako připomínku, že má streamy klasické hudby. Jednou větou, neodhlašovat. |
@@ -64,6 +70,7 @@ Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale n
    - bezpečnostní upozornění (GitHub apod.) → nemazat,
    - pošta, datová podání, shrnutí lekcí (italki) → nechat Lence.
    - Potvrzení o vrácení peněz (RegioJet apod.) a proběhlé jízdenky → **ano**, štítek `Svodka/smazat`.
+   - **Mail, ze kterého se něco ukládá do vaultu** (kurz, zdroj, námět): do vaultu vždy **přímý proklik na zdroj** (URL kurzu/článku). Když je proklik uložen, nebo jde o Substack/web dohledatelný jinde, nebo o oznámení bez odkazu → mail může `Svodka/smazat`. Když se uloží jen shrnutí bez přímého prokliku → mail **archivovat, nemazat** (260929: maily s kurzy Coursera skončily v koši a ve vaultu byl jen odkaz na mail).
 4. **Lenka si štítek `Svodka/smazat` projde a smaže sama** (Claude mazání nemá povolené a nemá ho dělat). Uchované maily archivuje sama.
 
 Filtry pro Lenku: `label:svodka-uchovat` · `label:svodka-smazat`.

@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "potřebuješ podklad pro krátké video „práce z domova“"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/16 Obrazky pro Instagram Reels (solopodnikatel).md"
 ---
 

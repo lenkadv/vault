@@ -9,6 +9,8 @@ tema:
   - e-mail
 pouzij_kdyz: "chceš oslovit neaktivní odběratele nebo zákazníky"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/win-back-campaign.md"
 ---
 

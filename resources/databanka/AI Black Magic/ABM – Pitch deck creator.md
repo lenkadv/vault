@@ -10,6 +10,8 @@ tema:
   - prezentace
 pouzij_kdyz: "stavíš prezentaci pro investory nebo klienty (Canva)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/pitch-deck-creator.md"
 ---
 

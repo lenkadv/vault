@@ -10,6 +10,8 @@ tema:
   - Claude
 pouzij_kdyz: "učíš Claude Code neprogramátory"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Claude Code Complete Beginners Guide (2026-04).html"
 ---
 

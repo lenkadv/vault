@@ -10,6 +10,8 @@ tema:
   - reklama
 pouzij_kdyz: "potřebuješ texty reklam (Facebook, Google, LinkedIn)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/ad-copy-generator.md"
 ---
 

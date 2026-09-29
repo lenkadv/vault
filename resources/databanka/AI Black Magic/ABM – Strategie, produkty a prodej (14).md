@@ -11,6 +11,8 @@ tema:
   - prodej
 pouzij_kdyz: "řešíš nabídku, ceny, product-market fit, prodejní rozhovor"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/08 Strategie, produkty a prodej.md"
 ---
 

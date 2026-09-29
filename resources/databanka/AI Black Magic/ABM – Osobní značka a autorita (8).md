@@ -12,6 +12,8 @@ tema:
   - značka
 pouzij_kdyz: "řešíš LinkedIn, vystupování, knihu, PR"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/07 Osobni znacka a autorita.md"
 ---
 

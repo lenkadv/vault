@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "děláš pozadí a ilustrace do prezentace"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/11 Pitch deck a vizualy do prezentaci.md"
 ---
 

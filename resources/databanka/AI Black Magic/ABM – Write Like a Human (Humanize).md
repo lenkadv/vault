@@ -13,6 +13,8 @@ tema:
   - hlas
 pouzij_kdyz: "text zní jako AI; chceš hlasový profil nebo mini-lekci „jak poznat AI text“"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/write-like-a-human-rozbaleno"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - strategie
 pouzij_kdyz: "děláš SWOT"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/swot-analysis.md"
 ---
 

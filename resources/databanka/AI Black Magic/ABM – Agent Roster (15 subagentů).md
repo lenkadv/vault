@@ -10,6 +10,8 @@ tema:
   - Claude
 pouzij_kdyz: "chceš levněji rozdělit práci mezi subagenty v Claude Code"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/agent-roster-15-subagents"
 ---
 

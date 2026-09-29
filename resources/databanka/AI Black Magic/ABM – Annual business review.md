@@ -11,6 +11,8 @@ tema:
   - strategie
 pouzij_kdyz: "děláš roční přehled byznysu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/annual-business-review.md"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "děláš náhled s místem na text"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/15 Nahledove obrazky pro socialni site.md"
 ---
 

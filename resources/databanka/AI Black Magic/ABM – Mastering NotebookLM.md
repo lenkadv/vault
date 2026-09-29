@@ -10,6 +10,8 @@ tema:
   - NotebookLM
 pouzij_kdyz: "učíš NotebookLM"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/16 Mastering NotebookLM (2025-12).html"
 ---
 

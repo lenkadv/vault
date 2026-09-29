@@ -10,6 +10,8 @@ tema:
   - automatizace
 pouzij_kdyz: "navrhuješ konkrétní automatizaci krok za krokem"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/automation-architect"
 ---
 

@@ -12,6 +12,8 @@ tema:
   - recyklace obsahu
 pouzij_kdyz: "chceš z videa nebo článku nadělat příspěvky na sítě"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/youtube-to-social"
 ---
 

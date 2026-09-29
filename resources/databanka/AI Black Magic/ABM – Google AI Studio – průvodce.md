@@ -9,6 +9,8 @@ tema:
   - AI základy
 pouzij_kdyz: "učíš bezplatný Google AI Studio; cvičení vlastní asistent za 10 minut"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva3/Google AI Studio - pruvodce pro zacatecniky (2026-05).html"
 ---
 

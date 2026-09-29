@@ -12,6 +12,8 @@ tema:
   - obrázky
 pouzij_kdyz: "hledáš háček na začátek videa nebo principy promptů na obrázky"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/11-znalostni-soubory"
 ---
 

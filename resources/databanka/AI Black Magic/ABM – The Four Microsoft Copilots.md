@@ -9,6 +9,8 @@ tema:
   - Microsoft 365
 pouzij_kdyz: "školíš lidi v korporátu na Microsoft 365"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/03 The Four Microsoft Copilots (2026-09).html"
 ---
 

@@ -12,6 +12,8 @@ tema:
   - strategie
 pouzij_kdyz: "řešíš porady, delegování, konflikty, zpětnou vazbu, OKR, KPI, krize"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/04 Manazerske prompty (Evident, konzultace).md"
 ---
 

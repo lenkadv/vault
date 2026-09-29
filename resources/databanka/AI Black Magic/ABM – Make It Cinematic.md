@@ -10,6 +10,8 @@ tema:
   - video
 pouzij_kdyz: "děláš filmové video: postava → storyboard → pohyb"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/26 Make It Cinematic (2026-07).html"
 ---
 

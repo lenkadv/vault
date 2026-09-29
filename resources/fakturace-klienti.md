@@ -134,6 +134,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | #   | Datum  | Délka | Poznámka |
 | --- | ------ | ----- | -------- |
 | 1   | 260924 | 1 h   | ✓        |
+| 2   | 260929 | 2 h   | 14–16 h, secvičná prezentace PRE konference (s Janem Lapešem), PENTA Masarykova |
 
 ---
 

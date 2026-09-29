@@ -12,6 +12,8 @@ tema:
   - produktivita
 pouzij_kdyz: "chceš najít, co v týdnu automatizovat; lekce DigiStart A, kostra workshopu Evident"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/automate-personal-busy-work"
 ---
 

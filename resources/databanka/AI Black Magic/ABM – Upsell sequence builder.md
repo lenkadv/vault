@@ -10,6 +10,8 @@ tema:
   - prodej
 pouzij_kdyz: "chceš e-maily s nabídkou navazujícího produktu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/upsell-sequence-builder.md"
 ---
 

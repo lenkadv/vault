@@ -11,6 +11,8 @@ tema:
   - design
 pouzij_kdyz: "chceš, aby výstupy nevypadaly jako AI"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/19 Stop Shipping AI Slop (2026-06).html"
 ---
 

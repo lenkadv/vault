@@ -11,6 +11,8 @@ tema:
   - psaní
 pouzij_kdyz: "píšeš prodejní stránku"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/sales-page-writer.md"
 ---
 

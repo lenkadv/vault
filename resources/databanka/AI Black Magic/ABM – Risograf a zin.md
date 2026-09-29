@@ -9,6 +9,8 @@ tema:
   - obrázky
 pouzij_kdyz: "chceš risografický nebo zinový styl"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/08 Risograf a zin.md"
 ---
 

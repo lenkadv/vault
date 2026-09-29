@@ -10,6 +10,8 @@ tema:
   - video
 pouzij_kdyz: "chceš video z jedné věty (Gemini)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/27 Make Videos with Google Omni (2026-06).html"
 ---
 

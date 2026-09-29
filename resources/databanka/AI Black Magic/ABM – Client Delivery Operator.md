@@ -10,6 +10,8 @@ tema:
   - klienti
 pouzij_kdyz: "předáváš práci klientovi: onboarding, reporty, uzavření zakázky"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/client-delivery-operator"
 ---
 

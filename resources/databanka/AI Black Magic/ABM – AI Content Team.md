@@ -11,6 +11,8 @@ tema:
   - psaní
 pouzij_kdyz: "chceš obsahový tým agentů (plán, psaní, úpravy)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/ai-content-team"
 ---
 

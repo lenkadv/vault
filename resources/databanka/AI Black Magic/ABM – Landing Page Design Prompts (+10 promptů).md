@@ -9,6 +9,8 @@ tema:
   - web
 pouzij_kdyz: "děláš vstupní stránku"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Landing Page Design Prompts (2026-06).html"
 ---
 

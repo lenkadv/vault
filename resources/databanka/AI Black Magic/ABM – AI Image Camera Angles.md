@@ -11,6 +11,8 @@ tema:
   - obrázky
 pouzij_kdyz: "řešíš úhly kamery u AI obrázků"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/AI Image Camera Angles (2026-03).html"
 ---
 

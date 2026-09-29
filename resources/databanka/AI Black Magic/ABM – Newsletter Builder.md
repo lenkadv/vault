@@ -9,6 +9,8 @@ tema:
   - e-mail
 pouzij_kdyz: "skládáš newsletter: brief → text → PDF"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/newsletter-builder.md"
 ---
 

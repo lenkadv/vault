@@ -10,6 +10,8 @@ tema:
   - finance
 pouzij_kdyz: "chceš evidenci výdajů v Notionu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/expense-tracker.md"
 ---
 

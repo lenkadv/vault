@@ -12,6 +12,8 @@ tema:
   - automatizace
 pouzij_kdyz: "zadáváš práci AI na pozadí; šablona zadání co dávám / co chci / pro koho / jaký úsudek"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Claude Works While You're Gone - Cowork v cloudu (2026-08).html"
 ---
 

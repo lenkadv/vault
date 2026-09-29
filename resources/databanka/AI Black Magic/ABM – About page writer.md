@@ -12,6 +12,8 @@ tema:
   - web
 pouzij_kdyz: "píšeš stránku „O mně“ nebo medailonek"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/about-page-writer.md"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - strategie
 pouzij_kdyz: "porovnáváš dodavatele"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/vendor-evaluation.md"
 ---
 

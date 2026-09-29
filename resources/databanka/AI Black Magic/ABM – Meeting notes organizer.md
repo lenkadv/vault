@@ -10,6 +10,8 @@ tema:
   - porady
 pouzij_kdyz: "zpracováváš zápis z porady"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/meeting-notes-organizer.md"
 ---
 

@@ -13,6 +13,8 @@ tema:
   - Cowork
 pouzij_kdyz: "stavíš lead magnet + 3 uvítací e-maily + denní koncept newsletteru"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Marketing System in Cowork - lead magnet a welcome sekvence (2026-05).html"
 ---
 

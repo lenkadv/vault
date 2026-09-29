@@ -9,6 +9,8 @@ tema:
   - řízení lidí
 pouzij_kdyz: "píšeš příručku pro zaměstnance nebo spolupracovníky"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/employee-handbook.md"
 ---
 

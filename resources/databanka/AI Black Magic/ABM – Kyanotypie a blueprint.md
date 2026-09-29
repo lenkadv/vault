@@ -9,6 +9,8 @@ tema:
   - obrázky
 pouzij_kdyz: "chceš kyanotypii nebo technický výkres"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/09 Kyanotypie a blueprint.md"
 ---
 

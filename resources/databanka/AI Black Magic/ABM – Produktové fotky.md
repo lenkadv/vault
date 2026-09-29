@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "fotíš nebo generuješ produkt"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/01 Produktove fotky.md"
 ---
 

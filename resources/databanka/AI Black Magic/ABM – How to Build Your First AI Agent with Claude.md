@@ -9,6 +9,8 @@ tema:
   - agenti
 pouzij_kdyz: "stavíš prvního agenta"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/How to Build Your First AI Agent with Claude (2026-06).html"
 ---
 

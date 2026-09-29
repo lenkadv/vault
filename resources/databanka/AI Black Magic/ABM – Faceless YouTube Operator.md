@@ -9,6 +9,8 @@ tema:
   - video
 pouzij_kdyz: "chceš kanál bez tváře"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/faceless-youtube-operator"
 ---
 

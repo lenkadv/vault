@@ -11,6 +11,8 @@ tema:
   - sociální sítě
 pouzij_kdyz: "auditujeme profil na sítích"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/social-media-audit.md"
 ---
 

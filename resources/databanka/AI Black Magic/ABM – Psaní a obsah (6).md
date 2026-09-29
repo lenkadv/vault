@@ -11,6 +11,8 @@ tema:
   - hlas
 pouzij_kdyz: "řešíš hlas značky, háčky, storytelling, titulky, redakční kalendář"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/09 Psani a obsah.md"
 ---
 

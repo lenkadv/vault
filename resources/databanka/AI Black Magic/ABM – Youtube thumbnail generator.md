@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "děláš náhledy na YouTube (Canva)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/youtube-thumbnail-generator.md"
 ---
 

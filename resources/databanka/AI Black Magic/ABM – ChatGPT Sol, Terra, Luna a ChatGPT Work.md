@@ -11,6 +11,8 @@ tema:
   - náklady
 pouzij_kdyz: "vysvětluješ úrovně modelů ChatGPT a agenta Work"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/ChatGPT Sol Terra Luna a ChatGPT Work (2026-07).html"
 ---
 

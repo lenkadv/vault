@@ -9,6 +9,8 @@ tema:
   - AI základy
 pouzij_kdyz: "vybíráš model Gemini; levné hromadné úlohy"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/3 nove modely Gemini (2026-07).html"
 ---
 

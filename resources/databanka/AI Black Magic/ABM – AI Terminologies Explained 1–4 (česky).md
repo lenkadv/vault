@@ -10,6 +10,8 @@ tema:
   - AI základy
 pouzij_kdyz: "vysvětluješ pojmy bez žargonu (LLM, RAG, halucinace, agenti)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva3/AI Terminologies Explained 1-4 (2025-09).md"
 ---
 

@@ -9,6 +9,8 @@ tema:
   - obrázky
 pouzij_kdyz: "chceš retro plakát"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/13 Vintage koncertni plakaty 60-70 leta.md"
 ---
 

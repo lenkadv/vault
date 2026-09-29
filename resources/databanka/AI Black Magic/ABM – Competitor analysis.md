@@ -11,6 +11,8 @@ tema:
   - strategie
 pouzij_kdyz: "rozebíráš konkurenci"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/competitor-analysis.md"
 ---
 

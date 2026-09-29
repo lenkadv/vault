@@ -10,6 +10,8 @@ tema:
   - AI základy
 pouzij_kdyz: "vysvětluješ práci v iteracích místo jednoho promptu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/17 The Loop Is the New Prompt (2026-07).html"
 ---
 

@@ -11,6 +11,8 @@ tema:
   - akce
 pouzij_kdyz: "plánuješ webinář"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/webinar-planner.md"
 ---
 

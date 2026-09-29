@@ -11,6 +11,8 @@ tema:
   - SEO
 pouzij_kdyz: "chceš být vidět v odpovědích ChatGPT a Claude"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Getting Your Brand Ranked Inside LLMs - AEO GEO (2026-03).html"
 ---
 

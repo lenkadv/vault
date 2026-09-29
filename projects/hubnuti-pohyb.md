@@ -16,7 +16,8 @@
 
 ## Otevřené úkoly
 
-- [ ] Podívat se do rozvrhu FuTru: je volno v pondělí a ve středu, jak jsou rozepsané kurzy → zaplatit permanentku od října #next-action #online 📅 2026-10-01
+- [x] Podívat se do rozvrhu FuTru — vybráno Po + St 18:00 ✅ 2026-09-29
+- [ ] Po potvrzení místa (mail FuTru odeslán 29. 9.) zaplatit školné říjen–prosinec 6 000 Kč (e-shop https://www.funkcnitrenink.cz/produkt/skolne_3_mesice/ nebo převod s VS na 2300769531/2010) #next-action #online 📅 2026-10-05
 - [ ] Začít chodit (po, st) — po zaplacení permanentky
 - [x] Nastavit denní ranní vážení nalačno + vybrat appku pro sledování trendu ✅ 2026-08-05
 - [x] Koupit inulin, zkusit přidat k snídani ✅ 2026-08-03

@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "řešíš světlo (Rembrandt, Vermeer, šerosvit)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/05 Styly svetla a nalady.md"
 ---
 

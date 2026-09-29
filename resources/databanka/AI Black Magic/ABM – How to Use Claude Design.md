@@ -11,6 +11,8 @@ tema:
   - Claude
 pouzij_kdyz: "chceš vizuály a prototypy v Claude Design"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/How to Use Claude Design (2026-05).html"
 ---
 

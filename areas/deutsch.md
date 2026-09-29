@@ -16,6 +16,6 @@ Systematické rozhýbání němčiny jako příprava na pobyt ve Vídni od břez
 
 ## Klíčové trvalé odkazy
 
-- italki — lektor: _doplnit_
+- italki — lektor: Filip (balíček 5 lekcí objednán 29. 9. 2026)
 - Easy German — https://www.youtube.com/@EasyGerman
 - 📖 Book Recommendations (Notion) — Vienna reading list: https://app.notion.com/p/2f819ae9b17a45c59fb4b11334046e4e

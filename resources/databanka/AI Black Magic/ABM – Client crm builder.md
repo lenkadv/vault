@@ -10,6 +10,8 @@ tema:
   - klienti
 pouzij_kdyz: "stavíš jednoduché CRM v Notionu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/client-crm-builder.md"
 ---
 

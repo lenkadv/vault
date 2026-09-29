@@ -10,6 +10,8 @@ tema:
   - design
 pouzij_kdyz: "děláš web, který nemá „AI vzhled“"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/20 Websites That Don't Look Made by AI (2026-09).html"
 ---
 

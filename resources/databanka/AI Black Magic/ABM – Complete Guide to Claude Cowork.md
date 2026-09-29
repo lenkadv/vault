@@ -10,6 +10,8 @@ tema:
   - Cowork
 pouzij_kdyz: "začínáš s Coworkem"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva3/Complete Guide to Claude Cowork (2026-03).html"
 ---
 

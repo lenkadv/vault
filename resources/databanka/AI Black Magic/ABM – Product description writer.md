@@ -10,6 +10,8 @@ tema:
   - psaní
 pouzij_kdyz: "píšeš popisky produktů"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/product-description-writer.md"
 ---
 

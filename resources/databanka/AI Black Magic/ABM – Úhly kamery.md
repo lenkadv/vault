@@ -10,6 +10,8 @@ tema:
   - obrázky
 pouzij_kdyz: "hledáš slovník úhlů záběru"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/04 Uhly kamery.md"
 ---
 

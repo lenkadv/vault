@@ -9,6 +9,8 @@ tema:
   - reklama
 pouzij_kdyz: "chceš generátor statických reklam"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Set Up Your Own Static Ad Generator (2026-05).html"
 ---
 

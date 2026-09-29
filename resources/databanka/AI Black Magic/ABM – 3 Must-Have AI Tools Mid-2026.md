@@ -9,6 +9,8 @@ tema:
   - AI základy
 pouzij_kdyz: "orientuješ začátečníky v nástrojích"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/10 3 Must-Have AI Tools Mid-2026 (2026-08).html"
 ---
 

@@ -10,6 +10,8 @@ tema:
   - marketing
 pouzij_kdyz: "tvoříš lead magnet"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/lead-magnet-creator.md"
 ---
 

@@ -28,3 +28,7 @@ https://europe-central2-shadowloop-firebase.cloudfunctions.net/sale?email=jkokes
 
 **Firebase konzole:** https://console.firebase.google.com/u/0/project/shadowloop-firebase/firestore
 **Repo:** https://github.com/kokolem/shadowloop (privátní, logika v `functions/index.js`)
+
+## Upozornění od Googlu
+
+- 260929 — Firebase Hosting (od 15. 10. 2026 se u **nových** projektů nevytváří hosting automaticky) a Cloud Build (release channels pro build VM, výchozí od 28. 3. 2027, dotčen `shadowloop-firebase`): **nic nedělat.** Shadowloop je existující projekt bez CI/CD a funkce se nasazují ručně; Cloud Build se týká jen dalšího nasazení funkcí a běžné sestavení změnu nepozná.

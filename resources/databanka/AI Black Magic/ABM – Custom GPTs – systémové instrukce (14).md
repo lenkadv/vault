@@ -12,6 +12,8 @@ tema:
   - AI základy
 pouzij_kdyz: "píšeš instrukce vlastního asistenta (GPT, Gem, Claude Project)"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/03-prompty/vrstva2/11 Custom GPTs instrukce (inspirace).md"
 ---
 

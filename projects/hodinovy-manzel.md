@@ -17,4 +17,4 @@ Spouštěč: protéká záchod (splachování). Než volat, sesbírat další dr
 - vstupní dveře
 - přilepit lišty
 - drobná výmalba (opravy po instalaci A/C)
-- vyměnit zteřelá kolečka na starém kufříku (guma se rozpadá, kola i zbytek kufru jinak OK) — nová kolečka objednaná (260915, [Kaufland](https://www.kaufland.cz/product/542687105/?search_value=n%C3%A1hradn%C3%AD+kole%C4%8Dka+pro+kufry)), zbývá jen samotná výměna
+- vyměnit zteřelá kolečka na starém kufříku (guma se rozpadá, kola i zbytek kufru jinak OK) — kolečka zatím nejsou: objednávka z Kauflandu (260915) nedorazila a 29. 9. byla stornována; hledání náhradních koleček znovu v [[next-actions]] @online

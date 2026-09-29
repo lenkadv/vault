@@ -10,6 +10,8 @@ tema:
   - klienti
 pouzij_kdyz: "nastavuješ onboarding nového klienta"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/agency-onboarding-system.md"
 ---
 

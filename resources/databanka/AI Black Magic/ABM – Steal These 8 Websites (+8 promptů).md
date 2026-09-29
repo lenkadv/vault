@@ -9,6 +9,8 @@ tema:
   - web
 pouzij_kdyz: "chceš web z jednoho promptu"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/vrstva2/Steal These 8 Websites (2026-09).html"
 ---
 

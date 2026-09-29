@@ -55,3 +55,7 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 - [[areas/lcenglish]]
 - [[projects/lcenglish-online-kurz]] — HELE funnel, stejný FAPI/Shadowloop/FreshLearn mechanismus
 - [[resources/youcloned-ai-clone-setup]] — kontext, jak tenhle projekt vznikl (vaultová kopie, čitelná i beze mě)
+
+## Propagace — možnosti (260929)
+
+- **ChatGPT Ads (beta)** jako varianta nebo alternativa k Facebooku, až bude produkt připravený k propagaci. Rozhodnuto 260929: promo akci OpenAI (utratit 6 000 Kč do 14 dní → kredit 6 000 Kč) nehonit; začít malým testem s rozpočtem, který nebude líto (orientačně 1 500–2 000 Kč), a sledovat proklik a konverze. Otevřené: jak kanál cílí na české publikum, kolik stojí proklik. Účet Ads Manager: lenka@lenkadvorakova.cz (rozpracovaný, zda vznikl, neověřeno).

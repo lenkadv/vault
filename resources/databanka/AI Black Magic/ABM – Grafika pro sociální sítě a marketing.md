@@ -11,6 +11,8 @@ tema:
   - obrázky
 pouzij_kdyz: "potřebuješ pozadí pro citát, karusel, Stories, newsletter"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/05-obrazkove-prompty/03 Grafika pro socialni site a marketing.md"
 ---
 

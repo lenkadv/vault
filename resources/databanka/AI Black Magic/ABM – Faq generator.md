@@ -11,6 +11,8 @@ tema:
   - web
 pouzij_kdyz: "potřebuješ sekci častých otázek"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/faq-generator.md"
 ---
 

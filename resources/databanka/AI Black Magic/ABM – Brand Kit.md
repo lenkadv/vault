@@ -12,6 +12,8 @@ tema:
   - obrázky
 pouzij_kdyz: "potřebuješ vizuální identitu: barvy, písma, šablony"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/01-pluginy/brand-kit"
 ---
 

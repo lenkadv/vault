@@ -10,6 +10,8 @@ tema:
   - řízení lidí
 pouzij_kdyz: "vysvětluješ, jak rozdělit práci mezi AI jako v organizaci"
 stav: neprozkoumáno
+nainstalovano: ne
+verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/05 Your AI Needs an Org Chart (2026-08).html"
 ---
 

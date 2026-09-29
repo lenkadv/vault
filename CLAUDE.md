@@ -43,9 +43,9 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | GrowOS, lcenglish/tadylenka výstupy, publishing projekty, `/drip`, `/metricool` | `resources/postupy/growos.md` (+ `GrowOS/AGENTS.md`) |
 | Git, `.gitignore`, commit/push | `resources/postupy/git-zaloha.md` |
 | Svodka z e-mailů (newslettery, nevytříděná pošta), `/daily-plan` krok svodka | `resources/postupy/svodka.md` |
-| Databanka AI (tutoriály, skilly, prompty z kurzů), nový zdroj do databanky | `resources/postupy/databanka.md` |
+| Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
-**Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`): na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
+**Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`, pro Lenku [[Průvodce Databankou]]): jediné místo s hodnocením všech AI nástrojů (stav, verdikt, poznámky z použití). Na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
 
 ## Areas
 
@@ -155,7 +155,10 @@ Tasky z `projects/` se v daily plan zapisují jako **plain bullet bez checkboxu*
 - **Daily zápisy po půlnoci:** pokud je po půlnoci a Lenka ještě neoznámila konec dne ("jdu spát" apod.), veškerý zápis do `daily/` (Průběh dne, systémové změny, cokoli) patří do souboru **předchozího** dne, ne do dne podle systémového data. Platí vždy — při zavírání i při průběžných zápisech mimo skilly. Nikdy nezakládat nový `daily/{dnešní YYMMDD}.md` jen kvůli změně systémového data uprostřed pokračující seance. Viz [[feedback_daily_note_midnight]].
 - [[next-actions]] nemá tvrdý limit položek, ale každá položka musí být konkrétní a akční
 - GrowOS je samostatný systém (2.0) — při práci v GrowOS kontextu se řídit `GrowOS/AGENTS.md` a [[resources/postupy/growos]]
-- Při přesunu položky kamkoliv (someday, resources, projekt, zettelkasten) vždy zachovat původní URL/zdroj — bez odkazu je položka v budoucnu nepoužitelná
+- **Vždy odkaz na původní zdroj** (260929, zpřísněno): kdykoli ukládám nebo přesouvám informaci kamkoli (someday, resources, projekt, zettelkasten, content bank), musí vést **přímo na původní zdroj** — URL kurzu/článku/produktu, ne jen „psalo se v mailu“. Poznámka bez cesty ke zdroji je k ničemu. U e-mailů:
+  - shrnutí **+ přímý proklik na zdroj** uložen → mail může do koše (`Svodka/smazat`);
+  - jen shrnutí bez přímého prokliku (odkaz vede jen na mail) → mail **zůstává dohledatelný v archivu**, nemazat;
+  - Substack a jiné na webu dohledatelné texty, běžná oznámení bez odkazu (např. „registrace brzy“) → mail může do koše.
 - **Git:** Claude smí lokálně `git add` + `git commit`, **nikdy `git push`** (blokováno) — push spouští Lenka sama (`cd "G:\Můj disk\vault"; git push`). Detaily [[resources/postupy/git-zaloha]].
 
 ## Systémové změny — jak je zapisovat
@@ -174,7 +177,7 @@ Na konci každé seance (při "zavírám" nebo kdykoli je seance u konce) smazat
 ### Pokyn "zavírám"
 
 Při zavírání sezení (Lenka řekne "zavírám", "končím" apod.):
-1. **Projít konverzaci** — co bylo domluveno jako pravidlo nebo změna systému?
+1. **Projít konverzaci** — co bylo domluveno jako pravidlo nebo změna systému? Pokud bylo vlákno tak dlouhé, že se jeho začátek zkomprimoval (v kontextu je souhrn místo původních zpráv), nejdřív sám spustit `/recap`. Ten čte celý záznam z disku, takže se na nic z počátku vlákna nezapomene. (260929)
 2. **Ověřit** — je každá změna zapsána v `CLAUDE.md`, `resources/postupy/` a/nebo `memory/`? Pokud ne → opravit.
 3. **Git commit + push check** — pokud v sezení vznikly změny v trackované části vaultu, lokálně je committnout (`git add -A && git commit`). Zkontrolovat `git log origin/main..HEAD`, jestli existují neodeslané commity (i z dřívějška) — pokud ano, připomenout Lence, ať spustí `git push` sama. Pokud nic k odeslání není, nic neříkat.
 4. **Sync skillů do Notionu** — sáhli jsme v sezení na nějaký skill (nový, upravený SKILL.md nebo
@@ -212,6 +215,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 - Jeden soubor na den: `daily/YYMMDD.md` — plán nahoře, Průběh dne a Systémové změny pod ním; žádný samostatný `-plan.md`.
 - Průběžně: Lenka do téhož vlákna reportuje postup (hotovo, časy, odchylky) → zapisuje se do sekce **Průběh dne**.
 - Delší soustředěná práce na jednom projektu běží ve vlastním vlákně — včetně vlastního uzavření podle [[#Pokyn "zavírám"]].
+- **Zkušebně od 260929 — `/recap-all` při zavírání denního vlákna** (jen tam, ne u ostatních vláken): spustit s oknem od prvního otevření dne (výchozích 12 h nestačí), výsledek porovnat s `daily/YYMMDD.md` a do Průběhu dne doplnit **jen to, co chybí** (vlákna, která se nezavřela nebo nezapsala, nedořešené další kroky). Lence neukazovat celý výpis, jen doplněné. Vyhodnotit při nejbližším weekly review: pomáhá, nebo jen přidává text? Výsledek → poznámka [[JB – recap-all]] v Databance.
 - Denní vlákno se zavírá **jako poslední** v rámci dne (rekapitulace + formální uzavření), klidně i po půlnoci — pořád do daily note aktuálního, ještě neuzavřeného dne. Pokud vlákno omylem zůstane otevřené hluboko do dalšího dne, Lenka to při zavírání výslovně řekne.
 
 ## Pravidelné revize
