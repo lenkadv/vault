@@ -20,6 +20,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 5   | 260919 | 2 h | Vnitřní předpisy FEKT (12:00–14:00) |
 | 6   | 260922–260924 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
 | 7   | 260925 | 1 h 43 min | Uspořádání podkladů na SharePointu GNOSTIKA — mapa dokumentů, 12 souhrnů rozhovorů z Voicenotes na Disk, nová struktura podle oddělení, 17 souhrnů jako .docx, MAPA PODKLADŮ.xlsx, mail Štěpánce, úpravy mapy (11:54–13:37) |
+| 8   | 260929 | 47 min | SharePoint FEKT VUT Brno s novým oprávněním — struktura 00–05, 99 zkopírována o patro výš, zařazeny Štěpánčiny neuložené zápisy (správa budov 18. 8., personální), Agendy OSA, složka 05 Smlouvy a obchod, aktualizace mapy, mail Štěpánce (12:01–12:48) |
 
 **Vyfakturováno (během pobytu v Brně 22.–24. 9. 2026):** první faktura GNOSTIKA — 50 000 Kč (neplátce DPH). Co přesně pokrývá (dny v Brně / hodiny výše), číslo faktury a splatnost — doplnit.
 
