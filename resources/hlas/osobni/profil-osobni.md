@@ -64,7 +64,7 @@ Krátce, přímo a s lehkou sebeironií: jedna věc na mail, konkrétní fakta (
 |---|---|---|---|
 | **Blízcí, spolužáci, tatínek, Štěpánka** | „Ahoj,“ / „Ahoj Gábino,“ / nic | tykání, rychlé, citoslovce a vykřičníky, humor | „Zdraví L.“, „L.“, „Díky moc a měj se, L.“ |
 | **Známí a vyučující na vykání** | „Dobrý den,“ / „Dobrý den, Oldřichu,“ / „Milá Natsumi,“ | vlídné, osobní věta, sebeironie | „Zdraví L.“ |
-| **Úřady, správa domu, firmy** | „Dobrý den,“ | věcné: kontext → problém → otázka | „Zdraví / Lenka Dvořáková“ + u domu „Zelená 943/7, byt 38“ |
+| **Úřady, správa domu, firmy, zdravotnická zařízení** | „Dobrý den,“ | věcné: kontext → problém → otázka | „Zdraví / Lenka Dvořáková“ + u domu „Zelená 943/7, byt 38“ |
 | **Stížnost** | „Dobrý den,“ | fakta, citace, jasný verdikt, suchá pointa na konci | „S pozdravem / Lenka Dvořáková“ |
 
 **Štěpánka Uličná** (Lenka 260929): poloha „blízcí“ platí i u pracovních mailů pro GNOSTIKU. Výjimka: mail jde na víc adresátů najednou, pak se tón volí formálnější podle ostatních adresátů (blíž profilu 2).
