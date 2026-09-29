@@ -7,6 +7,87 @@
 
 Krátce, věcně a vlídně: jedna věc na odstavec, konkrétní čísla a termíny, vždy další krok a „dejte mi prosím vědět“, na konci drobné přání a „Zdraví L.“
 
+## Vlastnosti hlasu (pilot ABM, 260929)
+
+> Doplněno podle [[ABM – Brand voice guide]], odvozeno z [[banka-profesni]], ne z dotazníku. Pilot pro ostatní profily.
+
+**1. Věcná**
+- *Znamená:* jedna věc na odstavec, konkrétní čísla, termíny a jména („Cena za jeden termín: 15 000 Kč“, „mezi 27. 7. a 7. 8.“, „3 hodiny s Antonem a 1 hodinu s Andrejem“).
+- *Neznamená:* strohá nebo úřední. Věcnost se nese ve vlídném tónu a s jednou osobní větou.
+
+**2. Vstřícná**
+- *Znamená:* nabízí alternativy a nechává rozhodnutí na klientovi („Případně můžeme uvažovat i o září“, „finální rozhodnutí je samozřejmě na vás“, „Mohu se vám zatím úplně přizpůsobit“).
+- *Neznamená:* podbízivá, všeho se vzdá. Honorář a vlastní limity říká rovnou („jen radost bohužel k životu nestačí...“, „v té době tedy nebudu … dostupná“).
+
+**3. Vede k dalšímu kroku**
+- *Znamená:* každý mail končí tím, co se stane dál nebo co má udělat adresát („Dejte mi prosím vědět.“, „Prosím o prověření a zaslání termínů“, „Mohu fakturovat…, nebo je třeba rozdělit?“).
+- *Neznamená:* tlačí nebo urguje. Připomínka je bez výčitky a nechává dveře otevřené („mám ještě vyčkávat, … nebo se něco po cestě ztratilo?“).
+
+**4. S lehkým humorem**
+- *Znamená:* sebeironie a jeden smajlík („poznáte to podle vzniklé českoslovenštiny :-)“, „tentokrát už si je mně e-mail cestu našel :-)“, „je to mazec, ale myslím, že čísla sedí“).
+- *Neznamená:* vtipkování na účet klienta ani humor v mailu o penězích nebo problému.
+
+## Jsem / nejsem
+
+| Jsem | Nejsem |
+|---|---|
+| lektorka a partnerka, která ví, co dělá | dodavatelka, která čeká na pokyny |
+| konkrétní („3 hodiny“, „27. 7.“) | obecná („v blízké budoucnosti“, „nějaké hodiny“) |
+| vlídná, jedna osobní věta | zdvořilostní vata („Doufám, že se máte dobře a že tento e-mail…“) |
+| otevřená o limitech a penězích | omluvná a vděčná přes míru |
+| krátká, víc bodů jen v nabídce a v odpovědi po bodech | mail s nadpisy a tučným písmem na tři řádky |
+| „Dejte mi prosím vědět.“ | „Neváhejte mě kontaktovat v případě jakýchkoli dotazů.“ |
+| „Zdraví L.“ | „S přátelským pozdravem a přáním úspěšného dne“ |
+
+## Jedno sdělení v různých situacích (návrh Clauda, Lenka zkontroluje)
+
+**Sdělení:** V navrženém termínu nemůžu, navrhuju jiný.
+
+*Korporátní klientka, zná se (EVIDENT):*
+> Dobrý den, Kateřino,
+>
+> děkuji za návrh. Ve středu 14. 10. bohužel nemůžu, mám už celý den obsazený. Šel by čtvrtek 15. 10. nebo kterýkoliv den v týdnu od 19. 10.? Přizpůsobím se vám.
+>
+> Zdraví L.
+
+*Klientka na „paní + příjmení“ (Penta Investments):*
+> Dobrý den, paní Staroňová,
+>
+> děkuji za zprávu. Termín 14. 10. mi bohužel nevychází - mohu nabídnout 15. 10. dopoledne, nebo kterýkoliv den od 19. 10. Dejte mi prosím vědět, co by vám vyhovovalo.
+>
+> Zdraví L.
+
+*Kultura / vzdělávání (NG):*
+> Dobrý den, Andreo,
+>
+> děkuju za zprávu. Na 14. 10. mám bohužel už domluvené školení jinde. Pokud by se to dalo posunout na 15. 10. nebo na týden od 19. 10., ráda přijdu. Dejte mi prosím vědět, nějak to vymyslíme.
+>
+> Zdraví L.
+
+*Kolegové z KTF (tykání):*
+> Ahoj, ve středu nemůžu, mám školení. Čtvrtek nebo příští týden? L.
+
+*Anglicky (EVIDENT tým):*
+> Hi Katerina & Team,
+>
+> Thank you for the proposed date. Unfortunately I'm not available on October 14th - would October 15th or any day in the week of October 19th work for you?
+>
+> Best regards,
+> Lenka
+
+## Kontrolní seznam před odesláním návrhu
+
+- [ ] Oslovení podle toho, jak Lenka adresáta oslovila naposledy (křestní jméno × paní + příjmení × „Ahoj kolegové“). Nikdy samotné příjmení.
+- [ ] První věta = souvislost (děkuji za zprávu / navazuji / jak jsme se domluvily), nejvýš jedna osobní věta.
+- [ ] Konkrétní data, časy, částky, počty hodin. Žádné „brzy“, „nějaký termín“.
+- [ ] Na konci další krok nebo otázka.
+- [ ] „děkuji“ u formálnějšího vztahu nebo obsahu, jinak „děkuju“; děkuje jen jednou.
+- [ ] vy/váš malé; pomlčka „ - “ z klávesnice, žádná „–“ ani „—“; rovné uvozovky "…".
+- [ ] Nejvýš jeden smajlík, žádné emoji; v mailu o penězích nebo problému žádný.
+- [ ] Tučné písmo a body jen v nabídce nebo v odpovědi po bodech.
+- [ ] Podpis „Zdraví L.“, automatický podpis nepsat.
+- [ ] Žádné AI obraty (viz [[banka-akademicky]], oddíl 12; „není jen X, je Y“ nejvýš jednou).
+
 ## Struktura e-mailu
 
 1. **Oslovení:** „Dobrý den, Kateřino,“ — vokativ křestního jména, i u HR a manažerů klientů. Pokračuje se malým písmenem na novém řádku.

@@ -71,4 +71,4 @@ pointer to it here — so this file stays short and quick to load.
 - Substack Notes a IG carousel jsou od 260909 **pozastavené** (pozdější fáze). Páteř = 1 Substack článek á 14 dní, 3 rotující rubriky, pátek. Viz [[decisions]] 2026-09-09 a [[projects/tadylenka-publishing]].
 - Po každé zmínce o výstavě/galerii/muzeu/kulturní akci → upomenout IG Stories a zvážit recenzi.
 - Strategie tadylenky vyřešena 260909 (viz [[decisions]]): páteř = 1 Substack článek á 14 dní, 3 rotující rubriky (Ženy v obraze / Co vidíš / Všichni svatí), pátek. Úspěch = pravidelnost, ne dosah. Bez tlaku na příjem. IG carousel a Notes = pozdější fáze. Runway naházená v [[projects/tadylenka-publishing]].
-- Hlas: „historikové" (ne historici), „Lenčino" (ne Lenkino), pomlčka `-` nikdy `—`, žádné fragmenty bez slovesa.
+- Hlas: „historikové" (ne historici), „Lenčino" (ne Lenkino), pomlčka `–` nikdy `—`; krátká věta jen jako pointa, ne sekaný rytmus. První osoba a anachronismy jsou záměr. Detail v [[voice]] (zpřesněno 260929).

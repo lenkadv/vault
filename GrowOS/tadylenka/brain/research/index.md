@@ -5,6 +5,7 @@
 
 ## Research
 
+- [[260929-hlas-tadylenka-navrh]] — návrh zpřesnění `voice.md` z celého Substack archivu (první osoba, anachronismy, krátká věta jako pointa, podrežimy podle rubrik, podezřelé AI pasáže); čeká na Lenčiny odpovědi.
 - [[2026-09-06-0.1-research-2026-04-18-psi-v-dejinach-umeni-tabulka]] — „Psi v dějinách umění": přehled všech zobrazení psů napříč obdobími (pravěk → současnost). Podklad pro sérii „Dějiny umění v X psech" a jednotlivé Notes.
 - [[260608-niche-worksheet]] — niche worksheet tadylenka (positioning, publikum, formáty).
 - [[2026-05-07-magdalena-synthesis]] — syntéza výzkumu k tématu Máří Magdaléna (pro rubriku Ženy v obraze / článek).

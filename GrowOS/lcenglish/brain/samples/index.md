@@ -8,6 +8,8 @@
 
 ## Samples
 
+- [[web-archiv/00-index]] — celý web lcenglish.cz staženo 260929 (112 příspěvků 2017–2024 + 9 stránek, surový text). Podklad pro hlas webových článků.
+
 Odeslané newslettery Art for English (přeneseno z GrowOS 0.1, 2026-09-06). Jádro hlasového korpusu — real-life hook → anglická lekce → jeden měkký CTA, podpis „Zdraví L.".
 
 - [[2026-09-06-0.1-newsletter-2026-04-09-proc-menim-obsah]] — pivot email „Proč měním obsah", odeslán ~2026-04-09. Zakladatelský příběh série, nejteplejší hlas, dobré pro otvírání.

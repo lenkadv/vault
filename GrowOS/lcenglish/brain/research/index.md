@@ -6,6 +6,7 @@
 
 ## Research
 
+- [[260929-hlas-web-clanky-navrh]] — hlasový profil 4: články na lcenglish.cz (zosobnění gramatiky, vykání, stavba návodu, tipovačky, typografie web vs. e-mail); zapracováno do voice.md 260929.
 - [[2026-09-14-audience]] — LCEnglish 2.0 reset: thin, honest pass. Mode 1 (add-to-brain/inbox) empty; YouTube channel near-dormant with no usable comments; real evidence is 6 testimonials from 2019–2021 (pre-pivot), all capped at medium/low confidence.
 - [[2026-09-14-competitors]] — LCEnglish 2.0 reset: English Hacker, Broňa.cz, Help for English refreshed; Dream English and KubovaEnglish added (thin coverage). OnlineJazyky/EasyLingo/Landigo found but not confirmed by Lenka.
 - [[art-bites-curriculum-2026]] — studijní plán Art for English 2026 (~35 týdnů), grammar-first, díla + gramatické cíle + poznámky a revize. Živý dokument, průběžně aktualizovaný.

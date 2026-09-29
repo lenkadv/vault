@@ -40,11 +40,74 @@ Další hotové kusy jsou v `brain/samples/` (21 odeslaných newsletterů Art fo
 
 ---
 
+## Delší výukové texty (články, texty do online kurzů, skripty videí)
+
+> Doplněno 260929 z celého webu lcenglish.cz (`samples/web-archiv/`, rozbor [[research/260929-hlas-web-clanky-navrh]]). Stejný hlas jako newsletter, jen v delším výkladu. Blogové SEO články se už psát nebudou (AI souhrny ve vyhledávačích), hlas se ale použije pro **texty do kurzů, delší výukové materiály a scénáře videí** (Lenka 260929).
+> **Měřítko (celé Lenčiny, bez AI):** Předpřítomný čas, Nepravidelná slovesa, How are you, Sloveso to be, Předložky místa, Klinika pro cedule, Walkie-Talkie, Inventura 2024, Xmas, Gonna/wanna, a také delší návody z let 2020–2022: Anglická slovíčka, Americká vs. britská angličtina, Anki návod, Angličtina za týden (vše psané ručně před érou AI, Lenka 260929). **Mimo profil:** anglická série „Take“ s Abbey (jiný žánr).
+
+- **Oslovení:** vykání v množném čísle („koukněte“, „Posuďte sami“); „já“ jako průvodkyně („roztřídila jsem je za vás“); společné „my“ při výkladu („ukážeme si“, „Vezměme si třeba…“).
+- **Zosobnění gramatiky a jazyka** je hlavní zdroj humoru: nepravidelná slovesa „nejsou tak slušně vychovaná… za trest jsou nacpaná do tabulek“; *present perfect* = „dokonalý dárek“; *How are you* jako „Sezame, otevři se“, jen se neotevírají skály, ale konverzace; Klinika pro cedule s „pacientem“.
+- **Krátká věta nebo jedno slovo jako pointa** na zlomu: „CEDULE.“, „Inu učitelka.“, „To chcete!“, „Nepozná.“
+- **Osobní historka jako důkaz:** „Jsem Husákovo dítě…“, rodina Prokopových, přízvuk v němčině „dokud neudělám nějakou naprosto banální chybu, což se mi stane nejpozději ve druhé větě 😀“, „To bych si měla nechat vyšít na tričko“.
+- **Stavba:** otvírák ze života, otázka nebo překvapivý fakt → proč na tom záleží + slib („ukážeme si, jak se tvoří, kdy ho použít a jak ho jednou provždy zvládnout“) → mezititulky jako otázky nebo úkoly → příklady: anglická věta kurzívou + český překlad, vtipné a ze života („*I’ve really excelled myself this evening.* Dneska večer jsem se fakt vyznamenala.“ ke spálené večeři) → tipovačka před řešením („zkuste si nejdříve tipnout“, „a/ b/ c/“, „Řešení:“) → cvičení → konec pointou nebo PS s mrknutím („Ale bylo by to hezké, ne? 🙂“).
+- **Materiál ke stažení** se ohlašuje „Tahák! Tahák! Tahák!“.
+- **Slovník:** „koukněte“, „tipnout si“, „Inu…“, „setsakramentsky“, „promrskat minulý čas“, „ať si pusa zvyká“, „šprechtila“. Hovorové slovo uprostřed spisovného výkladu.
+- **Ve videoskriptu** platí totéž, jen kratší věty k vyslovení a příklady, které jde ukázat.
+
+## Vlastnosti hlasu (podle pilotu ABM, 260929)
+
+**1. Nadšená** — *znamená:* skutečná radost z jazyka a z pokroku studentů, vykřičník, když je důvod („Jupí!!! Mám radost s ní!“). *Neznamená:* motivační guru („Dáš to! Jsi skvělý!“), přehnané sliby.
+
+**2. Osobní** — *znamená:* vlastní historky jako důkaz (Husákovo dítě, Prokopovi, japonské znaky). *Neznamená:* o sobě místo o studentovi; historka vždy vede k lekci.
+
+**3. Hravá** — *znamená:* zosobnění gramatiky, slovní hříčky, tipovačky, observační humor. *Neznamená:* dětinská nebo zjednodušující; píše se pro dospělé.
+
+**4. Srozumitelná** — *znamená:* krok po kroku, příklad kurzívou + překlad, jeden cíl na text. *Neznamená:* školometská tabulka bez příběhu.
+
+## Jsem / nejsem
+
+| Jsem | Nejsem |
+|---|---|
+| „Předpřítomný čas je prostě dokonalý dárek.“ | „Předpřítomný čas je důležitý gramatický jev.“ |
+| „Abyste se naučili mluvit, musíte… mluvit.“ | „Revoluční metoda, se kterou budete mluvit za 30 dní“ |
+| „Inu učitelka.“ | „Jako certifikovaná lektorka s 20 lety praxe…“ |
+| jeden odkaz, klidně víckrát, vmáčknutý do věty | tlačítko „KLIKNĚTE ZDE“ |
+| „Zdraví L.“ | „S pozdravem, tým LCEnglish“ |
+
+## Jedno sdělení v různých situacích (návrh Clauda)
+
+**Sdělení:** Nepravidelná slovesa se nemusíte učit z tabulky, naučíte se je z vět.
+
+*Newsletter (e-mail):*
+> Zahlédla jsem v kavárně jakousi slečnu, jak se z tabulky učí nepravidelná slovesa. Tři sloupečky, dvě stě řádků, známe to všichni. Co z toho zbyde druhý den? Pár slov jako básnička? Přitom *went* si pamatujete z *I went to London* mnohem líp než z řádku *go - went - gone*. Zkuste to s těmihle pěti větami: [odkaz] Zdraví L.
+
+*Výukový text / kurz:*
+> Nepravidelná slovesa nejsou tak slušně vychovaná jako *work* a *finish* a za trest jsou v učebnicích nacpaná do tabulek. Vy se je ale z tabulky učit nemusíte. Vezměme si třeba *go*: *I go to work every day. / I went to London last year. / I have never gone skiing.* Tři věty (ideálně napasované na váš skutečný život) – a máte všechny tři tvary, hezky v kontextu.
+
+*Scénář videa:*
+> Tabulka nepravidelných sloves? Zavřete ji. Dneska se je naučíme jinak. Poslouchejte: *I went to London.* Went. Minulý čas od *go*. A teď vy…
+
+*Webinářový / prodejní e-mail:*
+> Na čtvrtečním webináři vám ukážu, jak se nepravidelná slovesa NEUČIT z tabulky. Když místo tří sloupečků s otravnými tvary otravných sloves použijete reálné věty a situace, půjde to mnohem snáz. A vůbec to nebude otravné. Místo si rezervujte tady: [odkaz] Zdraví L.
+
+*Odpověď studentovi:*
+> Dobrý den, Petře, tabulku klidně odložte. Zkuste si ke každému slovesu napsat jednu větu o sobě – *I went…, I have seen…* – a čtěte je nahlas. Za týden mi napište, jak to jde. Zdraví L.
+
+## Kontrolní seznam
+
+- [ ] Real-life trigger je skutečný, nic nevymyšleno.
+- [ ] Jeden cíl odkazu, žádné tlačítko „ZDE“.
+- [ ] Příklady: anglicky kurzívou + český překlad.
+- [ ] Humor hravý, ne motivační guru, žádné sliby výsledků.
+- [ ] E-mail: první věta po pozdravu malým písmenem, pomlčka „ - “, podpis „Zdraví L.“.
+- [ ] Publikovaný text (kurz, PDF): pomlčka „–“, uvozovky „…“.
+- [ ] Nikdy „—“.
+
 ## House style overrides
 
 - **Reading level:** píše se pro dospělé české samouky, běžná čeština. Ne zjednodušovat do letáku.
 - **Spellings we lock:** LCEnglish (jedno slovo, velké C a E). Art for English (název série, vždy takto). „anglické jednohubky" (interní název newsletteru).
-- **Words to use instead:** pomlčka `-`, nikdy `—`.
+- **Words to use instead:** v e-mailu pomlčka „ - “ (spojovník z klávesnice), v publikovaném textu (web, kurz, PDF) „–“ (Alt + 0150); dlouhá „—“ nikdy. Uvozovky „…“.
 - **Anything else:** Email newsletter — specifická pravidla z analýzy 100+ odeslaných emailů:
   - První věta po pozdravu: malé písmeno, max 6 slov, rovnou do příběhu („tak jsem začala chodit na latinu.")
   - Délka brutálně variabilní — od 10 řádků po 30. Nikdy výplň.

@@ -112,6 +112,8 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 - [ ] Připravit a publikovat díl #3 — **memento mori / vanitas** (Co vidíš), pátek 16. 10. 2026 #next-action #online 📅 2026-10-16
   - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
+- [ ] Přepsat uvítací příspěvek „Dějiny umění: v nejlepších letech“ (27. 3. 2026) vlastním hlasem. Dnešní text je převzatý z AI (mission statement, odrážky „Interpretace / Dialog / Zpomalení“). Claude může navrhnout verzi podle `GrowOS/tadylenka/brain/voice.md` (260929). Není spěšné, bez next-action.
+
 Po vydání: odškrtnout, přesunout do „Vydané díly", `status: used` v souboru námětu,
 `#next-action` na další díl z runway (Mr and Mrs Andrews za memento mori — termín rozhodne Lenka). Dál pokračuje runway nahoře.
 Pozn.: díl #1 přehozen z Máří Magdalény na Evu (260910). Podklad = Lenčina seminárka Male Gaze: https://docs.google.com/document/d/1mQ8aywmA6BiJagNLiN7G0D9ZFqwv7LMR/edit — z ní vytáhnout úhel pro 800–1200 slov. Založit/doplnit i námět v content-banku (`temata: Eva`).
