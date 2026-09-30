@@ -168,6 +168,8 @@ Struktura každého setkání: výklad a ukázka postupu (do 45 min) → společ
 
 ## 8. Otevřené otázky
 
+- Po pilotu zvážit **evergreen** (předtočenou) verzi kurzu: pro ni i pro detail lekcí pilotu použít [[ABM – Course outline designer]] (Lenka 260930).
+
 - Název a hlas kurzu (varianty výše).
 - Který nástroj doporučit pro placenou cestu. Ověřit aktuální limity bezplatných verzí ChatGPT, Gemini a Claude před stavbou lekcí.
 - Výstup 3 (AI, která zná vaše podnikání): zjistit, co z toho jde v bezplatných verzích.
