@@ -124,6 +124,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 1   | 260904 | 1 h   | 12–13 h  |
 | 2   | 260918 | 1 h   | ✓        |
 | 3   | 260928 | 1 h   | 11–12 h  |
+| 4   | 260930 | 2 h   |          |
 
 ---
 
@@ -136,6 +137,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | --- | ------ | ----- | -------- |
 | 1   | 260924 | 1 h   | ✓        |
 | 2   | 260929 | 2 h   | 14–16 h, secvičná prezentace PRE konference (s Janem Lapešem), PENTA Masarykova |
+| 3   | 260930 | 1 h   | 15:30–16:30, PRE konference prezentace (s Janem Lapešem), MAS 4 |
 
 ---
 
@@ -148,6 +150,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | --- | ------ | ----- | -------- |
 | 1   | 260918 | 1 h   | ✓        |
 | 2   | 260925 | 1 h   | 14:30–15:30 |
+| 3   | 260930 | 1 h   | 16:30–17:30 |
 
 ---
 
