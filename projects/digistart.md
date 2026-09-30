@@ -103,6 +103,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 **Bezplatné vs. placené nástroje (260930):** Jádro kurzu musí jít vyzkoušet v bezplatných verzích. Co umí placená verze, se ukazuje jako **demonstrovaný postup** (návod krok za krokem, podle kterého to účastnice zopakuje, až si nástroj předplatí), nikdy jako předvádění, co všechno lektorka dokázala. Předplatné (cca 500 Kč/měsíc) je volitelné a v propagaci se o něm nemluví jako o podmínce. Pravděpodobně se po obecném úvodu doporučí jeden konkrétní nástroj pro placenou cestu; který, zatím otevřené.
 
+**Jak navázat (260930):** Až odpoví Štěpánka Uličná (mail „DigiStart - návrh pilotu“ nebo komentáře ve sdíleném dokumentu https://claude.ai/code/artifact/6a91f9f5-24a1-48f8-a367-7d639e50dcfa): v novém vlákně přečíst tento projekt, [[digistart-pilot-osnova]], [[digistart-postup-stavby-kurzu]] a [[digistart-podklady]], pak načíst její odpověď (Gmail + komentáře v dokumentu) a zapracovat. Další krok podle zvolené varianty: A → `lesson-planning` z [[ABM – Course Creator]] na týden 1; B → zkušební balíček se 2–3 postupy pro předpilotní test se Štěpánkou.
+
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
