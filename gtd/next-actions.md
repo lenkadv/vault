@@ -50,9 +50,9 @@ sort by due
 
 ## @online
 
+- [ ] Leadpages Community: přihlásit se účtem Leadpages a 10 min projít místnosti Teardowns (jak se rozebírají prodejní stránky) a Industry News (výběr marketingových zpráv) → pak rozhodnout, jestli tam chodit — https://leadpages.com/community (zachyceno 260930 ze svodky č. 4)
 - [ ] PENTA a Tomáš Popadič — nevybrané konzultace: (1) projít a upravit rezervační kalendář, aby nabízel jen časy, kdy se reálně můžu potkat; (2) pak poslat mail s odkazem na kalendář Janu Mathovi (vybrána 1 h z plánovaných 3–5), Martinu Blažkovi (2 h ze 3–5) a Tomáši Popadičovi (předplaceno 5 h, zbývají 2 — pozor, dříve domluveno „necháváme na přípravu na anglické vystoupení“). Stav hodin → [[fakturace-klienti]]. Zatím jen zachyceno (260929)
 - [ ] Kufřík Samsonite: najít a objednat náhradní kolečka znovu (zteřelá guma, kolečka i kufr jinak OK; kolečka změřená a vyfocená 260910). Kaufland objednávka MQKDW85 nevyšla (nedoručeno, 29. 9. stornována). Kandidáti z 260910: [Kaufland](https://www.kaufland.cz/product/542687105/?search_value=n%C3%A1hradn%C3%AD+kole%C4%8Dka+pro+kufry) (jiný prodejce?), záloha [kolapirkl.cz](https://www.kolapirkl.cz/kolecka-pro-kufry); servisy daleko a nejisté. Výměna pak → [[hodinovy-manzel]]
-- [ ] Spustit 7denní trial Blotato (publishing tool — scheduling/API/MCP pro Claude Code) a vyzkoušet — týden 28. 9.–4. 10. je Lenka doma — https://www.blotato.com/
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
 - [ ] AI Black Magic: vytěžit Pro trial, než skončí (260927/28) — napsat Claudovi „navaž na AI Black Magic“: (1) stáhnout a rozbalit Humanize Writing plugin → vybrat skilly pro vault, (2) projít newsletterové/obsahové prompty a uložit ty použitelné do resources/ — https://aiblackmagic.com
 

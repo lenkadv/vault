@@ -23,10 +23,11 @@ sort by due
 
 - [ ] Připomenout Davidu Musilovi HackedList (report pro PENTU) — domluveno na konzultaci 28. 9.: ozvat se po 12. 10., až bude mít volněji → [[penta-hacked-list-report]] 📅 2026-10-13
 
+- [ ] Metricool: předplatné PRO 5 značek (120 EUR/rok, karta ****4219) se automaticky obnoví **22. 11. 2026**. Rozhodnout: ponechat, nebo zrušit / hledat alternativu (Blotato apod. viz [[someday-maybe]]). Podklad: vyzkoušený MCP konektor a jestli se sítím reálně věnujeme → [[VL – metricool]]. Zrušit jde v https://app.metricool.com/user-settings/plan 📅 2026-11-15
+
 ## Čeká na někoho
 
-- [ ] Čekám na Filipa (italki) — potvrzení hodiny němčiny po 5. 10. 16:30–17:15 (1. z balíčku 5 lekcí; v kalendáři s otazníkem) 📅 2026-10-02
-
+- [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B), viz [[digistart]] 📅 2026-10-05
 - [ ] Čekám na FuTru (info@funkcnitrenink.cz) — potvrzení volného místa Po + St 18:00 od října + variabilní symbol (mail odeslán 29. 9.) → pak zaplatit školné, viz [[hubnuti-pohyb]] 📅 2026-10-02
 
 - [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09

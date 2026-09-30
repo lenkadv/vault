@@ -18,6 +18,14 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
 
 - **Städel Museum — online kurz „Kunstgeschichte Online“ (moderní umění 1750–dnes)** — zdarma, filmy, texty, časová osa; registrace z 12. 3. 2024 platí, přihlásit se vlastním heslem a pokračovat, kde jsem skončila. Jde i v němčině (spojit s [[areas/deutsch]]). Kurz: https://onlinekursmoderne.staedelmuseum.de/de (EN: https://onlinekursmoderne.staedelmuseum.de/en) · další digitální nabídka Städelu: https://www.staedelmuseum.de/de/digitale-angebote · uvítací mail: https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1793341858521771142 (zachyceno 260927 z hlavního inboxu)
 
+- **Blotato** (AI plánování a publikování na 9 sítích přes MCP z Claude Code) — https://www.blotato.com/ · Odloženo 260930: trial neobsahuje API/MCP (vyzkoušet se nedá to hlavní), Substack nepodporuje a zatím není rytmus postování na sociálních sítích, který by šlo automatizovat. **Reaktivovat, až:** aspoň 4 týdny ručně pravidelně postuješ na jedné síti (IG nebo LinkedIn) a víš, co chceš automatizovat → pak rovnou Starter na měsíc (29 $). Vrátit se i tehdy, když se objeví něco nového (nová funkce, trial s MCP). Rozbor → [[APP – Blotato]].
+  - Lenka 260930: sociální sítě odložené, protože jí nešly. Malá odezva (IG, carousely A4E) mohla být dána tím, že neví, jak na to, ne kanálem samotným. Až bude prostor, zkusit s nimi experimentovat tak, aby ji to nevyčerpalo; Blotato přijde na řadu až po tom.
+
+- **Sociální sítě — úklid účtů (260930)** — mapa v memory `reference_social_accounts_map` a [[VL – metricool]]:
+  - Facebook **Všichni svatí** zrušit nebo sloučit s tady Lenka (hlavní místo pro umění i svaté je tady Lenka).
+  - Facebookovou stránku **tady Lenka** Lenka kdysi sloučila s LCEnglish (angličtina + umění pod jednou střechou); dnes se jí to už nezdá jako dobrý nápad. Rozhodnout, jestli angličtinu a umění zase oddělit, až se bude řešit návrat k sítím.
+  - Web **lenkadvorakova.cz** (brána ke všem projektům, vizitka) potřebuje údržbu.
+
 ## Místa
 
 - **The Hundred Hunt** — fotografování čísel existujících v kontextu (na dokovišti, ve výloze) — není cropped, není staged. Potenciální tadylenka projekt nebo osobní hra. — https://thehundredhunt.com/

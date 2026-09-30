@@ -8,7 +8,7 @@ pro:
 tema:
   - kurzy
 pouzij_kdyz: "navrhuješ osnovu kurzu"
-stav: neprozkoumáno
+stav: prohlédnuto
 nainstalovano: ne
 verdikt: ""
 soubor: "Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/course-outline-designer.md"
@@ -23,3 +23,4 @@ Designs complete online course curricula with modules, lessons, learning objecti
 [Otevřít soubor](<file:///G:/Můj disk/Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/course-outline-designer.md>)
 
 Poznámky z použití:
+- 260930: prohlédnuto při výběru nástroje pro [[digistart]], nepoužito. Stavěný na předtočené kurzy (lekce 5–25 min, Kajabi/Teachable); pro živý kurz se hodí `curriculum-design` z [[ABM – Course Creator]].

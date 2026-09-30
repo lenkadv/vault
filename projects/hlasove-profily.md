@@ -23,6 +23,8 @@ Rozhodnutí 260927: **6 profilů, profesní hlas jeden** (rozdíl korporát × k
 
 GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (profil), `brain/lessons/` (poučení z přepisů). lcenglish má ~20 A4E newsletterů v samples, tadylenka jen 3–4.
 
+**Vzorový cizí hlas (260930):** Česká filharmonie → [[profil-ceska-filharmonie]] (`resources/hlas/ceska-filharmonie/`). Není to Lenčin hlas, jen uchovaný vzor dobré kulturní komunikace; doplňuje se průběžně ze svodky.
+
 ## Mapa zdrojů (260927, jen čtení)
 
 **Gmail — odeslané:** každá ze 4 adres má 200+ odeslaných vláken (Gmail víc nepočítá). Adresy se kryjí s rolemi:

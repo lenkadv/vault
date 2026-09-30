@@ -50,6 +50,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | #   | Datum  | Délka | Cena     | Akce                                            |
 | --- | ------ | ----- | -------- | ------------------------------------------------ |
 | 5   | 260916 | 1,5 h | 1 125 Kč | MS — SŠ Rožnov (17 studentů, 18-19 let, B1-B2) |
+| 6   | 260930 | 1,5 h | 1 125 Kč | Hrad — OA Mladá Boleslav (s Davidem, 9:00–10:30) |
 ### Proplaceno (červnová faktura 2026)
 
 | #   | Datum  | Délka | Cena     | Akce                    |

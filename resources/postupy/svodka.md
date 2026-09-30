@@ -46,6 +46,8 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. Lenka ho chce se mnou prozkoumat pro vlastní využití → [[omnibus]] (260929). |
 | **Danny Iny — AI Strategist** | Lenka chce jít (26.–28. 10. 2026). Hlídat mail s otevřením registrace a dát ho do „Vyžaduje pozornost“ → [[waiting-for]]. |
 | **Jon Benson (BNSN)** | ElevenLabs ukázky: výsledný hlas je nerozeznatelný od živého, ale postup je v placené komunitě (~300 $/měs.), do které Lenka zatím nejde. Stačí krátce zmínit, nic nenabízet. |
+| **Česká filharmonie** | Lenka obdivuje jejich PR a e-mailing (lepší než NG). Mail přečíst celý, nové postřehy a krátké ukázky doplnit do [[profil-ceska-filharmonie]], ve svodce jednou větou; pak `Svodka/smazat` (260930). |
+| **Leadpages Community** | Od 29. 9. 2026 komunita pro uživatele (https://leadpages.com/community). Sledovat, co k ní Leadpages píšou dál (nové místnosti, akce, zmínky o jiných jazycích než angličtině), a zmínit ve svodce (260930). |
 | **Drip, Leadpages** | Nástroje, které Lenka používá. Sledovat **vývoj produktu** (nové funkce, změny, webináře o funkcích) a vytáhnout, co by se hodilo pro lcenglish/tadylenka. |
 | **Jon Schumacher a podobné sekvence** | Když přijde celá sekvence (webinář, launch), upozornit na ni jako na vzor. Swipe už zapsaný: [[GrowOS/lcenglish/library/swipe-content]] (260927). |
 | **Tonebase** | Nechává si ho jako připomínku, že má streamy klasické hudby. Jednou větou, neodhlašovat. |

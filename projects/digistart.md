@@ -36,6 +36,7 @@ Formální požadavky databáze (ověřeno 260915):
 
 ## Návrh osnovy kurzu (draft, 260915)
 
+> Podklady k jednotlivým modulům (odkazy + kam patří) → [[resources/digistart-podklady]] (260930).
 > Zdroje k převzetí do osnovy: kurz AI Agent Skills for Leaders (Jules White), případně Build Anything with AI → [[claude-academy]] (260928; AI Prompting for Everyone vyřazen 260929 — placený).
 
 Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) — ne jen z toho, co Lenka náhodou má v `EDUCATION` (ty materiály jsou inspirace na dílčí techniky, ne kostra osnovy).
@@ -92,6 +93,16 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 260926 večer: Lenka ověřila přístup do administrace profilu GNOSTIKY v Databázi MPSV — funguje. Cvičný kurz založený se Štěpánkou v Brně se jí ale nezobrazuje; Štěpánka ho pod přihlášením GNOSTIKY nevidí taky → cvičný kurz se v Brně pravděpodobně neuložil (nebo vznikl jinde); nic neblokuje, šlo jen o zkoušku formuláře.
 
+260930: **Rozhodnutí (Lenka a Štěpánka): teď se staví komerční pilot, ne 50h kurz pro MPSV.** Důvody: přihlášky na ÚP se uzavírají měsíc před startem a nábor přes reklamu na sociálních sítích by padl do nejdražšího období (Black Friday, Vánoce). Podmínky MPSV (50 h, homogenní skupina atd.) pilot nesvazují. Pilot: 4–5 týdnů, pravděpodobně 1 živé online setkání týdně na 1,5–3 h, kombinace teorie a praktického zkoušení; detaily se ladí. Náplň a cílová skupina se definují znovu od začátku (komerční kurz = platí účastnice sama). Postup: skill `curriculum-design` z [[ABM – Course Creator]] (spouští se ze souboru, bez instalace). Osnova pilotu: [[digistart-pilot-osnova]]. Cenová představa (260930): kolem 35 000 Kč, high-ticket; výstupy proto musí být hotové věci, ne jen dovednosti. Osnova pro 50 h níže zůstává jako výchozí materiál. Postup stavby se zároveň zapisuje jako modelový případ: [[digistart-postup-stavby-kurzu]]. Návrh pro Štěpánku (260930): https://claude.ai/code/artifact/6a91f9f5-24a1-48f8-a367-7d639e50dcfa
+
+**Persona pilotu (260930, rozpracováno):** ženy jako Lenka a Štěpánka. Solo podnikatelky a živnostnice (lektorky, koučky, podnikatelky pracující na sebe), které si už prošly pokusy o zviditelnění: za web zaplatily, i opakovaně, a po předání přišly problémy (rychle zastaral, stál na cizí platformě). Proces je otrávil, nechtějí do něj znovu a vědí, že psát texty je těžké. Vědí, že musí zvládat sociální sítě, ale nevědí, kudy do toho, co a jak psát a kdy to stihnout. Pilot se staví na toto jádro; začínající podnikatelky a ženy po mateřské se přihlásit můžou, ale obsah se na ně neladí.
+
+**Nosná myšlenka (260930, zpřesněno):** Nejde hlavně o online prezenci. Cílem je naučit se používat AI tak, aby zjednodušila běžné věci a procesy solo podnikatelky: plánování a rekapitulaci dne, e-maily, tabulky, texty atd. Patří sem osahat si hlavní nástroje (ChatGPT, Gemini, Claude), znát rozdíly mezi nimi a vědět, co pro ni který udělá. Web, sociální sítě a základy marketingu (persona, nabídka) jsou jen jedna z praktických oblastí použití (jeden modul nebo dovednost), ne jádro kurzu. Vzorem je Lenčino vlastní používání Clauda (denní plán, recap, svodka z mailů, tabulky).
+
+**Vstupní úroveň (260930):** AI už zkusila, typicky ChatGPT, ale používá ho jako chytřejší vyhledávač („co byla bitva na Bílé hoře“, „kam se najíst v Hradci“). Slyší kolem sebe, že někomu AI řeší maily, diář nebo fakturace, ale neumí si představit, jak to udělat. Cíl: posun od „AI mi odpoví“ k „AI za mě udělá kus práce“.
+
+**Bezplatné vs. placené nástroje (260930):** Jádro kurzu musí jít vyzkoušet v bezplatných verzích. Co umí placená verze, se ukazuje jako **demonstrovaný postup** (návod krok za krokem, podle kterého to účastnice zopakuje, až si nástroj předplatí), nikdy jako předvádění, co všechno lektorka dokázala. Předplatné (cca 500 Kč/měsíc) je volitelné a v propagaci se o něm nemluví jako o podmínce. Pravděpodobně se po obecném úvodu doporučí jeden konkrétní nástroj pro placenou cestu; který, zatím otevřené.
+
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
@@ -99,7 +110,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — přístup funguje; jen se nezobrazuje cvičný kurz založený se Štěpánkou v Brně (nevidí ho ani Štěpánka) ✅ 2026-09-26
 
 ### Obsah kurzu
-- [ ] Vymyslet náplň kurzu (Lenka sama) — jedna náplň pro obě koleje (pilot bez ÚP i varianta s příspěvkem ÚP); výchozí bod = draft osnovy výše. Za Štěpánkou až s hotovým návrhem #next-action #online
+- [x] Vymyslet náplň kurzu (Lenka sama) — návrh pilotu hotový ([[digistart-pilot-osnova]]), Štěpánce sdílen v Claude a poslán mailem jako Word ✅ 2026-09-30
 - [ ] Se Štěpánkou projít návrh náplně, doladit podle persony (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) a rozhodnout jednotlivci vs. firmy #online
 - [ ] Pilot bez ÚP — kdy, v jakém rozsahu, za kolik #online
 - [ ] Z předvýběru v [[resources/digistart-dovednosti-mpsv]] vybrat finální dovednosti pro kartu kurzu

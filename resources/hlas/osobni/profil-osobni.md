@@ -55,7 +55,7 @@ Krátce, přímo a s lehkou sebeironií: jedna věc na mail, konkrétní fakta (
 - [ ] Konkrétní údaje (datum, číslo, adresa bytu u správy domu).
 - [ ] Jasná prosba nebo otázka.
 - [ ] Pomlčka „ - “, rovné uvozovky "…", vy/váš malé, nejvýš jeden smajlík.
-- [ ] Podpis podle polohy („Zdraví L.“ / „Zdraví, Lenka Dvořáková“ / „S pozdravem“ ve stížnosti).
+- [ ] Podpis podle polohy („Zdraví L.“ / „Zdraví, Lenka Dvořáková“ / „S pozdravem“ ve stížnosti); když adresát píše o nemoci, „Zdraví a zdraví přeje L.“
 - [ ] Nikdy oslovení samotným příjmením.
 
 ## Čtyři polohy
@@ -111,3 +111,10 @@ Anglicky: „Hi Mark,“ / „Hello,“ → „Best,“ / „Best regards, Lenka
 ## Poučení z přepisů
 
 Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude napsal → co Lenka změnila → pravidlo).
+
+- **260930, Jan Žáček (student lcenglish, vykání, „Dobrý den, Honzo,“), odpověď na zprávu z JIP po operaci:**
+  - „35 cm je velký zásah“ → „Zní to jako velký zásah“. **Pravidlo:** zdravotní detaily, které člověk sdělil, neopakovat zpátky, mluvit o nich s odstupem („zní to jako…“).
+  - Vtip na konci (hádanka o hlavě sv. Václava + „;-)“) celý vyškrtnut. **Pravidlo:** ve zprávě o vážné nemoci žádný vtip ani navázání na newsletter; teplo a přání stačí.
+  - „Angličtina teď samozřejmě počká, ta nikam neuteče. Jednu frázi…“ → „Angličtina samozřejmě nikam neuteče, jednu frázi vám ale přece jen přibalím“. **Pravidlo:** kratší, dvě věty spojit; „teď počká“ zní jako odklad s očekáváním návratu.
+  - „to je tedy zpráva.“ → „to je tedy zpráva!“; „a to dokonce“ → „a dokonce“; „dobré lidi“ → „samé dobré lidi“; fráze „Get well soon!“ tučně.
+  - Podpis „Zdraví L.“ → „Zdraví a zdraví přeje L.“ **Pravidlo:** když adresát píše o nemoci nebo zdravotní komplikaci, podpis je vždy „Zdraví a zdraví přeje L.“ (jinak „Zdraví L.“).
