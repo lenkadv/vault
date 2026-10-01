@@ -116,7 +116,7 @@ Závěr: automatika funguje; Lenčina vzpomínka na ruční přidání = Pavel P
 - Shadowloop: neověřeno.
 - ~~Dnes každý kupující se musí přidat ručně~~ – NEPLATÍ, zápis jen trvá několik minut. Příčina nejasná: API jako celek funguje (student se založil), selhává jen zápis do kurzu/plánu – možná změna požadavků FreshLearnu na enrollment, omezení jen této funkce, nebo chyba ve fapipi. Rozhodne log fapipi z 1. 10. 2026 14:02 (Vítek).
 - Testovací záznamy ve FreshLearnu a Dripu zatím ponechány pro Vítka; faktura 426507 čeká na storno (Lenka rozhodne, jak kvůli číselné řadě).
-- Drobnost: děkovací stránka FAPI formuláře má překlep „čeká na zplacení“.
+- Překlep „čeká na zplacení“ na děkovací stránce opraven 261001 večer ve formuláři 10x ENGLISH i v 5 formulářích „TEST Produkt…“ (vzory); ostatní formuláře ho neměly.
 
 ## Technický postup pro příště (funguje, zopakovatelné)
 
