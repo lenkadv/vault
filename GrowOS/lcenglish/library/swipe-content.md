@@ -4,6 +4,20 @@ Zajímavé formáty, přístupy a inspirace od jiných tvůrců. Ne obsah k pře
 
 ---
 
+## 261001 — Laura Belgray (Talking Shrimp) — „Ugh, freeloaders“: poděkování čtenářům, co nic nekupují
+
+- **Co to je:** Newsletterový mail (30. 9. 2026). Čtenář jí napsal, že je „freeloader“, protože nikdy nic nekoupil. Laura odpovídá: kdo čte, je pro ni skoro stejně cenný jako kupující („Well, almost. No, totally.“), pozornost je všechno, a kdo odpovídá, je cenný dvojnásob. Vymezí se proti „bro marketérům“, kteří neplatící čtenáře shazují. Až na konci jemně: kdo chce přispět, může si předplatit její placený Substack.
+- **Proč to funguje:** Obrací vinu, kterou část seznamu tiše cítí („čtu a nic nekoupím“), v poděkování. Buduje vztah a zároveň nenásilně připomene nejlevnější způsob, jak přispět. Vyzývá k odpovědím, což zlepšuje doručitelnost.
+- **Jak použít pro lcenglish:** Jednou za čas mail pro Art for English / Drip seznam: „Díky, že čtete, i když nic nekupujete“, s prosbou o odpověď a jemným odkazem na nejlevnější nabídku (placený Substack / 10x English).
+- Odkaz: jen v mailu (laura@talkingshrimp.com), [Gmail – „Ugh, freeloaders“ (260930)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877754278952456148) — mail archivovat, ne mazat; web https://talkingshrimp.com
+
+## 261001 — Wilco (emarky) — „me vs me“: návrat po pauze + osobní značka v době AI
+
+- **Co to je:** Mail po dvou měsících mlčení (30. 9. 2026). Otevře osobní historkou (vypnul v reklamách celé Nizozemsko, aby jeho tvář neviděli známí), pak teze: až všechny firmy automatizují stejnými AI modely, odliší je lidská tvář, takže osobní značku stavět teď. Data z vlastních testů: na studený provoz vyhrávaly reklamy s jeho tváří, na retargeting značka. Přizná, že to sám dělat nechce. Konec: píše knihu o růstu firmy s AI a ptá se čtenářů na jednu otázku, na kterou by měla odpovědět.
+- **Proč to funguje:** Zranitelnost („nevím, jestli to chci“) + konkrétní čísla + otázka na čtenáře = mail po pauze, který neomlouvá mlčení, ale znovu otevírá rozhovor a zároveň sbírá podklady pro produkt.
+- **Jak použít pro lcenglish:** (1) Návratový mail po pauze bez omlouvání, s osobní historkou a otázkou na čtenáře. (2) Průzkum před tvorbou produktu: „Kdyby kurz odpověděl na jednu otázku, jaká by to byla?“ (10x English, DigiStart). (3) Argument „lidská tvář v době AI“ pro úvod DigiStartu.
+- Odkaz: jen v mailu (wilco@emarky.net), [Gmail – „me vs me“ (260930)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877768153630225564) — mail archivovat, ne mazat
+
 ## 260927 — Jon Schumacher — kompletní e-mailová sekvence k webináři (registrace → replay → prodej)
 
 - **Co to je:** Celá sekvence k bezplatnému tréninku „How to Use AI to Build a Webinar That Books High-Ticket Clients in 60 Minutes or Less“ (14.–26. 9. 2026), která končí prodejem šestitýdenního programu Webinar Launchpad 4.0. Lenka byla registrovaná, takže přišlo všechno.

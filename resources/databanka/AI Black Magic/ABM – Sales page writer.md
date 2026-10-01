@@ -25,3 +25,4 @@ Writes high-converting long-form sales pages using the Problem-Agitate-Solution 
 [Otevřít soubor](<file:///G:/Můj disk/Databanka AI/AI Black Magic 260927/04-jednoduche-skilly/sales-page-writer.md>)
 
 Poznámky z použití:
+- 261001 — porovnáno s ostatními nástroji k webům, shody a rozpory: [[prodejni-stranky-nastroje]]

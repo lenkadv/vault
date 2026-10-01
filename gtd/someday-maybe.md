@@ -36,6 +36,13 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
 
 Věci, kde ještě nepadla volba. Přehodnotit při weekly review.
 - **Téma bakalářky** — Vojtěch jako preferovaná volba, ale nejisté jestli vydá na BP; nové kandidátní téma se otevřelo z Male Gaze seminárky. Rozhodnutí posunuto na 261031 (čeká se na zpětnou vazbu vyučující). → [[decisions/260823-bakalarka-slepekure-pending]]
+- **Andrew Graham-Dixon, členství — stihnu to „konzumovat“?** (261001) Měsíční video pro členy, archiv dokumentů (Art of Russia, Philip Guston, The Man Who Ate Everything), Zoom přednášky (Courtauld). Výhodné je roční předplatné, studentské cca 20 GBP. https://www.andrewgrahamdixon.com/ · ukázka říjnového videa k Vermeerovi: https://www.andrewgrahamdixon.com/broadcast/october-2026-response-to-and-updates-to-vermeer-for-the-paperback-launch.html
+  - **Kritérium:** do konce října zkusit jeho YouTube kanál zdarma jako odpočinkové koukání místo náhodného večera (ne po japonštině, hlídat oči). Pokud se za říjen podívám aspoň na 2–3 věci → roční studentské předplatné (při té ceně se vyplatí i při občasném koukání). Pokud ne → zůstává tady.
+  - **Vyhodnotit při weekly review kolem 31. 10.** (po prvním měsíci semestru).
+- **Klavír — znovu začít hrát** (261001) Tonebase mám jako lifetime předplatné, nic se neplatí, jde jen o čas. Klavír je hned vedle gauče. Láká nová Guided Practice Track na Rachmaninovovo Preludium g moll op. 23 č. 5 (Dominic Cheli; cvičební plán po úsecích na pár týdnů, noty s prstoklady ke stažení): https://app.tonebase.co/piano/tracks/rachmaninoff-prelude-in-g-minor-op23-no5 · další tracky: https://app.tonebase.co/piano/tracks
+  - **Omezení:** hraní spotřebuje hodně času (těžko skončit); klavír je slyšet, takže jen když není doma Vítek, a nikdy po 21:00 (sousedé). Nedá se tedy zařadit do libovolného volného okénka.
+  - **Kritérium:** Vítek pravidelný rozvrh nemá, takže okna hledat průběžně: když je přes den (hlavně o víkendu) doma prázdno a je před 21:00, sednout ke klavíru — s budíkem, aby hraní nespolklo zbytek dne. První pokus o víkendu 3.–4. 10. (úkol v [[next-actions]] @doma). Myšlenka se teď často vrací — signál, že stojí za to okna aktivně hledat.
+  - **Vyhodnotit při weekly review kolem 31. 10.**, spolu s rytmem semestru.
 
 ## Ostatní
 

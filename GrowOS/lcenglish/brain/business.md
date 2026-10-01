@@ -57,7 +57,8 @@ větve podle úrovně.
   **confirmed** (Lenka, 2026-09-14)
 - Kurzová platforma: Freshlearn na `kurzy.lcenglish.cz` — **confirmed** (Lenka,
   2026-09-14)
-- Přes 1.200 studentů z 80 zemí — **checked**, viz výše
+- Přes 1.200 studentů z 80 zemí — **checked**, viz výše (souhrnně za všechny kurzy; u česko-anglických produktů jako 10x ENGLISH nepoužívat, viz lessons/261001)
+- Lenka je lektorka s **25letou praxí** — **confirmed** (Lenka, 2026-10-01)
 - Velikost e-mailového listu: [PLACEHOLDER: doplnit — rozhoduje o tom, jak
   velká je reálná dostupná evidence a jak naléhavý je list-growth lever]
 - Ad spend: [PLACEHOLDER: doplnit — pokud se v tomto kole neřeší platba za

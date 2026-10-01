@@ -31,6 +31,7 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 | 2 | 27. 9. – 28. 9. 8:40 | první denní, 19 vláken; 1× Vyžaduje pozornost (Kaufland tiket); 17 vláken `Svodka/smazat`, uchovat nic |
 | 3 | 28. 9. 8:40 – 29. 9. 10:30 | 47 vláken; 4× Vyžaduje pozornost (Kaufland storno, Česká pošta, Štěpánka Uličná Agendy OSA, ResearchGate); 33 vláken `Svodka/smazat`, uchovat nic |
 | 4 | 29. 9. 10:30 – 30. 9. 11:10 | 34 vláken; 4× Vyžaduje pozornost (Jan Žáček na JIP, PENTA MAS 4, italki potvrzeno, Knihobot watchdog); 28 vláken `Svodka/smazat`, uchovat nic |
+| 5 | 30. 9. 11:10 – 1. 10. 9:10 | 35 vláken; 4× Vyžaduje pozornost (KTF výkaz Opakované stipendium, Štěpánka Uličná k DigiStartu, Tandem 13. 10. potvrzen, Knihobot = jen košík); 27 vláken `Svodka/smazat` (Wilco a Laura Belgray archivovat — swipe bez webové verze), ICOM talk bez štítku |
 
 ## Související
 

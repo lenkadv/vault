@@ -23,3 +23,4 @@ soubor: "Databanka AI/AI Black Magic 260927/02-tutorialy/19 Stop Shipping AI Slo
 [Otevřít soubor](<file:///G:/Můj disk/Databanka AI/AI Black Magic 260927/02-tutorialy/19 Stop Shipping AI Slop (2026-06).html>)
 
 Poznámky z použití:
+- 261001 — porovnáno s ostatními nástroji k webům, shody a rozpory: [[prodejni-stranky-nastroje]]

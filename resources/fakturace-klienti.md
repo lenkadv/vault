@@ -67,12 +67,12 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ### Nový balíček (10 hodin, domluveno 260806) — faktura zatím nevystavená/nepotvrzená, doplnit až přijde
 
-| #   | Datum  | Poznámka                            |
-| --- | ------ | ------------------------------------ |
-| 11  | 260806 | ✓ — 1. hodina nového balíčku (10 h) |
-| 12  | 260910 | ✓ — 2. hodina nového balíčku (10 h) |
-| 13  | 260917 | no-show — Michal v Egyptě, zapomněl seanci zrušit |
-| 14  | 260924 | ✓ — 3. hodina nového balíčku (10 h) |
+| #   | Datum  | Poznámka                                                    |
+| --- | ------ | ----------------------------------------------------------- |
+| 11  | 260806 | ✓ — 1. hodina nového balíčku (10 h)                         |
+| 12  | 260910 | ✓ — 2. hodina nového balíčku (10 h)                         |
+| 13  | 260917 | no-show 3. hodina — Michal v Egyptě, zapomněl seanci zrušit |
+| 14  | 260924 | ✓ — 4. hodina nového balíčku (10 h)                         |
 
 ### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
 
@@ -124,7 +124,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 1   | 260904 | 1 h   | 12–13 h  |
 | 2   | 260918 | 1 h   | ✓        |
 | 3   | 260928 | 1 h   | 11–12 h  |
-| 4   | 260930 | 2 h   |          |
+| 4   | 260930 | 2 h   | 18–20 h  |
 
 ---
 

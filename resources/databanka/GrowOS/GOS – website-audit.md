@@ -27,3 +27,4 @@ soubor: "vault/GrowOS/.claude/skills/website-audit/SKILL.md"
 [Otevřít SKILL.md](<file:///G:/Můj disk/vault/GrowOS/.claude/skills/website-audit/SKILL.md>)
 
 Poznámky z použití:
+- 261001 — porovnáno s ostatními nástroji k webům, shody a rozpory: [[prodejni-stranky-nastroje]]

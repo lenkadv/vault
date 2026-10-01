@@ -27,3 +27,4 @@ soubor: "~/.claude/skills/impeccable-impeccable/SKILL.md"
 [Otevřít SKILL.md](<file:///C:/Users/Lenka/.claude/skills/impeccable-impeccable/SKILL.md>)
 
 Poznámky z použití:
+- 261001 — porovnáno s ostatními nástroji k webům, shody a rozpory: [[prodejni-stranky-nastroje]]

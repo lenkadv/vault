@@ -1,7 +1,7 @@
 # LCEnglish — nová prodejní stránka 10x ENGLISH
 
 **Oblast:** lcenglish
-**Stav:** aktivní — technicky hotovo a live, design se předělává
+**Stav:** aktivní — nová verze (D) live od 261001, další krok = propagace na studené publikum
 **Zahájeno:** 260915
 
 ---
@@ -32,14 +32,70 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 
 **Vzor pro vizuální směr:** https://pg.emailmarketingheroes.com/bottomless-emails — myšleno **typem vizuálu** (prostý systémový font, hutnější/textovější layout, méně kartiček a gridů, opakované CTA), ne že se má obsah/struktura kopírovat 1:1. Barvy zůstávají (korálová `oklch(58% 0.18 35)`, hořčicová `oklch(78% 0.135 78)`).
 
-- [ ] Vyzkoušet vizuální variantu 2 (hutnější, méně "designed") pro 10x-english #next-action #online
-  - Odstartovat z aktuální verze, případně dál zkoušet i **vyprávěcí/narativnější varianty** — Lenka chce více verzí na porovnání, ne jednu finální přestavbu
-  - Zachovat: barvy, existující text/copy, FAPI CTA odkaz, Shadowloop vysvětlovací sekci obsahově
-  - Publikovat znovu přes Leadpages "Publish to WordPress" (funguje, ne přes REST API)
+- [x] Vyzkoušet vizuální variantu 2 (hutnější, méně "designed") pro 10x-english ✅ 261001
+- [x] Porovnat varianty A/B/C ✅ 261001 (Lenka: A, víc C; návrh Clauda po auditu: hlavička C + tělo A, čeká na potvrzení)
+- [x] Rozhodnout garanci, první zdroj návštěvy a příběh ✅ 261001 (garance zatím žádná; cíl = studené publikum, ne Drip; příběh japonština → [[GrowOS/lcenglish/brain/stories/proc-vznikl-10x-english-a-shadowloop]])
+- [x] Zkontrolovat variantu D a schválit k nasazení ✅ 261001
+- [ ] Rozhodnout, odkud přivést studené publikum na novou stránku (ChatGPT Ads / Facebook, malý test viz Propagace níže) #next-action #online
+
+**261001 13:00 — varianta D NASAZENA na `lcenglish.cz/10x-english`.** Postup: obsah Leadpages stránky `Ytf0hlJeNc` (ta, která je napojená na WordPress) nahrazen HTML z D přes MCP `update_page` + `publish:true`; propsalo se hned, bez nového „Publish to WordPress“. Ověřeno: titulek, 5 tlačítek do FAPI (formulář načte 10x ENGLISH za 1 270 Kč), screenshot Shadowloopu nahraný jako asset přímo k `Ytf0hlJeNc`, náhled na počítači i mobilu. Poslední úpravy před nasazením: „LCEnglish“ bez mezery, Pissarro skrytý pod 860 px (mobil, tablet). **Záloha v1:** `GrowOS/lcenglish/library/web/10x-english-v1-260915.html` (vyrenderovaná stránka). Koncepty A/B/C smazány 261001 (v Leadpages „Recently Deleted“ 30 dní), D zůstává. Bullet „výměna pneumatik“ nahrazen skutečnými dialogy z kurzu: „Ztracené klíče, zmeškaný hovor, pracovní pohovor“ (Lost keys 1.9, A missed call 2.2, Job interview 3.10; seznam dialogů = složky `3 LCEnglish/Products/Shadowloop/10xE/SADA 1–10`). 13:10 přepsány body „schovaný text“ a „kde začít“ (Lenka doladila v D), doplněna kurzová platforma (postup den za dnem, návody k Shadowloopu, nahrávky ke stažení): nový odstavec pod Shadowloopem, položka v rámečku, FAQ. D a živá stránka mají teď stejný obsah; další úpravy dělat v D a pak přenést na `Ytf0hlJeNc`, nebo rovnou v živé.
+
+**Varianta D (261001)** – https://leadpages.com/edit/lqwinsnhr4ko7gdq3go6xl2q – úvod z C (Pissarro, popisek svisle), písmo a tělo z A (Lenka: rozvržení a písmo A vypadá líp). Postavená podle Bensonova auditu pro studené publikum: kdo je stránka pro + autorita (přes 1 200 studentů z 80 zemí) v úvodu, cena až po hodnotě, příběh „proč vznikl“ hned za problémem, 6 bulletů se zvědavostí místo výčtu, rozpis hodnoty v rámečku, závěr typu „budoucnost“ bez falešné naléhavosti, tlačítka „Ano, chci…“. Skutečný screenshot Shadowloopu místo maketu (asset na Leadpages). Bez garance (Lenka 261001: zatím žádná).
+- 12:42 Lenkina kontrola D → opraveno: tlačítko + cena zpět v úvodu (pro Lenku musí být nákup dostupný všude), tlačítek celkem 5 (úvod, za bullety, za referencemi, u ceny, závěr); „10x ENGLISH“ velkým písmem nad nadpisem; úvodní řádek „…a stejně se při rozhovoru zasekávají“ (ne 2× „překládat v hlavě“); „přes 1 200 studentů z 80 zemí“ pryč (platí pro všechny kurzy a 10x ENGLISH je česko-anglický, zavádějící) → „mluví šesti jazyky a sedmý, japonštinu, se právě učí“ (ověřeno v business.md, navazuje na příběh). Délka praxe zatím v podkladech není.
+- 12:46 Další kolo podle Lenky: v úvodu tlačítko bez ceny (cenu uvidí dál a ve FAPI), odkaz „Chci se podívat, jak to funguje ↓“; důkaz „lektorka s 25letou praxí · sama mluví šesti jazyky a sedmý, japonštinu, se učí“ (25 let → business.md); cena u tlačítek až od rámečku „Všechno, co dostanete“ níž; závěr přepsán jemněji: ne „shánění materiálů“ (Lenčina vlastní zkušenost), ale obecná zkušenost „nahrávek v učebnici je málo a nejsou připravené k tréninku“. Lenka text ještě projde detailně. Rozpis hodnoty je bez cen u jednotlivých položek, protože nemáme obhajitelné hodnoty.
+- **261001 13:30 — srovnání nástrojů a zhodnocení živé D:** [[resources/prodejni-stranky-nastroje]] (oddíl 4). Hlavní nálezy k rozhodnutí Lenky: na stránce neběží žádné měření (důležité před reklamou), Pissarro se načítá přímo z serveru Met (nahrát jako asset), chybí odpověď na námitku věku, chybí zachycení zájemců, kteří nekoupí hned, chybí meta popis.
+- [ ] Vybranou variantu dát místo v1 (Publish to WordPress, slug `10x-english`)
+
+### Vylepšení po srovnání nástrojů (plán 261001)
+
+Zdroj nálezů: [[resources/prodejni-stranky-nastroje]] (oddíl 4). Pořadí = pořadí, ve kterém to dává smysl dělat. Návrhy textů jsou níž, nic z toho zatím není na stránce.
+
+**A. Před spuštěním reklamy (rychlé, malé)**
+- [x] Pissarro nahrán jako asset k `Ytf0hlJeNc` (`ld5xuailoxuksx1dshyfr82n`), odkaz v HTML přepsán ✅ 261001
+- [x] Meta popis, OG titulek/popis a náhledový obrázek (Pissarro) doplněny přes `update_page_seo` ✅ 261001
+- [x] FAQ „Není už na to pozdě?“ doplněno (znění z návrhu níž) ✅ 261001
+- [x] (už bylo doplněno ve FAQ) Úroveň konkrétně: „mírně pokročilí až pokročilí“ → „sady od A1/2 po B2/C1“ (označení sad ve FreshLearnu). Lenka potvrdí, jestli takhle chce, a jestli A1/2 nekoliduje s „není pro vás, pokud začínáte úplně od nuly“.
+- [x] Pod rámeček s cenou doplněna věta „To je méně než 13 Kč za jeden dialog…“ ✅ 261001
+- [ ] Starou stránku `kurzy.lcenglish.cz/p/10xe` skrýt nebo přesměrovat na `lcenglish.cz/10x-english` (FreshLearn, Lenka v administraci).
+
+**B. Měření (podmínka pro reklamu)**
+- [ ] Až padne rozhodnutí o kanálu (viz #next-action výš): vložit měřicí kód toho kanálu (Meta pixel z Business Manageru, nebo kód ChatGPT Ads) do Leadpages (nastavení stránky → tracking codes) + událost nákupu ve FAPI (děkovací stránka). Kód a ID vytvoří Lenka ve svém účtu, vložení a ověření zvládne Claude.
+- [ ] Zapsat výchozí stav před reklamou: kolik prodejů 10x ENGLISH za poslední měsíce (FAPI), aby bylo s čím porovnat.
+
+**C. Později (po prvním testu reklamy)**
+- [ ] Zachycení zájemců, kteří nekoupí hned: ukázkový dialog zdarma za e-mail (Drip formulář + jeden dialog v Shadowloopu + krátká uvítací sekvence). Jako vlastní projekt, až bude vidět, kolik lidí ze studené reklamy odchází bez nákupu.
+- [ ] Garance: vrátit se k rozhodnutí (teď žádná), formulace v souladu s obchodními podmínkami FAPI.
+- [ ] Reference staršího studenta s výslovným souhlasem (k námitce věku), až bude k dispozici.
+
+**Návrhy textů (k Lenčině schválení)**
+- *Meta popis:* „100 krátkých rozhovorů ze skutečného života, nachystaných k tréninku v aplikaci. Pro všechny, kdo angličtinu roky studují, a stejně se při rozhovoru zasekávají.“
+- *FAQ – Není už na to pozdě?* „Není. Shadowing nestaví na biflování pravidel, ale na poslechu a opakování po mluvčím, a to funguje v každém věku. Tempo si určujete sami: pauzu mezi opakováními si prodloužíte, dialog zpomalíte na 80 % a frázi pustíte ve smyčce, kolikrát potřebujete.“ (Bez tvrzení o věku studentů, dokud nebude ověřená reference.)
+- *Ukotvení ceny:* „To je méně než 13 Kč za jeden dialog, i s nahrávkou, překladem a aplikací.“ (1 270 / 100 = 12,70 Kč.)
 
 260926 (weekly review): varianta 2 a další kroky se stránkou zůstávají aktivní — je potřeba rozhodně postoupit dál.
 
+**261001 — tři varianty jako neveřejné koncepty v Leadpages** (živá v1 beze změny, kromě titulku):
+- **A – hutná textová** (styl Bottomless Emails): systémové písmo, jeden sloupec, zvýraznění fixou, tlačítko 4× · editor https://leadpages.com/edit/fnlhpq1s1g52h3bqhdcui20d
+- **B – dopis od Lenky**: patkové písmo, list papíru, „Dobrý den, …“, odkazy ve větě, podpis „Zdraví L.“, P.S. · obsahuje **[PLACEHOLDER] na skutečnou historku** (nepovinné) · https://leadpages.com/edit/tz5m3je2823tan3lvfci3286
+- **C – galerie**: tmavý úvod s detailem Pissarra *Dvě mladé venkovanky* (Met, public domain, [objekt 437304](https://www.metmuseum.org/art/collection/search/437304)) obarveným do korálové, Instrument Serif, římské číslice, velká citace · https://leadpages.com/edit/ttjhd0dmcyktgmyqpeviwa14
+- Ve všech: opravený překlep „dořřeknete“, dlouhé pomlčky „—“ → „–“ (podle voice.md), přidána reference Petry Laluhové (souhlas se jménem), Romana a Ivana jen „Romana S.“/„Ivana L.“ (v proof/ souhlas se jménem nedoložen), Romanina citace doslovně.
+- Vodítko: tutoriál [[ABM – Websites That Don't Look Made by AI]] (6 znaků AI webu: moc šedých, jednovrstvé stíny, výchozí font, stále stejný layout, všude stejné zaoblení, stock obrázky; řešení mj. obrazy z muzejních public domain sbírek).
+- 261001 12:25 Lenka: líbí se A, ještě víc C (Pissarro do značky sedí). Romanina citace zkrácena ve všech variantách (pryč „od listopadu 2019… 48 let“, zastaralé). V C popisek obrazu zmenšen, svisle u pravého okraje, poloprůhledný.
+- **Benson audit A vs. C (261001, [[resources/postupy/prodejni-stranky]]):** 6 z 9 bodů stejných (stejný text). A vyhrává v bodě 1 (layout, každý prvek vede ke koupi) a 9 (4 tlačítka, popisky blíž přínosu). C má výhodu u teplého publika (obraz = poznávací znak Art for English). Obě: chybí autorita (kdo mluví), příběh, stack s hodnotami, garance; cena je hned nahoře před hodnotou; bullety = vlastnosti. Doporučení: hlavička C + hutné tělo A + doplnit autoritu, garanci, fascinace. Otevřené otázky na Lenku: garance (FAPI podmínky)? Odkud půjde návštěva první (Drip, nebo reklama)? Skutečný příběh?
+- **Titulek živé stránky opraven** (bylo „10x ENGLISH — prototyp prodejní stránky“) → „10x ENGLISH – mluvte a rozumějte anglicky bez překládání v hlavě | LCEnglish“, přes Leadpages MCP `edit_page` s `publish:true`; na lcenglish.cz se propsalo hned, bez nového „Publish to WordPress“.
+
 ---
+
+## Kontrola FreshLearn (261001)
+
+Kurz 157254 ve FreshLearnu: Úvod (2 lekce: „Jak používat materiály z kurzu: Stínování“ s PDF `10xE Stínování.pdf` + tabulka `10x English Steps 1 - 5.xlsx` a odkaz goo.gl na online verzi; „Naučte se mluvit... s Shadowloop“) + **Sada 1–10 s úrovněmi A1/2 → B2/C1**, každá 10 dialogů (EN text, CZ překlad, nahrávka, odkaz na Shadowloop) + lekce „Ke stažení“ (PDF sady, `nahravky-80.zip`, `nahravky-100.zip`). Vše ze stránky sedí, kromě „doživotního přístupu“ (nastavuje se ve FAPI/plánu 22290, neověřeno).
+Nálezy k řešení:
+- Stará stránka `kurzy.lcenglish.cz/p/10xe` je pořád veřejná (starý text, „od začátečníků“, „vyměníme pneumatiky“, tlačítko „Přihlaste se do kurzu“).
+- Odkaz `goo.gl/5z37cQ` v Úvodu zatím funguje, ale goo.gl je Googlem ukončená zkracovačka → nahradit přímým odkazem na Google Sheet.
+- Na prodejní stránce lze uvést konkrétní úrovně A1/2 → B2/C1 (teď „mírně pokročilí až pokročilí“).
+- FreshLearn má: API klíč (Zapier), integrace Zapier/Slack/MailChimp/Zoom/HubSpot, Reports, Email Sequences, Automations, Coupons, Affiliates, Course AI (preview).
+
+**Vyřešeno 261001 13:30:** stará FreshLearn stránka (Web → Pages → „10x ENGLISH“, 862 zobrazení; `kurzy.lcenglish.cz/p/10xe` i `/10xe`) přesměrována na `lcenglish.cz/10x-english` přes Settings → Custom Script (head): meta refresh + `location.replace`; obsah stránky nesmazán (vrácení = smazat skript). Odkaz goo.gl v Úvodu nahrazen přímým odkazem na Google Sheet (ověřeno po uložení). Na prodejní stránce do FAQ „Jaká úroveň“ doplněno „(Pokud znáte evropské úrovně: sady jdou od A1/2 po B2/C1.)“. API klíč FreshLearnu: Lenka ho uloží do `GrowOS/lcenglish/.env` jako `FRESHLEARN_API_KEY`.
 
 ## Technický postup pro příště (funguje, zopakovatelné)
 

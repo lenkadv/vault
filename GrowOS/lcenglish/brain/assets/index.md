@@ -38,6 +38,8 @@ Vše z Wikimedia Commons / muzejních databází, public domain. Používat jako
 - `photos/2026-04-13-fb-pivot-send.jpg` — screenshot/foto k odeslání pivot postu na FB (duben 2026).
 - `photos/2026-04-28-ig-vermeer-reel-cover.jpg` — cover pro IG Reel k epizodě Vermeer.
 
+- `shadowloop/` — snímky obrazovky aplikace Shadowloop vytažené 261001 ze `3 LCEnglish/Products/Shadowloop/SHADOWLOOP návod.pdf` (návod z 05/2026). Hlavní: `shadowloop-prehravani-fraze.jpeg` (přehrávání fráze *Many people speak English* + překlad, posuvník, přepínače Anglicky/Česky, pauza 1,5×; použito na prodejní stránce 10x ENGLISH, varianta D). Další: `navod-p1/p2` přihlášení a seznam balíčků, `navod-p4-0` tlačítko smyčky, `navod-p5/p6` přidání na plochu telefonu.
+
 ---
 
 _Nic citlivého sem nepatří: žádná hesla, klíče, seznamy zákazníků, faktury._

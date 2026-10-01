@@ -23,11 +23,13 @@ sort by due
 
 - [ ] Připomenout Davidu Musilovi HackedList (report pro PENTU) — domluveno na konzultaci 28. 9.: ozvat se po 12. 10., až bude mít volněji → [[penta-hacked-list-report]] 📅 2026-10-13
 
+- [ ] KTF — výkaz pro Opakované stipendium: průběžně zapisovat hodiny, na konci měsíce potvrdit „Souhlasím“ na řádku 41 (pak list zamkne pověřený pracovník). Odkaz na tabulku a manuál jen v mailu: [Gmail – „Upozornění: Vyplnění výkazu pro Opakované stipendium“ (261001)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877821694999715082) 📅 2026-10-30
+
 - [ ] Metricool: předplatné PRO 5 značek (120 EUR/rok, karta ****4219) se automaticky obnoví **22. 11. 2026**. Rozhodnout: ponechat, nebo zrušit / hledat alternativu (Blotato apod. viz [[someday-maybe]]). Podklad: vyzkoušený MCP konektor a jestli se sítím reálně věnujeme → [[VL – metricool]]. Zrušit jde v https://app.metricool.com/user-settings/plan 📅 2026-11-15
 
 ## Čeká na někoho
 
-- [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B), viz [[digistart]] 📅 2026-10-05
+- [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B); 30. 9. večer první reakce: „nejraději bych je zkombinovala“ (Claude hlavní, na začátku projít i ChatGPT), ještě pročte, viz [[digistart]] 📅 2026-10-05
 - [ ] Čekám na FuTru (info@funkcnitrenink.cz) — potvrzení volného místa Po + St 18:00 od října + variabilní symbol (mail odeslán 29. 9.) → pak zaplatit školné, viz [[hubnuti-pohyb]] 📅 2026-10-02
 
 - [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09

@@ -49,6 +49,7 @@ sort by due
 ---
 
 ## @online
+- [ ] Až budu večer bezcílně vysedávat u počítače: místo toho pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix) — test do 31. 10., jestli se vyplatí roční studentské členství, viz [[someday-maybe]] 📅 2026-10-31
 
 - [ ] Leadpages Community: přihlásit se účtem Leadpages a 10 min projít místnosti Teardowns (jak se rozebírají prodejní stránky) a Industry News (výběr marketingových zpráv) → pak rozhodnout, jestli tam chodit — https://leadpages.com/community (zachyceno 260930 ze svodky č. 4)
 - [ ] PENTA a Tomáš Popadič — nevybrané konzultace: (1) projít a upravit rezervační kalendář, aby nabízel jen časy, kdy se reálně můžu potkat; (2) pak poslat mail s odkazem na kalendář Janu Mathovi (vybrána 1 h z plánovaných 3–5), Martinu Blažkovi (2 h ze 3–5) a Tomáši Popadičovi (předplaceno 5 h, zbývají 2 — pozor, dříve domluveno „necháváme na přípravu na anglické vystoupení“). Stav hodin → [[fakturace-klienti]]. Zatím jen zachyceno (260929)
@@ -82,6 +83,7 @@ sort by path
 ```
 
 ## @doma
+- [ ] Klavír — první pokus: až o víkendu nebude Vítek doma (a před 21:00), sednout ke klavíru, budík na pevný konec; zkusit třeba Rachmaninovo Preludium g moll na Tonebase https://app.tonebase.co/piano/tracks/rachmaninoff-prelude-in-g-minor-op23-no5 — viz [[someday-maybe]] 📅 2026-10-04
 
 ```tasks
 not done

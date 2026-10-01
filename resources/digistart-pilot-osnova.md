@@ -139,7 +139,7 @@ Struktura každého setkání: výklad a ukázka postupu (do 45 min) → společ
 
 ### Týden 5: Vaše webová stránka a vaše knihovna postupů
 *Výstup: spuštěná stránka hlavní nabídky + dokončená knihovna postupů.* Hlavní výstup kurzu.
-- 5.1 Z čeho se skládá stránka, která prodává (text vychází z týdne 2 a 3).
+- 5.1 Z čeho se skládá stránka, která prodává (text vychází z týdne 2 a 3). Podklad: [[navod-prodejni-stranka-s-ai]] (261001, obecná verze našeho postupu).
 - 5.2 Ukázka: text stránky s AI, pak stavba v bezplatném nástroji. *(nástroj vybrat)*
 - 5.3 Společná práce: text a stavba vaší stránky.
 - 5.4 Knihovna postupů: projít, co vzniklo, doplnit, co chybí, a jak ji dál vylepšovat.
@@ -189,3 +189,4 @@ Kurz po vzoru GrowOS, ale s tím, co GrowOS a kurzu Jona Bensona chybí: **ukáz
 - Formát SKILL.md je otevřený standard (agentskills.io, prosinec 2025) a podle dostupných zdrojů ho podporuje i ChatGPT ([přehled](https://skillselion.com/guides/what-are-chatgpt-skills), [OpenAI Academy](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/skills)). Přenositelnost do ChatGPT prakticky ověřit, než se slíbí.
 - Claude sám negeneruje obrázky: fotky a grafika (týden 4) by šly přes konektor Canva nebo jiný nástroj.
 - 260930: rozepsáno pro Štěpánku jako záložka „Varianta B: hotový AI systém“ ve sdíleném dokumentu (https://claude.ai/code/artifact/6a91f9f5-24a1-48f8-a367-7d639e50dcfa): balíček = profil podnikání, hlasový profil, uložené postupy (plán týdne, e-mail, zápis ze schůzky, zakázky a fakturace, příspěvky, web) + mapa; vstupní kontrola „co už účastnice má“, aby se nové věci nelepily na staré; ChatGPT až po ověření. **Štěpánka = první testovací účastnice** (má placený Claude i ChatGPT): Lenka připraví zkušební balíček se 2–3 postupy.
+- **261001 — postup „prodejní stránka“ připravený a vyzkoušený, čeká na pilot u Štěpánky.** Ověřený na stránce 10x ENGLISH (lcenglish.cz/10x-english). Existuje ve dvou podobách: náš interní postup [[resources/postupy/prodejni-stranky]] a obecný návod k předání [[navod-prodejni-stranka-s-ai]] (podklad k týdnu 5). **Do balíčku DigiStartu přijde jako uložený postup „web“** ve dvou vrstvách: (1) skill pro AI (z obecného návodu přepsaný na instrukce pro AI: načte profil podnikání a hlasový profil, doptá se, napíše text, zkontroluje 9 body, provede vzhledem a technickou kontrolou), (2) návod jako podklad k lekci pro účastnici. Skill zatím **nevytvářet**; až se bude chystat zkušební balíček pro Štěpánku, je to kandidát na jeden z 2–3 postupů. Vyzkoušet v Claudu i v ChatGPT (přenositelnost SKILL.md do ChatGPT ověřit, viz výše).

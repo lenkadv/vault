@@ -4,6 +4,24 @@ filters:
     - note.databanka == true
 views:
   - type: table
+    name: Vše podle zdroje
+    groupBy:
+      property: zdroj
+      direction: ASC
+    order:
+      - file.name
+      - typ
+      - nainstalovano
+      - stav
+      - verdikt
+      - pouzij_kdyz
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
+  - type: table
     name: Nainstalované nástroje
     filters:
       and:
@@ -24,6 +42,20 @@ views:
       file.name: 260
       note.pouzij_kdyz: 420
       note.spousteni: 260
+  - type: table
+    name: Kurzy a tutoriály
+    filters:
+      and:
+        - note.typ == "tutoriál"
+    order:
+      - file.name
+      - zdroj
+      - pouzij_kdyz
+      - stav
+      - pro
+    columnSize:
+      file.name: 300
+      note.pouzij_kdyz: 420
   - type: table
     name: Používám
     filters:
