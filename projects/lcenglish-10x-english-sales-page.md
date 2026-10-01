@@ -115,7 +115,7 @@ Závěr: automatika funguje; Lenčina vzpomínka na ruční přidání = Pavel P
 - ~~do kurzu NEZAPSÁN~~ Plán 22290 „One Time“ 1 270 Kč existuje a je aktivní. Fapipi chybu nehlásí (vrací 200), takže FAPI selhání nevidí.
 - Shadowloop: neověřeno.
 - ~~Dnes každý kupující se musí přidat ručně~~ – NEPLATÍ, zápis jen trvá několik minut. Příčina nejasná: API jako celek funguje (student se založil), selhává jen zápis do kurzu/plánu – možná změna požadavků FreshLearnu na enrollment, omezení jen této funkce, nebo chyba ve fapipi. Rozhodne log fapipi z 1. 10. 2026 14:02 (Vítek).
-- Testovací záznamy ve FreshLearnu a Dripu zatím ponechány pro Vítka; faktura 426507 čeká na storno (Lenka rozhodne, jak kvůli číselné řadě).
+- Testovací záznamy 10x (Drip, FreshLearn, Firebase, FAPI faktura 426507) smazány Lenkou 261001 večer po opravě dvojího zápisu; Drip, Firebase a FAPI ověřeno, FreshLearn potvrdila Lenka.
 - Překlep „čeká na zplacení“ na děkovací stránce opraven 261001 večer ve formuláři 10x ENGLISH i v 5 formulářích „TEST Produkt…“ (vzory); ostatní formuláře ho neměly.
 
 ## Technický postup pro příště (funguje, zopakovatelné)
