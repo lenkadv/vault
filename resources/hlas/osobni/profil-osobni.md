@@ -118,3 +118,6 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
   - „Angličtina teď samozřejmě počká, ta nikam neuteče. Jednu frázi…“ → „Angličtina samozřejmě nikam neuteče, jednu frázi vám ale přece jen přibalím“. **Pravidlo:** kratší, dvě věty spojit; „teď počká“ zní jako odklad s očekáváním návratu.
   - „to je tedy zpráva.“ → „to je tedy zpráva!“; „a to dokonce“ → „a dokonce“; „dobré lidi“ → „samé dobré lidi“; fráze „Get well soon!“ tučně.
   - Podpis „Zdraví L.“ → „Zdraví a zdraví přeje L.“ **Pravidlo:** když adresát píše o nemoci nebo zdravotní komplikaci, podpis je vždy „Zdraví a zdraví přeje L.“ (jinak „Zdraví L.“).
+- **261001, Vítek (syn, technická prosba na Signalu – fapipi/Drip):**
+  - Vyškrtnuto: předmět, oslovení „Ahoj Vítku,“, podpis „Díky! L.“, úvodní „dneska… a všechno funguje – jen…“ i Claudův tip na příčinu („Napadá mě, jestli…“).
+  - **Pravidlo:** technická zpráva Vítkovi na Signalu = bez oslovení a podpisu, rovnou věcně: co jsem testovala → co je špatně (s čísly a identifikátory) → prosba „Mohl by ses podívat…?“ → co jsem nechala k testování. Domněnky o příčině nepsat, to je jeho práce.
