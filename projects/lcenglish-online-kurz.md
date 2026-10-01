@@ -66,7 +66,10 @@ Shadowloop lead magnet jako vstupní bod zamítnut — viz [[GrowOS/lcenglish/re
 - [ ] WordPress — landing page + prodejní stránka se slevou
 - [ ] Drip — email sekvence před i po webináři
 - [ ] Automatehero — deadline script
-- [ ] FAPI — zprovoznit akce (sale URL → Shadowloop přiřazení balíčku) #next-action #online
+- [x] FAPI — zprovoznit akce (sale URL → Shadowloop přiřazení balíčku) ✅ 261001
+  - Ve fapipi segment `hele` už byl (Drip tag „Purchased: HELE“, Shadowloop `HELE`, FreshLearn kurz 157241 / plán 22289). Chybělo napojení ve FAPI: formulář HELE (150336) → Akce → „Zaplacení objednávky → spustit programový skript“ → `https://fapipi.lenkadvorakova.cz/handle-invoice/hele`.
+  - **EU consent u nákupu (261001):** v Dripu (účet LCE) tři aktivní automatizace „admin: EU consent – nákup HELE / 10x ENGLISH / Irregular“: spouštěč „Applied a tag“ `Purchased: …` → `EU_consent_how` = název tagu, `EU_consent_when` = `{{ now | in_time_zone: subscriber.time_zone }}` (stejně jako freebie automatizace; bez podmínky, přepíše se čerstvější hodnota). **Nový produkt s fapipi = zduplikovat jednu z nich** (Drip → Workflows → … → Duplicate), přepsat název, tag ve spouštěči a hodnotu `EU_consent_how`, zapnout. Ověřeno živě na testovacím odběrateli.
+  - Živý test 261001 (platba převodem, ručně „zaplaceno“ se spuštěním akcí): FAPI → fapipi 200 OK, Drip tag, Shadowloop (`preregistered` s `premiumDecks`) i zápis do FreshLearnu ✅. Dvojí zápis nákupu do Dripu (lifetime value 2×) je chyba ve fapipi, řeší se s Vítkem na příkladu 10x → [[waiting-for]].
 
 ### Fáze 5 — Reklamy
 
