@@ -31,7 +31,6 @@ sort by due
 
 - [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B); 30. 9. večer první reakce: „nejraději bych je zkombinovala“ (Claude hlavní, na začátku projít i ChatGPT), ještě pročte, viz [[digistart]] 📅 2026-10-05
 - [ ] Čekám na FuTru (info@funkcnitrenink.cz) — potvrzení volného místa Po + St 18:00 od října + variabilní symbol (mail odeslán 29. 9.) → pak zaplatit školné, viz [[hubnuti-pohyb]] 📅 2026-10-02
-- [ ] Čekám na Vítka ohledně dvojího zápisu nákupu do Dripu (testovací nákup 10x ENGLISH 1. 10. 2026, objednávka 420260502 / faktura 426507, lnk.dvorakova+test10x@gmail.com má lifetime value 2 540 Kč místo 1 270 Kč; zpráva na Signalu 1. 10.). Testovací student ve FreshLearnu + odběratel v Dripu zatím NEMAZAT, až Vítek dá vědět. Faktura 426507 čeká na storno. Viz [[lcenglish-10x-english-sales-page]] 📅 2026-10-08
 
 - [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09
 
