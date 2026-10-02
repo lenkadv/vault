@@ -69,6 +69,8 @@ AI bez vedení dělá pořád stejnou stránku: šedé kartičky ve třech sloup
 
 ## Krok 6: Před spuštěním zkontrolujte techniku
 
+(Doplněno 261002: otevřete platební formulář a podívejte se, **které způsoby platby nabízí**, aby text neslibovala „ihned po zaplacení“ tam, kde je jen převod. Reference musí patřit k produktu, který stránka prodává. Titulek a popis checkout stránky nesmí zůstat interní, nastavte „noindex“. Pokud někdo vaši stránku upravuje v editoru, nezapisujte do ní zvenčí současně.)
+
 - [ ] Obrázky nahrané přímo do vašeho nástroje (odkaz na cizí web se časem rozbije).
 - [ ] Každé tlačítko vede na správný objednávkový formulář se správnou cenou.
 - [ ] Stránka vypadá dobře na mobilu (otevřete ji v telefonu).

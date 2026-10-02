@@ -4,6 +4,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 
 ---
 
+## 2026-10-02
+**Reference na prodejních stránkách: „křestní jméno + iniciála příjmení“ je v pořádku** (Lenka 261002, upřesňuje pravidlo z 260927 „jen křestní jméno nebo anonymně“). Příklad: Kamila B., Vít B., Daniela T., Romana S. Kde příjmení neznáme (Hanka), jen křestní jméno. Citace vždy celé věty, bez hranatých závorek s výpustkami (co se vypouští, vypustí se celé věty). Podpis nemusí uvádět, ze kterého kurzu reference je (pokud je celkově o Lenčině způsobu učení).
+
 ## 2026-09-28
 **Art for English i na Substacku — jako zrcadlo** (Lenka 260928, mění dřívější „Substack pro AfE zatím ne“). Drip zůstává hlavní kanál (list, prodej, Liquid personalizace). Na Substack jde stejná epizoda s drobnými úpravami (bez Liquid kódů, oslovení v plurálu). Důvod: Substack je u tadylenka jediný kanál s organickým růstem a publika se překrývají (umění) → vzájemné doporučení tadylenka ↔ AfE. Lead magnet / cesta ze Substacku do Dripu se nabalí postupně, teď nekomplikovat.
 

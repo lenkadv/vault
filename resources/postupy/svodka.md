@@ -41,6 +41,7 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 |---|---|
 | **Ethan Mollick (One Useful Thing)** | Nejdůležitější zdroj. Souhrn **o něco obsáhlejší** než u ostatních (hlavní teze, co zkoušel, 1–2 odstavce) — ne podrobný rozbor. Lenka si pak pustí audio na Substacku nebo přečte mail. (Rozbor z 260927 byl skoro tak dlouhý jako originál — byl to Lenčin brainstorming, ne standard.) |
 | **Substacky obecně** | Číst **celý text** (je v mailu), ne jen titulek. Ke každému **2–3 věty z obsahu** (260928): hlavní teze + konkrétní zjištění/čísla/argumenty, aby Lenka nemusela otevírat zdroj. Nepsat obecné „píše o X“ — napsat, *co* o tom píše. Když je jádro za placenou zdí nebo mail obsahuje jen titulky (např. Artnet PRO), říct to výslovně. |
+| **The Rest Is History (newsletter)** | Od 261002: shrnutí **podrobnější** (téma čísla, hlavní teze, jména doporučených knih a autorů). **Maily neodstraňovat**, štítek `Svodka/uchovat` (Lenka je archivuje, jsou v nich tipy na literaturu). Přímý odkaz na webovou verzi (beehiiv) uložit. Doporučené knihy (název — autor — kdo doporučil, jeden odkaz na zdroj) zapsat do [[omnibus]] sekce „Knihy k zapsání do Notion“; do Notionu je zapíše dávka při weekly review (viz níže). |
 | **Danny Iny (Mirasee)** | Lenka jeho práci obdivuje, ale maily nečte (je jich hodně). Shrnout, co v týdnu/dni psal — nechce ho ztratit z pozornosti. |
 | **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. Lenka ten přechod považuje za geniální (dělá ho v každém mailu) a sleduje ho kvůli vlastní práci; zatím se nic neukládá, Kennedyho celý kurz Lenka má (260929). |
 | **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. Lenka ho chce se mnou prozkoumat pro vlastní využití → [[omnibus]] (260929). |
@@ -80,6 +81,10 @@ Filtry pro Lenku: `label:svodka-uchovat` · `label:svodka-smazat`.
 ## Přehledové newslettery (Artnet apod.) — hlavní článek otevřít
 
 Když newsletter obsahuje jen titulky s odkazy (Artnet Daily apod.), **hlavní propagovaný článek otevřít a shrnout z webu**, pokud není za placenou zdí (260928). Odkazy jsou přesměrovací — WebFetch na news.artnet.com vrací 403, funguje vestavěný prohlížeč (`navigate` + `get_page_text`). Placený článek (Artnet PRO) jen označit. **Rozsah jako u Substacku: 2–3 věty o hlavním článku + max. jedna věta o zbytku přehledu** — shrnutí Artnetu 260928 (dva odstavce s cenami všech položek) bylo zbytečně podrobné.
+
+## Knihy a literatura ze svodky → dávkově do Notionu
+
+Dohodnuto 261002 (úspora, jedno načtení Notionu týdně místo při každé svodce): kdykoli ve svodce nebo jinde narazím na doporučení knihy, nezapisuji do Notionu hned. Zapíšu jednu řádku `Název — autor — kdo doporučil` do [[omnibus]] sekce „Knihy k zapsání do Notion“, u zdroje jednou přímý odkaz. Při weekly review (krok Note Inbox review) se celá fronta zapíše do Notion „📖 Book Recommendations“ najednou: jedno načtení schématu, jeden dotaz na existující tituly (duplicity jen označit a ukázat Lence, neodhadovat podle názvu), jedna dávka. Priority „⭐ check it out“, Tags podle obsahu, Why = zdroj + datum + kdo doporučil; přímý odkaz do sloupce **Zdroj** (URL, přidán 261002). Zapsané řádky z omnibusu smazat. Zapisují se jen moderní knihy (odborná a populárně naučná literatura), primární prameny a klasiky (Plútarchos, Voltaire, Rousseau apod.) ne (Lenka 261002).
 
 ## Terminologie: smazat ≠ odhlásit
 

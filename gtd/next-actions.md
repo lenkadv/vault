@@ -49,6 +49,7 @@ sort by due
 ---
 
 ## @online
+- [ ] FreshLearn: podpora (1. 10.) potvrdila prodloužení do 15. 2. 2027, ale obnovení bude za 449 USD (ne 349). Koncept odpovědi s žádostí o ponechání 349 USD je v Gmailu v konceptech (vlákno „Problem with payment“) — přečíst, případně upravit a odeslat. Next Billing Date 15. 2. 2027 ověřeno Lenkou 261002. Když 349 USD neprojde, v lednu 2027 rozhodnout, jestli za 449 USD (cca 9 660 Kč) obnovovat, nebo hledat alternativu. Vlákno: [Gmail – „Problem with payment“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1847177395398680615)
 - [ ] Až budu večer bezcílně vysedávat u počítače: místo toho pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix) — test do 31. 10., jestli se vyplatí roční studentské členství, viz [[someday-maybe]] 📅 2026-10-31
 
 - [ ] Leadpages Community: přihlásit se účtem Leadpages a 10 min projít místnosti Teardowns (jak se rozebírají prodejní stránky) a Industry News (výběr marketingových zpráv) → pak rozhodnout, jestli tam chodit — https://leadpages.com/community (zachyceno 260930 ze svodky č. 4)

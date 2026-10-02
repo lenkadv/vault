@@ -34,6 +34,8 @@ Vše z Wikimedia Commons / muzejních databází, public domain. Používat jako
 - `paintings/zhang-zeduan-along-the-river-qingming-12th-c.jpg` — Zhang Zeduan, Podél řeky za svátku Čching-ming. Epizoda #21 (curriculum).
 - `paintings/af-klint-ten-largest-no7-1907.jpg` — Hilma af Klint, Deset největších č. 7. Nepřiřazená epizoda (viz curriculum, otevřené body).
 
+- `../../library/landing-pages/irregular/steen-original.jpg` — Jan Steen, The Dissolute Household (kolem 1663–64), The Met, public domain ([objekt 437747](https://www.metmuseum.org/art/collection/search/437747)). Hero obraz prodejní stránky Nepravidelná slovesa za 14 dní (261002); `steen-hero.jpg` vedle je zesvětlená šedá verze nahraná do Leadpages.
+
 ## Photos
 - `photos/2026-04-13-fb-pivot-send.jpg` — screenshot/foto k odeslání pivot postu na FB (duben 2026).
 - `photos/2026-04-28-ig-vermeer-reel-cover.jpg` — cover pro IG Reel k epizodě Vermeer.

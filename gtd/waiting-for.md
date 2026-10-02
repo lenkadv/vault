@@ -21,6 +21,7 @@ sort by due
 - [ ] Vídeň do 11. 10.? Albertina 250 let + Belvedere (Lampi) končí 11. 10. — rozhodnout, jestli jet; Borghese (Řím) asi ne. Viz [[mista-k-navstiveni]] 📅 2026-10-04
 - [ ] Getty přednáška „Édouard Manet, Jeanne Demarsy, and the Art of Parisian Chic“ (Justine De Young, 27. 9. v noci — nestihla, spala): zkontrolovat, jestli je záznam na YouTube kanálu Getty Museum, případně pustit 📅 2026-10-04
 
+
 - [ ] Připomenout Davidu Musilovi HackedList (report pro PENTU) — domluveno na konzultaci 28. 9.: ozvat se po 12. 10., až bude mít volněji → [[penta-hacked-list-report]] 📅 2026-10-13
 
 - [ ] KTF — výkaz pro Opakované stipendium: průběžně zapisovat hodiny, na konci měsíce potvrdit „Souhlasím“ na řádku 41 (pak list zamkne pověřený pracovník). Odkaz na tabulku a manuál jen v mailu: [Gmail – „Upozornění: Vyplnění výkazu pro Opakované stipendium“ (261001)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877821694999715082) 📅 2026-10-30
@@ -29,10 +30,12 @@ sort by due
 
 ## Čeká na někoho
 
+- [ ] Čekám na Míšu Malou (Vox kurzy) — upřesnění poptávky na workshop interkulturního managementu (rozsah, počet účastníků a jejich pozice, termín, cenové podmínky, 3–4 prioritní témata); odpověď 2. 10.: „Dobře, dám vědět“. Zadání od klienta je široké manažerské školení, americká specifika jsou jen jeden aspekt; podle upřesnění rozhodnout, jestli ho vzít. [Gmail – „Poptávka školení“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877926926146960247) 📅 2026-10-09
 - [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B); 30. 9. večer první reakce: „nejraději bych je zkombinovala“ (Claude hlavní, na začátku projít i ChatGPT), ještě pročte, viz [[digistart]] 📅 2026-10-05
+- [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby ke konceptu webu GNOSTIKY o auditech (mail s odkazem a PDF odeslán 261002, heslo zvlášť): žlutá místa (reference a jména, cena a nezávazná konzultace), tón, kontakt, originál loga → [[gnostika-web-audit]] 📅 2026-10-07
 - [ ] Čekám na FuTru (info@funkcnitrenink.cz) — potvrzení volného místa Po + St 18:00 od října + variabilní symbol (mail odeslán 29. 9.) → pak zaplatit školné, viz [[hubnuti-pohyb]] 📅 2026-10-02
 
-- [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. Videa o novinkách slíbil „příští týden“. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09
+- [ ] Danny Iny (Mirasee) — otevření registrace na AI Strategist (26.–28. 10. 2026, živě na Zoomu, 16–22 h našeho času, záznamy obvykle nedává); Lenka chce jít → hned po otevření se zaregistrovat. První video v úterý 6. 10. (mail 1. 10.), registrační údaje pošle později. Mail: [Gmail – „Save the date: Oct 26-28“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877586457242552965) 📅 2026-10-09
 
 - [ ] IKEA taška u Alexe — buď ji vyzvedne Vítek, až se s Alexem během týdne uvidí, nebo ji Lenka vezme přímo od Alexe (možná společná návštěva u rodičů příští týden). Připomenuto Vítkovi 2026-09-14; 260926 stále nevrácena. 📅 2026-10-04
 - [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). Lenka připomněla 260926. 📅 2026-10-03
@@ -40,4 +43,3 @@ sort by due
 - [ ] Gábina — oběd v Místě: Lenka jí napsala 260926, ať se ozve, až bude mít cestu do centra nebo do Dejvic. Čeká se, až se ozve. 📅 2026-10-10
 - [ ] Kaufland Marketplace — objednávka MQKDW85 (kolečka kufru, 363,67 Kč): 29. 9. Kaufland objednávku stornoval a zahájil vrácení na Google Pay, prodejce WunderWare taky napsal, že vrátí celou částku. Zásilka na poště v Kafkově (29. 9. Lenka ověřila osobně) není. → Ověřit, že peníze skutečně přišly; když ne → zákaznický servis Kauflandu (tiket 11-MPYRAA58P64). 📅 2026-10-13
 - [ ] Anthropic: zkontrolovat fakturu Claude Pro z 261006 (č. QRVMHXKX-0006) — v „Bill to" nesmí být CZ VAT, má tam být DPH. Pokud DIČ zůstane → odpovědět do vlákna podpory a požádat o eskalaci na člověka. 📅 2026-10-07
-- [ ] FreshLearn podpora (Teja, support@freshlearn.com) — písemné potvrzení, že se prodloužení o 3,5 měsíce (slíbeno 30. 10. 2025 za rozdíl 100 USD) propíše do účtu (teď Next Billing Date 28. 10. 2026, mělo by být kolem 12. 2. 2027) a že obnovení bude za **349 USD, ne 449 USD** (mail odeslán 1. 10. 2026). Bez odpovědi → připomenout; **nejpozději před 28. 10. 2026** vyřešit, jinak stáhnou 449 USD (cca 9 660 Kč). Vlákno: [Gmail – „Problem with payment“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1847177395398680615); stav účtu: app.freshlearn.com → Settings → Admin Settings → Billing Details 📅 2026-10-08

@@ -156,3 +156,16 @@ Zatím stačí pravidla výše + „Best regards, Lenka“. Až přibude víc an
 ## Poučení z přepisů
 
 Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude napsal → co Lenka změnila → pravidlo).
+
+**261002, VOX (Michaela Malá), odpověď na poptávku školení** (Lenka odeslala přepsanou verzi)
+- Oslovení: Claude „Dobrý den, paní Malá“ → Lenka „Dobrý den, Míšo“. **Pravidlo:** u VOXu (Michaela Malá) křestní jméno, zdrobnělina Míša, vykání. Oslovení před návrhem ověřit u Lenky nebo v předchozí korespondenci, nepředpokládat „paní + příjmení“ jen proto, že jde o firmu.
+- Výčet v první větě: „styl řízení, očekávání vůči lokálním manažerům a způsob komunikace“ → „styl řízení, očekávání či způsob komunikace“. **Pravidlo:** výčty zkracovat, nepřidávat upřesnění, která si adresát domyslí.
+- „rozpočet, případně honorář, který u vás platí“ → „rozpočet/honorář“. **Pravidlo:** u věcných otázek stačí holé slovo, bez vysvětlení.
+- „co přesně se … nejvíc obávají“ → „čeho přesně se … nejvíc obávají“. **Pravidlo:** dávat pozor na správnou vazbu slovesa.
+- Závěr: „dám vám vědět, jestli to zvládnu a v jaké podobě“ → „budu moci lépe posoudit, jestli to zvládnu a v jaké podobě“. **Pravidlo:** neslibovat zpětnou vazbu adresátovi, když o ni Lenka nestojí; formulovat, co bude mít Lenka díky odpovědi k dispozici.
+- Beze změny: „Dejte mi prosím vědět.“, „Zdraví L.“, číslovaný seznam otázek, „3-4“ s krátkou pomlčkou.
+
+**261002, FreshLearn (anglicky, nárok na cenu 349 USD)** — viz memory `feedback_claim_emails_firm_not_warm`
+- Claude v první verzi psal vřele a prosebně („would it be possible“, „it would mean a lot to me“, „happy to stay with you“) → Lenka: nežádá o laskavost, žádá o něco, na co má nárok, zdvořile a bez podbízení. **Pravidlo:** fakta + citace slibu protistrany + závěr + žádost o potvrzení.
+- Druhá verze končila „Please confirm that …“ → Lenka: příliš drsné. **Pravidlo:** poslední věta zdvořilá žádost „Could you please confirm that …?“; rozmezí je mezi prosbou o laskavost a rozkazem.
+- Lenka sama upravila „blocked by my bank“ → „blocked“ (nezmiňovat banku jako příčinu, stačí „blocked“).

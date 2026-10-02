@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Z tabulky do pusy: nepravidelná slovesa za 14 dní | LCEnglish</title>
+<style>
+  :root{
+    --coral: oklch(58% 0.18 35);
+    --coral-dark: oklch(48% 0.17 32);
+    --amber: oklch(78% 0.135 78);
+    --marker: oklch(88% 0.12 85);
+    --ink: oklch(22% 0.025 40);
+    --text: #2e2825;
+    --muted: #6b605a;
+    --on-dark: oklch(90% 0.02 70);
+    --on-dark-muted: oklch(72% 0.025 60);
+    --rule: #e4ddd6;
+    --paper: #ffffff;
+    --tint: oklch(97% 0.013 75);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size:19px;line-height:1.6}
+  .serif{font-weight:800}
+  h1,h2,h3{color:var(--ink);line-height:1.2;margin:0}
+  h2{font-size:clamp(25px,3.6vw,32px);font-weight:800;margin:56px 0 18px}
+  h3{font-size:20px;font-weight:700;margin:26px 0 6px}
+  p{margin:0 0 18px}
+  a{color:var(--coral-dark)}
+  mark{background:linear-gradient(transparent 55%,var(--marker) 55%);color:inherit;padding:0 2px}
+  .col{max-width:700px;margin:0 auto;padding:0 20px}
+  hr{border:0;border-top:1px solid var(--rule);margin:48px 0}
+
+  .hero{background:var(--ink);color:var(--on-dark);display:grid;grid-template-columns:1.1fr .9fr;min-height:86vh}
+  .hero-text{padding:28px 56px 60px;display:flex;flex-direction:column}
+  .brand{font-weight:700;font-size:17px;letter-spacing:.04em;color:#fff;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+  .brand span{color:var(--amber)}
+  .brand em{font-style:normal}
+  .brand strong{font-weight:800;font-size:clamp(22px,2.4vw,30px);letter-spacing:.03em;color:#fff}
+  .hero-text .inner{margin-top:auto;padding-top:48px}
+  .pre{font-size:17px;color:var(--amber);max-width:40ch;margin-bottom:14px}
+  .hero h1{font-weight:800;color:#fff;font-size:clamp(34px,4.8vw,58px);line-height:1.12;letter-spacing:-.01em;margin:0 0 22px}
+  .hero h1 i{font-style:normal;color:var(--amber)}
+  .hero .dek{max-width:44ch;color:var(--on-dark);font-size:19px}
+  .byline{display:flex;gap:12px;align-items:center;margin-top:26px;padding-top:18px;border-top:1px solid oklch(38% 0.02 40);font-size:15px;color:var(--on-dark-muted)}
+  .byline b{color:#fff;font-weight:600}
+  .down{display:inline-block;margin-top:14px;color:var(--amber);text-decoration:none;font-weight:600;font-size:15px}
+  .down:focus-visible{outline:2px solid var(--amber);outline-offset:4px}
+  .hero-img{position:relative;overflow:hidden;background:var(--coral);margin:0}
+  .hero-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:58% 45%;filter:grayscale(1) contrast(1.1);mix-blend-mode:multiply;opacity:.92}
+  .hero-img figcaption{position:absolute;top:0;bottom:0;right:8px;padding:16px 0;writing-mode:vertical-rl;text-align:end;font-size:10.5px;letter-spacing:.04em;line-height:1.3;color:oklch(97% 0.01 70 / .55)}
+  .hero-cta{display:flex;align-items:center;gap:18px 24px;flex-wrap:wrap;margin-top:26px}
+  .hero-cta .btn{display:inline-block;background:var(--coral);color:#fff;text-decoration:none;font-weight:800;font-size:20px;padding:16px 30px;border-radius:4px;border-bottom:4px solid oklch(40% 0.15 32)}
+  .hero-cta .btn:hover{background:var(--coral-dark)}
+  .hero-cta .btn:focus-visible{outline:3px solid var(--amber);outline-offset:3px}
+
+  .big{font-size:23px;font-weight:700;color:var(--ink)}
+  .aside{font-size:16px;color:var(--muted);border-top:1px solid var(--rule);padding-top:14px;margin-top:26px}
+  .story{background:var(--tint);border-left:4px solid var(--coral);padding:28px 30px 12px;margin:8px 0 0}
+  .story .serif{font-size:24px;color:var(--ink);line-height:1.2;margin-bottom:14px}
+  .sign{font-style:italic;color:var(--muted)}
+  ul.fasc{list-style:none;padding:0;margin:0 0 22px}
+  ul.fasc li{position:relative;padding-left:34px;margin-bottom:16px}
+  ul.fasc li::before{content:"→";position:absolute;left:2px;top:0;color:var(--coral);font-weight:800}
+  ul.check{list-style:none;padding:0;margin:0 0 22px}
+  ul.check li{position:relative;padding-left:34px;margin-bottom:12px}
+  ul.check li::before{content:"✓";position:absolute;left:4px;top:0;color:var(--coral);font-weight:800}
+  ul.no li::before{content:"✗";color:var(--muted)}
+  ol.steps{padding-left:26px;margin:0 0 22px}
+  ol.steps li{margin-bottom:12px;padding-left:6px}
+  ol.steps li::marker{font-weight:800;color:var(--coral)}
+  .ex{border:2px solid var(--ink);padding:6px 28px;margin:26px 0 8px}
+  .ex .v{padding:16px 0;border-top:1px solid var(--rule)}
+  .ex .v:first-child{border-top:0}
+  .ex .forms{font-weight:800;color:var(--ink);font-size:20px;margin-bottom:6px}
+  .ex p{margin:0 0 3px;font-size:18px}
+  .ex p span{color:var(--muted)}
+  .excap{font-size:15px;color:var(--muted);margin:0 0 26px}
+  .shot{margin:6px 0 26px;text-align:center}
+  .shot img{width:100%;max-width:420px;height:auto;border:1px solid var(--rule);border-radius:8px;box-shadow:0 1px 2px oklch(30% 0.03 40 / .06),0 6px 18px oklch(30% 0.03 40 / .10)}
+  .shot figcaption{font-size:15px;color:var(--muted);margin-top:10px}
+  blockquote{margin:28px 0;padding:4px 0 4px 22px;border-left:4px solid var(--coral);font-size:20px;color:var(--ink)}
+  blockquote cite{display:block;margin-top:8px;font-style:normal;font-size:16px;font-weight:700;color:var(--muted)}
+  .stack{border:2px solid var(--ink);padding:26px 28px 8px;margin:10px 0 0}
+  .stack ul{list-style:none;padding:0;margin:0}
+  .stack li{padding:12px 0;border-top:1px solid var(--rule)}
+  .stack li strong{color:var(--ink)}
+  .stack .total{border-top:2px solid var(--ink);margin-top:4px;padding:16px 0;text-align:center}
+  .stack .total .price{font-weight:800;font-size:44px;color:var(--ink);line-height:1}
+  .stack .total small{display:block;color:var(--muted);font-size:15px;margin-top:6px}
+  .buy{text-align:center;margin:30px 0 40px}
+  .buy a{display:inline-block;background:var(--coral);color:#fff;text-decoration:none;font-weight:800;font-size:21px;
+    padding:18px 34px;border-radius:4px;border-bottom:4px solid var(--coral-dark)}
+  .buy a:hover{background:var(--coral-dark)}
+  .buy a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+  .buy small{display:block;margin-top:10px;font-size:15px;color:var(--muted)}
+  .close{background:var(--ink);color:var(--on-dark);padding:80px 0 70px;margin-top:56px}
+  .close h2{color:#fff;font-weight:800;font-size:clamp(28px,4vw,40px);line-height:1.2;margin:0 0 24px}
+  .close h2 i{font-style:normal;color:var(--amber)}
+  .close p{color:var(--on-dark)}
+  .close a{color:var(--amber)}
+  .close .buy small{color:var(--on-dark-muted)}
+  .close .buy a{color:#fff;border-bottom-color:oklch(40% 0.15 32)}
+  .close .buy a:focus-visible{outline-color:var(--amber)}
+  .ps{color:var(--on-dark-muted);font-size:17px;margin-top:10px}
+  .ps b{color:var(--amber)}
+  footer{background:var(--ink);color:var(--on-dark-muted);font-size:13px;text-align:center;padding:0 20px 28px}
+
+  @media (max-width:860px){
+    .hero{grid-template-columns:1fr;min-height:0}
+    .hero-img{display:none}
+    .hero-text{padding:24px 22px 48px}
+    .hero-text .inner{padding-top:4px}
+    .brand{margin-bottom:18px}
+  }
+  @media (max-width:600px){body{font-size:18px}.hero-cta .btn{display:block;width:100%;text-align:center}.buy a{display:block;padding:18px 16px}.story{padding:22px 18px 8px}.stack{padding:20px 18px 4px}.ex{padding:4px 18px}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-text">
+    <div class="brand"><em>LC<span>English</span></em> · <strong>Nepravidelná slovesa za 14 dní</strong></div>
+    <div class="inner">
+      <p class="pre">Pro všechny, kdo se nepravidelná slovesa učili ze seznamů a tabulek:</p>
+      <h1>Tvary nepravidelných sloves znáte. <i>Teď je potřebujete říct.</i></h1>
+      <p class="dek">Z tabulky do pusy: 14 dní krátkých úkolů, 50 nejpoužívanějších sloves ve skutečných větách, které si v aplikaci poslechnete a nahlas zopakujete. Ať si pusa zvyká.</p>
+      <div class="byline"><span><b>Lenka Dvořáková</b>, lektorka s 25letou praxí · sama mluví šesti jazyky a sedmý, japonštinu, se učí</span></div>
+      <div class="hero-cta">
+        <a class="btn" href="https://form.fapi.cz/?id=34e9f125-5b9a-40bf-8d80-9ccacd96a92a" target="_blank" rel="noopener">Ano, chci nepravidelná slovesa říkat</a>
+      </div>
+      <a class="down" href="#proc">Chci se podívat, jak to funguje ↓</a>
+    </div>
+  </div>
+  <figure class="hero-img">
+    <img src="HERO_IMG_URL" alt="Veselý nepořádek v holandské domácnosti, detail obrazu Jana Steena The Dissolute Household" fetchpriority="high">
+    <figcaption>Jan Steen, The Dissolute Household (kolem 1663–64) · The Met, public domain</figcaption>
+  </figure>
+</header>
+
+<main class="col">
+
+<p class="big" style="margin-top: 56px;" id="proc">Nepravidelná slovesa možná znáte z hodin, z učebnice, z aplikace. A přesto se vám stává tohle:</p>
+<p>Chcete říct, co jste včera dělali. Víte, že to bude minulý čas. V hlavě se vám zobrazí tabulka, <em>go – went – gone</em>, a než najdete ten správný sloupeček, konverzace je jinde.</p>
+<p><mark><strong>Pokud vám tohle zní povědomě, nejste „marní na jazyky“. Tabulka prostě není místo, kde se slovesa používají.</strong></mark></p>
+<p>Nepravidelná slovesa nejsou tak slušně vychovaná jako <em>work</em> a <em>finish</em>. Učebnice je za trest zavřely do tabulek. Tři sloupečky se dají odříkat jako básnička, jenže ve větě <em>Has he gone mad?</em> nikdo žádné sloupečky neodříkává.</p>
+<p class="aside">Obraz nahoře je od Jana Steena a jmenuje se <em>The Dissolute Household</em>. Holandsky se dodnes říká „domácnost jako od Jana Steena“, když někde panuje nepořádek. Nepravidelná slovesa mají k pořádku podobně daleko.</p>
+
+<div class="story" style="margin-top: 34px;">
+  <p class="serif">Poctivě: nepravidelné sloveso se nepozná, musí se vědět</p>
+  <p>Učila jsem kdysi angličtinu dva německé manažery. Při minulém čase se mě zeptali: „Jak poznáme, že <em>work</em> a <em>finish</em> jsou pravidelná a <em>come</em>, <em>cut</em> nebo <em>let</em> nepravidelná?“</p>
+  <p>Odpověď není příjemná: nepravidelnost na slovese prostě nepoznáte. Musíte ji vědět.</p>
+  <p>Dobrá zpráva je, že se tahle slovesa používají tak často, že se s nimi potkáváte pořád. <mark>Stačí je při každém setkání poznat a umět říct. Přesně to se v tomhle kurzu trénuje.</mark></p>
+  <p class="sign">– Lenka Dvořáková</p>
+</div>
+
+<h2>Co v kurzu najdete</h2>
+<ul class="fasc">
+  <li><strong>Padesát sloves, která potkáte pořád.</strong> Seznam nejpoužívanějších nepravidelných sloves, ne abecední výčet všech. Začínáme u <em>být</em>, <em>mít</em> a <em>dělat</em>.</li>
+  <li><strong>Proč je předpřítomný čas dokonalý dárek</strong> (a ne otravný <em>present perfect</em>) a jak ho vysvětlit tak, aby vám konečně dával smysl.</li>
+  <li><strong>Co udělat s větou, která se vám pořád zadrhává v puse.</strong> Stačí ji pustit ve smyčce.</li>
+  <li><strong>Den, kdy text zmizí.</strong> Věty, které jste ještě včera četli, najednou jen posloucháte a opakujete. Hned poznáte, co už vám v hlavě sedí.</li>
+  <li><strong>Trénink z mobilu.</strong> Stačí prohlížeč, žádná instalace z obchodu s aplikacemi.</li>
+  <li><strong>Co dělat po čtrnácti dnech,</strong> aby slovesa nevyprchala: balíček vět pro aplikaci Anki a návod, jak ho zprovoznit.</li>
+</ul>
+
+<p>Takhle vypadají slovesa v kurzu. Místo tří sloupečků dostanete ke každému dvě věty, jednu v minulém čase a jednu v předpřítomném:</p>
+<div class="ex">
+  <div class="v">
+    <div class="forms">go – went – gone</div>
+    <p><em>She went into her room.</em> <span>Šla do svého pokoje.</span></p>
+    <p><em>Has he gone mad?</em> <span>Copak se zbláznil?</span></p>
+  </div>
+  <div class="v">
+    <div class="forms">see – saw – seen</div>
+    <p><em>Fifty thousand people saw the match.</em> <span>Zápas vidělo padesát tisíc lidí.</span></p>
+    <p><em>I’ve never seen anything like this!</em> <span>Nikdy jsem nic takového neviděla!</span></p>
+  </div>
+  <div class="v">
+    <div class="forms">take – took – taken</div>
+    <p><em>She took her things to her room.</em> <span>Vzala si věci do svého pokoje.</span></p>
+    <p><em>Someone has taken my scarf.</em> <span>Někdo vzal moji šálu.</span></p>
+  </div>
+</div>
+<p class="excap">Ukázky z kurzu. Takhle to jde u všech padesáti sloves.</p>
+
+<div class="buy">
+  <a href="https://form.fapi.cz/?id=34e9f125-5b9a-40bf-8d80-9ccacd96a92a" target="_blank" rel="noopener">Ano, chci slovesa ve větách</a>
+  <small>Přístup po připsání platby</small>
+</div>
+
+<hr>
+
+<h2>Jak se s větami trénuje: shadowing a aplikace Shadowloop</h2>
+<p>Shadowing je jednoduchý: posloucháte mluvčího a větu po něm hned nahlas opakujete. Aby to fungovalo, potřebujete věty nachystané, namluvené a přehrávané tak, abyste se nemuseli zdržovat něčím jiným. To dělá Shadowloop, aplikace, kterou jsem postavila pro své kurzy.</p>
+<p>Funguje v prohlížeči na mobilu i na počítači, nic neinstalujete. Přihlásíte se e-mailem, na který kurz koupíte, a všechny věty z kurzu tam na vás čekají.</p>
+<figure class="shot"><img src="SHADOWLOOP_IMG_URL" alt="Aplikace Shadowloop: fráze s českým překladem, posuvník délky pauzy a přepínače Anglicky / Česky" width="509" height="622" loading="lazy"><figcaption>Takhle vypadá trénink v Shadowloopu: fráze, překlad, smyčka a nastavení pauzy. (Ukázka z jiného kurzu, věty se slovesy uvidíte po přihlášení.)</figcaption></figure>
+<ol class="steps">
+  <li><strong>Věta zazní 3×.</strong> Mezi opakováními je pauza, ve které ji nahlas zopakujete po mluvčím.</li>
+  <li><strong>Vy určujete tempo.</strong> Pauzu si prodloužíte nebo zkrátíte, text zobrazíte anglicky, česky, oboje, nebo ho schováte úplně.</li>
+  <li><strong>Zasekli jste se u jedné věty?</strong> Pusťte si ji ve smyčce, dokud ji nezvládnete.</li>
+  <li><strong>Věty se při každém spuštění zamíchají,</strong> takže žádná nezůstane „sirotkem“ bez procvičení.</li>
+</ol>
+<p>Podrobný návod k aplikaci najdete <a href="https://lcenglish.cz/aplikace-shadowloop/" target="_blank" rel="noopener">tady</a>.</p>
+
+<h2>Čtrnáct dní krok za krokem</h2>
+<p>Každá sada se prochází stejně: nejdřív věty přečtete a poslechnete, pak je poslouchejte a opakujte nahlas s textem, a nakonec stejně, ale bez textu.</p>
+<ol class="steps">
+  <li><strong>Dny 1–3: Minulý čas I.</strong> Prvních 25 sloves, od <em>být</em> po <em>psát</em>.</li>
+  <li><strong>Dny 4–7: Minulý čas II.</strong> Dalších 25, od <em>přinést</em> po <em>řídit</em>. Poslední den si uděláte opáčko obou sad.</li>
+  <li><strong>Dny 8–10: Předpřítomný čas I.</strong> Začnete krátkým vysvětlením tahákem (jen nejnutnější dávka teorie), pak stejné tři kroky.</li>
+  <li><strong>Dny 11–14: opáčko a Předpřítomný čas II.</strong> Zopakujete, co už umíte, projdete druhou polovinu sloves a poslední den vynecháte čtení.</li>
+</ol>
+<p>Úkoly vám chodí e-mailem vždy na dva až tři dny dopředu a začínáte hned po připsání platby. Jedno zadání vám zabere nejvýš zhruba 20 minut. Když se některý den nepovede, dohoníte ho později.</p>
+
+<h2>Co říká studentka</h2>
+<blockquote>„[…] čím více poslouchám jednak v Shadowloopu Vaše věty, nebo filmy a seriály v angličtině, tím více si present perfectu všímám, uvědomuji a snad tedy i vstřebávám. A moc se těším na moment, kdy si budu moci říci, co tak strašného jsem na předpřítomném čase tolik let viděla, vždyť to je přece jednoduché a legrace:-D. […] Už teď se mi líbilo si každý večer nebo ob večer přečíst Váš e-mail s úkoly a pustit se do nich… takhle na mě, každý den zadání, které musím splnit:-)“<cite>– Kamila, studentka kurzu</cite></blockquote>
+<div class="buy">
+  <a href="https://form.fapi.cz/?id=34e9f125-5b9a-40bf-8d80-9ccacd96a92a" target="_blank" rel="noopener">Ano, chci to zkusit taky</a>
+  <small>Přístup po připsání platby</small>
+</div>
+
+<hr>
+
+<h2>Všechno, co dostanete</h2>
+<div class="stack">
+  <ul>
+    <li><strong>14denní plán úkolů e-mailem</strong> – vždy na dva až tři dny dopředu, začínáte hned po připsání platby</li>
+    <li><strong>50 nejpoužívanějších nepravidelných sloves</strong> – tvary a dvě věty ke každému (minulý čas a předpřítomný čas), s českým překladem, ke stažení v PDF</li>
+    <li><strong>Čtyři balíčky v aplikaci Shadowloop</strong> – Minulý čas I a II, Předpřítomný čas I a II: nahrávky, trojí opakování s pauzou, smyčka, schovaný text</li>
+    <li><strong>Tahák k předpřítomnému času</strong> a vysvětlení s jen nejnutnější dávkou teorie</li>
+    <li><strong>Bonus: balíček pro Anki</strong> a návod, jak ho zprovoznit, aby slovesa po čtrnácti dnech nevyprchala</li>
+  </ul>
+  <div class="total">
+    <div class="price">790 Kč</div>
+    <small>jednorázově, platba bankovním převodem · přístup po připsání platby</small>
+  </div>
+</div>
+<p style="margin-top: 22px;">To je méně než 16 Kč za jedno sloveso, i s větami, nahrávkami a aplikací.</p>
+<p>A hlavně: <mark>seznam, věty, nahrávky i aplikace jsou nachystané.</mark> Vy jen otevřete první úkol.</p>
+<div class="buy">
+  <a href="https://form.fapi.cz/?id=34e9f125-5b9a-40bf-8d80-9ccacd96a92a" target="_blank" rel="noopener">Ano, chci začít s prvním úkolem</a>
+  <small>790 Kč · přístup po připsání platby</small>
+</div>
+
+<h2>Pro koho to je – a pro koho (zatím) ne</h2>
+<h3>Je to pro vás, pokud:</h3>
+<ul class="check">
+  <li>Nepravidelná slovesa jste už někdy probírali, aspoň ve škole, ale při mluvení vám nenaskakují.</li>
+  <li>Chcete se je učit z vět, ne ze sloupečků.</li>
+  <li>Máte radši krátké denní úkoly než hodiny učení najednou.</li>
+</ul>
+<h3>Není to pro vás, pokud:</h3>
+<ul class="check no">
+  <li>Hledáte zázrak přes noc.</li>
+  <li>Potřebujete živého lektora. Kurz je určený k samostudiu.</li>
+  <li>S angličtinou začínáte úplně od nuly a s minulým časem jste se ještě nepotkali.</li>
+</ul>
+
+<h2>Časté otázky</h2>
+<h3>Musím se učit každý den?</h3>
+<p>Doporučuju to, ale povinné to není. Zadání na jeden den vám zabere nejvýš zhruba 20 minut. Když se některý den nepovede, dohoníte ho později, materiály vám zůstanou.</p>
+<h3>Jaká úroveň angličtiny je potřeba?</h3>
+<p>Stačí, abyste se s minulým časem už někdy potkali. Kurz je nastavený i pro ty, kdo s angličtinou teprve začínají. Úplně od nuly je lepší začít jinde.</p>
+<h3>Potřebuju k tomu aplikaci Shadowloop? A jak se do ní přihlásím?</h3>
+<p>Přístup do aplikace je součástí kurzu, nic dalšího nekupujete. Přihlásíte se na <a href="https://shadowloop.lcenglish.cz" target="_blank" rel="noopener">shadowloop.lcenglish.cz</a> e-mailem, na který jste kurz koupili (nebo účtem Google, který je na něj navázaný). Funguje v prohlížeči na mobilu i na počítači.</p>
+<h3>Kdy začnu?</h3>
+<p>Hned po připsání platby (platí se bankovním převodem). První e-mail s názvem „Na start“ vám ukáže, jak se do aplikace přihlásit a čím začít.</p>
+<h3>Není už na to pozdě?</h3>
+<p>Není. Shadowing nestaví na biflování pravidel, ale na poslechu a opakování po mluvčím, a to funguje v každém věku. Tempo si určujete sami: pauzu prodloužíte, text schováte nebo ukážete a větu pustíte ve smyčce, kolikrát potřebujete.</p>
+
+</main>
+
+<section class="close">
+  <div class="col">
+    <h2>Tabulku už jste viděli. <i>Teď si slovesa řekněte nahlas.</i></h2>
+    <p>Dokud nepravidelná slovesa nikdy nevyslovíte, zůstávají jen v hlavě. Čtrnáct dní krátkých úkolů vás k tomu dovede krok za krokem: první věta, první opakování, první věta bez textu. Klidně ještě dnes.</p>
+    <div class="buy">
+      <a href="https://form.fapi.cz/?id=34e9f125-5b9a-40bf-8d80-9ccacd96a92a" target="_blank" rel="noopener">Ano, chci začít mluvit</a>
+      <small>790 Kč · přístup po připsání platby</small>
+    </div>
+    <p class="ps"><b>P.S.</b> Zkoušeli jste už spoustu způsobů a slovesa vám pořád nenaskakují? Tenhle kurz nestaví na další tabulce, ale na větách, které sami říkáte nahlas.</p>
+    <p class="ps"><b>P.P.S.</b> Chcete si nejdřív přečíst, jak o nepravidelných slovesech přemýšlím? Zkuste můj článek <a href="https://lcenglish.cz/nepravidelna-slovesa/" target="_blank" rel="noopener">Nepravidelná slovesa v angličtině: jak na ně v 5 krocích</a> nebo <a href="https://lcenglish.cz/predpritomny-cas/" target="_blank" rel="noopener">Předpřítomný čas aneb Present Perfect: budete ho milovat!</a></p>
+  </div>
+</section>
+<footer>LCEnglish · Lenka Dvořáková</footer>
+
+</body>
+</html>

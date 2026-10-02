@@ -13,6 +13,7 @@ Aktivní letní plán: [[projects/letni-vylety-2026]]
 - **Vídeň, Horní Belvedere** — restaurované obrazy Lampiho otce a syna (přemalovaná matka na portrétu Tomatisových) · do 11. 10. 2026 · spojit s Albertinou
 - **Řím, Galerie Borghese** — Ovidiovy *Metamorfózy* (Bernini, Apollón a Dafné), prodlouženo · do 11. 10. 2026 · asi se už nestihne
 - **Veletržní palác NG** - 230 let Národní galerie - výstava k výročí, asi do konce roku 2026
+- **Londýn, National Gallery** — *Renoir and Love* (50+ děl z evropských a amerických sbírek, poprvé ve Velké Británii *Bal au Moulin de la Galette* z Musée d'Orsay) · **3. 10. 2026 – 31. 1. 2027** · v pátek večer od 23. 10. do 15. 1. „pay what you wish“ od 1 £ · [nationalgallery.org.uk](https://www.nationalgallery.org.uk/exhibitions/renoir-and-love) (zachyceno 261002)
 
 ---
 
