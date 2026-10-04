@@ -54,6 +54,29 @@ Další hotové kusy jsou v `brain/samples/` (21 odeslaných newsletterů Art fo
 - **Slovník:** „koukněte“, „tipnout si“, „Inu…“, „setsakramentsky“, „promrskat minulý čas“, „ať si pusa zvyká“, „šprechtila“. Hovorové slovo uprostřed spisovného výkladu.
 - **Ve videoskriptu** platí totéž, jen kratší věty k vyslovení a příklady, které jde ukázat.
 
+## Odpovědi účastníkům a studentům (1:1, podpora)
+
+> Doplněno 261004 z Lenčiných šablon a konceptů v Google Docu „Průběžný pracovní“ (AI sborovna, AI v kanceláři, webinář a workshop o ChatGPT pro učitele, 2023–2024). Celý text → [[samples/odpovedi-ucastnikum-ai-workshopy]]. Platí pro odpovědi na dotazy účastníků a zákazníků (certifikát, platba, termín, záznam, faktura); pro newslettery a prodejní e-maily platí pravidla výše.
+
+- **Stavba:** „Dobrý den, [jméno],“ (vokativ, vykání) → `děkuju za zprávu.` (malým písmenem, bez rozjezdu) → jádro 1–3 krátké odstavce → další krok nebo těšení → přání → „Zdraví L.“. Odpověď je krátká a každý odstavec řeší jednu věc.
+- **Reaguje na to, co adresát napsal.** Cituje nebo odráží jeho slova („Je to přesně, jak říkáte“, „podle toho, co píšete, už v tomto směru nejste žádný začátečník“, „zdravím vás jako kolegyni jazykářku!“). Šablona dostane vždy jednu osobní větu navíc.
+- **Radost vyjádřená rovnou:** „jsem opravdu moc ráda, že vás webinář bavil :-)“, „mám z toho velkou radost!“, „Těším se na shledanou na webináři!“. Vykřičník u radosti a těšení, ne u instrukcí.
+- **Odmítnutí:** důvod (velký počet účastníků, nejde kontrolovat účast) → co *je* možné („Za navazující workshop, který je přece jen intimnější, vám ale osvědčení ráda vystavím.“) → vlídný závěr („Věřím ale, že vám informace budou užitečné i bez osvědčení :-)“). Nikdy holé „ne“.
+- **Technika a platby:** standardní cesta → alternativa → výjimka s důvodem a podmínkou („Tuto metodu běžně neumožňuji, protože… Použijte ji tedy prosím jen v případě, že…“). Výjimka je podaná jako laskavost („jen pro vás jsem ručně vygenerovala“) a vždy s vysvětlením, proč není pravidlem. Odkaz je pojmenovaný tlačítkem nebo slovem v textu („Zobrazit stav objednávky“, „tady“), ne holá adresa.
+- **Praktické řešení bez dramatu:** „to děláváme tak, že…“, „dejte mi jen prosím vědět čísla obou objednávek, abych to mohla sledovat.“ Co se stane automaticky, řekne předem („Výsledná faktura se vystaví automaticky při připsání úhrady…“) a podmínku termínu jednou větou („Pro živou účast… je třeba, aby platba dorazila před začátkem vysílání.“).
+- **Opatrné sliby, s humorem:** „Nezradí-li mne technika, pořídím záznam…“, „ovšem naživo je to vždycky lepší“. Nic nesliby bez výhrady a vždy dodá, co je lepší nebo bezpečnější.
+- **Doporučení, když termín nevyhovuje:** řekne upřímně, co by udělala na místě adresáta („doporučím vám raději na další termín nečekat“), a nabídne vstřícnou alternativu (záznam, facebooková skupina). Lehce se pousměje nad společnou zkušeností: „Znáte, jak to chodí, když to člověk nechá "na pak" :-)“.
+- **Názor o AI a školství:** souhlasí s tím, co adresát napsal, a přidá vlastní postoj s nadsázkou („o krok (ne-li deset) napřed“, „věští apokalypsu“), převede ho na příležitost a končí poklonou adresátovi („Snad se tedy najde víc učitelů, jako jste vy :-)“).
+- **Přání vázané na situaci a téma kurzu:** „hezký víkend - třeba občas i s umělou inteligencí ;-)“, „hezký advent“, „Hezký zbytek víkendu!“. Přání se mění podle ročního období a dne, ne pořád stejné.
+- **Smajlíky `:-)` a `;-)`** tady smí být víc než jeden na mail (často jeden na konci každého odstavce s vlídností nebo humorem). V mailu o penězích, chybě nebo odmítnutí s důvodem jen na konci vlídné pasáže, ne u samotného „ne“.
+- **Oslovení podle pohlaví adresáta:** rodově správné tvary („abyste mohla“, „jste zvolila“); když jméno neřekne, ptá se nebo píše neutrálně. Sebeironický dotaz na oslovení je v pořádku: „(můžu vás tak oslovovat?)“.
+- **Knižní obrat v hovorovém textu** jako humor: „Nezradí-li mne technika“, „na stará kolena“, „komu se to poštěstí!“. Jeden na mail.
+- **Pomlčka** v mailu „ - “, uvozovky rovné "…", podpis „Zdraví L.“ (jako výše). „děkuju“ × „děkuji“ jak v profilu 2: formálnější nebo první kontakt „děkuji“, jinak „děkuju“.
+
+**Jedna situace, dvě verze** (návrh Clauda podle šablon):
+> *Certifikát za workshop:* Dobrý den, Petro, doufám, že dovednosti z workshopu už se vám daří uplatňovat i v každodenním životě :-) Přikládám potvrzení o účasti a přeju hezký víkend - třeba občas i s umělou inteligencí ;-) Zdraví L.
+> *Certifikát za úvodní webinář (odmítnutí):* Dobrý den, Petro, děkuju za zprávu - jsem ráda, že se vám webinář líbil! Vzhledem k velkému množství účastníků není v mých silách za úvodní webinář vydávat certifikáty (vlastně ani kontrolovat účast). Za navazující workshop vám ale osvědčení ráda vystavím. Hezký víkend! Zdraví L.
+
 ## Vlastnosti hlasu (podle pilotu ABM, 260929)
 
 **1. Nadšená** — *znamená:* skutečná radost z jazyka a z pokroku studentů, vykřičník, když je důvod („Jupí!!! Mám radost s ní!“). *Neznamená:* motivační guru („Dáš to! Jsi skvělý!“), přehnané sliby.

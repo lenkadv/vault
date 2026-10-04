@@ -137,6 +137,13 @@ Toto platí vždy — i když task odškrtávám zpětně, i když ho odškrtáv
 
 Tasky z `projects/` se v daily plan zapisují jako **plain bullet bez checkboxu** s wiki-linkem: `- Název tasku → [[název-projektu]]`. Checkbox žije jen v projektovém souboru. Odškrtnutí = jdi do projektu, odškrtni tam + proveď next-action advancement. Výjimka: ad-hoc tasky vzniklé přímo v daily plan (bez projektu) mohou mít checkbox.
 
+### „Nezapomenout“ není poznámka, ale task (261004)
+
+Když Lenka řekne „nezapomenout“, „jen aby to nezapadlo“, „neřešit hned“ nebo ji napadne věc „na potom“, **nikdy to nezůstane jen větou v daily nebo v textu projektu** — poznámka bez viditelného tasku se nikdy nevrátí. Hned v téže odpovědi:
+1. Task s `#next-action` + context tag v projektovém souboru (nebo, bez projektu, ruční sekce v [[next-actions]]; s termínem do [[waiting-for]] s 📅). Bez `#next-action` je neviditelný.
+2. Pokud „neřešit hned“ → i tak `#next-action`; Lenka rozhodne při plánování, kdy. Neodsouvat tagem nebo slovy „zatím ne“.
+3. Při `/daily-plan` a „zavírám“ projít sekce „Nezapomenout“ / „Zbývá“ v dnešním a včerejším daily: co nemá živý task, založit; co je hotové, odškrtnout.
+
 ### Zakázáno
 - Nevytvářet standalone soubory pro jednotlivé tasky
 - Nezapisovat tasky do README, komentářů v kódu ani náhodných poznámek

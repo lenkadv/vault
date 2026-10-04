@@ -86,7 +86,7 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
   - 260929 pilot doplněn do [[profil-profesni]] (4 vlastnosti se „znamená / neznamená“, tabulka „jsem / nejsem“, jedno sdělení v 5 situacích, kontrolní seznam)
   - [x] Lenka ukázky schválila 260929 („funguje to výborně“); prvky doplněny do všech profilů: [[profil-osobni]], [[profil-akademicky]], lcenglish a tadylenka `voice.md`
 - [ ] Projít kurzy z [[kurzy-marketing]] s Lenkou — postupně, nejdřív ten nejaktuálnější; cíl: vytěžit pro psaní e-mailů, webinářových sekvencí, prodejních stránek (Lenka 261004: rozhodně chceme) #next-action #online
-- [ ] Přenést vzory odpovědí z Drive dokumentu „Průběžný pracovní“ (`05 Další online kurzy 💻/Průběžný pracovní`: certifikáty AI sborovna / AI v kanceláři, platba převodem, zálohová faktura, škola zaplatí později, odpovědi před webinářem, odmítnutí certifikátu u webináře) do hlasových profilů — profil 2 (profesně, kultura/vzdělávání) nebo 3 (lcenglish); Lenka 261004: neřešit hned, jen nezapomenout #online
+- [x] Přenést vzory odpovědí z Drive dokumentu „Průběžný pracovní“ do hlasových profilů ✅ 2026-10-04 → profil 3: nová sekce „Odpovědi účastníkům a studentům“ v `GrowOS/lcenglish/brain/voice.md`, banka [[odpovedi-ucastnikum-ai-workshopy]] v `brain/samples/`; v [[profil-profesni]] a [[hlasy]] odkaz. Zbývá jen Lenčina kontrola návrhu (2 ukázkové verze na konci sekce).
 - [x] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy ✅ 2026-10-04 → `resources/postupy/hlasy.md` + řádek v tabulce Postupy v CLAUDE.md + memory `reference_voice_profiles`
 - [x] ~~Skill Email Triage~~ — nenainstalovat (261004): to samé dělá svodka; zvážit jen vzor: koncept návrhů odpovědí v Lenčině hlasu u mailů z „Vyžaduje pozornost“
 

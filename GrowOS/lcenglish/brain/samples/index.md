@@ -8,6 +8,7 @@
 
 ## Samples
 
+- [[odpovedi-ucastnikum-ai-workshopy]] — Lenčiny šablony a odpovědi účastníkům AI webinářů a workshopů (certifikáty, platby, termíny, záznam, faktura), 2023–2024, z Google Docu „Průběžný pracovní“ (261004). Podklad pro sekci „Odpovědi účastníkům“ ve `voice.md`.
 - [[web-archiv/00-index]] — celý web lcenglish.cz staženo 260929 (112 příspěvků 2017–2024 + 9 stránek, surový text). Podklad pro hlas webových článků.
 
 Odeslané newslettery Art for English (přeneseno z GrowOS 0.1, 2026-09-06). Jádro hlasového korpusu — real-life hook → anglická lekce → jeden měkký CTA, podpis „Zdraví L.".

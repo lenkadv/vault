@@ -3,6 +3,8 @@
 > **Stav:** odsouhlaseno Lenkou 260928 (odpovědi na otázky zapracovány níže). Další opravy z přepisů → sekce Poučení na konci. Zdroj: [[banka-profesni]] (26 e-mailů, 10/2025–9/2026). Projekt: [[hlasove-profily]].
 > Platí pro e-maily klientům (PENTA, EVIDENT, Galleko), kulturním a vzdělávacím institucím (NG, VOX) a kolegům z KTF. Neplatí pro newslettery (profil 3), osobní maily (profil 1) ani pro maily Štěpánce Uličné (GNOSTIKA) — jsou kamarádky a spolupracují i profesně, tón je specifický a mísí osobní s pracovním (Lenka 260928).
 
+> **Odpovědi účastníkům a zákazníkům lcenglish** (certifikát, platba, termín, záznam) nejsou tenhle profil: mají vlastní sekci v `GrowOS/lcenglish/brain/voice.md` (261004), víc smajlíků a osobnější tón.
+
 ## Jednou větou
 
 Krátce, věcně a vlídně: jedna věc na odstavec, konkrétní čísla a termíny, vždy další krok a „dejte mi prosím vědět“, na konci drobné přání a „Zdraví L.“

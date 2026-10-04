@@ -9,7 +9,7 @@ Zavedeno 261004 (weekly review, projekt [[hlasove-profily]]). Claude čte tenhle
 | Osobní a „občanské“ maily (úřady, rodina, spolužáci, vyučující, Štěpánka Uličná jako blízká) | `resources/hlas/osobni/profil-osobni.md` |
 | Klienti, NG, VOX, KTF, PENTA, EVIDENT | `resources/hlas/profesni/profil-profesni.md` |
 | Seminárka, akademický text | `resources/hlas/akademicky/profil-akademicky.md` (+ [[reference_academic_voice_profile]]) |
-| lcenglish (e-maily, výukové texty, videoskripty) | `GrowOS/lcenglish/brain/voice.md` |
+| lcenglish (e-maily, výukové texty, videoskripty, **odpovědi účastníkům a zákazníkům** — certifikáty, platby, termíny) | `GrowOS/lcenglish/brain/voice.md` |
 | tadylenka | `GrowOS/tadylenka/brain/voice.md` |
 
 Psát rovnou tímto hlasem, ne neutrálně s tím, že se to pak přepíše.
