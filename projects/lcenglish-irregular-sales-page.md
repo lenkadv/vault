@@ -10,8 +10,9 @@ Nová prodejní stránka pro kurz Nepravidelná slovesa za 14 dní (790 Kč), st
 
 - [x] Vybrat nový obraz do hero (Goya) a vyměnit ✅ 261002
 - [x] Nasadit stránku na lcenglish.cz/irregular, ověřit FAPI → fapipi → Drip → Shadowloop a titulky ✅ 261002
-- [ ] Živý test nákupu Nepravidelných sloves (objednávka převodem, ručně „zaplaceno“ se spuštěním akcí → ověřit Drip tag, e-mail „Na start“, přístup do Shadowloopu; testovací data pak smaže Lenka) — 261004: udělat spolu s reklamním balíčkem 10x English (blok dnes 16:15–17:00) #next-action #online
-- [ ] Před reklamou: měřicí kód (pixel kanálu + nákup na děkovací stránce FAPI), výchozí počet prodejů Nepravidelných sloves ve FAPI #online
+- [x] Živý test nákupu Nepravidelných sloves ✅ 261004 21:28 (výsledek níž v „Živý test nákupu“)
+- [x] Smazat testovací data z živého testu ✅ 261004 21:32 (Lenka: FAPI, Drip, Firebase, Gmail)
+- [ ] Před reklamou: měřicí kód (pixel kanálu + nákup na děkovací stránce FAPI), výchozí počet prodejů Nepravidelných sloves ve FAPI #next-action #online
 
 ## Koncept
 
@@ -46,6 +47,17 @@ Ponecháno záměrně (Lenka): „Nepravidelná slovesa napořád“ u ceny a u 
 **261002 21:55:** další kolo oprav po Lenčině kontrole (verze konceptu 361): „metoda“, čárka před „a můžete hned začít“, „dávalo smysl“, „přečetli“, všude „stínování“ (ne shadowing), nad titulkem „biflovali ze seznamů a tabulek“, iniciály u Daniely T. a Romany S., Hanka „studentka kurzu“, odstavec „Věty, nahrávky i aplikace…“ bez „A hlavně:“, z tlačítek pryč „Přístup po připsání platby“. Ponecháno záměrně (Lenka): „takřka zázračná metoda“ a slib porozumění/mluvení/slovíček/gramatiky, synonyma nejpoužívanější/nejčastější/nejfrekventovanější, „na pár dní“ × „na dva až tři dny“, „Postupujeme … pustíte“, „epizod“ u Víta. Před spuštěním ještě: ve FAQ „Kdy můžu začít?“ je „po připsání platby“, po zapnutí karty ve FAPI přepsat.
 
 Reference po úpravě: Vít (bez věty o nestihnutých úkolech, začíná „Chci Vám poděkovat za … vedení“), Daniela (+ věta o tom, že i unavená alespoň projede slovíčka), Romana (jen věta o porozumění a odvaze), Hanka v FAQ.
+
+## Živý test nákupu (261004 21:25–21:28) – vše prošlo
+
+Objednávka na `lcenglish.cz/irregular-cho/`, bankovní převod, údaje „Test Irregular“, `lnk.dvorakova+irregtest@gmail.com` → zálohová faktura **420260502**. Ve FAPI ručně „Označit jako zaplacené“ se zaškrtnutým „Spustit akce“ → vznikla zjednodušená faktura **426507**, v historii „programový skript spuštěn“.
+
+- Drip (účet 2094497): odběratel vytvořen, tagy `Purchased: Irregular` + `IN_PRODUCT`, `EU_consent_how/when` vyplněné, e-mailová série aktivní ✓
+- E-mail „Nepravidelná slovesa: NA START“ dorazil asi 1 minutu po zaplacení ✓ (k tomu 2 e-maily z FAPI: objednávka a potvrzení platby)
+- Firebase `preregistered/lnk.dvorakova+irregtest@gmail.com`: 4 balíčky, totožné s `products/Irregular` ✓ (znak „+“ v e-mailu se zachoval)
+- Přihlášení do Shadowloopu testovacím účtem neproběhlo. Záznam v `preregistered` se přiřadí při prvním přihlášení, to je stejný mechanismus jako u ostatních produktů.
+
+**Smazání testovacích dat (dělá Lenka):** FAPI faktura 426507 a záloha 420260502 (Smazat, ne stornovat; nejdřív navazující fakturu) + klient Test Irregular; Drip odběratel `lnk.dvorakova+irregtest@gmail.com` (smazat, ne odhlásit; tím se zastaví i série); Firebase `preregistered/lnk.dvorakova+irregtest@gmail.com`; v Gmailu 3 testovací e-maily.
 
 ## Stav nasazení (261002 22:25)
 
