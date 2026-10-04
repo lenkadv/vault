@@ -24,3 +24,19 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
   - Použij, až budeš řešit: slib kurzu, prodejní stránku, reklamu a prodejní rozhovor DigiStartu.
   - Doslovně: „how to set up the machine and run first workflows so that AI really saves me time, works FOR me and delivers real tangible results instead of me working FOR AI and wasting time, sanity, money and family (especially if I am not techy)?“
   - Pro personu: AI pracuje pro vás, ne vy pro AI; hmatatelné výsledky; bez technického zázemí. Sedí na slib pilotu v [[digistart-pilot-osnova]].
+
+## Blok S: Vzor stavby kurzu (Coursera, Jules White)
+
+- **Build Anything with AI — No Code Required** — Dr. Jules White, Vanderbilt (Coursera) — https://www.coursera.org/learn/build-anything-with-ai — projito 261004
+  - Použij, až budeš řešit: kostru osnovy a **stavbu jedné lekce** v [[digistart-pilot-osnova]]. Pro Lenku obsah kurzu nepřinesl nic zásadně nového (261004); pro účastnice DigiStartu ale může být užitečný (popisy a příklady z lekcí). Hlavní hodnota pro stavbu kurzu je ve **struktuře**.
+  - **Struktura kurzu:** jeden rámec (CODER: Compute, Organize, Display, Engineer, Reason), 6 modulů, každý má 2–6 krátkých videí (5–12 min) a jedno cvičení nad vlastními soubory; hodnocený úkol jen u některých modulů.
+  - **Struktura lekce (vzor):** video s ukázkou → text s **dvěma verzemi cvičení** (verze 1 = nástroj s přístupem ke složkám, verze 2 = web přes zip) → doladění zpětnou vazbou → hodnocený výstup → stránka **Klíčový slovník pro zadání** (hotové fráze k použití) → **Souhrn vzorců** → **Klíčové koncepty** (proč to funguje). Cvičení vždy: nejdřív AI prozkoumá a navrhne, pak jedná; po kroku vždy kontrola a iterace.
+  - **Co převzít:** vzorec „slovník frází na konci modulu“, dvě verze cvičení podle úrovně nástrojů (pro bezplatné nástroje v kurzu DigiStart), cvičení vždy nad **vlastními** soubory účastnice, závěrečné „capstone“ složením všeho.
+  - **Co ne:** předpokládá placený agent s přístupem k počítači (Claude Code, Cowork, Codex, MAJK); s placeným agentem / placenou verzí nástroje počítáme ve verzi B DigiStartu, takže to není vylučující důvod, jen podmínka té verze. Příklady (rozpočet, životopisy, nábor) jsou americké a firemní.
+  - **Přímý přístup:**
+    - poznámky vlastními slovy (Claude): [[coursera-build-anything-with-ai]] → moduly 1–6 ve složce `resources/coursera-build-anything-with-ai/`
+    - stažené texty (Lenka): [složka Texty lekcí](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004/Texty lekcí (přepisy videí a čtení)>), rejstřík [00 REJSTRIK](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004/00 REJSTRIK – co je kde a k čemu.md>) (jen osobní studium, autorsky chráněné; do materiálů pro druhé jen vlastními slovy)
+
+- **AI Agent Skills for Leaders** — Dr. Jules White, Vanderbilt (Coursera) — https://www.coursera.org/learn/agent-skills — přečteno 261004
+  - Použij, až budeš řešit: vysvětlení „co je skill“ začátečnici a rozdíl „text v chatu vs. hotový výstup (dashboard, zip, CSV)“ — rámec ELITE.
+  - Přímý přístup: [[coursera-agent-skills-for-leaders]] (doporučení, co číst; poznámky po modulech). Texty dvou skillů (Dashboard It, File Organizer) jsou pod CC BY 4.0, smí se použít s uvedením zdroje.

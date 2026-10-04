@@ -28,3 +28,4 @@ Kurz Dr. Julese Whitea (Vanderbilt), 9 h, 6 modulů, 22 videí + čtení a 6 hod
 [Otevřít složku](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004>) · [Rejstřík](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004/00 REJSTRIK – co je kde a k čemu.md>) · [Poznámky po lekcích](<file:///G:/Můj disk/vault/resources/coursera-build-anything-with-ai.md>) · [Kurz online](https://www.coursera.org/learn/build-anything-with-ai)
 
 Poznámky z použití:
+- 261004 (Lenka): trochu zklamání, pro Lenku žádné zásadně nové informace (pro další studentky ale užitečné; placený agent patří do verze B DigiStartu). **Užitečná je struktura kurzu a lekce** jako vzor pro stavbu kurzu DigiStart → [[digistart-podklady]] (Blok S). Texty lekcí stažené ve složce [Texty lekcí](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004/Texty lekcí (přepisy videí a čtení)>).

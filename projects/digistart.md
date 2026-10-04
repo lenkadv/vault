@@ -37,7 +37,7 @@ Formální požadavky databáze (ověřeno 260915):
 ## Návrh osnovy kurzu (draft, 260915)
 
 > Podklady k jednotlivým modulům (odkazy + kam patří) → [[resources/digistart-podklady]] (260930).
-> Zdroje k převzetí do osnovy: kurz AI Agent Skills for Leaders (Jules White), případně Build Anything with AI → [[claude-academy]] (260928; AI Prompting for Everyone vyřazen 260929 — placený).
+> Zdroje k převzetí do osnovy: kurz AI Agent Skills for Leaders (Jules White), případně Build Anything with AI (projito 261004: pro Lenku nic zásadně nového, užitečná je struktura kurzu a lekce → [[digistart-podklady]] Blok S, poznámky [[coursera-build-anything-with-ai]]) → [[claude-academy]] (260928; AI Prompting for Everyone vyřazen 260929 — placený).
 
 Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) — ne jen z toho, co Lenka náhodou má v `EDUCATION` (ty materiály jsou inspirace na dílčí techniky, ne kostra osnovy).
 

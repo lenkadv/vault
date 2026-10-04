@@ -5,9 +5,14 @@
 **Poznámky jsou vlastní zhuštění (261004), ne přepis.** Přesné formulace zadání a plné prompty z cvičení jsou v lekcích — odkazy níže, dokud trial běží.
 
 **Podrobné poznámky po lekcích (rozepsané, včetně postupu všech cvičení):** [[modul-1]] · [[modul-2]] · [[modul-3]] · [[modul-4]] · [[modul-5]] (obsahuje i capstone) · [[modul-6]] — složka `resources/coursera-build-anything-with-ai/`.
-**Doslovné přepisy videí:** Coursera je nabízí oficiálně u každého videa v panelu **Files** vpravo (Transcript, txt; také titulky a video). Stáhla si je Lenka sama, nebo je v trialu otevírat u lekce.
+**Doslovné přepisy videí:** všech 22 stáhla Lenka sama oficiálním tlačítkem Coursery (panel **Files** → Transcript) 261004 do `G:\Můj disk\Databanka AI\Coursera Build Anything with AI 261004\Texty lekcí (přepisy videí a čtení)\`; k nim i čtení uložená jako Google Dokumenty (`.gdoc`). Číslo v názvu = pořadí v obsahu kurzu; rejstřík je ve [složce](<file:///G:/Můj disk/Databanka AI/Coursera Build Anything with AI 261004/00 REJSTRIK – co je kde a k čemu.md>). Jen pro osobní studium, autorsky chráněné.
 
 Použij, až budeš řešit: jak zadávat AI agentovi (Claude Code) velké úkoly nad složkou souborů, aniž bys uměla programovat; jak zpětně opravit, co postavil špatně; jak AI využít na rozhodování.
+
+## Hodnocení Lenky (261004) a využití pro DigiStart
+
+Trochu zklamání: pro Lenku nic zásadně nového (pro další studentky může být obsah i popisy cvičení užitečný). **Užitečná je struktura** kurzu a jednotlivé lekce jako vzor pro stavbu kurzu [[digistart]] → [[digistart-podklady]] (Blok S: struktura kurzu, struktura lekce, co převzít a co ne).
+**Rychlý přístup z DigiStartu:** tyto poznámky (moduly 1–6 ve složce `resources/coursera-build-anything-with-ai/`) + stažené texty lekcí od Lenky ve složce na Disku (odkaz výše). Mapa v databance: [[CB – Build Anything with AI]].
 
 ## Hlavní myšlenka kurzu
 
