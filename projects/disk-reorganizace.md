@@ -17,6 +17,6 @@ Hotovo 261004: kořen Disku a 00 INBOX prázdné, klienti rozdělení (06 F2F BI
 - [ ] Podrobně projít `03 LCEnglish` (Products/HELE, Content, Tech; Shadowloop řešit samostatně)
 - [ ] Roztřídit zbytek `ZZ ARCHIV` v kořeni (AirBnB, Gnostika, Helena, Julia Cameron, Kurz rétoriky, PRESENATION, publicspeaking.cz) podle oblastí
 - [ ] Lenka: vysypat `00 INBOX/Ke smazání` (~90 položek) a projít `00 INBOX/Citlivé – ke kontrole` (23 souborů)
-- [ ] Lenka: smazat nahrávky hovorů v `06 F2F BIZ/ZZ Archiv/Olympus` (580, ~1,7 GB), ponechat vyhodnocení a reporty
+- [x] Nahrávky hovorů Olympusu (567 souborů, 1,65 GB) přesunuty 261004 do `00 INBOX/Ke smazání/Olympus nahrávky hovorů` — Lenka je smaže ručně spolu se zbytkem `Ke smazání`; vyhodnocení, reporty, Call samples a vzory zůstaly v `06 F2F BIZ/ZZ Archiv/Olympus` ✅ 2026-10-04
 - [ ] Doplnit index nahrávek v `Easy Voice Recorder` (nahrávka → předmět); otevřené: PP, `My recording NNN`
 - [ ] Shadowloop složka: samostatně rozhodnout, co s ní (zdrojové balíčky decků)
