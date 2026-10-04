@@ -57,21 +57,22 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 
 ## Říjen–prosinec 2026
 
-*Hrubý návrh — bude upřesněn v září/říjnu. Číslování navazuje na dokončené curriculum výše (#14–24). Některá díla ještě k doplnění (viz poznámky).*
+*Hrubý návrh — bude upřesněn v září/říjnu. **2026-10-04: od 20. 10. přečíslováno (+1), čísla týdnů v poznámkách a bilančních tabulkách níže jsou ještě podle starého číslování.** Číslování navazuje na dokončené curriculum výše (#14–24). Některá díla ještě k doplnění (viz poznámky).*
 
 | # | Datum | Gramatika / slovní zásoba | Dílo | Umělec / zdroj | Poznámka |
 |---|---|---|---|---|---|
-| 25 | 6. 10. | have to / must / mustn't (revision) | Zahrada pozemských rozkoší (detail) | Hieronymus Bosch (cca 1500–1505), Prado | Trocha humoru — bizarní pravidla |
+| 25 | 6. 10. | mustn't vs. don't have to (nesmíš × nemusíš; upřesněno 2026-10-04) | Zahrada pozemských rozkoší (detail) | Hieronymus Bosch (cca 1500–1505), Prado | Trocha humoru — bizarní pravidla |
 | 26 | 13. 10. | past simple: slovesa (pravidelná + nepravidelná) | Dvě Fridy nebo Zlomený sloup | Frida Kahlo (1939 / 1944), Museo Frida Kahlo | Životní příběh = přirozený past simple |
-| 27 | 27. 10. | at / on / in (revision) + data | Slovanská epopej (panel) | Alfons Mucha (1910–1928), Slovanská epopej Praha | 28. 10. Den vzniku ČSR |
-| 28 | 3. 11. | quantifiers (revision) | Zátiší | k upřesnění | 2. 11. Dušičky — klidnější téma |
-| 29 | 10. 11. | be going to (revision) + oblečení / počasí | Sv. Martin a žebrák | El Greco (1597–99), National Gallery Washington | 11. 11. Sv. Martin |
-| 30 | 17. 11. | past simple (revision) | Svoboda vede lid | Eugène Delacroix (1830), Louvre | 17. 11. Den svobody a demokracie |
-| 31 | 24. 11. | předložky místa (revision) | Sčítání lidu v Betlémě | Pieter Bruegel st. (1566), Královské muzeum Brusel | Advent od 30. 11. |
-| 32 | 1. 12. | offers / requests (revision) + vánoční slovní zásoba | Klanění tří králů | Sandro Botticelli (cca 1475), Uffizi | Advent |
-| 33 | 8. 12. | adjectives (revision) + barvy, tvary, nálady, světlo | Nativita v noci | Geertgen tot Sint Jans (cca 1490), Rijksmuseum | 5. 12. Mikuláš (po) |
-| 34 | 15. 12. | quantifiers + jídlo (revision) | Zátiší s krocanem nebo vánoční zátiší | Pieter Claesz nebo Clara Peeters | Vánoční stůl — pozn.: Peeters použita i v týdnu 8 |
-| 35 | 22. 12. | sekvence (revision) + zimní slovní zásoba | Zimní krajina s bruslíky | Pieter Bruegel st. (1565), KHM Vídeň | Vánoce / zima |
+| 27 | 20. 10. | k upřesnění | k upřesnění | k upřesnění | **Doplněno 2026-10-04:** termín v plánu chyběl (po #26 skákal rovnou na 27. 10.), nejde o pauzu. Díly #27–35 přečíslovány na #28–36, data zůstala. |
+| 28 | 27. 10. | at / on / in (revision) + data | Slovanská epopej (panel) | Alfons Mucha (1910–1928), Slovanská epopej Praha | 28. 10. Den vzniku ČSR |
+| 29 | 3. 11. | quantifiers (revision) | Zátiší | k upřesnění | 2. 11. Dušičky — klidnější téma |
+| 30 | 10. 11. | be going to (revision) + oblečení / počasí | Sv. Martin a žebrák | El Greco (1597–99), National Gallery Washington | 11. 11. Sv. Martin |
+| 31 | 17. 11. | past simple (revision) | Svoboda vede lid | Eugène Delacroix (1830), Louvre | 17. 11. Den svobody a demokracie |
+| 32 | 24. 11. | předložky místa (revision) | Sčítání lidu v Betlémě | Pieter Bruegel st. (1566), Královské muzeum Brusel | Advent od 30. 11. |
+| 33 | 1. 12. | offers / requests (revision) + vánoční slovní zásoba | Klanění tří králů | Sandro Botticelli (cca 1475), Uffizi | Advent |
+| 34 | 8. 12. | adjectives (revision) + barvy, tvary, nálady, světlo | Nativita v noci | Geertgen tot Sint Jans (cca 1490), Rijksmuseum | 5. 12. Mikuláš (po) |
+| 35 | 15. 12. | quantifiers + jídlo (revision) | Zátiší s krocanem nebo vánoční zátiší | Pieter Claesz nebo Clara Peeters | Vánoční stůl — pozn.: Peeters použita i v týdnu 8 |
+| 36 | 22. 12. | sekvence (revision) + zimní slovní zásoba | Zimní krajina s bruslíky | Pieter Bruegel st. (1565), KHM Vídeň | Vánoce / zima |
 
 ---
 

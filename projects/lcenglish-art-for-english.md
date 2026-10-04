@@ -106,14 +106,17 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Naplánovat NL #24 v Dripu na úterý 29. 9. ✅ 2026-09-28
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
 - [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky níže v sekci Substack zrcadlo
-- [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
+- [x] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — mustn't × don't have to), pak připravit brief a newsletter ✅ 2026-10-04 — hook cedule s vykřičníky (myšlenka z Kliniky pro cedule, bez odkazu), prodejní přechod do 10x ENGLISH místo snippetu super_signature
+- [ ] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu (odeslání 6. 10.) — koncept v Dripu založen 261004 (broadcast 580265168, „Tady se nesmí nic!!!//Bosch“, humanizer prošel) #next-action #online 📅 2026-10-06
+- [ ] FB upoutávka k #25 (stránka Lenka Dvořáková, `social-write` z finální verze; nemusí vyjít v den NL)
 - [ ] Po naplánování #25 v Dripu: verze pro Substack a zveřejnění (methodology 6b — povinný krok uzavření epizody)
 
 ## Aktuální stav
 
 - **Poslední newsletter:** #24 Myslbek, Pomník sv. Václava (zápor don't/doesn't/didn't) — naplánováno v Dripu na út 29. 9. 2026
-- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (have to / must / mustn't revision), úterý 6. 10. 2026
-- **K vyřešení při přípravě #25/#26:** chybí termín 20. 10. (#26 → #27 skáče na 27. 10.) — záměrná pauza? (Kolize past simple #24/#26 odpadla — #24 je zápor.)
+- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (mustn't × don't have to), úterý 6. 10. 2026
+- **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
+- **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
 
 ## Substack zrcadlo (od 260928; sloučeno z projektu lcenglish-substack-art-for-english 261004)
 
