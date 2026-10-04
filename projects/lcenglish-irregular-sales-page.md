@@ -1,7 +1,7 @@
 # LCEnglish – nová prodejní stránka Nepravidelná slovesa za 14 dní
 
 **Oblast:** lcenglish
-**Stav:** koncept v Leadpages, neveřejný; 261002 večer Lenka upravila text, čeká se na výběr obrazu a opravy drobností
+**Stav:** stránka live na `lcenglish.cz/irregular` od 261002 (Goya); zbývá živý test nákupu a měření (opraveno 261004)
 **Zahájeno:** 261002
 
 ## Cíl

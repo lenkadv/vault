@@ -184,8 +184,8 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 - Vyhodnocení spolu se Substackem po 6 dílech (3. 11. 2026) → pak i rozhodnutí o Blotatu a Metricoolu.
 
 **Kroky (procházíme postupně, jeden po druhém):**
-- [ ] 1. Rozhodnout kanály a role: začít jen IG (`lights_camera_english`), IG + FB, nebo FB stránku nechat stranou? Co dělá FB stránka Tady Lenka s publikem LCEnglish?
-- [ ] 2. Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
+- [x] 1. Rozhodnout kanály a role ✅ 2026-10-04 — porada marketing-strategy: **začít Facebookem** (stránka Lenka Dvořáková, 1,2 tis. sledujících; z každé epizody upoutávka), IG (`lights_camera_english`, 118) později. Stejná stránka nese reklamu na 10x English. Rozhodnutí v `GrowOS/lcenglish/brain/decisions.md` (2026-10-04).
+- [ ] 2. Navrhnout podobu upoutávky na FB a vyzkoušet ji na #25 nebo #26 (stránka Lenka Dvořáková; `social-write` z hotové epizody, Lenka schvaluje; plán lcenglish 261004: když nestačí čas, odkládají se upoutávky, ne reklama) #next-action #online — původní zadání: Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
 - [ ] 3. Zapsat krok do uzavření epizody (methodology, vedle 6b zrcadla na Substacku): příspěvek se připraví z hotové epizody a naplánuje v Metricoolu; změna `GrowOS/` systémových souborů dělá Lenka
 - [ ] 4. Pilot na další epizodě (#25 nebo #26): příspěvek na IG (+ FB), naplánovat přes Metricool MCP nebo ručně
 - [ ] 5. Měření: co sledovat (dosah, uložení, prokliky do Dripu / Substacku, noví odběratelé), jednotný štítek zdroje v Dripu, ať je vidět přechod ze sítí

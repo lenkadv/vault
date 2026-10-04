@@ -59,8 +59,12 @@ větve podle úrovně.
   2026-09-14)
 - Přes 1.200 studentů z 80 zemí — **checked**, viz výše (souhrnně za všechny kurzy; u česko-anglických produktů jako 10x ENGLISH nepoužívat, viz lessons/261001)
 - Lenka je lektorka s **25letou praxí** — **confirmed** (Lenka, 2026-10-01)
-- Velikost e-mailového listu: [PLACEHOLDER: doplnit — rozhoduje o tom, jak
-  velká je reálná dostupná evidence a jak naléhavý je list-growth lever]
+- Velikost e-mailového listu: **aktivní segment „Newsletter“ = 116 lidí**
+  (rozesílka Art for English #24, 29. 9. 2026, Drip) — **checked** 2026-10-04.
+  Pokles z ~1 950 (listopad 2025) je **záměrné pročištění**, ne odliv
+  (důvod v `decisions.md`, 2025/2026). Neaktivní kontakty zůstaly v adresáři
+  Dripu bez poplatku a dají se použít jako publikum pro reklamu na Facebooku
+  — **confirmed** (Lenka, 2026-10-04).
 - Ad spend: [PLACEHOLDER: doplnit — pokud se v tomto kole neřeší platba za
   reklamu, tohle může zůstat prázdné bez dopadu]
 - Nejúspěšnější YouTube videa jsou evergreeny 4–6 let staré a stále přivádí
@@ -79,9 +83,11 @@ větve podle úrovně.
   Jeden dřívější pokus postavit webinářový funnel pro HELE zůstal
   rozpracovaný a nikdy neběžel se skutečnými penězi — **confirmed** (Lenka,
   2026-09-14).
-- **Stav Meta ad účtu je nejistý** — **confirmed** (Lenka, 2026-09-14):
-  možná poškozený sloučením s tadylenka profily. Next-action: ověřit přímo v
-  Meta Business Suite, než se plánuje jakákoliv nová kampaň.
+- **Meta Business Suite funguje** — **checked** (Lenka, screenshot
+  2026-10-04): stránka „Lenka Dvořáková“ (FB 1,2 tis. sledujících, propojený
+  IG 91), Správce reklam dostupný. Reklamy by tedy šly ze stránky Lenka
+  Dvořáková (samostatná FB stránka LiCaEnglish neexistuje). Samotný reklamní
+  účet (platby, historie) zatím neprověřen. (Dřív 2026-09-14: „stav nejistý“.)
 - **Analytika webu neověřená — next-action, ne fakt:** stará čísla ("top 3
   stránky ~40 % návštěvnosti", "/blog/ 2,4 %", "/kurzy/ 3,8 %") se z tohoto
   souboru odstranila, protože je nemám jak ověřit bez přístupu k analytice a

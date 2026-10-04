@@ -4,6 +4,19 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 
 ---
 
+## 2026-10-04 (porada marketing-strategy)
+**Cíl do začátku ledna 2027: znovu otestovat LCEnglish jako zdroj příjmu.** Rozhodnutí z porady:
+1. **Hlavní kanály: e-mail (Drip) + Facebook** (stránka Lenka Dvořáková). Blog/SEO vyřazen (2026-09-29).
+2. **Substack Art for English = jen zrcadlo e-mailu**, ne samostatný kanál.
+3. **Z každé epizody Art for English se dělá i příspěvek (upoutávka) na Facebook.**
+4. **Reklama na Facebooku vede rovnou na prodejní stránku 10x ENGLISH** (`lcenglish.cz/10x-english`), ne nejdřív na přihlášení na list. Když první kolo neprodá, jednou vyhodnotit a upravit, zastavit až po druhém neúspěšném kole.
+5. **Instagram a ChatGPT Ads až později**; teď jedna nová platforma.
+
+Proč: Art for English dostává jen 116 stávajících odběratelů, nové lidi nepřivádí; e-mail + Substack jsou zajeté, takže je kapacita na další kanál; FB stránka má největší publikum (1,2 tis.) a reklama běží ze stejného místa. Kompromis: reklama rovnou na prodej je riziko (u Nepravidelných sloves se nevyplatila, ale nevyhodnotila se). Nerozhodnuto: termín spuštění reklamy (až bude připravená, vlastní blok se skilly `ads-meta-*`), týdenní kapacita při škole, podoba upoutávky, dárek za přihlášení na list (až po testu).
+
+## 2026-10-04 (zapsáno; pročištění proběhlo dřív)
+**E-mailový list pročištěn na ty, kdo se aktivně přihlásili k dalšímu odběru.** Proč: Drip účtuje měsíční poplatek za každého odběratele, i když se nic nerozesílá — Lenka platila za ~2 000 lidí, kterým nepsala. Zůstali jen ti, kdo aktivně potvrdili další odběr (segment „Newsletter“, 116 lidí k 29. 9. 2026). Kompromis: list je asi desetina původního, Art for English proto nepřivádí nové lidi — jde jen stávajícím odběratelům. Neaktivní kontakty zůstaly v adresáři bez poplatku → **lze na ně mířit reklamu na Facebooku** (vlastní publikum). Nerozhodnuto: zda a jak je oslovit reklamou. (Lenka 2026-10-04; nevykládat pokles jako odliv čtenářů.)
+
 ## 2026-10-02
 **Reference na prodejních stránkách: „křestní jméno + iniciála příjmení“ je v pořádku** (Lenka 261002, upřesňuje pravidlo z 260927 „jen křestní jméno nebo anonymně“). Příklad: Kamila B., Vít B., Daniela T., Romana S. Kde příjmení neznáme (Hanka), jen křestní jméno. Citace vždy celé věty, bez hranatých závorek s výpustkami (co se vypouští, vypustí se celé věty). Podpis nemusí uvádět, ze kterého kurzu reference je (pokud je celkově o Lenčině způsobu učení).
 

@@ -105,6 +105,7 @@ Anglicky: „Hi Mark,“ / „Hello,“ → „Best,“ / „Best regards, Lenka
 - Vzorec „není jen X. Je to Y.“ a vznešené formulace („vědomé rozhodnutí otevřít novou kapitolu“): raději se vyhnout, ale není to zakázané. Jeden výskyt v delším textu nevadí, víc ano (Lenka 260929). Viz [[banka-akademicky]], oddíl 12.
 - U čistě informačních mailů (reklamace, žádost o refundaci, podpora v angličtině) na hlasu tolik nezáleží. Hlavní je, aby informace byla jasná a úplná (Lenka 260929).
 - Dlouhý úvod, opakované díky, „Doufám, že se máte dobře“.
+- Vysvětlující závorky a důvody, proč něco nevychází („ráno mám školu, ve čtvrtek vycházky“): stačí fakt. Mail raději kratší, spojit věty (260930, 261004).
 - Dlouhá pomlčka „–“ a typografické uvozovky.
 - Oslovení samotným příjmením (viz [[feedback_osloveni_lidi]]).
 
@@ -121,3 +122,10 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
 - **261001, Vítek (syn, technická prosba na Signalu – fapipi/Drip):**
   - Vyškrtnuto: předmět, oslovení „Ahoj Vítku,“, podpis „Díky! L.“, úvodní „dneska… a všechno funguje – jen…“ i Claudův tip na příčinu („Napadá mě, jestli…“).
   - **Pravidlo:** technická zpráva Vítkovi na Signalu = bez oslovení a podpisu, rovnou věcně: co jsem testovala → co je špatně (s čísly a identifikátory) → prosba „Mohl by ses podívat…?“ → co jsem nechala k testování. Domněnky o příčině nepsat, to je jeho práce.
+- **261004, FuTr (Veronika z recepce studia, osobní kontakt, ona tyká „Ahoj Lenko“), odpověď na „Po + St 18:00 je plné“:**
+  - Z mého konceptu vypadly důvody („ráno mám školu, ve čtvrtek mám celé odpoledne vycházky“). **Pravidlo:** omezení nevysvětlovat, stačí „mi nevycházejí“ (druhý případ po 260930 „kratší“, proto povýšeno do „Čemu se Claude vyhne“).
+  - „Bylo by tam náhodou volné místo?“ → „(V rozvrhu na webu vidím i trénink Po + St 19:00. Nezmiňuješ ho v kurzech s volnou kapacitou, takže asi ani to teď není alternativa.)“. **Pravidlo:** když odpověď plyne z toho, co mi adresát právě napsal, nepsat zbytečný dotaz, ale vlastní závěr („takže asi…“), v závorce; zdvořilé a přitom šetří adresátovi práci.
+  - Osoba tyká, tak i Lenka jí tyká („Nezmiňuješ“), ale organizaci oslovuje množným vy („Jestli máte nějaký seznam náhradníků“). **Pravidlo:** tykání/vykání podle toho, k jaké osobě se věta vztahuje, v jednom mailu se smí střídat.
+  - „zařaďte mě prosím mezi náhradnice… a dejte mi vědět, kdyby se uvolnilo. Od listopadu se zeptám znovu.“ → „Jestli máte nějaký seznam náhradníků, prosím, zařaďte mě tam… Má smysl se znovu ptát od listopadu?“ **Pravidlo:** nepředpokládat, že organizace nějaký systém (seznam náhradníků) má („Jestli máte…“), a místo oznámení vlastního kroku se zeptat, co doporučují. Vynechat „dejte mi vědět“, plyne z toho samo.
+  - „Díky,“ + „Lenka Dvořáková“ → „Díky,“ + „L.“ a vypadlo „Moc díky za rychlou odpověď“. **Pravidlo:** osobní kontakt, který zná její jméno z předchozí korespondence, dostane podpis „L.“ (poloha „blízcí/známí“), ne celé jméno; poděkování jednou.
+  - Technická poznámka: koncept jsem psala bez přečteného profilu (postup `hlasy.md` vznikl dnes ve weekly review vlákně, tohle vlákno ho neznalo). Příště před psaním za Lenku vždy číst profil podle tabulky v `resources/postupy/hlasy.md`.

@@ -18,6 +18,8 @@ Face-to-face konzultace/školení (GNOSTIKA, Michal Kocián, NG) teď nesou byzn
 
 **Priority:** žádné vynucené — reagovat na příležitosti, jak přicházejí, ne stanovovat objemové cíle pro nejasný byznys.
 
+**Kontrola na nejbližším quarterly review (zapsáno 261004):** lcenglish už není „donor“ — Lenka 261004 rozhodla znovu ho otestovat jako zdroj příjmu. Plán do ledna 2027: `GrowOS/lcenglish/brain/plan.md` (e-mail běží, nově Facebook: upoutávky z Art for English + reklama na 10x ENGLISH, úspěch = cena za prodej pod 1 270 Kč). Na review vyhodnotit: běží reklama, jaká je cena za prodej, dělají se upoutávky → stojí lcenglish za další peníze a čas? Postup v [[projects/lcenglish-10x-english-sales-page]].
+
 ---
 
 ## Téma 3: Restartovat tadylenka

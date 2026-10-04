@@ -40,3 +40,6 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
 - **AI Agent Skills for Leaders** — Dr. Jules White, Vanderbilt (Coursera) — https://www.coursera.org/learn/agent-skills — přečteno 261004
   - Použij, až budeš řešit: vysvětlení „co je skill“ začátečnici a rozdíl „text v chatu vs. hotový výstup (dashboard, zip, CSV)“ — rámec ELITE.
   - Přímý přístup: [[coursera-agent-skills-for-leaders]] (doporučení, co číst; poznámky po modulech). Texty dvou skillů (Dashboard It, File Organizer) jsou pod CC BY 4.0, smí se použít s uvedením zdroje.
+
+- **Poučení z ochutnávky `marketing-strategy` (Lenka 261004)** — vlastní zkušenost, zdroj: [[GOS – marketing-strategy]] (Databanka), plán `GrowOS/lcenglish/brain/plan.md`
+  - Použij, až budeš řešit: co účastnicím předávat. Plánovací skill sám o sobě vyrobí jen dokument (plán), nehlídá realizaci ani kontrolu. Předávat ho má smysl **jen spolu se systémem, který realizaci hlídá** (projekty, next actions, pravidelné review) — jinak zůstane plán na papíře.
