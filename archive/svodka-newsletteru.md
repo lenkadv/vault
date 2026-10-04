@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/ai-nastroje]]
 **Založeno:** 260926
-**Stav:** aktivní — formát ustálen 260927, svodka běží denně jako krok `/daily-plan`
+**Stav:** ✅ dokončeno a archivováno 261004 — formát a rozsah potvrzeny Lenkou beze změny; svodka běží denně v `/daily-plan` podle [[resources/postupy/svodka]], tabulka „Vydaná čísla“ a adresa stránky jsou tam (přesunuto 261004)
 
 ## Co to je
 
@@ -21,18 +21,7 @@ Lenka nestíhá číst newslettery (Gmail záložky **Promo akce** a **Aktualiza
 - [x] Profil zájmů a formát zapsány → [[resources/postupy/svodka]]; rytmus = denně v rámci `/daily-plan`
 - [x] Gmail konektor má od 260927 právo upravovat štítky (po odpojení a novém připojení)
 - [x] První denní svodka v rámci `/daily-plan` 260928 (období od 27. 9.)
-- [ ] Po prvním týdnu denních svodek zhodnotit délku a oddíly #next-action #online 📅 2026-10-04
-
-## Vydaná čísla
-
-| Č. | Období | Poznámka |
-|---|---|---|
-| 1 | 14.–26. 9. 2026 | zkušební, ~150 vláken; 260927 doplněn rozbor Mollicka; schránka vyčištěna (Lenka smazala `Svodka/smazat`) |
-| 2 | 27. 9. – 28. 9. 8:40 | první denní, 19 vláken; 1× Vyžaduje pozornost (Kaufland tiket); 17 vláken `Svodka/smazat`, uchovat nic |
-| 3 | 28. 9. 8:40 – 29. 9. 10:30 | 47 vláken; 4× Vyžaduje pozornost (Kaufland storno, Česká pošta, Štěpánka Uličná Agendy OSA, ResearchGate); 33 vláken `Svodka/smazat`, uchovat nic |
-| 4 | 29. 9. 10:30 – 30. 9. 11:10 | 34 vláken; 4× Vyžaduje pozornost (Jan Žáček na JIP, PENTA MAS 4, italki potvrzeno, Knihobot watchdog); 28 vláken `Svodka/smazat`, uchovat nic |
-| 5 | 30. 9. 11:10 – 1. 10. 9:10 | 35 vláken; 4× Vyžaduje pozornost (KTF výkaz Opakované stipendium, Štěpánka Uličná k DigiStartu, Tandem 13. 10. potvrzen, Knihobot = jen košík); 27 vláken `Svodka/smazat` (Wilco a Laura Belgray archivovat — swipe bez webové verze), ICOM talk bez štítku |
-| 6 | 1. 10. 9:10 – 2. 10. 10:50 | 38 vláken; 5× Vyžaduje pozornost (FreshLearn 449 USD, Vox poptávka školení, KTF EK termín, Milan Pech Přehledovka, TidyCal Stripe); 23 vláken `Svodka/smazat`, `Svodka/uchovat` Mollick a The Rest Is History (Reading List) |
+- [x] Po prvním týdnu denních svodek zhodnotit délku a oddíly ✅ 2026-10-04 — Lenka: svodky jsou výborné, formát a rozsah zůstávají beze změny i do budoucna
 
 ## Související
 

@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/ai-nastroje]] (souvisí s [[areas/lcenglish]], [[areas/tadylenka]], [[areas/studies]])
 **Založeno:** 260926
-**Stav:** aktivní — všech 6 profilů hotových (260929). Zbývá údržba: prvky z ABM Brand voice guide, pravidlo „přepis → poučení“, kurzy z [[kurzy-marketing]]
+**Stav:** aktivní — všech 6 profilů hotových (260929), pravidlo „přepis → poučení“ zavedeno 261004. Zbývá: kurzy z [[kurzy-marketing]]
 
 ## Cíl
 
@@ -64,15 +64,13 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
 
 - [x] Zmapovat zdroje (260927, viz Mapa zdrojů výše)
 - [x] S Lenkou potvrdit rozdělení do profilů, pořadí a co do banky patří (260927)
-- [ ] Profil po profilu: banka → návrh profilu → Lenčiny opravy. Profil 3 (lcenglish e-maily): banka + návrh hotové 260927.
+- [x] Profil po profilu: banka → návrh profilu → Lenčiny opravy (všech 6 hotových 260929). Profil 3 (lcenglish e-maily): banka + návrh hotové 260927.
   - [x] Profil 3: návrh odsouhlasen 260927 (odkaz víckrát = OK, příběhový styl lepší, ale ověřit proti kurzům)
   - [x] Statistiky LCEnglish staženy 260928 (broadcasty 2023–2025 kompletní + část 2020–21) → `GrowOS/lcenglish/brain/research/260928-drip-statistiky-broadcastu.md`. Trik: MCP/API `metrics/email` s filtrem `broadcast_ids` po 10 = ~18 dotazů na 3 roky.
   - [x] Zhodnotit webinářovou sekvenci AI lektorů 260928 → [[01-rozbor-webinarove-sekvence]] (prodává webinář; −15 min a záznam ≈ polovina tržeb; 3 maily poslední den bez únavy; nedělní mail nejslabší; 2 otázky pro Lenku na konci)
   - [x] Profil 5 (tadylenka): Substack export → `GrowOS/tadylenka/brain/samples/substack-archiv/` (10 článků + otevíranost) 260927
-  - [ ] Kurzy z [[kurzy-marketing]] projít s Lenkou (postupně, nejdřív ten nejaktuálnější)
   - [x] Profil 2 — profesní: banka + návrh 260928 → [[banka-profesni]], [[profil-profesni]] (26 mailů: PENTA, EVIDENT, Galleko, NG, VOX, KTF; maily Štěpánce Uličné vyřazeny — specifický tón kamarádky a spolupracovnice)
   - [x] Profil 2: odpovědi na otázky zapracovány, profil odsouhlasen 260928
-  - [ ] Nedělní mail AI lektorů přepsat tak, aby vedl k nákupu (až se budou psát nové webinářové maily) — viz [[01-rozbor-webinarove-sekvence]]
   - [x] Profil 6 — akademický: banka + návrh 260929 → [[banka-akademicky]], [[profil-akademicky]] (4 seminárky: Vojtěch 2025, Male Gaze, Restaurování, Litomyšl 2026 + lekce Eva; Restaurování a Litomyšl podezřele „AI-neutrální“ → otázka 1)
   - [x] Profil 6: odpovědi zapracovány 260929, doplněny články Mundus Symbolicus I/I/07 a I/I/08, sekce „Práce s AI podporou“ (Vojtěch = měřítko hlasu)
   - [x] Profil 6: seznam AI obratů potvrzen celý 260929, Claude ho hlídá i v Lenčiných větách; IN OMNEM TERRAM = druhé měřítko hlasu
@@ -84,11 +82,12 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
   - [x] Profil 5: odpovědi zapracovány do `GrowOS/tadylenka/brain/voice.md` 260929 (první osoba a anachronismy = záměr; krátká věta jen jako pointa; recenze v hlasu, ze skillu review-exhibition jen postup; uvítací příspěvek přepsat → [[tadylenka-publishing]])
 
 **Rytmus:** 1 profil = 1 vlákno = 1 blok v kalendáři (~1 h Lenčina času: přečíst návrh a opravit). Po dokončení profilu next-action advancement na další v pořadí výše a navrhnout blok na další profil.
-- [ ] Doplnit do profilů 3 prvky z [[ABM – Brand voice guide]] (odvozené z banky, ne z dotazníku): vlastnosti „znamená / neznamená“, tabulka „jsme / nejsme“, jedno sdělení v různých situacích (Lenka zkontroluje), kontrolní seznam pro Clauda. Pilot na [[profil-profesni]], pak jako šablona pro další profily (260928)
+- [x] Doplnit do profilů 3 prvky z [[ABM – Brand voice guide]] (odvozené z banky, ne z dotazníku): vlastnosti „znamená / neznamená“, tabulka „jsme / nejsme“, jedno sdělení v různých situacích (Lenka zkontroluje), kontrolní seznam pro Clauda. Pilot na [[profil-profesni]], pak jako šablona pro další profily (260928)
   - 260929 pilot doplněn do [[profil-profesni]] (4 vlastnosti se „znamená / neznamená“, tabulka „jsem / nejsem“, jedno sdělení v 5 situacích, kontrolní seznam)
   - [x] Lenka ukázky schválila 260929 („funguje to výborně“); prvky doplněny do všech profilů: [[profil-osobni]], [[profil-akademicky]], lcenglish a tadylenka `voice.md`
-- [ ] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy (zapsat do CLAUDE.md / GrowOS lessons) #next-action #online
-- [ ] Volitelně: nainstalovat skill Email Triage (Productivity Pack v `Downloads`) — jeho voice-profile je menší verze profilu 1
+- [ ] Projít kurzy z [[kurzy-marketing]] s Lenkou — postupně, nejdřív ten nejaktuálnější; cíl: vytěžit pro psaní e-mailů, webinářových sekvencí, prodejních stránek (Lenka 261004: rozhodně chceme) #next-action #online
+- [x] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy ✅ 2026-10-04 → `resources/postupy/hlasy.md` + řádek v tabulce Postupy v CLAUDE.md + memory `reference_voice_profiles`
+- [x] ~~Skill Email Triage~~ — nenainstalovat (261004): to samé dělá svodka; zvážit jen vzor: koncept návrhů odpovědí v Lenčině hlasu u mailů z „Vyžaduje pozornost“
 
 ## Související
 

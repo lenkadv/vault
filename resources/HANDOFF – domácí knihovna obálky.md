@@ -47,7 +47,7 @@
 
 **Nový gotcha (dávka 7):** duplicitní tituly bez rozlišujícího textu v názvu (víceset knih ze série "Dějiny českého výtvarného umění" — dva svazky mají doslova identický title string) nejde spárovat jen přes `notion-search` podle title — vrátí obě stránky, nejde vědět která je která. Řešení: `notion-fetch` na obě kandidátské page_id, porovnat `Volume` property proti číslu svazku z `Photo_Path` (v Handy Library je číslo svazku v cestě k souboru jako `volNN`). U víceumělkyň se stejným titulem (např. "Dějiny umění 1–10" od Pijoana) toto riziko nehrozí, protože číslo dílu je přímo v title stringu — problém nastává jen když je číslo dílu uložené výhradně ve `Volume` property, ne v title. Postup mírně zjednodušen oproti kroku 3 níže: **místo paginace celého "Show All" view stačí `notion-search` s `data_source_url: "collection://1b8aeae6-0bc6-81e2-b9ba-000b3fc3c664"` a dotazem "Název Autor"** — v dávce 5 trefil přesný název jako první výsledek u všech 30/30 knih, žádné fuzzy matching ani ruční CSV lookup nebylo potřeba. Rychlejší i spolehlivější než plánovaná paginace přes `notion-query-data-sources`. Nový trik: **leftover soubory z předchozí session scratchpad se dají znovu použít** — `extracted/handy_book_library.db` a `source.zip` z minulé noci ležely v `C:\Users\Lenka\AppData\Local\Temp\claude\G--M-j-disk-vault\{jiné session ID}\scratchpad\handylib\`, zkopírovány do aktuální scratchpad místo nového stahování/rozbalování zálohy. **Nový gotcha:** Python volaný z Bash tool nerozumí Git-Bash cestám (`/c/Users/...`) — `sqlite3.connect()`/`open()` s takovou cestou spadne na `unable to open database file` i když soubor evidentně existuje (`os.path.exists` na `/c/...` vrátí `False`). Vždy použít Windows-style cestu (`C:\Users\...`) v Python skriptech volaných touto cestou, i když samotný Bash příkaz cesty v `/c/...` tvaru běžně akceptuje.
 
-Kontext projektu: [[projects/domaci-knihovna]], [[resources/postupy/knihovna]] (dříve CLAUDE.md sekce „Workflow: Domácí knihovna", přesunuto 260926).
+Kontext projektu: [[someday-maybe]] (záznam Domácí knihovna, od 261004), [[resources/postupy/knihovna]] (dříve CLAUDE.md sekce „Workflow: Domácí knihovna", přesunuto 260926).
 
 ## Notion identifikátory
 
@@ -125,7 +125,7 @@ Tohle běží při každém dalším syncu (weekly review krok Zettelkasten, neb
 2. Znovu spustit fuzzy match (título+autor, práh 0.82) mezi **novými** řádky a **celou** aktuální elektronickou/fyzickou množinou (ne jen mezi sebou) — zachytí případy, kdy nová fyzická kniha odpovídá už existujícímu LN, nebo naopak.
 3. Lenka naimportuje malé CSV přes nativní import — **nejde o delete+reimport**, jen přidání nových řádků, žádné riziko ztráty starých dat.
 4. Obálky nových položek (online URL i vyfocené) doplnit stejným per-page postupem jako v hlavní části tohohle handoffu — ale jen pro novou dávku, což by mělo být řádově jednotky až nízké desítky položek, ne stovky.
-5. Zapsat datum syncu a počet přidaných položek do [[projects/domaci-knihovna]] sekce Průběh.
+5. Zapsat datum syncu a počet přidaných položek do záznamu „Domácí knihovna“ v [[someday-maybe]].
 
 ## Gotchas, na které narazíš znovu
 

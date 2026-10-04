@@ -11,7 +11,7 @@ Metoda „pomalého dívání“: průměrný návštěvník dá obrazu 27 sekun
 
 - **The Art of Slow Looking (A Beginner's Guide)** — Behind the Masterpiece (Substack), 24. 9. 2026 — [přehled celé série](https://behindthemasterpiece.substack.com/p/the-art-of-slow-looking-a-beginners) · [mail](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877215266834355454)
   - Použij, až budeš řešit: rubriku **Co vidíš? Tak vidíš!** (tadylenka) — struktura „vést čtenáře obrazem po krocích“; komentované prohlídky / „Rande s uměním“; vlastní dívání na výstavách
-  - [ ] #zettel Zpracovat: [[Slow looking — Behind the Masterpiece]] (projít všechny 4 díly podrobně)
+  - Projít všechny 4 díly podrobně, až budeš připravovat rubriku (zdroj k použití, ne k zpracování do zettelkasten — Lenka 261004)
 
 ## Struktura série (4 díly)
 

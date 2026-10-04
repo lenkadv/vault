@@ -17,7 +17,8 @@
 ## Otevřené úkoly
 
 - [x] Podívat se do rozvrhu FuTru — vybráno Po + St 18:00 ✅ 2026-09-29
-- [ ] Po potvrzení místa (mail FuTru odeslán 29. 9.) zaplatit školné říjen–prosinec 6 000 Kč (e-shop https://www.funkcnitrenink.cz/produkt/skolne_3_mesice/ nebo převod s VS na 2300769531/2010) #next-action #online 📅 2026-10-05
+- [ ] Po potvrzení místa (mail FuTru odeslán 29. 9.) zaplatit školné říjen–prosinec 6 000 Kč (převod s VS na 2300769531/2010; odkaz na e-shop `…/produkt/skolne_3_mesice/` 261004 vrací 404; podle VOP před prvním tréninkem) #online (čeká na potvrzení FuTru → [[waiting-for]]; `#next-action` až po potvrzení) 📅 2026-10-05
+  - **Pravidla školného (ověřeno 261004 na https://www.funkcnitrenink.cz/jak-casto-chodit/ a /storno-a-platebni-podminky/):** školné se hradí na **celé kalendářní měsíce, ne od data do data**, na 3 po sobě jdoucí měsíce; už započatý měsíc se nevrací. Pozdější start v říjnu tedy neposouvá konec (stále říjen–prosinec), jen ubírá hodiny. Náhrada zmeškané hodiny: nejvýš 1× za kalendářní měsíc, e-mailem aspoň 48 h předem, **není nárokově**. Nezaplacená období lze zrušit s 50% poplatkem. Možnosti: začít po 5. 10. (z října zbyde 7 hodin, st 7. 10. odpadá kvůli Michalu Kociánovi), po 12. 10. (6 hodin), nebo začít až listopadem (platí se listopad–leden, říjen se nepropálí).
 - [ ] Začít chodit (po, st) — po zaplacení permanentky
 - [x] Nastavit denní ranní vážení nalačno + vybrat appku pro sledování trendu ✅ 2026-08-05
 - [x] Koupit inulin, zkusit přidat k snídani ✅ 2026-08-03

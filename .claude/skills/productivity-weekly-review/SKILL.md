@@ -1,11 +1,11 @@
 ---
 name: productivity-weekly-review
-description: Spustí kompletní týdenní review — GTD kroky 1–11 + ritual reflexe a výhledu. Trigger: "weekly review", "reflexe týdne", "priorities na příští týden", "shrnutí týdne".
+description: Spustí kompletní týdenní review — GTD kroky 1–10 + ritual reflexe a výhledu. Trigger: "weekly review", "reflexe týdne", "priorities na příští týden", "shrnutí týdne".
 ---
 
 # productivity-weekly-review
 
-Tento skill pokrývá **celé týdenní review** — GTD kroky 1–11 i následný ritual.
+Tento skill pokrývá **celé týdenní review** — GTD kroky 1–10 i následný ritual.
 
 Tok: GTD čištění → look back → reflect → process → look forward → uložit.
 
@@ -31,8 +31,8 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 - **Žádný souhrnný přehled předem** a žádný seznam všech otázek naráz. Nepředkládat "co potřebuju od tebe: 1, 2, 3".
 - **Claude sám dělá jen mechanické kroky** (kontrola Disku, archivace dailies, aktualizace `posledni_kontrola`, čtení souborů). Rozhodnutí (keep/drop/defer, přesun, smazání) dělá Lenka; Claude zapíše až po její odpovědi.
 - Nic nemazat ani nepřesouvat bez její reakce.
-- **Žádný krok nepřeskakovat z vlastního rozhodnutí.** Pokud je krok nevhodný nebo pozastavený (např. Notes fronta), Claude ho předloží a o přeskočení rozhodne Lenka. Platí i pro položky z CLAUDE.md (runway tadylenka, Zettelkasten review, kontrola Handy Library, master-dashboard, upozornění na úkoly bez pohybu 2+ týdny).
-- Po vyřízení jednoho bodu rovnou přejít na další. Po kroku 11 přejít na Rituál.
+- **Žádný krok nepřeskakovat z vlastního rozhodnutí.** Pokud je krok nevhodný nebo pozastavený, Claude ho předloží a o přeskočení rozhodne Lenka. Platí i pro položky z CLAUDE.md (runway tadylenka, Zettelkasten review, kontrola Handy Library, master-dashboard, upozornění na úkoly bez pohybu 2+ týdny).
+- Po vyřízení jednoho bodu rovnou přejít na další. Po kroku 10 přejít na Rituál.
 
 1. [[master-dashboard]] — rychlý přehled: co má next action, co nemá, co čeká
 2. `projects/` — každý projekt: živý nebo do someday/archive? Next action aktuální?
@@ -42,9 +42,8 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 6. [[omnibus]] — zpracovat zachycené položky
 7. `areas/` — aktivní projekty v každé oblasti aktuální?
 8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle `resources/postupy/knihovna.md` (odkaz z CLAUDE.md sekce Pravidelné revize). Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
-9. **tadylenka Notes fronta** — otevřít [[notes-candidates]]: projít kandidáty, vybrat co postovat (naformátovat jako hotovou Note), zbytek smazat nebo ponechat
-10. Note Inbox review — spustit `/note-inbox-review`
-11. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **všechny starší než dnešní** (dnešní den ještě běží). Review běží mezi pátkem a nedělí, o víkendu dailies většinou nevznikají, takže se archivuje hned všechno předchozí, nic nevisí další týden. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.
+9. Note Inbox review — spustit `/note-inbox-review`
+10. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **všechny starší než dnešní** (dnešní den ještě běží). Review běží mezi pátkem a nedělí, o víkendu dailies většinou nevznikají, takže se archivuje hned všechno předchozí, nic nevisí další týden. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.
 
 ---
 

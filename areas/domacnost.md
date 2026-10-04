@@ -4,7 +4,6 @@ Péče o byt, vybavení a věci kolem domácnosti — opravy, údržba, katalogi
 
 ## Aktivní projekty
 
-- [[projects/domaci-knihovna]]
 - [[projects/hodinovy-manzel]]
 
 ## Klíčové trvalé odkazy

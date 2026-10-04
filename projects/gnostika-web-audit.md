@@ -40,6 +40,6 @@ Jednostránkový web („digitální vizitka“) GNOSTIKA CONSULTING, s.r.o. o p
 
 ## Next actions
 
-- [ ] Zapracovat zpětnou vazbu Štěpánky do konceptu webu GNOSTIKY (žlutá místa, tón, reference); stránka `fFhdZ1PwT5` v Leadpages #next-action #online
+- [ ] Zapracovat zpětnou vazbu Štěpánky do konceptu webu GNOSTIKY (žlutá místa, tón, reference); stránka `fFhdZ1PwT5` v Leadpages #online (čeká na Štěpánku → [[waiting-for]]; `#next-action` až po její zpětné vazbě)
 
 Čeká se na Štěpánku → [[waiting-for]] (follow-up 2026-10-07).

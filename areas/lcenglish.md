@@ -6,8 +6,6 @@ Online kurzy angličtiny pro Čechy. Příběhová metoda, animovaný seriál. S
 ## Aktivní projekty
 
 - [[projects/lcenglish-art-for-english]]
-- [[projects/lcenglish-substack-art-for-english]]
-- [[projects/lcenglish-online-kurz]]
 - [[projects/lcenglish-10x-english-sales-page]]
 - [[projects/lcenglish-irregular-sales-page]]
 

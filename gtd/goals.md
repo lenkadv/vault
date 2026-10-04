@@ -8,7 +8,7 @@
 
 ## lcenglish
 → [[areas/lcenglish]]
-- **Anchor přehodnocen 260823:** hlavní příjmový stream teď jsou face-to-face školení/konzultace, ne lcenglish. lcenglish zůstává vedlejší donor projekt (viz [[decisions/260523-lcenglish-jako-donor]]) — čeká na kapacitu, review kolem 5.10. Předchozí nastavení (lcenglish = anchor) neplatilo prakticky ani s prioritou (stav 260804 — [[project_income_reality_lcenglish_vs_consulting]]).
+- **Anchor přehodnocen 260823:** hlavní příjmový stream teď jsou face-to-face školení/konzultace, ne lcenglish. lcenglish zůstává vedlejší donor projekt (viz [[decisions/260523-lcenglish-jako-donor]]) — čeká na kapacitu, review kolem 5.10. **261004: review zrušeno, lcenglish zůstává kanálem příjmů a Lenka ho chce znovu nahodit (10x English → studené publikum, reklamy) → [[lcenglish-10x-english-sales-page]].** Předchozí nastavení (lcenglish = anchor) neplatilo prakticky ani s prioritou (stav 260804 — [[project_income_reality_lcenglish_vs_consulting]]).
 - Funnely/ads/online kurzy se v tuhle chvíli neosvědčily jako cesta — žádný vynucený cíl, žádná konkrétní otázka k příštímu zvážení. Naordinovaný odpočinek od marketingové práce, pak se uvidí.
 - Reframe celého businessu pod shadowing umbrella (unikátní pozice na CZ trhu, vlastní appka) — ponecháno jako otevřená možnost, ne aktivní cíl
 

@@ -12,7 +12,7 @@ Použij, až budeš řešit: psaní mailů, newsletterů a webinářových sekve
 | Email Marketing Heroes League (+ Sales Page, Sandra Holze, OMFG2026) | Sandra Holze | 17 gdoc, 6 pdf | e-mailový marketing, prodejní stránka | nezpracováno |
 | Kate McKibbin: Launch Lab, eCourse Empire, The Content Collective | Kate McKibbin | 20 pdf, 11 gdoc | launch, online kurz, obsah | nezpracováno |
 | Digital Course Academy | Amy Porterfield | 3 pdf, 1 mp3 | online kurz, webinářový launch | nezpracováno (jen zlomek obsahu) |
-| White Label Comedy (mini funny VSL, Frameworks, BAM) | — | 46 pdf, 110 png, 4 gdoc | humor v prodeji, VSL | nezpracováno |
+| White Label Comedy (mini funny VSL, Frameworks, BAM) | — | 46 pdf, 110 png, 4 gdoc | humor v prodeji, VSL | nezpracováno; 261004 Lenka: nechat ležet, projít při rekapitulaci digitálních zdrojů. Komunita **Ads Club** (Adam, „Brian“ = AI marketér s komediálními rámci, týdně 5 nových): https://adsclub.whitelabelcomedy.com/join/hccac-0826b-sp · mail [Gmail – „Big Numbers, Big Feelings“ (260928)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877569562136722315) |
 | Ad Flight Navigator (Ad Building Blocks, Scripts & Ad Copy Templates) | — | 54 docx, 4 gdoc | reklamy, šablony textů | nezpracováno |
 | Winning Ads | — | 1 gdoc | reklamy | nezpracováno |
 | Canva Crash Course | Tina Ghazi | 2 pdf | grafika | nezpracováno |

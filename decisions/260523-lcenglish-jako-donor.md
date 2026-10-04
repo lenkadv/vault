@@ -2,12 +2,14 @@
 decision: lcenglish jako donor pro dějiny umění
 date: 2026-05-23
 review_date: 2026-10-05
-status: Open
+status: Superseded
 ---
 
 # lcenglish jako donor pro dějiny umění
 
-> **Decided:** 260523 · **Review:** 261005 (posunuto z 260823) · **Status:** Open
+> **Decided:** 260523 · **Review:** 261005 (posunuto z 260823) · **Status:** Superseded 261004
+>
+> **261004 (weekly review):** Lenka review zrušila. lcenglish **zůstává kanálem, kterým mají přicházet peníze**, a chce ho znovu nahodit a vyzkoušet (10x English → studené publikum, FB/ChatGPT reklamy, → [[lcenglish-10x-english-sales-page]]). Zda zároveň funguje jako „donor“ pro dějiny umění, zůstává otevřené, ale rozhodnutí se tím neřeší.
 
 ## Situation
 
@@ -56,7 +58,7 @@ De facto přechod profesní identity na dějiny umění proběhl už v poslední
 ## Cross-references
 
 - [[gtd/goals#lcenglish]] — kvartální cíl: rozjet funnely, shadowing reframe
-- [[projects/lcenglish-online-kurz]]
+- [[resources/hele-funnel]] (HELE funnel, 261004 odloženo do [[someday-maybe]])
 
 ---
 

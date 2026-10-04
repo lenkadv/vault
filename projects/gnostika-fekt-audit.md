@@ -41,6 +41,11 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 - [x] S novým oprávněním uspořádat SharePoint `FEKT VUT Brno` (kopie nahoru, 05, autosave zápisy, Agendy OSA, mapa) ✅ 2026-09-29
 - [x] Odeslat Štěpánce mail „FEKT VUT Brno - uklizeno, prosím o smazání starých složek“ ✅ 2026-09-29
 
-260929: bez next action — čeká se na Štěpánku (mazání starých složek, Dokument4/7, čistopis zápisu z EO) → [[waiting-for]]. Až smaže: ověřit, že v kořeni zbyly jen 00–05 a 99; až přijde zápis z EO, zařadit do `03/03` a doplnit do mapy (skript `mapa.py`).
+- [x] Zařadit `VUT FEKT Projekty.xlsx` (seznam projektů ze systému Apollo od Ing. Petra Rychteckého, Štěpánka přeposlala 2. 10., mail https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877941503448108483) ✅ 2026-10-03 — nahráno na SharePoint jako `03 Oddělení/06 Oddělení podpory projektů/B Seznam projektů ze systému Apollo (Rychtecký, říjen 2026).xlsx` (47 751 B). Rozpočet, čerpání a náklady Apollo nemá, musí je dodat ekonomické oddělení (Štěpánčin termín 7. 10.).
+- [ ] Doplnit nový soubor do `00 MAPA PODKLADŮ.xlsx` (skript `mapa.py`, nejdřív načíst aktuální verzi mapy ze SharePointu; kategorie „B“ je odhad, ověřit podle legendy v mapě) #online (blokováno přístupem na SharePoint — `#next-action` až po vyjasnění se Štěpánkou)
+
+261003: Lenka už nevidí nadřazenou složku `FEKT VUT Brno` (REST: přístup odepřen), struktura z 29. 9. (00–05, 99 v kořeni, 05 Smlouvy a obchod, nová mapa, Agendy OSA, zápis správa budov) pro ni neexistuje; viditelná je jen stará `Podklady pro audit FEKT` (stav 25. 9., 14 položek). Buď Štěpánka obsah smazala, nebo odebrala přístup; ověří jen ona (Koš, Spravovat přístup). Apollo xlsx je nahrán do staré složky, která měla být smazána. Mapa tam je stará (25. 9.). Po vyjasnění se Štěpánkou obnovit přístup nebo nahrát znovu.
+
+261004 (weekly review): vědomě bez next action — čeká se na Štěpánku (vrací se 4. 10. večer; ptali jsme se i na přístup k `FEKT VUT Brno`). Dřív 260929: čeká se na Štěpánku (mazání starých složek, Dokument4/7, čistopis zápisu z EO) → [[waiting-for]]. Až smaže: ověřit, že v kořeni zbyly jen 00–05 a 99; až přijde zápis z EO, zařadit do `03/03` a doplnit do mapy (skript `mapa.py`).
 
 260926 (weekly review): momentálně bez next action záměrně — projekt se vyvíjí organicky, další úkol Lenka ohlásí, až vznikne. Čeká se jen na Štěpánku Uličnou (přesun struktury na SharePointu) → [[waiting-for]].

@@ -1,7 +1,7 @@
 # LCEnglish — nová prodejní stránka 10x ENGLISH
 
 **Oblast:** lcenglish
-**Stav:** aktivní — nová verze (D) live od 261001, další krok = propagace na studené publikum
+**Stav:** aktivní — nová verze (D) live od 261001, další krok = propagace na studené publikum (261004: Lenka potvrdila, že lcenglish zůstává kanálem příjmů a chce ho znovu nahodit; review „lcenglish jako donor“ zrušeno)
 **Zahájeno:** 260915
 
 ---
@@ -36,7 +36,7 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 - [x] Porovnat varianty A/B/C ✅ 261001 (Lenka: A, víc C; návrh Clauda po auditu: hlavička C + tělo A, čeká na potvrzení)
 - [x] Rozhodnout garanci, první zdroj návštěvy a příběh ✅ 261001 (garance zatím žádná; cíl = studené publikum, ne Drip; příběh japonština → [[GrowOS/lcenglish/brain/stories/proc-vznikl-10x-english-a-shadowloop]])
 - [x] Zkontrolovat variantu D a schválit k nasazení ✅ 261001
-- [ ] Rozhodnout, odkud přivést studené publikum na novou stránku (ChatGPT Ads / Facebook, malý test viz Propagace níže) #next-action #online
+- [ ] Rozhodnout, odkud přivést studené publikum na novou stránku (ChatGPT Ads / Facebook, malý test viz Propagace níže) — **261004: spojeno s ochutnávkou 1.1 ([[katalog-ochutnavky]]) v jednom bloku dnes 16:15–17:00**; vyzkoušet GrowOS skilly `ads-meta-*` (create / doctor / publish / report, viz Databanka) + Lenčin kurz/nástroj na FB reklamy (Lenka doplní autora/název; v `2  EDUCATION` je kandidát Ad Flight Navigator / Winning Ads) #next-action #online 📅 2026-10-04
 
 **261001 13:00 — varianta D NASAZENA na `lcenglish.cz/10x-english`.** Postup: obsah Leadpages stránky `Ytf0hlJeNc` (ta, která je napojená na WordPress) nahrazen HTML z D přes MCP `update_page` + `publish:true`; propsalo se hned, bez nového „Publish to WordPress“. Ověřeno: titulek, 5 tlačítek do FAPI (formulář načte 10x ENGLISH za 1 270 Kč), screenshot Shadowloopu nahraný jako asset přímo k `Ytf0hlJeNc`, náhled na počítači i mobilu. Poslední úpravy před nasazením: „LCEnglish“ bez mezery, Pissarro skrytý pod 860 px (mobil, tablet). **Záloha v1:** `GrowOS/lcenglish/library/web/10x-english-v1-260915.html` (vyrenderovaná stránka). Koncepty A/B/C smazány 261001 (v Leadpages „Recently Deleted“ 30 dní), D zůstává. Bullet „výměna pneumatik“ nahrazen skutečnými dialogy z kurzu: „Ztracené klíče, zmeškaný hovor, pracovní pohovor“ (Lost keys 1.9, A missed call 2.2, Job interview 3.10; seznam dialogů = složky `3 LCEnglish/Products/Shadowloop/10xE/SADA 1–10`). 13:10 přepsány body „schovaný text“ a „kde začít“ (Lenka doladila v D), doplněna kurzová platforma (postup den za dnem, návody k Shadowloopu, nahrávky ke stažení): nový odstavec pod Shadowloopem, položka v rámečku, FAQ. ~~D a živá stránka mají stejný obsah~~ – vlákno Benson pak upravilo přímo živou stránku (FAQ „Není už na to pozdě?“, „méně než 13 Kč za dialog“, Pissarro jako asset, meta/og) → **zdroj pravdy = živá stránka `Ytf0hlJeNc`**, koncept D je zastaralý; úpravy dělat jen v živé (Lenka v Leadpages přímo, Claude `edit_page`, nikdy celý `update_page` z D).
 
@@ -110,7 +110,7 @@ Závěr: automatika funguje; Lenčina vzpomínka na ruční přidání = Pavel P
 
 **Živý test 261001 14:00** (objednávka 420260502 → faktura 426507, Test Automatika 10x, `lnk.dvorakova+test10x@gmail.com`, převodem, ručně označeno jako zaplacené se „Spustit akce“):
 - FAPI → fapipi `/handle-invoice/10XE`: **200 OK** ✅
-- Drip: odběratel vytvořen, tag „Purchased: 10x ENGLISHonly“ ✅ (lifetime_value 2 540 Kč = nákup se zapsal 2×; opraveno Vítkem 261001, viz [[lcenglish-online-kurz]])
+- Drip: odběratel vytvořen, tag „Purchased: 10x ENGLISHonly“ ✅ (lifetime_value 2 540 Kč = nákup se zapsal 2×; opraveno Vítkem 261001, viz [[resources/hele-funnel]])
 - FreshLearn: člen vytvořen hned, **zápis do kurzu proběhl se zpožděním** ✅ (14:02 zaplaceno, ~14:04 ještě „Not enrolled yet“, 14:10 zapsán, 1 kurz / 1 270 Kč). **Automatika funguje**, jen zápis do kurzu trvá několik minut → při kontrole počkat aspoň 10 min. Body níže o selhání neplatí (ponechány jako záznam omylu):
 - ~~do kurzu NEZAPSÁN~~ Plán 22290 „One Time“ 1 270 Kč existuje a je aktivní. Fapipi chybu nehlásí (vrací 200), takže FAPI selhání nevidí.
 - Shadowloop: neověřeno.
@@ -130,7 +130,7 @@ Závěr: automatika funguje; Lenčina vzpomínka na ruční přidání = Pavel P
 ## Viz také
 
 - [[areas/lcenglish]]
-- [[projects/lcenglish-online-kurz]] — HELE funnel, stejný FAPI/Shadowloop/FreshLearn mechanismus
+- [[resources/hele-funnel]] (odloženo do [[someday-maybe]] 261004) — HELE funnel, stejný FAPI/Shadowloop/FreshLearn mechanismus
 - [[resources/youcloned-ai-clone-setup]] — kontext, jak tenhle projekt vznikl (vaultová kopie, čitelná i beze mě)
 
 ## Propagace — možnosti (260929)

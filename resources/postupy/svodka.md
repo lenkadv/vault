@@ -1,11 +1,12 @@
 # Postup — Svodka z e-mailů (newslettery + nevytříděná pošta)
 
-Svodka = souvislý text po tématech („jako na ministerstvu“), aby Lenka nemusela otevírat zdroje. Projekt: [[svodka-newsletteru]]. Ustáleno 260927 podle Lenčiny zpětné vazby ke svodce č. 1.
+Svodka = souvislý text po tématech („jako na ministerstvu“), aby Lenka nemusela otevírat zdroje. Projekt [[svodka-newsletteru]] uzavřen a archivován 261004 (formát a rozsah potvrzeny beze změny); živá data (vydaná čísla, adresa stránky) jsou na konci tohoto souboru. Ustáleno 260927 podle Lenčiny zpětné vazby ke svodce č. 1.
 
 ## Kdy
 
 - **Součást denního otvíracího rituálu** (`/daily-plan`, krok „Svodka“). Obvykle za uplynulý den; když se daily plan nedělal víc dní (Lenka pryč), za celé období od posledního čísla.
-- Období = od konce posledního čísla (tabulka „Vydaná čísla“ v [[svodka-newsletteru]]) do teď. Po vydání zapsat nový řádek.
+- **Formát a rozsah potvrzen 261004:** Lenka po prvním týdnu denních svodek (č. 2–8) řekla, že jsou výborné a zůstávají beze změny i do budoucna. Neladit, jen dodržovat pravidla níž.
+- Období = od konce posledního čísla (tabulka „Vydaná čísla“ na konci tohoto souboru) do teď. Po vydání zapsat nový řádek.
 
 ## Zdroj
 
@@ -16,6 +17,7 @@ Gmail `lnk.dvorakova@gmail.com`: záložky **Promo akce**, **Aktualizace** a hla
 - Maily, které vyžadují akci (faktury, výpůjčky, reklamace, účty, termíny, osobní zprávy), jdou jako první oddíl svodky.
 - **Každý takový mail přesunout do hlavního (Primary) inboxu**, pokud skončil v Promo akcích nebo Aktualizacích: přidat `CATEGORY_PERSONAL`, odebrat `CATEGORY_PROMOTIONS` / `CATEGORY_UPDATES`. Primary = složka, ze které Lenka maily vyřizuje.
 - Přesun: `label_thread` s `CATEGORY_PERSONAL` + `INBOX`, pak `unlabel_thread` s `CATEGORY_PROMOTIONS` + `CATEGORY_UPDATES`. Konektor potřebuje oprávnění gmail.modify (funguje od 260927). **Přesun dělat vždy, u každého mailu z oddílu** — `search_threads` kategorie (`CATEGORY_*`) nevypisuje, takže mail, který vypadá jen jako `INBOX`, může ležet v Promo akcích (260928: Kaufland tiket zůstal v Promo akcích). Pokud přesun selže, dát do svodky u oddílu seznam odkazů a říct to Lence jednou větou; nejčastěji pomůže Gmail konektor odpojit a znovu připojit.
+- **Výjimka (261003):** letenky, jízdenky a potvrzení cest (Wizz Air, ČD, RegioJet, Student Agency) má Lenka odložené v Gmailu na den před cestou. Takové maily (bez štítku INBOX) nepřesouvat do hlavního inboxu a štítky jim nezměnit, přidání INBOX odložení zruší a konektor ho neumí obnovit. Jen je shrnout.
 - Věci s termínem zapsat i do GTD podle CLAUDE.md (next-actions / waiting-for) — ale náměty pro práci **ne** (viz níže).
 
 ## Jazyk shrnutí
@@ -44,11 +46,11 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **The Rest Is History (newsletter)** | Od 261002: shrnutí **podrobnější** (téma čísla, hlavní teze, jména doporučených knih a autorů). **Maily neodstraňovat**, štítek `Svodka/uchovat` (Lenka je archivuje, jsou v nich tipy na literaturu). Přímý odkaz na webovou verzi (beehiiv) uložit. Doporučené knihy (název — autor — kdo doporučil, jeden odkaz na zdroj) zapsat do [[omnibus]] sekce „Knihy k zapsání do Notion“; do Notionu je zapíše dávka při weekly review (viz níže). |
 | **Danny Iny (Mirasee)** | Lenka jeho práci obdivuje, ale maily nečte (je jich hodně). Shrnout, co v týdnu/dni psal — nechce ho ztratit z pozornosti. |
 | **Kennedy — Email Marketing Heroes** | Denní maily. Vtipné shrnutí + pojmenovat **vzorec**: jak se dostal od osobní historky k prodeji/propagaci produktu. Maily chodí dál, Lenka je nemusí číst. Lenka ten přechod považuje za geniální (dělá ho v každém mailu) a sleduje ho kvůli vlastní práci; zatím se nic neukládá, Kennedyho celý kurz Lenka má (260929). |
-| **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. Lenka ho chce se mnou prozkoumat pro vlastní využití → [[omnibus]] (260929). |
+| **White Label Comedy** | Podobně jako Kennedy — vtipné shrnutí + vzorec. Lenka ho chce prozkoumat pro vlastní využití → projde se při rekapitulaci digitálních zdrojů, zápis v [[resources/kurzy-marketing]] (261004). |
 | **Danny Iny — AI Strategist** | Lenka chce jít (26.–28. 10. 2026). Hlídat mail s otevřením registrace a dát ho do „Vyžaduje pozornost“ → [[waiting-for]]. |
 | **Jon Benson (BNSN)** | ElevenLabs ukázky: výsledný hlas je nerozeznatelný od živého, ale postup je v placené komunitě (~300 $/měs.), do které Lenka zatím nejde. Stačí krátce zmínit, nic nenabízet. |
 | **Česká filharmonie** | Lenka obdivuje jejich PR a e-mailing (lepší než NG). Mail přečíst celý, nové postřehy a krátké ukázky doplnit do [[profil-ceska-filharmonie]], ve svodce jednou větou; pak `Svodka/smazat` (260930). |
-| **Leadpages Community** | Od 29. 9. 2026 komunita pro uživatele (https://leadpages.com/community). Sledovat, co k ní Leadpages píšou dál (nové místnosti, akce, zmínky o jiných jazycích než angličtině), a zmínit ve svodce (260930). |
+| **Leadpages Community** | Lenka se 261004 podívala a nezaujalo ji (Teardowns jsou jen pro anglické stránky, české nikdo rozebírat nebude). **Nesledovat**, ve svodce nezmiňovat; výjimka jen zásadní novinka (např. komunita v češtině). |
 | **Drip, Leadpages** | Nástroje, které Lenka používá. Sledovat **vývoj produktu** (nové funkce, změny, webináře o funkcích) a vytáhnout, co by se hodilo pro lcenglish/tadylenka. |
 | **Jon Schumacher a podobné sekvence** | Když přijde celá sekvence (webinář, launch), upozornit na ni jako na vzor. Swipe už zapsaný: [[GrowOS/lcenglish/library/swipe-content]] (260927). |
 | **Tonebase** | Nechává si ho jako připomínku, že má streamy klasické hudby. Jednou větou, neodhlašovat. |
@@ -98,7 +100,7 @@ Z toho, co je ve schránce, **neusuzovat, jak často odesílatel chodí** („p�
 
 ## Pro tvou práci — nezakládat
 
-Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do projektů. Lenka je vyhodnotí sama a dá zpětnou vazbu.
+Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do projektů. Lenka je vyhodnotí sama a dá zpětnou vazbu.
 
 ## Výstup
 
@@ -112,3 +114,22 @@ Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do
 - **Středně:** marketing malého vzdělávacího byznysu (e-mail, webináře, sekvence), výuka jazyků, vzdělávání, vývoj nástrojů Drip a Leadpages.
 - **Okrajově:** politika a svět (krátký přehled je vítaný).
 - **Přeskočit:** slevy, e-shopy, notifikace, účtenky, pokud nevyžadují akci.
+
+## Vydaná čísla
+
+| Č. | Období | Poznámka |
+|---|---|---|
+| 1 | 14.–26. 9. 2026 | zkušební, ~150 vláken; 260927 doplněn rozbor Mollicka; schránka vyčištěna (Lenka smazala `Svodka/smazat`) |
+| 2 | 27. 9. – 28. 9. 8:40 | první denní, 19 vláken; 1× Vyžaduje pozornost (Kaufland tiket); 17 vláken `Svodka/smazat`, uchovat nic |
+| 3 | 28. 9. 8:40 – 29. 9. 10:30 | 47 vláken; 4× Vyžaduje pozornost (Kaufland storno, Česká pošta, Štěpánka Uličná Agendy OSA, ResearchGate); 33 vláken `Svodka/smazat`, uchovat nic |
+| 4 | 29. 9. 10:30 – 30. 9. 11:10 | 34 vláken; 4× Vyžaduje pozornost (Jan Žáček na JIP, PENTA MAS 4, italki potvrzeno, Knihobot watchdog); 28 vláken `Svodka/smazat`, uchovat nic |
+| 5 | 30. 9. 11:10 – 1. 10. 9:10 | 35 vláken; 4× Vyžaduje pozornost (KTF výkaz Opakované stipendium, Štěpánka Uličná k DigiStartu, Tandem 13. 10. potvrzen, Knihobot = jen košík); 27 vláken `Svodka/smazat` (Wilco a Laura Belgray archivovat — swipe bez webové verze), ICOM talk bez štítku |
+| 6 | 1. 10. 9:10 – 2. 10. 10:50 | 38 vláken; 5× Vyžaduje pozornost (FreshLearn 449 USD, Vox poptávka školení, KTF EK termín, Milan Pech Přehledovka, TidyCal Stripe); 23 vláken `Svodka/smazat`, `Svodka/uchovat` Mollick a The Rest Is History (Reading List) |
+| 7 | 2. 10. 10:50 – 3. 10. 20:50 | 34 vláken (svodka dělaná večer 3. 10. zpětně, ranní plán ten den nebyl); 3× Vyžaduje pozornost (letenky Řím Wizz Air, jízdenky Drážďany 31. 10., Štěpánka přeposlala podklady FEKT/Apollo); 23 vláken `Svodka/smazat`, uchovat nic; bez štítku NG Praha, Muzeum Prahy, Descript, PayPal ×2, Air Bank |
+| 8 | 3. 10. 20:50 – 4. 10. 10:10 | 4 vlákna (Deník N, Art Fix, Marie Ercoles, NativShark); nic ve Vyžaduje pozornost; 4 vlákna `Svodka/smazat`, uchovat nic |
+
+## Publikace
+
+- Svodka se publikuje jako soukromá stránka (artifact), **stejná adresa pro všechna čísla**: https://claude.ai/artifact/7SYdebdeLaDZdvG9DV4QQ8 — pro další číslo republikovat přes `url` (zdrojový HTML je jen dočasně ve scratchpadu).
+- Maily z „Vyžaduje pozornost“ se přesouvají do hlavního inboxu (Primary), viz výše.
+- Zájem neodvozovat z přečteno/nepřečteno (memory `feedback_newsletter_read_signal`).

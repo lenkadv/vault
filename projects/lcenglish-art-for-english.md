@@ -2,7 +2,7 @@
 
 **Oblast:** lcenglish
 **Stav:** aktivní
-**Kadence:** 1 díl týdně, newsletter v úterý (Drip); od 260928 zrcadlo na Substacku
+**Kadence:** 1 díl týdně, newsletter v úterý (Drip); od 260928 zrcadlo na Substacku; od 261004 plán propagace na IG/FB (sekce níže)
 
 ## Cíl
 
@@ -105,7 +105,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Doplnit, odsouhlasit a finalizovat NL #24 (Myslbek, zápor) ✅ 2026-09-28 — podbřišník na soše je (Lenka ověřila, v textu se nezmiňuje), finální verze napsaná Lenkou v Dripu, subject "Která je ta pravá?"
 - [x] Naplánovat NL #24 v Dripu na úterý 29. 9. ✅ 2026-09-28
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
-- [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky v [[lcenglish-substack-art-for-english]]
+- [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky níže v sekci Substack zrcadlo
 - [ ] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — have to / must / mustn't revision), pak připravit brief a newsletter — odeslání 6. 10. #next-action #online 📅 2026-10-06
 - [ ] Po naplánování #25 v Dripu: verze pro Substack a zveřejnění (methodology 6b — povinný krok uzavření epizody)
 
@@ -115,6 +115,82 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (have to / must / mustn't revision), úterý 6. 10. 2026
 - **K vyřešení při přípravě #25/#26:** chybí termín 20. 10. (#26 → #27 skáče na 27. 10.) — záměrná pauza? (Kolize past simple #24/#26 odpadla — #24 je zápor.)
 
+## Substack zrcadlo (od 260928; sloučeno z projektu lcenglish-substack-art-for-english 261004)
+
+**Publikace:** https://artforenglish.substack.com/ · **Související:** [[tadylenka-publishing]] (sesterská publikace)
+**Rozhodnutí:** `GrowOS/lcenglish/brain/decisions.md` (2026-09-28)
+
+### Cíl
+
+Art for English vychází i na Substacku jako **zrcadlo Dripu** (stejná epizoda, bez pozdravu, podpisu a Liquid kódů — postup `GrowOS/lcenglish/brain/methodology.md` krok 6b). Substack má přivádět nové lidi (u tadylenka jediný kanál s organickým růstem) a posílat je do **listu v Dripu**, aby publikum nebylo rozdělené. Tadylenka a Art for English se vzájemně doporučují.
+
+**Princip:** nečekat na dokonalost, nabalovat po krocích. Drip zůstává hlavní kanál.
+Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
+
+#### Kroky
+
+#### Fáze 1 — Základ publikace
+- [x] Založit publikaci a zveřejnit první díl (#24 Myslbek, „Která je ta pravá?“) ✅ 2026-09-28
+- [x] About stránka publikována (texty `GrowOS/lcenglish/library/substack/about.md`, vč. odkazu na tadylenka a lcenglish.cz/kurzy) ✅ 2026-09-28
+- [x] Krátký popis publikace + kategorie ✅ 2026-09-28
+- [x] Vzájemné doporučení tadylenka ↔ Art for English (Audience → Recommendations, obě strany) ✅ 2026-09-28
+- [x] Uvítací e-mail pro nové odběratele (text `GrowOS/lcenglish/library/substack/welcome-email.md`) ✅ 2026-09-28 — dárek/přihláška do Dripu se přidá ve Fázi 3
+- [x] Navigační lišta: „Kurzy angličtiny se mnou“ → lcenglish.cz/kurzy ✅ 2026-09-28 (později přihláška do Dripu)
+- [x] Upozornění na odhlášení — vypnutá od začátku ✅
+
+#### Fáze 2 — Archiv a pravidelnost
+- [x] Připravit 5 archivních dílů jako drafty na Substacku (Claude přes Chrome) ✅ 2026-09-28 — texty `GrowOS/lcenglish/library/substack/archiv/`
+- [x] Publikovat 5 archivních dílů jen na web s původními daty ✅ 2026-09-28
+  - Výběr 260928 podle otevíranosti v Dripu (110–142 odeslání na díl, rozdíly jsou v řádu pár otevření): #1 Caravaggio (45,9 %, nejvíc prokliků 12 %), #5 Vigée Le Brun (47,4 %), #19 Thiebaud (46,3 %), #21 Colosseum (53,7 %, nejvyšší), #22 Kim Hong-do (46,0 %). Časově vázané díly (#13 dovolená, #16 vedra, #18 svátek Heleny, #20 první školní den, #23 podzim) s původním datem nevadí, ale nejsou první volba.
+- [ ] Zrcadlo každé epizody po naplánování v Dripu — povinný krok uzavření (methodology 6b), sledovat 6 dílů (#24–#29, do 3. 11.)
+
+#### Fáze 3 — Most do Dripu
+- [ ] Rozhodnout, kam Substack čtenáře posílá: přihláška do Dripu (formulář) vs. lead magnet k sérii (plán lcenglish ho stejně chce — viz `brain/plan.md`) #online
+- [ ] Jeden měkký odkaz do Dripu na konec každého Substack dílu + dárek v uvítacím e-mailu #online
+- [ ] Měření: štítek/zdroj „substack“ v Dripu, ať je vidět, kolik lidí přešlo #online
+
+#### Fáze 4 — Vzájemná propagace a růst (pozdější fáze, stejně jako Notes u tadylenka)
+- [ ] Zmínka o Art for English v tadylenka (článek nebo Note) a naopak — jen tam, kde to sedí k tématu
+- [ ] Notes k epizodám (návod na obrázky + odkaz v [[substack-notes-postup]]); vzorec 3-2-1 týdně až bude kapacita
+- [ ] Vzájemná doporučení s dalšími českými Substacky (angličtina, umění, vzdělávání) — až po 100 odběratelích
+
+#### Vyhodnocení
+- [ ] Po 6 dílech (3. 11. 2026) vyhodnotit: odběratelé na Substacku, přechody do Dripu, čas navíc za týden → pokračovat / upravit / zastavit #online 📅 2026-11-03
+
+#### Podklady
+
+- **Logo:** Google Drive, složka LCEnglish → Art for English — dvě verze (bez textu / s textem). Na Substacku použita verze **bez textu**, protože se logo zobrazuje velmi malé (Lenka 260928).
+- **Texty publikace:** `GrowOS/lcenglish/library/substack/` — about.md (publikováno), welcome-email.md.
+
+- **NotebookLM „Substack“** (dotaz 260928, shrnutí): About stránka = hlavní konverzní plocha; uvítací e-mail = nejčtenější e-mail (krátký, 2–3 články, přesun do primární, dárek); 3–5 pilířových článků; víc publikací pod jedním profilem, propojení přes Recommendations, navigační lištu a Notes; do Notes lze volně dávat externí odkazy; Substack umožňuje export e-mailů do CSV; lead magnet se doručuje v uvítacím e-mailu; fáze 0–100: profil, pilíře, Notes, komentáře; 100–500: doporučení a guest posty. Zdroje v notebooku: Sinem Günel, Jurgen Appelo, Kristina God, Pierre Herubel, Write • Build • Scale, Claudia Faith, Linda Lebrun.
+- `GrowOS/tadylenka/brain/research/2026-04-15-substack-rust-strategie.md` — růst v malém jazykovém trhu, doporučení, Notes, cross-platform (psáno pro tadylenka, platí obdobně).
+- [[substack-notes-postup]] — technika Notes s obrázky.
+
+#### Aktuální stav
+
+- Publikace založena 28. 9. 2026, první díl #24 zveřejněn bez odběratelů („ať něco je“).
+- About stránka, popis, kategorie, logo (verze bez textu) a uvítací e-mail hotové 28. 9.
+- Vzájemná doporučení nastavena 28. 9.
+- Fáze 1 hotová 28. 9.; archiv 5 dílů + #24 publikován 28. 9. Zrcadlo každé epizody = povinný krok uzavření (methodology 6b).
+
+## Sociální média — propagace epizod na Instagramu a Facebooku (nové 261004)
+
+**Proč:** newsletter (Drip) a Substack jsou zajeté a mají pevný týdenní rytmus; sociální sítě se k téhle sérii dají přidat jako další krok **na stejném rytmu**, bez nového tlaku na výrobu. Lenka sítě odložila 260930, protože jí nešly. Malá odezva dřív mohla být tím, že nevěděla, jak na to, ne kanálem samotným. Cíl: znovu otestovat sítě tak, aby ji to nevyčerpalo.
+
+**Podmínky a souvislosti:**
+- Mapa účtů a značek v Metricoolu: LCEnglish = IG `lights_camera_english` + YouTube + web (FB LCEnglish už není); FB stránka ve značce Tady Lenka čte i publikum LCEnglish (memory `reference_social_accounts_map`, [[VL – metricool]]).
+- **Metricool PRO se obnoví 22. 11. 2026, rozhodnutí do 15. 11** ([[waiting-for]]): tenhle test je podklad pro rozhodnutí, jestli se sítím reálně věnujeme.
+- **Blotato** je v [[someday-maybe]] odložený až po tom, co aspoň 4 týdny ručně pravidelně postujeme na jedné síti. Tohle je ta podmínka.
+- Vyhodnocení spolu se Substackem po 6 dílech (3. 11. 2026) → pak i rozhodnutí o Blotatu a Metricoolu.
+
+**Kroky (procházíme postupně, jeden po druhém):**
+- [ ] 1. Rozhodnout kanály a role: začít jen IG (`lights_camera_english`), IG + FB, nebo FB stránku nechat stranou? Co dělá FB stránka Tady Lenka s publikem LCEnglish?
+- [ ] 2. Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
+- [ ] 3. Zapsat krok do uzavření epizody (methodology, vedle 6b zrcadla na Substacku): příspěvek se připraví z hotové epizody a naplánuje v Metricoolu; změna `GrowOS/` systémových souborů dělá Lenka
+- [ ] 4. Pilot na další epizodě (#25 nebo #26): příspěvek na IG (+ FB), naplánovat přes Metricool MCP nebo ručně
+- [ ] 5. Měření: co sledovat (dosah, uložení, prokliky do Dripu / Substacku, noví odběratelé), jednotný štítek zdroje v Dripu, ať je vidět přechod ze sítí
+- [ ] 6. Po 6 epizodách (3. 11.) společné vyhodnocení: Substack + sítě → pokračovat / upravit / zastavit; rozhodnout Metricool (do 15. 11.) a Blotato
+
 ## GrowOS 2.0
 
 Od 260906 běží GrowOS 2.0. Výroba epizody = **work item** v `GrowOS/lcenglish/work/email/`
@@ -123,7 +199,7 @@ Tento projekt drží strategii, „Vydané díly", „Aktuální stav" a `#next-
 
 ## Viz také
 
-- Substack zrcadlo: [[lcenglish-substack-art-for-english]]
+- Substack zrcadlo a sociální média: sekce výše (projekt sloučen 261004)
 
 - Curriculum: `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md`
 - Postup + checklisty: `GrowOS/lcenglish/library/process/`

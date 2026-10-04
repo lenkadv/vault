@@ -10,7 +10,7 @@ Nová prodejní stránka pro kurz Nepravidelná slovesa za 14 dní (790 Kč), st
 
 - [x] Vybrat nový obraz do hero (Goya) a vyměnit ✅ 261002
 - [x] Nasadit stránku na lcenglish.cz/irregular, ověřit FAPI → fapipi → Drip → Shadowloop a titulky ✅ 261002
-- [ ] Živý test nákupu Nepravidelných sloves (objednávka převodem, ručně „zaplaceno“ se spuštěním akcí → ověřit Drip tag, e-mail „Na start“, přístup do Shadowloopu; testovací data pak smaže Lenka) #next-action #online
+- [ ] Živý test nákupu Nepravidelných sloves (objednávka převodem, ručně „zaplaceno“ se spuštěním akcí → ověřit Drip tag, e-mail „Na start“, přístup do Shadowloopu; testovací data pak smaže Lenka) — 261004: udělat spolu s reklamním balíčkem 10x English (blok dnes 16:15–17:00) #next-action #online
 - [ ] Před reklamou: měřicí kód (pixel kanálu + nákup na děkovací stránce FAPI), výchozí počet prodejů Nepravidelných sloves ve FAPI #online
 
 ## Koncept

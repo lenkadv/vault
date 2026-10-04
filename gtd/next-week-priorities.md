@@ -1,22 +1,21 @@
-# Priority — týden od so 26. 9. 2026 (do dalšího weekly review, pá–ne 2.–4. 10.)
+# Priority — týden od po 5. 10. 2026 (do dalšího weekly review, pá–ne 9.–11. 10.)
 
-> Nastaveno při weekly review 260926. Toto čte skill při denním plánování celý týden.
-> Kontext týdne: přechodový — v pondělí 28. 9. svátek, od čtvrtka 1. 10. začíná akademický rok (čtvrtek = každý týden nejnáročnější školní den). Hledá se nový semestrální rytmus; čtvrtek bez bloků. Pohyb (FuTru) od října.
+> Nastaveno při weekly review 261004. Toto čte skill při denním plánování celý týden.
+> Kontext týdne: víc školy (Po–Čt), práce se do toho musí vejít; Lenka postupuje podle dne, časy bloků jsou orientační. Dnes (4. 10.) proběhl blok Coursera trial + ochutnávky (marketing-strategy, FB reklamy, AI Black Magic).
 
-1. **tadylenka #2 — Mr and Mrs Andrews (Co vidíš), vydání pá 2. 10.**
-   > Rozloženo: po 28. 9. 13:00–15:30 (úhel + psaní I), st 30. 9. 12:00–14:30 (psaní II), pá 2. 10. 11:00–14:30 (dokončit + publikovat). Kratší rozsah (~800–1000 slov). Když pátek nevyjde, vydání po víkendu je OK — dělá se pro radost, úspěch = pravidelnost. → [[projects/tadylenka-publishing]]
+1. **lcenglish jako příjmový kanál: měření, test nákupu, první malý reklamní test**
+   > Út 6. 10. 11:00–13:00. Měřicí kód (pixel + nákup na děkovací stránce FAPI), živý test nákupu Nepravidelných sloves, první malý test reklamy 10x English (Facebook / ChatGPT Ads). Navazuje na dnešní blok ochutnávek. Součástí týdne i Art for English #25 (po 5. 10. 14:20–16:20, newsletter odchází út 6. 10.) a první kroky sociálních sítí (rozhodnout kanály a formát). → [[lcenglish-10x-english-sales-page]], [[lcenglish-irregular-sales-page]], [[lcenglish-art-for-english]]
 
-2. **PENTA / Hacked List report — první průchod + odhad termínu**
-   > Ne 27. 9. 14:00–15:30. Cíl: v pondělí umět říct Davidu Musilovi, kdy bude report hotový. Potřeba původní dokument od Hacked List. → [[projects/penta-hacked-list-report]]
+2. **Claude Academy: stihnout Agent Skills před koncem trialu Coursery (~11. 10.)**
+   > St 7. 10. 13:45–15:45 a pá 9. 10. 11:00–13:00. Claude průběžně stahuje důležité materiály a podporuje v dokončení. → [[claude-academy]]
 
-3. **Claude Academy — načít**
-   > Po 28. 9. 11:00–12:00, Introduction to Agent Skills. Cíl = začít, pak to pojede samo. → [[projects/claude-academy]]
+3. **Drobné úkoly v jednom bloku**
+   > Čt 8. 10. 12:00–13:00: mail dr. Štěrbové (sborník Transitorius mundus, termín 30. 11. — první krok je rozhovor), PENTA/Popadič (rezervační kalendář a rozeslání odkazu), kolečka od kufříku (Claude předem najde 2–3 nabídky). → [[next-actions]]
 
-4. **Němčina — rozjet**
-   > Út 29. 9.: rezervovat italki na ~3.–6. 10. + sehnat Zweiga *Die Welt von Gestern* fyzicky. Příprava tématu (Lukrécie německy — podklad: podcast ze seminárky) → blok v příštím týdnu před hodinou. → [[areas/deutsch]]
+4. **tadylenka díl #3 (memento mori, pá 16. 10.) — jen když zbyde čas**
+   > Bez bloku. Když se do 12. 10. nezačne, bude to těsné; důležitější je pravidelnost než termín. → [[tadylenka-publishing]]
 
-**Mimo priority, ale s blokem:** A4E #24 (ne 27. 9. 11:00), David Musil — brainstorm (ne 27. 9. 13:30), AI systém YouCloned + Blotato (dnes 15:00), drobnosti FuTru (út 29. 9. 11:00).
-**Počká:** DigiStart náplň kurzu, poznámky z knih (McCormack), uspořádání knihovny, pokračování Claude Academy.
+**Dál bez priority, ale s termínem:** FuTr (potvrzení místa, začátek), Michal Kocián st 7. 10. 17:00 (vycházka), Danny Iny registrace (hlídá svodka), Anthropic faktura (po doručení), follow-upy ve [[waiting-for]].
 
 ---
 
