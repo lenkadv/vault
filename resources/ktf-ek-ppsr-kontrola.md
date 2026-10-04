@@ -4,7 +4,7 @@ Lenka je členkou Ekonomické komise AS KTF UK. Senát 30. 6. 2026 neschválil V
 
 ## Kde co je
 
-- Podklady a výstupy: `G:\Můj disk\1  PRIVATE 🏡\KTF Ekonomická komise\PPSŘ kontrola\`
+- Podklady a výstupy: `G:\Můj disk\01 PRIVATE 🏡\Spolky a funkce\KTF Ekonomická komise\PPSŘ kontrola\`
   - `Konta PPSŘ_2024+5+6`, `Sborníky PPSŘ_2024+5+6`, `KTF z RUK` (rozbaleno 260920) — podklady od ekonomického oddělení (Ing. Procházková)
   - `kontrola PPSŘ_pracovní materiál.xlsx` — hodnocení Marie Vymazalové (předsedkyně EK), ke kterému se má komise vyjádřit
   - **`PPSR_analyza_260920_LD.docx`** — moje analýza (10 stran; záloha vaší verze z 18:45 je PPSR_analyza_260920_LD_zaloha_1845.docx), **`PPSR_analyza_prilohy_260920_LD.xlsx`** — srovnání alokace a čerpání a všech 655 účetních řádků

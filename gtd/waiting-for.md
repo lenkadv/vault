@@ -23,6 +23,8 @@ sort by due
 
 - [ ] Metricool: předplatné PRO 5 značek (120 EUR/rok, karta ****4219) se automaticky obnoví **22. 11. 2026**. Rozhodnout: ponechat, nebo zrušit / hledat alternativu (Blotato apod. viz [[someday-maybe]]). Podklad: vyzkoušený MCP konektor a jestli se sítím reálně věnujeme → [[VL – metricool]]. Zrušit jde v https://app.metricool.com/user-settings/plan 📅 2026-11-15
 
+- [ ] **Zrušit Coursera Plus (7denní trial)** — trial spuštěn 4. 10., zdarma do 11. 10. 2026, od 12. 10. strhne 49 USD měsíčně. Zrušit na https://www.coursera.org/my-purchases → Cancel subscription **nejpozději 10. 10.** (ideálně hned po posledním bloku Coursera v pá 9. 10.). Do té doby Claude stahuje materiály z kurzů, viz [[claude-academy]]. 📅 2026-10-10
+
 ## Čeká na někoho
 
 - [ ] Čekám na Míšu Malou (Vox kurzy) — upřesnění poptávky na workshop interkulturního managementu (rozsah, počet účastníků a jejich pozice, termín, cenové podmínky, 3–4 prioritní témata); odpověď 2. 10.: „Dobře, dám vědět“. Zadání od klienta je široké manažerské školení, americká specifika jsou jen jeden aspekt; podle upřesnění rozhodnout, jestli ho vzít. [Gmail – „Poptávka školení“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877926926146960247) 📅 2026-10-09

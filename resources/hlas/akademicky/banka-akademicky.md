@@ -8,7 +8,7 @@
 | Zkratka | Práce | Rok | Rozsah (tělo) | Kde |
 |---|---|---|---|---|
 | **VOJ** | Obraz Sv. Vojtěch na Zelené hoře z kostela sv. Vojtěcha na Novém Městě pražském (Seminář barokního umění 2) | 2025 | ~6 400 slov, 83 pozn. | `KTF/Bakalářka/Reiner Brandl/Vojtěch seminárka 250723.docx`; [[OUT – Vojtěch seminárka 2025]] |
-| **MG** | Male gaze ve výtvarném umění raného novověku (Seminář renesančního umění 2) | 2026 | ~7 000 slov těla, 81 pozn. | `KTF/Aktuální/Renesanční seminář/Male gaze v renesančním umění/drafty/Seminárka Male Gaze.docx`; [[OUT – Male Gaze seminárka 2026]] |
+| **MG** | Male gaze ve výtvarném umění raného novověku (Seminář renesančního umění 2) | 2026 | ~7 000 slov těla, 81 pozn. | `KTF/Absolvované/Renesanční seminář/Male gaze v renesančním umění/drafty/Seminárka Male Gaze.docx`; [[OUT – Male Gaze seminárka 2026]] |
 | **RES** | Petr Brandl: Skupinová podobizna … Kokořovského — komentář restaurátorské zprávy (Úvod do teorie restaurování) | 2026 | ~2 400 slov | `KTF/Absolvované/Restaurování/Komentar_restauratorske_zpravy_Brandl_Kokorovsti.docx` |
 | **LIT** | Sgrafitová výzdoba jižní stěny druhého nádvoří zámku Litomyšl (Studijní exkurze) | 2026 | ~2 300 slov | `KTF/Absolvované/Exkurze Litomyšl/Exkurze Litomyšl seminárka 260604.docx` |
 

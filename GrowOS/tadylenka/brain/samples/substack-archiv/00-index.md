@@ -1,6 +1,6 @@
 # tadylenka — Substack archiv
 
-Export ze Substacku 260927 (`G:/Můj disk/7  Všichni svatí 😇/Substack data/260927/`). Jen publikované příspěvky; seznam odběratelů záměrně nekopírován. Otevření = unikátní adresy, které mail otevřely. První tři články 27. 3. šly jen Lence (1 doručení).
+Export ze Substacku 260927 (`G:/Můj disk/04 tadylenka 🖼️/Substack data/260927/`). Jen publikované příspěvky; seznam odběratelů záměrně nekopírován. Otevření = unikátní adresy, které mail otevřely. První tři články 27. 3. šly jen Lence (1 doručení).
 
 | Datum | Název | Doručeno | Otevřeli | % |
 |---|---|---|---|---|

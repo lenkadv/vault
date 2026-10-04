@@ -3,9 +3,9 @@
 ## Soubory
 
 - CSL styl: `resources/udku_citation_style.csl` — [otevřít soubor](G:\Můj disk\vault\resources\udku_citation_style.csl)
-- Citační pokyny ÚDKU: [otevřít PDF](G:\Můj disk\2  EDUCATION 📚\KTF\KTF-963-version1-ktf_18_version1_1_citacni_zasady_udku.pdf)
-- Formální úprava KTF (vč. biblických citací, obrázků): [web KTF](https://www.ktf.cuni.cz/KTF-963-version1-formalni_uprava_ktfa.pdf) — [otevřít lokálně](G:\Můj disk\2  EDUCATION 📚\KTF\KTF-963-version1-formalni_uprava_ktfa.pdf)
-- Šablona Word: [otevřít šablonu](G:\Můj disk\2  EDUCATION 📚\KTF\KTF-963-version1-ktf_963_version1_sablona_dipl_1a.docx)
+- Citační pokyny ÚDKU: [otevřít PDF](G:\Můj disk\02 EDUCATION 📚\KTF\KTF-963-version1-ktf_18_version1_1_citacni_zasady_udku.pdf)
+- Formální úprava KTF (vč. biblických citací, obrázků): [web KTF](https://www.ktf.cuni.cz/KTF-963-version1-formalni_uprava_ktfa.pdf) — [otevřít lokálně](G:\Můj disk\02 EDUCATION 📚\KTF\KTF-963-version1-formalni_uprava_ktfa.pdf)
+- Šablona Word: [otevřít šablonu](G:\Můj disk\02 EDUCATION 📚\KTF\KTF-963-version1-ktf_963_version1_sablona_dipl_1a.docx)
 
 ---
 

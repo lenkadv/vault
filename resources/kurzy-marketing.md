@@ -3,7 +3,7 @@
 Založeno 260927 jako místo pro postupné zpracování kurzů (zadání: [[HANDOFF – AI systém 260927]], souvisí s [[hlasove-profily]]). Procházíme s Lenkou postupně. Tady je jen soupis toho, co leží na Disku, **nic ještě není zpracované**.
 Použij, až budeš řešit: psaní mailů, newsletterů a webinářových sekvencí (lcenglish, AI lektoři), prodejní stránky, reklamy, stavbu kurzu ([[digistart]]).
 
-**Zdroj:** `G:\Můj disk\2  EDUCATION 📚\`. Mimo tuto složku jsou další, možná aktuálnější kurzy. Lenka je doplní, zapsat je sem do sekce „Mimo Disk“.
+**Zdroj:** `G:\Můj disk\02 EDUCATION 📚\`. Mimo tuto složku jsou další, možná aktuálnější kurzy. Lenka je doplní, zapsat je sem do sekce „Mimo Disk“.
 
 ## Na Disku (marketing a prodej)
 

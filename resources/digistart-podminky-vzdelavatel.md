@@ -6,7 +6,7 @@ Použij, až budeš řešit: jestli/jak se dá vstoupit do databáze jako poskyt
 
 - **Databáze rekvalifikací a kurzů dalšího vzdělávání | MPSV** — přihlašování vzdělávací agentury, obecný přehled — [odkaz](https://mpsv.gov.cz/databaze-rekvalifikace)
 - **Podmínky pro vzdělavatele v Databázi** — 1. 7. 2026 FINAL, PDF (autoritativní zdroj, MPSV) — [odkaz](https://mpsv.gov.cz/cms/documents/f11fac8a-bbb5-ed99-07b7-645f33c0b9a3/Podm%C3%ADnky%20pro%20vzd%C4%9Blavatele%20v%20Datab%C3%A1zi_1.%207.%202026%20FINAL.pdf)
-  - Lokální kopie: `G:\Můj disk\5  F2F BIZ 👥\Štěpánka\Digistart\Podmínky+pro+vstup+do+Databáze+1.7.2026.pdf`
+  - Lokální kopie: `G:\Můj disk\06 F2F BIZ 👥\Aktivní klienti\Štěpánka\Digistart\Podmínky+pro+vstup+do+Databáze+1.7.2026.pdf`
   - Přečteno a zpracováno 260915, viz shrnutí níže.
 
 ## ⚠️ Vstupní podmínka — ověřit se Štěpánkou jako první

@@ -1,7 +1,7 @@
 # GNOSTIKA — audit FEKT VUT
 
 **Oblast:** [[areas/finances-admin]]
-**Zdroj:** `G:\Můj disk\5  F2F BIZ 👥\FEKT VUT\`
+**Zdroj:** `G:\Můj disk\06 F2F BIZ 👥\Aktivní klienti\FEKT VUT\`
 **Hodiny:** [[resources/fakturace-klienti]] — sekce GNOSTIKA CONSULTING
 
 ## Co to je
