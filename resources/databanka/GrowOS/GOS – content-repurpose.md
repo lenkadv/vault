@@ -9,9 +9,9 @@ pro:
 tema:
   - marketing
 pouzij_kdyz: "Turn one piece of content you already have — a transcript, an article, a newsletter, podcast notes, or an approved work item — into a bundle of channel-ready…"
-stav: neprozkoumáno
+stav: použito
 nainstalovano: ano
-verdikt: ""
+verdikt: "použitelné; kandidát do DigiStartu"
 spousteni: "/content-repurpose (automaticky v sezení otevřeném v GrowOS; z vaultu až po otevření souboru v GrowOS)"
 soubor: "vault/GrowOS/.claude/skills/content-repurpose/SKILL.md"
 ---
@@ -27,3 +27,4 @@ soubor: "vault/GrowOS/.claude/skills/content-repurpose/SKILL.md"
 [Otevřít SKILL.md](<file:///G:/Můj disk/vault/GrowOS/.claude/skills/content-repurpose/SKILL.md>)
 
 Poznámky z použití:
+- 261005 (Art for English #25, zkouška celé sady: 3× FB, 2× IG, newsletter, karusel + reel přes `video-script`): nejdřív ukáže vytažené body, každý kus má jiný úhel a vlastní kontrolu (reviewer), která byla přísná a užitečná: chytila kopírování vět z článku a přimyšlená tvrzení. **Slabina:** pravidlo „každý příspěvek jiný úhel a obstojí sám“ rozbije spojení obraz + jazyk, na kterém Art for English stojí, a příspěvky pak nikam nevedou (bez cíle, bez prokliku). Skill nezná cíl kanálu, dokud v `brain/plan.md` chybí sekce Social. Lenka: výstupy použitelné, skill vyzkoušený, **přidat do DigiStartu**. Pozor: v sezení otevřeném mimo GrowOS se položky neorazítkují (hlídač neběží) — spouštět jen v sezení ve složce GrowOS.

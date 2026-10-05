@@ -9,9 +9,9 @@ pro:
 tema:
   - marketing
 pouzij_kdyz: "Draft social posts for LinkedIn, Instagram, Facebook, X, TikTok, and Threads — from an approved weekly plan slot, a content-ideas idea, or an ad-hoc topic."
-stav: neprozkoumáno
+stav: použito
 nainstalovano: ano
-verdikt: ""
+verdikt: "použitelné, hlas potřeboval 3 kola"
 spousteni: "/social-write (automaticky v sezení otevřeném v GrowOS; z vaultu až po otevření souboru v GrowOS)"
 soubor: "vault/GrowOS/.claude/skills/social-write/SKILL.md"
 ---
@@ -27,3 +27,4 @@ soubor: "vault/GrowOS/.claude/skills/social-write/SKILL.md"
 [Otevřít SKILL.md](<file:///G:/Můj disk/vault/GrowOS/.claude/skills/social-write/SKILL.md>)
 
 Poznámky z použití:
+- 261005 (FB upoutávka #25): skill sám neví, kam příspěvek vede; první verze kopírovala úvod článku, druhá zněla jako AI, třetí (nové věty v Lenčině hlase, situace s grilovačkou) prošla. Poučení v `GrowOS/lcenglish/brain/lessons/261005-fb-upoutavka.md`.

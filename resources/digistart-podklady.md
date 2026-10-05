@@ -43,3 +43,7 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
 
 - **Poučení z ochutnávky `marketing-strategy` (Lenka 261004)** — vlastní zkušenost, zdroj: [[GOS – marketing-strategy]] (Databanka), plán `GrowOS/lcenglish/brain/plan.md`
   - Použij, až budeš řešit: co účastnicím předávat. Plánovací skill sám o sobě vyrobí jen dokument (plán), nehlídá realizaci ani kontrolu. Předávat ho má smysl **jen spolu se systémem, který realizaci hlídá** (projekty, next actions, pravidelné review) — jinak zůstane plán na papíře.
+
+## Kandidáti na skilly do kurzu (261005)
+- **content-repurpose** (GrowOS) — z jednoho hotového textu sada příspěvků, newsletter, osnova karuselu a předání na scénář videa; každý kus prochází kontrolou. Vyzkoušeno na Art for English #25, Lenka: použitelné, přidat do DigiStartu. Pozor na slabinu: bez nastaveného cíle kanálu dělá příspěvky, které nikam nevedou → v kurzu ukázat spolu s nastavením cíle sociálních sítí. Hodnocení → [[GOS – content-repurpose]].
+

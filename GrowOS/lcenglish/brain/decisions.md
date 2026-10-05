@@ -5,6 +5,8 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 ---
 
 ## 2026-10-05
+**Facebook (stránka Tady Lenka, sloučený profil umění + angličtina): jen příspěvky s přesahem k tady Lenka.** Art for English se tam hodí (spojuje umění a angličtinu, oba Lenčiny byznysy); čistě angličtinářské příspěvky ne. Upoutávky na Substack klidně s různými úhly i víckrát, ale vždy se spojením obraz + jazyk. Čistě angličtinářské příspěvky patří na IG `lights_camera_english` (samostatný profil LCEnglish) — **s IG se zatím nezačíná** (Lenka 2026-10-05, po zkoušce `content-repurpose` na #25).
+
 **Upoutávky na epizody Art for English jdou na FB stránku Tady Lenka** (sloučený FB profil pro LCEnglish a umění, Metricool značka Tady Lenka), ne na stránku Lenka Dvořáková. Opravuje bod 1 z 2026-10-04, kde byla uvedena stránka Lenka Dvořáková (Lenka 2026-10-05, při plánování první upoutávky #25).
 
 ## 2026-10-04 (porada marketing-strategy)

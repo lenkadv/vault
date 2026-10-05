@@ -58,6 +58,8 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **Mother's Earth** | Žádosti o recenzi po nákupu — jen zmínit. |
 | **OpenAI** | Chodí na dvě adresy — Lenka jednu odhlásí. |
 | **Email Marketing Heroes** | Už chodí jen na jednu adresu. |
+| **Kunsti Radar** (každých 14 dní, přehled výstav po celé Evropě) | Od 261005 **vždy `Svodka/uchovat`, nikdy mazat**: Lenka z něj při plánování cest hledá, co kde ještě trvá (starší čísla už dříve začaté výstavy nepokrývají). Ve svodce zmínit výstavy (hlavně Paříž, Řím, Vídeň, Londýn) a nové zajímavé zapsat do [[resources/mista-k-navstiveni]] jen na pokyn. |
+| **Vodafone vyúčtování** | Platí se inkasem (Lenka 261005) → neuvádět ve „Vyžaduje pozornost“, jen jednou větou jako informaci v hlavních bodech; mail `Svodka/smazat` (PDF není třeba). |
 
 ## Úklid schránky po svodce (štítek Svodka/uchovat)
 
@@ -65,7 +67,7 @@ Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale n
 
 1. **Claude při svodce označí kandidáty na uchování** štítkem `Svodka/uchovat` (Gmail ID `Label_89`). Radši méně než víc. **Pravidla třídění (Lenka 260927):**
    - **Uchovat:** Ethan Mollick (chodí mailem, výjimka mezi Substacky) · mail s odkazem na materiál, který chce Lenka podrobně nastudovat (např. série Slow Looking) — k takovému navíc udělat poznámku do `resources/`.
-   - **Mazat:** Substacky obecně, hlavně umělecko-historické (dají se najít na Substacku) · maily, ze kterých už je swipe (např. Schumacher) · maily, ze kterých svodka vytáhla informaci a nic dalšího s nimi nebude (Guardian, NG London, Kunsti, Výstavník, AI Inner Circle, novinky Leadpages bez úkolu).
+   - **Mazat:** Substacky obecně, hlavně umělecko-historické (dají se najít na Substacku) · maily, ze kterých už je swipe (např. Schumacher) · maily, ze kterých svodka vytáhla informaci a nic dalšího s nimi nebude (Guardian, NG London, Výstavník, AI Inner Circle, novinky Leadpages bez úkolu).
    - Zvážit: novinka Drip/Leadpages, se kterou je třeba něco udělat → spíš úkol do GTD než uchovat mail.
 2. **Lenka v Gmailu projde štítek** (`label:svodka-uchovat`): co nechce, tomu štítek odebere; co chce navíc, tomu ho přidá (ručně, cokoli z období svodky).
 3. **Claude označí zbytek období štítkem `Svodka/smazat`** (Gmail ID `Label_90`) — všechny newslettery, promo a notifikace z Promo akcí a Aktualizací za období svodky, které nemají `Svodka/uchovat`. **Neoznačovat** transakční a úřední maily (Lenka 260927):
@@ -127,6 +129,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 6 | 1. 10. 9:10 – 2. 10. 10:50 | 38 vláken; 5× Vyžaduje pozornost (FreshLearn 449 USD, Vox poptávka školení, KTF EK termín, Milan Pech Přehledovka, TidyCal Stripe); 23 vláken `Svodka/smazat`, `Svodka/uchovat` Mollick a The Rest Is History (Reading List) |
 | 7 | 2. 10. 10:50 – 3. 10. 20:50 | 34 vláken (svodka dělaná večer 3. 10. zpětně, ranní plán ten den nebyl); 3× Vyžaduje pozornost (letenky Řím Wizz Air, jízdenky Drážďany 31. 10., Štěpánka přeposlala podklady FEKT/Apollo); 23 vláken `Svodka/smazat`, uchovat nic; bez štítku NG Praha, Muzeum Prahy, Descript, PayPal ×2, Air Bank |
 | 8 | 3. 10. 20:50 – 4. 10. 10:10 | 4 vlákna (Deník N, Art Fix, Marie Ercoles, NativShark); nic ve Vyžaduje pozornost; 4 vlákna `Svodka/smazat`, uchovat nic |
+| 9 | 4. 10. 10:10 – 5. 10. 12:53 | 26 vláken; 4× Vyžaduje pozornost (Vodafone vyúčtování, KTF Opakované stipendium, KTF Petr Kubín Teams, LinkedIn Aneta z NG Praha; Vodafone je inkaso = jen informace, stipendium čeká na přístup k dokumentu → waiting-for 12. 10., Teams přístup funguje); 21 vláken `Svodka/smazat`, `Svodka/uchovat` Kunsti Radar (Lenka 261005: archivovat, ne mazat); mimo svodku FuTr vlákno (vyřízeno 261004), Portu a reas.cz (promo, neoznačeno) |
 
 ## Publikace
 

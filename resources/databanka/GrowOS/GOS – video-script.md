@@ -9,9 +9,9 @@ pro:
 tema:
   - marketing
 pouzij_kdyz: "Write a video script — YouTube long-form, a short-form reel or short, a talking-head piece, or UGC-style native content — from a topic through research, a…"
-stav: neprozkoumáno
+stav: použito
 nainstalovano: ano
-verdikt: ""
+verdikt: "použitelné (vyzkoušeno na reelu)"
 spousteni: "/video-script (automaticky v sezení otevřeném v GrowOS; z vaultu až po otevření souboru v GrowOS)"
 soubor: "vault/GrowOS/.claude/skills/video-script/SKILL.md"
 ---
@@ -27,3 +27,4 @@ soubor: "vault/GrowOS/.claude/skills/video-script/SKILL.md"
 [Otevřít SKILL.md](<file:///G:/Můj disk/vault/GrowOS/.claude/skills/video-script/SKILL.md>)
 
 Poznámky z použití:
+- 261005 (reel k Art for English #25, handoff z content-repurpose): vedle scénáře dodá text ke čtení (teleprompter) a podklad k natáčení se záběry, textem na obrazovce a variantami háčku. Drží jednu myšlenku na reel. Reel zatím nenatočen.
