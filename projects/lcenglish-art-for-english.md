@@ -109,7 +109,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — mustn't × don't have to), pak připravit brief a newsletter ✅ 2026-10-04 — hook cedule s vykřičníky (myšlenka z Kliniky pro cedule, bez odkazu), prodejní přechod do 10x ENGLISH místo snippetu super_signature
 - [ ] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu (odeslání 6. 10.) — koncept v Dripu založen 261004 (broadcast 580265168, „Tady se nesmí nic!!!//Bosch“, humanizer prošel) #next-action #online 📅 2026-10-06
 - [ ] FB upoutávka k #25 (stránka Lenka Dvořáková, `social-write` z finální verze; nemusí vyjít v den NL)
-- [ ] Po naplánování #25 v Dripu: verze pro Substack a zveřejnění (methodology 6b — povinný krok uzavření epizody)
+- [ ] Po naplánování #25 v Dripu: zveřejnit na Substacku (methodology 6b) — koncept „Tady se nesmí nic!!!“ založen 261005 (https://artforenglish.substack.com/publish/post/218924267), konec bez P.S. přepsán na závěrečný odstavec; publikuje Lenka
 
 ## Aktuální stav
 
