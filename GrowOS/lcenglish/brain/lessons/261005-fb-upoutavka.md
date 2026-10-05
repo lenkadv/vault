@@ -12,4 +12,6 @@ datum: "261005"
 - **Nezmiňovat „Art for English“.** Lidé na FB sérii neznají, název jim nic neřekne. Upoutávka musí fungovat sama, bez odkazu na značku série („v dnešním Art for English“ ne).
 - **Domyšlená pointa musí z vět vyplývat.** „A pak se divíme, proč nikdo nepřišel“ nesedělo k příkladu → pointu formulovat tak, aby logicky vyplývala z uvedených vět (zde: chtěli jste říct nemusíte, a zakázali jste to).
 
-**Pravidlo:** FB upoutávka = samostatný text pro lidi, kteří nás neznají: jiný háček než článek, bez názvů našich sérií, odkaz v prvním komentáři.
+- **Žádné „AI“ věty, ale ani skládanka z článku.** „Nejlíp to vysvětluje obraz, který pravidla ukazuje bez jediného slova“ Lenka odmítla jako trapné („takhle já nemluvím“). Poskládat upoutávku z jejích vět v článku ale taky nechce: má znít jako ona, a přitom být napsaná **novými větami**, ideálně s jiným úhlem nebo situací, aby se upoutávka a článek neopakovaly. Hlas brát z `voice.md` (humor, závorky, krátká pointa, hovorové slovo), ne kopírovat formulace.
+
+**Pravidlo:** FB upoutávka = samostatný text pro lidi, kteří nás neznají: Lenčin hlas, nové věty a jiný háček než článek, bez názvů našich sérií, odkaz v prvním komentáři.

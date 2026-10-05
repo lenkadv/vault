@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: story
 id: bqatzrixnt
-status: review
+status: approved
 business: lcenglish
 channel: social
 created: 2026-10-05
@@ -16,18 +16,19 @@ note: ""
 
 ## Post
 
-Jedno anglické slovo, a z pozvání je vyhazov.
+Pozvete kamaráda na grilovačku. A protože jste ohleduplní, chcete mu naznačit, že když nemůže, nic se neděje:
 
-You mustn't come. Nesmíte přijít.
-You don't have to come. Nemusíte přijít.
+You mustn't come.
 
-„Musíte“ a „nemusíte“ je v češtině logická dvojice, a tak sáhneme i v angličtině po must a mustn't. Jenže mustn't znamená nesmíte. Chtěli jste říct „nemusíte přijít, když nemůžete“ – a místo toho jste to zakázali.
+A kamarád nepřijde. Nikdy. (A možná vás už ani nepozdraví.)
 
-Nejlíp to vysvětluje obraz, který pravidla ukazuje bez jediného slova: Boschovo peklo. Hráči u převrženého stolu, noty napsané jednomu nešťastníkovi na zadku, netvor s ptačí hlavou na nočníku… Hned je jasné, co se tam nesmí.
+Právě jste mu totiž přijít zakázali. Mustn't není „nemusíte“, ale „nesmíte“. Pro „nemusíte“ má angličtina don't have to. Čeština nás tu pěkně tahá za nos: musím – nemusím, must – mustn't, to přece dává smysl! Nedává.
 
-A co s tím mají společného české cedule s vykřičníky? To najdete v článku v prvním komentáři. ;-)
+Hieronymus Bosch by zákazy psát nepotřeboval. Stačí kouknout na jeho peklo a hned víte, za co se tam pyká. Hazard? Ano. Muzicírování? Kupodivu taky. A ten nešťastník s notami na zadku… posuďte sami. :-D
 
-**První komentář:** Tady se nesmí nic!!! [PLACEHOLDER: odkaz na článek na Substacku - známý až po zveřejnění 6. 10.]
+Proč jsem si u toho vzpomněla na cedule u nás v domě, se dočtete v článku. Odkaz najdete v prvním komentáři.
+
+**První komentář:** Tady se nesmí nic!!! https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
 **Hashtags:** none
 
@@ -44,4 +45,5 @@ Výřez z Boschova pekla, stejný jako v newsletteru (`dripuploads` obrázek z D
 - Source: ad-hoc — hotová epizoda Art for English #25 (`library/episodes/25-bosch/`, finální text z Dripu 5. 10.)
 - Stránka: Lenka Dvořáková (FB), plán `brain/plan.md` bod 4; zveřejnění út 6. 10. odpoledne, po odeslání newsletteru
 - Odkaz do prvního komentáře, ne do textu (dosah)
-- Placeholders left for the owner: odkaz na Substack článek (po zveřejnění)
+- Placeholders left for the owner: none
+- Metricool: koncept 388519838 (značka Lenka Dvořáková, FB, út 6. 10. 15:00, obrázek = thumbnail z Dripu), Lenka doladí a naplánuje sama — https://app.metricool.com/planner/calendar?blogId=2215216&openWithPostUuid=3673194728097729018
