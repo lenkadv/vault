@@ -21,17 +21,19 @@ Kolik vykřičníků potřebuje cedule u popelnic? Podle autorů v našem domě 
 
 Jeden vykřičník je upozornění. Dva jsou výtka. Tři už jsou osobní urážka.
 
-Nejzábavnější je, když ten samý text visí vedle i v angličtině. Česky si toho tónu skoro nevšimneme, jsme zvyklí. Anglicky najednou slyšíte, jak to celé zní: jako by na vás někdo křičel přes celou chodbu.
+Hieronymus Bosch si s vykřičníky hlavu nelámal. Ve svém pekle nepověsil ani jednu ceduli, a stejně je každému hned jasné, co se tam nesmí. Hráči u převrženého stolu by mohli vyprávět.
 
-V angličtině by se přitom stejná prosba dala napsat tak, že by vám ještě poděkovala. ;-)
+Anglicky se tomu řekne mustn't. A pozor, není to „nemusíte“ – kdo si to splete, může omylem vyhodit i vlastní hosty.
 
-Jakou nejkrásnější ceduli s vykřičníky jste kde potkali?
+Celý článek i s peklem najdete v prvním komentáři. ;-)
+
+**První komentář:** Tady se nesmí nic!!! https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
 **Hashtags:** none
 
 ## Hook variants
 1. Kolik vykřičníků potřebuje cedule u popelnic? Podle autorů v našem domě aspoň tři. (question)
-2. Česká cedule neoznamuje. Česká cedule nařizuje!!! (bold claim, s vtipem ve vykřičnících)
+2. Jeden vykřičník je upozornění. Tři už jsou osobní urážka. (bold claim)
 
 ## Visual
 Ideálně Lenčina fotka skutečné cedule z domu (pokud nějakou má). Jinak bez obrázku nechodit — handoff `image-create` pro `work/social/25-bosch/facebook.md`: jednoduchá „cedule“ s textem a řadou vykřičníků v barvách brand.md.
@@ -42,3 +44,4 @@ Ideálně Lenčina fotka skutečné cedule z domu (pokud nějakou má). Jinak be
 - Source: library/episodes/25-bosch/substack.md
 - Placeholders left for the owner: none (cedule u popelnic = Lenčina zkušenost z blogu Klinika pro cedule)
 - Po reviewer 5. 10.: prostředek přepsán novými větami (ne kopie úvodu článku), vypuštěno „would you kindly“ (z článku), „svrbí ruka s fixkou“ (nepodložený zážitek) a „dává vám to sežrat“ (hrubé)
+- Přepracováno 5. 10. podle pravidla FB Tady Lenka (decisions 2026-10-05): spojení cedule + Boschovo peklo + mustn't, cíl = proklik na článek (odkaz v komentáři). Odkaz = veřejný článek Lenky, potvrzený v sezení.

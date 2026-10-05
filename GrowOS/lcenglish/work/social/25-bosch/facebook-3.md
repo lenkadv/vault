@@ -21,9 +21,15 @@ Jeden obraz, tři části. Ráj, zahrada plná rozkoší a peklo.
 
 Zahradu pozemských rozkoší vytvořil Hieronymus Bosch někdy na přelomu 15. a 16. století a dnes ji najdete v Pradu v Madridu.
 
-Tipla bych si, že většina z vás skončí vpravo. V ráji se toho moc neděje (to je na ráji asi to pěkné), ale peklo, to je teprve podívaná! Démoni, hráči u převrženého stolu, netvor s ptačí hlavou na trůnu…
+Tipla bych si, že většina z vás skončí vpravo.
 
-A vy? Kam byste se podívali jako první – do ráje, do zahrady, nebo do pekla?
+V ráji se toho moc neděje (to je na ráji asi to pěkné). Ale peklo, to je teprve podívaná! Kdo tam hrál o peníze, toho démoni zrovna nešetří…
+
+Kdyby to peklo mělo pravidla, začínala by všechna stejně: You mustn't… Nesmíte.
+
+Kam byste se podívali jako první – do ráje, do zahrady, nebo do pekla? A proč se Čechům mustn't v angličtině tak plete, najdete v článku. Odkaz je v prvním komentáři.
+
+**První komentář:** Tady se nesmí nic!!! https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
 **Hashtags:** none
 
@@ -41,3 +47,4 @@ Celý triptych (`library/episodes/25-bosch/hieronymus-bosch-zahrada-pozemskych-r
 - „Tipla bych si“ = odhad, ne tvrzení o Lenčině zážitku
 - Po reviewer 5. 10.: „tři obrazy“ → jeden triptych; vypuštěno nepodložené „lidi nevědí, kam s očima“; fakta přeformulována, ne převzata z článku
 - Placeholders left for the owner: none
+- Přepracováno 5. 10. podle pravidla FB Tady Lenka: doplněna anglická půlka (You mustn't… = pravidla pekla), cíl = otázka do komentářů + proklik na článek.
