@@ -8,10 +8,10 @@
 
 **Od 2026-10-05 žijí všechny obrazy epizod ve složce epizody** `library/episodes/NN-umelec/` vedle `brief.md`, `newsletter.md` a `nl-thumb`. Složka `paintings/` zrušena (obsah přesunut). Zdroj a licence každého obrazu jsou v `brief.md` dané epizody.
 
-- `../../library/episodes/_volne-obrazy/rembrandt-moses-tablets-1659.jpg` — Rembrandt, Mojžíš s deskami. Původně #16, volný materiál pro budoucí epizodu.
+- `../../library/episodes/_nepouzite-obrazy/rembrandt-moses-tablets-1659.jpg` — Rembrandt, Mojžíš s deskami. Původně #16, volný materiál pro budoucí epizodu.
 - `../../library/episodes/_unplaced-af-klint/af-klint-ten-largest-no7-1907.jpg` — Hilma af Klint, Deset největších č. 7. Nepřiřazená epizoda.
-- `../../library/episodes/21-colosseum/zhang-zeduan-along-the-river-qingming-12th-c.jpg` — Zhang Zeduan, původní plán #21 (vyřazen).
-- `../../library/episodes/18-riviere/van-thulden-odysseus-argus-1632.jpg` — van Thulden, alternativa k #18.
+- `../../library/episodes/_nepouzite-obrazy/zhang-zeduan-along-the-river-qingming-12th-c.jpg` — Zhang Zeduan, původní plán #21 (vyřazen).
+- `../../library/episodes/_nepouzite-obrazy/van-thulden-odysseus-argus-1632.jpg` — van Thulden, alternativa k #18.
 
 - `../../library/landing-pages/irregular/steen-original.jpg` — Jan Steen, The Dissolute Household (kolem 1663–64), The Met, public domain ([objekt 437747](https://www.metmuseum.org/art/collection/search/437747)). Hero obraz prodejní stránky Nepravidelná slovesa za 14 dní (261002); `steen-hero.jpg` vedle je zesvětlená šedá verze nahraná do Leadpages.
 

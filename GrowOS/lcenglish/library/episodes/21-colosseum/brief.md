@@ -91,4 +91,4 @@ Poznámka pro Canvu: podkladem je Lenčina vlastní fotka z Colossea (davy + slu
 - V těle newsletteru jako `(IMAGE: vlastní fotka z Colossea — davy na slunci)` bez prokliku do galerie (je to osobní fotografie, ne dílo ve sbírce).
 
 ### Nepoužito
-- `library/episodes/21-colosseum/zhang-zeduan-along-the-river-qingming-12th-c.jpg` — stažený songský svitek z původního plánu #21. Ponecháno pro budoucí epizodu (Zhang Zeduan v Otevřených bodech curricula).
+- `library/episodes/_nepouzite-obrazy/zhang-zeduan-along-the-river-qingming-12th-c.jpg` — stažený songský svitek z původního plánu #21. Ponecháno pro budoucí epizodu (Zhang Zeduan v Otevřených bodech curricula).
