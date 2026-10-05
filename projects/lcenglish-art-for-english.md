@@ -107,14 +107,17 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Smazat v Dripu omylem založený API draft ✅ 2026-09-28 (smazala Lenka)
 - [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky níže v sekci Substack zrcadlo
 - [x] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — mustn't × don't have to), pak připravit brief a newsletter ✅ 2026-10-04 — hook cedule s vykřičníky (myšlenka z Kliniky pro cedule, bez odkazu), prodejní přechod do 10x ENGLISH místo snippetu super_signature
-- [ ] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu (odeslání 6. 10.) — koncept v Dripu založen 261004 (broadcast 580265168, „Tady se nesmí nic!!!//Bosch“, humanizer prošel) #next-action #online 📅 2026-10-06
-- [ ] FB upoutávka k #25 (stránka Tady Lenka — koncept v Metricoolu 261005, Lenka doladí a naplánuje; `social-write` z finální verze; nemusí vyjít v den NL)
-- [ ] Po naplánování #25 v Dripu: zveřejnit na Substacku (methodology 6b) — koncept „Tady se nesmí nic!!!“ založen 261005 (https://artforenglish.substack.com/publish/post/218924267), konec bez P.S. přepsán na závěrečný odstavec; publikuje Lenka
+- [x] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu ✅ 2026-10-05 — naplánováno na út 6. 10. 7:28, finální verze napsaná Lenkou v Dripu (prodej v P.S. místo snippetu, konec „Vykřičník!“)
+- [ ] Po odeslání #25 (6. 10.): zapsat finální text z Dripu do `library/episodes/25-bosch/newsletter.md` (status final), porovnat s draftem → lekce, smazat draft, kopie do `brain/samples/`, přidat do Vydaných dílů + Aktuální stav; čas epizody do memory `project_task_durations` #next-action #online 📅 2026-10-06
+- [ ] Rekapitulovat a odsouhlasit zadání epizody #26 (Frida Kahlo, past simple — slovesa) — odeslání 13. 10. #next-action #online 📅 2026-10-12
+- [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
+- [x] Substack #25 ✅ 2026-10-05 — Lenka doupravila (tlačítka subscribe + share) a naplánovala na 6. 10.; https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
 ## Aktuální stav
 
 - **Poslední newsletter:** #24 Myslbek, Pomník sv. Václava (zápor don't/doesn't/didn't) — naplánováno v Dripu na út 29. 9. 2026
-- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (mustn't × don't have to), úterý 6. 10. 2026
+- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) naplánován na út 6. 10. 2026 (Drip 7:28, Substack, FB upoutávka 15:00); pak #26 Kahlo 13. 10.
+- [ ] **Otevřené ze zkoušky skillů (261005):** sada `repurpose-25-bosch` v GrowOS frontě (8 položek, FB 1 a FB 3 přepracovány na obraz + jazyk) — Lenka rozhodne, co dál; zvážit `social-strategy` (zapsat pravidla FB do plánu) — řešit ve vlákně o nastavení GrowOS 2 #next-action #online
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
 
@@ -188,9 +191,9 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 
 **Kroky (procházíme postupně, jeden po druhém):**
 - [x] 1. Rozhodnout kanály a role ✅ 2026-10-04 — porada marketing-strategy: **začít Facebookem** (stránka Lenka Dvořáková, 1,2 tis. sledujících; z každé epizody upoutávka), IG (`lights_camera_english`, 118) později. Stejná stránka nese reklamu na 10x English. Rozhodnutí v `GrowOS/lcenglish/brain/decisions.md` (2026-10-04).
-- [ ] 2. Navrhnout podobu upoutávky na FB a vyzkoušet ji na #25 nebo #26 (stránka **Tady Lenka**, opraveno 261005; `social-write` z hotové epizody, Lenka schvaluje; plán lcenglish 261004: když nestačí čas, odkládají se upoutávky, ne reklama) #next-action #online — původní zadání: Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
+- [x] 2. Navrhnout podobu upoutávky na FB a vyzkoušet ji na #25 nebo #26 (stránka **Tady Lenka**, opraveno 261005; `social-write` z hotové epizody, Lenka schvaluje; plán lcenglish 261004: když nestačí čas, odkládají se upoutávky, ne reklama) — původní zadání: Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc ✅ 2026-10-05 — vyzkoušeno na #25 (social-write, 3 kola: neopakovat úvod článku, nové věty v Lenčině hlase, bez názvu série; odkaz v 1. komentáři; Tady Lenka)
 - **Pravidlo (Lenka 261005):** na FB (Tady Lenka) jen příspěvky s přesahem umění + angličtina, vždy spojení obraz + jazyk; čistě angličtinářské příspěvky → IG LCEnglish, s IG se zatím nezačíná. `content-repurpose` vyzkoušen na #25 (sada `repurpose-25-bosch` v GrowOS frontě), verdikt v [[GOS – content-repurpose]].
-- [ ] 3. Zapsat krok do uzavření epizody (methodology, vedle 6b zrcadla na Substacku): příspěvek se připraví z hotové epizody a naplánuje v Metricoolu; změna `GrowOS/` systémových souborů dělá Lenka
+- [ ] 3. Zapsat krok do uzavření epizody (methodology, vedle 6b zrcadla na Substacku): příspěvek se připraví z hotové epizody a naplánuje v Metricoolu; změna `GrowOS/` systémových souborů dělá Lenka #next-action #online
 - [ ] 4. Pilot na další epizodě (#25 nebo #26): příspěvek na IG (+ FB), naplánovat přes Metricool MCP nebo ručně
 - [ ] 5. Měření: co sledovat (dosah, uložení, prokliky do Dripu / Substacku, noví odběratelé), jednotný štítek zdroje v Dripu, ať je vidět přechod ze sítí
 - [ ] 6. Po 6 epizodách (3. 11.) společné vyhodnocení: Substack + sítě → pokračovat / upravit / zastavit; rozhodnout Metricool (do 15. 11.) a Blotato

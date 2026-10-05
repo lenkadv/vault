@@ -14,6 +14,8 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Referát na hagiografii (KTF): Delehaye, *Les Origines du Culte des Martyrs* — odevzdat/přednést 22. 10. 2026. Prezentace je v `02 EDUCATION/KTF/Aktuální/Hagiografie/` (zatím `00 - Literatura.pptx`), kniha v `02 EDUCATION/Literatura apod. Dějiny - architektura - umění/knihy a články/Delehaye Les Origines du Culte des Martyrs.pdf`. Bloky na přípravu dát do kalendáře týden předem (Lenka čas potvrdí) 📅 2026-10-22
+
 - [ ] Rozhodnout: bakalářka = slepekure, nebo nové téma z Male Gaze seminárky? — deadline 31.10. (vlastní, kvůli návaznému psaní před odjezdem do Vídně), čeká se i na zpětnou vazbu vyučující → [[decisions/260823-bakalarka-slepekure-pending]] 📅 2026-10-31
 
 
@@ -27,6 +29,7 @@ sort by due
 
 ## Čeká na někoho
 
+- [ ] Čekám na KTF (správce dokumentu / Joel Nekola, joel.nekola@ktf.cuni.cz) — přístup k Google Docu „Návrh Opakovaného stipendia“ (žádost podána 5. 10., dokument jde otevřít jen v KTF doméně, ale ani z ní ho Lenka neotevřela; o přístup požádala 5. 10.). Zkontrolovat osobní údaje a číslo účtu. Když přístup do týdne nepřijde, řešit dál (napsat ze školního e-mailu Joelu Nekolovi). [Gmail – „Opakované stipendium“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878205010804406200) 📅 2026-10-12
 - [ ] Čekám na Míšu Malou (Vox kurzy) — upřesnění poptávky na workshop interkulturního managementu (rozsah, počet účastníků a jejich pozice, termín, cenové podmínky, 3–4 prioritní témata); odpověď 2. 10.: „Dobře, dám vědět“. Zadání od klienta je široké manažerské školení, americká specifika jsou jen jeden aspekt; podle upřesnění rozhodnout, jestli ho vzít. [Gmail – „Poptávka školení“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877926926146960247) 📅 2026-10-09
 - [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby k návrhu pilotu DigiStart, varianty A i B (obě poslány 30. 9. mailem jako Word + sdíleny v Claude jako dvě záložky; otázky k rozhodnutí na konci varianty A, předpilotní test na ní ve variantě B); 30. 9. večer první reakce: „nejraději bych je zkombinovala“ (Claude hlavní, na začátku projít i ChatGPT), ještě pročte, viz [[digistart]] 📅 2026-10-05
 - [ ] Čekám na Štěpánku Uličnou ohledně zpětné vazby ke konceptu webu GNOSTIKY o auditech (mail s odkazem a PDF odeslán 261002, heslo zvlášť): žlutá místa (reference a jména, cena a nezávazná konzultace), tón, kontakt, originál loga → [[gnostika-web-audit]] 📅 2026-10-07
@@ -38,5 +41,5 @@ sort by due
 
 - [ ] IKEA taška u Alexe — buď ji vyzvedne Vítek, až se s Alexem během týdne uvidí, nebo ji Lenka vezme přímo od Alexe (možná společná návštěva u rodičů příští týden). Připomenuto Vítkovi 2026-09-14 a znovu 2026-10-04; 260926 stále nevrácena. 📅 2026-10-09
 - [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). Lenka připomněla 260926 a znovu 261004. 📅 2026-10-08
-- [ ] Štěpánka Uličná — smazat staré složky a volné soubory na SharePointu `FEKT VUT Brno` (mail odeslán 260929), vyjádřit se k útržkům Dokument4/7, případně poslat čistopis zápisu z ekonomického; **od 3. 10. Lenka nevidí nadřazenou složku `FEKT VUT Brno` (přístup odepřen) — Štěpánka ví, vrací se 4. 10. večer** ([[gnostika-fekt-audit]]) 📅 2026-10-05
+- [ ] Štěpánka Uličná — smazat staré složky a volné soubory na SharePointu `FEKT VUT Brno` (mail odeslán 260929), vyjádřit se k útržkům Dokument4/7, případně poslat čistopis zápisu z ekonomického; **od 3. 10. Lenka nevidí nadřazenou složku `FEKT VUT Brno` (přístup odepřen) — Štěpánka ví, vrací se 4. 10. večer** ([[gnostika-fekt-audit]]); původní sdílený odkaz od Štěpánky (13. 8., bez přihlášení; vede do podsložky „Podklady pro audit FEKT“): https://gnostika-my.sharepoint.com/:f:/g/personal/ulicna_gnostika_cz/IgBr6EheT2a4T4RzPiiZtgArAcgTuninhQy_HvMvT7p3J1o?e=6HRGbh 📅 2026-10-05
 - [ ] Anthropic: zkontrolovat fakturu Claude Pro z 261006 (č. QRVMHXKX-0006) — v „Bill to" nesmí být CZ VAT, má tam být DPH. Pokud DIČ zůstane → odpovědět do vlákna podpory a požádat o eskalaci na člověka. (4. 10.: faktura ještě nepřišla, kontrolovat po doručení.) 📅 2026-10-07
