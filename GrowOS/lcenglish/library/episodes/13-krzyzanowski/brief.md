@@ -66,7 +66,7 @@ Poznámka: skriptem vygenerovaný `nl-thumb.jpg` v této složce je jen orienta�
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál staženo: `lcenglish/assets/paintings/krzyzanowski-grandmother-grandson-1915.jpg` ✅
+- Originál staženo: `library/episodes/13-krzyzanowski/krzyzanowski-grandmother-grandson-1915.jpg` ✅
 - Zdroj: Wikimedia Commons (public domain, autor zemřel 1922) — https://commons.wikimedia.org/wiki/File:Konrad_Krzy%C5%BCanowski_-_Grandmother_with_her_grandson_-_MP_7_-_National_Museum_in_Warsaw.jpg
 - Oficiální katalog muzea: https://cyfrowe.mnw.art.pl/pl/zbiory/447880
 - Pro Remotion zkopírováno: `system/tools/video-animations/public/krzyzanowski-grandmother-grandson-1915.jpg` ✅

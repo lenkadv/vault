@@ -69,7 +69,7 @@ Poznámka: thumbnail děláš ty v Canvě z textu výše.
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál staženo: `lcenglish/assets/paintings/zoffany-tribuna-uffizi-1772.jpg` ✅ (5803×4606 px, Wikimedia Commons Google Art Project)
+- Originál staženo: `library/episodes/14-zoffany/zoffany-tribuna-uffizi-1772.jpg` ✅ (5803×4606 px, Wikimedia Commons Google Art Project)
 - Zdroj: Wikimedia Commons (public domain, autor zemřel 1810) — https://commons.wikimedia.org/wiki/File:Johan_Zoffany_-_Tribuna_of_the_Uffizi_-_Google_Art_Project.jpg
 - Royal Collection (oficiální): https://www.rct.uk/collection/406983 — potvrzuje 22 postav na obraze
 - Poplatek za zvěčnění (20 guineí/osoba, "twenty-two in all"): https://penelope.uchicago.edu/encyclopaedia_romana/miscellanea/townley/zoffany.html — ověřeno 2026-07-21

@@ -89,7 +89,7 @@ Pill (gramatický cíl): `along / across / through / towards`
 - **Licence:** public domain (dílo i reprodukce, ověřeno na stránce souboru 2026-09-20).
 - **Ověřit, že uložený soubor = Commons soubor:** uložený `vangogh-red-vineyard-1888.jpg` (475 kB) pochází z Lenčiny konverzace; pokud se liší od Commons verze (2001 × 1560 px), případně nahradit.
 - ⚠️ **Provenance nepoužívat v newsletteru:** zdroje se rozcházejí, kdo obraz po Bernheimovi koupil (Wikipedia: Ivan Morozov 1909; Commons: Sergej Šukin). V textu je jen Anna Boch (shoda zdrojů).
-- **Uloženo:** `GrowOS/lcenglish/assets/paintings/vangogh-red-vineyard-1888.jpg`
+- **Uloženo:** `library/episodes/23-vangogh/vangogh-red-vineyard-1888.jpg`
 - **Pozor:** barvy reprodukce ověřit oproti muzejní verzi (Červená vinice je barevně citlivá).
 
 ### Thumbnail (Canva)

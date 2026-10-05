@@ -75,6 +75,6 @@ Pill (gramatický cíl): `Would you like...? / Could I have...? / Can I get...?`
 ## Media — soubory a cesty
 
 ### Obraz
-- Staženo: `lcenglish/assets/paintings/thiebaud-cakes-1963.jpg`
+- Staženo: `library/episodes/19-thiebaud/thiebaud-cakes-1963.jpg`
 - Zdroj: WikiArt (fair use claim WikiArtu, ne public domain — viz Poznámka k právům výše) — https://www.wikiart.org/en/wayne-thiebaud/cakes-1963
 - Odkaz do galerie pro newsletter (IMAGE placeholder): https://www.nga.gov/artworks/72040-cakes

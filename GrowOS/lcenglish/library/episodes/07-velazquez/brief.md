@@ -56,5 +56,5 @@ Pill (gramatický cíl): `Who? What? Where?`
 ### Obraz
 - Zdroj primární: Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg
 - Zdroj alternativní: Museo del Prado — https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f
-- Originál uložit jako: `lcenglish/assets/paintings/velazquez-las-meninas-1656.jpg`
+- Originál uložit jako: `library/episodes/07-velazquez/velazquez-las-meninas-1656.jpg`
 - Fallback thumbnail: `output/episodes/07-velazquez/nl-thumb.jpg` ⏳ připravit

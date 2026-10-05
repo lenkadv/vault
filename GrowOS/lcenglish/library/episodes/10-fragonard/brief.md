@@ -54,5 +54,5 @@ Pill (gramatický cíl): `like / love / enjoy / hate + -ing`
 ### Obraz
 - Met Museum: https://www.metmuseum.org/art/collection/search/436322
 - Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Jean-Honor%C3%A9_Fragonard_-_The_Love_Letter_-_Google_Art_Project.jpg
-- Originál uložit jako: `lcenglish/assets/paintings/fragonard-milostny-dopis-1770.jpg`
+- Originál uložit jako: `library/episodes/10-fragonard/fragonard-milostny-dopis-1770.jpg`
 - Thumbnail: `output/episodes/10-de-hooch/nl-thumb.jpg` ⏳ připravit

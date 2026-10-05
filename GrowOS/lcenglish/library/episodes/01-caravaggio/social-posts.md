@@ -112,7 +112,7 @@ Jde o to to zkusit.
 
 ## Post 5 — Facebook | ENGAGE | Ne 19. 4.
 
-**Vizuál:** `lcenglish/assets/paintings/caravaggio-emmaus-1601.jpg` (nebo textový post bez vizuálu)
+**Vizuál:** `library/episodes/01-caravaggio/caravaggio-emmaus-1601.jpg` (nebo textový post bez vizuálu)
 
 ---
 

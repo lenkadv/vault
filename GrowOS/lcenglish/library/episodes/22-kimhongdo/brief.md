@@ -87,7 +87,7 @@ Pill (gramatický cíl): `always / usually / never`
 ### Hlavní vizuál
 - **Zdroj:** Wikimedia Commons, `Danwon_Ssireum.jpg` — https://commons.wikimedia.org/wiki/File:Danwon_Ssireum.jpg
 - **Licence:** Public domain (Creative Commons Public Domain Mark 1.0 / PD-old-100 — autor zemřel po roce 1806, dílo dávno mimo copyright)
-- **Uloženo:** `GrowOS/lcenglish/assets/paintings/kim-hongdo-ssireum-18th-c.jpg` (staženo 2026-09-14, ~1,6 MB, plné rozlišení)
+- **Uloženo:** `library/episodes/22-kimhongdo/kim-hongdo-ssireum-18th-c.jpg` (staženo 2026-09-14, ~1,6 MB, plné rozlišení)
 
 ### Thumbnail (Canva)
 - **Uloženo:** `GrowOS/lcenglish/library/episodes/22-kimhongdo/nl-thumb.png` — ukládá Lenka sama po dokončení v Canvě.

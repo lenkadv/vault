@@ -93,7 +93,7 @@ Poznámka: thumbnail děláš ty v Canvě z textu výše.
 ## Media — soubory a cesty
 
 ### Obraz
-- Staženo: `lcenglish/assets/paintings/rivera-detroit-industry-north-wall-1933.jpg` ✅ (1060×754 px, Wikimedia Commons)
+- Staženo: `library/episodes/17-rivera/rivera-detroit-industry-north-wall-1933.jpg` ✅ (1060×754 px, Wikimedia Commons)
 - Zdroj: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rivera_detroit_industry_north.jpg) — public domain v USA (publikováno 1931–1977 bez copyright notice); v jiných jurisdikcích může být chráněno déle
 - Oficiální stránka muzea (k proklikání v newsletteru, dle finální verze): https://dia.org/collection/detroit-industry-north-wall/58538 (pozn.: existuje i starší/alternativní ID `58567` na stejnou stěnu — DIA.org blokuje automatické ověření /403/, oba tvary vypadají platné, použit ten, který Lenka sama zkontrolovala v prohlížeči)
 - Thumbnail: ⏳ Lenka dodělá v Canvě

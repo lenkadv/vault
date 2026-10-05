@@ -78,7 +78,7 @@ Poznámka: thumbnail děláš ty v Canvě z textu výše.
 ## Media — soubory a cesty
 
 ### Obraz
-- Staženo: `lcenglish/assets/paintings/shergil-fruit-vendors-1937.jpg` ✅ (3082×4395 px, Wikimedia Commons)
+- Staženo: `library/episodes/16-shergil/shergil-fruit-vendors-1937.jpg` ✅ (3082×4395 px, Wikimedia Commons)
 - Zdroj: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fruit_Vendors_1937.jpg) (public domain, autorka zemřela 1941)
 - Pro Remotion zkopírováno: `system/tools/video-animations/public/shergil-fruit-vendors-1937.jpg` ✅
 - Thumbnail: ⏳ Lenka dodělá v Canvě

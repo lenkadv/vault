@@ -70,5 +70,5 @@ Pill (gramatický cíl): `first / then / next / finally`
 - Tate Modern: https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t01319
 - Wikimedia Commons: https://commons.wikimedia.org/wiki/File:David_Hockney,_1967,_A_Bigger_Splash,_acrylic_on_canvas,_242.5_x_243.9_cm,_Tate_Modern,_London.jpg
 - ⚠️ Copyright: Hockney zemřel 11. 6. 2026 — dílo chráněno do roku 2096. Pro newsletter použít s odkazem na Tate; pro Instagram použít press-kit fotografii Tate nebo odkazovat na jejich profil.
-- Originál uložit jako: `lcenglish/assets/paintings/hockney-a-bigger-splash-1967.jpg`
+- Originál uložit jako: `library/episodes/12-hockney/hockney-a-bigger-splash-1967.jpg`
 - Thumbnail: `output/episodes/12-hockney/nl-thumb.jpg` ⏳ připravit

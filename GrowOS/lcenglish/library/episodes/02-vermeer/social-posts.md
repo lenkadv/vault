@@ -35,7 +35,7 @@ Zítra v newsletteru.
 
 ## Post 2 — Instagram + Facebook | OBSERVE | Út 21. 4.
 
-**Vizuál:** `lcenglish/assets/paintings/vermeer-milkmaid-1658.jpg` ⚠️ stáhnout z Rijksmuseum
+**Vizuál:** `library/episodes/02-vermeer/vermeer-milkmaid-1658.jpg` ⚠️ stáhnout z Rijksmuseum
 
 ---
 

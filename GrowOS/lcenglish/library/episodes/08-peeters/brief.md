@@ -55,5 +55,5 @@ Pill (gramatický cíl): `some / any`
 ### Obraz
 - Zdroj primární: Wikipedia — https://en.wikipedia.org/wiki/List_of_paintings_by_Clara_Peeters#/media/File:Clara_Peeters_-_Mesa_(Prado)_01.jpg
 - Zdroj alternativní: Museo del Prado — https://www.museodelprado.es/en/the-collection/art-work/still-life-with-flowers-a-silvergilt-goblet-dried-fruit-sweetmeats-bread-sticks-wine-and-a-pewter-pitcher/97a18fea-112a-417a-9a8a-6665a44cc331
-- Originál uložit jako: `lcenglish/assets/paintings/peeters-zatisi-1611.jpg`
+- Originál uložit jako: `library/episodes/08-peeters/peeters-zatisi-1611.jpg`
 - Thumbnail: `output/episodes/08-peeters/nl-thumb.jpg` ⏳ připravit

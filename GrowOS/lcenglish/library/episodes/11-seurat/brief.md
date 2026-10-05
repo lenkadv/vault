@@ -68,7 +68,7 @@ Pill (gramatický cíl): `be going to`
 ### Obraz
 - Art Institute of Chicago: https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884
 - Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg
-- Originál uložit jako: `lcenglish/assets/paintings/seurat-la-grande-jatte-1886.jpg`
+- Originál uložit jako: `library/episodes/11-seurat/seurat-la-grande-jatte-1886.jpg`
 - Thumbnail: `output/episodes/11-seurat/nl-thumb.jpg` ⏳ připravit
 
 ### Detail doporučený pro thumbnail

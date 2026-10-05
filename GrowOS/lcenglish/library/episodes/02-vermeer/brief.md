@@ -37,7 +37,7 @@ publish-carousel: 2026-04-23
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál: `lcenglish/assets/paintings/vermeer-milkmaid-1658.jpg` ⚠️ stáhnout
+- Originál: `library/episodes/02-vermeer/vermeer-milkmaid-1658.jpg` ⚠️ stáhnout
 - Zdroj: `https://www.rijksmuseum.nl/en/collection/SK-A-2344` — tlačítko Download, nejvyšší rozlišení
 - Pro Remotion: `system/tools/video-animations/public/vermeer-milkmaid-1658.jpg`
 

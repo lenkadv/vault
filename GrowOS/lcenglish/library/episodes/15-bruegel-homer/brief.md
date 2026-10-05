@@ -85,12 +85,12 @@ Poznámka: thumbnail děláš ty v Canvě z textu výše. Bruegel jako dominantn
 ### Obrazy (dva zdrojové soubory, jeden společný in-body náhled)
 
 **Bruegel — Children's Games:**
-- Staženo: `lcenglish/assets/paintings/bruegel-childrens-games-1560.jpg` ✅ (6567×4770 px, Wikimedia Commons Google Art Project)
+- Staženo: `library/episodes/15-bruegel-homer/bruegel-childrens-games-1560.jpg` ✅ (6567×4770 px, Wikimedia Commons Google Art Project)
 - Zdroj: [Wikimedia Commons](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel)) (public domain, autor zemřel 1569)
 - Pro Remotion zkopírováno: `system/tools/video-animations/public/bruegel-childrens-games-1560.jpg` ✅
 
 **Homer — Berry Pickers:**
-- Staženo: `lcenglish/assets/paintings/homer-berry-pickers-1873.jpg` ✅ (7275×5104 px, Wikimedia Commons)
+- Staženo: `library/episodes/15-bruegel-homer/homer-berry-pickers-1873.jpg` ✅ (7275×5104 px, Wikimedia Commons)
 - Zdroj: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Winslow_Homer_-_Berry_Pickers_(1873).jpg) (public domain, autor zemřel 1910)
 - Pro Remotion zkopírováno: `system/tools/video-animations/public/homer-berry-pickers-1873.jpg` ✅
 

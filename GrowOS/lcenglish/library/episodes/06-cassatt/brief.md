@@ -43,7 +43,7 @@ Gramatický klíč:
 ### Obraz
 - Zdroj: National Gallery of Art — https://www.nga.gov/collection/art-object-page.52167.html
 - Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_Children_on_the_Beach_(1884).jpg
-- Originál uložit jako: `lcenglish/assets/paintings/cassatt-children-on-the-beach-1884.jpg`
+- Originál uložit jako: `library/episodes/06-cassatt/cassatt-children-on-the-beach-1884.jpg`
 - Fallback thumbnail: `output/episodes/06-cassatt/nl-thumb.jpg` ⏳ připravit
 
 ### Remotion / Carousel

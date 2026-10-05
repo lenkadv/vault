@@ -37,7 +37,7 @@ publish-carousel: 2026-04-30
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál: `lcenglish/assets/paintings/van-eyck-arnolfini-portrait-1434.jpg` ⚠️ stáhnout
+- Originál: `library/episodes/03-van-eyck/van-eyck-arnolfini-portrait-1434.jpg` ⚠️ stáhnout
 - Zdroj: https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait — Download image
 - Pro Remotion: `system/tools/video-animations/public/van-eyck-arnolfini-portrait-1434.jpg`
 

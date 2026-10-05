@@ -38,7 +38,7 @@ publish-carousel: ⏳ neurčeno
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál: `lcenglish/assets/paintings/hokusai-great-wave-kanagawa-1831.jpg` ✅ staženo (3859×2594 px, 2.3 MB)
+- Originál: `library/episodes/04-hokusai/hokusai-great-wave-kanagawa-1831.jpg` ✅ staženo (3859×2594 px, 2.3 MB)
 - Zdroj: Wikimedia Commons — https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg
 - Pro Remotion: `system/tools/video-animations/public/hokusai-great-wave-kanagawa-1831.jpg` ✅ zkopírováno
 - Fallback thumbnail: `output/episodes/04-hokusai/nl-thumb-plain.jpg` ✅ (600×400 px, pro Drip bez Remotion)

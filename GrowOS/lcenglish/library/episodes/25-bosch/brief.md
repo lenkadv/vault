@@ -79,4 +79,6 @@ Hlavní zdroj: [Wikipedia — The Garden of Earthly Delights](https://en.wikiped
 - Uprostřed pekla netvor s ptačí hlavou na trůnu/nočníku, který pojídá lidi („Kníže pekla“). Strom-člověk s dudami na hlavě. Prase v jeptišském závoji nutí muže podepsat listinu. (WP)
 - Obraz byl v 16. století v paláci hrabat Nasavských v Bruselu, Filip II. ho získal 1591 a 1593 daroval do Escorialu. (WP)
 
-**Reprodukce:** Wikimedia Commons, public domain — celek `File:The Garden of earthly delights.jpg`, Peklo `File:Hieronymus Bosch - The Garden of Earthly Delights - Hell.jpg`.
+**Reprodukce (staženo 2026-10-05, public domain, Wikimedia Commons):**
+- `hieronymus-bosch-zahrada-pozemskych-rozkosi-peklo-1490-1510.jpg` — pravé křídlo (Peklo), originál 1778 × 4324 px — https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_Hell.jpg
+- `hieronymus-bosch-zahrada-pozemskych-rozkosi-cely-triptych-1490-1510.jpg` — celý triptych, zmenšeno na 3840 × 2186 px (originál má 39 137 px a 183 MB) — https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg

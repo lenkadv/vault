@@ -43,7 +43,7 @@ Gramatický klíč:
 ### Obraz
 - Zdroj: Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Vig%C3%A9e-Le_Brun,_Elisabeth_-_Self-Portrait_with_Her_Daughter_Julie_-_1789.jpg
 - Louvre: https://collections.louvre.fr/en/ark:/53355/cl010062743
-- Originál uložit jako: `lcenglish/assets/paintings/vigee-le-brun-autoportret-s-dcerou-1789.jpg`
+- Originál uložit jako: `library/episodes/05-vigee-le-brun/vigee-le-brun-autoportret-s-dcerou-1789.jpg`
 - Fallback thumbnail: `output/episodes/05-vigee-le-brun/nl-thumb.jpg` ⏳ připravit
 
 ### Remotion / Carousel

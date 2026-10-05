@@ -36,7 +36,7 @@ publish-carousel: 2026-04-16
 ## Media — soubory a cesty
 
 ### Obraz
-- Originál: `lcenglish/assets/paintings/caravaggio-emmaus-1601.jpg`
+- Originál: `library/episodes/01-caravaggio/caravaggio-emmaus-1601.jpg`
 - Zdroj: National Gallery London (public domain)
 - Pro Remotion: `system/tools/video-animations/public/caravaggio-emmaus-1601.jpg`
 

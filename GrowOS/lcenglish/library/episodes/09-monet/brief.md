@@ -58,5 +58,5 @@ Pill (gramatický cíl): `at / on / in`
 - Wikimedia Commons (veřejná doména): 
   - https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1990.441_-_Art_Institute_of_Chicago.jpg
   - https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(Snow_Effect,_Overcast_Day)_-_1984.1236_-_Art_Institute_of_Chicago.jpg
-- Originál uložit jako: `lcenglish/assets/paintings/monet-kupky-sena-leto-1890.jpg` + `monet-kupky-sena-zima-1891.jpg`
+- Originál uložit jako: `library/episodes/09-monet/monet-kupky-sena-leto-1890.jpg` + `monet-kupky-sena-zima-1891.jpg`
 - Thumbnail: `output/episodes/09-monet/nl-thumb.jpg` ⏳ připravit

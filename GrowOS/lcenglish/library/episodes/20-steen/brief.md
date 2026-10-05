@@ -77,6 +77,6 @@ Pill (gramatický cíl): `must / mustn't`
 ## Media — soubory a cesty
 
 ### Obraz
-- Staženo: `lcenglish/assets/paintings/steen-school-for-boys-and-girls-1670.jpg` (4001×3034 px, Google Art Project reprodukce)
+- Staženo: `library/episodes/20-steen/steen-school-for-boys-and-girls-1670.jpg` (4001×3034 px, Google Art Project reprodukce)
 - Zdroj: Wikimedia Commons, public domain — https://commons.wikimedia.org/wiki/File:Jan_Steen_-_A_School_for_Boys_and_Girls_-_Google_Art_Project.jpg
 - Odkaz do galerie pro newsletter (IMAGE placeholder): https://www.nationalgalleries.org/art-and-artists/5676/school-boys-and-girls-about-1670

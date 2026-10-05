@@ -87,7 +87,7 @@ Poznámka: thumbnail děláš ty v Canvě z textu výše — čeká na finální
 ## Media — soubory a cesty
 
 ### Obraz
-- Staženo: `lcenglish/assets/paintings/af-klint-ten-largest-no7-1907.jpg` ✅ (Wikimedia Commons, ověřeno vizuálně)
+- Staženo: `library/episodes/_unplaced-af-klint/af-klint-ten-largest-no7-1907.jpg` ✅ (Wikimedia Commons, ověřeno vizuálně)
 - Zdroj: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_The_Ten_Largest_No._7_-_Adulthood_-_1907.jpg) — public domain (autorka zemřela 1944, PD v zemích s ochranou život autora + 80 let nebo méně)
 - Oficiální stránka muzea (k proklikání v newsletteru): https://guide.modernamuseet.se/stockholm/en/collection/hilma-af-klint/de-tio-storsta/
 - Thumbnail: ⏳ Lenka dodělá v Canvě, až bude finální výběr adjektiv
