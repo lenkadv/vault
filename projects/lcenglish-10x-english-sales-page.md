@@ -36,11 +36,12 @@ Vzniklo jako vedlejší produkt zkoušení YouCloned/AI Clone nástrojů (viz [[
 - [x] Porovnat varianty A/B/C ✅ 261001 (Lenka: A, víc C; návrh Clauda po auditu: hlavička C + tělo A, čeká na potvrzení)
 - [x] Rozhodnout garanci, první zdroj návštěvy a příběh ✅ 261001 (garance zatím žádná; cíl = studené publikum, ne Drip; příběh japonština → [[GrowOS/lcenglish/brain/stories/proc-vznikl-10x-english-a-shadowloop]])
 - [x] Zkontrolovat variantu D a schválit k nasazení ✅ 261001
-- [x] Rozhodnout, odkud přivést studené publikum na novou stránku ✅ 2026-10-04 — **Facebook** (stránka Lenka Dvořáková), reklama rovnou na prodejní stránku; ChatGPT Ads jako druhá možnost později. Porada `marketing-strategy` 261004, plán `GrowOS/lcenglish/brain/plan.md`, rozhodnutí `brain/decisions.md`.
+- [x] Rozhodnout, odkud přivést studené publikum na novou stránku ✅ 2026-10-04 — **Facebook** (stránka pro angličtinu = Tady Lenka / ID 198814966970945, opraveno 261005), reklama rovnou na prodejní stránku; ChatGPT Ads jako druhá možnost později. Porada `marketing-strategy` 261004, plán `GrowOS/lcenglish/brain/plan.md`, rozhodnutí `brain/decisions.md`.
 
 ### Reklama na Facebooku — postup podle plánu lcenglish (261004)
 
 Cíl: reklama se sama zaplatí = cena za jeden prodej pod 1 270 Kč (při stropu 2 000 Kč aspoň 2 prodeje). Sledované číslo: výdej ÷ prodeje (Meta Správce reklam proti FAPI).
+- [ ] Vyjasnit v Meta Business Suite, ze kterého reklamního účtu a stránky reklama poběží (reklamní účet LC English nejspíš pořád existuje; FB stránka pro angličtinu = ID 198814966970945, nadpis „Lenka Dvořáková“, adresa tadylenka; druhá stránka „Lenka Dvořáková“ ID 1156685167817243 je jiná) — udělat na začátku bloku s pixelem, ať pixel vznikne ve správném účtu (Lenka 261005) #next-action #online
 - [ ] Meta pixel na `lcenglish.cz/10x-english` + událost nákupu na děkovací stránce FAPI (pixel vytvoří Lenka v Meta účtu, vložení a ověření Claude) — blok út 6. 10. 11:00–13:00 #next-action #online
 - [ ] Připravit první kolo reklamy: `ads-meta-create` (+ vyzkoušet `ads-meta-research` / `-compliance`, Lenčin kurz na FB reklamy — v `02 EDUCATION` kandidát Ad Flight Navigator / Winning Ads), Lenka schválí
 - [ ] `ads-meta-publish` založí reklamu pozastavenou, Lenka ji zapne (strop 2 000 Kč / 14 dní) → při zapnutí založit úkol na vyhodnocení s datem +14 dní

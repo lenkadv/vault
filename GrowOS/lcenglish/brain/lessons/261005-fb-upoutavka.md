@@ -14,4 +14,6 @@ datum: "261005"
 
 - **Žádné „AI“ věty, ale ani skládanka z článku.** „Nejlíp to vysvětluje obraz, který pravidla ukazuje bez jediného slova“ Lenka odmítla jako trapné („takhle já nemluvím“). Poskládat upoutávku z jejích vět v článku ale taky nechce: má znít jako ona, a přitom být napsaná **novými větami**, ideálně s jiným úhlem nebo situací, aby se upoutávka a článek neopakovaly. Hlas brát z `voice.md` (humor, závorky, krátká pointa, hovorové slovo), ne kopírovat formulace.
 
+- **Lenčiny úpravy finální verze (Metricool, 5. 10.):** „když nemůže“ → „jestli nemůže“; „tahá za nos“ → „pěkně mate“ (méně ozdobné idiomy); místo mého zvolání „to přece dává smysl! Nedává.“ klidné „to přece dává smysl. Jenže angličtina má jinou logiku“ + pravidlo až za tím (nejdřív česká logika, pak anglická, žádné efektní zvraty); „Bosch by zákazy psát nepotřeboval“ → „Bosch zákazy psát nepotřeboval“ (konstatování místo podmiňovacího způsobu). Sledovat dál, jedna úprava = pozorování.
+
 **Pravidlo:** FB upoutávka = samostatný text pro lidi, kteří nás neznají: Lenčin hlas, nové věty a jiný háček než článek, bez názvů našich sérií, odkaz v prvním komentáři.
