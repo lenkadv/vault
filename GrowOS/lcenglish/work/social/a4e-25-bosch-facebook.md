@@ -43,7 +43,7 @@ Výřez z Boschova pekla, stejný jako v newsletteru (`dripuploads` obrázek z D
 - Intent: story (přepsáno na háček s pointou + Bosch; cedule nechány jako důvod kliknout)
 - Lenka 5. 10.: nezmiňovat „Art for English“ — lidé na FB nevědí, co to je
 - Source: ad-hoc — hotová epizoda Art for English #25 (`library/episodes/25-bosch/`, finální text z Dripu 5. 10.)
-- Stránka: Lenka Dvořáková (FB), plán `brain/plan.md` bod 4; zveřejnění út 6. 10. odpoledne, po odeslání newsletteru
+- Stránka: Tady Lenka (FB; opraveno 5. 10. — sloučený profil pro LCEnglish), plán `brain/plan.md` bod 4; zveřejnění út 6. 10. odpoledne, po odeslání newsletteru
 - Odkaz do prvního komentáře, ne do textu (dosah)
 - Placeholders left for the owner: none
-- Metricool: koncept 388519838 (značka Lenka Dvořáková, FB, út 6. 10. 15:00, obrázek = thumbnail z Dripu), Lenka doladí a naplánuje sama — https://app.metricool.com/planner/calendar?blogId=2215216&openWithPostUuid=3673194728097729018
+- Metricool: koncept 388523254 ve značce Tady Lenka — https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-5332940957828101074 ; omylem založený koncept 388519838 (značka Lenka Dvořáková, FB, út 6. 10. 15:00, obrázek = thumbnail z Dripu), Lenka doladí a naplánuje sama — https://app.metricool.com/planner/calendar?blogId=2215216&openWithPostUuid=3673194728097729018

@@ -22,7 +22,7 @@ střední jistota). Ne úplní začátečníci (to je HELE).
 - **Substack:** zrcadlo téže epizody, ne samostatný kanál.
 
 ## Na co se soustředíme do ledna
-- **Facebook (stránka Lenka Dvořáková, 1,2 tis. sledujících)** — jeden nový
+- **Facebook** (upoutávky: stránka **Tady Lenka** = sloučený FB profil pro LCEnglish i umění, opraveno 2026-10-05; reklama: stránka Lenka Dvořáková s reklamním účtem — [PLACEHOLDER: potvrdit, ze které stránky poběží reklama]) — jeden nový
   kanál, dvě věci: upoutávka z každé epizody Art for English a reklama rovnou
   na prodejní stránku 10x ENGLISH. Proč: největší publikum (IG LCEnglish má
   118), jedna platforma. Neaktivní kontakty z Dripu = vlastní publikum pro

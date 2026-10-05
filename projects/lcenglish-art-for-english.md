@@ -108,7 +108,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky níže v sekci Substack zrcadlo
 - [x] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — mustn't × don't have to), pak připravit brief a newsletter ✅ 2026-10-04 — hook cedule s vykřičníky (myšlenka z Kliniky pro cedule, bez odkazu), prodejní přechod do 10x ENGLISH místo snippetu super_signature
 - [ ] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu (odeslání 6. 10.) — koncept v Dripu založen 261004 (broadcast 580265168, „Tady se nesmí nic!!!//Bosch“, humanizer prošel) #next-action #online 📅 2026-10-06
-- [ ] FB upoutávka k #25 (stránka Lenka Dvořáková, `social-write` z finální verze; nemusí vyjít v den NL)
+- [ ] FB upoutávka k #25 (stránka Tady Lenka — koncept v Metricoolu 261005, Lenka doladí a naplánuje; `social-write` z finální verze; nemusí vyjít v den NL)
 - [ ] Po naplánování #25 v Dripu: zveřejnit na Substacku (methodology 6b) — koncept „Tady se nesmí nic!!!“ založen 261005 (https://artforenglish.substack.com/publish/post/218924267), konec bez P.S. přepsán na závěrečný odstavec; publikuje Lenka
 
 ## Aktuální stav
@@ -188,7 +188,7 @@ Rozhodnutí: `GrowOS/lcenglish/brain/decisions.md` (2026-09-28).
 
 **Kroky (procházíme postupně, jeden po druhém):**
 - [x] 1. Rozhodnout kanály a role ✅ 2026-10-04 — porada marketing-strategy: **začít Facebookem** (stránka Lenka Dvořáková, 1,2 tis. sledujících; z každé epizody upoutávka), IG (`lights_camera_english`, 118) později. Stejná stránka nese reklamu na 10x English. Rozhodnutí v `GrowOS/lcenglish/brain/decisions.md` (2026-10-04).
-- [ ] 2. Navrhnout podobu upoutávky na FB a vyzkoušet ji na #25 nebo #26 (stránka Lenka Dvořáková; `social-write` z hotové epizody, Lenka schvaluje; plán lcenglish 261004: když nestačí čas, odkládají se upoutávky, ne reklama) #next-action #online — původní zadání: Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
+- [ ] 2. Navrhnout podobu upoutávky na FB a vyzkoušet ji na #25 nebo #26 (stránka **Tady Lenka**, opraveno 261005; `social-write` z hotové epizody, Lenka schvaluje; plán lcenglish 261004: když nestačí čas, odkládají se upoutávky, ne reklama) #next-action #online — původní zadání: Rozhodnout formát jednoho příspěvku k epizodě (obraz + 1 fráze + odkaz do newsletteru / Substacku; karusel, nebo jeden obrázek; stories?), co se použije z hotové epizody (obrázek, 3 fráze, hook) a že to nesmí přidat práci navíc
 - [ ] 3. Zapsat krok do uzavření epizody (methodology, vedle 6b zrcadla na Substacku): příspěvek se připraví z hotové epizody a naplánuje v Metricoolu; změna `GrowOS/` systémových souborů dělá Lenka
 - [ ] 4. Pilot na další epizodě (#25 nebo #26): příspěvek na IG (+ FB), naplánovat přes Metricool MCP nebo ručně
 - [ ] 5. Měření: co sledovat (dosah, uložení, prokliky do Dripu / Substacku, noví odběratelé), jednotný štítek zdroje v Dripu, ať je vidět přechod ze sítí

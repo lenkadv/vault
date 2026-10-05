@@ -4,6 +4,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 
 ---
 
+## 2026-10-05
+**Upoutávky na epizody Art for English jdou na FB stránku Tady Lenka** (sloučený FB profil pro LCEnglish a umění, Metricool značka Tady Lenka), ne na stránku Lenka Dvořáková. Opravuje bod 1 z 2026-10-04, kde byla uvedena stránka Lenka Dvořáková (Lenka 2026-10-05, při plánování první upoutávky #25).
+
 ## 2026-10-04 (porada marketing-strategy)
 **Cíl do začátku ledna 2027: znovu otestovat LCEnglish jako zdroj příjmu.** Rozhodnutí z porady:
 1. **Hlavní kanály: e-mail (Drip) + Facebook** (stránka Lenka Dvořáková). Blog/SEO vyřazen (2026-09-29).
