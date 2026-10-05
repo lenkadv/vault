@@ -26,8 +26,9 @@ Dlouhá léta vedla jazykovou školu. — **checked** (bio na kurzy.lcenglish.cz
   prostředek — **checked**, stejný zdroj. Webinářová sleva na 4.970 Kč
   existuje, ale je vidět jen na samotném webináři, ne na veřejném webu — proto
   ji předchozí kontrola webu nenašla. Per Lenka, **confirmed**.
-- **10x ENGLISH** — 1.270 Kč, **checked** (kurzy.lcenglish.cz/p/10xe,
-  2026-09-14). 100 krátkých dialogů z reálného života, nahrávky v plné
+- **10x ENGLISH** — 1.270 Kč, **checked** (prodejní stránka
+  **lcenglish.cz/10x-english** — confirmed Lenka 2026-10-05, živá od 2026-10-01;
+  stará kurzy.lcenglish.cz/p/10xe na ni přesměrovává). 100 krátkých dialogů z reálného života, nahrávky v plné
   rychlosti i na 80 % tempa, čeština u každého textu.
 - **Nepravidelná slovesa za 14 dní** — 790 Kč, **checked**
   (lcenglish.cz/irregular, 2026-09-14). 14denní plán, balíček 50
