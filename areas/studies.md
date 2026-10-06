@@ -24,6 +24,13 @@ Bakalářské studium dějin umění, KTF UK Praha.
 
 **Zimní semestr 2026/27 začíná 1. 10. 2026** — rozvrh je, akademické povinnosti (seminárky, zkoušky) se ukážou během prvních týdnů → doplnit do tabulky.
 
+**Přehledné dějiny umění 19. a 20. století (M. Pech, KDKU035), ZS 2026/27** (zjištěno 261006 z úvodních přednášek v Gemini Notebooku a z mailu Pecha 2. 10.):
+- **Přehledovka 1 (19. st.) = zápočtový test na konci ZS**: poznávačka obrázků 19. století (malířství, sochařství, architektura), u každého autor + název + datace + styl.
+- **Přehledovka 2 (19. + 20. st.) = zkouška, písemný test 100 b.**: 15 b. uzavřené otázky (data, pojmy) · 35 b. 5 popisných/grafických (zástupci, vývoj, charakteristika směru, nákres kompozice) · 50 b. poznávačka 10 obrázků (~50 % ze sbírek Národní galerie). Výborně 90+, velmi dobře 75–89, dobře 60/65–74.
+- Obrázky v testech pocházejí ze tří zdrojů: prezentace (bez výběru, „ze všeho“), **zhruba polovina ze sbírek Národní galerie**, občas FF UK PDF. „Kanonický“ výběr platí jen pro nákres kompozice. Počet obrázků v zápočtu není zatím znám. Přednášky běží paralelně: 19. st. v úterý, 20. st. v pátek.
+- První termín = ten, na který jít; předtermín v lednu možný; v LS bez přednášek, jen 1–3 výjimečné termíny. Na zkoušku je nutné být přihlášená i na páteční Přehledovku 2 (ověřit v SIS).
+- Prezentace: `02 EDUCATION/KTF/Pech 19-20stoleti` (všechny už na Disku); záznamy v Gemini Notebooku „Přehledovka 19. století“ / „Přehledovka 20. století“. Anki balíčky, chronologie a FF UK doplněk generuje Claude automaticky (složka `C:\Users\Lenka\Documents\pech-work`, viz memory `project_pech_prehledovky_anki`). Plán učení zatím není zapsán jako projekt ani v kalendáři.
+
 ## Workflow
 
 - [[resources/zotero-word-workflow]] — citace ve Wordu

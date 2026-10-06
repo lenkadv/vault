@@ -56,3 +56,5 @@
 {"actor":"unknown","event":"flip","id":"2xgftn6e0q","from":"draft","to":"review","detected":"reconcile","ts":"2026-10-06T08:45:00.644Z"}
 
 {"actor":"unknown","event":"flip","id":"8hwnkttl6a","from":"draft","to":"review","detected":"reconcile","ts":"2026-10-06T08:45:00.653Z"}
+
+{"actor":"ai","event":"publish-mode-change","channel":"ads","from":"unanswered","to":"explicit-safe","session":"d5b703f9-23f9-4ac7-9513-b39dcac9fa1a","ts":"2026-10-06T17:05:24.437Z"}

@@ -3,7 +3,7 @@
     "lcenglish": {
       "email": "explicit-safe",
       "social": "explicit-safe",
-      "ads": "unanswered",
+      "ads": "explicit-safe",
       "video": "unanswered",
       "support": "explicit-safe"
     },

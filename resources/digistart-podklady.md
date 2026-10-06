@@ -47,3 +47,20 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
 ## Kandidáti na skilly do kurzu (261005)
 - **content-repurpose** (GrowOS) — z jednoho hotového textu sada příspěvků, newsletter, osnova karuselu a předání na scénář videa; každý kus prochází kontrolou. Vyzkoušeno na Art for English #25, Lenka: použitelné, přidat do DigiStartu. Pozor na slabinu: bez nastaveného cíle kanálu dělá příspěvky, které nikam nevedou → v kurzu ukázat spolu s nastavením cíle sociálních sítí. Hodnocení → [[GOS – content-repurpose]].
 
+
+## Vzory stránek a propagace (261006)
+- **Děkovací stránka po přihlášení na webinář (Crush It with Claude, BotBuilders)** — uložená stránka (snímky, HTML, obrázky) i s rozborem, co vzít a co ne → [[crushitwithclaude-webinar-thank-you-261006]]. Použij, až budeš stavět stránku „děkujeme za přihlášení“ na ukázkovou hodinu nebo webinář DigiStartu.
+
+### Co si vzít z webináře BotBuilders (nápady, 261006, bez nákupu)
+Podrobný rozbor → [[BB – Crush It with Claude webinář]]. Tady jen to, co se může hodit do DigiStartu. Vše je k ověření a rozhodnutí Lenky.
+- **Menu kurzu jako „připnutá vlákna“:** účastnice by měla v levém menu Claude složku (projekt) „DigiStart“ a v ní vlákna po krocích kurzu (např. „1 Seznámení“, „2 Moje první zadání“, „3 Moje dovednost“…). Klikne a pracuje; projekt drží společné pokyny a soubory. Ověřit: jak projekt předat nebo nastavit účastnicím a který plán Claude potřebují (projekty a dovednosti v běžném chatu, ne v Claude Code).
+- **Balíček dovedností jako plugin:** všechny dovednosti kurzu najednou jedním souborem (Customize > Plugins > Add > Upload plugin, .zip). Nepřehnat: pro tuto skupinu spíš 3 až 5 dovedností než desítky. Ověřit, jestli stačí zdarma / jaký plán. Kandidáti viz výš (Kandidáti na skilly do kurzu).
+- **Formulace, které se dají převzít jako myšlenka (vlastními slovy):**
+  - „Tři věci, které z AI dělají pomocnici: **dovednosti** (co umí), **propojení** (kam smí sahat), **naplánované úkoly** (kdy pracuje sama).“
+  - „Tři způsoby práce: **zeptáte se**, co dělat · **řeknete**, co dělat · **naplánujete**, ať to dělá samo.“
+  - „Nemusíte si pamatovat příkazy. Napíšete normálně, co potřebujete, a AI si vybere správnou dovednost.“
+  - „AI připraví **návrh**, odešlete ho vy.“ (u e-mailů, příspěvků, objednávek)
+  - „Nezačínejte nástrojem, ale **skutečným problémem**, který vás nejvíc zdržuje.“
+  - „Nechte AI, ať vám pomůže napsat zadání pro AI.“ (bez žargonu „prompt“)
+- **Ukázka naživo na začátku ukázkové hodiny:** zadat úkol, nechat běžet, vrátit se k výsledku na konci (otevřená smyčka). Pro poctivost: živě, ne ze záznamu.
+- **Bezpečnost jako lekce:** plugin nebo skill nahraný z neověřeného zdroje vykonává pokyny jako já; instalovat jen z ověřených zdrojů (podle dokumentace Anthropic se nahrané pluginy nekontrolují).
