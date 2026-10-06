@@ -83,7 +83,7 @@ post is for when it hands it over.
 - Destination id: [PLACEHOLDER: ID profilu v Metricoolu — potvrdit]
 - Route: manual
 - How far to go: safe-state
-- Notes: skill `/metricool` napíše draft a otevře Metricool v prohlížeči k vložení; publikuje Lenka ručně
+- Notes: skill `/metricool` napíše draft a otevře Metricool v prohlížeči k vložení; publikuje Lenka ručně. Rozhodnuto 261006: příspěvek se v Metricoolu naplánuje na konkrétní čas, ale **zůstane jako koncept (draft)**; zveřejnění spouští Lenka sama. Nic se tedy nezveřejní samo, proto zůstává `safe-state`.
 
 Only add a per-platform block — `Channel: linkedin`, `Channel: instagram` — if
 your posts actually live in a folder of that name (`work/linkedin/`). The
@@ -95,13 +95,16 @@ the answer you wrote is never used.
 
 ### Ads
 - Channel: ads
-- Provider: [PLACEHOLDER: the ad platform]
-- Destination id: [PLACEHOLDER: the ad account ID, exactly as the platform shows it — the account the system writes to]
-- Page or asset id: [PLACEHOLDER: the page the ads run from, by ID]
-- Route: [PLACEHOLDER: connector / api / manual]
-- How far to go: [PLACEHOLDER: not answered yet — read "How far GrowOS may go" below. For ads we recommend keeping them paused, for good]
+- Provider: Meta Ads (Facebook, Instagram)
+- Destination id: 244326466
+- Page or asset id: 198814966970945
+- Pixel id: 552638212929820
+- Route: connector
+- Notes: ID potvrdila Lenka 261006. Reklamní účet = Lights Camera English (firma Lenka Dvořáková, ID 539885836212457, měna CZK); stránka = Tady Lenka (FB stránka pro angličtinu); pixel = LCEnglish (na lcenglish.cz včetně /10x-english, nákup ověřen testem 261006). Konektor Meta Ads funguje jen pro účet 244326466; ostatní reklamní účty (548262173700533, 10209080926273821) se nepoužívají.
+- How far to go: safe-state
 
 ### Video
+- Notes: zatím se video nedělá (Lenka 261006), údaje se doplní, až bude potřeba
 - Channel: video
 - Provider: [PLACEHOLDER: the video platform]
 - Destination id: [PLACEHOLDER: the channel ID]
