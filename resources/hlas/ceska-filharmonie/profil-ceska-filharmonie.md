@@ -67,8 +67,10 @@ Hravá a vřelá autorita: orchestr mluví v první osobě množného čísla ja
 - 24. 9. 2026, „Sezona už řadí allegro!💃“: „A protože filharmonický svět sahá daleko za hranice pódia…“; „Kariéru v Hollywoodu Gustav Mahler o pár desetiletí minul, jeho hudba nikoli.“; Richard Novák „si ke svým 95. narozeninám nadělí to, co má nejraději: hudbu.“
 - 30. 9. 2026, „Mahlerovský speciál | Slyšíte na Mahlera?“: „Náš Mahlerovský komplet už je komplet“; „Tenhle box ocení i zapřísáhlí odpůrci sportu.“ (hříčka komplet × sport); „Mahlera totiž člověk objevuje pořád znovu.“
 - 21. 9. 2026, dopis abonentům (Lucie Maňourová): „Čekání na své koncerty v Rudolfinu si tak můžete zpříjemnit ve společnosti Semjona Byčkova, Jakuba Hrůši, Magdaleny Kožené…“
+- 6. 10. 2026, „Říjnové dění v Rudolfinu“ (Rudolfinské novinky 3/131, preheader „Sto streamů, deset sonát, hudební divy a nové CD“): úvodník jako cesta („Projdeme se mezi obrazy, nahlédneme do říše divů, navštívíme dvůr čínského císaře a zastavíme se také v Brně. Oslavíme jednu kulatou stovku a pustíme se do Beethovenova sonátového maratonu. Vyrazte s námi!“); jedna věta o čísle jako událost („Počítadlo přímých přenosů se tento týden zastaví na rovné stovce“, tlačítko „Sledovat 100. přenos →“); „Tři večery s Beethovenem“ (výčet čísel: deset sonát, troje setkání, dva interpreti); „Beethoven odmítá zestárnout“ (otázka jako háček na článek z Ladírny); tlačítka „Poslední volná místa →“, „Vybrat koncert →“, „Vykročit za dobrodružstvím →“, „Pořídit album →“.
 
 ## Poučení / co si z toho vzít
 
 - Pro tadylenka a A4E: smyslový vstup (zvuky, obraz) místo oznámení a jedna hříčka z oboru v předmětu.
 - Pro lcenglish: tlačítka se slovesem v první osobě („To mě zajímá →“) a nabídka více cest k jednomu tématu.
+- Úvodník jako výčet cest („projdeme se… nahlédneme… navštívíme… zastavíme se“) shrne celý mail jednou větou a dá mu tah; použitelné jako úvod newsletteru s více položkami (261006).

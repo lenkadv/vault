@@ -130,6 +130,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 7 | 2. 10. 10:50 – 3. 10. 20:50 | 34 vláken (svodka dělaná večer 3. 10. zpětně, ranní plán ten den nebyl); 3× Vyžaduje pozornost (letenky Řím Wizz Air, jízdenky Drážďany 31. 10., Štěpánka přeposlala podklady FEKT/Apollo); 23 vláken `Svodka/smazat`, uchovat nic; bez štítku NG Praha, Muzeum Prahy, Descript, PayPal ×2, Air Bank |
 | 8 | 3. 10. 20:50 – 4. 10. 10:10 | 4 vlákna (Deník N, Art Fix, Marie Ercoles, NativShark); nic ve Vyžaduje pozornost; 4 vlákna `Svodka/smazat`, uchovat nic |
 | 9 | 4. 10. 10:10 – 5. 10. 12:53 | 26 vláken; 4× Vyžaduje pozornost (Vodafone vyúčtování, KTF Opakované stipendium, KTF Petr Kubín Teams, LinkedIn Aneta z NG Praha; Vodafone je inkaso = jen informace, stipendium čeká na přístup k dokumentu → waiting-for 12. 10., Teams přístup funguje); 21 vláken `Svodka/smazat`, `Svodka/uchovat` Kunsti Radar (Lenka 261005: archivovat, ne mazat); mimo svodku FuTr vlákno (vyřízeno 261004), Portu a reas.cz (promo, neoznačeno) |
+| 10 | 5. 10. 12:53 – 6. 10. 10:40 | 30 vláken; 4× Vyžaduje pozornost (Evident seznam účastníků komunikačního školení, KTF rezervace Delehaye do 19. 10., KTF jednání EK 19. 10. 9:00, Štěpánka přeposlala salda od VUT); 23 vláken `Svodka/smazat`, uchovat nic; bez štítku UMPRUM kolokvium, italki shrnutí lekce, kalendářní upozornění Gemini |
 
 ## Publikace
 
