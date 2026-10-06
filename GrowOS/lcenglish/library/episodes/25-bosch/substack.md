@@ -1,12 +1,13 @@
 ---
 platform: Substack (Art for English — zrcadlo Dripu)
-status: draft
+status: final
 date: 2026-10-06
 type: Art for English #25 — Hieronymus Bosch, Zahrada pozemských rozkoší, mustn't × don't have to
 ---
 
 **Titulek:** Tady se nesmí nic!!!
 **Podtitulek:** Boschovo peklo, české cedule a rozdíl mezi mustn't a don't have to
+**Zveřejnění:** naplánováno Lenkou na 6. 10. 2026 14:27 — https://artforenglish.substack.com/p/tady-se-nesmi-nic (Lenka přidala tlačítko Subscribe now nad obrázek a Share na konec: „Share this post! You must share it!!!“)
 
 ---
 
@@ -31,8 +32,10 @@ Tím jsme si procvičili rozdíl, který se nám Čechům často plete. „Musí
 You *mustn't* come. Nesmíte přijít.
 You *don't have to* come. Nemusíte přijít.
 
-Jedno slovo, a z pozvání je vyhazov. ;-)
+Jedno slovo, a z pozvání je vyhazov ;-)
 
-Na závěr ještě jedna věta, kterou s oblibou říkám: když chcete mluvit, musíte mluvit. *If you want to speak, you must speak.* Nemusíte umět všechnu gramatiku - *you don't have to be perfect.* Jenom nesmíte mlčet. *You mustn't stay quiet.*
+Pokud jde o angličtinu, s oblibou říkám: když chcete umět mluvit, musíte mluvit. Nemusíte umět všechnu gramatiku - *you don't have to be perfect.* Jenom nesmíte mlčet. *You mustn't stay quiet.*
 
 Jenže s kým mluvit, když anglické sousedy u výtahu nepotkáváte? Zkuste to s 10x ENGLISH: nachystala jsem tam pro vás sto krátkých dialogů ze skutečného života. [Mluvit tak můžete začít hned dnes](https://lcenglish.cz/10x-english). Vykřičník!
+
+(Tlačítko Share: „Share this post! You must share it!!!“)

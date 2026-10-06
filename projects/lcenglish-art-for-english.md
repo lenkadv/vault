@@ -34,6 +34,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - #22 Kim Hong-do — Ssireum (adverbs of frequency) — 15. 9. 2026
 - #23 Vincent van Gogh — Červená vinice (předložky pohybu: through / across / along / towards) — 22. 9. 2026
 - #24 Josef Václav Myslbek — Pomník sv. Václava (zápor: don't / doesn't / didn't) — 29. 9. 2026
+- #25 Hieronymus Bosch — Zahrada pozemských rozkoší, výřez z pekla (mustn't × don't have to) — 6. 10. 2026
 
 ## Sekvence (opakující se)
 
@@ -108,14 +109,14 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Založit Substack publikaci a zveřejnit #24 jako první díl ✅ 2026-09-28 — další kroky níže v sekci Substack zrcadlo
 - [x] Rekapitulovat a odsouhlasit zadání epizody #25 (Bosch, Zahrada pozemských rozkoší — mustn't × don't have to), pak připravit brief a newsletter ✅ 2026-10-04 — hook cedule s vykřičníky (myšlenka z Kliniky pro cedule, bez odkazu), prodejní přechod do 10x ENGLISH místo snippetu super_signature
 - [x] Doplnit výřez + thumbnail, finalizovat a naplánovat NL #25 v Dripu ✅ 2026-10-05 — naplánováno na út 6. 10. 7:28, finální verze napsaná Lenkou v Dripu (prodej v P.S. místo snippetu, konec „Vykřičník!“)
-- [ ] Po odeslání #25 (6. 10.): zapsat finální text z Dripu do `library/episodes/25-bosch/newsletter.md` (status final), porovnat s draftem → lekce, smazat draft, kopie do `brain/samples/`, přidat do Vydaných dílů + Aktuální stav; čas epizody do memory `project_task_durations` #next-action #online 📅 2026-10-06
+- [x] Po odeslání #25: finální text z Dripu v `library/episodes/25-bosch/newsletter.md`, porovnání s draftem → lekce (0.1-lessons, ep. 25), kopie do samples, Vydané díly, curriculum ✅ 2026-10-06 — Substack (finální znění v `substack.md`) vychází 6. 10. 14:27; čas epizody do memory `project_task_durations` dopsat ze sezení ve vaultu #online
 - [ ] Rekapitulovat a odsouhlasit zadání epizody #26 (Frida Kahlo, past simple — slovesa) — odeslání 13. 10. #next-action #online 📅 2026-10-12
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
 - [x] Substack #25 ✅ 2026-10-05 — Lenka doupravila (tlačítka subscribe + share) a naplánovala na 6. 10.; https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #24 Myslbek, Pomník sv. Václava (zápor don't/doesn't/didn't) — naplánováno v Dripu na út 29. 9. 2026
+- **Poslední newsletter:** #25 Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) — odesláno út 6. 10. 2026 7:28 (Drip), Substack 6. 10. 14:27, FB upoutávka 6. 10. 15:00 (Tady Lenka)
 - **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) naplánován na út 6. 10. 2026 (Drip 7:28, Substack, FB upoutávka 15:00); pak #26 Kahlo 13. 10.
 - [ ] **Otevřené ze zkoušky skillů (261005):** sada `repurpose-25-bosch` v GrowOS frontě (8 položek, FB 1 a FB 3 přepracovány na obraz + jazyk) — Lenka rozhodne, co dál; zvážit `social-strategy` (zapsat pravidla FB do plánu) — řešit ve vlákně o nastavení GrowOS 2 #next-action #online
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.

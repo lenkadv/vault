@@ -61,7 +61,7 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 
 | # | Datum | Gramatika / slovní zásoba | Dílo | Umělec / zdroj | Poznámka |
 |---|---|---|---|---|---|
-| 25 | 6. 10. | mustn't vs. don't have to (nesmíš × nemusíš; upřesněno 2026-10-04) | Zahrada pozemských rozkoší (detail) | Hieronymus Bosch (cca 1500–1505), Prado | Trocha humoru — bizarní pravidla |
+| 25 | 6. 10. | mustn't vs. don't have to (nesmíš × nemusíš; upřesněno 2026-10-04) | Zahrada pozemských rozkoší (detail) | Hieronymus Bosch (cca 1500–1505), Prado | Trocha humoru — bizarní pravidla ✅ odesláno 6. 10., subject „Tady se nesmí nic!!!“ (`library/episodes/25-bosch/`) |
 | 26 | 13. 10. | past simple: slovesa (pravidelná + nepravidelná) | Dvě Fridy nebo Zlomený sloup | Frida Kahlo (1939 / 1944), Museo Frida Kahlo | Životní příběh = přirozený past simple |
 | 27 | 20. 10. | k upřesnění | k upřesnění | k upřesnění | **Doplněno 2026-10-04:** termín v plánu chyběl (po #26 skákal rovnou na 27. 10.), nejde o pauzu. Díly #27–35 přečíslovány na #28–36, data zůstala. |
 | 28 | 27. 10. | at / on / in (revision) + data | Slovanská epopej (panel) | Alfons Mucha (1910–1928), Slovanská epopej Praha | 28. 10. Den vzniku ČSR |
