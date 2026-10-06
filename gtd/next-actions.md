@@ -55,6 +55,10 @@ sort by due
 - [ ] Kufřík Samsonite: najít a objednat náhradní kolečka znovu (zteřelá guma, kolečka i kufr jinak OK; kolečka změřená a vyfocená 260910). Kaufland objednávka MQKDW85 nevyšla (nedoručeno, 29. 9. stornována). Kandidáti z 260910: [Kaufland](https://www.kaufland.cz/product/542687105/?search_value=n%C3%A1hradn%C3%AD+kole%C4%8Dka+pro+kufry) (jiný prodejce?), záloha [kolapirkl.cz](https://www.kolapirkl.cz/kolecka-pro-kufry); servisy daleko a nejisté. Výměna pak → [[hodinovy-manzel]]
 - [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
 - [ ] Probrat s dr. Štěrbovou příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily) — před zahájením psaní
+- [ ] Zeptat se Lenky, jestli jí dorazil třetí dárek webináře BotBuilders (skill Money Maker; mail, nebo nepřijde vůbec). Když ano → doplnit do Databanky ([[BB – Crush It with Claude webinář]]), cizí skill jen přečíst, neinstalovat bez jejího pokynu. Když ne, nic zásadního (Lenka 261006)
+- [ ] Přehledovky (Anki): v Anki smazat 2 duplicitní karty (hledání v `pech-work\anki-smazat-2-karty.txt`) a naimportovat nový balíček Teorie (`PECH-VSE.apkg` nebo `TEORIE.apkg`); import zachová opakování → [[prehledovky-pech]]
+- [ ] Přehledovky: napsat dr. Pechovi (architektura 19. st., další prezentace 20. st., mezitest, termíny, informace o sdílené pomůcce pro spolužáky) → [[prehledovky-pech]]
+- [ ] Přehledovky: vyzkoušet v dashboardu Trénink písemnou otázku a uzavřené otázky (volají Clauda, naostro neověřeno); když něco nejde, říct Claudovi → [[prehledovky-pech]]
 
 ```tasks
 not done
@@ -95,8 +99,6 @@ sort by path
 ```
 
 ## @venku/pochůzky
-
-- [ ] Vyzvednout rezervovanou knihu Delehaye, *Les origines du culte des martyrs* (signatura Ap998), v knihovně KTF, Thákurova 3, Praha 6 — rezervace platí **do 19. 10.**; potřebná na referát 22. 10. ([[areas/studies]], [[waiting-for]]). Mail: [Gmail – „Připravená rezervace“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878282054818653414)
 
 
 ```tasks

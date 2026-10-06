@@ -105,6 +105,10 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 **Jak navázat (260930):** Až odpoví Štěpánka Uličná (mail „DigiStart - návrh pilotu“ nebo komentáře ve sdíleném dokumentu https://claude.ai/code/artifact/6a91f9f5-24a1-48f8-a367-7d639e50dcfa): v novém vlákně přečíst tento projekt, [[digistart-pilot-osnova]], [[digistart-postup-stavby-kurzu]] a [[digistart-podklady]], pak načíst její odpověď (Gmail + komentáře v dokumentu) a zapracovat. Další krok podle zvolené varianty: A → `lesson-planning` z [[ABM – Course Creator]] na týden 1; B → zkušební balíček se 2–3 postupy pro předpilotní test se Štěpánkou. **Hotový kandidát do balíčku (261001):** postup „prodejní stránka“, vyzkoušený na 10x ENGLISH, čeká na pilot u Štěpánky (Claude i ChatGPT); podoby a co z nich bude ve skillu → [[digistart-pilot-osnova]] (poznámka 261001), návod [[navod-prodejni-stranka-s-ai]].
 
+## Otevřené otázky (DigiStart je zatím „oblak“, ne lineární postup — nejsou to next-actions)
+
+- **Jak se projekt nebo plugin předá účastnicím a jaký plán Claude potřebují** (projekty a dovednosti v běžném chatu; vlákna jako menu kurzu). Zatím jen otázka, bez kroku. Vzniklo 261006 z rozboru webináře BotBuilders, viz [[digistart-podklady]] (sekce „Co si vzít z webináře BotBuilders“). Až se obloukem dojde k rozhodnutí o formě balíčku a podobě pilotu, otázka se vyřeší sama; neuzavírat uměle.
+
 ## Co je potřeba udělat
 
 ### Vstupní způsobilost — blokuje vše ostatní
