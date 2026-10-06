@@ -45,6 +45,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Svodka z e-mailů (newslettery, nevytříděná pošta), `/daily-plan` krok svodka | `resources/postupy/svodka.md` |
 | Prodejní / landing stránky — tvorba, úprava nebo hodnocení (svoje, klientské, konkurence), nabídka, cena, garance, tlačítka | `resources/postupy/prodejni-stranky.md` |
 | Psaní textu za Lenku (e-mail, zpráva, článek, seminárka, newsletter, prodejní text), úprava jejích textů, hlasové profily | `resources/postupy/hlasy.md` (profil před psaním; když Lenka můj text přepíše → rozdíl hned zapsat jako poučení) |
+| Přehledné dějiny umění 19.–20. st. (dr. Pech): příprava na zápočet/zkoušku, Anki balíčky z prezentací, chronologie, web pro spolužáky, „zpracuj přednášku“ | `resources/postupy/prehledovky-pech.md` |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
 **Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`, pro Lenku [[Průvodce Databankou]]): jediné místo s hodnocením všech AI nástrojů (stav, verdikt, poznámky z použití). Na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
@@ -237,7 +238,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 4. [[waiting-for]] — přišla odpověď? Blíží se follow-up?
 5. [[someday-maybe]] — posunulo se něco do akce? Co je mrtvé?
 6. [[omnibus]] — zpracovat zachycené položky po jedné
-7. `areas/` — rychlá kontrola: jsou aktivní projekty v každé oblasti aktuální? Jsou "doplnit" položky stále relevantní nebo je vyčistit? Vždy se zeptat na stav seminárek v [[studies]] (vytvářet tlak, i když nemají projekty)
+7. `areas/` — rychlá kontrola: jsou aktivní projekty v každé oblasti aktuální? Jsou "doplnit" položky stále relevantní nebo je vyčistit? Vždy se zeptat na stav seminárek v [[studies]] (vytvářet tlak, i když nemají projekty). **Přehledovky (dr. Pech):** otevřít dashboard (artefakt, odkaz v [[resources/postupy/prehledovky-pech]]) a projít „Co teď“: nezpracované přednášky, nezkontrolované balíčky, čekající opravy, poslední trénink (od 261006)
 8. **Zettelkasten** — `#zettel` tasky v [[next-actions]]: relevantní pro aktuální seminárku nebo bakalářku? Pokud ano → `#next-action` do projektu. Zettelkasten review (wiki-linky, MOC, propojení PN) → [[resources/postupy/zettelkasten]]. **Kontroly přírůstků** do knihovny „knihy a články“ (Drive dotaz) i domácí knihovny (Handy Library) → [[resources/postupy/knihovna]] (pokynem **„zpracuj knihovnu“** i mimo review).
 9. **tadylenka runway** — zkontrolovat, že runway v [[projects/tadylenka-publishing]] není prázdná (min. 2–3 díly dopředu). Pokud dochází → říct Lence, ať doplní dávku z `Content Bank.base` (pohledy podle rubrik, `status: fresh`). NEvybírat díl po dílu každý týden — runway se plní dávkově. (Notes fronta je od 261004 vyřazená z weekly review; vrátí se organicky, až se rozjedou sociální sítě.)
 9b. **Databanka** — nabídnout jednu položku ve stavu `neprozkoumáno` z `Databanka.base` na seznámení (střídat zdroje a typy). Zkontrolovat počet poznámek: nad 500 → připomenout návrat k Supabase ([[resources/postupy/databanka]]).
@@ -245,6 +246,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 11. **Archivace dailies** — přesunout všechny soubory z `daily/` (YYMMDD*.md) do `daily/YYYY-MM/` podsložky odpovídající jejich měsíci (např. `daily/2026-06/`), **všechny starší než dnešní** (dnešní den ještě běží). Automaticky, bez ptaní. Upřesněno 260920.
 12. **Weekly review ritual** — navazuje bez ptaní: pohled zpátky na oblasti, reflexe (2-3 otázky), brain dump backlog, waiting-for přehled, kalendář příštího týdne, priority → uloží `weekly-reviews/YYMMDD-week-review.md` a `gtd/next-week-priorities.md`
     - Při sekci priorities: přečíst dailies za uplynulý týden (max 10), areas/ a projects/ — hodnotit strategicky, ne jen operačně. Prioritou jsou důležité-neurgentní věci. Nabídnout vlastní hodnocení, pak čekat na reakci.
+    - **Studium: Přehledovky (dr. Pech), od 261006.** Při plánování příštího týdne vždy navrhnout studijní bloky: **po každé přednášce (út, pá) cca 30 min** „zpracuj přednášku“ a **1× týdně cca 45 min trénink zkoušky** (návrh: neděle dopoledne). Časy potvrdit s Lenkou a po potvrzení založit v Todoist kalendáři (běžná pravidla kalendáře). Do priorit zařadit studium jako důležité-neurgentní věc, dokud trvá semestr; výsledek zapsat do `gtd/next-week-priorities.md`. Kolize s jinými bloky řešit přesunem bloku, ne vynecháním. Detail [[resources/postupy/prehledovky-pech]].
     - Projects aktualizovat průběžně i při review — nejen next actions, ale celý stav a směřování.
     - Dailies psát tak, aby obsahovaly info použitelné při příštím review (rozhodnutí, momentum, strategické posuny).
 
