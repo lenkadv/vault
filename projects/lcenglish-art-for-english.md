@@ -117,7 +117,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 ## Aktuální stav
 
 - **Poslední newsletter:** #25 Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) — odesláno út 6. 10. 2026 7:28 (Drip), Substack 6. 10. 14:27, FB upoutávka 6. 10. 15:00 (Tady Lenka)
-- **Další výstup:** NL #25 — Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) naplánován na út 6. 10. 2026 (Drip 7:28, Substack, FB upoutávka 15:00); pak #26 Kahlo 13. 10.
+- **Další výstup:** NL #26 — Frida Kahlo (past simple: slovesa), úterý 13. 10. 2026; zadání odsouhlasit do 12. 10.
 - [ ] **Otevřené ze zkoušky skillů (261005):** sada `repurpose-25-bosch` v GrowOS frontě (8 položek, FB 1 a FB 3 přepracovány na obraz + jazyk) — Lenka rozhodne, co dál; zvážit `social-strategy` (zapsat pravidla FB do plánu) — řešit ve vlákně o nastavení GrowOS 2 #next-action #online
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
