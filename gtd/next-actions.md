@@ -96,6 +96,8 @@ sort by path
 
 ## @venku/pochůzky
 
+- [ ] Vyzvednout rezervovanou knihu Delehaye, *Les origines du culte des martyrs* (signatura Ap998), v knihovně KTF, Thákurova 3, Praha 6 — rezervace platí **do 19. 10.**; potřebná na referát 22. 10. ([[areas/studies]], [[waiting-for]]). Mail: [Gmail – „Připravená rezervace“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878282054818653414)
+
 
 ```tasks
 not done

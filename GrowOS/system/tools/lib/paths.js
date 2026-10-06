@@ -80,6 +80,7 @@ function relSegments(root, p) {
         rel = sAbs.slice(rootAbs.length + 1);
       }
     }
+    if (path.isAbsolute(rel)) return null;
     s = rel;
   }
   const out = [];
