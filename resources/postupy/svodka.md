@@ -22,7 +22,7 @@ Gmail `lnk.dvorakova@gmail.com`: záložky **Promo akce**, **Aktualizace** a hla
 
 ## Jazyk shrnutí
 
-**Shrnutí newsletteru psát v jazyce, ve kterém newsletter přišel** (260929): anglické newslettery shrnovat anglicky, české česky. Překladem se ztrácí nuance a Lenka ráda čte anglicky. Platí pro všechny oddíly včetně Marketingu a psaní. Nadpisy oddílů, „Vyžaduje pozornost“, „Hlavní body“, „Pro tvou práci“ a úklid zůstávají česky.
+**Shrnutí newsletteru psát v jazyce, ve kterém newsletter přišel** (260929): anglické newslettery shrnovat anglicky, české česky. Překladem se ztrácí nuance a Lenka ráda čte anglicky. Platí pro všechny oddíly včetně Marketingu a psaní. **261007 opraveno:** při svodce č. 11 jsem Ben's Bites, AI Inner Circle a další anglické maily napsala česky; Lenka upozornila. Platí tedy i pro „Hlavní body“, sloučené bloky „Další maily“ a krátké zmínky jednotlivých newsletterů (Jon Schumacher, Benson, Wiebe, Tonebase, Art UK, Vox titulky). Česky zůstávají jen nadpisy oddílů, „Vyžaduje pozornost“, „Pro tvou práci“, moje vlastní komentáře a čeští odesílatelé (Deník N, UMPRUM, NG, Česká filharmonie). Nadpisy oddílů, „Vyžaduje pozornost“, „Hlavní body“, „Pro tvou práci“ a úklid zůstávají česky.
 
 ## Formát a pořadí oddílů
 
@@ -131,6 +131,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 8 | 3. 10. 20:50 – 4. 10. 10:10 | 4 vlákna (Deník N, Art Fix, Marie Ercoles, NativShark); nic ve Vyžaduje pozornost; 4 vlákna `Svodka/smazat`, uchovat nic |
 | 9 | 4. 10. 10:10 – 5. 10. 12:53 | 26 vláken; 4× Vyžaduje pozornost (Vodafone vyúčtování, KTF Opakované stipendium, KTF Petr Kubín Teams, LinkedIn Aneta z NG Praha; Vodafone je inkaso = jen informace, stipendium čeká na přístup k dokumentu → waiting-for 12. 10., Teams přístup funguje); 21 vláken `Svodka/smazat`, `Svodka/uchovat` Kunsti Radar (Lenka 261005: archivovat, ne mazat); mimo svodku FuTr vlákno (vyřízeno 261004), Portu a reas.cz (promo, neoznačeno) |
 | 10 | 5. 10. 12:53 – 6. 10. 10:40 | 30 vláken; 4× Vyžaduje pozornost (Evident seznam účastníků komunikačního školení, KTF rezervace Delehaye do 19. 10., KTF jednání EK 19. 10. 9:00, Štěpánka přeposlala salda od VUT); 23 vláken `Svodka/smazat`, uchovat nic; bez štítku UMPRUM kolokvium, italki shrnutí lekce, kalendářní upozornění Gemini |
+| 11 | 6. 10. 10:40 – 7. 10. 10:14 | 29 vláken; 2× Vyžaduje pozornost (FreshLearn nabídl slevu 50 USD na obnovení, Anthropic účtenka QRVMHXKX-0007 pořád bez DPH) a NG pozvánka Pavilon Cecoslovacchia 100 (13. 10., Lenka nejde); 24 vláken `Svodka/smazat`, uchovat nic; bez štítku Student Agency doklad (odložené), Air Bank 3× platba kartou, BotBuilders kalendářní pozvánka |
 
 ## Publikace
 

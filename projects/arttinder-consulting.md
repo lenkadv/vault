@@ -17,7 +17,7 @@ Freelance art consulting pro Michala Kociána (klient z F2F koučinku): pomoc s 
 - [x] Schůzka s Michalem Kociánem — projít sadu otázek ✅ 2026-09-24
 - [x] O víkendu 3.–4. 10. prověřit počasí na 7. 10. ✅ 2026-10-04 — předpověď (Open-Meteo): sucho, max 19 °C, min 8 °C, vítr slabý, ráno mlha; následující den 8. 10. déšť a silnější vítr → vycházka vychází
 - [x] Napsat Michalu Kociánovi: schůzka st 7. 10. 17:00 bude vycházka (sucho, kolem 19 °C, v 17:00 už k večeru); domluvit, kde se sejít, případně co si vzít ✅ 2026-10-04 (napsáno, čeká se na odpověď → [[waiting-for]]) — odpověď 261004: z vycházky nic nebude, schůzka st 7. 10. 17:00 bude jen spolu (formát schůzky se dolaďuje)
-- [ ] Schůzka s Michalem Kociánem st 7. 10. 17:00 — jen schůzka spolu (vycházka odpadla, Michal 261004) #next-action #online
+- [x] Schůzka s Michalem Kociánem st 7. 10. 17:00 — jen schůzka spolu (vycházka odpadla, Michal 261004) #next-action #online ✅ 2026-10-07
 
 ## Podklady (převzato ze someday-maybe)
 

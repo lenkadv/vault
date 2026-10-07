@@ -10,7 +10,7 @@
    > St 7. 10. 13:45–15:45 a pá 9. 10. 11:00–13:00. Claude průběžně stahuje důležité materiály a podporuje v dokončení. → [[claude-academy]]
 
 3. **Drobné úkoly v jednom bloku**
-   > Čt 8. 10. 12:00–13:00: mail dr. Štěrbové (sborník Transitorius mundus, termín 30. 11. — první krok je rozhovor), PENTA/Popadič (rezervační kalendář a rozeslání odkazu), kolečka od kufříku (Claude předem najde 2–3 nabídky). → [[next-actions]]
+   > Čt 8. 10. 12:00–13:00: mail dr. Štěrbové (sborník Transitorius mundus, termín 30. 11. — první krok je rozhovor), PENTA (faktura za Musila a přípravu na konferenci PRE; rezervační kalendář a rozeslání odkazu Popadičovi, Mathovi a Blažkovi, co nejdřív), kolečka od kufříku (Claude předem najde 2–3 nabídky). → [[next-actions]]
 
 4. **tadylenka díl #3 (memento mori, pá 16. 10.) — jen když zbyde čas**
    > Bez bloku. Když se do 12. 10. nezačne, bude to těsné; důležitější je pravidelnost než termín. → [[tadylenka-publishing]]

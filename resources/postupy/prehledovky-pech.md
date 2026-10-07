@@ -34,7 +34,16 @@ Studijní bloky **nezakládat předem do kalendáře**. Plánují se při **week
 4. Zapsat do této tabulky, které směry jsou zpracované.
 
 ## Opravy
-Lenka napíše „prezentace/slajd + co je špatně“ (údaj je na zadní straně karty i v chronologii). Claude opraví ve `fixes.py` (DELETE / SET / IMGPICK / IMGSLIDE), přegeneruje, Lenka naimportuje znovu (opakování v Anki se zachová, ověřeno). Smazané karty import neodstraní — Claude dá hledání pro Anki.
+**Lenka opravuje nejraději přímo v Anki** (od 261007). Před jakýmkoli přegenerováním balíčků, chronologie nebo webu proto Claude **nejdřív spustí `anki_sync.py`** (ze složky `pech-work\scripts`): ten přečte kopii Lenčiny sbírky (`%APPDATA%\Anki2\Lenka`), porovná pole Autor/Název/Datace/Styl/Místo a smazané karty s daty a uloží rozdíly do `pech-work\anki_edits.json`, který `fixes.py` načítá (přepíše automatická data, takže se Lenčiny úpravy nikdy nepřepíšou). Pak `fixes.py` → balíčky → `overview.py` → `share.py` → `wrangler deploy`. Zatím se synchronizují jen Pech karty (ne FF a Teorie). Poučení: Anki ukládá text v NFC; data se normalizují stejně.
+Druhá cesta: Lenka napíše „prezentace/slajd + co je špatně“ (údaj je na zadní straně karty i v chronologii). Claude opraví ve `fixes.py` (DELETE / SET / IMGPICK / IMGSLIDE), přegeneruje, Lenka naimportuje znovu (opakování v Anki se zachová, ověřeno). Smazané karty import neodstraní — Claude dá hledání pro Anki.
+
+## Teorie karty — pravidlo (rozhodnuto s Lenkou 261007)
+**Anki = krátké atomické karty** (jedna otázka, krátká odpověď; výčty nejvýše 3–7 jmen), **6–10 karet na směr**, vždy **až po přednášce** a jen z toho, co pan Pech opravdu probral (z přepisu nahrávky v Notebooku; nezazněly-li postavy, žádné karty). **Dlouhé odpovědi** (charakteristika směru, vývoj v odstavci) patří do **tréninku v dashboardu** (kolekce `teorie`, pole `q`/`a`). Karty jsou v `scripts\theory.py`, seznam `ATOM` (klíč, směr, otázka, odpověď, přednáška; GUID `t2-<klíč>`, tagy `teorie t2 pr_RRRRMMDD s_<směr>`). Přehled karet: `pech-work\teorie-karty-nahled.txt`. Staré dlouhé karty v Anki se mažou hledáním `tag:teorie -tag:t2`.
+Zpracováno: 2. 10. (fauvismus, Brücke, Blaue Reiter, expresionismus v architektuře a filmu, návraty expresionismu, data) a 6. 10. (osvícenství, neoklasicismus, teoretici, Mengs, Vien, David) = 66 karet. Ingres, Gros, Flaxman, Canova, Thorvaldsen v přednášce 6. 10. nezazněli.
+
+## Rozpracováno (261007)
+- Lenka: naimportovat nový balíček Teorie (66 karet) a staré smazat (`tag:teorie -tag:t2`).
+- Duplicity 14/13 a 15/9 má Lenka smazat v Anki; naimportovat Teorii; napsat dr. Pechovi; vyzkoušet Trénink v dashboardu.
 
 ## Web pro spolužáky
 Chráněný sdíleným heslem, nasazuje Claude příkazem `wrangler deploy` ze složky `pech-work\ktf-studium` na pokyn „aktualizuj web“ (adresa a heslo: nikam nepsat sem, adresa v memory, heslo nastavuje Lenka v Cloudflare). Před zveřejněním nových materiálů připomenout autorská práva (obrázky z Pechových prezentací) — Lenka to řeší s dr. Pechem.
@@ -45,7 +54,7 @@ Chráněný sdíleným heslem, nasazuje Claude příkazem `wrangler deploy` ze s
 | Fauvismus, Die Brücke, Der Blaue Reiter | 2. 10. 2026 (20. st.) | ✅ karty v „00 Teorie“ |
 | Ostatní směry | čekají na přednášky | automatická karta „zástupci“ z dat prezentací |
 
-## Otevřené otázky pro dr. Pecha
+## Čekáme, až oznámí dr. Pech (neuhánět, řekne sám; rozhodnuto s Lenkou 261007)
 - Architektura 19. století: přijde prezentace? (zápočet ji zahrnuje, v prezentacích chybí)
 - Další prezentace 20. století (chybí č. 16, česká moderna po 1900).
 - Mezitest: ano/ne, kdy.
