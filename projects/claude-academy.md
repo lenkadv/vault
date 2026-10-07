@@ -43,7 +43,7 @@ Ostatní kurzy Julese Whitea z programu (Build Apps with AI, Agentic AI primer, 
 **Priorita 1:**
 - [x] [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) — jak psát vlastní skills (SKILL.md, triggery, allowed-tools, sdílení) ✅ 2026-09-29
   - Hodnocení Lenky: základní myšlenky si odnesla, ale kurz je psaný pro programátory — ukázky v kódovém prostředí, předpokládá znalost syntaxe, není vysvětlený začátečnickým jazykem. → Další Academy kurzy (Subagents, Claude Code 101) budou nejspíš stejné; přednost mají kurzy psané pro ne-programátory.
-- [ ] **Coursera Plus trial (od 4. 10., zdarma do 11. 10., zrušit nejpozději 10. 10. — hlídá [[waiting-for]]):** dál projít poznámky k **AI Agent Skills for Leaders** podle doporučení níže, rozhodnout, kolik z kurzu projít (blok st 7. 10. 13:45–15:45, pá 9. 10. 11:00–13:00), a nejpozději 10. 10. trial zrušit. Poznámky: [[resources/coursera-agent-skills-for-leaders]] #next-action #online 📅 2026-10-07
+- [ ] **Coursera Plus trial (od 4. 10., zdarma do 11. 10., zrušit nejpozději 10. 10. — hlídá [[waiting-for]]):** dál projít poznámky k **AI Agent Skills for Leaders** podle doporučení níže, rozhodnout, kolik z kurzu projít (blok st 7. 10. 13:45–15:45 neproběhl a byl smazán, zbývá pá 9. 10. 11:00–13:00), a nejpozději 10. 10. trial zrušit. Poznámky: [[resources/coursera-agent-skills-for-leaders]] #next-action #online 📅 2026-10-09
 - [x] [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) — design sub-agentů, strukturované výstupy, kdy použít ✅ 2026-09-29 (rychle projeto: co subagenti jsou, kdy se používají, zhruba jak se tvoří; kurz opět pro programátory, dál nepokračuje — detaily doplní Claude podle potřeby)
 
 **Priorita 2:**
