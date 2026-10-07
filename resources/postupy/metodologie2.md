@@ -66,7 +66,7 @@ Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek)
 ## Zpracováno
 | Přednáška | Témata | Karty | Stav |
 |---|---|---|---|
-| 5. 10. 2026 | osvícenství (1./2. generace), styl–maniéra–vkus, předchůdci (Vasari, van Mander, Sandrart, Baldinucci, Bellori, de Piles, Du Bos, Houbraken), Winckelmann, Diderot, Condorcet, metody, literatura ke zkoušce | 53 | ✅ sestaveno 261007, čeká na import do Anki |
+| 5. 10. 2026 | osvícenství (1./2. generace), styl–maniéra–vkus, předchůdci (Vasari, van Mander, Sandrart, Baldinucci, Bellori, de Piles, Du Bos, Houbraken), Winckelmann, Diderot, Condorcet, metody, literatura ke zkoušce | 53 | ✅ sestaveno a naimportováno do Anki 261007 |
 
 ## Trénink (záznamy)
 | Datum | Co | Poznámky |
