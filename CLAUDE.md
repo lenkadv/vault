@@ -46,6 +46,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Prodejní / landing stránky — tvorba, úprava nebo hodnocení (svoje, klientské, konkurence), nabídka, cena, garance, tlačítka | `resources/postupy/prodejni-stranky.md` |
 | Psaní textu za Lenku (e-mail, zpráva, článek, seminárka, newsletter, prodejní text), úprava jejích textů, hlasové profily | `resources/postupy/hlasy.md` (profil před psaním; když Lenka můj text přepíše → rozdíl hned zapsat jako poučení) |
 | Přehledné dějiny umění 19.–20. st. (dr. Pech): příprava na zápočet/zkoušku, Anki balíčky z prezentací, chronologie, web pro spolužáky, „zpracuj přednášku“ | `resources/postupy/prehledovky-pech.md` |
+| Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie | `resources/postupy/metodologie2.md` |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
 **Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`, pro Lenku [[Průvodce Databankou]]): jediné místo s hodnocením všech AI nástrojů (stav, verdikt, poznámky z použití). Na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.

@@ -5,7 +5,7 @@ Víceméně pravidelné hodiny s lektorkou (zhruba jednou týdně). Termíny v G
 
 ## Aktivní projekty
 
-(žádné teď)
+- [[japonstina-patnactka]] — denní patnáctka bez Anki (gramatika Genki + úsek Shuna)
 
 ## Klíčové trvalé odkazy
 

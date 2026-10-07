@@ -31,6 +31,8 @@ Bakalářské studium dějin umění, KTF UK Praha.
 - První termín = ten, na který jít; předtermín v lednu možný; v LS bez přednášek, jen 1–3 výjimečné termíny. Na zkoušku je nutné být přihlášená i na páteční Přehledovku 2 (ověřit v SIS).
 - Prezentace: `02 EDUCATION/KTF/Pech 19-20stoleti` (všechny už na Disku); záznamy v Gemini Notebooku „Přehledovka 19. století“ / „Přehledovka 20. století“. Anki balíčky, chronologie, web pro spolužáky a teorie karty generuje Claude (složka `C:\Users\Lenka\Documents\pech-work`). **Postup, pokrytí zkoušky a týdenní rytmus: [[resources/postupy/prehledovky-pech]].** Bloky v kalendáři zatím nezaložené (čekají na potvrzení časů).
 
+**Metodologie 2 (KTF), ZS 2026/27** (zjištěno 261007 z přednášky 5. 10., pondělí 10:15, P8): vyučující doc. Kubík; zkouška **písemná, ale individuální** (každý dostane svou otázku, doc. Kubík odpověď přečte, doptá se nebo opraví; ústně jen minimum), obsah ve třech okruzích (pramenná literatura + 2 metody · český „pardál“ · terminologie 18.–20. st.), lze rozdělit na dva termíny; body, hodnocení a termíny nezazněly. Anki karty po každé přednášce (zatím 53 z 5. 10.), týdenní písemný trénink nanečisto. **Postup a stav: [[resources/postupy/metodologie2]].**
+
 ## Workflow
 
 - [[resources/zotero-word-workflow]] — citace ve Wordu
