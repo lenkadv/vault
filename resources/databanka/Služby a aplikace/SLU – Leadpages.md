@@ -24,4 +24,5 @@ soubor: ""
 **Popis od autora:** landing pages a blog (účet Grow)
 
 Poznámky z použití:
+- **Přehled možností** (co umí konektor, novinky z 7. 10. 2026, limity účtu Grow): [[resources/leadpages-moznosti]] (261008).
 - **Leadpages Community** (https://leadpages.com/community, od 29. 9. 2026; místnosti Teardowns a Industry News): Lenka 261004 prošla, nezaujalo. Teardowns rozebírají jen anglické stránky, české nikdo rozebírat nebude. Nesledovat.

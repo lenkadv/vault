@@ -20,7 +20,7 @@ Bakalářské studium dějin umění, KTF UK Praha.
 | Seminární práce Restaurování             | 📅 2026-08-15 (vlastní cíl)                                        | ✅ odesláno — projekt hotový, viz [[archive/seminarka-restaurovani]] |
 | Příspěvek do sborníku *Transitorius mundus* (emblematická reprezentace sv. Terezie z Ávily), 10–15 normostran, .docx, nakl. Artefactum | 📅 2026-11-30 | čeká na domluvu s dr. Štěrbovou → [[gtd/next-actions]] |
 
-| Referát Hagiografie: Delehaye, *Les Origines du Culte des Martyrs* (prezentace v `KTF/Aktuální/Hagiografie`) | 📅 2026-10-22 | zadáno 261005 → [[gtd/waiting-for]] |
+| Referát Hagiografie: Delehaye, *Les Origines du Culte des Martyrs* (prezentace v `KTF/Aktuální/Hagiografie`) | **odloženo na neurčito** (Lenka 261008; původně 22. 10.) | zadáno 261005; nový termín zatím nezazněl → [[gtd/waiting-for]] |
 
 **Zimní semestr 2026/27 začíná 1. 10. 2026** — rozvrh je, akademické povinnosti (seminárky, zkoušky) se ukážou během prvních týdnů → doplnit do tabulky.
 
