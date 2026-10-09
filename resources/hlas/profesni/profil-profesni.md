@@ -171,3 +171,13 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
 - Claude v první verzi psal vřele a prosebně („would it be possible“, „it would mean a lot to me“, „happy to stay with you“) → Lenka: nežádá o laskavost, žádá o něco, na co má nárok, zdvořile a bez podbízení. **Pravidlo:** fakta + citace slibu protistrany + závěr + žádost o potvrzení.
 - Druhá verze končila „Please confirm that …“ → Lenka: příliš drsné. **Pravidlo:** poslední věta zdvořilá žádost „Could you please confirm that …?“; rozmezí je mezi prosbou o laskavost a rozkazem.
 - Lenka sama upravila „blocked by my bank“ → „blocked“ (nezmiňovat banku jako příčinu, stačí „blocked“).
+
+**261009, PENTA (Veronika Voříšková), fakturace přípravy na konferenci PRE** (Lenka přepsala koncept v Gmailu před odesláním)
+- Claude psal rekapitulaci hodin bez ceny → Lenka doplnila „cena za hodinu je 2.800 Kč“ přímo do úvodní věty. **Pravidlo:** v mailu o fakturaci vždy uvést hodinovou sazbu (u PENTA 2 800 Kč/h), ať adresátka vidí celý základ faktury. Částka tady „2.800 Kč“ (s tečkou), viz Jazyk a typografie.
+- „Shrnuji odpracované hodiny“ → „Shrnuji uskutečněné konzultace“. **Pravidlo:** u lektorské práce „konzultace“, ne „hodiny“ nebo „odpracované“.
+- „Martin Lukášik (…; 29. a 30. 9. společně s Janem Lapešem)“ → jeden řádek „Martin Lukášik + Jan Lapeš - 4 h“. **Pravidlo:** společné konzultace jedním řádkem se jmény obou a součtem hodin, bez vysvětlující závorky.
+- „nebo budete potřebovat objednávkové číslo?“ → „nebo je potřeba objednávkové číslo?“. **Pravidlo:** neptat se osobně „budete potřebovat“, stačí neutrální „je potřeba“.
+- Otázka na cestu faktury: „přes vás, nebo přes Veroniku Cimbolincovou? A bude lepší jedna společná, nebo oddělené?“ → „přes vás, nebo to mám vyřešit s Veronikou Cimbolincovou?“. **Pravidlo:** ptát se jen na to, co je nutné rozhodnout. Doplňující otázku (společná × oddělená faktura) nepřidávat, vyřeší se až s tím, kdo faktury vyřizuje. Navazuje na 261002: výčty a upřesnění zkracovat.
+- Závěr: „Dejte mi prosím vědět.“ → „Hezký víkend!“. **Pravidlo:** když mail končí přímými otázkami, další krok už je v nich a „Dejte mi prosím vědět“ se vynechá; přání podle dne (pátek = „Hezký víkend!“).
+- Beze změny: oslovení „Dobrý den, Veroniko,“, „ráda bych uzavřela fakturaci“, řádky „Jméno - N h (data)“, číslování „1/“ „2/“, pomlčka „ - “, „Zdraví L.“.
+- Přepis hlasem: jméno „Veronika Boříšková“ v zadání byl chybný přepis diktování (míněna Voříšková). Když se v diktátu objeví jméno, které v poště ani vaultu neexistuje, nejdřív zkusit podobně znějící známé jméno a zeptat se až potom.

@@ -118,7 +118,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## David Musil (PENTA)
 
-**Typ:** fakturovat po skončení
+**Typ:** fakturovat po skončení · **Sazba:** 2 800 Kč/h (platí i pro Lukášika a Vacka) · **Stav 261009:** mail Veronice Voříškové (objednávkové číslo?) připraven, čeká na odeslání
 **Plán:** 3–5 hodin
 
 | #   | Datum  | Délka | Poznámka |
@@ -133,7 +133,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 ## Martin Lukášik (PENTA)
 
 **Typ:** fakturovat po skončení
-**Kontext:** příprava prezentace na konferenci PRE (domluveno přes Jana Lapeše)
+**Kontext:** příprava prezentace na konferenci PRE (domluveno přes Jana Lapeše). Fakturuje se jako „Martin Lukášik + Jan Lapeš“, 4 h. Cesta faktury (Voříšková × Cimbolincová) se řeší mailem 261009.
 
 | #   | Datum  | Délka | Poznámka |
 | --- | ------ | ----- | -------- |
