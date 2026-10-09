@@ -96,7 +96,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 ## Martin Blažek (PENTA)
 
 **Typ:** fakturovat po skončení
-**Plán:** 3–5 hodin
+**Plán:** 3–5 hodin · **Stav 261009:** mail s odkazem na rezervační kalendář odeslán (13:11), čeká se na rezervaci ([[waiting-for]])
 
 | #   | Datum  | Poznámka |
 | --- | ------ | -------- |
@@ -108,7 +108,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 ## Jan Matha (PENTA)
 
 **Typ:** fakturovat po skončení
-**Plán:** 3–5 hodin
+**Plán:** 3–5 hodin · **Stav 261009:** mail s odkazem na rezervační kalendář odeslán (13:11), čeká se na rezervaci ([[waiting-for]])
 
 | #   | Datum  | Poznámka |
 | --- | ------ | -------- |
@@ -160,7 +160,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 **Typ:** předplacená faktura č. 425609, uhrazeno 260106
 **Vyfakturováno:** 5 hodin
-**Zbývá:** 2 hodiny
+**Zbývá:** 2 hodiny (přednostně prezentování v angličtině) · **Stav 261009:** mail s odkazem na rezervační kalendář odeslán (13:11), čeká se na rezervaci ([[waiting-for]])
 
 | #   | Datum | Poznámka      |
 | --- | ----- | ------------- |
