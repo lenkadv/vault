@@ -28,6 +28,7 @@ Studijní bloky **nezakládat předem do kalendáře**. Plánují se při **week
 - **Jednou týdně trénink zkoušky (cca 45 min, blok po potvrzení):** Claude připraví z týdne 5 otázek ve formátu zkoušky (zástupci, vývoj v odstavci, charakteristika směru, nákres kompozice), Lenka odpoví písemně, Claude opraví podle přednášky.
 
 ## „Zpracuj přednášku“ — co dělá Claude
+**0. VŽDY NEJDŘÍV: kontrola Anki (Lenka 261009, platí pro každé zpracování, přegenerování balíčků i web).** Lenka karty opravuje přímo v Anki; než Claude cokoli vygeneruje, musí vědět, co v Anki změnila. Ze složky `pech-work\scripts`: (a) `python anki_sync.py` (Pech karty → `anki_edits.json`), (b) `python anki_check.py` (porovná **všechny** generované karty včetně Teorie a FF s Anki; „pole se liší“ = Lenčina úprava). Úpravu teorie nebo FF karet Claude nejdřív **převezme do zdroje** (`theory.py` / `ff*.py`), teprve pak generuje. „Chybí v Anki“ je normální jen u FF-C a u právě přidaných karet. Anki může být při kontrole otevřené (čte kopii). Bez této kontroly se nic negeneruje.
 1. `notebooklm ask -n <notebook>` na nahrávku: pro každý probíraný směr rok a místo, členové, 4–6 rysů, témata a techniky, díla z přednášky, předchůdci, **a co Pech výslovně označil jako důležité pro zkoušku**. Pracovat jen s tím, co zaznělo; neověřené označit.
 2. Z odpovědi vyrobit teorie karty do balíčku „00 Teorie – styly“ (`scripts\theory.py`, seznam `HAND`): charakteristika, zástupci a díla, klíčová data. Přidat do `PECH-VSE.apkg` (`buildall.py`), Lenka naimportuje.
 3. Zkontrolovat, jestli vyučující přidal/změnil prezentaci: Lenka stáhne PPTX do `Documents\pech-export`, Claude spustí řetěz skriptů (extract → build → fixes → anki) a nasadí web po pokynu „aktualizuj web“.
@@ -43,11 +44,12 @@ Druhá cesta: Lenka napíše „prezentace/slajd + co je špatně“ (údaj je n
 
 ## Teorie karty — pravidlo (rozhodnuto s Lenkou 261007)
 **Anki = krátké atomické karty** (jedna otázka, krátká odpověď; výčty nejvýše 3–7 jmen), **6–10 karet na směr**, vždy **až po přednášce** a jen z toho, co pan Pech opravdu probral (z přepisu nahrávky v Notebooku; nezazněly-li postavy, žádné karty). **Dlouhé odpovědi** (charakteristika směru, vývoj v odstavci) patří do **tréninku v dashboardu** (kolekce `teorie`, pole `q`/`a`). Karty jsou v `scripts\theory.py`, seznam `ATOM` (klíč, směr, otázka, odpověď, přednáška; GUID `t2-<klíč>`, tagy `teorie t2 pr_RRRRMMDD s_<směr>`). Přehled karet: `pech-work\teorie-karty-nahled.txt`. Staré dlouhé karty v Anki se mažou hledáním `tag:teorie -tag:t2`.
-Zpracováno: 2. 10. (fauvismus, Brücke, Blaue Reiter, expresionismus v architektuře a filmu, návraty expresionismu, data) a 6. 10. (osvícenství, neoklasicismus, teoretici, Mengs, Vien, David) = 66 karet. Ingres, Gros, Flaxman, Canova, Thorvaldsen v přednášce 6. 10. nezazněli.
+Zpracováno: 9. 10. (kubismus a jeho fáze, Picassův neoklasicismus, salonní kubisté, purismus; +37 karet, celkem 103; futurismus, vorticismus a abstrakce nezazněly, čekají na 16. 10.), 2. 10. (fauvismus, Brücke, Blaue Reiter, expresionismus v architektuře a filmu, návraty expresionismu, data) a 6. 10. (osvícenství, neoklasicismus, teoretici, Mengs, Vien, David) = 66 karet (do 7. 10.). Ingres, Gros, Flaxman, Canova, Thorvaldsen v přednášce 6. 10. nezazněli.
 
-## Rozpracováno (261007)
-- Lenka: naimportovat nový balíček Teorie (66 karet) a staré smazat (`tag:teorie -tag:t2`).
-- Duplicity 14/13 a 15/9 má Lenka smazat v Anki; naimportovat Teorii; napsat dr. Pechovi; vyzkoušet Trénink v dashboardu.
+## Rozpracováno (261009)
+- Lenka: naimportovat `anki\TEORIE.apkg` (103 karet; 66 už má, přibylo 37 z 9. 10.). Její 3 úpravy otázek (neo-renesance, neo-proti, teor-winck-formule) jsou převzaté do zdroje.
+- Odtajněno 9. 10.: balíček 14 slajdy 1–42 (33 karet), futurismus od slajdu 43 čeká. Lenka otevře Anki a synchronizuje do mobilu.
+- Z dřívějška: duplicity 14/13 a 15/9 smazat v Anki; napsat dr. Pechovi; vyzkoušet Trénink v dashboardu.
 
 ## Web pro spolužáky
 Chráněný sdíleným heslem, nasazuje Claude příkazem `wrangler deploy` ze složky `pech-work\ktf-studium` na pokyn „aktualizuj web“ (adresa a heslo: nikam nepsat sem, adresa v memory, heslo nastavuje Lenka v Cloudflare). Před zveřejněním nových materiálů připomenout autorská práva (obrázky z Pechových prezentací) — Lenka to řeší s dr. Pechem.
@@ -56,6 +58,7 @@ Chráněný sdíleným heslem, nasazuje Claude příkazem `wrangler deploy` ze s
 | Směr | Z přednášky | Stav |
 |---|---|---|
 | Fauvismus, Die Brücke, Der Blaue Reiter | 2. 10. 2026 (20. st.) | ✅ karty v „00 Teorie“ |
+| Kubismus, salonní kubisté, purismus | 9. 10. 2026 (20. st.) | ✅ karty v „00 Teorie“ + dlouhé odpovědi v Tréninku |
 | Ostatní směry | čekají na přednášky | automatická karta „zástupci“ z dat prezentací |
 
 ## Čekáme, až oznámí dr. Pech (neuhánět, řekne sám; rozhodnuto s Lenkou 261007)
