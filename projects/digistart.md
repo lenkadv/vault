@@ -117,6 +117,9 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Ověřit se Štěpánkou historii kurzů GNOSTIKy: kolik realizovaných kurzů bylo obsahově digitální vzdělávání a v kolika různých měsících za poslední 3 roky začaly (Čl. XIV/5 podmínek) — Štěpánka potvrdila (Brno, 22.–24. 9.), že 12 kurzů v posledních 3 letech GNOSTIKA dá; dokládá se až na vyžádání ÚP čestným prohlášením ✅ 2026-09-26
 - [x] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — přístup funguje; jen se nezobrazuje cvičný kurz založený se Štěpánkou v Brně (nevidí ho ani Štěpánka) ✅ 2026-09-26
 
+### Víkend se Štěpánkou (10.–11. 10.)
+- [ ] Nasdílet Štěpánce složku `resources/digistart-balicek-stepanka` ze svého disku (README: pořadí a co zjistit na místě) #next-action #online
+
 ### Obsah kurzu
 - [x] Vymyslet náplň kurzu (Lenka sama) — návrh pilotu hotový ([[digistart-pilot-osnova]]), Štěpánce sdílen v Claude a poslán mailem jako Word ✅ 2026-09-30
 - [ ] Se Štěpánkou projít návrh náplně, doladit podle persony (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) a rozhodnout jednotlivci vs. firmy #online
