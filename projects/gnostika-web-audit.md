@@ -18,6 +18,8 @@ Jednostránkový web („digitální vizitka“) GNOSTIKA CONSULTING, s.r.o. o p
 - Štěpánce odešel mail s odkazem a PDF (počítač + mobil); heslo posílá Lenka zvlášť (WhatsApp).
 - Žlutý pruh nahoře a žlutá místa jsou v textu záměrně, odstraní se při ostrém nasazení.
 
+261009: **Připravená verze pro Štěpánčin WordPress** (samostatný `index.html` s lokálními písmy, varianta pro WP blok, návod nasazení, kontrolní seznam, `AGENTS.md` pro její AI asistentku): `resources/digistart-balicek-stepanka/01-web-audity/` ([[resources/digistart-balicek-stepanka/00-README]]). Nasazení se řeší o víkendu 10.–11. 10. se Štěpánkou, žlutá místa se doplní po jejích rozhodnutích.
+
 ## Otevřené body (čeká na Štěpánku)
 
 - Cena a konzultace: Lenka z textu odstranila větu o ceně a „Od vás potřebujeme“. Zeptat se Štěpánky, jestli cenu na webu chce, a jestli je úvodní hovor nezávazný, nebo zdarma.
