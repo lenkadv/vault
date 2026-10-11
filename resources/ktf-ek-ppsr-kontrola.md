@@ -90,3 +90,8 @@ Tohle je výklad, který z nálezů dovozuje Lenka. Není to doložený fakt, pr
 ## Komentář do Maruščiny tabulky (260920)
 
 Připravena kopie `kontrola PPSŘ_pracovní materiál_LD.xlsx` (původní soubor beze změny). Struktura Maruščiny tabulky (A–I) zůstala, moje doplnění je ve sloupcích J–O (modré): alokace dle kont, náklady dle kont (5+7), čerpáno dle výkazu RUK, rozdíl, komentář, k doložení/dotaz. Druhý list „LD – obecně a otázky" = obecné zjištění (112 833 Kč), 6 dotazů na fakultu a co je odvozeno. Lenka to po schválení přepíše do Maruščiny verze; forma předání (Excel / WhatsApp / mail) se rozhoduje potom.
+
+
+## Investiční plán UK 2027 (261011) — není součást kontroly PPSŘ
+
+Příloha `03b_PR_SZ_UK_2027_PŘÍLOHA_PIA_STROJE_PRISTROJE.xlsx` (Plán investičních aktivit UK 2027, stroje a přístroje; ve složce `KTF Ekonomická komise`, jen k nahlédnutí) **nesouvisí bezprostředně s kontrolou PPSŘ**. Že je v ní jedna položka placená z PPSŘ (KTF, AI hardware, 400 000 Kč, shoduje se s investiční částkou AF-5 na 2027), je shoda okolností. Nezařazovat do nálezů ani do analýzy kontroly. Za KTF 4 položky (1 + 3): AI 400 000 Kč (PPSŘ) a knihovna 1 893 068 Kč z OP JAK ERDF Kvalita (čistící stroj, SelfCheck, regály). Dotazy komisi (WhatsApp 261011): co se plánuje za výzkum a výuku a kdo se tomu bude věnovat; je u knihovních položek spoluúčast fakulty? Popis „vlastní AI model“ pochází z buňky E7 této tabulky, ne z textu AF-5.

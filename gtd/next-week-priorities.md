@@ -15,8 +15,9 @@
 4. **tadylenka díl #3 (memento mori / vanitas), pátek 16. 10.**
    > Čt 15. 10. 12:00–14:00 (psaní) a pá 16. 10. 11:00–13:00 (dokončit, publikovat). Tentokrát s bloky; pravidelnost je u tadylenky úspěch. → [[tadylenka-publishing]]
 
-5. **Studium: Přehledovky (Pech) + investiční plán KTF**
-   > Út 13. 10. 19:00–19:30 a pá 16. 10. 10:15–10:45 „zpracuj přednášku"; so 17. 10. 10:15–11:00 trénink zkoušky; so 17. 10. 12:00–13:00 investiční plán pro Ekonomickou komisi (neděle 18. 10. je návštěva u rodičů, Lenka bloky přesunula na sobotu) (jednání po 19. 10. v 9:00). Anki balíčky 01 a 11 naimportovat znovu. → [[prehledovky-pech]]
+5. **Studium: Přehledovky (Pech)**
+   > Út 13. 10. 19:00–19:30 a pá 16. 10. 10:15–10:45 „zpracuj přednášku"; so 17. 10. 10:15–11:00 trénink zkoušky (neděle 18. 10. je návštěva u rodičů, Lenka bloky přesunula na sobotu). Anki balíčky 01 a 11 naimportovat znovu. → [[prehledovky-pech]]
+   > Investiční plán KTF pro Ekonomickou komisi je hotový (261011, večer), blok so 17. 10. 12:00–13:00 zrušen. Jednání komise po 19. 10. v 9:00 zůstává ve [[waiting-for]].
 
 **Kufřík:** st 14. 10. 11:00–12:45 odnést ke Šumanovi na Smíchov (před japonštinou ve 13:00). **Navíc blok na drobné úkoly:** st 14. 10. 16:45–17:45 (po bloku audit FEKT, před koncertem v 19:30): next actions z [[next-actions]] a projektů (kufřík, italki, příprava DPH, Anki import).
 

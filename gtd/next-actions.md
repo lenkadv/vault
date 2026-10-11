@@ -53,7 +53,6 @@ sort by due
 
 - [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
 - [ ] Přehledovky: naimportovat do Anki znovu balíčky `01-Klasicismus.apkg` a `11-České_sochařství_1800–1914.apkg` ze složky `C:\Users\Lenka\Documents\pech-work\anki` (opravy 261011: Thorvaldsen, Záboj a Lumír jako dvě karty; opakování v Anki se při importu zachová) → [[prehledovky-pech]]
-- [ ] Podívat se na investiční plán pro Ekonomickou komisi AS KTF UK: soubor `03b_PR_SZ_UK_2027_PŘÍLOHA_PIA_STROJE_PRISTROJE.xlsx` ve složce `01 PRIVATE/Spolky a funkce/KTF Ekonomická komise` na Disku (přišel 11. 10.; není oficiálně k projednání, je jen k nahlédnutí). Jednání komise je 19. 10. v 9:00 (Zoom), viz [[waiting-for]]. Blok na to domluvit při plánování kalendáře
 - [ ] **Pondělí 12. 10., před hodinou s dr. Štěrbovou:** probrat s ní ústně příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní, mail se nepíše (Lenka 261009) 📅 2026-10-12
 
 ```tasks
