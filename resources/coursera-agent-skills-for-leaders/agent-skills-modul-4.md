@@ -20,7 +20,7 @@ Psaní skillu je jako psaní: jde to mnoha způsoby, ale pomáhá mít rámec ja
 
 ## 31. Requests (video)
 [Lekce](https://www.coursera.org/learn/agent-skills/lecture/ses95/requests)
-Skill organizuj kolem **požadavků uživatele** („zkontroluj vyúčtování“, „udělej prezentaci“, „zkontroluj nové zákazníky v CRM“). Agent si totiž podle toho, co uživatel napsal, vybírá skill. Požadavek má být nadpis (jako název kapitoly). Skill může řešit **jeden požadavek** (rovnou kroky pod nadpisem) nebo **víc**: `SKILL.md` pak funguje jako **obsah** (název, popis, kdy použít a odkaz, kde je to rozepsané). Důvod: **progresivní odkrývání** — kontext agenta je omezená kapacita, má dostat jen tolik, aby věděl, co si přečíst dál. V popisu skillu (front matter) pak napsat „použij, když uživatel žádá…“.
+Skill organizuj kolem **požadavků uživatele** („zkontroluj vyúčtování“, „udělej prezentaci“, „zkontroluj nové zákazníky v CRM“). Agent si totiž podle toho, co uživatel napsal, vybírá skill. Požadavek má být nadpis (jako název kapitoly). Skill může řešit **jeden požadavek** (rovnou kroky pod nadpisem) nebo **víc**: `SKILL.md` pak funguje jako **obsah** (název, popis, kdy použít a odkaz, kde je to rozepsané). Důvod: **progresivní odkrývání** — kontext agenta je omezená kapacita, má dostat jen tolik, aby věděl, co si přečíst dál. V popisu skillu (front matter) pak napsat „použij, když uživatel žádá…“. Autor dodává: jeden vs. více požadavků nemá správnou odpověď (má to výhody i nevýhody), záleží na kontextu a je třeba zkoušet; organizovat podle požadavků není povinnost, jen jednoduchý model, který funguje často. Požadavek jako nadpis funguje jako název kapitoly v knize.
 
 ## 32. Environment (video)
 [Lekce](https://www.coursera.org/learn/agent-skills/lecture/1TgNt/environment)
@@ -32,7 +32,7 @@ Konkrétní kroky v pevném pořadí, aby agent úkol pokaždé udělal stejně 
 
 ## 34. Ideal result (video)
 [Lekce](https://www.coursera.org/learn/agent-skills/lecture/wzdGF/ideal-result)
-Skill musí jasně říct, **co má vzniknout** a **podle čeho se pozná dobrý výsledek** (kritéria, „rubrika“, podle které se AI sama zhodnotí). Bez toho vzniká variabilita (jednou tabulka, podruhé jiné sloupce). Příklad: souhrn „zkontrolováno 12 položek v celkové hodnotě 847,50, chyby na řádcích 11–14“ + seznam problémů a doporučení. Dvě rady: napsat, zda chceš **přesně tyto výstupy**, nebo i další užitečné (poznámky); a **vázat výstupy na vstupy** (zmínit konkrétní řádky/účtenky), čímž klesá riziko halucinace a snáz zkontroluješ originál.
+Skill musí jasně říct, **co má vzniknout** a **podle čeho se pozná dobrý výsledek** (kritéria, „rubrika“, podle které se AI sama zhodnotí). Bez toho vzniká variabilita (jednou tabulka, podruhé jiné sloupce). Příklad: souhrn „zkontrolováno 12 položek v celkové hodnotě 847,50, chyby na řádcích 11–14“ + seznam problémů a doporučení. Dvě rady: napsat, zda chceš **přesně tyto výstupy**, nebo i další užitečné (poznámky); a **vázat výstupy na vstupy** (zmínit konkrétní řádky/účtenky), čímž klesá riziko halucinace a snáz zkontroluješ originál. Lekce Ideal result a Presentation spolu úzce souvisí (autor je vykládá společně). Bez kritérií AI nemá čím se měřit; když jsou kritériem jen „vypadá to jako ukázka“, funguje to proto, že jazykové modely dobře napodobují vzor.
 
 ## 35. Presentation (video)
 [Lekce](https://www.coursera.org/learn/agent-skills/lecture/7ghcA/presentation)
@@ -55,9 +55,11 @@ Skilly se budou **udržovat a měnit**. Co upravit podle toho, co selhává:
 - **Mechanické kroky s daty, výpočty** → **přepsat na skript**; je levnější, opakovatelnější a ověřitelnější.
 - **Skill přerostl a zmate se** → **vyndat nepodstatné do references** a ve `SKILL.md` jen říct, kdy je číst.
 
+Doplnění: nejčastější chyba je řešit všechno úpravou kroků a nafukovat je; chybný výstup je lepší hned v konverzaci **zachytit jako příklad** (vstup, co AI vyrobila, co mělo být; klidně i špatný výstup vedle správného) a příklady rozdělit podle typu vstupu. Skript je levnější (méně tokenů), opakovatelný a snáz se ověřuje, protože víš přesně, co se při volání stane.
+
 ## 39. Vzorec kontextových preferencí (video)
 [Lekce](https://www.coursera.org/learn/agent-skills/lecture/kkq0P/contextual-preferences-pattern)
-Řeší situaci, kdy se způsob provedení úkolu mění podle **kontextu** (typicky psaní e-mailů: vedení, oznámení kurzu, odpověď s životopisem/abstraktem). Struktura skillu: (1) obecný úkol („použij při psaní e-mailu“); (2) **jak poznat kontext** a případné společné kroky; (3) seznam kontextů, každý s krátkým popisem, případně obecnými pravidly a **odkazem na samostatný soubor** s konkrétními pokyny a **příklady** pro daný kontext (i s přibalenými podklady, třeba fotkou či biografií); (4) **záložní postup**, když žádný kontext nesedí. Soubory s příklady se čtou jen u vybraného kontextu. Při psaní je pro AI často snazší dát příklady dobrých e-mailů, než popsat styl.
+Řeší situaci, kdy se způsob provedení úkolu mění podle **kontextu** (typicky psaní e-mailů: vedení, oznámení kurzu, odpověď s životopisem/abstraktem). Struktura skillu: (1) obecný úkol („použij při psaní e-mailu“); (2) **jak poznat kontext** a případné společné kroky; (3) seznam kontextů, každý s krátkým popisem, případně obecnými pravidly a **odkazem na samostatný soubor** s konkrétními pokyny a **příklady** pro daný kontext (i s přibalenými podklady, třeba fotkou či biografií); (4) **záložní postup**, když žádný kontext nesedí. Soubory s příklady se čtou jen u vybraného kontextu. Při psaní je pro AI často snazší dát příklady dobrých e-mailů, než popsat styl. Doplnění: autor řeší problém, že AI píše e-maily „obecně“, ne jeho způsobem, a paměť k tomu nestačí; kontext rozpozná skill podle návodu na začátku (společné kroky, jak kontext poznat), popis kontextu stačí stručný, a soubor kontextu může nést i přibalené podklady (u něj fotka a bio pro odpověď s abstraktem). Sám přiznává, že jeho ukázka jde zkrátit (společné kroky se opakují).
 **Pro nás:** přesně tak je vhodné stavět psaní za Lenku podle kontextu (e-mail, newsletter, článek, seminárka). Viz `resources/postupy/hlasy.md`.
 
 ## 40. AI Skill Refinement (hodnocený úkol)

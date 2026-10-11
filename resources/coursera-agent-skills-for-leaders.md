@@ -3,6 +3,8 @@
 **Zdroj:** [Coursera – AI Agent Skills for Leaders](https://www.coursera.org/learn/agent-skills) — Dr. Jules White, Vanderbilt (4 moduly, podle Coursery ~6 h, 5 hodnocených úkolů, aktualizováno 5/2026, 4,8 hvězdy)
 **Přístup:** trial Coursera Plus (zdarma do 11. 10. 2026, zrušit nejpozději 10. 10. → [[waiting-for]]). Projekt: [[claude-academy]]. Související kurz: [[coursera-build-anything-with-ai]].
 **Poznámky jsou zhuštění vlastními slovy (261004), ne přepis.** U každé lekce je odkaz na originál. Přečetla jsem všech 40 položek (25 videí, 9 čtení); 5 hodnocených úkolů a jedna „coach“ položka (konverzace s AI) se nestahují, jejich zadání proto neznám.
+**Kontrola podle přepisů (261011):** všech 25 přepisů videí a 7 z 9 čtení porovnáno s poznámkami; věcně vše sedí, doplněny drobnosti v modulu 4. Neporovnaná zůstala jen čtení Markdown Primer (M3-03) a Learning More (M1-10).
+**Doslovné přepisy a čtení (od 261011):** Lenka je stahuje oficiálním tlačítkem Coursery do `G:\Můj disk\Databanka AI\Coursera AI Agent Skills for Leaders 261011\Texty lekcí (přepisy videí a čtení)\`; rejstřík s názvy souborů a odkazy je ve [složce](<file:///G:/Můj disk/Databanka AI/Coursera AI Agent Skills for Leaders 261011/00 REJSTRIK – co je kde a k čemu.md>). Jen pro osobní studium, autorsky chráněné. Přístup ke kurzu končí 11. 10. 2026.
 
 Použij, až budeš řešit: jak postavit dobrý skill (struktura, co do něj dát, jak ho opravovat), jak vysvětlit skilly někomu bez programátorských znalostí (DigiStart), nebo jak z věcí, které s AI děláš pořád dokola, udělat opakovatelný postup.
 

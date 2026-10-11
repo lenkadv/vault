@@ -58,7 +58,7 @@ Tělo: `# Název`, „Použij, až:“, jedna věta popisu, odkaz `[Otevřít so
 | Nainstalované nástroje (skilly, konektory, aplikace) | 260929 | 137 | složky `GrowOS/`, `Jon Benson/`, `Impeccable/`, `UI-UX Pro Max/`, `Productivity Pack/`, `Anthropic/`, `Vlastní/`, `Služby a aplikace/` (jen mapa, soubory jsou nainstalované) |
 | Anthropic Academy | 260929 | 1 (kurz Introduction to Agent Skills, 6 lekcí) | `Databanka AI/Anthropic Academy 260929` |
 | Coursera – Build Anything with AI | 261004 | 1 (kurz Jules White, 22 videí; poznámky po lekcích ve vaultu `resources/coursera-build-anything-with-ai/`, přepisy videí stahuje Lenka sama oficiálním tlačítkem Files → Transcript) | `Databanka AI/Coursera Build Anything with AI 261004` |
-| Coursera – AI Agent Skills for Leaders | 261004 | 1 (kurz Jules White, 4 moduly; poznámky po lekcích ve vaultu `resources/coursera-agent-skills-for-leaders/`, texty jen čtené, nic nestaženo) | `resources/coursera-agent-skills-for-leaders` |
+| Coursera – AI Agent Skills for Leaders | 261004 (složka na Disku 261011) | 1 (kurz Jules White, 4 moduly; poznámky po lekcích ve vaultu `resources/coursera-agent-skills-for-leaders/`; přepisy 25 videí a 9 čtení; 261011 staženo 25/25 videí a 9/9 čtení, rejstřík ve složce) | `Databanka AI/Coursera AI Agent Skills for Leaders 261011` |
 | BotBuilders – Crush It with Claude | 261006 | 3 (rozbor webináře podle přepisu; PDF „AI CMO Skills List“, 83 skillů jen jako seznam; PDF „AI CMO Flowchart“, schéma; dárky za účast na webináři; text přepsaný do poznámek) | `Databanka AI/BotBuilders Crush It with Claude 261006` |
 | BNSN Community (Jon Benson) | 261001 | 1 (kurz $10M Sales Page Audit, 9 videolekcí; poznámky z přepisů, přílohy nejsou) | `Databanka AI/BNSN Community 261001` |
 
