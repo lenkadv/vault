@@ -6,7 +6,7 @@ datum: "260929"
 
 # Hlas tadylenka: návrh zpřesnění `voice.md` (profil 5)
 
-> **Stav:** zapracováno do [[voice]] 260929. Odpovědi: uvítací příspěvek = AI (přepracovat); Josefův úvod nejistého původu, ne měřítko; „není jen X, ale i Y“ jednou nevadí; de Chirico („—“, „Nedostala ho.“) = AI; první osoba a anachronismy = záměr; recenze zůstávají v hlasu, ze skillu `review-exhibition` jen postup; referenční hlasy platí. Projekt: `projects/hlasove-profily.md`.
+> **Stav:** zapracováno do [[voice]] 260929. Odpovědi: uvítací příspěvek = AI (přepracovat); Josefův úvod nejistého původu, ne měřítko; „není jen X, ale i Y“ jednou nevadí; de Chirico („—“, „Nedostala ho.“) = AI; první osoba a anachronismy = záměr; recenze zůstávají v hlasu, ze skillu `review-exhibition` jen postup; referenční hlasy platí. Projekt: `archive/hlasove-profily.md`.
 > **Zdroj:** celý Substack archiv (`samples/substack-archiv/`, 10 článků 3–9/2026) + vydaný Václav (`samples/2026-09-28-…`) + lekce Eva (260921), Václav (260928), dlouhé texty (260910), `0.1-lessons.md`.
 > **Závěr v jedné větě:** `voice.md` vystihuje jádro (deadpan, pointa v bezpříznakové větě, žádné katalogové fráze), ale chybí mu tři věci, které tvoje texty dělají nejvíc: **první osoba a vlastní zkušenost**, **anachronické srovnání s dneškem** a **krátká věta jako pointa**. Ta poslední je dnes v `voice.md` dokonce zakázaná.
 

@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/ai-nastroje]] (souvisí s [[areas/lcenglish]], [[areas/tadylenka]], [[areas/studies]])
 **Založeno:** 260926
-**Stav:** aktivní — všech 6 profilů hotových (260929), pravidlo „přepis → poučení“ zavedeno 261004. Zbývá: kurzy z [[kurzy-marketing]]
+**Stav:** hotovo, archivováno 261011 — všech 6 profilů hotových (260929), pravidlo „přepis → poučení“ zavedeno 261004. Procházení kurzů z [[kurzy-marketing]] sem nepatří, přesunuto do [[katalog-ochutnavky]].
 
 ## Cíl
 
@@ -85,7 +85,7 @@ GrowOS už má správná místa: `brain/samples/` (banka), `brain/voice.md` (pro
 - [x] Doplnit do profilů 3 prvky z [[ABM – Brand voice guide]] (odvozené z banky, ne z dotazníku): vlastnosti „znamená / neznamená“, tabulka „jsme / nejsme“, jedno sdělení v různých situacích (Lenka zkontroluje), kontrolní seznam pro Clauda. Pilot na [[profil-profesni]], pak jako šablona pro další profily (260928)
   - 260929 pilot doplněn do [[profil-profesni]] (4 vlastnosti se „znamená / neznamená“, tabulka „jsem / nejsem“, jedno sdělení v 5 situacích, kontrolní seznam)
   - [x] Lenka ukázky schválila 260929 („funguje to výborně“); prvky doplněny do všech profilů: [[profil-osobni]], [[profil-akademicky]], lcenglish a tadylenka `voice.md`
-- [ ] Projít kurzy z [[kurzy-marketing]] s Lenkou — postupně, nejdřív ten nejaktuálnější; cíl: vytěžit pro psaní e-mailů, webinářových sekvencí, prodejních stránek (Lenka 261004: rozhodně chceme) #next-action #online
+- [x] Projít kurzy z [[kurzy-marketing]] ✅ 2026-10-11 — přesunuto do [[katalog-ochutnavky]] (nepatří do hlasových profilů)
 - [x] Přenést vzory odpovědí z Drive dokumentu „Průběžný pracovní“ do hlasových profilů ✅ 2026-10-04 → profil 3: nová sekce „Odpovědi účastníkům a studentům“ v `GrowOS/lcenglish/brain/voice.md`, banka [[odpovedi-ucastnikum-ai-workshopy]] v `brain/samples/`; v [[profil-profesni]] a [[hlasy]] odkaz. Zbývá jen Lenčina kontrola návrhu (2 ukázkové verze na konci sekce).
 - [x] Lenka: zkontrolovat 2 ukázkové verze na konci sekce „Odpovědi účastníkům a studentům“ v `GrowOS/lcenglish/brain/voice.md` ✅ 2026-10-05 — v pořádku, bez úprav
 - [x] Zavést pravidlo „přepis → lessons/“ pro všechny hlasy ✅ 2026-10-04 → `resources/postupy/hlasy.md` + řádek v tabulce Postupy v CLAUDE.md + memory `reference_voice_profiles`

@@ -2,7 +2,7 @@
 
 Pracovní seznam pro [[MOC – Zettelkasten]], sekce "Alternativní vznik — katalogová LN". Kontext a pravidla viz handoff v paměti / konverzaci 260731. Folder ID `1dy9tyD5wg0WFNZzXtxeoOorNlLo9XLk1`.
 
-**posledni_kontrola: 2026-10-04T11:55:00Z**
+**posledni_kontrola: 2026-10-11T19:40:00Z**
 
 Od 260803 běží tenhle checklist jako **průběžná kontrola přírůstků**, ne jednorázový projekt — viz [[HANDOFF – knihovna katalog]], sekce "Průběžná kontrola přírůstků". Automaticky se kontroluje při weekly review (krok Zettelkasten), nebo kdykoli na pokyn "zpracuj knihovnu". Nové soubory se přidávají jako další řádky na konec tabulky (číslování pokračuje od 202).
 
@@ -233,6 +233,11 @@ Lenka potvrdila 260731: zpracovat **celou knihovnu** (ne jen tematické jádro L
 | 217 | Simons, Patricia — Women in Frames, the gaze, the eye, the profile in Renaissance portraiture.pdf | ✅ | [[LN – simonsWomenFrames1988]] — stejný text jako kap. 2 v #203 |
 | 218 | Wiesner-Hanks Merry E. (ed.) — Challenging Women's Agency and Activism in Early Modernity.pdf | ✅ | [[LN – wiesnerHanksChallengingWomensAgency2021]] |
 | 219 | Kathedralenbauer (folder) | ✅ | [[LN – gimpelKathedralenbauer1996]] — Gimpel, přepis 3 částí v Google Docs, ne celá kniha |
+| 220 | Delehaye — The legends of the saints.pdf | ✅ | [[LN – delehayeLegendsSaints1962]] — katalogová LN + řádek v Notion 📚 Knihovna (261011) |
+| 221 | Angenendt — Heilige und Reliquien (C.H. Beck, 1994).pdf | ✅ | [[LN – angenendtHeiligeReliquien1994]] — katalogová LN + řádek v Notion 📚 Knihovna (261011) |
+| 222 | Aigrain — L´hagiographie.pdf | | přírůstek 5. 10. 2026; sken bez OCR (258 MB, bez náhledu textu) — nezpracováno, vrátit se až se najde způsob čtení; ke KTF referátu (odloženo 261008) |
+| 223 | Třeštík et al. — Legenda.PDF | | přírůstek 5. 10. 2026; sken bez OCR (167 MB, bez náhledu textu), přesný titul/vydání neověřen — nezpracováno |
+| 224 | Delehaye — Les Origines du Culte des Martyrs.pdf | | přírůstek 5. 10. 2026; sken bez OCR (165 MB, bez náhledu textu) — nezpracováno; je to zdroj odloženého KTF referátu |
 
 ## Poznámky k pokračování
 

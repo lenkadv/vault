@@ -211,6 +211,8 @@ Zeptej se:
 
 Výjimky (nevypisovat do warningu): **family** a **finances-admin** mají vlastní dynamiku a neřídí se aktivním zásahem den co den. **japanese** vypisovat, ale ne jako naléhavý požadavek, pokud právě běží jiný intenzivní blok (např. seminárka) — spíš jako „až poleví".
 
+**6. Večerní řádek (stálý, do 31. 10. 2026).** Na konec plánu přidej jednu větu: „🌙 Večer: místo další práce pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix); test do 31. 10., jestli se vyplatí roční studentské členství, viz next-actions.“ Platí každý den do 31. 10. 2026 (Lenka 261011: spoléhat na můj spouštěč nestačí). Po tomto datu řádek vypustit a vyhodnotit test při weekly review.
+
 ### Krok 4 — Ulož soubor
 
 Vše jde do jednoho souboru: `G:\Můj disk\vault\daily\{YYMMDD}.md`. Plán tvoří horní část dokumentu, `## Průběh dne` a pozdější `## Systémové změny` pokračují pod ní.

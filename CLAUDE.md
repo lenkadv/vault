@@ -44,7 +44,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Git, `.gitignore`, commit/push | `resources/postupy/git-zaloha.md` |
 | Svodka z e-mailů (newslettery, nevytříděná pošta), `/daily-plan` krok svodka | `resources/postupy/svodka.md` |
 | Prodejní / landing stránky — tvorba, úprava nebo hodnocení (svoje, klientské, konkurence), nabídka, cena, garance, tlačítka | `resources/postupy/prodejni-stranky.md` |
-| Psaní textu za Lenku (e-mail, zpráva, článek, seminárka, newsletter, prodejní text), úprava jejích textů, hlasové profily | `resources/postupy/hlasy.md` (profil před psaním; když Lenka můj text přepíše → rozdíl hned zapsat jako poučení) |
+| Psaní textu za Lenku (e-mail, zpráva, článek, seminárka, newsletter, prodejní text), úprava jejích textů, hlasové profily | `resources/postupy/hlasy.md` (profil před psaním; když Lenka můj text přepíše → rozdíl hned zapsat jako poučení; **u pracovního mailu vždy důrazně upozornit, z jaké adresy odeslat**, ne z Gmailu: oddíl 3) |
 | Přehledné dějiny umění 19.–20. st. (dr. Pech): příprava na zápočet/zkoušku, Anki balíčky z prezentací, chronologie, web pro spolužáky, „zpracuj přednášku“ | `resources/postupy/prehledovky-pech.md` |
 | Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie | `resources/postupy/metodologie2.md` |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |

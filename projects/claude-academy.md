@@ -34,7 +34,7 @@ Přehled a poznámky: [[resources/coursera-agent-skills-for-leaders]] (moduly 1�
 4. **Moduly 1 a 3 jinak vynechat** (opakování z Anthropic Academy). Hodnocené úkoly jen pokud je chce Lenka pro sebe; certifikát nezajímá.
 5. Texty skillů Dashboard It a File Organizer jsou pod CC BY 4.0 (smí se použít s uvedením zdroje).
 
-**Až Lenka poznámky projde (další krok, navrhne Claude):** zkusit RECIPE jako kontrolní seznam na naše postupy a skilly, hlavně [[resources/postupy/hlasy]] / [[projects/hlasove-profily]] (vzorec kontextových preferencí = psaní za Lenku podle kontextu); úkol z modulu 4 „oprava skillu“ použít na reálný skill ze vzorku. Pro DigiStart: rámec ELITE („text v chatu vs. hotový výstup“) do [[digistart-podklady]]. **Trial se musí zrušit nejpozději 10. 10.** ([[waiting-for]]); po zrušení kurz zmizí, proto jsou poznámky.
+**Až Lenka poznámky projde (další krok, navrhne Claude):** zkusit RECIPE jako kontrolní seznam na naše postupy a skilly, hlavně [[resources/postupy/hlasy]] / [[hlasove-profily]] (vzorec kontextových preferencí = psaní za Lenku podle kontextu); úkol z modulu 4 „oprava skillu“ použít na reálný skill ze vzorku. Pro DigiStart: rámec ELITE („text v chatu vs. hotový výstup“) do [[digistart-podklady]]. **Trial se musí zrušit nejpozději 10. 10.** ([[waiting-for]]); po zrušení kurz zmizí, proto jsou poznámky.
 
 Ostatní kurzy Julese Whitea z programu (Build Apps with AI, Agentic AI primer, Prompt Engineering for ChatGPT, Trustworthy GenAI, ChatGPT Advanced Data Analysis, OpenAI GPTs) Claude prošel jen podle popisu na stránkách a doporučil vynechat.
 

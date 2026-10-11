@@ -105,11 +105,20 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 **Jak navázat (260930):** Až odpoví Štěpánka Uličná (mail „DigiStart - návrh pilotu“ nebo komentáře ve sdíleném dokumentu https://claude.ai/code/artifact/6a91f9f5-24a1-48f8-a367-7d639e50dcfa): v novém vlákně přečíst tento projekt, [[digistart-pilot-osnova]], [[digistart-postup-stavby-kurzu]] a [[digistart-podklady]], pak načíst její odpověď (Gmail + komentáře v dokumentu) a zapracovat. Další krok podle zvolené varianty: A → `lesson-planning` z [[ABM – Course Creator]] na týden 1; B → zkušební balíček se 2–3 postupy pro předpilotní test se Štěpánkou. **Hotový kandidát do balíčku (261001):** postup „prodejní stránka“, vyzkoušený na 10x ENGLISH, čeká na pilot u Štěpánky (Claude i ChatGPT); podoby a co z nich bude ve skillu → [[digistart-pilot-osnova]] (poznámka 261001), návod [[navod-prodejni-stranka-s-ai]].
 
-**Balíček pro zkušební průchod se Štěpánkou (261009):** [[resources/digistart-balicek-stepanka/00-README]] v `resources/digistart-balicek-stepanka/`. Kroky: soubory na disku (prompt + skripty, dva režimy) → skill hlasových profilů (smyčka učení) → skill konceptů e-mailů (nikdy neodesílá, obecný průvodce propojením Outlooku). Víkend 10.–11. 10. se Štěpánkou je první zkouška; poznámky, kde se zasekla a kolik to trvalo, jdou do [[digistart-postup-stavby-kurzu]] a do úprav balíčku. Web o auditech je v balíčku samostatná věc (nesouvisí s kurzem).
+**Balíček pro zkušební průchod se Štěpánkou (261009):** [[resources/digistart-balicek-stepanka/00-README]] v `resources/digistart-balicek-stepanka/`. Kroky: soubory na disku (prompt + skripty, dva režimy) → skill hlasových profilů (smyčka učení) → skill konceptů e-mailů (nikdy neodesílá, obecný průvodce propojením Outlooku). Víkend 10.–11. 10. se Štěpánkou je první zkouška; poznámky, kde se zasekla a kolik to trvalo, jdou do [[digistart-postup-stavby-kurzu]] a do úprav balíčku. Web o auditech je v balíčku samostatná věc (nesouvisí s kurzem). **Výsledek zkoušky (261011):** průchod fungoval, Štěpánka poslala shrnutí s prioritami úprav a vlastním pohledem → [[resources/digistart-balicek-stepanka/05-zpetna-vazba-zkusebni-pruchod-261011]] (kopie celého mailu, zdroj Gmail).
 
 ## Otevřené otázky (DigiStart je zatím „oblak“, ne lineární postup — nejsou to next-actions)
 
 - **Jak se projekt nebo plugin předá účastnicím a jaký plán Claude potřebují** (projekty a dovednosti v běžném chatu; vlákna jako menu kurzu). Zatím jen otázka, bez kroku. Vzniklo 261006 z rozboru webináře BotBuilders, viz [[digistart-podklady]] (sekce „Co si vzít z webináře BotBuilders“). Až se obloukem dojde k rozhodnutí o formě balíčku a podobě pilotu, otázka se vyřeší sama; neuzavírat uměle.
+
+## Cíl do konce října 2026 (Lenka 261011, weekly review)
+
+**Příprava DigiStartu má být hotová do konce října, aby se od začátku listopadu daly nasazovat reklamy.** Velká priorita, stejný termín jako závěrečná zpráva z auditu FEKT ([[gnostika-fekt-audit]]).
+
+**Co má být hotové (shrnutí toho, k čemu Lenka došla se Štěpánkou o víkendu 10.–11. 10.):**
+- **Obsah** je pilotní, nemusí být hotový celý. Pilot = **živá vysílání**, na která se účastníci hlásí. Pevně nastavená jen **první dvě setkání (konzultace)**, další se přizpůsobí tomu, co účastnice budou chtít a potřebovat. Shrnutí nabízeného balíčku.
+- **Hlavní práce je kampaň a systém kolem ní** (mnohem větší úkol než obsah kurzu): nová **Facebooková stránka DigiStart**, přes kterou poběží reklama; **web (landing page) pro DigiStart** s přihlášením; **video** na stránku; **reklama na Facebooku**; **propojka kalendáře**, aby si zájemkyně mohly rezervovat konzultaci před rozhodnutím.
+- **První krok:** zformalizovat jednotlivé kroky, uchopit to jako projekt, říct si, co je potřeba udělat, a rozdělit práci se Štěpánkou.
 
 ## Co je potřeba udělat
 
@@ -118,7 +127,10 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Ověřit, že funguje přístup k profilu GNOSTIKy v Databázi — přístup funguje; jen se nezobrazuje cvičný kurz založený se Štěpánkou v Brně (nevidí ho ani Štěpánka) ✅ 2026-09-26
 
 ### Víkend se Štěpánkou (10.–11. 10.)
-- [ ] Nasdílet Štěpánce složku `resources/digistart-balicek-stepanka` ze svého disku (README: pořadí a co zjistit na místě) #next-action #online
+- [x] Nasdílet Štěpánce složku `resources/digistart-balicek-stepanka` ✅ 2026-10-11 — balíček prošli společně v Jičíně, zpětná vazba existuje
+- [x] Odpovědět Štěpánce na mail „DigiStart – shrnutí zkušebního průchodu“ — odpověď není potřeba, vyřešeno osobně ✅ 2026-10-11 (Lenka)
+- [ ] Sepsat projektový plán kampaně DigiStart (FB stránka, web/landing page, video, reklama, přihlášení, propojka kalendáře na konzultace, první dvě setkání pilotu): kroky, kdo co dělá (Lenka × Štěpánka), termíny do konce října, reklamy od začátku listopadu → Lenka s Claudem, pak projít se Štěpánkou #next-action #online
+- [ ] Projít se Štěpánčinou zpětnou vazbou ze zkušebního průchodu (mail „DigiStart – shrnutí zkušebního průchodu“ z 11. 10.), zapracovat úpravy do skillů a návodů balíčku (její priority: krátká cesta C:\dgs, kontrola délky cest, citlivé údaje ve vzorcích, nevymýšlet fakta v osobním profilu, pojistky u pošty, blok „pod pokličkou“) a rozhodnout další kroky projektu #next-action #online
 
 ### Obsah kurzu
 - [x] Vymyslet náplň kurzu (Lenka sama) — návrh pilotu hotový ([[digistart-pilot-osnova]]), Štěpánce sdílen v Claude a poslán mailem jako Word ✅ 2026-09-30

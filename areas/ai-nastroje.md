@@ -5,7 +5,6 @@ Učení a zavádění AI nástrojů (Claude Code, skills, agenti) do vlastní pr
 ## Aktivní projekty
 
 - [[projects/claude-academy]]
-- [[projects/hlasove-profily]]
 - [[projects/katalog-ochutnavky]]
 
 ## Klíčové trvalé odkazy

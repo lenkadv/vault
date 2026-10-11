@@ -42,6 +42,6 @@ Jednostránkový web („digitální vizitka“) GNOSTIKA CONSULTING, s.r.o. o p
 
 ## Next actions
 
-- [ ] Zapracovat zpětnou vazbu Štěpánky do konceptu webu GNOSTIKY (žlutá místa, tón, reference); stránka `fFhdZ1PwT5` v Leadpages #online (čeká na Štěpánku → [[waiting-for]]; `#next-action` až po její zpětné vazbě)
+- [x] Zapracovat zpětnou vazbu Štěpánky do konceptu webu GNOSTIKY a nasadit ✅ 2026-10-11 — probráno a nasazeno s Štěpánkou o víkendu v Jičíně, web běží na **gnostika.cz/audity** (Lenka 261011)
 
-Čeká se na Štěpánku → [[waiting-for]] (follow-up 2026-10-07).
+261011: **Web běží na gnostika.cz/audity** (nasazeno se Štěpánkou v Jičíně 9.–11. 10.). Nedodělané: hlavní stránka gnostika.cz má rozcestník jen s odkazem na audity, ostatní odkazy (další nabídky, které Štěpánka chce) chybí. Dodělá si je Štěpánka sama, Lenka ji případně postrčí → [[waiting-for]]. Stav kontrolního seznamu „Před ostrým spuštěním“ výš (žlutá místa, heslo/noindex u Leadpages konceptu, záloha HTML) po nasazení neověřen; Leadpages koncept `fFhdZ1PwT5` už nejspíš není potřeba. Projekt jde po dodělání rozcestníku do archivu.

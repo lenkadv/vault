@@ -49,13 +49,12 @@ sort by due
 ---
 
 ## @online
-- [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix) — test do 31. 10., jestli se vyplatí roční studentské členství, viz [[someday-maybe]] 📅 2026-10-31
+- [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) 📅 2026-10-31
 
 - [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
+- [ ] Přehledovky: naimportovat do Anki znovu balíčky `01-Klasicismus.apkg` a `11-České_sochařství_1800–1914.apkg` ze složky `C:\Users\Lenka\Documents\pech-work\anki` (opravy 261011: Thorvaldsen, Záboj a Lumír jako dvě karty; opakování v Anki se při importu zachová) → [[prehledovky-pech]]
+- [ ] Podívat se na investiční plán pro Ekonomickou komisi AS KTF UK: soubor `03b_PR_SZ_UK_2027_PŘÍLOHA_PIA_STROJE_PRISTROJE.xlsx` ve složce `01 PRIVATE/Spolky a funkce/KTF Ekonomická komise` na Disku (přišel 11. 10.; není oficiálně k projednání, je jen k nahlédnutí). Jednání komise je 19. 10. v 9:00 (Zoom), viz [[waiting-for]]. Blok na to domluvit při plánování kalendáře
 - [ ] **Pondělí 12. 10., před hodinou s dr. Štěrbovou:** probrat s ní ústně příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní, mail se nepíše (Lenka 261009) 📅 2026-10-12
-- [ ] DPH přiznání: podívat se spolu s Claudem, jak je dělat snadněji nebo je zautomatizovat. Anthropic účtenka Claude Pro (6. 10. 2026, QRVMHXKX-0007, 18 €) je i po žádosti o odstranění DIČ z 24. 9. **bez DPH** (reverse charge), takže měsíční přiznání zůstává; kromě toho se plánují kurzy DigiStart (možná přes Štěpánku, zatím nejasné), které přiznání ještě rozšíří. Zatím **neeskalovat** u podpory Anthropic, přiznání se vyplňují ručně (Lenka 261007). Vlákno podpory pro případ: [„VAT reverse charge removal“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877248236423122264)
-- [ ] AI Black Magic: nabídka Claude Power-up Bundle za 15 USD (akce do konce týdne, cca 11. 10.; 7denní záruka vrácení peněz; https://youraipowerup.com/) — zvážit, jestli v ní je něco, co nemáme z dřívějšího stažení ([[AI Black Magic – přehled knihovny 260927]]); Claude stránku prošel 261007: 30 balíčků (~406 skillů, 1 500 promptů, šablony) podle funkcí (sales pages, e-mailové funnely, newslettery, webináře, reklamy, kurzy, ceny), jména jednotlivých pluginů stránka neuvádí, kotva „běžně 270 USD“. Nic nekupovat bez Lenky
-- [ ] Přehledovky: vyzkoušet v dashboardu Trénink písemnou otázku a uzavřené otázky (volají Clauda, naostro neověřeno); když něco nejde, říct Claudovi → [[prehledovky-pech]]
 
 ```tasks
 not done
@@ -96,6 +95,8 @@ sort by path
 ```
 
 ## @venku/pochůzky
+
+- [ ] Odnést celý kufřík Samsonite k opravě koleček: **Petr Šuman, Opravna obuvi a kufrů, U Santošky 1315/4, Praha-Smíchov, po–pá 9–17** (mail 8svicko@seznam.cz, tel. 777 973 906; 9. 10. odepsal: kolečka opraví, ať Lenka příště přinese celý kufr; cenu neuvedl, zeptat se na místě). Záloha, kdyby nevyšlo: U Verpánku (Libeň, tel. 774 145 122) nebo koupit kolečka sama (Kola Pirkl, tel. 777 170 727, cca 70 × 24 mm). Blok v kalendáři: **st 14. 10. 11:00–12:45** (před japonštinou ve 13:00)
 
 
 ```tasks

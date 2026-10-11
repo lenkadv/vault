@@ -12,6 +12,9 @@ Denní rutina 15 minut bez Anki: jeden nový gramatický bod z Genki II (pravidl
 - Anki se nepoužívá, dokud Lenka nepocítí potřebu se vrátit (261007). Důvod: přetížení Anki ze školy a metoda ji neláká. Dluh v Anki (asi 5 300 japonských karet po termínu) se neřeší.
 - Rozhodnutí 261007: pravidlo nejdřív (teorie „když chci říct X, použiju tvar Y“) + nahlas aplikace; lektorka odpovědi z banky na hodině zkontroluje a ráda.
 
+- 261011: v artefaktu opraven text u „Otázky dne“: odpověď kontroluje Claude tlačítkem „Zkontrolovat odpověď“ (dřív tam zůstalo, že ji opraví lektorka); lektorka může banku odpovědí na hodině projít navíc, ale není to součást zadání.
+- 261011: hotové **3 dny** patnáctky; zatržítko Shun i odpověď dne se po znovunačtení stránky ukládají (Lenka).
+
 ## Plán
 
 1. Den 0: Lenka ohodnotí mapu (asi 15 min) → Claude sestaví frontu (chronologicky od prvního matného bodu; co zapíše z hodin, předbíhá).
@@ -21,6 +24,7 @@ Denní rutina 15 minut bez Anki: jeden nový gramatický bod z Genki II (pravidl
 
 ## Úkoly
 
-- [ ] Otevřít artefakt „Japonská patnáctka“, ověřit opravu ukládání (zatrhnout „Shun hotovo“, napsat odpověď dne, stránku znovu načíst) a napsat Claude výsledek; pak pokračovat dalším dnem (den = ~15 min) #next-action #online
+- [x] Ověřit opravu ukládání v artefaktu ✅ 2026-10-11 — zatržítko Shun a odpověď dne po znovunačtení stránky fungují (Lenka)
+- [ ] Dělat denní patnáctku v artefaktu „Japonská patnáctka“ — jeden den = ~15 min, den po dni (13 dnů); po dni se vyplní, co šlo a co ne #next-action #online
 - [ ] Po 13. dni napsat Claude „hotovo“ → z Přehledu postavit pravidelnou frontu opakování (po 13 dnech)
 - [ ] Po každé epizodě Shuna říct Claude „vytáhni slova“ (zvýrazněná slova z Docu → cvičení čtení)
