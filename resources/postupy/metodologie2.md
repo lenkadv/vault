@@ -5,7 +5,7 @@ Vznikl 261007. Claude čte tento soubor, když Lenka řeší Metodologii 2: „z
 **Studium není GTD** — žádné tasky do `next-actions`; bloky jsou v kalendáři (čas vždy potvrdit s Lenkou) a plánují se při weekly review.
 
 ## Zdroje
-- Gemini Notebook **„Metodologie II“** (`notebooklm … -n 0b9f1a49-d4b9-4ead-82fd-341aff5d4531`): nahrávky přednášek (pondělí 10:15, P8). Zatím jen 5. 10.
+- Gemini Notebook **„Metodologie II“** (`notebooklm … -n 0b9f1a49-d4b9-4ead-82fd-341aff5d4531`): nahrávky přednášek (pondělí 10:15, P8): 5. 10. a 12. 10. (zdroj „Metod261012.mp3“). Nahrávky z Easy Voice Recorder se přesouvají do `KTF/Aktuální/Metodologie 2/26ZS Metodologie 2 nahrávky/` (název `MetodRRMMDD.mp3`) a odtud nahrávají do Notebooku (`notebooklm source add … --type file --timeout 600`); dotaz jen na jednu přednášku přes `ask -s <id zdroje>`.
 - Disk `02 EDUCATION/KTF/Aktuální/Metodologie 2/`: studijní text `Meto2 2.pdf` (literatura k dějinám umění v době osvícenství, ~140 tis. znaků, slouží k ověření jmen a dat), starý Notebookem vygenerovaný `251005flashcards.csv` (41 dlouhých karet, nahrazen atomickými).
 - Metodologie 1: `KTF/Absolvované/Metodologie 1/metodologie 1 - termíny.pdf` (disegno, idea, decorum, mimesis…), Anki `KTF/Anki Archive/Metodologie1.apkg`. Otázky se mohou vracet i k látce Metodologie I.
 
@@ -37,7 +37,8 @@ Varování vyučujícího: nečíst jen k jednomu tématu (např. jen památkov�
 **Krátké atomické karty** (jedna otázka, krátká odpověď, výčty nejvýše 3–7 položek), vždy **až po přednášce** a jen z toho, co vyučující opravdu probral (přepis nahrávky v Notebooku), doplněné roky a jména z `Meto2 2.pdf` (zdroj na kartě to uvádí). Co nezaznělo, žádná karta. Údaje, které jsou jen z přepisu nahrávky a mohou být zkomolené (jména, roky), mají tag `overit`.
 - Skripty: `C:\Users\Lenka\Documents\meto-work\` — `meto.py` (seznam `ATOM`: klíč, téma, otázka, odpověď, zdroj, příznaky; GUID `m2-<klíč>`; tagy `meto2 m2_RRMMDD t_<téma>`), `meto_sync.py`.
 - Balíček: `meto-work\anki\METO2.apkg` (kumulativní, všechny přednášky; deck „Metodologie 2“), kopie na Disku ve složce Metodologie 2. Přehled karet: `meto-work\meto-karty-nahled.txt`.
-- **Lenka opravuje nejraději přímo v Anki** → před každým přegenerováním Claude spustí `python meto_sync.py` (načte její úpravy a smazané karty do `meto_edits.json`), pak `python meto.py`. Smazané karty import neodstraní.
+- **Lenka opravuje nejraději přímo v Anki** → před každým přegenerováním Claude spustí `python meto_sync.py` (načte její úpravy a smazané karty do `meto_edits.json`), pak `python meto.py`. Smazané karty import neodstraní. **Pořadí je důležité (poučení 261012):** `meto_sync.py` vždy **dřív**, než se v `meto.py` změní text jakékoli existující karty. Jinak by zapsal starý text z Anki jako „úpravu Lenky“ a přepsal novou verzi (stalo se u `maniera-goethe`, opraveno ručně v `meto_edits.json`).
+- Karty z jedné přednášky jsou v `new_cards_pNN.py` (seznam `NEW_P2` …), konstanty zdrojů v `meto_consts.py`; karta s tagem více přednášek má v poli Zdroj „přednášky 5. a 12. 10.“ (`P12pdf`).
 - Po importu starý Notebookový deck (41 karet z `251005flashcards.csv`) smazat nebo nechat; nové karty ho nepřepisují.
 
 ## „Zpracuj přednášku“ — co dělá Claude
@@ -57,16 +58,21 @@ Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek)
 ## Průřezový přehled témat
 | Téma (`k_`) | Zaznělo v přednáškách | Co přibylo |
 |---|---|---|
-| Winckelmann (`winck`) | 5. 10. | 1755, *Dějiny umění starověku*, dějiny stylu, Caylus |
-| Styl, maniéra, vkus (`styl`, `maniera`, `vkus`, `depiles`, `bellori`) | 5. 10. | Bellori 1664/72, de Piles 1708, Goethe 1789 |
-| Formalistická a kulturněhistorická metoda (`met`) | 5. 10. (jen úvod) | Wölfflin, Burckhardt, Du Bos, Le Clerc — **čekáme na hlavní výklad** |
-| Znalectví, kritika, ikonologie (`met`) | 5. 10. (jen úvod) | zatím jen zmínky |
-| Čeští historici umění | — | nezazněli |
+| Winckelmann (`winck`) | 5. 10., 12. 10. | 5. 10.: 1755, *Dějiny umění starověku*, dějiny stylu, Caylus. 12. 10.: 1717–1768, dráha (Halle, Jena, Albani), popularizátor Cayluse, **obojetný (formalista i kulturní historik) – u zkoušky i státnic**, ideál Řecka 5. st., fáze, vykopávky |
+| Styl, maniéra, vkus (`styl`, `maniera`, `vkus`, `depiles`, `bellori`, `goethe`) | 5. 10., 12. 10. | 5. 10.: Bellori 1664/72, de Piles 1708, Goethe 1789 (pejorativní maniéra). 12. 10.: Goethe znovu + **tři stupně tvorby** (nápodoba přírody → osobní styl/manýra → ideální styl) |
+| Caylus a metoda datace komparací (`caylus`, `datace`) | 12. 10. (5. 10. jen zmínka) | autopsie, ruka umělce, relativní vývojová řada; **vyučující: důležité u zkoušky i státnic** |
+| Hegel, Humboldt, Schlegel, Lessing, Herder (`hegel`, `lessing`, `herder`, `schlegel`) | 12. 10. (5. 10. Hegel jen jako syntéza) | tři principy dějin umění, Laokoon 1766, plastika×skulptura |
+| Británie 18. st. (`brit`, `reynolds`, `hogarth`, `wren`, `essex`, `warton`, `walpole`, `burke`) | 12. 10. | akademie 1768, Hogarth 1753, Wren 1713, Essex 1771 |
+| Znalectví (`christ`, `fiorillo`, `bartsch`, `sonnenfels`, `met-znalectvi`) | 5. 10. (úvod: Francie špička, Baldinucci), 12. 10. | maják Christ 1735 Lipsko, Fiorillo 1813 Göttingen, Bartsch 21 sv., stavy grafiky |
+| Formalistická a kulturněhistorická metoda (`met`) | 5. 10. (úvod), 12. 10. (jen přes Winckelmanna a Hegela) | Wölfflin, Burckhardt, Du Bos, Le Clerc — **čekáme na hlavní výklad** |
+| Ikonologie, výtvarná kritika, památková péče (`met`) | 5. 10. (úvod), 12. 10. (zmínky: Diderot, Wren, Winckelmann a vykopávky) | zatím jen zmínky |
+| Čeští historici umění | 12. 10. | **Dlabač** (Strahov, 2. gen., slovník 1815–16), **Hollar** (ilustrace Dugdalea); Mistr Theodorik a Dientzenhoferové jen mimochodem |
 
 ## Zpracováno
 | Přednáška | Témata | Karty | Stav |
 |---|---|---|---|
 | 5. 10. 2026 | osvícenství (1./2. generace), styl–maniéra–vkus, předchůdci (Vasari, van Mander, Sandrart, Baldinucci, Bellori, de Piles, Du Bos, Houbraken), Winckelmann, Diderot, Condorcet, metody, literatura ke zkoušce | 53 | ✅ sestaveno a naimportováno do Anki 261007 |
+| 12. 10. 2026 | Winckelmann podrobně, Caylus a datace komparací, německá reakce (Hegel, Schlegel, Goethe, Lessing, Herder), Británie (Reynolds, Hogarth, Wren, Essex, Warton, Walpole, Burke/Price, Dugdale/Hollar), dílenské receptáře, znalectví (Christ, Fiorillo, Bartsch, Sonnenfels, Dlabač), dějiny umění na univerzitách | +43 nových, 1 upravená (Goethe) = 96 celkem | ✅ sestaveno 261012, čeká na import (13 karet s tagem `overit`) |
 
 ## Trénink (záznamy)
 | Datum | Co | Poznámky |
@@ -75,5 +81,7 @@ Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek)
 
 ## Otevřené
 - Termíny zkoušky (první termín, dělení na dvě části) — vyučující je zatím neřekl.
-- Čeští historici umění: první přednáška žádného nejmenovala (kromě M. Dvořáka v literatuře); karty po zmínkách v dalších přednáškách.
+- Čeští historici umění: 12. 10. poprvé Dlabač a Hollar (karty hotové); další čekáme. K „pardálovi“ ze zkoušky patří i životní data podle Chadraby: až bude víc Čechů, zvážit samostatný přehled.
+- Rozpory nahrávka × studijní text (karty mají tag `overit`): Caylus *Sbírka starožitností* 1757 × 1752–1767; Humboldtova reforma univerzity 1800 × 1810; Condorcet 1794 × 1793; Hogarth „polovina 18. st.“ × 1753. Ověřit u pramene nebo se zeptat vyučujícího.
+- Údaje jen z přepisu nahrávky bez opory v PDF (Burke, Price, Orlandi, Kugler, Warton, vykopávky u Winckelmanna): ověřit při čtení pramenů.
 - Skripta/pramenná literatura: Lenka dosud nečetla; vyberme z ní vzorky (cca 10 stran) po jednom autorovi týdně, aby kryla různé metody.
