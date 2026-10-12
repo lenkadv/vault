@@ -6,6 +6,8 @@ Použij, až se bude dělat nabídka nebo příprava firemního workshopu s Clau
 
 Situace: česká pobočka německé firmy, kontakt přes HR, Claude zatím nepoužívají, licence si mohou vyžádat. Od nás chtějí nabídku.
 
+> **Štěpánčina verze nabídky (261012, firma MesaParts):** PDF `G:\Můj disk F2F BIZ 👥\Aktivní klienti\Štěpánka\Claude pro klicove pracovniky_2026-10-12_nabidka.pdf`. Úvodní setkání 2 h 15 000 Kč, praktický workshop 3 h online 30 000 Kč, navazující workshop „váš první agent“ 3 h 30 000 Kč, celý program 75 000 Kč, individuální konzultace 1 h 2 500 Kč (online i u nich). Poznámky Lenky (261012 večer): tabulku podle rolí až po prvním workshopu, individuální konzultace nabízet až po workshopu, osobní konzultace cenově znevýhodnit (prostoje, cestování); rizika obsahu: pravá kontingenční tabulka v Excelu, „Claude klikne sám“ (ovládání obrazovky), úklid sdílených složek (OneDrive/SharePoint), druhý workshop s agenty (naplánované úlohy + propojení systémů).
+
 > **Stav (261012):** nabídku zatím přepracovává Štěpánka a není jisté, jestli a v jaké podobě se s firmou domluví. Seznam příprav v oddílu 6 a audit v 7b jsou **podklad na později, ne next action**. Vrátit se k nim, až firma potvrdí zájem (viz [[waiting-for]]).
 
 ## Rozhodnutí Lenky (261012 večer), platí pro nabídku
