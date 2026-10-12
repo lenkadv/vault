@@ -31,7 +31,7 @@ Pak do jejího života vstoupil Diego Rivera (ano, ten komunista, který namalov
 **They *got* divorced ten years later.** Rozvedli se o deset let později.
 **In 1939, the year of her divorce, Frida *painted* herself twice.** V roce 1939, kdy se rozváděla, Frida namalovala sama sebe dvakrát.
 
-Na obraze [Dvě Fridy](https://artsandculture.google.com/asset/the-two-fridas-frida-kahlo/zAHG4EZ1WrwVYg) má jedna Frida bílé evropské šaty, druhá tradiční mexické. Obě mají odhalené srdce a spojuje je jediná cévka: tu evropská Frida přestřihla lékařskými nůžkami a krev jí kape přímo na bílé šaty. Mexická Frida v ruce drží maličký portrét Diega.
+Na obraze [Dvě Fridy](https://artsandculture.google.com/asset/the-two-fridas-frida-kahlo/zAHG4EZ1WrwVYg) má jedna Frida bílé evropské šaty, druhá tradiční mexické. Obě mají odhalené srdce a spojuje je jediná cévka: tu evropská Frida svírá lékařskou svorkou, jako by chtěla zastavit krvácení, ale krev jí stejně kape přímo na bílé šaty. Mexická Frida v ruce drží maličký portrét Diega.
 
 Frida prý říkala, že v životě měla dvě nehody: tramvaj a Diega. Obě nehody přežila. S Diegem se dokonce o rok později znovu vzali.
 
