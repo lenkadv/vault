@@ -111,6 +111,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 - **Jak se projekt nebo plugin předá účastnicím a jaký plán Claude potřebují** (projekty a dovednosti v běžném chatu; vlákna jako menu kurzu). Zatím jen otázka, bez kroku. Vzniklo 261006 z rozboru webináře BotBuilders, viz [[digistart-podklady]] (sekce „Co si vzít z webináře BotBuilders“). Až se obloukem dojde k rozhodnutí o formě balíčku a podobě pilotu, otázka se vyřeší sama; neuzavírat uměle.
 
+- **Firemní workshop (261012), není DigiStart, jen z něj vyrostl:** česká pobočka německé firmy (kontakt přes Štěpánku, HR). Nabídku posílá Štěpánka a doplňuje ceny; Lenka dodala obsah. Balíček: 90min představení → 3h workshop (úklid souborů, hlasový profil, koncepty e-mailů, termíny) → 3h navazující workshop s vlastními případy a reporty; podmínka licence Claude (doporučen Team plán). Obsah, licence a seznam příprav → [[digistart-firemni-workshop-osnova]]. Souvisí s otázkou „jednotlivci vs. firmy“ níže.
+
 ## Cíl do konce října 2026 (Lenka 261011, weekly review)
 
 **Příprava DigiStartu má být hotová do konce října, aby se od začátku listopadu daly nasazovat reklamy.** Velká priorita, stejný termín jako závěrečná zpráva z auditu FEKT ([[gnostika-fekt-audit]]).
