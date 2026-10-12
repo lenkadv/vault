@@ -15,11 +15,11 @@ Dvě svatby, jeden rozvod. Jeden obraz, dvě Fridy. A spousta sloves.
 
 Frida Kahlo a Diego Rivera se seznámili v roce 1928, o rok později se vzali, po deseti letech se rozvedli a zhruba o rok nato se vzali znovu. V roce rozvodu namalovala Frida obraz Dvě Fridy. 
 
-Anglicky se dá celý příběh říct jednou větou: „They met, married, got divorced, married again, and Frida painted herself twice.“ Nepravidelná jsou v ní jen dvě slovesa, „met“ a „got“. Ostatní mají „-ed“ (u „marry“ se „y“ změní na „i“). A ta nepravidelná si dělají, co chtějí.
+Anglicky se dá celý příběh říct jednou větou: „They met, married, got divorced, married again, and Frida painted herself twice.“ 
 
-Která slovesa vás v minulém čase zlobí nejvíc? Odkaz na příběh obrazu je v prvním komentáři.
+Víc podrobností (i sloves) je v článku, odkaz je v prvním komentáři.
 
-**První komentář:** [PLACEHOLDER: odkaz na Substack #26, adresa vznikne po naplánování]
+**První komentář:** https://artforenglish.substack.com/p/nic-nevypadlo-thank-you-very-much
 
 **Hashtags:** none
 

@@ -17,3 +17,5 @@ datum: "261005"
 - **Lenčiny úpravy finální verze (Metricool, 5. 10.):** „když nemůže“ → „jestli nemůže“; „tahá za nos“ → „pěkně mate“ (méně ozdobné idiomy); místo mého zvolání „to přece dává smysl! Nedává.“ klidné „to přece dává smysl. Jenže angličtina má jinou logiku“ + pravidlo až za tím (nejdřív česká logika, pak anglická, žádné efektní zvraty); „Bosch by zákazy psát nepotřeboval“ → „Bosch zákazy psát nepotřeboval“ (konstatování místo podmiňovacího způsobu). Sledovat dál, jedna úprava = pozorování.
 
 **Pravidlo:** FB upoutávka = samostatný text pro lidi, kteří nás neznají: Lenčin hlas, nové věty a jiný háček než článek, bez názvů našich sérií, odkaz v prvním komentáři.
+
+- **Výzva ke komentářům na FB upoutávkách se vynechává** (Lenka 261012, #26): příspěvky se podle ní stejně nečtou a jsou „jen pro formu“, takže bez „napište do komentářů“ a bez závěrečné otázky. Konec = krátká věta s odkazem v prvním komentáři. Příspěvek #26 (zvolená verze): úvod ve stylu filmového titulku „Dvě svatby, jeden rozvod. Jeden obraz, dvě Fridy. A spousta sloves.“ + jedna anglická věta se všemi slovesy + odkaz; bez gramatického výkladu.
