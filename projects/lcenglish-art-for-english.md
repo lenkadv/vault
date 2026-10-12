@@ -112,9 +112,10 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Po odeslání #25: finální text z Dripu v `library/episodes/25-bosch/newsletter.md`, porovnání s draftem → lekce (0.1-lessons, ep. 25), kopie do samples, Vydané díly, curriculum ✅ 2026-10-06 — Substack (finální znění v `substack.md`) vychází 6. 10. 14:27; čas epizody do memory `project_task_durations` dopsat ze sezení ve vaultu #online
 - [x] Zapsat čas epizody #25 do memory `project_task_durations` ✅ 2026-10-06 (~110 min ve dvou úsecích; Lenčin vlastní čas v Dripu/na Substacku neznámý)
 - [x] Rekapitulovat a odsouhlasit zadání epizody #26 (Frida Kahlo, past simple — slovesa) ✅ 2026-10-12 — Dvě Fridy, hook Lenčina noc v Mexiku (škorpion, prales, vytřepané boty), prodej v P.S. = Nepravidelná slovesa za 14 dní; riziko autorských práv bere Lenka na sebe; brief + draft v `GrowOS/lcenglish/library/episodes/26-kahlo/`
-- [ ] Doplnit konec příběhu o botách, schválit kanonické věty, doupravit a naplánovat NL #26 v Dripu (odeslání 13. 10.) #next-action #online 📅 2026-10-12
+- [x] Text NL #26 hotový (Lenka upravila v Obsidianu, Claude opravil překlepy a `past perfect` → `past simple`) ✅ 2026-10-12; drafty připraveny: Drip 373098805, Substack https://artforenglish.substack.com/publish/post/220048807, FB koncept v Metricoolu (Tady Lenka, 13. 10. 15:00)
+- [ ] NL #26: vložit thumbnail z Canvy do Dripu a Substacku (jsou tam `[OBRÁZEK]`), ověřit subject, naplánovat v Dripu na út 13. 10., publikovat Substack, doplnit odkaz na Substack do prvního komentáře FB konceptu (Metricool 394141107) a FB naplánovat #next-action #online 📅 2026-10-13
 - [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
-- [ ] Do Substack verze #26 vložit odkaz na díl #17 (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu) — součást zrcadla po naplánování NL #26 v Dripu #next-action #online 📅 2026-10-13
+- [x] Do Substack verze #26 vložit odkaz na díl #17 ✅ 2026-10-12 — vloženo do draftu (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu)
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
 - [x] Substack #25 ✅ 2026-10-05 — Lenka doupravila (tlačítka subscribe + share) a naplánovala na 6. 10.; https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
