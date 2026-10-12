@@ -101,6 +101,15 @@ Hotové máme tři ze čtyř kroků. Zbývá:
 - Vymýšlení faktů: v osobních profilech místo nejistého `[DOPLNIT]`.
 - Skupinová verze se zkouší poprvé; dosavadní zkušenost je z jednoho člověka.
 
+## 7b. Audit slibů v nabídce (261012 večer): co zvládneme a co závisí na firmě
+
+- **Hotové a vyzkoušené (u jedné uživatelky, Štěpánky):** úklid souborů, styl psaní (profily), koncepty e-mailů, vysvětlení „pod pokličkou“, recept na postup.
+- **Dá se postavit, ještě nestojí:** postup „přehled termínů a úkolů“, „report z tabulek“, „druhý pohled před rozhodnutím“, „kde něco chybí“, týdenní přehled pro vedení; ukázková data, scénář, průvodce, návod k zprovoznění. Vše jsou vzory, které umíme (vlastní systém, kurz Build Anything / Agent Skills); chce to postavit a vyzkoušet.
+- **Závisí na firmě, nemáme pod kontrolou:** (1) propojení s firemním Microsoft 365 (souhlas globálního správce, psací nástroje pro koncepty zapíná správce; záložně kopírování nebo klasický Outlook + skript); (2) právo instalovat aplikaci na služební notebook; (3) skripty úklidu jsou pro Windows a PowerShell, firemní zásady mohou spouštění skriptů blokovat, na Macu nefungují; (4) limity Standard místa při 15 lidech zároveň (neověřeno).
+- **Slib, který je potřeba zpřesnit v nabídce:** „odesílá vždy a jen člověk“ platí pro náš postup (skill nikdy neodesílá), ale nemusí platit technicky u konektoru, pokud správce zapne psací nástroje včetně odesílání. Přesnější: „náš postup nic neodesílá, odesíláte vy“ + doporučení odesílání v konektoru nezapínat.
+- **Neověřeno:** jak se sdílí postupy (skilly) v Team plánu napříč týmem (týmový standard); předpoklady Claude Code na čistém firemním notebooku (např. Windows).
+- **Před slibem firmě vyzkoušet:** celý workshop 1 na čistém Windows účtu s omezenými právy (nejlépe jako firemní notebook), s Outlookem a Team místem Standard.
+
 ## 8. Ne do nabídky, až v dalším kroku (HR)
 
 Počet lidí a role, poštovní a kancelářský systém, smějí-li instalovat aplikace, kdo je správce Microsoft 365, pravidla německé centrály. Položí je Štěpánka nebo HR po zaslání nabídky.
