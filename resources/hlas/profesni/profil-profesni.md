@@ -87,6 +87,7 @@ Krátce, věcně a vlídně: jedna věc na odstavec, konkrétní čísla a term�
 - [ ] vy/váš malé; pomlčka „ - “ z klávesnice, žádná „–“ ani „—“; rovné uvozovky "…".
 - [ ] Nejvýš jeden smajlík, žádné emoji; v mailu o penězích nebo problému žádný.
 - [ ] Tučné písmo a body jen v nabídce nebo v odpovědi po bodech.
+- [ ] **Závěr mailu (Lenka 261012):** poslední řádek před podpisem je vždy „Zdraví“ (univerzální); přání („Hezký den!“, „Hezký týden!“) jde před něj jako samostatný řádek s vykřičníkem, nikdy ne poslední před podpisem (kdyby bylo, musela by za ním být čárka). Pak „Zdraví L.“ nebo „Zdraví“ + řádek se jménem. Nepsat „Děkuju“ ani „Hezký den“ jako závěrečnou formuli.
 - [ ] Podpis „Zdraví L.“, automatický podpis nepsat.
 - [ ] Žádné AI obraty (viz [[banka-akademicky]], oddíl 12; „není jen X, je Y“ nejvýš jednou).
 
@@ -198,3 +199,10 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
 - Formát: Claude použil tučné nadpisy položek (markdown) → Lenka je nechala prostým textem „Umělá inteligence, 400 000 Kč (PPSŘ):“. **Pravidlo:** u WhatsAppu nepoužívat markdown (tučné), položky uvést prostým názvem s dvojtečkou.
 - Oslovení/tykání: Claude nabídl tykání a zeptal se; Lenka text napsala tak, že tykání ani vykání nepotřebuje (1. os. mn. č., bez oslovení). **Pravidlo:** u zpráv do skupiny kolegů z komise psát bez přímého oslovení.
 - Beze změny: „Koukla jsem na přílohu“, „Je tam tedy zase vlastní model.“, citace „konstrukci vlastního AI modelu pro plánované výzkumné účely a výuku“, „(PPSŘ)“, „asi 1,9 mil. Kč“, výčet knihovních položek.
+
+**261012, PENTA (Veronika Voříšková), odeslání faktury 426507** (Lenka přepsala koncept)
+- „děkuji za objednávku“ → „děkuji za zaslání čísla objednávky“. **Pravidlo:** poděkovat za konkrétní věc, kterou adresát poslal (číslo objednávky), ne obecně za „objednávku“.
+- Vyškrtnuto „s číslem objednávky 4615001906“ („Fakturu posílám v příloze“); číslo objednávky Lenka nechala i mimo text faktury. **Pravidlo:** číslo, které adresát sám poslal, v odpovědi neopakovat. Pozor: Veronika o fakturu s objednávkovým číslem výslovně žádala, ověřit, že je na faktuře (Claude 261012 upozornil).
+- „všechny konzultace jsou na jedné faktuře“ → „všechny konzultace jsou tam najednou“. Slovo „najednou“ místo „na jedné faktuře“.
+- „Souhrn objednávky najdete zde“ → „Souhrn objednávky a fakturu ke stažení najdete také zde“. **Pravidlo:** odkaz na FAPI přehledovou stránku popsat i jako místo ke stažení faktury a přidat „také“ (příloha je hlavní, odkaz doplňující).
+- Beze změny: „Dobrý den, Veroniko,“, shrnutí v závorce (12 h, 2.800 Kč, 33.600 Kč, splatnost 22. 10.), „Hezký týden!“, „Zdraví L.“.

@@ -55,6 +55,7 @@ Krátce, přímo a s lehkou sebeironií: jedna věc na mail, konkrétní fakta (
 - [ ] Konkrétní údaje (datum, číslo, adresa bytu u správy domu).
 - [ ] Jasná prosba nebo otázka.
 - [ ] Pomlčka „ - “, rovné uvozovky "…", vy/váš malé, nejvýš jeden smajlík.
+- [ ] **Závěr mailu (Lenka 261012):** poslední řádek před podpisem je vždy „Zdraví“ (univerzální, i u cizích a vykání); přání typu „Hezký den!“, „Hezký týden!“ jde před něj jako samostatný řádek s vykřičníkem, nikdy ne poslední před podpisem. Kdyby přání bylo poslední, musela by za ním být čárka („Hezký den,“). Vzor: „Hezký den!“ → „Zdraví“ → „Lenka Dvořáková“ (nebo „Zdraví L.“). Nepsat „Děkuju“ nebo „Hezký den“ jako závěrečnou formuli před podpisem.
 - [ ] Podpis podle polohy („Zdraví L.“ / „Zdraví, Lenka Dvořáková“ / „S pozdravem“ ve stížnosti); když adresát píše o nemoci, „Zdraví a zdraví přeje L.“
 - [ ] Nikdy oslovení samotným příjmením.
 
@@ -147,3 +148,14 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
   - Přidala důvod absence profesora: „the professor will be absent a few times due to other obligations“. **Pravidlo:** novému člověku, který kontext nezná, stačí jedna věta s kontextem, aby rada dávala smysl; vyhýbání se vysvětlování (FuTr, Štěpánka) platí pro lidi, kteří kontext znají nebo se v něm ztrácejí, ne pro nováčka, který se ptá, jak to funguje.
   - Přidala sebeironickou závorku: „(It's my 5th time taking this class, so I have accumulated a bit of experience 😉)“. **Pravidlo:** radu, která zní jako zasvěcená vychytávka („profesor to nečte“), podepřít vlastní zkušeností s lehkou sebeironií a jedním smajlíkem; působí důvěryhodně a ne jako drbání profesora.
   - „he“ → „the professor“; „doesn't read them in detail“ → „doesn't read them (in detail)“ (zjemnění, že zcela nečte). Podpis „L.“ vypustila. **Pravidlo:** zpráva spolužačce v chatu bez podpisu (stejně jako Vítek 261001, Štěpánka 261006); u mailu „L.“ ponechat.
+
+- **261012, Petr Šuman (opravna kufrů, Smíchov, „Dobrý den, pane Šumane,“, vykání), dotaz na cenu výměny koleček** (Lenka poslala vlastní verzi):
+  - „Než za vámi s kufříkem přijdu“ → „Než za vámi s kufříkem vypravím“. Bez zvláštního pravidla, jen její slovo.
+  - Vyškrtnuto „jde o 15 let starý kufřík Samsonite, který je jinak v pořádku, a je potřeba vyměnit dvě kolečka“, zbylo „u tohoto staršího kufříku“ a „obou koleček“. **Pravidlo:** v dalším mailu ve vlákně neopakovat to, co adresát už zná z prvního mailu (značka, stáří, stav); stačí odkaz „tohoto“. Navazuje na „výčty a upřesnění zkracovat“.
+  - „Kolik by oprava přibližně stála?“ → „na kolik by výměna obou koleček … vyšla“ + věta „Mohu vás požádat o rámcový odhad ceny (nová kolečka + práce)?“. **Pravidlo:** u dotazu na cenu u řemeslníka nebo servisu prosit o „rámcový odhad“ a v závorce uvést, co cena zahrnuje (materiál + práce); prosba formou „Mohu vás požádat o…?“.
+  - Vyškrtnuto „Dejte mi prosím vědět.“, mail končí prosbou-otázkou. **Pravidlo:** potvrzuje 261009 (profesní profil): když mail končí přímou otázkou, „Dejte mi prosím vědět“ se vynechá.
+
+- **261012, Petr Šuman (opravna), potvrzení, že přijde** (Lenka poslala vlastní verzi):
+  - „ve středu 14. 10. dopoledne s kufříkem dorazím“ → „dorazím s kufříkem, nejspíš ve středu 14. 10. před polednem“ (psáno „před polednem“, dvě slova; původní „předpolednem..“ byl překlep). **Pravidlo:** u návštěvy bez pevně domluveného času neslibovat jistotu, termín dát nezávazně („nejspíš“); sloveso první („dorazím s kufříkem“), čas až za čárkou. „Před polednem“ není náhrada za „dopoledne“, je to přesnější údaj času (kolem poledne), použít, když se čas dá upřesnit.
+  - Vyškrtnuto „Hezký den!“, mail končí rovnou „Zdraví“ + jméno. **Pravidlo:** u krátké praktické odpovědi (potvrzení, jedna věta) žádné přání před „Zdraví“; přání se dává jen u delšího mailu nebo v pracovních mailech (profil profesní: „Hezký týden!“).
+  - Vyškrtnuto „děkuju“ na konci (zůstalo jen na začátku). Navazuje na pravidlo „děkuje jednou“.
