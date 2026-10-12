@@ -18,6 +18,32 @@ Obsah otázek (z úvodní přednášky, struktura jako u Metodologie I; **forma 
 Varování vyučujícího: nečíst jen k jednomu tématu (např. jen památková péče), projít autory napříč metodami; skripta Kroupy a Wittlicha jsou samozřejmost, **zajímá ho znalost pramenů** (stačí vzorek ~10 stran, jde o způsob uvažování autora); nečíst Gombrichův *Příběh umění* (číst *Umění a iluzi*). Páteř předmětu: formalistická + kulturněhistorická metoda. Otázky se mohou vracet k Metodologii I. **Nezaznělo:** body, hodnocení, docházka, referáty, přesné termíny.
 **Pramenná literatura:** Winckelmann (*Dějiny umění starověku*), Burckhardt (renesance), Wölfflin, M. Dvořák (*Katechismus památkové péče*), Sedlmayr (*Ztráta středu*), Gombrich (*Umění a iluze*), Belting (*Konec dějin umění*), Panofsky (ikonologie, Suger). Skripta: Kroupa *Školy dějin umění* (1. díl jádro), Wittlich (terminologie).
 
+## Požadavky ke zkoušce — znovu ověřeno v nahrávce 5. 10. (261012)
+Slovní znění vyučujícího (přepis nahrávky) potvrzuje a upřesňuje Lenčin popis. Co platí:
+- **Forma:** „kombajnová metoda“: vezme si **10 studentů najednou**, každý **píše osnovu** (odpověď podle své otázky) a vyučující mezitím **střílí doplňující a „žertovné“ otázky**; zkouška „v obdobném duchu jako z Metodologie I“. Slova „ústní“ ani „písemná“ doslova nezazněla. Pro trénink: **psát osnovu, ne přednášet**; odpověď má být postavená tak, aby se dala číst a doptávat. Trvá obvykle **75 minut**, pak přestávka; „promrskáme celou látku“.
+- **Rozdělení na termíny:** první část na prvním termínu, zbylé dvě na druhém (nezapomenout říct, že odcházím a už se nevrátím).
+- **Obsah (3 kroky):** (1) co se z pramenů nejlépe četlo + **druhé téma** přidané vyučujícím (jiná metoda: kulturněhistorická, výtvarná kritika, památková péče); (2) **klíčová osobnost („pardál“)**, vždy někdo z Čechů, Češi po generacích podle Chadraby: nechtít přesná data, ale **v jaké části století a do které generace patří**; (3) **pojem z 18.–20. století**: kdo s ním přišel, co znamená, jak se vyvíjel.
+- **Co se zkouší (důležité):** zkouší „průhledově“ po tematických celcích. Vyučující výslovně řekl, že se **s největší pravděpodobností nebude ptát na literaturu k dějinám umění 18. století** (ta je v přednáškách kontext), ale na **výtvarnou kritiku, představitele formalistické a kulturněhistorické metody, památkovou péči** a podobně. Páteř: **formalistická a kulturněhistorická metoda**. Nové metody umět **spojit s dřívějšími** („změnila se terminologie, jádro myšlenkové konstrukce zůstává“). Zasahuje i do Metodologie I (a do státnic, bakalářských i magisterských).
+- **Literatura:** skripta Kroupa (1. díl) a Wittlich jsou samozřejmost, ptát se na ně nebude. Zajímá ho **pramenná literatura**: Winckelmann (stačí ~10 stran, jde o způsob uvažování; hodí se k formalistické i kulturněhistorické metodě), **Burckhardt** (kulturněhistorická metoda, hvězda první velikosti, jen 1. díl syntézy, česky), **Wölfflin** (formalistická, pozitivista), **Max Dvořák** *Katechismus památkové péče* (přečíst celý), **Sedlmayr** *Ztráta středu* (pro ty, koho táhne 20. století), **Gombrich** *Umění a iluze* (ne *Příběh umění*), **Belting** *Konec dějin umění*, **Panofsky** (minimálně studie o opatu Sugerovi). Čtení jednoho tématu (např. jen památková péče) „nepřežije“. Lenka dostala loni od něj papír s literaturou.
+- **Rozsah semestru:** přes 18. století do 20., meziválečná doba a částečně druhá polovina 20. století; detailně druhá půlka 20. st. až v magisterském cyklu, ale „klíčoví pardálové“ se objeví už teď.
+- **Nezaznělo:** body, hodnocení, docházka, zápočet, přesné termíny.
+
+## Návaznost na Metodologii I (Notebook „Metodologie I“, 8 nahrávek 6. 10.–15. 12. 2025)
+**Kde Metodologie I skončila:** 15. 12. 2025 pozdním manýrismem a barokem (Lomazzo, Zuccari, **Bellori**, **van Mander**, spor poussinistů × rubensistů, **de Piles**, **Baldinucci**, vznik znalecké literatury). Metodologie II začala přesně tam (5. 10. opakování Belloriho, de Pilese, Baldinucciho a van Mandera), proto se na zkoušce mohou ptát na tyto autory i z loňského pohledu.
+| Přednáška M1 | Téma |
+|---|---|
+| 6. 10. 2025 | antické Řecko: technická literatura, kánon (Polykleitos), Platon (mimesis), Aristoteles (techné), decorum (Myrón) |
+| 13. 10. | Řím a helénismus: Vitruvius, Plinius, ekfrasis, paragone, ut pictura poesis, Plotínos |
+| 20. 10. | středověká teorie: Augustin, Boethius (artes liberales × mechanicae), Izidor, ikonoklasmus, tituli |
+| 3. 11. | dílenské příručky (Theophilus, Villard), Suger × Bernard, Dante, Petrarca, Cennini |
+| 10. 11. | rané humanistické traktáty: Villani, Ghiberti, Alberti, Landino, Facio |
+| 24. 11. | pokročilá renesance: Filarete, Francesco di Giorgio, Piero, Pacioli, Leonardo |
+| 1. 12. | manýrismus: Pino, Dolce, Varchi, Michelangelo, **Vasari** (3 etapy, Arti del Disegno) |
+| 15. 12. | baroko: Lomazzo, Zuccari, Bellori, van Mander, Poussin × Rubens, de Piles, Baldinucci |
+**Pojmy z Metodologie I** (u zkoušky M1 příklady pro krok 3: **disegno, maniera, styl, idea**; vývoj termínu v čase): techné · kánon a proporce · decorum · mimesis · krása · ekfrasis · paragone (1546 Michelangelo: společný základ disegno) · ut pictura poesis · artes liberales × mechanicae · tituli a imago · hodnota stáří · electio · disegno (Cennini → Vasari → Zuccari interno/esterno) · maniera (Cennini, Vasari; pejorativně Gilio, Bellori; de Piles individuální rukopis) · invenzione · idea (Lomazzo, Zuccari, Bellori) · styl (Cicero, Quintilianus; do umění 1664 Bellori) · ritrare × imitare. Lenčin soubor `KTF/Absolvované/Metodologie 1/metodologie 1 - termíny.pdf` a Anki `Metodologie1.apkg` jsou na Disku.
+**Pravidla zkoušky M1, která platí i teď:** nesmí se „bouchnout“ ani v jedné ze tří částí (výborná architektura a díry jinde nestačí); u pardála se nechce přesné datum, ale **doba, kdy by se s ním dalo potkat („plně při síle“)**; u pramenů střídání oborů (vybraná architektura → pardál malíř/sochař); termíny zimní i letní.
+**Použití:** M1 karty zatím nemáme v našem balíčku (Lenka je má v Anki Archive); u pojmů, které se vracejí v M2 (styl, maniera, idea, krása, ekfrasis…), karty M2 navazují a ve zpracování přednášky se mají odkazovat na M1.
+
 ## Pokrytí zkoušky
 | Krok zkoušky | Čím je pokrytý | Stav 261007 |
 |---|---|---|
@@ -50,7 +76,7 @@ Varování vyučujícího: nečíst jen k jednomu tématu (např. jen památkov�
 ## Trénink — písemná zkouška nanečisto (cca 45 min, 1× týdně, čas potvrdit s Lenkou)
 Simuluje reálnou zkoušku: individuální otázka, písemná odpověď, vyučující čte a doptává se.
 1. Claude zadá **jednu otázku** (střídat okruhy: pramen + metoda, osobnost, pojem 18.–20. st.) z dosud probraného; každý trénink jiná, jako u zkoušky.
-2. Lenka napíše **písemnou odpověď** (souvislý text, jaký by napsala na papír) sama, bez karet.
+2. Lenka napíše **osnovu odpovědi** (jak by ji psala při zkoušce: hlavní body, jména, data, souvislosti, tak aby se dala číst a doptávat; ne esej) sama, bez karet. Kroky 1–3 zkoušky dostane ideálně všechny tři (jako u zkoušky), jinak jeden po druhém; u pardála jen „doba a generace“, ne přesná data.
 3. Claude se chová jako doc. Kubík: odpověď přečte, **opraví** chyby (proti přepisu přednášky a pramenům), položí **doplňující otázku** (s přesahem do jiné metody nebo do Metodologie I), Lenka písemně doplní.
 4. Výsledek (co sedělo, co chybělo) zapsat do tabulky „Trénink“, slabá místa → nové karty nebo čtení pramene.
 Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek).
@@ -80,6 +106,7 @@ Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek)
 | — | zatím nic | |
 
 ## Otevřené
+- **Důraz karet (261012):** vyučující řekl, že se nejspíš nebude ptát na literaturu k dějinám umění 18. století, ale na metody (formalistická, kulturněhistorická, výtvarná kritika, památková péče), pardály a pojmy. Karty o britských autorech 18. st. (Reynolds, Hogarth, Wren, Essex, Warton, Walpole, Burke/Price), dílenských receptářích a drobných znalcích jsou proto spíš **kontext**; navrhnout Lence, že je označíme tagem `zk_kontext` a při opakování nechá jádro (Winckelmann, Caylus, Hegel, styl–maniéra–vkus, metody, Češi, literatura ke zkoušce) na první místě. Čeká na rozhodnutí.
 - Termíny zkoušky (první termín, dělení na dvě části) — vyučující je zatím neřekl.
 - Čeští historici umění: 12. 10. poprvé Dlabač a Hollar (karty hotové); další čekáme. K „pardálovi“ ze zkoušky patří i životní data podle Chadraby: až bude víc Čechů, zvážit samostatný přehled.
 - Rozpory nahrávka × studijní text (karty mají tag `overit`): Caylus *Sbírka starožitností* 1757 × 1752–1767; Humboldtova reforma univerzity 1800 × 1810; Condorcet 1794 × 1793; Hogarth „polovina 18. st.“ × 1753. Ověřit u pramene nebo se zeptat vyučujícího.

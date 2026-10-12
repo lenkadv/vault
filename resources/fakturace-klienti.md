@@ -118,7 +118,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## David Musil (PENTA)
 
-**Typ:** fakturovat po skončení · **Sazba:** 2 800 Kč/h (platí i pro Lukášika a Vacka) · **Stav 261009:** mail Veronice Voříškové (objednávkové číslo?) připraven, čeká na odeslání
+**Typ:** fakturovat po skončení · **Sazba:** 2 800 Kč/h (platí i pro Lukášika a Vacka) · **Vyfakturováno 261012:** společná faktura PENTA č. 26500 (FAPI, objednávka č. 4615001906, 33 600 Kč = Musil 5 h + Vacek 3 h + Lukášik/Lapeš 4 h, splatnost 22. 10. 2026), tři položky v jedné faktuře; PDF a mail Veronice Voříškové viz [[next-actions]]
 **Plán:** 3–5 hodin
 
 | #   | Datum  | Délka | Poznámka |
