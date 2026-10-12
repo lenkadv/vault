@@ -62,7 +62,7 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 | # | Datum | Gramatika / slovní zásoba | Dílo | Umělec / zdroj | Poznámka |
 |---|---|---|---|---|---|
 | 25 | 6. 10. | mustn't vs. don't have to (nesmíš × nemusíš; upřesněno 2026-10-04) | Zahrada pozemských rozkoší (detail) | Hieronymus Bosch (cca 1500–1505), Prado | Trocha humoru — bizarní pravidla ✅ odesláno 6. 10., subject „Tady se nesmí nic!!!“ (`library/episodes/25-bosch/`) |
-| 26 | 13. 10. | past simple: slovesa (pravidelná + nepravidelná) | Dvě Fridy nebo Zlomený sloup | Frida Kahlo (1939 / 1944), Museo Frida Kahlo | Životní příběh = přirozený past simple |
+| 26 | 13. 10. | past simple: slovesa (pravidelná + nepravidelná) | Dvě Fridy (Las dos Fridas) | Frida Kahlo (1939), Museo de Arte Moderno, Mexico City | **Rozhodnuto 2026-10-12:** Dvě Fridy (ne Zlomený sloup). Hook: Lenčina noc v Mexiku (nedokončený penzion, škorpion, prales). **Dílo NENÍ public domain** (Mexiko 100 let po smrti, správce práv Banco de México Diego Rivera & Frida Kahlo Museums Trust), Lenka bere riziko na sebe (jako u #19). Prodej v P.S.: Nepravidelná slovesa za 14 dní. `library/episodes/26-kahlo/` |
 | 27 | 20. 10. | k upřesnění | k upřesnění | k upřesnění | **Doplněno 2026-10-04:** termín v plánu chyběl (po #26 skákal rovnou na 27. 10.), nejde o pauzu. Díly #27–35 přečíslovány na #28–36, data zůstala. |
 | 28 | 27. 10. | at / on / in (revision) + data | Slovanská epopej (panel) | Alfons Mucha (1910–1928), Slovanská epopej Praha | 28. 10. Den vzniku ČSR |
 | 29 | 3. 11. | quantifiers (revision) | Zátiší | k upřesnění | 2. 11. Dušičky — klidnější téma |
@@ -94,7 +94,7 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 | 10 | Seurat — La Grande Jatte | https://www.artic.edu/artworks/27992 |
 | 11 | Artemisia Gentileschi — La Pittura | https://www.rct.uk/collection/405551 |
 | 12 | Pieter de Hooch — Interiér se ženou | https://www.rijksmuseum.nl/en/collection/SK-C-149 |
-| 18 | Frida Kahlo — Dvě Fridy | Museo Frida Kahlo / Wikimedia Commons (ověřit public domain — díla z r. 1939, autorka zemřela 1954, Mexiko 70 let po smrti = 2024 ✅) |
+| 18 | Frida Kahlo — Dvě Fridy | Museo de Arte Moderno, Mexico City; Google Arts & Culture https://artsandculture.google.com/asset/the-two-fridas-frida-kahlo/zAHG4EZ1WrwVYg. **Opraveno 2026-10-12:** NENÍ public domain (Mexiko chrání 100 let po smrti, Kahlo † 1954), na Wikimedia Commons obraz není; reprodukce z WikiArt na Lenčino riziko |
 | 19 | Alfons Mucha — Slovanská epopej | https://www.nm.cz/slovanskaepopeamucha (nebo Wikimedia Commons) |
 | 22 | Delacroix — Svoboda vede lid | https://www.louvre.fr/en/explore/the-palace/the-louvre-collections |
 | 23 | Bruegel — Sčítání lidu v Betlémě | https://www.fine-arts-museum.be/en/the-collection/pieter-brueghel-i-the-census-at-bethlehem |
