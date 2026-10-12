@@ -46,9 +46,9 @@ Gramatický klíč:
 | Soubor | Popis | Stav |
 |---|---|---|
 | [brief.md](brief.md) | Tento soubor | ✅ |
-| [newsletter.md](newsletter.md) | Newsletter Art for English #26 (Lenčina verze z Obsidianu + opravy překlepů 12. 10.) | ✅ text hotový, Lenka doplní obrázek a naplánuje |
+| [newsletter.md](newsletter.md) | Newsletter Art for English #26 — finální znění = Lenčina verze z Dripu (12. 10. 18:05, včetně gramatického odstavce s *meet - met, get - got*), thumbnail už v Dripu | ✅ text hotový, Lenka naplánuje |
 | Drip draft | broadcast **373098805**, „Nejen pro turisty//Frida Kahlo“, subject „Nic nevypadlo, thank you very much“ (volba Lenky), nenaplánováno, obrázek jako `[OBRÁZEK]` — preview https://www.getdrip.com/broadcasts/373098805/172068aa69e31b1fe4e2d | ⏳ Lenka |
-| Substack draft | https://artforenglish.substack.com/publish/post/220048807 (nepublikováno, obrázek jako `[OBRÁZEK]`, odkaz na #17 vložen, výzva → komentáře, P.S. jako běžný odstavec) | ⏳ Lenka |
+| Substack draft | https://artforenglish.substack.com/publish/post/220048807 (nepublikováno; přepsán 12. 10. na finální znění z Dripu, thumbnail z Dripu bez prokliku, odkaz na #17 vložen, výzva → komentáře, P.S. jako běžný odstavec) | ⏳ Lenka |
 | FB upoutávka | `work/social/a4e-26-kahlo-facebook.md`, Metricool koncept 394141107 (Tady Lenka, 13. 10. 15:00, bez obrázku, první komentář čeká na odkaz) | ⏳ Lenka |
 | kahlo-las-dos-fridas-1939.jpg | Reprodukce, 2206 × 2186 px, 1,8 MB (stažena z WikiArt 2026-10-12 na Lenčin pokyn; není public domain, viz Obraz) | ✅ |
 | nl-thumb.jpg | Thumbnail z Canvy | ⏳ Lenka |
