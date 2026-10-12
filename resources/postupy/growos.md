@@ -57,6 +57,7 @@ GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
   jinak nejpozději na začátku přípravy dalšího newsletteru (dohnat všechny
   neporovnané). Jednorázovou úpravu nezobecňovat — lekce až z opakování nebo když
   je změna zjevně zásadová.
+- **Úpravy Lenky v Obsidianu → učení (od 261012):** Claude před předáním draftu newsletteru (`library/episodes/NN-umelec/newsletter.md`) udělá lokální commit s jeho verzí. Až Lenka řekne „upraveno / finální“, porovná `git diff` s tím commitem (u více kol i mezi mezistavy) a zapíše pozorování do `brain/lessons/0.1-lessons.md`; zobecňuje jen to, co se opakuje. Úpravy rovnou v Dripu Claude přečte přes `get_broadcast` (viz smyčka učení výš). Lenčino „(doplň)“ v textu = pokyn pro Clauda. Před předáním zkontrolovat názvy časů a jiná odborná slova.
 - `/metricool` — draft social postů + otevře Metricool v prohlížeči (potřebuje
   playwright MCP; bez něj copy-paste fallback).
 - `/inbox-review` — Notion Content Inbox → `brain/ideas.md` (lcenglish) /

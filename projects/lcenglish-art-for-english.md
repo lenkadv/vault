@@ -116,6 +116,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] NL #26: finální text schválen a sladěn (Drip 373098805 = newsletter.md = Substack draft 220048807; thumbnail v Dripu je) ✅ 2026-10-12
 - [x] NL #26: Drip naplánován na út 13. 10. ráno, Substack naplánován (https://artforenglish.substack.com/p/nic-nevypadlo-thank-you-very-much) ✅ 2026-10-12
 - [ ] FB k #26: koncept v Metricoolu (Tady Lenka, 13. 10. 15:00, text „Dvě svatby, jeden rozvod…“, thumbnail z Dripu, první komentář s odkazem na Substack; https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-2452399304780397900) — zkontrolovat a naplánovat / zveřejnit #next-action #online 📅 2026-10-13
+- [ ] Po odeslání #26 (13. 10.): finální text z Dripu do `library/episodes/26-kahlo/newsletter.md`, porovnání se zveřejněnou verzí → lekce, kopie do `brain/samples/`, „Vydané díly“, curriculum, Substack zrcadlo ověřit, čas epizody je zapsaný #next-action #online 📅 2026-10-13
+- [ ] Rekapitulovat a odsouhlasit zadání epizody #27 (dílo i gramatika k upřesnění, curriculum) — odeslání 20. 10. #next-action #online 📅 2026-10-19
 - [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
 - [x] Do Substack verze #26 vložit odkaz na díl #17 ✅ 2026-10-12 — vloženo do draftu (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu)
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
@@ -124,7 +126,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 ## Aktuální stav
 
 - **Poslední newsletter:** #25 Bosch, Zahrada pozemských rozkoší (mustn't × don't have to) — odesláno út 6. 10. 2026 7:28 (Drip), Substack 6. 10. 14:27, FB upoutávka 6. 10. 15:00 (Tady Lenka)
-- **Další výstup:** NL #26 — Frida Kahlo, Dvě Fridy (past simple: slovesa), úterý 13. 10. 2026; zadání odsouhlaseno 12. 10., draft hotový, čeká na konec příběhu o botách a Lenčinu finalizaci
+- **Další výstup:** NL #26 — Frida Kahlo, Dvě Fridy (past simple: slovesa): hotovo a naplánováno 12. 10. (Drip út 13. 10. ráno, Substack naplánován, FB koncept v Metricoolu 13. 10. 15:00). Pak NL #27, úterý 20. 10. 2026 (dílo i gramatika k upřesnění).
 - [ ] **Otevřené ze zkoušky skillů (261005):** sada `repurpose-25-bosch` v GrowOS frontě (8 položek, FB 1 a FB 3 přepracovány na obraz + jazyk) — Lenka rozhodne, co dál; zvážit `social-strategy` (zapsat pravidla FB do plánu) — řešit ve vlákně o nastavení GrowOS 2; ~~k rozhodnutí také (261006): `setup.md` Social vs. Metricool~~ **vyřešeno 261006:** Social zůstává `safe-state`, příspěvek se v Metricoolu naplánuje na čas, ale zůstane jako koncept a zveřejní ho Lenka; Ads vyplněno (Meta, safe-state, viz [[lcenglish-10x-english-sales-page]]); Video se zatím nedělá; Support je pevně safe-state, chybí jen ID schránky #next-action #online
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
