@@ -6,6 +6,8 @@ Použij, až se bude dělat nabídka nebo příprava firemního workshopu s Clau
 
 Situace: česká pobočka německé firmy, kontakt přes HR, Claude zatím nepoužívají, licence si mohou vyžádat. Od nás chtějí nabídku.
 
+> **Stav (261012):** nabídku zatím přepracovává Štěpánka a není jisté, jestli a v jaké podobě se s firmou domluví. Seznam příprav v oddílu 6 a audit v 7b jsou **podklad na později, ne next action**. Vrátit se k nim, až firma potvrdí zájem (viz [[waiting-for]]).
+
 ## Rozhodnutí Lenky (261012 večer), platí pro nabídku
 
 - **Workshop běží na skutečných datech:** vlastní složky, koncepty se ukládají přímo do poštovního programu účastníka (u firemního Microsoft 365 s Claude potřebuje souhlas správce). Podmínka je přístup do ostrého prostředí; když nepůjde, poskytneme tréninková data a řekneme, že některé ukázky nebudou zcela autentické. Kopírování textu do chatu jako běžná cesta v nabídce nefiguruje.

@@ -57,7 +57,6 @@ sort by due
 - [ ] Přehledovky: naimportovat do Anki znovu balíčky `01-Klasicismus.apkg` a `11-České_sochařství_1800–1914.apkg` ze složky `C:\Users\Lenka\Documents\pech-work\anki` (opravy 261011: Thorvaldsen, Záboj a Lumír jako dvě karty; opakování v Anki se při importu zachová) → [[prehledovky-pech]]
 - [ ] **Pondělí 12. 10., před hodinou s dr. Štěrbovou:** probrat s ní ústně příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní, mail se nepíše (Lenka 261009) 📅 2026-10-12
 
-- [ ] Firemní AI workshop pro Štěpánku (česká pobočka německé firmy, HR, asi 15 lidí): dodělat postup „přehled termínů a úkolů“, postup „report z tabulek“, krátký návod k zprovoznění před workshopem, tréninková data, scénář a jednostránkového průvodce + úpravy balíčku podle Štěpánčiny zpětné vazby (seznam a pořadí v oddílu 6 → [[digistart-firemni-workshop-osnova]]); k tomu před slibem firmě ověřit: sdílení skillů v Team plánu, Windows × Mac a spouštění skriptů na firemním notebooku, limity Standard místa při 15 lidech, zpřesnit slib „odesílá vždy a jen člověk“ (oddíl 7b); kdy začít, rozhodne Lenka, jistota z firmy přijde přes Štěpánku (viz [[waiting-for]]) → [[digistart]]
 
 ```tasks
 not done
