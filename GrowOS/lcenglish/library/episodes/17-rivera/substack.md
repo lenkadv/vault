@@ -10,6 +10,7 @@ type: Art for English #17 — Diego Rivera, Detroit Industry Murals, past contin
 **Zdroj textu:** odeslaná verze z Dripu (broadcast 982834339, 11. 8. 2026), beze změn kromě pozdravu, podpisu, snippetu a Liquid tvarů (→ plurál)
 **Datum zveřejnění:** Lenka nastaví zpětně na **11. 8. 2026** (Displayed publication date), jako u archivních dílů
 **Draft na Substacku:** https://artforenglish.substack.com/publish/post/220035158 (vytvořen přes Claude in Chrome 2026-10-12, titulek, podtitulek, tělo i obrázek vloženy, **nepublikováno**; publikuje a datum nastavuje Lenka)
+**Publikováno:** Lenka 2026-10-12, datum 11. 8. 2026 — https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
 **Proč vzniká:** v Substack verzi #26 (Frida Kahlo, Dvě Fridy) se na tenhle díl odkáže přímo na Substacku. Odkaz doplním, až bude díl publikovaný a bude znát adresu.
 
 ---

@@ -113,7 +113,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Zapsat čas epizody #25 do memory `project_task_durations` ✅ 2026-10-06 (~110 min ve dvou úsecích; Lenčin vlastní čas v Dripu/na Substacku neznámý)
 - [x] Rekapitulovat a odsouhlasit zadání epizody #26 (Frida Kahlo, past simple — slovesa) ✅ 2026-10-12 — Dvě Fridy, hook Lenčina noc v Mexiku (škorpion, prales, vytřepané boty), prodej v P.S. = Nepravidelná slovesa za 14 dní; riziko autorských práv bere Lenka na sebe; brief + draft v `GrowOS/lcenglish/library/episodes/26-kahlo/`
 - [ ] Doplnit konec příběhu o botách, schválit kanonické věty, doupravit a naplánovat NL #26 v Dripu (odeslání 13. 10.) #next-action #online 📅 2026-10-12
-- [ ] Publikovat zpětně na Substacku díl #17 Rivera (draft už na Substacku: https://artforenglish.substack.com/publish/post/220035158, datum nastavit na 11. 8.) a pak do Substack verze #26 doplnit odkaz na něj #next-action #online 📅 2026-10-13
+- [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
+- [ ] Do Substack verze #26 vložit odkaz na díl #17 (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu) — součást zrcadla po naplánování NL #26 v Dripu #next-action #online 📅 2026-10-13
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
 - [x] Substack #25 ✅ 2026-10-05 — Lenka doupravila (tlačítka subscribe + share) a naplánovala na 6. 10.; https://artforenglish.substack.com/p/tady-se-nesmi-nic
 
