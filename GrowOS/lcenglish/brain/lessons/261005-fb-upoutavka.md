@@ -18,4 +18,4 @@ datum: "261005"
 
 **Pravidlo:** FB upoutávka = samostatný text pro lidi, kteří nás neznají: Lenčin hlas, nové věty a jiný háček než článek, bez názvů našich sérií, odkaz v prvním komentáři.
 
-- **Výzva ke komentářům na FB upoutávkách se vynechává** (Lenka 261012, #26): příspěvky se podle ní stejně nečtou a jsou „jen pro formu“, takže bez „napište do komentářů“ a bez závěrečné otázky. Konec = krátká věta s odkazem v prvním komentáři. Příspěvek #26 (zvolená verze): úvod ve stylu filmového titulku „Dvě svatby, jeden rozvod. Jeden obraz, dvě Fridy. A spousta sloves.“ + jedna anglická věta se všemi slovesy + odkaz; bez gramatického výkladu.
+- **Výzva ke komentářům je na FB upoutávce volba, ne pravidlo** (Lenka 261012, #26): kde vyplývá z tématu, klidně se dává (u #25 i u dalších postů ze sady dávala smysl); u verze „Dvě svatby, jeden rozvod. Jeden obraz, dvě Fridy. A spousta sloves.“ nesedělo, tak skončila jen krátká věta s odkazem v prvním komentáři. Rozhoduje se podle konkrétního postu, nepředpokládat ani výzvu, ani její vynechání. Zvolená verze #26: úvod ve stylu filmového titulku + jedna anglická věta se všemi slovesy + odkaz, bez gramatického výkladu.
