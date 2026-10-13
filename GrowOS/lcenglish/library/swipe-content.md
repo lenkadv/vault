@@ -4,6 +4,16 @@ Zajímavé formáty, přístupy a inspirace od jiných tvůrců. Ne obsah k pře
 
 ---
 
+## 261013 — White Label Comedy (Adam) — „Oh, The Horror...“: úvod „publikum ví, že má problém, jen nemá čas“ + vtipné kreativy jako obrazy
+
+- **Co to je:** Promo newsletter (12. 10. 2026) k AI „marketérovi“ Brianovi, který každý týden dodá 5 nových rámců „Comedy Creative“ (vtipné reklamní kreativy). Mail otevírá úvod, který by fungoval i samostatně, a teprve pak přichází nabídka.
+- **Vzorec úvodu (vlastními slovy):** (1) tři souhlasné věty o publiku: ví, že má problém; ví, že ho chce vyřešit; možná dokonce ví, že ty jsi ten, kdo ho vyřeší. (2) Jenže je zavalené seznamem úkolů „a mile long“ a hasí menší požáry. (3) Ironie: kdyby se na chvíli zastavilo, zjistilo by, že nabídka seznam zkrátí na polovinu a uhasí ty nejhorší požáry. (4) Až potom produkt a výzva „zkus to na další kampani“.
+- **Proč to funguje:** Nepřesvědčuje publikum, že problém má (to ví), ale pojmenuje, proč zatím nejedná: nemá čas, je zavalené. Tu překážku obrátí v argument: nabídka není další položka na seznamu, ale úleva od něj. Čtenář třikrát souhlasně kývne, než přijde „jenže“.
+- **Vzorec k přenesení:** *víš, že máš problém → víš, že ho chceš vyřešit → možná tušíš, že ti s tím pomůžeme → jenže jsi zavalená a nemáš kdy → kdybys se zastavila, zjistíš, že ti to práci ubere, ne přidá.*
+- **Jak použít pro lcenglish:** Úvod pro mail, landing page nebo reklamu k nabídce, kterou si lidé odkládají, protože na ni „nemají čas“ (10x English, Nepravidelná slovesa): nejdřív souhlas („víte, že angličtinu potřebujete“), pak zaneprázdnění, pak nabídka jako úleva, ne další povinnost. DigiStart (jiný projekt, ne lcenglish) má vlastní swipe: [[resources/digistart-swipe]].
+- **Comedy Creatives jako vizuální inspirace (Lenka 261013):** vtipné reklamní kreativy z mailu vypadají podle Lenky jako obrazy, což sedí k její práci (umění a reklama). Nápady, ke kterým se možná vrátíme: (a) lcenglish, obrazový post nebo reklama spojující umění a angličtinu, nejblíž Art for English; (b) tadylenka, vtipný obraz s popiskem jako formát pro sociální sítě (viz [[GrowOS/tadylenka/library/swipe-content]]); (c) DigiStart, vizuál pro reklamu (viz [[resources/digistart-swipe]]). Zatím jen inspirace, nic se nezakládá. Konkrétní vizuály jsou jen v mailu, v textové verzi nejsou.
+- Odkaz: jen v mailu (adam@team.whitelabelcomedy.com), [Gmail – „Oh, The Horror...“ (12. 10. 2026)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878845172598887303) — mail archivovat, ne mazat (Lenka 261013 odebrala štítek Svodka/smazat); produkt Brian: https://adsclub.whitelabelcomedy.com/ (odkaz v mailu). Souvisí: White Label Comedy v [[resources/kurzy-marketing]].
+
 ## 261001 — Laura Belgray (Talking Shrimp) — „Ugh, freeloaders“: poděkování čtenářům, co nic nekupují
 
 - **Co to je:** Newsletterový mail (30. 9. 2026). Čtenář jí napsal, že je „freeloader“, protože nikdy nic nekoupil. Laura odpovídá: kdo čte, je pro ni skoro stejně cenný jako kupující („Well, almost. No, totally.“), pozornost je všechno, a kdo odpovídá, je cenný dvojnásob. Vymezí se proti „bro marketérům“, kteří neplatící čtenáře shazují. Až na konci jemně: kdo chce přispět, může si předplatit její placený Substack.

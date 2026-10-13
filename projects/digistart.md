@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/finances-admin]]
 **Spolupráce:** kolegyně Štěpánka
-**Resources:** [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP · [[AI Black Magic – přehled knihovny 260927]] §1 — materiály z AI Black Magic seřazené podle bloků osnovy (trial končí 27./28. 9. 2026, co chceme, se musí zkopírovat hned)
+**Resources:** [[resources/digistart-swipe]] — swipe pro texty a vizuály kampaně (261013) · [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP · [[AI Black Magic – přehled knihovny 260927]] §1 — materiály z AI Black Magic seřazené podle bloků osnovy (trial končí 27./28. 9. 2026, co chceme, se musí zkopírovat hned)
 
 ## Co to je
 
@@ -121,6 +121,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - **Obsah** je pilotní, nemusí být hotový celý. Pilot = **živá vysílání**, na která se účastníci hlásí. Pevně nastavená jen **první dvě setkání (konzultace)**, další se přizpůsobí tomu, co účastnice budou chtít a potřebovat. Shrnutí nabízeného balíčku.
 - **Hlavní práce je kampaň a systém kolem ní** (mnohem větší úkol než obsah kurzu): nová **Facebooková stránka DigiStart**, přes kterou poběží reklama; **web (landing page) pro DigiStart** s přihlášením; **video** na stránku; **reklama na Facebooku**; **propojka kalendáře**, aby si zájemkyně mohly rezervovat konzultaci před rozhodnutím.
   - *Podklad pro video a videoreklamu (261013):* [[ABM – Higgsfield AI for Beginners]] v Databance — výběr nástroje, rozpočet a hotový postup 15s reklamy. Zatím jen odkaz, až se bude řešit video. AI osoba nesmí vystupovat jako skutečná účastnice (reference jen skutečné).
+  - *Vzor pro úvod landing page, reklamy a e-mailu (261013):* swipe „White Label Comedy — publikum ví, že má problém, jen nemá čas“ v [[resources/digistart-swipe]] (vzorec: víš, že máš problém → chceš ho vyřešit → jenže jsi zavalená → kurz seznam úkolů zkracuje, nepřidává) s návrhem přeformulace pro DigiStart. Včetně nápadu na vtipné reklamní vizuály ve stylu obrazů. Zatím jen odkaz, až se budou psát texty kampaně.
 - **První krok:** zformalizovat jednotlivé kroky, uchopit to jako projekt, říct si, co je potřeba udělat, a rozdělit práci se Štěpánkou.
 
 ## Co je potřeba udělat

@@ -31,7 +31,7 @@ Platí pro všechny hlasy a všechny kanály, i mimo seanci, která psaní zača
 
 Koncepty z Gmail konektoru vznikají v účtu `lnk.dvorakova@gmail.com` a Claude **nemůže změnit odesílatele**. Lenka u klientských a pracovních mailů musí před odesláním přepnout „Od“ na pracovní adresu; odeslání ze soukromého Gmailu nedělá dobrý dojem (261011: odpověď Veronice Voříškové z PENTY odešla nejdřív z Gmailu a Lenka ji přeposlala z pracovní adresy).
 
-**Pravidlo:** kdykoli připravím koncept nebo návrh pracovního mailu, napíšu **hned na první řádek odpovědi (před text konceptu)** výstrahu, např. „⚠️ Odeslat z `lenka@publicspeaking.cz`, ne z Gmailu“. Jednou větou, výrazně, u každého pracovního konceptu znovu. Když je koncept odpověď ve vlákně, které přišlo na Gmail, upozornit zvlášť, že se „Od“ musí přepnout ručně. Když si adresou nejsem jistá, zeptat se, nehádat.
+**Pravidlo:** kdykoli připravím koncept nebo návrh pracovního mailu, napíšu **hned na první řádek odpovědi (před text konceptu)** výstrahu, např. „⚠️ Odeslat z `lenka@publicspeaking.cz`, ne z Gmailu“. Jednou větou, výrazně, u každého pracovního konceptu znovu. **Vždy se symbolem ⚠️ (žlutý trojúhelník s vykřičníkem) na začátku věty, i v pozdějších zmínkách v téže konverzaci, i u krátkého „odešli z …“** (Lenka 261013: bez trojúhelníku to snadno přehlédne). Když je koncept odpověď ve vlákně, které přišlo na Gmail, upozornit zvlášť, že se „Od“ musí přepnout ručně. Když si adresou nejsem jistá, zeptat se, nehádat.
 
 | Komu / o čem | Odeslat z |
 |---|---|
