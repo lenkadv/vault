@@ -21,9 +21,37 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 6   | 260922–260924 | — (dny v Brně, bez hodinové evidence) | V Brně — řešit fakturačně se Štěpánkou zvlášť |
 | 7   | 260925 | 1 h 43 min | Uspořádání podkladů na SharePointu GNOSTIKA — mapa dokumentů, 12 souhrnů rozhovorů z Voicenotes na Disk, nová struktura podle oddělení, 17 souhrnů jako .docx, MAPA PODKLADŮ.xlsx, mail Štěpánce, úpravy mapy (11:54–13:37) |
 | 8   | 260929 | 47 min | SharePoint FEKT VUT Brno s novým oprávněním — struktura 00–05, 99 zkopírována o patro výš, zařazeny Štěpánčiny neuložené zápisy (správa budov 18. 8., personální), Agendy OSA, složka 05 Smlouvy a obchod, aktualizace mapy, mail Štěpánce (12:01–12:48) |
-| 9   | 261006 | 50 min | SharePoint FEKT VUT Brno — rozdíl staré složky vs. nová struktura, zařazení hromady (snímek pracovního dne, zpráva o ekonomickém řízení), Apollo seznam od Rychteckého a 8 sald od Hruškové z mailu, přegenerovaná mapa podkladů (list Chybí přepsán pro Štěpánku), text zprávy Štěpánce (11:24–12:14) |
+| 9   | 261002 | 2 h 30 min | **Web GNOSTIKY o personálních a procesních auditech** (nabídka pro další organizace, vzor = audit FEKT): research konkurence, 3 náčrty, vybrán směr „Víte, kdo u vás co dělá?“, stavba v Leadpages pod heslem + noindex, mail Štěpánce s odkazem a PDF (13:15–15:45, cloudové vlákno) → [[projects/gnostika-web-audit]] |
+| 10  | 261003 | 13 min | Podklady FEKT: Apollo xlsx od Rychteckého nahrán na SharePoint (21:12–21:25) |
+| 11  | 261006 | 50 min | SharePoint FEKT VUT Brno — rozdíl staré složky vs. nová struktura, zařazení hromady (snímek pracovního dne, zpráva o ekonomickém řízení), Apollo seznam od Rychteckého a 8 sald od Hruškové z mailu, přegenerovaná mapa podkladů (list Chybí přepsán pro Štěpánku), text zprávy Štěpánce (11:24–12:14) |
+| 12  | 261009–261011 | — (dny v Jičíně, bez hodinové evidence) | Víkend u Štěpánky v Jičíně: DigiStart, audit FEKT, web GNOSTIKY o auditech (rozhovor, odpočinek); sdílí se s evidencí DigiStart níž |
+| 13  | 261011 | cca 45 min | SharePoint `FEKT VUT Brno` po Štěpánčině přesunu: `Neutříděná hromada` zařazena a vyprázdněna, zip od paní Hruškové (74 MB) rozbalen do 03/03, duplicity do koše, mapa podkladů přegenerována (88 souborů) a koncept i odeslání mailu Štěpánce „co ještě chybí od paní Hruškové“ (20:00–20:55, blok denního vlákna 20:07–20:55 je smíšený s PENTOU a Londýnem, uvedeno jako odhad) |
+| 14  | 261013 | 1 h 27 min | Osnova závěrečné zprávy z auditu FEKT: lokální kopie SharePointu na Disku + převod na text, přepis skenů místním OCR (čeština), Statut a Organizační řád (intranet), prošlá nabídka, smlouva, mapa, průběžné výstupy a souhrny rozhovorů, návrh osnovy se slepými místy, Google Doc pro Štěpánku, nasdíleno Lenkou (13:37–15:04; blok v kalendáři upraven ze 12:15–14:15 na skutečný čas) |
+
+**Součet práce na počítači k 261013 (bez dnů v Brně a Jičíně):** audit FEKT 11 h 32 min (řádky 1, 2, 5, 7, 8, 10, 11, 13, 14) + web GNOSTIKY o auditech 2 h 30 min (řádek 9) = **14 h 02 min**. Fakturace se nedělá po hodinách, evidence slouží Lence a případně Štěpánce jako přehled.
 
 **Vyfakturováno (během pobytu v Brně 22.–24. 9. 2026):** první faktura GNOSTIKA — 50 000 Kč (neplátce DPH). Co přesně pokrývá (dny v Brně / hodiny výše), číslo faktury a splatnost — doplnit.
+
+---
+
+## DigiStart a práce pro Štěpánku (mimo audit FEKT)
+
+**Typ:** vlastní přehled odvedené práce pro Lenku a případně Štěpánku Uličnou, **nefakturuje se po hodinách**. Kurz DigiStart a firemní workshop připravuje Lenka se Štěpánkou, obsah a podklady dělá Lenka s Claudem. Kontext: [[projects/digistart]], [[resources/digistart-firemni-workshop-osnova]].
+**Zdroj údajů:** bloky v Todoist kalendáři (skutečné časy) a daily (Průběh dne). Dny fyzicky se Štěpánkou (Jičín) jsou jen jako rozsah dní, stejně jako dny v Brně.
+
+| #   | Datum  | Délka     | Akce |
+| --- | ------ | --------- | ---- |
+| 1   | 260915 | 1 h 07 min | Založení projektu DigiStart: výzkum databáze rekvalifikací (ÚP), formální podmínky, osnova, persona (12:28–13:35) |
+| 2   | 260930 | 2 h 09 min | Náplň kurzu: osnova komerčního pilotu podle skillu curriculum-design, varianty A a B, dokument pro Štěpánku (Claude + Word mailem) (12:39–14:48) → [[resources/digistart-pilot-osnova]] |
+| 3   | 261006 | 1 h | Webinář BotBuilders: uložení děkovací stránky, handoutů a screenshotu, dárky PDF do Databanky (18:42–19:42) |
+| 4   | 261006 | 1 h | Rozbor webináře BotBuilders do Databanky (struktura, nabídka, co vzít a nebrat), nápady pro DigiStart, plugin vs skilly (20:38–21:38; webinář samotný 19:42–20:38 se nepočítá) |
+| 5   | 261009 | 45 min | Balíček pro víkend se Štěpánkou: web o auditech, prompt a skripty na soubory, skilly pro hlasové profily, psaní textů a koncepty odpovědí, průvodce propojením Outlooku (13:35–14:20) → [[resources/digistart-balicek-stepanka]] |
+| 6   | 261009–261011 | — (dny v Jičíně, bez hodinové evidence) | Víkend se Štěpánkou: zkušební průchod balíčkem a DigiStart (její zpětná vazba z 11. 10. v [[resources/digistart-balicek-stepanka/05-zpetna-vazba-zkusebni-pruchod-261011]]), audit FEKT, odpočinek |
+| 7   | 261012 | 1 h 45 min | Firemní AI workshop pro Štěpánku (vyrostl z DigiStartu, není DigiStart): osnova balíčku, licence Claude Team, text nabídky v Google Docu, podklad [[resources/digistart-firemni-workshop-osnova]] (19:47–21:32); dodatek 23:57–23:59 (komentáře k PDF nabídce) |
+
+**Součet práce na počítači k 261013:** DigiStart 6 h 01 min (řádky 1–5) + firemní workshop 1 h 45 min (řádek 7) = **7 h 46 min**. S auditem FEKT a webem GNOSTIKY (12 h 35 min, viz výš) je to pro Štěpánku celkem **20 h 21 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně.
+
+**Nezapočteno (související, ale ne přímo pro Štěpánku):** stažení a třídění knihovny AI Black Magic (27. 9., část materiálů seřazena podle bloků osnovy DigiStartu, [[AI Black Magic – přehled knihovny 260927]] §1), studium kurzů Coursera (4. a 11. 10., zdroje k osnově), podklady v [[resources/digistart-podklady]] vznikající průběžně při svodkách (260930) a swipe pro kampaň (13. 10., [[resources/digistart-swipe]]). Plánovaný blok „DigiStart dovednosti“ 16. 9. 17:45–18:30 **neproběhl** (smazán z kalendáře, Lenka četla jiné věci), proto v tabulce není. Příští bloky: st 14. 10. 14:30–16:30 projektový plán kampaně, pá 16. 10. 14:00–16:00 rozdělení práce se Štěpánkou.
 
 ---
 
@@ -45,13 +73,17 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 ## TANDEM
 
 **Typ:** faktura 2× ročně (konec června + prosinec), 750,- Kč/hod (90 min = 1 125 Kč, 120 min = 1 500 Kč dle sazebníku od 9/2025)
+**Co se zapisuje (Lenka 261013):** jen datum, trasa (SM, MS, Hrad…), škola nebo místo a délka, protože od délky se odvíjí cena. Počet studentů, věk ani úroveň se nezapisují.
 
 ### K fakturaci (prosinec 2026)
 
 | #   | Datum  | Délka | Cena     | Akce                                            |
 | --- | ------ | ----- | -------- | ------------------------------------------------ |
-| 5   | 260916 | 1,5 h | 1 125 Kč | MS — SŠ Rožnov (17 studentů, 18-19 let, B1-B2) |
-| 6   | 260930 | 1,5 h | 1 125 Kč | Hrad — OA Mladá Boleslav (s Davidem, 9:00–10:30) |
+| 5   | 260916 | 1,5 h | 1 125 Kč | MS — SŠ Rožnov |
+| 6   | 260921 | 1,5 h | 1 125 Kč | Kralupy — Lví dvůr, Kafe a hrnky (10:00–11:30, proběhlo podle plánu, Lenka 261013; doplněno podle kalendáře) |
+| 7   | 260930 | 1,5 h | 1 125 Kč | Hrad — OA Mladá Boleslav (s Davidem, 9:00–10:30) |
+| 8   | 261013 | 1,5 h | 1 125 Kč | MS — Gym Nové Strašecí (10:30–12:00, proběhlo) |
+
 ### Proplaceno (červnová faktura 2026)
 
 | #   | Datum  | Délka | Cena     | Akce                    |

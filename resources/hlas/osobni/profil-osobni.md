@@ -58,6 +58,7 @@ Krátce, přímo a s lehkou sebeironií: jedna věc na mail, konkrétní fakta (
 - [ ] **Závěr mailu (Lenka 261012):** poslední řádek před podpisem je vždy „Zdraví“ (univerzální, i u cizích a vykání); přání typu „Hezký den!“, „Hezký týden!“ jde před něj jako samostatný řádek s vykřičníkem, nikdy ne poslední před podpisem. Kdyby přání bylo poslední, musela by za ním být čárka („Hezký den,“). Vzor: „Hezký den!“ → „Zdraví“ → „Lenka Dvořáková“ (nebo „Zdraví L.“). Nepsat „Děkuju“ nebo „Hezký den“ jako závěrečnou formuli před podpisem.
 - [ ] Podpis podle polohy („Zdraví L.“ / „Zdraví, Lenka Dvořáková“ / „S pozdravem“ ve stížnosti); když adresát píše o nemoci, „Zdraví a zdraví přeje L.“
 - [ ] Nikdy oslovení samotným příjmením.
+- [ ] **Chat a sdílený dokument (Vítek, Štěpánka, spolužačka; Lenka 261013): bez oslovení a bez podpisu**, rovnou věcně; v dokumentu věcné neutrální nadpisy.
 
 ## Čtyři polohy
 
@@ -159,3 +160,13 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
   - „ve středu 14. 10. dopoledne s kufříkem dorazím“ → „dorazím s kufříkem, nejspíš ve středu 14. 10. před polednem“ (psáno „před polednem“, dvě slova; původní „předpolednem..“ byl překlep). **Pravidlo:** u návštěvy bez pevně domluveného času neslibovat jistotu, termín dát nezávazně („nejspíš“); sloveso první („dorazím s kufříkem“), čas až za čárkou. „Před polednem“ není náhrada za „dopoledne“, je to přesnější údaj času (kolem poledne), použít, když se čas dá upřesnit.
   - Vyškrtnuto „Hezký den!“, mail končí rovnou „Zdraví“ + jméno. **Pravidlo:** u krátké praktické odpovědi (potvrzení, jedna věta) žádné přání před „Zdraví“; přání se dává jen u delšího mailu nebo v pracovních mailech (profil profesní: „Hezký týden!“).
   - Vyškrtnuto „děkuju“ na konci (zůstalo jen na začátku). Navazuje na pravidlo „děkuje jednou“.
+
+- **261013, Štěpánka Uličná (Google Doc: formální osnova + „Poznámky pro Štěpánku“, tykání)** (Lenka upravila přímo v dokumentu):
+  - Vyškrtnuto „Ahoj Štěpánko,“ i závěrečné „Zdraví L.“, věty „Dokument má dvě části“ a „pro Štěpánku Uličnou a dál se neposílají“ (zbylo „Část II jsou pracovní poznámky“). **Pravidlo:** sdílený dokument nemá oslovení ani podpis a nepopisuje, komu a jak se šíří; úvod rovnou k věci (potřetí po Vítkovi 261001 a spolužačce 261009 → povýšeno do kontrolního seznamu).
+  - Nadpisy „Co jsem takhle rozhodla“ → „Rozhodnutí ke struktuře“, „Na co jsme narazily“ → „Upozornění na otevřené věci“. **Pravidlo:** nadpisy v dokumentu věcné a neutrální, ne v 1. osobě a ne konverzační.
+  - „dělám jako samostatný materiál“ → „navrhuju jako samostatný materiál“. **Pravidlo:** co druhá strana teprve schvaluje, psát jako návrh, ne jako hotové rozhodnutí.
+  - U ústavů mi chybělo „proč“ a volba: „Napíšeme to jako omezení a zároveň jako doporučený další krok. Když budeš…, nešlo by si říct o schůzku“ → „Je to tedy omezení, můžeme to doporučit jako další krok, pokud by o to stáli (problémy komunikace děkanát x ústavy se ozývají opakovaně. Nic s tím neuděláme.) Případně… můžeš zkusit si říct o schůzku…, abychom tam tenhle úhel aspoň trochu měli.“ **Pravidlo:** doporučení dávat klientovi jako nabídku („pokud by o to stáli“), u prosby uvést účel („abychom tam ten úhel aspoň trochu měli“), prosbu psát „můžeš zkusit“, ne „nešlo by“; věcná, mírně suchá poznámka je v pořádku.
+  - „bez osobních emocí“ → „neuvádíme osobní emoce“; „zapracujeme“ → „zapracuju“, „Pošlu ti naplněnou verzi“ → „pošlu ti “naplněnou” verzi“ (uvozovky a spojená věta). **Pravidlo:** práci, kterou dělá ona (Claude za ni), psát v 1. osobě jednotného čísla; „my“ jen u společné práce.
+  - Termín: „Chtěla bych to zkompletovat do konce příštího týdne, do pátku 23. 10.“ → „Za mě je reálné to zkompletovat do konce příštího týdne (do pátku 23. 10.)“. **Pravidlo:** termín jako konstatování z její strany („Za mě je reálné…“), datum v závorce, ne přání.
+  - „Ekonomickou část vlastní Terka. Pokud půjde část dat zpracovat… nabídla bych“ → „Ekonomickou část bude mít, předpokládám, Terka. Můžu část dat zpracovat…“. **Pravidlo:** za jinou osobu nic neurčovat („předpokládám“), a co umí, říct jistě („Můžu“), ne podmíněně.
+  - Ve formální části: „jsou neoficiální dokument“ → „budou neveřejný dokument“. **Pravidlo:** dokument, který teprve vznikne, ve futuru; „neveřejný“ místo „neoficiální“.
