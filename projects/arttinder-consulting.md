@@ -8,7 +8,7 @@ Freelance art consulting pro Michala Kociána (klient z F2F koučinku): pomoc s 
 
 260920: po odložení do someday (260910) dohodnuto pokračování. Schůzka s Michalem Kociánem ve čtvrtek 24. 9.
 
-260924: schůzka proběhla (sada otázek). Schůzka st 7. 10. 2026 17:00 proběhla jen spolu (vycházka odpadla, 5. hodina balíčku). Další schůzka **út 13. 10. 2026 17:00** (v kalendáři); v neděli 11. 10. ověřit počasí, jestli bude vycházka, nebo jen setkání.
+260924: schůzka proběhla (sada otázek). Schůzka st 7. 10. 2026 17:00 proběhla jen spolu (vycházka odpadla, 5. hodina balíčku). Schůzka út 13. 10. 2026 17:00 proběhla jen jako setkání (bez vycházky). Další schůzka **út 20. 10. 2026 17:00** (v kalendáři); v neděli 18. 10. ověřit počasí, jestli bude vycházka, nebo jen setkání.
 
 **Sada otázek na schůzku:** [Google Doc](https://docs.google.com/document/d/1OHPiSk_C1f_VRUFiTVSEEO4R4Y8xF-sxqz5vI3NGkYM/edit?tab=t.0) (záměr a vztah k umění, vkus, prostor domu, rozpočet, proces).
 
@@ -20,7 +20,8 @@ Freelance art consulting pro Michala Kociána (klient z F2F koučinku): pomoc s 
 - [x] Schůzka s Michalem Kociánem st 7. 10. 17:00 — jen schůzka spolu (vycházka odpadla, Michal 261004) #next-action #online ✅ 2026-10-07
 
 - [x] V neděli 11. 10. ověřit předpověď na út 13. 10. 17:00 ✅ 2026-10-11 — předpověď: 15 °C, sucho, slabý vítr → na vycházku příznivé; Lenka to Michalu Kociánovi napsala sama, čeká se na jeho odpověď (→ [[waiting-for]])
-- [ ] Schůzka s Michalem Kociánem út 13. 10. 17:00–18:00 (vycházka, nebo jen spolu podle jeho odpovědi; v kalendáři) #next-action #online 📅 2026-10-13
+- [x] Schůzka s Michalem Kociánem út 13. 10. 17:00–18:00 ✅ 2026-10-13 — proběhla jen jako schůzka, bez vycházky (Lenka 261014); 6. hodina nového balíčku
+- [ ] Schůzka s Michalem Kociánem út 20. 10. 17:00–18:00 (v kalendáři; vycházka, nebo jen spolu podle jeho odpovědi, předpověď prověřit v neděli 18. 10.) #next-action #online 📅 2026-10-20
 
 ## Podklady (převzato ze someday-maybe)
 

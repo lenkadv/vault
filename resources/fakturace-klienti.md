@@ -107,6 +107,9 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 13  | 260917 | no-show 3. hodina — Michal v Egyptě, zapomněl seanci zrušit |
 | 14  | 260924 | ✓ — 4. hodina nového balíčku (10 h)                         |
 | 15  | 261007 | ✓ — 5. hodina nového balíčku (10 h), schůzka bez vycházky (17:00–18:00) |
+| 16  | 261013 | ✓ — 6. hodina nového balíčku (10 h), jen schůzka, bez vycházky (17:00–18:00; potvrdila Lenka 261014) |
+
+**Fakturace balíčku (Lenka 261014):** Michal Kocián chtěl fakturu předem, takže vyfakturovat dřív, než se vyčerpá všech 10 hodin (zbývají 4: 20. 10., 27. 10., 3. 11. a 10. 11., pokud budou schůzky každý týden). Úkol v [[next-actions]].
 
 ### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
 
