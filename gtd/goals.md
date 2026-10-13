@@ -20,7 +20,7 @@
 ## studies
 → [[areas/studies]] · [[areas/slepekure]]
 - Nový semestr začíná — žádné další zkoušky tento kvartál (další kolem Vánoc)
-- **Rozhodnout téma bakalářky (Vojtěch/slepekure vs. nové téma z Male Gaze) — do konce října 2026.** Čeká se na zpětnou vazbu k seminárce Male Gaze. Deadline nutný kvůli navazujícímu psaní a plánovanému odjezdu do Vídně (jaro 2027) — bakalářka má být před odjezdem víceméně hotová.
+- **Rozhodnout téma bakalářky (Vojtěch/slepekure vs. nové téma z Male Gaze) — do konce října 2026.** Zpětná vazba vyučující přišla 261014 (Vojtěch nosný a bezpečný, Male Gaze riskantní) → [[decisions/260823-bakalarka-slepekure-pending]]. Deadline nutný kvůli navazujícímu psaní a plánovanému odjezdu do Vídně (jaro 2027) — bakalářka má být před odjezdem víceméně hotová.
 - Bakalářka — psaní začíná po rozhodnutí tématu, cíl: hotovo/blízko hotovo před odjezdem do Vídně
 
 ## family a vztahy

@@ -49,6 +49,7 @@ sort by due
 ---
 
 ## @online
+- [ ] ⚠️ Odeslat Marii Vymazalové doptání k Male Gaze ze školní adresy `dvoralen@ktf.cuni.cz` (ne z Gmailu); finální text je v [[decisions/260823-bakalarka-slepekure-pending]]. Pokud už odesláno, smazat; ideálně před čtvrtkem 15. 10. 📅 2026-10-15
 - [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) 📅 2026-10-31
 
 - [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
