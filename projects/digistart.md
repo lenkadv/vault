@@ -120,6 +120,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 **Co má být hotové (shrnutí toho, k čemu Lenka došla se Štěpánkou o víkendu 10.–11. 10.):**
 - **Obsah** je pilotní, nemusí být hotový celý. Pilot = **živá vysílání**, na která se účastníci hlásí. Pevně nastavená jen **první dvě setkání (konzultace)**, další se přizpůsobí tomu, co účastnice budou chtít a potřebovat. Shrnutí nabízeného balíčku.
 - **Hlavní práce je kampaň a systém kolem ní** (mnohem větší úkol než obsah kurzu): nová **Facebooková stránka DigiStart**, přes kterou poběží reklama; **web (landing page) pro DigiStart** s přihlášením; **video** na stránku; **reklama na Facebooku**; **propojka kalendáře**, aby si zájemkyně mohly rezervovat konzultaci před rozhodnutím.
+  - *Podklad pro video a videoreklamu (261013):* [[ABM – Higgsfield AI for Beginners]] v Databance — výběr nástroje, rozpočet a hotový postup 15s reklamy. Zatím jen odkaz, až se bude řešit video. AI osoba nesmí vystupovat jako skutečná účastnice (reference jen skutečné).
 - **První krok:** zformalizovat jednotlivé kroky, uchopit to jako projekt, říct si, co je potřeba udělat, a rozdělit práci se Štěpánkou.
 
 ## Co je potřeba udělat

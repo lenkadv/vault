@@ -55,6 +55,7 @@ Tělo: `# Název`, „Použij, až:“, jedna věta popisu, odkaz `[Otevřít so
 | Zdroj | Staženo | Položek | Složka |
 |---|---|---|---|
 | AI Black Magic | 260927 | 147 | `Databanka AI/AI Black Magic 260927` |
+| AI Black Magic – nové volné tutoriály z e-mailů (konektor už není) | 261013 | 1 (Higgsfield AI for Beginners) | `Databanka AI/AI Black Magic 261013`; poznámka `ABM – …` do `resources/databanka/AI Black Magic/`. Technika: `/free/<název>/view` je obal, text je v iframe (`srcdoc`); zdrojové HTML leží na `aiblackmagic.com/media/editor-content/….html` (odkaz vyčíst z `a[href]` v iframe), stáhnout curl |
 | Nainstalované nástroje (skilly, konektory, aplikace) | 260929 | 137 | složky `GrowOS/`, `Jon Benson/`, `Impeccable/`, `UI-UX Pro Max/`, `Productivity Pack/`, `Anthropic/`, `Vlastní/`, `Služby a aplikace/` (jen mapa, soubory jsou nainstalované) |
 | Anthropic Academy | 260929 | 1 (kurz Introduction to Agent Skills, 6 lekcí) | `Databanka AI/Anthropic Academy 260929` |
 | Coursera – Build Anything with AI | 261004 | 1 (kurz Jules White, 22 videí; poznámky po lekcích ve vaultu `resources/coursera-build-anything-with-ai/`, přepisy videí stahuje Lenka sama oficiálním tlačítkem Files → Transcript) | `Databanka AI/Coursera Build Anything with AI 261004` |
