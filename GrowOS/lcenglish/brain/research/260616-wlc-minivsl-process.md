@@ -1,4 +1,4 @@
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Training notes:** [[260616-wlc-minivsl-training]] | **Mentor notes:** [[260616-wlc-minivsl-mentor-notes]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Training notes:** [[260616-wlc-minivsl-training]] | **Mentor notes:** [[260616-wlc-minivsl-mentor-notes]]
 
 ---
 

@@ -20,7 +20,7 @@ Bezplatný newsletter „Dějiny umění: V nejlepších letech" pro kulturně a
 Nekonzistence. Obsah je kvalitní, ale vychází nárazově. Řešení nastavené 260909:
 jeden pevný formát (Substack článek á 14 dní, tři rotující rubriky, pátek) +
 seřazená fronta námětů (banka `library/content-bank/` přes `Content Bank.base` →
-runway v [[projects/tadylenka-publishing]]), aby další krok byl vždy předem daný.
+runway v `projects/tadylenka-publishing` (projekt ve vaultu)), aby další krok byl vždy předem daný.
 Úspěch se měří pravidelností, ne dosahem.
 
 ## Our focus channels and why

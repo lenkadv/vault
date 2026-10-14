@@ -88,3 +88,7 @@ Platí pro všechny publishing projekty: [[tadylenka-publishing]], [[lcenglish-a
 - IG carousel a Substack Notes = **pozdější fáze**, ne teď. Zváží se při sprint review, až bude článková kadence zajetá.
 - Recenze výstav a vlajkový esej běží nezávisle, bez rozvrhu (recenze navázané na studium).
 - Cílové tempo, ne bič — laťka nízko schválně, při nárazu jiné práce se díl posune. Reálný čas na díl → `memory/project_task_durations.md`. Sezónní kalendář nárazů viz [[projects/tadylenka-publishing]].
+
+## Nový byznys: hlídání otevřených rozhodnutí (261014)
+
+GrowOS `[PLACEHOLDER]` sám nehlídá. U každého nově založeného byznysu: sekce „Open decisions“ nahoře v `GrowOS/<byznys>/brain/decisions.md` (kdo rozhoduje), jeden `#next-action` v projektu ve vaultu, který na ni odkazuje, a poznámka v `brain/memory/MEMORY.md`, ať se čte na začátku práce. Rozhodnutí podávat Lence po jednom. Rozhodnuté zapsat jako dated entry, doplnit placeholder, řádek smazat. Paměť `feedback_growos_placeholders_hlidat`.

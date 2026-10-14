@@ -6,7 +6,7 @@
 
 Páteř publikování (od 260909): **jeden článek á 14 dní, tři rotující rubriky** —
 Ženy v obraze → Co vidíš? Tak vidíš! → Všichni svatí, dokola. 800–1200 slov, den
-vydání **pátek**. Námět je předem v runway ([[projects/tadylenka-publishing]]),
+vydání **pátek**. Námět je předem v runway (`projects/tadylenka-publishing` (projekt ve vaultu)),
 vybraný z banky `library/content-bank/` (pohled `Content Bank.base` → „Tři
 rubriky"; schéma `library/content-bank/_SCHEMA.md`). Detail a měřítko úspěchu
 (pravidelnost, ne dosah) viz [[decisions]] 2026-09-09.
@@ -16,7 +16,7 @@ rubriky"; schéma `library/content-bank/_SCHEMA.md`). Detail a měřítko úspě
 3. Revize — zkontrolovat: žádné mission statements, žádné sebeshazování, humor se nepojmenovává, žádné moralizování, žádné fragmenty.
 4. Publikovat na Substack.
 5. V souboru v content-banku nastavit `status: used` + `datum_pouzito`.
-6. Aktualizovat „Vydané díly" a runway v [[projects/tadylenka-publishing]] (next-action advancement).
+6. Aktualizovat „Vydané díly" a runway v `projects/tadylenka-publishing` (projekt ve vaultu) (next-action advancement).
 
 ### IG carousel a Substack Notes — pozastavené (od 260909)
 

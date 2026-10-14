@@ -6,7 +6,7 @@ project: repurpose-25-bosch
 platform: instagram
 intent: teach
 id: kwvdylo489
-status: review
+status: rejected
 business: lcenglish
 channel: social
 created: 2026-10-05

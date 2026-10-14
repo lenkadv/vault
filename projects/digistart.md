@@ -144,6 +144,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 - [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit fakturaci, upomínky, upoutávky a CRM pro DigiStart; když to nepůjde rychle, jít cestou ruční faktury z Fakturoidu nebo přes Lenčino FAPI (navržený limit st 21. 10., čeká na Lenčino potvrzení) #next-action #online
 
+- [ ] Projít seznam otevřených rozhodnutí DigiStartu (sekce „Open decisions“ v `GrowOS/digistart/brain/decisions.md`: termín začátku, obsah setkání, konzultace, platba, DPH a právní ověření, cena po pilotu, Štěpánčin hlas a souhlas, domény a účty) a co je rozhodnuto, zapsat tam a odškrtnout; přidala Lenka s Claudem 261014 při založení byznysu v GrowOS #next-action #online
+
 ### Obsah kurzu
 - [x] Vymyslet náplň kurzu (Lenka sama) — návrh pilotu hotový ([[digistart-pilot-osnova]]), Štěpánce sdílen v Claude a poslán mailem jako Word ✅ 2026-09-30
 - [ ] Se Štěpánkou projít návrh náplně, doladit podle persony (žena 40+, chce lektorky svého věku, ne mladého "experta" chrlícího termíny) a rozhodnout jednotlivci vs. firmy #online

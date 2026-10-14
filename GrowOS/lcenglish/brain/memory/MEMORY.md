@@ -63,6 +63,7 @@ pointer to it here — so this file stays short and quick to load.
 
 ## Notes
 
+- **Seanci pro GrowOS vždy otevírat ve složce `GrowOS`, ne `GrowOS/lcenglish`** (261014). Jen tam běží hlídač, který novým souborům v `work/` sám doplní id, stav a datum. V seanci otevřené hlouběji zůstanou nové soubory bez razítka a Doctor je hlásí jako chybu (stalo se u šesti příspěvků o Fridě Kahlo).
 - **"Todoist kalendář" = Google Calendar s názvem "Todoist"** (id:
   `d0cf3065decc1cb2fe038fcefe927aa76e4896534f469afa6667eadbfb891110@group.calendar.google.com`),
   ne samostatný Todoist konektor. Google Calendar MCP je připojený v GrowOS

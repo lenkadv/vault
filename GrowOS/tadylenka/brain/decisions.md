@@ -4,12 +4,15 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto-publishing, HANDOFF au
 
 ---
 
+## [PLACEHOLDER: YYYY-MM-DD]
+[PLACEHOLDER: what you decided, and the reason behind it. For example: "Focusing on email over social for now, because that is where our buyers actually are and we already have a list."]
+
 ## 2026-09-09
 Strategický rozhovor o tadylence — nastavena páteř publikování.
 
 - **Úspěch se neměří dosahem ani počtem odběratelů, ale pravidelností.** Na dosah nemá Lenka páku (algoritmus), a hodnocení podle dosahu je přesně to, co otrávilo dřívější práci na Instagramu (hodně času, malý výnos, dělané „kvůli dosahu"). Cíl je proces: dělat to pravidelně a při ohlédnutí vidět, že to dává smysl.
 - **Páteř = jeden Substack článek á 14 dní ve třech rotujících rubrikách:** Ženy v obraze / Co vidíš? Tak vidíš! (jako text, ne carousel) / Všichni svatí (ikonografie světců). Rotace dokola, každá rubrika ~1× za 6 týdnů. 800–1200 slov. Den vydání **pátek**.
-- **Mechanismus jasnosti (dořešená otevřená otázka z 260804):** funguje jako u Art for English — další krok je vždy předem daný. Runway (seřazená fronta dílů s daty) v [[projects/tadylenka-publishing]], banka `library/content-bank/` filtrovaná přes `Content Bank.base` podle `rubrika`. Lenka si vybírá kandidáty z banky.
+- **Mechanismus jasnosti (dořešená otevřená otázka z 260804):** funguje jako u Art for English — další krok je vždy předem daný. Runway (seřazená fronta dílů s daty) v `projects/tadylenka-publishing` (projekt ve vaultu), banka `library/content-bank/` filtrovaná přes `Content Bank.base` podle `rubrika`. Lenka si vybírá kandidáty z banky.
 - **Úklid content-bank (260909):** `Content Bank.base` byla od migrace rozbitá (špatná cesta) — opraveno. 154 souborů znormalizováno: datum na YYMMDD, datum strhnuté z názvů. Stavy sjednoceny na **GrowOS default `fresh | used | retired`** (`retired` slouží i jako someday-maybe). Kandidatura na runway není stav — je to zápis do runway tabulky.
   - **Banka je jen myšlenky a zdroje — žádná osa formátu.** Pole `tagy_platforma` (NL/IG/NOTES/VID) **smazáno** ze všech souborů. Jestli z námětu bude článek, carousel nebo Note se rozhoduje až při výrobě.
   - **`rubrika` = jen 3 rotující** (`zeny-v-obraze`, `co-vidis`, `vsichni-svati`) + `jine` (nezapadá do rubriky — pool) + `mimo` (není námět: kontakty, banka titulků, definice sérií → `retired`). Symboly/atributy/motivy napříč díly („tajný jazyk") patří pod `co-vidis`, s `temata` tagem `tajny-jazyk`.

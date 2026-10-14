@@ -7,7 +7,7 @@ preview: "Jedno anglické slovo dokáže pěkně zamíchat s vašimi hosty."
 project: repurpose-25-bosch
 source: "library/episodes/25-bosch/substack.md"
 id: ymmycvqliw
-status: review
+status: rejected
 business: lcenglish
 channel: email
 created: 2026-10-05

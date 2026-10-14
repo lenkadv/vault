@@ -15,7 +15,7 @@ Interpretace a propojení jsou na tobě.
 
 ## Zdroje přímo k Magdaléně
 
-### 1. New Yorker — "Mistaking [[Mary Magdalene]]"
+### 1. New Yorker — "Mistaking Mary Magdalene"
 - **URL:** https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene
 - **Kde v textu:** `content-bank/Máří Magdaléna — námět pro rubriku Ženy v obraze.md`
 - **Co zápis říká:** Záměna identity — Pope Gregory v roce 591 ztotožnil Magdalénu s jinou Marií, chyba udržela ženy na okraji církve 1400 let. Ikonografická linie: Donatello (dřevěná kajícnice), Titian (zaftig modlitebnice), Caravaggio (Magdalena in Ecstasy). V roce 1969 církev chybu přiznala. Slovní hříčka: kdo je "v obraze" a kdo ne.

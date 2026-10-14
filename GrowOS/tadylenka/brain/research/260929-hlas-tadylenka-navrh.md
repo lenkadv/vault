@@ -113,7 +113,7 @@ Rozdíl proti zakázanému AI stylu: tvoje krátká věta **nese pointu nebo obr
 
 ## 4. Typografie (zjištěno)
 
-- Pomlčky: v článcích převažuje „–“, v některých (mytologie, Josef, Výběr z matek) „ - “ z klávesnice. Dlouhá „—“ je jen v de Chiricovi (AI verze). Podle [[feedback_pomlcky_maily_vs_publikovane]] má publikovaný text „–“ → sjednotit na „–“, „—“ nikdy.
+- Pomlčky: v článcích převažuje „–“, v některých (mytologie, Josef, Výběr z matek) „ - “ z klávesnice. Dlouhá „—“ je jen v de Chiricovi (AI verze). Podle `feedback_pomlcky_maily_vs_publikovane` (paměť Claude) má publikovaný text „–“ → sjednotit na „–“, „—“ nikdy.
 - Uvozovky: „…“ převažují, místy "…" / “…” (z Google Docu). Sjednotit na „…“.
 - Smajlík „;-)“ výjimečně (1× v celém archivu). Emoji v textu článků žádné.
 - Číslované závěry „1/ 2/ 3/“ (Josef, Václav).

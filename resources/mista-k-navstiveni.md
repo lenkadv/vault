@@ -6,6 +6,15 @@ Aktivní letní plán: [[projects/letni-vylety-2026]]
 
 ---
 
+## ⭐ Priorita — osobní zájem (Máří Magdaléna), ne „kdyby se jelo“
+
+- **Frankfurt, Städel Museum (Schaumainkai 63) + Liebieghaus** — *Mary Magdalene. Sin. Pray. Love.* (první velká výstava o ní v německy mluvících zemích; přes 100 maleb, soch a grafik od středověku po současnost; Dürer, Georges de La Tour, Guercino, Claude Lorrain, El Greco, Böcklin, Beckmann, Puvis de Chavannes, Marlene Dumas; umělkyně Lavinia Fontana, Elisabetta Sirani, Luisa Roldán, Lotte Laserstein, Kiki Smith; zápůjčky mj. z National Gallery v Londýně, Louvru, Met, Vatikánu) · **17. 9. 2026 – 17. 1. 2027** · **Lenka 261014: „musím“, nenechat si ujít** · kurátoři dr. Bastian Eclercy (Städel) a dr. Stefan Roller (Liebieghaus) · [staedelmuseum.de/en/mary-magdalene](https://www.staedelmuseum.de/en/mary-magdalene) · zdroj: Art History News 14. 10. 2026 (titulek „Mary Magdalene in Frankfurt“, mail s `Svodka/smazat`, odkaz Lenka dohledala sama)
+  - Otevřeno: út, st, pá, so, ne 10–18, **čtvrtek 10–21**, pondělí zavřeno. Vstupné 19 / 17 €, **út 15–18 h 10 € (Tuesday Special)**. U výstav s mezinárodními zápůjčkami se prodávají Flex Tickets v online obchodě (bez časového slotu, na celou dobu výstavy).
+  - **ICOM (ověřeno 261014 z webu):** zdroj [staedelmuseum.de/en/visit/ticket-information](https://www.staedelmuseum.de/en/visit/ticket-information), oddíl „Free Admission“: volný vstup pro „ICOM members with a valid annual sticker“. Stránka tvrdí, že se dá online rezervovat časový slot a lístek dostat u pokladny po předložení průkazu a fotoprůkazu, ale **v online obchodě jsem žádný bezplatný lístek nenašla**: odkaz „time slot“ vede na běžný placený Timed Ticket (od 16–17 €) a v nabídce na [staedelmuseum.de/en/tickets](https://www.staedelmuseum.de/en/tickets) je jen Timed, Tuesday Special (10 €), Flex (25 €). Německá verze stránky mluví o „Freiticket an der Museumskasse“ bez online rezervace. U výstavy Magdalena výjimka pro ICOM nikde nestojí (vyjmuta je jen MuseumsuferCard), ale ani to, že platí. **Postup: před cestou napsat muzeu (info@staedelmuseum.de, adresa z jejich stránky pro skupiny) a zeptat se, jak si ICOM člen rezervuje slot na Magdalenu.**
+  - Další krok: [[next-actions]] (naplánovat cestu).
+
+---
+
 ## ⚠️ Časově omezené
 
 - **Kunsthalle Praha** — William Kentridge (jihoafrický umělec, animace uhlem, divadlo — jeden z nejvýznamnějších žijících umělců) · Klárov 5 · do září 2026

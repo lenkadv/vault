@@ -1,4 +1,4 @@
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Process guide:** [[260616-wlc-minivsl-process]] | **Training notes:** [[260616-wlc-minivsl-training]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Process guide:** [[260616-wlc-minivsl-process]] | **Training notes:** [[260616-wlc-minivsl-training]]
 
 ---
 
@@ -19,7 +19,7 @@
 - Cíl audience: ne plynulost za 60 dní — ale zábava, pohyb dopředu, pocit "na to mám"
 
 **Positioning kotva:**
-- [[GrowOS/lcenglish/research/260521-positioning-brief-hele]] — ROSUM, shadowing, Shadowloop
+- [[260521-positioning-brief-hele]] — ROSUM, shadowing, Shadowloop
 - Ale: pro VSL NEZDŮRAZŇOVAT ROSUM jako brand name — říkat věc, ne název
 
 **WLC metoda:**
@@ -177,6 +177,6 @@ PS vtipný teaser — otázka: *"Co je na HELE (nebo na Lence) věc, která by a
 
 ## Co si přinést do session
 
-- [[GrowOS/lcenglish/research/260616-wlc-minivsl-process]] — postup step by step
-- [[GrowOS/lcenglish/brand]] — verbatim citáty od audience
+- [[260616-wlc-minivsl-process]] — postup step by step
+- `GrowOS/lcenglish/brand` — verbatim citáty od audience
 - Šablona: [Google Doc](https://docs.google.com/document/d/1qJXcaYxVtsHA95EsuJ030X1QAsS9r1rZ8V0we1RrtTM/edit)

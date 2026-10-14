@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "index": 0,
+      "verb": "replace",
+      "business": "digistart",
+      "label": "digistart",
+      "rel": "brain/decisions.md",
+      "to": null,
+      "before": "83d33317812695b44f6e113563e05f8a274bc19a26159edc60c0be8e5d877388",
+      "pre": "pre/0000.bin"
+    },
+    {
+      "index": 1,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/assets/index.md",
+      "to": null,
+      "before": "3377831325883e32a123a5a5534ffb49cc6d99baa2fdbf22cf0592a16e98957e",
+      "pre": "pre/0001.bin"
+    },
+    {
+      "index": 2,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/audience.md",
+      "to": null,
+      "before": "5b18bb19372d958a33ac53f6264405df981f10e2c4aa6ad0c46887cca3c2beb4",
+      "pre": "pre/0002.bin"
+    },
+    {
+      "index": 3,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/competitors.md",
+      "to": null,
+      "before": "21558d72979a504eebc4cfe7690bf4206655935da94316793d5f323de7f8060b",
+      "pre": "pre/0003.bin"
+    },
+    {
+      "index": 4,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/decisions.md",
+      "to": null,
+      "before": "9a9ac6e81dc556f6a88fd99f022e7c6278b65293385565daad35dae4288cf2c4",
+      "pre": "pre/0004.bin"
+    },
+    {
+      "index": 5,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/ideas.md",
+      "to": null,
+      "before": "ab41e32a0581f25503ee3fb193b6f78b333fca19728e49b84b3dd75d479e67e3",
+      "pre": "pre/0005.bin"
+    },
+    {
+      "index": 6,
+      "verb": "replace",
+      "business": "lcenglish",
+      "label": "lcenglish",
+      "rel": "brain/plan.md",
+      "to": null,
+      "before": "d6db03d06bd861b41d320d9193f516095b6e8b9bb64fb6b383372a71e6caf94e",
+      "pre": "pre/0006.bin"
+    },
+    {
+      "index": 7,
+      "verb": "replace",
+      "business": "tadylenka",
+      "label": "tadylenka",
+      "rel": "brain/assets/index.md",
+      "to": null,
+      "before": "58ae9d956f772ce42d2328d4162538f718597faa20911786a38717516e707ad4",
+      "pre": "pre/0007.bin"
+    },
+    {
+      "index": 8,
+      "verb": "replace",
+      "business": "tadylenka",
+      "label": "tadylenka",
+      "rel": "brain/decisions.md",
+      "to": null,
+      "before": "b81735c167f08d7b1e4c36223337eaedb15490e10e7017bc4e5b8de7307bfb66",
+      "pre": "pre/0008.bin"
+    },
+    {
+      "index": 9,
+      "verb": "replace",
+      "business": "tadylenka",
+      "label": "tadylenka",
+      "rel": "brain/ideas.md",
+      "to": null,
+      "before": "05608c29f881be443ee2b2d4bc97653c8ca4eba54e6d877812fa2937d417747e",
+      "pre": "pre/0009.bin"
+    }
+  ],
+  "wrote": {
+    "0": "53370d0a241ec1ea0a2e8f0e4dba53ca42981be0d44b7919724646d2da8eb8ec",
+    "1": "ad58cb6ed52ebb1b6dfb5758beb6310ea017808de276b32ae68b5253ee4658a6",
+    "2": "f9973da22c0dfbc7d63a96c48fa8d5d31da462e41ff51fec2bcf227dd14f5378",
+    "3": "f623003d85fca0df3ecf92d044997919fa0bf8092e74c18c8fcb9a318d2cee7a",
+    "4": "3c08603dd83644ea32dbb79edfab6da4f792c76abf19d82f42cab0fd4c01b517",
+    "5": "7ec0d079f5235e2be0fd7b10a000cd8da8070223f0190acc5814827f20c8a7e4",
+    "6": "4aab46174f98f91d7fb27843613efc0d97ee13667b7ddae428a4178b436ab288",
+    "7": "440114744c06c9553132a7e67a2fc83197c25d2493f29ec6ea4ed11eab21b89c",
+    "8": "62695a1a75924cdb46ef7084865720f65a753e24cb3893399fd08bc9d626f5fa",
+    "9": "3ac8b5c1027d2dc8f8ada983bccbc9e106e0e2118c3fa1d9783a6a142d3bb111"
+  }
+}

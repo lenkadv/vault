@@ -1,4 +1,4 @@
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Strategie:** [[260521-shadowing-superhero-briefing]] | **Webinář blueprint:** [[260526-webinar-blueprint]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Strategie:** [[260521-shadowing-superhero-briefing]] | **Webinář blueprint:** [[260526-webinar-blueprint]]
 
 ---
 

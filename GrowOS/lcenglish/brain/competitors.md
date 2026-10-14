@@ -40,6 +40,23 @@
   the real alternative for a lot of this audience is not a paid course, it's
   an app or doing nothing — **unchecked**
 
+## What they promise
+The claim each one leads with. Write it the way they say it, not the way you would.
+
+- [PLACEHOLDER: their headline promise, in their words]
+- [PLACEHOLDER: another, or delete this line]
+
+## Where they are strong
+Say this honestly. Pretending a competitor is bad at everything makes your
+marketing sound desperate, and your customer already knows better.
+
+- [PLACEHOLDER: something they genuinely do well]
+
+## Where they leave people down
+The gap you can honestly fill. Only things you could back up if asked.
+
+- [PLACEHOLDER: a real, checkable gap — a complaint you have heard, a step they skip, a customer they do not serve]
+
 ## What they promise (their own claims)
 - English Hacker: fun, effective, made from her own story of learning to speak.
 - Broňa: fear of mistakes — not English itself — is the real obstacle.

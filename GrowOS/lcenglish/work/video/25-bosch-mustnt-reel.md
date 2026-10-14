@@ -5,7 +5,7 @@ skill: video-script
 project: repurpose-25-bosch
 stage: to-record
 id: 8hwnkttl6a
-status: review
+status: rejected
 business: lcenglish
 channel: video
 created: 2026-10-05

@@ -14,6 +14,13 @@
       "ads": "unanswered",
       "video": "unanswered",
       "support": "explicit-safe"
+    },
+    "digistart": {
+      "email": "unanswered",
+      "social": "explicit-safe",
+      "ads": "explicit-safe",
+      "video": "unanswered",
+      "support": "explicit-safe"
     }
   }
 }

@@ -68,7 +68,7 @@ pointer to it here — so this file stays short and quick to load.
 - Publikační postup je v [[methodology]] (Substack článek: rubrika z runway → draft → revize → publish → `status: used`). Starý 0.1 howto přesunut mimo vault 260909.
 - **Kadence je cílové tempo za kvartál, ne termín na položku** — plní se dávkovými content sprinty do volných oken (viz [[decisions]]). tadylenka ustupuje první při nárazu jiné práce.
 - Formát je **IG carousel, ne Reel**. Reel a dlouhé YouTube video jsou neaktivní (podklady k YT v `library/youtube-planning/`).
-- Substack Notes a IG carousel jsou od 260909 **pozastavené** (pozdější fáze). Páteř = 1 Substack článek á 14 dní, 3 rotující rubriky, pátek. Viz [[decisions]] 2026-09-09 a [[projects/tadylenka-publishing]].
+- Substack Notes a IG carousel jsou od 260909 **pozastavené** (pozdější fáze). Páteř = 1 Substack článek á 14 dní, 3 rotující rubriky, pátek. Viz [[decisions]] 2026-09-09 a `projects/tadylenka-publishing` (projekt ve vaultu).
 - Po každé zmínce o výstavě/galerii/muzeu/kulturní akci → upomenout IG Stories a zvážit recenzi.
-- Strategie tadylenky vyřešena 260909 (viz [[decisions]]): páteř = 1 Substack článek á 14 dní, 3 rotující rubriky (Ženy v obraze / Co vidíš / Všichni svatí), pátek. Úspěch = pravidelnost, ne dosah. Bez tlaku na příjem. IG carousel a Notes = pozdější fáze. Runway naházená v [[projects/tadylenka-publishing]].
+- Strategie tadylenky vyřešena 260909 (viz [[decisions]]): páteř = 1 Substack článek á 14 dní, 3 rotující rubriky (Ženy v obraze / Co vidíš / Všichni svatí), pátek. Úspěch = pravidelnost, ne dosah. Bez tlaku na příjem. IG carousel a Notes = pozdější fáze. Runway naházená v `projects/tadylenka-publishing` (projekt ve vaultu).
 - Hlas: „historikové" (ne historici), „Lenčino" (ne Lenkino), pomlčka `–` nikdy `—`; krátká věta jen jako pointa, ne sekaný rytmus. První osoba a anachronismy jsou záměr. Detail v [[voice]] (zpřesněno 260929).

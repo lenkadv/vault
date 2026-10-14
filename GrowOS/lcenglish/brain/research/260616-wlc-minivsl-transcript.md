@@ -1,4 +1,4 @@
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Training notes (shrnutí):** [[260616-wlc-minivsl-training]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Training notes (shrnutí):** [[260616-wlc-minivsl-training]]
 
 ---
 

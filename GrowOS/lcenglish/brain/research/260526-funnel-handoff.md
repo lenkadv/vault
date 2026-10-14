@@ -5,7 +5,7 @@ datum: 260526
 pokračuje-v: lcenglish-online-kurz projekt, Fáze 2 → 3
 ---
 
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Stav:** historický dokument — rozhodnutí přenesena do projekt file  
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Stav:** historický dokument — rozhodnutí přenesena do projekt file  
 
 ---
 

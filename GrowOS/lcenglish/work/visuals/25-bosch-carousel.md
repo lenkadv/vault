@@ -5,7 +5,7 @@ skill: content-repurpose
 project: repurpose-25-bosch
 arc: myth-bust
 id: 2xgftn6e0q
-status: review
+status: rejected
 business: lcenglish
 channel: visuals
 created: 2026-10-05

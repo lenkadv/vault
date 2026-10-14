@@ -58,3 +58,21 @@
 {"actor":"unknown","event":"flip","id":"8hwnkttl6a","from":"draft","to":"review","detected":"reconcile","ts":"2026-10-06T08:45:00.653Z"}
 
 {"actor":"ai","event":"publish-mode-change","channel":"ads","from":"unanswered","to":"explicit-safe","session":"d5b703f9-23f9-4ac7-9513-b39dcac9fa1a","ts":"2026-10-06T17:05:24.437Z"}
+
+{"actor":"ai","session":"23e5a47d-0e34-4a82-ad97-37a77536ff73","event":"created","id":"mhe36v5d9x","path":"lcenglish/work/social/26-kahlo/facebook-dve-svatby.md","skill":"content-repurpose","ts":"2026-10-14T16:52:38.529Z"}
+
+{"actor":"unknown","event":"flip","id":"eimhl5f32m","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.181Z"}
+
+{"actor":"unknown","event":"flip","id":"ckvjm8gn3a","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.187Z"}
+
+{"actor":"unknown","event":"flip","id":"yfamh2a3ql","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.199Z"}
+
+{"actor":"unknown","event":"flip","id":"kwvdylo489","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.210Z"}
+
+{"actor":"unknown","event":"flip","id":"pq6euxvx5h","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.222Z"}
+
+{"actor":"unknown","event":"flip","id":"ymmycvqliw","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.236Z"}
+
+{"actor":"unknown","event":"flip","id":"2xgftn6e0q","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.244Z"}
+
+{"actor":"unknown","event":"flip","id":"8hwnkttl6a","from":"review","to":"rejected","detected":"reconcile","ts":"2026-10-14T20:15:53.252Z"}

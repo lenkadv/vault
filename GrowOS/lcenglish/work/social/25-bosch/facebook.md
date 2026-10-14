@@ -6,7 +6,7 @@ project: repurpose-25-bosch
 platform: facebook
 intent: story
 id: eimhl5f32m
-status: review
+status: rejected
 business: lcenglish
 channel: social
 created: 2026-10-05

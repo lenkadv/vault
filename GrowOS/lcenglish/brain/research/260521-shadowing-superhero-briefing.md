@@ -1,4 +1,4 @@
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Taktická realizace:** [[260521-positioning-brief-hele]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Taktická realizace:** [[260521-positioning-brief-hele]]
 
 ---
 
@@ -89,4 +89,4 @@ Po koupi HELE. Jako samostatný vstup do metody má smysl, ale ve funnelu pro HE
 ## Viz také
 
 - [[260521-positioning-brief-hele]] — taktická realizace pro HELE funnel
-- [[projects/lcenglish-online-kurz]] — projektový soubor
+- `projects/lcenglish-online-kurz` (projekt ve vaultu) — projektový soubor

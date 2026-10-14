@@ -62,7 +62,7 @@ datum: "260929"
 „koukněte“, „tipnout si“, „Inu…“, „setsakramentsky“, „promrskat minulý čas“, „ať si pusa zvyká“, „lechtám (španělštinu)“, „provozuschopný stav“, „šprechtila“, „resuscitovat“. Hovorové slovo uprostřed spisovného výkladu, jako v tadylence.
 
 ### 2g. Typografie na webu
-- Pomlčka „–“ (publikovaný text; podle [[feedback_pomlcky_maily_vs_publikovane]]). **`voice.md` dnes říká „pomlčka `-`, nikdy `—`“ — to platí pro e-mailový newsletter; na webu „–“.**
+- Pomlčka „–“ (publikovaný text; podle `feedback_pomlcky_maily_vs_publikovane` (paměť Claude)). **`voice.md` dnes říká „pomlčka `-`, nikdy `—`“ — to platí pro e-mailový newsletter; na webu „–“.**
 - Uvozovky: na webu převážně “…” (anglické, z editoru), v češtině má být „…“ → sjednotit.
 - Emoji 🙂 😀 střídmě, jako v newsletteru.
 

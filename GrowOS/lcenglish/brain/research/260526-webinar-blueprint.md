@@ -10,7 +10,7 @@ zdroje:
   - "Handoff: 260526-funnel-handoff.md"
 ---
 
-**Projekt:** [[projects/lcenglish-online-kurz]] | **Skript:** `GrowOS/lcenglish/output/funnel/260605-webinar-skript-v1.md` | **Positioning:** [[260521-positioning-brief-hele]]
+**Projekt:** `projects/lcenglish-online-kurz` (projekt ve vaultu) | **Skript:** `GrowOS/lcenglish/output/funnel/260605-webinar-skript-v1.md` | **Positioning:** [[260521-positioning-brief-hele]]
 
 ---
 

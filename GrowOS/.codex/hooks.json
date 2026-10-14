@@ -7,7 +7,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"C:\\Users\\Lenka\\GrowOS-2.0-test\\system\\guards\\item-hook.js\"",
+            "command": "node \"G:\\Můj disk\\vault\\GrowOS\\system\\guards\\item-hook.js\"",
             "timeout": 10
           }
         ]
@@ -17,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"C:\\Users\\Lenka\\GrowOS-2.0-test\\system\\guards\\item-hook.js\"",
+            "command": "node \"G:\\Můj disk\\vault\\GrowOS\\system\\guards\\item-hook.js\"",
             "timeout": 5
           }
         ]
@@ -29,7 +29,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"C:\\Users\\Lenka\\GrowOS-2.0-test\\system\\guards\\item-hook.js\"",
+            "command": "node \"G:\\Můj disk\\vault\\GrowOS\\system\\guards\\item-hook.js\"",
             "timeout": 10
           }
         ]
@@ -41,7 +41,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"C:\\Users\\Lenka\\GrowOS-2.0-test\\system\\guards\\session-start.js\"",
+            "command": "node \"G:\\Můj disk\\vault\\GrowOS\\system\\guards\\session-start.js\"",
             "timeout": 10
           }
         ]

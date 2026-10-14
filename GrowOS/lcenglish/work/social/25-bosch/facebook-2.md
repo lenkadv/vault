@@ -6,7 +6,7 @@ project: repurpose-25-bosch
 platform: facebook
 intent: promo
 id: ckvjm8gn3a
-status: review
+status: rejected
 business: lcenglish
 channel: social
 created: 2026-10-05
