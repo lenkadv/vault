@@ -17,4 +17,4 @@ Spouštěč: protéká záchod (splachování). Než volat, sesbírat další dr
 - vstupní dveře
 - přilepit lišty
 - drobná výmalba (opravy po instalaci A/C)
-- vyměnit zteřelá kolečka na starém kufříku (guma se rozpadá, kola i zbytek kufru jinak OK) — kolečka zatím nejsou: objednávka z Kauflandu (260915) nedorazila a 29. 9. byla stornována; NATECO (Praha 3) odpověděla 261008, že na tento model už výrobce žádné díly nedodává a ať Lenka zkusí neznačkovou opravnu → krok níž
+- vyměnit zteřelá kolečka na starém kufříku (guma se rozpadá, kola i zbytek kufru jinak OK) — kolečka zatím nejsou: objednávka z Kauflandu (260915) nedorazila a 29. 9. byla stornována; NATECO (Praha 3) odpověděla 261008, že na tento model už výrobce žádné díly nedodává a ať Lenka zkusí neznačkovou opravnu → krok níž; **261014 kufřík odvezen k Petru Šumanovi (Smíchov), vyzvednout v pátek 16. 10.** (úkol v [[next-actions]], sekce @venku)

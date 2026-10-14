@@ -49,14 +49,10 @@ sort by due
 ---
 
 ## @online
-- [ ] ⚠️ Odeslat Marii Vymazalové doptání k Male Gaze ze školní adresy `dvoralen@ktf.cuni.cz` (ne z Gmailu); finální text je napsaný v [[decisions/260823-bakalarka-slepekure-pending]], Lenka ho odešle **ráno 14. 10.** (261014 01:48: aby nevypadalo, že nad ním přemýšlí ve čtvrt na dvě v noci). Po odeslání smazat a čekání na odpověď je ve [[waiting-for]] 📅 2026-10-14
-- [ ] Japonština: domácí úkol a příprava na hodinu st 14. 10. ve 13:00 — udělat ráno před kufříkem (11:00–12:45), večer 13. 10. se nestihl (Lenka 261013); čas bloku si určí sama 📅 2026-10-14
-- [ ] Vyfakturovat Michalu Kociánovi nový balíček 10 hodin (domluveno 260806) **předem**, dřív než se vyčerpá všech 10 hodin; podle evidence proběhlo 6 hodin, poslední 13. 10.; FAPI jako Zjednodušený doklad (řada 4RR5xx, neplátce DPH), evidence v [[resources/fakturace-klienti]] (Lenka 261014, Michal Kocián o fakturu předem požádal)
 - [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) 📅 2026-10-31
 
 - [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
-- [ ] Přehledovky: naimportovat do Anki znovu balíčky `01-Klasicismus.apkg` a `11-České_sochařství_1800–1914.apkg` ze složky `C:\Users\Lenka\Documents\pech-work\anki` (opravy 261011: Thorvaldsen, Záboj a Lumír jako dvě karty; opakování v Anki se při importu zachová) → [[prehledovky-pech]]
-- [ ] **Pondělí 12. 10., před hodinou s dr. Štěrbovou:** probrat s ní ústně příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní, mail se nepíše (Lenka 261009) 📅 2026-10-12
+- [ ] Zeptat se paní doktorky Štěrbové **na WhatsAppu** na příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní; ústně se to zatím neprobralo, a tak se přesouvá na WhatsApp (Lenka 261014, původně 12. 10. osobně)
 
 
 ```tasks
@@ -99,7 +95,7 @@ sort by path
 
 ## @venku/pochůzky
 
-- [ ] Odnést celý kufřík Samsonite k opravě koleček — **261012: Šuman odpověděl cca 450 Kč za kolečko včetně práce (cca 900 Kč za dvě; U Verpánku by to bylo 1 600 Kč), jet st 14. 10. 11:00 podle bloku v kalendáři.** **Petr Šuman, Opravna obuvi a kufrů, U Santošky 1315/4, Praha-Smíchov, po–pá 9–17** (mail 8svicko@seznam.cz, tel. 777 973 906; 9. 10. odepsal: kolečka opraví, ať Lenka příště přinese celý kufr; cenu neuvedl, zeptat se na místě). Záloha, kdyby nevyšlo: U Verpánku (Libeň, tel. 774 145 122) nebo koupit kolečka sama (Kola Pirkl, tel. 777 170 727, cca 70 × 24 mm). Blok v kalendáři: **st 14. 10. 11:00–12:45** (před japonštinou ve 13:00)
+- [ ] **Vyzvednout kufřík Samsonite v opravně, v pátek 16. 10.** (kufřík odvezla 261014, kolečka se vymění, cena cca 450 Kč za kolečko včetně práce, tedy asi 900 Kč za dvě). **Petr Šuman, Opravna obuvi a kufrů, U Santošky 1315/4, Praha-Smíchov, po–pá 9–17** (tel. 777 973 906). V kalendáři (Todoist) **pá 16. 10. 10:00–11:45**, rovnou z Přehledovky (končí v 10:00); tadylenka #3 se kvůli tomu posunula na 11:45–13:45 a „zpracuj přednášku“ na 16:15–16:45
 
 
 ```tasks

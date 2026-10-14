@@ -12,7 +12,8 @@ Nová prodejní stránka pro kurz Nepravidelná slovesa za 14 dní (790 Kč), st
 - [x] Nasadit stránku na lcenglish.cz/irregular, ověřit FAPI → fapipi → Drip → Shadowloop a titulky ✅ 261002
 - [x] Živý test nákupu Nepravidelných sloves ✅ 261004 21:28 (výsledek níž v „Živý test nákupu“)
 - [x] Smazat testovací data z živého testu ✅ 261004 21:32 (Lenka: FAPI, Drip, Firebase, Gmail)
-- [ ] Před reklamou: měřicí kód (pixel kanálu + nákup na děkovací stránce FAPI), výchozí počet prodejů Nepravidelných sloves ve FAPI #next-action #online
+- [ ] Před reklamou: měřicí kód **Facebooku** (kanál reklamy je Facebook, Lenka 261014): pixel LCEnglish `552638212929820` už existuje (nevytvářet nový), vložit ho do hlavičky stránky `lcenglish.cz/irregular` v Leadpages (publikovat na WordPress musí Lenka) a vyplnit Facebook Pixel ID ve FAPI formuláři Irregular (150339), krok Děkovací stránka; stejně jako u 10x ENGLISH ✅ 261006 #next-action #online
+- [x] Výchozí počet prodejů Nepravidelných sloves ve FAPI: **5 ks, 3 950 Kč, všechny zaplacené** (FAPI → Statistiky → prodejní formulář Irregular, bez časového omezení, 261014); případné dřívější prodeje v jiném systému se nepočítají. Co přibude po spuštění reklamy, jsou nové prodeje ✅ 2026-10-14
 
 ## Koncept
 

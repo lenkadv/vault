@@ -71,8 +71,8 @@ Zdroj nálezů: [[resources/prodejni-stranky-nastroje]] (oddíl 4). Pořadí = p
 - [ ] Starou stránku `kurzy.lcenglish.cz/p/10xe` skrýt nebo přesměrovat na `lcenglish.cz/10x-english` (FreshLearn, Lenka v administraci).
 
 **B. Měření (podmínka pro reklamu)**
-- [ ] Až padne rozhodnutí o kanálu (viz #next-action výš): vložit měřicí kód toho kanálu (Meta pixel z Business Manageru, nebo kód ChatGPT Ads) do Leadpages (nastavení stránky → tracking codes) + událost nákupu ve FAPI (děkovací stránka). Kód a ID vytvoří Lenka ve svém účtu, vložení a ověření zvládne Claude.
-- [ ] Zapsat výchozí stav před reklamou: kolik prodejů 10x ENGLISH za poslední měsíce (FAPI), aby bylo s čím porovnat.
+- [x] Kanál reklamy je Facebook (Lenka 261014), Meta pixel a událost nákupu u 10x ENGLISH hotové už 261006 (viz výš) ✅ 2026-10-14
+- [x] Výchozí stav před reklamou: podle FAPI statistik (prodejní formulář 10x ENGLISH, bez časového omezení, 261014) 5 objednávek zaplaceno za 6 096 Kč, 2 objednávky stornované (2 286 Kč); co přibude po spuštění reklamy, jsou nové prodeje ✅ 2026-10-14
 
 **C. Později (po prvním testu reklamy)**
 - [ ] Zachycení zájemců, kteří nekoupí hned: ukázkový dialog zdarma za e-mail (Drip formulář + jeden dialog v Shadowloopu + krátká uvítací sekvence). Jako vlastní projekt, až bude vidět, kolik lidí ze studené reklamy odchází bez nákupu.

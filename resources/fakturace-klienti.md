@@ -27,8 +27,9 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 12  | 261009–261011 | — (dny v Jičíně, bez hodinové evidence) | Víkend u Štěpánky v Jičíně: DigiStart, audit FEKT, web GNOSTIKY o auditech (rozhovor, odpočinek); sdílí se s evidencí DigiStart níž |
 | 13  | 261011 | cca 45 min | SharePoint `FEKT VUT Brno` po Štěpánčině přesunu: `Neutříděná hromada` zařazena a vyprázdněna, zip od paní Hruškové (74 MB) rozbalen do 03/03, duplicity do koše, mapa podkladů přegenerována (88 souborů) a koncept i odeslání mailu Štěpánce „co ještě chybí od paní Hruškové“ (20:00–20:55, blok denního vlákna 20:07–20:55 je smíšený s PENTOU a Londýnem, uvedeno jako odhad) |
 | 14  | 261013 | 1 h 27 min | Osnova závěrečné zprávy z auditu FEKT: lokální kopie SharePointu na Disku + převod na text, přepis skenů místním OCR (čeština), Statut a Organizační řád (intranet), prošlá nabídka, smlouva, mapa, průběžné výstupy a souhrny rozhovorů, návrh osnovy se slepými místy, Google Doc pro Štěpánku, nasdíleno Lenkou (13:37–15:04; blok v kalendáři upraven ze 12:15–14:15 na skutečný čas) |
+| 15  | 261014 | cca 30 min (odhad) | Mapa podkladů FEKT: porovnání živého SharePointu s lokální kopií, přegenerování mapy (stav k 14. 10.), nahrání Statutu FEKT a Organizačního řádu 2026 do 02 Celofakultní podklady, nahrání mapy, aktualizace lokální kopie na Disku (cca 16:25–16:35 a 16:45–17:01; čas odhadnut podle souborů a pořadí kroků, ne podle bloku v kalendáři) |
 
-**Součet práce na počítači k 261013 (bez dnů v Brně a Jičíně):** audit FEKT 11 h 32 min (řádky 1, 2, 5, 7, 8, 10, 11, 13, 14) + web GNOSTIKY o auditech 2 h 30 min (řádek 9) = **14 h 02 min**. Fakturace se nedělá po hodinách, evidence slouží Lence a případně Štěpánce jako přehled.
+**Součet práce na počítači k 261014 (bez dnů v Brně a Jičíně):** audit FEKT 12 h 02 min (řádky 1, 2, 5, 7, 8, 10, 11, 13, 14, 15) + web GNOSTIKY o auditech 2 h 30 min (řádek 9) = **14 h 32 min**. Fakturace se nedělá po hodinách, evidence slouží Lence a případně Štěpánce jako přehled.
 
 **Vyfakturováno (během pobytu v Brně 22.–24. 9. 2026):** první faktura GNOSTIKA — 50 000 Kč (neplátce DPH). Co přesně pokrývá (dny v Brně / hodiny výše), číslo faktury a splatnost — doplnit.
 
@@ -98,7 +99,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## Michal Kocián
 
-### Nový balíček (10 hodin, domluveno 260806) — faktura zatím nevystavená/nepotvrzená, doplnit až přijde
+### Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 261014 (28 000 Kč = 10 × 2 800 Kč, Zjednodušená faktura, splatnost 24. 10. 2026, ve FAPI neodeslaná; odešle Lenka sama)
 
 | #   | Datum  | Poznámka                                                    |
 | --- | ------ | ----------------------------------------------------------- |
@@ -109,7 +110,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 15  | 261007 | ✓ — 5. hodina nového balíčku (10 h), schůzka bez vycházky (17:00–18:00) |
 | 16  | 261013 | ✓ — 6. hodina nového balíčku (10 h), jen schůzka, bez vycházky (17:00–18:00; potvrdila Lenka 261014) |
 
-**Fakturace balíčku (Lenka 261014):** Michal Kocián chtěl fakturu předem, takže vyfakturovat dřív, než se vyčerpá všech 10 hodin (zbývají 4: 20. 10., 27. 10., 3. 11. a 10. 11., pokud budou schůzky každý týden). Úkol v [[next-actions]].
+**Fakturace balíčku (Lenka 261014):** Michal Kocián chtěl fakturu předem, takže vyfakturováno dřív, než se vyčerpá všech 10 hodin (zbývají 4: 20. 10., 27. 10., 3. 11. a 10. 11., pokud budou schůzky každý týden). Faktura 426508 vystavena 261014 jako kopie 426501 (stejná položka „trénink prezentačních dovedností“); 6 odučených hodin je pro fakturu nepodstatných, zohlední se v mailu. Lenka v FAPI přepsala položku na „konzultace komunikace“ a fakturu poslala 261014 přes WhatsApp (jako minule). Čekání na platbu ve [[waiting-for]] (24. 10.); až přijde platba, doplnit „proplaceno“.
 
 ### Vyfakturováno a proplaceno (faktura č. 426501, uhrazeno 260521)
 
