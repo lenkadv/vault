@@ -14,6 +14,7 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Pá 16. 10. odpoledne: vyhodnotit, jestli se stihl díl #3 tadylenky (blok 11:45–13:45 hned po vyzvednutí kufříku, Lenka je u něj nejistá; kalendář přeskládán 14. 10.) → [[tadylenka-publishing]] 📅 2026-10-16
 - [ ] DPH přiznání: podívat se spolu s Claudem, jak je dělat snadněji nebo je zautomatizovat. Anthropic účtenka Claude Pro (6. 10. 2026, QRVMHXKX-0007, 18 €) je i po žádosti o odstranění DIČ z 24. 9. **bez DPH** (reverse charge), takže měsíční přiznání zůstává; kromě toho se plánují kurzy DigiStart (možná přes Štěpánku, zatím nejasné), které přiznání ještě rozšíří. Zatím **neeskalovat** u podpory Anthropic, přiznání se vyplňují ručně (Lenka 261007). Vlákno podpory pro případ: [„VAT reverse charge removal“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877248236423122264) Přiznání se dělá 25. 10. (Lenka 261011) 📅 2026-10-25
 
 - [ ] Čekám na Evu Bendovou (KTF, Vizuální kultura) — potvrzení termínu náhradní exkurze do stálé expozice Muzea literatury (úterý 8. nebo 12. prosince; napsala 13. 10., že ještě potvrdí). Do kalendáře až po potvrzení; když nepřijde, zeptat se na exkurzi Čermák 24. 11. (ta je v kalendáři od 13. 10., 12:30–15:00, konec odhad) 📅 2026-11-24
