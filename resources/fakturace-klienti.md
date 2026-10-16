@@ -51,7 +51,6 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 7   | 261012 | 1 h 45 min | Firemní AI workshop pro Štěpánku (vyrostl z DigiStartu, není DigiStart): osnova balíčku, licence Claude Team, text nabídky v Google Docu, podklad [[resources/digistart-firemni-workshop-osnova]] (19:47–21:32); dodatek 23:57–23:59 (komentáře k PDF nabídce) |
 | 8   | 261014 | 2 h 42 min | Založení byznysu DigiStart v GrowOS: zdroje a průzkum publika a konkurence, hlas, vzhled, plán, nabídka, rozhodnutí a seznam otevřených věcí (17:05–18:45 a 22:12–23:14; mezitím koncert) → [[projects/digistart]] |
 | 9   | 261014 | 1 h 09 min | DigiStart: plán kampaně, otevřená rozhodnutí, termín začátku (11. 11. × 25. 11.), zadání pro založení DigiStartu v GrowOS (15:43–16:52) → [[resources/digistart-growos-zadani]], [[projects/digistart]] |
-| 10  | 261016 | cca 40 min (odhad Clauda, upřesní Lenka) | DigiStart: rozbor sekvence mailů Danny Iny, zdroj o obrázcích z AI (ChatGPT × Gemini), WikiClone Jona Bensona jako inspirace, potvrzení „DPH ne“ v DigiStart brain; část smíšeného bloku 18:06–19:25 (svodka č. 18, follow-upy, rešerše Benson, Drip, Leadpages) → [[projects/digistart]], [[resources/digistart-swipe]], [[resources/digistart-podklady]] |
 
 **Součet práce na počítači k 261014:** DigiStart 9 h 52 min (řádky 1–5, 8 a 9) + firemní workshop 1 h 45 min (řádek 7) = **11 h 37 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **26 h 09 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně.
 
