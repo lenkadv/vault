@@ -18,6 +18,20 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
 - **Jednostránková AI policy (vzor)** — Pew Research Center, 28. 9. 2026 — https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/
   - Použij, až budeš řešit: závěrečné cvičení „moje pravidla pro AI“ (co AI používat budu a co ne), dva seznamy na jednu stránku. Hodí se i pro EVIDENT (střední management).
 
+## Blok B: Vizuální obsah (obrázky z AI)
+
+- **ChatGPT, nebo Gemini pro obrázky? Který na co** — AI Black Magic, e-mail „ChatGPT or Gemini for images?“ (14. 10. 2026) — [Gmail](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1879030445981163186); plný návod (tabulka 16 úloh, 4 prompty, ceník) je členský: https://aiblackmagic.com/tutorial/04c45cd1-5cca-4856-98a3-c689bc3a2d60 (Lenka 261016: nedostane se tam, konektor je zrušený). Mail zůstává v Gmailu (Lenka ho nemaže).
+  - Použij, až budeš řešit: výběr nástroje na obrázky v bloku B (vizuální obsah bez grafického vzdělání, vedle Canvy), jednostránkový tahák „co kdy“.
+  - **Jádro:** obrázky v ChatGPT dělá GPT Image 2.5, v Gemini Nano Banana 2. V šestikolovém testu Decrypt skončily 3 : 3, kvalitou se skoro neliší; liší se rychlostí, cenou a druhem drobných chyb.
+  - **ChatGPT** (25 až 40 s na obrázek, „pečlivý dokončovač“) je lepší na: vlastní obličej (podobnost napříč pózami), dlouhé úpravy (schválená změna se neztratí), loga, nálepky a merch (jediný umí průhledné pozadí), anglické plakáty a letáky (pravopis skoro bez chyby), produktové fotky (zachová tvar). Slabiny: zrnění a šachovnicový vzor na plochých plochách (obloha, zeď), neumí si ověřit fakta online (spletl rok události).
+  - **Gemini** (4 až 6 s, asi třetinová cena, „rychlý dříč“) je lepší na: nápady a brainstorming (20 nápadů za dobu, kdy ChatGPT udělá dva), aktuální fakta (hledá při práci na Googlu: infografiky, plakáty akcí), úpravy hotového návrhu (změní ceny na menu bez zásahu do rozvržení), jiné jazyky a překlad textu v obrázku, široké bannery (až 8 : 1, ChatGPT jen 3 : 1). Slabiny: davy mají propletené končetiny, přidává věci, o které nešlo (vesmírná loď v jednoduché scéně).
+  - **Zdarma:** Gemini asi 20 obrázků denně, ChatGPT 2 až 3. Gemini dává na zdarma obrázky viditelné logo, takže pro klienty nebo e-shop platit.
+  - **Postup těch, kdo to dělají denně:** nápady v Gemini (rychle a levně), nejlepší dotáhnout v ChatGPT. Úpravu, kterou začneš v jednom nástroji, v něm i dokonči, protože se při přepnutí ztratí paměť dřívějších úprav v chatu.
+  - **Kontrola před zveřejněním (30 s):** přiblížit na plnou velikost (pozadí, ruce, obličeje), přečíst každé slovo nahlas, ověřit každé datum, cenu a adresu podle skutečného zdroje.
+  - **Práva:** obrázky se smějí používat komerčně, ale čistě AI obrázky obecně nejsou chráněné autorským právem; u věcí, které chceš vlastnit (logo), brát AI verzi jako návrh a finál nechat udělat grafika.
+  - **Cvičení pro kurz:** vybrat dva obrázky, které účastnice ten měsíc potřebuje, a udělat je v obou nástrojích; za odpoledne zjistí, který jí sedí.
+  - **Pro DigiStart ověřit:** jaké nástroje a plány účastnice mají (varianta B počítá s placeným Claude, ChatGPT nebo Gemini nemusí), ceny a limity ve zdarma verzi (stav k 14. 10. 2026, mění se), a jestli stačí Canva s vestavěnou AI. Zdroj je výukový mail s vlastními, neověřenými čísly.
+
 ## Slib kurzu a jazyk persony
 
 - **Otázka „jak AI zapřáhnout pro sebe, ne pracovat pro AI“**: komentář člena komunity Repeat Crew (GrowOS) k otázce autora GrowOS, na co má odpovědět jeho kniha (30. 9. 2026) — https://www.skool.com/repeat-crew-9403/one-question-im-writing-a-book

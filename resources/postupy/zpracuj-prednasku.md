@@ -23,6 +23,7 @@ Hotové (jednotný vzhled, zkontrolované údaje, Poznámky ke kontrole): `26101
 | 261012 Od Johanna Joachima Winckelmanna k počátkům vědeckého znalectví | Metodologie 2 | `18a55BkQnuXA3NvN-Z9yEMfyWoFrkLCv0epCLwTnmBDE` | vzor (Lenka a předchozí vlákno) |
 | 261013 Přelom 18. a 19. století: Od neoklasicismu k romantismu | Přehledovka 19. st. | `1kuEcpuInRSLRux3-r84iKGSnpqEMMg0MrwF5WkqUeWk` | hotový; rozpory pro dr. Pecha v dashboardu `pech/q6`, `q7` |
 | 261006 Přelom 18. a 19. století a klasicismus | Přehledovka 19. st. | `1rFKf401ZwbKZC7A9qEYlWujbmlBhUm_2_AtTcPOp2Dk` | hotový |
+| 261016 Umělecké avantgardy počátku 20. století: Od dynamiky futurismu k původu abstrakce | Přehledovka 20. st. | `1qif_bXmC06R8bXcubeGCcNvatoDmf08UITSevrf9JRk` | hotový (261016), rozpory pro dr. Pecha v dashboardu `pech/q8`, `q9` |
 | 261002 20. století Fauvismus a německý expresionismus | Přehledovka 20. st. | `1UUeFzbCnjjdVfP8hgJkj7rZzvSIn8hUo5IlaGasf8T4` | **k úpravě** (surový z Notebooku) |
 | 261009 Kubismus, purismus a předválečná avantgarda | Přehledovka 20. st. | `1j5j4n6mJUdY3427nkK1-HGXy6tqmhWhsZhnGWA-FNwc` | **k úpravě** |
 | 261005 Metodologie II | Metodologie 2 | `1y_FdQPaQU95uksi_2W5a9ebA6Wuc-7oH90nMY988eLA` | **k úpravě** |
@@ -142,6 +143,13 @@ Skripty: `C:\Users\Lenka\Documents\pech-work\zapisky\` (`build_html.py`, `format
 5. **Revize:** `read_doc` je po každém zápisu zastaralé; revize se může posunout i bez našeho zásahu (autosave). Při chybě „required revision ID does not match“ načíst znovu, ověřit, že se text a indexy nezměnily, a poslat s novým ID. Guard nikdy nevynechávat (kromě dávky jen z `replaceAllText`).
 6. **Ověření:** `verify.py` (text před a po je totožný, počet tučných a kurzívních úseků sedí) a kontrola stránek (Drive `download_file_content` jako `application/pdf` → PyMuPDF `fitz`, jen pro kontrolu: osamělé nadpisy na konci stránky, rozdělený řádek tabulky, font; **PDF se nikam neukládá**).
 7. **Starší dokument z Notebooku** (b: `261002`, `261009`, `261005`): stejně, navíc nahradit „Souhrn“ → „Shrnutí“ (přepsat úvodní odstavec „Tento dokument shrnuje…“ na číslovaný seznam závěrů), „Sekce N:“ → `N.`, odstranit prázdné nadpisy a odstavce, rozdělit slepené odstavce, ASCII schémata → tabulka. Doc přejmenovat jen na pokyn Lenky (název `YYMMDD titul`).
+
+### Poučení z 261016 (Přehledovka 20. st.)
+
+- **Kontrola proti přednášce** se osvědčila ve třech dotazech `notebooklm ask … -s <zdroj>` s odpovědí ANO / NE / JINAK u každého tvrzení zprávy (jména, roky, názvy děl, počty bodů, kdo co řekl). Notebook si domýšlí (název obrazu, materiály, rok SSSR); co v přednášce nezaznělo, jde buď do Poznámek, nebo z textu pryč. Názvy a roky děl doplnit z prezentace (`cards_final.json`, výpis do UTF-8 souboru, ne na konzoli).
+- **Poznámky ke kontrole rovnou v HTML** jako `<h2>` + odstavce `<p><b>Hesla:</b> text</p>` (skript `build_html1016.py`); `format_generic.py` z nich udělá odrážky. Přepínač `--italcol N` (sloupec s názvy děl kurzívou, `-1` žádný, výchozí 1) a `--colw` pro šířky sloupců u tabulky nad 3 řádky. Tabulky s 3 řádky a méně `format_generic.py` bere jako běžné.
+- **Po vzhledu zkontrolovat:** (1) v Poznámkách se resetem `bold,italic` ztratí kurzíva u názvů děl, vrátit ji ze seznamu italic rozsahů před resetem; (2) první znak odstavce za tabulkou a konec odstavce před tabulkou dostanou 10 pt z tabulky, přenastavit na 11/13 pt (`verify.py` + výpis velikostí). Dávku vzhledu (~60 kB) poslat ve třech částech; ID revize vrací odpověď `update_doc` pro další část.
+- **Python s PyMuPDF** spouštět bez `-I` (v izolovaném režimu `fitz` nenajde).
 
 ## 8. Poznámky ke kontrole (poslední sekce Docu)
 

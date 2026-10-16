@@ -16,7 +16,7 @@ is all it needs._
 ## Open decisions (kept current; review at the start of every DigiStart session)
 Each line says who decides. When a line is decided, write it as a dated entry below, fill the `[PLACEHOLDER]` in the brain file that holds it, and delete the line here. Last updated 2026-10-14 (22:30).
 
-1. **Start date and meeting rhythm.** Wednesday 11 Nov or Wednesday 25 Nov; and Lenka's idea of two meetings a week instead of one. Also the end of sign-up. Lenka and Štěpánka. The page text does not wait for it. Lenka wants to see the options as a calendar picture first. "No selling from mid-November" decides how long sign-up for a 25 Nov start can run: it was planned for 2 to 24 Nov. Lenka decides what "no selling" means: no ads, or no sign-up either.
+1. **Start date and meeting rhythm.** Wednesday 11 Nov or Wednesday 25 Nov; and Lenka's idea of two meetings a week instead of one. Also the end of sign-up. Lenka and Štěpánka. The page text does not wait for it. Lenka no longer needs the calendar picture (2026-10-16). "No selling from mid-November" decides how long sign-up for a 25 Nov start can run: it was planned for 2 to 24 Nov. Lenka decides what "no selling" means: no ads, or no sign-up either.
 2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: by 30 Oct.
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
 4. **Facebook page, pixel, ad account, spending cap, operator and terms on the page.** None exist yet. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
@@ -26,12 +26,16 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
 
+## 2026-10-16: VAT confirmed, calendar picture not needed
+**Decided (Lenka):** "DPH ne" means that neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated and the price of 15 000 Kč is final. The calendar picture with the two start options is not needed.
+**Why:** closes the reading I had written down on 2026-10-14.
+
 ## 2026-10-14: answers to the open decisions
 **Decided (Lenka, in the setup chat):**
 - The first two meetings do not include building a website.
 - The consultation before buying is free, about 30 minutes.
 - Payment is taken at once. If the course does not open, the money is returned.
-- No VAT on the price ("DPH ne"). My reading: 15 000 Kč is the final price.
+- No VAT on the price ("DPH ne"). Confirmed 2026-10-16: neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated and 15 000 Kč is the final price.
 - No legal check of "no refund" is needed (her reasoning: buying makes a contract that cannot be cancelled without a reason). Not confirmed by GrowOS.
 - The price after the pilot is probably higher, decided after the pilot.
 - The fifth meeting is tentative, decided as it goes.

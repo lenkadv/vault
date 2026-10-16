@@ -15,7 +15,7 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
   - [PLACEHOLDER: price of other variants. None are decided.]
   - **No guarantee and no refund**, because the meetings are live workshops (Lenka, 2026-10-14).
   - **Payment is taken at once, at purchase. If the course does not open (fewer than 10 sign up), the money is returned** (Lenka, 2026-10-14). That is the one exception to "no refund".
-  - **No VAT** is shown on the price (Lenka, 2026-10-14: "DPH ne"). My reading: the 15 000 Kč is the final price. Lenka to say if that is wrong.
+  - **No VAT.** Neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated or shown and the 15 000 Kč is the final price (Lenka, 2026-10-14: "DPH ne"; confirmed 2026-10-16).
   - [PLACEHOLDER: anything else in the price beyond the four meetings.]
 - **Introductory consultation** — **free**, about **30 minutes** (Lenka, 2026-10-14) — led by Štěpánka. It is before the course and **not part of it**.
 
