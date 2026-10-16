@@ -26,4 +26,5 @@ soubor: "~/.claude/skills/recap-all/SKILL.md"
 [Otevřít SKILL.md](<file:///C:/Users/Lenka/.claude/skills/recap-all/SKILL.md>)
 
 Poznámky z použití:
+- 261016 Zavření denního vlákna: sken našel dvě vlákna (denní a Pech), Pech se zapsal do daily sám, takže recap-all nic nedoplnil. Zatím nepřínos při dvou vláknech; vyhodnotit při weekly review, až bude vláken víc.
 - 260929 Zkušební provoz: spouští se při zavírání denního vlákna, porovná se s daily note a doplní se jen to, co tam chybí. Vyhodnotit při weekly review: pomáhá, nebo přidává zbytečný text? Okno nastavit od prvního otevření dne (výchozích 12 h nestačí), výstup česky.
