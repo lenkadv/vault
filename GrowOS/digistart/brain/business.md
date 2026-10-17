@@ -9,7 +9,7 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
 - **DigiStart pilot** — **15 000 Kč** one-off, pilot price — women who already tried AI and want it to do real work; the core group is solo businesswomen and sole traders (lecturers, coaches, advisers), but the wording does not narrow it.
   - 4 live meetings, one per week. A fifth, optional and consultative, may follow later.
   - The first two meetings are fixed and do **not** include building a website (Lenka, 2026-10-14). The next ones follow the participants' needs. Whether any later meeting covers it is open.
-  - Minimum 10 participants. 20 is a flexible upper limit: Lenka would not turn women away if more wanted to join. If fewer than 10 sign up, whether to open the course is decided then.
+  - Minimum 10 participants. 20 is a flexible upper limit: Lenka would not turn women away if more wanted to join. The page may say: "Kurz otevřeme, když se přihlásí alespoň deset účastnic." (Lenka, 2026-10-17). Sign-up stays open until the course starts; only the ads stop around mid-November.
   - The variant: B. Participants are guided through building their own AI system in Claude. They are not handed a finished package to click through alone (Lenka, 2026-10-14).
   - **Start date: OPEN** (see below). Course must end in the middle of December.
   - [PLACEHOLDER: price of other variants. None are decided.]
@@ -36,8 +36,8 @@ Path of the woman: Facebook ad → page → book a consultation, or buy straight
 - 4 meetings, one per week; min 10, flexible upper limit 20 (not a hard cap) — **confirmed** (Lenka, 2026-10-14)
 - Start date is **not decided**. Possible: Wednesday 11 Nov or Wednesday 25 Nov, with a fallback in which Štěpánka leads the first meeting. New idea (Lenka, 2026-10-14): two meetings a week instead of one. Not to be written into any text as fixed; use `[PLACEHOLDER: datum prvního setkání]` — **confirmed that it is open**
 - Course must end in the middle of December; Thursday is impossible for Lenka (school until 19:00); Wednesday is better; Lenka and Štěpánka are in Rome from Friday 13 Nov to Wednesday 18 Nov — **confirmed** (internal planning, not for publication)
-- DigiStart itself is a **one-off course** with one price. It sells no subscription. Separate question: guiding participants to an AI system of their own in Claude is the chosen variant, and whether each participant needs her own paid monthly Claude plan (bought from Anthropic, not from DigiStart) is **not settled**: the vault note of 2026-09-30 says skills can be uploaded in the app only on a paid plan, the Claude price page read on 2026-10-14 marks skills "Yes" on Free as well. [PLACEHOLDER: verify before any text says what participants must pay] — **unchecked**
-- Price of that monthly Claude plan (Pro): the page shows "$17" a month billed yearly or "$20" billed monthly, no Czech koruna — **unchecked**; do not publish
+- DigiStart itself is a **one-off course** with one price. It sells no subscription. Separate question: guiding participants to an AI system of their own in Claude is the chosen variant, and **each participant needs her own paid Claude Pro plan** (bought from Anthropic, not from DigiStart) — **confirmed** (Lenka, 2026-10-17). The page says it openly.
+- Price of that monthly Claude plan (Pro): "$20" billed monthly, or "$200" a year up front ("$17" a month); no EUR or CZK price shown; prices exclude tax — **checked on claude.com/pricing 2026-10-17**. The same page, same day: "Skills" Yes on Free and Pro (custom vs built-in not split); "Projects" Free up to 5; "Connectors" Yes on Free; "Claude for Microsoft Outlook" and "Claude Code" only on paid plans; Cowork (work with local files) "rolling out to Pro and Max". So variant B (Claude working with her own files and mail) in practice needs Pro — my reading, to confirm with Lenka against the content of the meetings before the page states it.
 - No references, testimonials or participant results exist yet — **confirmed** (no participant has finished DigiStart)
 - Štěpánka's feedback from the test run may be quoted anonymously only; with her name only with her consent — **confirmed** rule (Lenka, brief)
 - Domain: **digistart.cz** exists and is parked at Czechia (where GNOSTIKA also is); no page on it yet — **confirmed** (Lenka, 2026-10-14). Facebook page, pixel, ad account, operator and terms on the page, and the ad spending cap do **not exist yet**; setting them up is part of the preparation plan — [PLACEHOLDER: each]
@@ -65,7 +65,7 @@ Open: whether the course itself includes building one. Until the content of the 
 - The reader's age, or anything that suggests it (Meta rule): not "40+", not "ve vašem věku". — **confirmed**
 - A fixed start date, until it is decided. — **confirmed**
 - Invented facts, numbers, results, references or testimonials. — **confirmed**
-- What participants must pay Anthropic for a paid Claude plan, until verified. — **confirmed** (open)
+- The Claude Pro price as a koruna amount or as fixed forever: say "podle ceníku Anthropicu 20 USD měsíčně" and that it can change. — (2026-10-17)
 - That participants will build and publish a website, until the content of the meetings includes it. That the two lecturers did it is fine to say. — **confirmed** (Lenka, 2026-10-14)
 - Anything about competitors' courses that Lenka or the research has not seen on their own pages. — GrowOS rule, **to confirm** with Lenka
 - Big, puffed-up words and marketing: "revoluční", "zázračné" and the like. "Nabubřelý marketing k nám nesedí." — **confirmed** (Lenka, 2026-10-14). It is about tone, not a fixed list of banned words.

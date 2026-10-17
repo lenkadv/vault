@@ -23,7 +23,12 @@ with a customer's name in the corner.
 - [PLACEHOLDER: `file name` — what it is, and when to use it]
 
 ## Photos of people
-- [PLACEHOLDER: `file name` — who is in it, where it was taken, and where it is fine to use]
+- `facebook/profil-A-foto.jpg` — Lenka and Štěpánka together, autumn park selfie, square 1080 px. Made 2026-10-17 from Lenka's own file `G:\Můj disk\05 Další online kurzy 💻\Branding\Headshots\LenkaStepanka.jpg` (also used for the earlier AI webinars). The proposed Facebook profile photo; fine for any DigiStart use.
+- `facebook/profil-B-bordo.jpg` — the same two, cut out on burgundy #9B224F, square 1080 px. Alternative profile photo; cut-out edges at the hair are slightly rough up close.
+- **Lenka 2026-10-17: the cut-out of the park selfie is "hrozný" and they look much better in reality. Do not use the selfie or its cut-out (`profil-A`, `profil-B`, `uvodni-foto-1640x924`) for anything new.** Use the 2024 autumn portraits instead: `G:\Můj disk\05 Další online kurzy 💻\Branding\Headshots\PXL_20241027_132527489.PORTRAIT~2.png` (Lenka) and `PXL_20241027_132057471.png` (Štěpánka), both in the purple sweater; also uploaded to Canva (media MAHYSb5Dvrg, MAHYSTyQCJI).
+- `facebook/uvodni-foto-v2-1640x924.jpg` — cover v2: wordmark, headline, "s Lenkou a Štěpánkou", the two portraits as tilted photo cards. Editable version in Canva: design DAHYSZPRoKY "DigiStart Facebook cover" (851×315).
+- `facebook/profil-C-portrety.jpg` — profile photo from the two portraits side by side (faces fit the circle).
+- `facebook/uvodni-foto-1640x924.jpg` — (rejected) Facebook cover: DigiStart wordmark, the headline "Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás.", names of both lecturers, their cut-out on a burgundy circle. 1640×924 so the desktop crop (middle 624 px) and the phone view both keep text and faces. Fonts Archivo, DM Sans, Caveat (open licence).
 
 ## Product and place
 - [PLACEHOLDER: `file name` — what it shows, and what it is good for]

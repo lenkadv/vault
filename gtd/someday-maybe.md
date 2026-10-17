@@ -32,6 +32,8 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
   - Facebookovou stránku **tady Lenka** Lenka kdysi sloučila s LCEnglish (angličtina + umění pod jednou střechou); dnes se jí to už nezdá jako dobrý nápad. Rozhodnout, jestli angličtinu a umění zase oddělit, až se bude řešit návrat k sítím.
   - Web **lenkadvorakova.cz** (brána ke všem projektům, vizitka) potřebuje údržbu.
 
+- **Prodejní stránka kurzu AI „rámovaná uměním“ (obrazy starých mistrů s vtipnými popisky)** — Lence se nápad moc líbí (261017), ale hodí se jen pro kurzy, které by vedla **sama, bez Štěpánky**; u DigiStartu se nepoužije. Hotový vzor: koncept C v Leadpages „DigiStart – C Obrazy (koncept)“ https://leadpages.com/edit/fkurymm40wlxri37ox47msws (nepublikovaný), zdrojové HTML a obrázky `GrowOS/digistart/work/pages/_digistart-pilot-prodejni-stranka/varianty/C-obrazy.html` + `img/`. Obrazy z Met Open Access (Vermeer *A Maid Asleep* a *Young Woman with a Water Pitcher*, Degas *A Woman Ironing*, ter Borch *Curiosity*, Maes *The Lacemaker*), volná díla. Původ nápadu: [[resources/digistart-swipe]] (vizuály ve stylu obrazů).
+
 ## Místa
 
 - **The Hundred Hunt** — fotografování čísel existujících v kontextu (na dokovišti, ve výloze) — není cropped, není staged. Potenciální tadylenka projekt nebo osobní hra. — https://thehundredhunt.com/

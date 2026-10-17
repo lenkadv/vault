@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DigiStart – galerie jednoho týdne (koncept C)</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,700;62..125,800&family=Caveat:wght@600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F1ECE6;--bg2:#E8DFD5;--ink:#231A1D;--mut:#5E5155;--b:#9B224F;--bd:#74183B;--pink:#F3D3E0;
+ --h:"Archivo","Arial Narrow",Arial,sans-serif;--t:"DM Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;--hand:"Caveat","Segoe Script",cursive}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.6 var(--t);-webkit-font-smoothing:antialiased}
+a{color:var(--b)}
+.w{max-width:1180px;margin:0 auto;padding:0 32px}
+.review{background:#FFF1A8;color:#4a3f00;font:14px/1.45 var(--t);padding:9px 24px;text-align:center}
+.ph{background:#FFF1A8;color:#4a3f00;padding:0 .3em;border-radius:2px;font-size:.85em;font-weight:500;font-family:var(--t);letter-spacing:0}
+h1,h2,h3{font-family:var(--h);font-stretch:85%;font-weight:800;margin:0;letter-spacing:-.02em;word-spacing:.1em}
+.top .w{display:flex;align-items:center;justify-content:space-between;min-height:84px}
+.mark{font:800 30px/1 var(--h);font-stretch:80%;letter-spacing:-.03em;color:var(--ink);text-decoration:none}.mark span{color:var(--b)}
+.btn{display:inline-block;background:var(--b);color:#fff;text-decoration:none;font:700 17px/1.2 var(--t);padding:17px 28px;border-radius:4px;border:2px solid var(--b)}
+.btn:hover{background:var(--bd)}.btn.sm{padding:11px 18px;font-size:15px}
+.btn.inv{background:#fff;color:var(--b);border-color:#fff}
+.alt{font-size:16px;color:var(--mut)}
+.frame{background:#fff;padding:14px 14px 0;box-shadow:0 24px 48px rgba(40,20,30,.2)}
+.frame img{display:block;width:100%;height:auto}
+.label{padding:12px 4px 14px;font-size:13px;line-height:1.4;color:var(--mut)}
+.label i{font-style:italic}
+.cap{font:600 clamp(26px,2.6vw,34px)/1.1 var(--hand);color:var(--b);margin:16px 0 0}
+.hero{padding:30px 0 90px}
+.hero .w{display:grid;grid-template-columns:1.15fr .85fr;gap:40px 70px;align-items:center}
+.kick{font:700 14px/1.3 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--b);margin:0 0 22px}
+h1{font-size:clamp(44px,6.4vw,88px);line-height:1.04;letter-spacing:-.035em;margin-bottom:28px}
+h1 .hl{display:inline-block;background:var(--b);color:#fff;line-height:.9;padding:.04em .12em .1em;transform:rotate(-2deg)}
+.lede{font-size:clamp(20px,2.1vw,25px);line-height:1.5;margin:0 0 30px;color:#3a2e32}
+.cta{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:center}
+.hero .frame{transform:rotate(1.5deg)}
+section{padding:90px 0}
+.sand{background:var(--bg2)}
+h2{font-size:clamp(36px,5vw,64px);line-height:1;letter-spacing:-.03em}
+h2 .m{color:var(--b)}
+.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:48px 40px;margin-top:50px;align-items:start}
+.gal figure{margin:0}
+.gal figure:nth-child(2){transform:translateY(40px)}
+.turn{max-width:760px;font-size:22px;line-height:1.55;margin:90px 0 0}
+.turn b{color:var(--b)}
+.after{display:grid;grid-template-columns:.8fr 1.2fr;gap:40px 70px;align-items:center}
+.after .frame{transform:rotate(-1.5deg)}
+.how{list-style:none;margin:30px 0 0;padding:0}
+.how li{padding:16px 0 16px 36px;border-top:2px solid rgba(35,26,29,.4);position:relative;font-size:19px}
+.how li:last-child{border-bottom:2px solid rgba(35,26,29,.4)}
+.how li::before{content:"";position:absolute;left:0;top:1.35em;width:20px;height:4px;background:var(--b)}
+.team{display:grid;grid-template-columns:repeat(2,minmax(0,280px)) 1fr;gap:30px 40px;margin-top:40px;align-items:start}
+.photo{aspect-ratio:4/5;background:#D9CEC3;display:flex;align-items:center;justify-content:center;color:#6b5d61;font-size:15px;text-align:center;padding:16px}
+.team h3{font-size:24px;margin-top:12px}
+.offer{background:var(--b);color:#fff}
+.offer h2{color:#fff}
+.offer .grid{display:grid;grid-template-columns:1.1fr .9fr;gap:40px 70px;margin-top:40px;align-items:center}
+.offer ul{list-style:none;margin:0;padding:0}
+.offer li{padding:14px 0 14px 32px;border-top:2px solid rgba(255,255,255,.35);position:relative}
+.offer li:last-child{border-bottom:2px solid rgba(255,255,255,.35)}
+.offer li::before{content:"";position:absolute;left:0;top:1.3em;width:18px;height:4px;background:var(--pink)}
+.price{font:800 clamp(60px,7vw,96px)/1 var(--h);font-stretch:80%;letter-spacing:-.03em}
+.price small{display:block;font:500 17px/1.45 var(--t);letter-spacing:0;margin:10px 0 24px;color:#F6DCE6}
+.offer .ph{color:#4a3f00}
+.offer .alt{color:#F6DCE6}.offer .alt a{color:#fff}
+details{border-top:2px solid var(--ink);padding:16px 0}
+details:last-of-type{border-bottom:2px solid var(--ink)}
+summary{cursor:pointer;font:800 22px/1.25 var(--h);font-stretch:88%;list-style:none}
+summary::after{content:"+";float:right;color:var(--b)}
+details[open] summary::after{content:"–"}
+details p{margin:10px 0 0;max-width:48em}
+.credit{font-size:13px;color:var(--mut);margin-top:30px}
+footer{padding:34px 0 46px;font-size:15px;color:var(--mut)}
+@media (max-width:980px){.hero .w,.after,.offer .grid,.team{grid-template-columns:1fr}.gal{grid-template-columns:1fr 1fr}.gal figure:nth-child(2){transform:none}}
+@media (max-width:560px){body{font-size:17px}.w{padding:0 20px}section{padding:58px 0}.gal{grid-template-columns:1fr}.btn{width:100%;text-align:center}.top .btn{width:auto}.turn{font-size:19px;margin-top:50px}}
+</style>
+</head>
+<body>
+<div class="review">Koncept C „Obrazy“ k připomínkám. Žlutá místa čekají na doplnění nebo potvrzení. Obrazy: The Met, Open Access (volné dílo).</div>
+<header class="top"><div class="w"><a class="mark" href="#">Digi<span>Start</span></a><a class="btn sm" href="#prihlaska">Konzultace zdarma</a></div></header>
+
+<section class="hero"><div class="w">
+ <div>
+  <p class="kick">Živý kurz online · 4 setkání · od středy 25. 11. <span class="ph">zástupné datum</span></p>
+  <h1>Chatovat s AI umíte. Teď ji naučte, aby <span class="hl">pracovala</span> za vás.</h1>
+  <p class="lede">Staří mistři malovali ženy, které všechno dělají ručně. Vy máte AI. Jen vám zatím radí, a práci pořád děláte sama.</p>
+  <div class="cta"><a class="btn" href="#prihlaska">Ano, chci konzultaci zdarma</a><span class="alt">nebo se <a href="#prihlaska">rovnou přihlaste</a> · 15 000 Kč</span></div>
+ </div>
+ <figure style="margin:0"><div class="frame"><img src="img/met-437878.jpg" alt="Johannes Vermeer: A Maid Asleep, žena spí u stolu"><div class="label">Johannes Vermeer, <i>A Maid Asleep</i>, kolem 1656–57. The Met.</div></div><p class="cap">Úterý, 23:40. Ještě jsem chtěla napsat ten příspěvek.</p></figure>
+</div></section>
+
+<section class="sand"><div class="w">
+ <h2>Galerie <span class="m">jednoho týdne</span></h2>
+ <div class="gal">
+  <figure><div class="frame"><img src="img/met-436174.jpg" alt="Edgar Degas: A Woman Ironing"><div class="label">Edgar Degas, <i>A Woman Ironing</i>, 1873. The Met.</div></div><p class="cap">Pátá odpověď zákaznici. Pořád ručně.</p></figure>
+  <figure><div class="frame"><img src="img/met-435714.jpg" alt="Gerard ter Borch: Curiosity, žena píše dopis, druhá jí čte přes rameno"><div class="label">Gerard ter Borch, <i>Curiosity</i>, kolem 1660–62. The Met.</div></div><p class="cap">„Napiš to tak, jak bych to napsala já.“<br>„A jak bys to napsala ty?“</p></figure>
+  <figure><div class="frame"><img src="img/met-436932.jpg" alt="Nicolaes Maes: The Lacemaker"><div class="label">Nicolaes Maes, <i>The Lacemaker</i>, kolem 1656. The Met.</div></div><p class="cap">Tabulka plateb. Políčko po políčku.</p></figure>
+ </div>
+ <p class="turn">Tyhle ženy neměly na výběr. <b>Vy ano.</b> AI dnes umí uklidit vaše složky, napsat koncept odpovědi vaším stylem a připravit podklady. Jen se jí to musí ukázat, krok za krokem a ve správném pořadí.</p>
+</div></section>
+
+<section><div class="w after">
+ <figure style="margin:0"><div class="frame"><img src="img/met-437881.jpg" alt="Johannes Vermeer: Young Woman with a Water Pitcher, žena otevírá okno"><div class="label">Johannes Vermeer, <i>Young Woman with a Water Pitcher</i>, kolem 1662. The Met.</div></div><p class="cap">Středa ráno. Koncepty odpovědí už čekají ve schránce.</p></figure>
+ <div>
+  <h2>Takhle vypadá <span class="m">DigiStart</span></h2>
+  <ul class="how">
+   <li><b>Čtyři živá setkání online</b>, jednou týdně.</li>
+   <li><b>Na každém jeden krok:</b> ukážeme ho, řekneme, k čemu je, a vy si ho hned zkusíte na vlastním počítači.</li>
+   <li><b>Další krok staví na předchozím.</b> Co si připravíte dnes, AI příště použije.</li>
+   <li><b>První dvě setkání připravená předem</b>, na dalších dvou rozhodnete vy. <span class="ph">obsah prvních dvou setkání</span></li>
+  </ul>
+ </div>
+</div></section>
+
+<section class="sand"><div class="w">
+ <h2>Provedou vás</h2>
+ <div class="team">
+  <div><div class="photo">[sem fotka Lenky]</div><h3>Lenka Dvořáková</h3><p><span class="ph">jedna ověřená věta · proč obrazy</span></p></div>
+  <div><div class="photo">[sem fotka Štěpánky]</div><h3>Štěpánka Uličná</h3><p><span class="ph">jedna ověřená věta · schválí ona</span></p></div>
+  <div><p style="font:700 26px/1.3 var(--h);font-stretch:90%;margin:0">Web o našich auditech jsme s AI postavily a daly na internet my dvě.</p><p class="cap">Teď to ukážeme vám.</p></div>
+ </div>
+</div></section>
+
+<section class="offer" id="prihlaska"><div class="w">
+ <h2>DigiStart pilot</h2>
+ <div class="grid">
+  <ul>
+   <li>4 živá setkání online <span class="ph">délka, čas, den</span></li>
+   <li>první dvě připravená předem, další dvě podle skupiny</li>
+   <li>čas zkoušet si to na setkání, s lektorkou po ruce</li>
+   <li>vaše vlastní AI pomocnice v Claudu, ne hotový balíček</li>
+   <li>možné páté, konzultační setkání v ceně <span class="ph">zda se bude konat</span></li>
+  </ul>
+  <div>
+   <div class="price">15 000 Kč<small>Pilotní cena, jednorázově, bez DPH. Platí se při přihlášení. <span class="ph">věta o deseti účastnicích</span> Pokud se kurz neotevře, peníze vrátíme.</small></div>
+   <a class="btn inv" href="#">Ano, chci konzultaci zdarma</a>
+   <p class="alt">Půl hodiny se Štěpánkou, nezávazně. Nebo se <a href="#">rovnou přihlaste</a>.</p>
+  </div>
+ </div>
+</div></section>
+
+<section><div class="w">
+ <h2>Otázky</h2>
+ <div style="margin-top:34px">
+ <details open><summary>Používám AI hodně. Nebude to pro mě málo?</summary><p>Kurz nestojí na otázkách a odpovědích, ale na tom, aby AI pracovala s vašimi soubory a poštou. Dvě setkání určíte vy.</p></details>
+ <details><summary>Je v bezpečí moje pošta?</summary><p><span class="ph">poctivá odpověď Lenky a Štěpánky</span></p></details>
+ <details><summary>Musím platit předplatné?</summary><p>Za kurz platíte jednou. <span class="ph">potvrdit nutnost Claude Pro · 20 USD měsíčně firmě Anthropic</span></p></details>
+ <details><summary>Co když mi kurz nesedne?</summary><p>DigiStart je živý workshop, proto nenabízíme garanci ani vrácení peněz. Pokud se kurz neotevře, peníze vrátíme. Proto je tu konzultace zdarma.</p></details>
+ </div>
+ <p class="credit">Obrazy: The Metropolitan Museum of Art, Open Access (volné dílo).</p>
+</div></section>
+
+<footer><div class="w">DigiStart · Prodávající: GNOSTIKA <span class="ph">IČ, sídlo, obchodní podmínky, ochrana osobních údajů</span></div></footer>
+</body>
+</html>

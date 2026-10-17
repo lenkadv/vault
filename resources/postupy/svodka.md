@@ -54,6 +54,7 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **Jon Benson (BNSN)** | ElevenLabs ukázky: výsledný hlas je nerozeznatelný od živého, ale postup je v placené komunitě (~300 $/měs.), do které Lenka zatím nejde. Stačí krátce zmínit, nic nenabízet. |
 | **Česká filharmonie** | Lenka obdivuje jejich PR a e-mailing (lepší než NG). Mail přečíst celý, nové postřehy a krátké ukázky doplnit do [[profil-ceska-filharmonie]], ve svodce jednou větou; pak `Svodka/smazat` (260930). |
 | **Leadpages Community** | Lenka se 261004 podívala a nezaujalo ji (Teardowns jsou jen pro anglické stránky, české nikdo rozebírat nebude). **Nesledovat**, ve svodce nezmiňovat; výjimka jen zásadní novinka (např. komunita v češtině). |
+| **Leadpages — žádost o zákaznický příběh (Corah, 16. 10.)** | Lenka 261017: dělat nebude. Nepřipomínat, v „Pro tvou práci“ ani jinde nezmiňovat; podobné žádosti od nástrojů jen zmínit jednou větou. |
 | **Drip, Leadpages** | Nástroje, které Lenka používá. Sledovat **vývoj produktu** (nové funkce, změny, webináře o funkcích) a vytáhnout, co by se hodilo pro lcenglish/tadylenka. |
 | **Jon Schumacher a podobné sekvence** | Když přijde celá sekvence (webinář, launch), upozornit na ni jako na vzor. Swipe už zapsaný: [[GrowOS/lcenglish/library/swipe-content]] (260927). |
 | **Tonebase** | Nechává si ho jako připomínku, že má streamy klasické hudby. Jednou větou, neodhlašovat. |
@@ -103,6 +104,10 @@ Mail zmíněný v odhlášení **pořád patří pod `Svodka/smazat`**, pokud z 
 
 Z toho, co je ve schránce, **neusuzovat, jak často odesílatel chodí** („přišlo poprvé za dlouho“) — Lenka maily průběžně maže, takže historie ve schránce je neúplná (260928: Vox a Artnet chodí často). Kandidáty na odhlášení navrhovat podle obsahu, ne podle domnělé frekvence.
 
+## Slova ve svodce (Lenka 261017)
+
+Slova „lievák“, „lievik“ a „trichtýř“ nepsat (Lenka: lievák je patvar ze slovenštiny, česky je funnel trichtýř, ale oba nechce). Psát prostě **„funnel“**. Když si nejsem jistá českým slovem, nevymýšlet výklad.
+
 ## Pro tvou práci — nezakládat
 
 Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Náměty z oddílu „Pro tvou práci“ **nezakládat** do content banky ani do projektů. Lenka je vyhodnotí sama a dá zpětnou vazbu.
@@ -142,6 +147,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 16 | 12. 10. 12:30 – 13. 10. 12:40 | 23 vláken; 4× Vyžaduje pozornost (Eva Bendová: Vizuální kultura dnes odpadá, ilustrace 20. 10., exkurze Muzeum literatury a Čermák 24. 11. 12:30; Air Bank: úhrada 4 190 Kč nešla odeslat, dobít do 19. 10.; čtenářka Renata odpověděla na A4E #26; Danny Iny zve na AI Strategist na konci videa 4), Air Bank a Danny Iny přesunuty do Primary; 15 vláken `Svodka/smazat`, uchovat nic; bez štítku Eva Bendová, Renata, Air Bank ×2, Danny Iny, ICOM DESIGN Talk ×2 (14. 10. 15:00), ÚDU pozvánka (21. 10. 16:30) |
 | 17 | 13. 10. 12:40 – 14. 10. 11:05 | 26 vláken; 5× Vyžaduje pozornost (Tandem Old Town Tour 3. 11. a Slaný 4. 11., Marie Vymazalová: ve čtvrtek ústně, Rudolfinum informace ke koncertu 14. 10. přesunuta do Primary, Wizz Air e-faktura bez přesunu); 20 vláken `Svodka/smazat`, uchovat nic; bez štítku Ars linearis CFP |
 | 18 | 14. 10. 11:05 – 16. 10. 16:35 | asi 70 vláken (15. 10. nebyl denní soubor); 7× Vyžaduje pozornost (Štěpánka žádost o přístup k osnově FEKT ze svého gmailu, Marie Vymazalová kontrola PPSŘ a jednání EK 19. 10., knihovna KTF út 20. 10. 12:30 × učebna P8, Städel: lístek zdarma na pokladně, Gabriela Hámová přílohy k Pechovi do 14. 11., Tomáš Popadič PENTA), Štěpánka a knihovna přesunuty do Primary; 5 knih z TRIH do [[omnibus]]; ~55 vláken `Svodka/smazat`, `Svodka/uchovat` TRIH (King Arthur Debate); bez štítku Air Bank, Google Play, Wolt, Coinbase, Mirasee, Pražské jaro |
+| 19 | 16. 10. 16:35 – 17. 10. 14:45 | 16 vláken; 1× Vyžaduje pozornost (Danny Iny „Measure. Measure again.“: hosté na AI Strategist zdarma do 18. 10., přesunuto do Primary); 12 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny zůstává; bez štítku Leadpages (žádost o zákaznický příběh), Erasmus+ oznámení o ochraně údajů, Air Bank |
 
 ## Publikace
 

@@ -16,15 +16,25 @@ is all it needs._
 ## Open decisions (kept current; review at the start of every DigiStart session)
 Each line says who decides. When a line is decided, write it as a dated entry below, fill the `[PLACEHOLDER]` in the brain file that holds it, and delete the line here. Last updated 2026-10-14 (22:30).
 
-1. **Start date and meeting rhythm.** Wednesday 11 Nov or Wednesday 25 Nov; and Lenka's idea of two meetings a week instead of one. Also the end of sign-up. Lenka and Štěpánka. The page text does not wait for it. Lenka no longer needs the calendar picture (2026-10-16). "No selling from mid-November" decides how long sign-up for a 25 Nov start can run: it was planned for 2 to 24 Nov. Lenka decides what "no selling" means: no ads, or no sign-up either.
+1. **Start date and meeting rhythm.** Wednesday 11 Nov or Wednesday 25 Nov; and Lenka's idea of two meetings a week instead of one. Lenka and Štěpánka. The page text does not wait for it. (End of sign-up decided 2026-10-17, see below.)
 2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: by 30 Oct.
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
 4. **Facebook page, pixel, ad account, spending cap, operator and terms on the page.** None exist yet. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
-5. **What participants pay Anthropic for Claude**, and whether a paid plan is needed. To verify before the page is written (the price page and the vault note disagree). Me.
 6. **Štěpánka's voice profile.** Only when a text goes out in her name. Ask her for the profile file from the test run then (check for private details first).
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
+
+## 2026-10-17: sign-up, ten participants, Claude Pro, FAQ, domain open
+**Decided (Lenka, in the chat):**
+- **"No selling from mid-November" means no ads only.** Ads stop around mid-November; sign-up stays open until the course starts.
+- **The sentence "Kurz otevřeme, když se přihlásí alespoň deset účastnic." is valid** and may go on the page, together with "Pokud se kurz neotevře, peníze vám vrátíme."
+- **Claude Pro is required for the course content.** The page says so openly; price from claude.com/pricing (checked 2026-10-17): $20 a month, $17 a month billed yearly, paid to Anthropic, not to DigiStart.
+- **The FAQ on the page must be rewritten**; Lenka does not like the current wording.
+- The website link digistart.cz was removed from the Facebook page (Lenka). Štěpánka was invited as an admin of the Facebook page; waiting for her to accept.
+- No more posts taken from the old "Umělá inteligence v lektorské praxi" group (nothing else relevant). A system for adding posts comfortably is still to be designed.
+**Open:** where digistart.cz is hosted: Leadpages (custom domain), or Lenka's own hosting where lenkadvorakova.cz and lcenglish.cz live.
+**Why:** answers to the to-do review of 2026-10-17.
 
 ## 2026-10-16: VAT confirmed, calendar picture not needed
 **Decided (Lenka):** "DPH ne" means that neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated and the price of 15 000 Kč is final. The calendar picture with the two start options is not needed.

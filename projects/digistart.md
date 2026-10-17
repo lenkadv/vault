@@ -109,6 +109,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 **261014 — rozhodnutí k pilotu (Lenka; Štěpánce se předá, až bude mít Lenka jasno):** varianta B (hotový AI systém v Claudu, shoda se Štěpánkou); pilot se staví živě podle požadavků účastnic, první dvě setkání pevná; **zvýhodněná pilotní cena 15 000 Kč**; min. 10, horní hranice 20 účastnic (při méně než 10 se zváží, jestli kurz otevřít); úvodní konzultace je navíc a před kurzem (vede Štěpánka); **prodává, fakturuje a reklamu platí GNOSTIKA** (zkusit napojit přes Fakturoid, záloha přes Lenčin systém/FAPI); kurz musí skončit v polovině prosince; **termín začátku zůstává OTEVŘENÝ**: čtvrtek nejde (Lenka má školu do 19:00), lepší je středa; Lenka se Štěpánkou jsou v Římě od pátku 13. 11. do středy 18. 11. a Lenka tam nemá stolní počítač, takže vysílat nemůže; 4 setkání stačí, páté může být později konzultační; záložní varianta, která se Lence nelíbí: první (úvodní) setkání vede Štěpánka sama, i z Říma (viz plán §0a); název DigiStart; první krok zájemkyně = rezervace konzultace, nebo koupit rovnou; teplé kontakty žádné (jen Štěpánčiny známé). Plán a odhady: [[resources/digistart-kampan-plan]]; zadání pro založení byznysu v GrowOS: [[resources/digistart-growos-zadani]].
 
+**261017 — text prodejní stránky ve frontě ke schválení:** `GrowOS/digistart/work/pages/digistart-pilot-prodejni-stranka.md` (status review, titulky v `_digistart-pilot-prodejni-stranka/headlines.md`). Hlavní akce konzultace zdarma, vedle odkaz „rovnou se přihlásit“. Zástupné datum st 25. 11.; obsah setkání, souhlas Štěpánky, nutnost Claude Pro, pravidlo deseti účastnic a údaje GNOSTIKY jsou placeholdery. Ceník Claude ověřen 17. 10. (Pro 20 USD/měs., práce se soubory a Outlook jen v placených plánech), zapsáno v `GrowOS/digistart/brain/business.md`. Souběžně: Lenka zakládá FB stránku DigiStart, pak portfolio, reklamní účet a pixel (provází Claude). Lenka 17. 10.: text je „mdlý, ne sexy“, chce vidět stránky → tři soukromé koncepty v Leadpages s různým typem textu, barvy GNOSTIKY, titulek „Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás.“: A Situace https://leadpages.com/edit/n63zxtqhx71cnlmqbys8efbl · B Dvě pondělí https://leadpages.com/edit/qwlo617n3gbrmk497s3n0ba4 · C Obrazy (Met Open Access) https://leadpages.com/edit/fkurymm40wlxri37ox47msws. Zdrojové HTML v `GrowOS/digistart/work/pages/_digistart-pilot-prodejni-stranka/varianty/`. Lenka 17. 10. večer: **vybrána B** (vtipné „před a po“); C (obrazy) se k DigiStartu nehodí, jde do someday jako nápad pro vlastní kurzy; úvod B nemá stát na slově „Pondělí“ a závěr z A (výzva ke konzultaci se Štěpánkou) se přidá do B → nový koncept **B2** https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u (původní B nezměněn). 19:15: Lenčiny textové úpravy z B (verze 96) přeneseny do B2 (14 cílených změn). **Zdroj pravdy jsou koncepty v Leadpages** (Lenka upravuje v editoru), lokální HTML ve složce `varianty/` jsou jen výchozí verze. Postup pro Facebook, reklamní účet a pixel (ověřeno v nápovědě Meta): [[resources/digistart-facebook-postup]]. Stav 17. 10. večer: portfolio DigiStart (1997193427623921) Meta hned omezila (podezření na automatizaci), ověřovací kód pro kontrolu nepřichází; FB stránka DigiStart založena z Lenčina profilu mimo portfolio: https://www.facebook.com/profile.php?id=61595531789130. Reklamní účet a pixel zatím neexistují. 22:00: Lenka zveřejnila B (https://lenka-dvorakova.lpcontent.net/j67tluO9SB) a B2 (https://lenka-dvorakova.lpcontent.net/kmVMamhRG8) ke sdílení se Štěpánkou; ověřeno curlem: obě `noindex, nofollow` (hlavička i meta), v Leadpages potvrzeno `robotsIndexable: false`. Bez hesla. FB stránka má 2 příspěvky (antedatovat nejde).
+
 ## Otevřené otázky (DigiStart je zatím „oblak“, ne lineární postup — nejsou to next-actions)
 
 - **Jak se projekt nebo plugin předá účastnicím a jaký plán Claude potřebují** (projekty a dovednosti v běžném chatu; vlákna jako menu kurzu). Zatím jen otázka, bez kroku. **261014 (Notion Skills API):** předávání skillů přes Notion knihovnu a GitHub je řešení pro IT týmy; účastnice DigiStartu nepracují s Notionem ani GitHubem, takže pro ně zůstává jednodušší balíček souborů nebo nahrání skillu přímo do Claude (ověřit v pilotu); Notion cesta by případně dávala smysl až pro firmu s IT (firemní workshop, Team plán). Vzniklo 261006 z rozboru webináře BotBuilders, viz [[digistart-podklady]] (sekce „Co si vzít z webináře BotBuilders“). Až se obloukem dojde k rozhodnutí o formě balíčku a podobě pilotu, otázka se vyřeší sama; neuzavírat uměle.
@@ -140,13 +142,66 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 ### Víkend se Štěpánkou (10.–11. 10.)
 - [x] Nasdílet Štěpánce složku `resources/digistart-balicek-stepanka` ✅ 2026-10-11 — balíček prošli společně v Jičíně, zpětná vazba existuje
 - [x] Odpovědět Štěpánce na mail „DigiStart – shrnutí zkušebního průchodu“ — odpověď není potřeba, vyřešeno osobně ✅ 2026-10-11 (Lenka)
-- [ ] Sepsat projektový plán kampaně DigiStart (FB stránka, web/landing page, video, reklama, přihlášení, propojka kalendáře na konzultace, první dvě setkání pilotu): kroky, kdo co dělá (Lenka × Štěpánka), termíny do konce října, reklamy od začátku listopadu → Lenka s Claudem, pak projít se Štěpánkou #next-action #online
+- [x] Sepsat projektový plán kampaně DigiStart → checklist „Příprava kampaně do 30. 10.“ níž (Lenka s Claudem 261017) ✅ 2026-10-17
 - [ ] Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[resources/digistart-swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4 #next-action #online
-- [ ] Projít se Štěpánčinou zpětnou vazbou ze zkušebního průchodu (mail „DigiStart – shrnutí zkušebního průchodu“ z 11. 10.), zapracovat úpravy do skillů a návodů balíčku (její priority: krátká cesta C:\dgs, kontrola délky cest, citlivé údaje ve vzorcích, nevymýšlet fakta v osobním profilu, pojistky u pošty, blok „pod pokličkou“) a rozhodnout další kroky projektu #next-action #online
+- [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
-- [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit fakturaci, upomínky, upoutávky a CRM pro DigiStart; když to nepůjde rychle, jít cestou ruční faktury z Fakturoidu nebo přes Lenčino FAPI (navržený limit st 21. 10., čeká na Lenčino potvrzení) #next-action #online
+### Příprava kampaně do 30. 10. (checklist 261017, reklamy od 2. 11.)
+Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
 
-- [ ] Projít seznam otevřených rozhodnutí DigiStartu (sekce „Open decisions“ v `GrowOS/digistart/brain/decisions.md`: termín začátku, obsah setkání, konzultace, platba, DPH a právní ověření, cena po pilotu, Štěpánčin hlas a souhlas, domény a účty) a co je rozhodnuto, zapsat tam a odškrtnout; přidala Lenka s Claudem 261014 při založení byznysu v GrowOS #next-action #online
+**1. Rozhodnutí**
+- [ ] Datum začátku a rytmus setkání (st 11. 11., nebo 25. 11.; jednou, nebo dvakrát týdně) — L + Š, na společné schůzce #next-action #online
+- [ ] Obsah setkání 1–2: cíl a co si účastnice odnese — L #next-action #online
+- [ ] Délka a čas setkání, záznam ano/ne, osvědčení ano/ne — L + Š #online
+- [ ] Odpověď do FAQ „Je moje pošta v bezpečí?“ a přepsání celého FAQ na stránce (Lence se současné nelíbí) — L s C #online
+- [ ] Kde hostovat digistart.cz: Leadpages (vlastní doména), nebo Lenčin hosting (lenkadvorakova.cz, lcenglish.cz) — L #online
+
+**2. Meta a Facebook**
+- [ ] Meta: jednou zkusit kontrolu omezeného portfolia DigiStart v aplikaci Meta Business Suite v telefonu; když kód zase nepřijde, nezkoušet dál a říct Claudovi → návod pro Š, portfolio za GNOSTIKU ([[resources/digistart-facebook-postup]]) #next-action #telefon 📅 2026-10-18
+- [ ] Reklamní účet (CZK, Europe/Prague) a karta GNOSTIKY — L/Š, až bude portfolio bez omezení #online
+- [ ] Pixel, propojení stránky, účtu a pixelu, ID do `setup.md` — C, až bude účet
+- [ ] Š přijme pozvánku jako správkyně FB stránky (pozvána 17. 10.) — Š
+- [ ] Vymyslet systém, jak pohodlně přidávat příspěvky na FB stránku (Metricool je připojený, značka DigiStart) — L s C #online
+
+**3. Prodejní stránka B2** (https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u)
+- [ ] Doplnit žlutá místa: datum, setkání, Claude Pro (rozhodnuto: nutný), věta o deseti účastnicích (rozhodnuto: platí), údaje GNOSTIKY — L s C #online
+- [ ] Věty o Lence a Štěpánce napsat (zatím na stránce žádné nejsou), Š schválí svou — L s C, pak Š
+- [ ] Fotky do sekce o lektorkách (portréty 2024) a snímek webu GNOSTIKY o auditech — C
+- [ ] Kontrola textu 9 body, mobil, popis a náhled pro sdílení — C
+- [ ] Doména digistart.cz napojit (podle rozhodnutí v bodě 1) — L s C
+- [ ] Tlačítka na rezervaci a objednávku; před spuštěním pixel, zapnout indexování, smazat koncepty A, B, C — C
+
+**4. Konzultace**
+- [ ] Rezervace konzultací do Outlooku Š: Š prozkoumá Microsoft Bookings (Microsoft 365 GNOSTIKY); když ne, koupí vlastní TidyCal za 29 USD lifetime (https://appsumo.com/products/tidycal/) a napojí ho na svůj Outlook. Cesta „TidyCal Lenky s Outlookem Š“ vypuštěna (Lenka 261017) — Š
+- [ ] Š: kolik konzultací týdně zvládne a v jakých časech (souvisí s časem kurzu v listopadu) — Š, otázka v přehledu
+- [ ] Typ schůzky „Konzultace DigiStart, 30 min, zdarma“, zablokovat Řím 13.–18. 11. — L/Š
+- [ ] Formulář před konzultací — C návrh, L schválí
+- [ ] Scénář konzultace pro Š (otázky, komu kurz nepomůže, jak říct cenu) — C návrh, Š upraví
+- [ ] Potvrzovací mail a připomenutí — C text
+- [ ] Tabulka zájemkyň (kdo, kdy, výsledek) — C
+
+**5. Fakturace a platba** (limit st 21. 10.)
+- [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit platbu, fakturu a upomínky; když ne rychle, ruční faktura z Fakturoidu nebo Lenčino FAPI; zda prodává GNOSTIKA, je zatím otevřené (Lenka 261017, závisí i na Facebooku) — L s C #next-action #online 📅 2026-10-21
+- [ ] Objednávkový formulář: 15 000 Kč, karta + převod, správná věta o tom, kdy se platí — L s C
+- [ ] Obchodní podmínky a ochrana osobních údajů GNOSTIKY (vrácení peněz při neotevření, bez garance, prodávající s IČ) — L s C (Š by nevěděla, co se tím myslí; Lenka 261017)
+- [ ] Testovací objednávka celou cestou — L
+
+**6. Reklamy** (až bude účet a pixel; reklamy od 2. 11. do poloviny listopadu)
+- [ ] Výzkum reklam konkurence v Meta Ad Library (`ads-meta-research`) — C, jde už teď
+- [ ] Strop útraty na první kolo a kritérium po 14 dnech — L + Š
+- [ ] Kreativa: 2–3 statické reklamy v Canvě — C
+- [ ] Texty reklam (bez věku čtenářky) a kontrola zásad Meta (`ads-meta-compliance`) — C
+- [ ] Založit reklamy pozastavené (C), zapnout (L)
+- [ ] Video: nepovinné, až zbude kapacita
+
+**7. Kurz a balíček**
+- [ ] Projít se Štěpánčinou zpětnou vazbou ze zkušebního průchodu (mail z 11. 10.) a zapracovat úpravy do skillů a návodů balíčku (krátká cesta C:\dgs, kontrola délky cest, citlivé údaje ve vzorcích, nevymýšlet fakta v osobním profilu, pojistky u pošty, blok „pod pokličkou“) — L s C #online
+- [ ] Technika setkání (Zoom nebo Meet, odkaz, nahrávání) — L + Š
+- [ ] Co účastnice dostane po zaplacení (uvítací mail, co si připravit) — C návrh
+
+**8. Štěpánka**
+*Jen pro Lenku (261017, do přehledu pro Š nepatří):* Lence se zdá nereálné stihnout vše před Vánoci; většina práce stojí na ní, Š na DigiStartu moc nepracuje (věcem tolik nerozumí, možná ani nevidí, kolik práce zbývá). Cíl přehledu: ukázat Š celý plán a rozsah práce a zkusit na ni delegovat, co jde (Š má vlastního AI asistenta). Jak delegovat, zatím otevřené.
+- [ ] Poslat Š přehled toho, co je hotové, odkazy na stránky a úkoly pro ni (přehled „DigiStart – kde jsme“ připravil C 17. 10.: https://claude.ai/artifact/RpmPPjqABXCfVLn5jLMFAQ; dokument je soukromý, Lenka ho musí nasdílet přes Sdílet) — L #next-action #online
 
 ### Obsah kurzu
 - [x] Vymyslet náplň kurzu (Lenka sama) — návrh pilotu hotový ([[digistart-pilot-osnova]]), Štěpánce sdílen v Claude a poslán mailem jako Word ✅ 2026-09-30

@@ -17,7 +17,7 @@
 - Testimonials, results or numbers that do not exist. No participant has finished DigiStart. The feedback of Štěpánka Uličná from the test run may be used anonymously only, and she is also the second lecturer, so it must not be passed off as a participant's words. Lenka said on 2026-10-14 that Štěpánka agrees to be quoted. Whether with her name or anonymously is not said: confirm the wording when it is first used.
 - A fixed start date, while the date is open.
 - That participants will build and publish a website, until the content of the meetings includes it. That Lenka and Štěpánka did it is true and may be said.
-- What participants must pay Anthropic for a Claude plan, until verified.
+- The Claude Pro price as a fixed koruna amount. Required plan confirmed (Lenka, 2026-10-17); say "podle ceníku Anthropicu 20 USD měsíčně", paid to Anthropic.
 - Anything about competitors' courses that is not on their own pages.
 - Hiding the price behind a consultation. The price is stated openly.
 

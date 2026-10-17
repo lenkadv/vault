@@ -117,7 +117,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] NL #26: Drip naplánován na út 13. 10. ráno, Substack naplánován (https://artforenglish.substack.com/p/nic-nevypadlo-thank-you-very-much) ✅ 2026-10-12
 - [x] FB k #26: koncept v Metricoolu (Tady Lenka, 13. 10. 15:00, text „Dvě svatby, jeden rozvod…“, thumbnail z Dripu, první komentář s odkazem na Substack; https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-2452399304780397900) — zkontrolovat a naplánovat / zveřejnit ✅ 2026-10-13 — Lenka: vše nastavené, zbývá jen zveřejnění z Metricoolu; kontrola, že prošlo, je ve [[waiting-for]] (14. 10.)
 - [x] Po odeslání #26 (13. 10.): finální text z Dripu do `library/episodes/26-kahlo/newsletter.md`, porovnání se zveřejněnou verzí → lekce, kopie do `brain/samples/`, „Vydané díly“, curriculum, Substack zrcadlo ověřit, čas epizody je zapsaný ✅ 2026-10-13 — Lenka 13. 10.: vše je už všude nastavené
-- [ ] Rekapitulovat a odsouhlasit zadání epizody #27 (dílo i gramatika k upřesnění, curriculum) — odeslání 20. 10. #next-action #online 📅 2026-10-19
+- [ ] Art for English #27: zpracovat epizodu jako jeden úkol v jednom bloku (zadání — dílo a gramatika k upřesnění, brief, text, Drip, Substack, FB upoutávka), odeslání út 20. 10. #next-action #online 📅 2026-10-19
 - [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
 - [x] Do Substack verze #26 vložit odkaz na díl #17 ✅ 2026-10-12 — vloženo do draftu (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu)
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
