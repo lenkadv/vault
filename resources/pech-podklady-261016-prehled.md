@@ -52,6 +52,8 @@ Rozdíly proti našim kartám: u 01, 14 a 15 se mění čísla slajdů, takže n
 - Celá spolužácká podsložka s prezentacemi tak nepřináší nic, co by nebylo v aktualizovaných. Je ~300 MB.
 - Uvnitř aktualizovaných jsou páry `.ppt` + `.pptx` u 04, 05, 09, 14. U 04, 05, 09 se nepodařilo zjistit datum uložení `.ppt` (PowerPoint ho nevydal). Odhad: `.pptx` mají starší datum uložení (2023–2024), takže `.ppt` je aktuální; není to ověřené. U 14 je jasně nejnovější `…1.pptx`.
 
+**Úklid 261017 (na pokyn Lenky):** v aktualizovaných zůstala od každé prezentace jedna verze. Do `Pech 19-20stoleti podklady\smazat\` přesunuty `.pptx` u 04 (39 sl., chybí 1 slajd oproti `.ppt`), 05 (text shodný s `.ppt`), 09 (54 sl., chybí 8 slajdů) a obě staré verze 14 (`.ppt` 96 sl., `.pptx` 97 sl.). Nová 14 (120 sl.) přejmenována z `…KTF)1.pptx` na `…KTF).pptx`. Ponechané `.ppt` u 04 a 09 odpovídají počtem slajdů našim kartám z 261006. Dvě verze má jen 01 (záměrně, viz níže).
+
 **Úklid 261016 (na pokyn Lenky):** staré verze přesunuty do `Pech 19-20stoleti podklady\smazat\` (spolužácká podsložka s 10 prezentacemi, 5 PDF a 16 odkazů `.gslides` z kořene; 324 MB). Smazat ji může Lenka sama. **Rozhodnutí Lenky 261016:** čtyři díla, která nová 01 nemá, **zůstávají v Anki kartách** (umí je). Výjimka: u 01 Klasicismus má stará verze 4 díla, která nová nemá (Sabinky a Paolina Borghese jsou i na seznamu děl od spolužáků), proto zůstala jedna kopie v kořeni složky jako `01 Klasicismus (STARÁ verze, obsahuje Sabinky, Fragonarda, Paolinu Borghese).pptx`. Zdrojové exporty pro skripty (`Documents\pech-export`) se nezměnily. Odkazy `.gslides` ukazují na Google Prezentace, které leží jinde na Disku a přesunem se nesmazaly.
 
 ## 4. Přehledovka výběr (PDF) a Otázky-obrázky (Pages)
