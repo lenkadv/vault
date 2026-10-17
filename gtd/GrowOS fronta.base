@@ -1,0 +1,76 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.path.startsWith("GrowOS/")
+    - file.path.contains("/work/")
+    - status.isTruthy()
+    - '!file.path.contains("/_")'
+properties:
+  note.headline:
+    displayName: Co to je
+  note.business:
+    displayName: Byznys
+  note.channel:
+    displayName: Kanál
+  note.type:
+    displayName: Typ
+  note.status:
+    displayName: Stav
+  note.note:
+    displayName: Tvoje poznámka
+  note.created:
+    displayName: Vytvořeno
+views:
+  - type: table
+    name: Čeká na tebe
+    filters:
+      and:
+        - status == "review"
+    order:
+      - note.headline
+      - note.business
+      - note.channel
+      - note.created
+    sort:
+      - property: note.created
+        direction: DESC
+  - type: kanban
+    name: Nástěnka
+    filters:
+      and:
+        - status != "published"
+        - status != "rejected"
+    groupBy:
+      property: note.status
+      direction: ASC
+    order:
+      - note.headline
+      - note.business
+      - note.channel
+      - note.note
+  - type: table
+    name: Rozpracované a vrácené
+    filters:
+      or:
+        - status == "draft"
+        - status == "changes"
+    order:
+      - note.headline
+      - note.status
+      - note.business
+      - note.note
+      - note.created
+    sort:
+      - property: note.created
+        direction: DESC
+  - type: table
+    name: Všechno
+    order:
+      - note.headline
+      - note.status
+      - note.business
+      - note.channel
+      - note.created
+    sort:
+      - property: note.created
+        direction: DESC
