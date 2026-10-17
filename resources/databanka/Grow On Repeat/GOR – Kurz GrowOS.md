@@ -14,7 +14,7 @@ tema:
   - GrowOS
   - prodejní stránka
 pouzij_kdyz: "nevíš, jak GrowOS funguje (fronta, stavy, brain, Obsidian), chceš postavit vlastní skill, nebo píšeš prodejní stránku kurzu o AI"
-stav: prohlédnuto
+stav: použito
 nainstalovano: ne
 verdikt: ""
 soubor: "Databanka AI/Grow On Repeat GrowOS 261018/00 REJSTRIK – kurz GrowOS.md"
