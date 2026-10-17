@@ -14,7 +14,7 @@ Inspirace pro texty a vizuály kampaně → [[digistart]]. Formáty a mechaniky 
 - **Kde použít:** úvod landing page, FB reklama (první věty), e-mail zájemkyním. Zatím jen návrh, až se budou psát texty kampaně.
 - **Vizuály:** „Comedy Creatives“ z téhož mailu vypadají podle Lenky jako obrazy a jsou vtipné (konkrétní vizuály jsou jen v mailu). Možný směr pro reklamní vizuál DigiStartu (obraz s vtipným popiskem); zatím jen inspirace, ke které se možná vrátíme.
 
-## Lievák na živý kurz — Danny Iny (Mirasee), AI Strategist 26.–28. 10. 2026 (stav 14. 10. 2026)
+## Funnel na živý kurz — Danny Iny (Mirasee), AI Strategist 26.–28. 10. 2026 (stav 14. 10. 2026)
 
 - **Zdroj:** [stránka čtvrtého videa „Find Your AI Blind Spots“](https://go.mirasee.com/2026/oct-ais-video-4) (registrace otevřená, uzávěrka v neděli 18. 10. o půlnoci pacifického času); úvodní mail [Gmail – „The Socrates Problem“ (12. 10.)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878854859188404043) zůstává v Inboxu. Videa 1–4 (6., 8., 10., 12. 10.) si přepíše Lenka a transkripty se sem doplní. Pozor: odkaz z mailu (`?seat=free`) ukazuje jinou verzi stránky než čistý odkaz (viz bod 3).
 - **Proč je to pro nás vzor:** Danny Iny teď projde přesně tím, k čemu míříme my: shání účastníky na živý několikadenní program s povinnou přípravou a na konci série videí otevírá registraci.
