@@ -180,6 +180,14 @@ Načti `G:\Můj disk\vault\gtd\next-week-priorities.md`. Toto je **kontext**, ne
 
 Přečti `G:\Můj disk\vault\resources\postupy\svodka.md` a sestav svodku z nevytříděných mailů od posledního čísla (obvykle za uplynulý den, po delší pauze za víc dní). Maily z oddílu „Vyžaduje pozornost“ přesuň do hlavního inboxu. Svodku publikuj na stálou adresu a do plánu dej jeden řádek s odkazem. Věci s termínem z „Vyžaduje pozornost“ ber jako kandidáty do flexibilního seznamu.
 
+**e3. Fronta GrowOS (od 261018).**
+
+Projdi `G:\Můj disk\vault\GrowOS\*\work\` (bez souborů a složek začínajících `_`) a z hlavičky každého souboru vytáhni `status`, `headline`, `business`, `channel`, `created`. Zajímají tě dvě skupiny:
+- `status: review` = **čeká na Lenčino rozhodnutí**;
+- `status: approved` = schváleno, ale ještě nevydáno (můj úkol, ne její).
+
+Když je obojí prázdné, v plánu nic nepiš. Lenka rozhoduje ráno; při zavírání se jí na schvalování nikdy neptej (tam jen tichá kontrola, krok 5a v `CLAUDE.md`). Její odpověď v denním vlákně („1 ano, 2 oprav: …“) zapiš podle skillu `review-queue`: schválení `review → approved`, oprava `review → changes` s jejími přesnými slovy v `note`.
+
 **f. Uživatelovy tasky.**
 
 Zeptej se:
@@ -211,6 +219,8 @@ Zeptej se:
 
 Výjimky (nevypisovat do warningu): **family** a **finances-admin** mají vlastní dynamiku a neřídí se aktivním zásahem den co den. **japanese** vypisovat, ale ne jako naléhavý požadavek, pokud právě běží jiný intenzivní blok (např. seminárka) — spíš jako „až poleví".
 
+**5b. Fronta GrowOS.** Pokud krok 2e3 něco našel, přidej pod MITy krátkou sekci `## 🗂️ Čeká na tebe v GrowOS`: číslovaný seznam položek ve stavu `review` (název, byznys, kanál) a pod ním jednu větu „Odpověz třeba: 1 ano, 2 oprav: … Nástěnka: [[GrowOS fronta.base]]“. Položky `approved` dej jen jako řádek „Schváleno, čeká na vydání (dělám já): …“. Sekci počítej do plánu, ne mezi MITy.
+
 **6. Večerní řádek (stálý, do 31. 10. 2026).** Na konec plánu přidej jednu větu: „🌙 Večer: místo další práce pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix); test do 31. 10., jestli se vyplatí roční studentské členství, viz next-actions.“ Platí každý den do 31. 10. 2026 (Lenka 261011: spoléhat na můj spouštěč nestačí). Po tomto datu řádek vypustit a vyhodnotit test při weekly review.
 
 ### Krok 4 — Ulož soubor
@@ -239,6 +249,8 @@ Plán uložen → daily/{YYMMDD}.md
 📋 Kdyby náhodou zbyl čas
 - {úkol}
 - {úkol}
+
+{volitelně: 🗂️ Čeká na tebe v GrowOS: 1. {název} ({byznys}) …}
 
 {volitelně: ⚠️ 5+ dní bez: [oblast]}
 ```

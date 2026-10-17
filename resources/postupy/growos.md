@@ -95,7 +95,8 @@ GrowOS brain sám od sebe nedoplňuje a Doktor hlídá jen strukturu, ne zastara
 1. `grep -n PLACEHOLDER` v `GrowOS/<byznys>/brain/*.md` a `setup.md` a projít i věty typu „neexistuje / zatím ne / not yet“.
 2. Porovnat s tím, co se v sezení stalo nebo rozhodlo (založené účty, stránky, rozhodnutí Lenky). Co je zastaralé, rovnou opravit (fakta s datem a zdrojem); co je rozhodnutí, zapsat do `decisions.md` a smazat z „Open decisions“.
 3. Stav work items: co Claude dodělal pro Lenku, posunout `draft → review`; co čeká na někoho jiného (Štěpánka), zůstává ve stavu a čekání jde do [[waiting-for]] (GrowOS stav „čeká na jiného“ nemá).
-4. Lence jednou větou: „Brain DigiStart doplněn: X, Y.“ ID účtů do `setup.md` jen po jejím potvrzení.
+4. Na schvalování se Lenky při zavírání neptat (je unavená, nedělala by to). Rozhoduje ráno: denní plán vypíše sekci „Čeká na tebe v GrowOS“ a ona odpoví jednou větou, nebo přetáhne kartu na nástěnce [[GrowOS fronta.base]] (jen ze sloupce `review`).
+5. Lence jednou větou: „Brain DigiStart doplněn: X, Y.“ ID účtů do `setup.md` jen po jejím potvrzení.
 
 Vzniklo 261018: brain DigiStart den po založení FB stránky pořád tvrdil, že stránka neexistuje.
 
