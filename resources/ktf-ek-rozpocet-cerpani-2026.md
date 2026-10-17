@@ -2,7 +2,7 @@
 
 Přehled z materiálů pro AS UK (zasedání 23. 10. 2026) a z návrhu VZH 2025. Zpracováno 261017. **Použij, až budeš řešit:** jednání EK nebo senátu o rozvaze 2026 a VZH 2025, otázku, kolik smí fakulta bez schválené rozvahy utratit.
 
-Dokument pro Disk: `G:\Můj disk\01 PRIVATE 🏡\Spolky a funkce\KTF Ekonomická komise\261017_KTF_rozpis_cerpani_provizorium_LD.docx`
+Dokument na Disku (složka `KTF Ekonomická komise`): Google dokument [261017 KTF rozpis, čerpání a provizorium (LD)](https://docs.google.com/document/d/15aFsEzGL0dK5QrtJ6MT1ciiot3ZnrfkQxohobG4CohA/edit); stejný obsah ve Wordu `261017_KTF_rozpis_cerpani_provizorium_LD.docx` (pro přílohu mailu).
 
 ## Zdroje (složka `KTF Ekonomická komise`)
 
