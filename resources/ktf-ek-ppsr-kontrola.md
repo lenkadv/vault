@@ -95,3 +95,5 @@ Připravena kopie `kontrola PPSŘ_pracovní materiál_LD.xlsx` (původní soubor
 ## Investiční plán UK 2027 (261011) — není součást kontroly PPSŘ
 
 Příloha `03b_PR_SZ_UK_2027_PŘÍLOHA_PIA_STROJE_PRISTROJE.xlsx` (Plán investičních aktivit UK 2027, stroje a přístroje; ve složce `KTF Ekonomická komise`, jen k nahlédnutí) **nesouvisí bezprostředně s kontrolou PPSŘ**. Že je v ní jedna položka placená z PPSŘ (KTF, AI hardware, 400 000 Kč, shoduje se s investiční částkou AF-5 na 2027), je shoda okolností. Nezařazovat do nálezů ani do analýzy kontroly. Za KTF 4 položky (1 + 3): AI 400 000 Kč (PPSŘ) a knihovna 1 893 068 Kč z OP JAK ERDF Kvalita (čistící stroj, SelfCheck, regály). Dotazy komisi (WhatsApp 261011): co se plánuje za výzkum a výuku a kdo se tomu bude věnovat; je u knihovních položek spoluúčast fakulty? Popis „vlastní AI model“ pochází z buňky E7 této tabulky, ne z textu AF-5.
+
+Související přehled: [[ktf-ek-rozpocet-cerpani-2026]] (rozpis 2026, čerpání k 30. 6. 2026, provizorium 1/12; 261017).
