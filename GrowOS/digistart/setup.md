@@ -61,7 +61,7 @@ simply one GrowOS will ask about the first time it comes up.
 ### Website
 - Address: digistart.cz (Lenka, 2026-10-14). The domain exists and is parked at Czechia. No page on it yet.
 - Platform: Leadpages (Lenka's choice, 2026-10-14). Publishing only as a private draft until Lenka says otherwise.
-- Notes: [PLACEHOLDER: anything the system should know]
+- Notes: sales page concepts A, B, C and B2 exist in Leadpages (2026-10-17); B and B2 are published with noindex only so Štěpánka can read them. Domain hosting is open (see `brain/decisions.md`).
 
 ### Email and newsletter
 - Channel: email
@@ -78,8 +78,8 @@ The platform is recorded on each post, and GrowOS tells you which platform a
 post is for when it hands it over.
 
 - Channel: social
-- Provider: Metricool, for the DigiStart Facebook page once it exists (Lenka's choice, 2026-10-14)
-- Destination id: [PLACEHOLDER: the page, profile, or channel ID — not the handle]
+- Provider: Metricool, for the DigiStart Facebook page (Lenka's choice, 2026-10-14). The page exists and Metricool is connected, brand DigiStart (2026-10-17).
+- Destination id: [PLACEHOLDER: the page, profile, or channel ID — not the handle. The page URL shows 61595531789130; Lenka confirms before it goes here.]
 - Route: [PLACEHOLDER: connector / api / manual]
 - How far to go: safe-state
 - Note: Lenka, brief of 2026-10-14: drafts and paused items, Lenka turns things on.

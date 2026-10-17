@@ -89,6 +89,16 @@ Platí pro všechny publishing projekty: [[tadylenka-publishing]], [[lcenglish-a
 - Recenze výstav a vlajkový esej běží nezávisle, bez rozvrhu (recenze navázané na studium).
 - Cílové tempo, ne bič — laťka nízko schválně, při nárazu jiné práce se díl posune. Reálný čas na díl → `memory/project_task_durations.md`. Sezónní kalendář nárazů viz [[projects/tadylenka-publishing]].
 
+## Kontrola brainu při zavírání GrowOS vlákna (261018)
+
+GrowOS brain sám od sebe nedoplňuje a Doktor hlídá jen strukturu, ne zastaralý obsah. Proto při každém „zavírám“ ve vlákně, kde se pracovalo na byznysu v GrowOS (DigiStart, lcenglish, tadylenka):
+1. `grep -n PLACEHOLDER` v `GrowOS/<byznys>/brain/*.md` a `setup.md` a projít i věty typu „neexistuje / zatím ne / not yet“.
+2. Porovnat s tím, co se v sezení stalo nebo rozhodlo (založené účty, stránky, rozhodnutí Lenky). Co je zastaralé, rovnou opravit (fakta s datem a zdrojem); co je rozhodnutí, zapsat do `decisions.md` a smazat z „Open decisions“.
+3. Stav work items: co Claude dodělal pro Lenku, posunout `draft → review`; co čeká na někoho jiného (Štěpánka), zůstává ve stavu a čekání jde do [[waiting-for]] (GrowOS stav „čeká na jiného“ nemá).
+4. Lence jednou větou: „Brain DigiStart doplněn: X, Y.“ ID účtů do `setup.md` jen po jejím potvrzení.
+
+Vzniklo 261018: brain DigiStart den po založení FB stránky pořád tvrdil, že stránka neexistuje.
+
 ## Nový byznys: hlídání otevřených rozhodnutí (261014)
 
 GrowOS `[PLACEHOLDER]` sám nehlídá. U každého nově založeného byznysu: sekce „Open decisions“ nahoře v `GrowOS/<byznys>/brain/decisions.md` (kdo rozhoduje), jeden `#next-action` v projektu ve vaultu, který na ni odkazuje, a poznámka v `brain/memory/MEMORY.md`, ať se čte na začátku práce. Rozhodnutí podávat Lence po jednom. Rozhodnuté zapsat jako dated entry, doplnit placeholder, řádek smazat. Paměť `feedback_growos_placeholders_hlidat`.

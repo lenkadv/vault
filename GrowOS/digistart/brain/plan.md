@@ -27,7 +27,7 @@ In Lenka's words: nearly everything at once. There is a lot to do, capacity is l
 ## Our focus channels and why
 
 - **Facebook: a DigiStart page and paid ads** — the planned and only way in, since there are no warm contacts. Whether women of this kind are really on Facebook is **unchecked**. Ads are created paused and Lenka turns them on.
-- **A page on the web with a booking button and a "buy now" button** — where the ad leads. Price shown openly. [PLACEHOLDER: tool and address. Leadpages is the plan's candidate; domain not known.]
+- **A page on the web with a booking button and a "buy now" button** — where the ad leads. Price shown openly. Tool: Leadpages (concepts A, B, C built 2026-10-17; B chosen, now B2; waiting for Štěpánka). [PLACEHOLDER: address. Open: digistart.cz on Leadpages as a custom domain, or on Lenka's own hosting.]
 
 - **Video** — Lenka's ambition, so it is in the plan, not "not now". If capacity does not allow it, it is cut. The campaign plan has the page ready with a place for it, and the first ad round does not need it.
 
