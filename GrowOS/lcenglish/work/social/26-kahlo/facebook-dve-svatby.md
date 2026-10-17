@@ -6,11 +6,17 @@ project: repurpose-26-kahlo
 platform: facebook
 intent: story
 id: mhe36v5d9x
-status: draft
+status: published
 business: lcenglish
 channel: social
 created: 2026-10-14
 note: ""
+publish_destination: manual
+publish_attempted_at: "2026-10-13T13:00:00Z"
+publish_state: prepared
+publish_note: "Příspěvek zveřejnila Lenka z Metricoolu v úterý 13. 10. 2026 v 15:00 (naplánováno, podle jejího vyjádření vyšel). Stav zpětně dorovnán 17. 10. 2026 na Lenčin pokyn; čas publish_attempted_at je naplánovaný čas, ne ověřený okamžik."
+publish_reason: owner-chose-manual
+published_at: "2026-10-17T21:35:00Z"
 ---
 
 # Facebook - dvě svatby, jeden rozvod
