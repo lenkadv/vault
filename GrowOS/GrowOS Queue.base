@@ -32,6 +32,7 @@ views:
       - project
       - note.note
       - created
+      - status
     sort:
       - property: status
         direction: ASC
@@ -62,5 +63,7 @@ views:
       - headline
       - created
     sort:
+      - property: business
+        direction: DESC
       - property: created
         direction: DESC

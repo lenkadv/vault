@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: story
 id: bqatzrixnt
-status: approved
+status: published
 business: lcenglish
 channel: social
 created: 2026-10-05

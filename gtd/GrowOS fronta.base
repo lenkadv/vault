@@ -27,12 +27,12 @@ views:
       and:
         - status == "review"
     order:
-      - note.headline
-      - note.business
-      - note.channel
-      - note.created
+      - headline
+      - business
+      - channel
+      - created
     sort:
-      - property: note.created
+      - property: created
         direction: DESC
   - type: kanban
     name: Nástěnka
@@ -41,12 +41,12 @@ views:
         - status != "published"
         - status != "rejected"
     groupBy:
-      property: note.status
+      property: status
       direction: ASC
     order:
-      - note.headline
-      - note.business
-      - note.channel
+      - headline
+      - business
+      - channel
       - note.note
   - type: table
     name: Rozpracované a vrácené
@@ -55,22 +55,24 @@ views:
         - status == "draft"
         - status == "changes"
     order:
-      - note.headline
-      - note.status
-      - note.business
+      - headline
+      - status
+      - business
       - note.note
-      - note.created
+      - created
     sort:
-      - property: note.created
+      - property: created
         direction: DESC
   - type: table
     name: Všechno
     order:
-      - note.headline
-      - note.status
-      - note.business
-      - note.channel
-      - note.created
+      - headline
+      - status
+      - business
+      - channel
+      - created
     sort:
-      - property: note.created
+      - property: status
+        direction: DESC
+      - property: created
         direction: DESC

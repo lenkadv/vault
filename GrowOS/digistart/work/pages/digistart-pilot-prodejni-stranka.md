@@ -1,14 +1,14 @@
 ---
 type: sales-page
-headline: "Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás."
+headline: Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás.
 skill: landing-page-write
-arc: "mechanism"
+arc: mechanism
 id: 08nsvlhil6
 status: draft
 business: digistart
 channel: pages
 created: 2026-10-17
-note: ""
+note: čekáme na Štěpánku, možná zpracovat verzi s ponaučením z GrowOS
 ---
 
 # DigiStart pilot: prodejní stránka (text, struktura, směr vzhledu)
