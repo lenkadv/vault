@@ -98,6 +98,8 @@ Mail „podklad na pondělí“ od Marušky (17. 10., z OpatrnaM@seznam.cz), př
 
 Maruška přidala: „Dosavadní průběh“ a blok „Nejdůležitější zjištění po aktivitách“ (A2/2025 dvě jména z účetní sjetiny, A6 marketing jako „neobvyklé čerpání“, A9 opatření děkana vykázané 2024 i 2025, ale nevydané, A10 kariérní poradenství bez kariérního centra), závěrečnou větu „alarmující“.
 
+Tahák na schůzku (261018): Google dokument [261019 EK – tahák ke kontrole PPSŘ (LD)](https://docs.google.com/document/d/1gEhLgLzBGIEefBmGgRm7r4Z2dV_REsN6vK-rDexUW_w/edit) ve složce `KTF Ekonomická komise` – sedm zjištění, co přidala Maruška, proč bez jmen u A2, návrhy ostřejších formulací (Lenka: výstup má být ostrý a kritický, ostrost = čísla a nedoložené věci, ne přívlastky), věty do diskuse, k domluvě.
+
 Na co upozornit (261018, moje čtení, Lenka rozhodne): jména osob v A2 (Lenčino pravidlo „bez jmen“); v textu zůstala první osoba z mé analýzy („Můj předpoklad… podle mě šlo o čistě účetní operaci“, „uvádím“, „nenajdu“, „doporučuji“), tedy Lenčina interpretace, kterou nechtěla ve formálním textu; věta „vypadá jako účelová úprava výkazu“; datum „doložení do 15. 9.“ po schůzce 25. 9. (nejspíš 15. 10., domněnka); „podklady dodány 17. 8.“ vs. mail Procházkové 7. 8.
 
 ## Investiční plán UK 2027 (261011) — není součást kontroly PPSŘ

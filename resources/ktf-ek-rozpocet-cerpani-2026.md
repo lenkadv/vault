@@ -29,6 +29,7 @@ Dokument na Disku (složka `KTF Ekonomická komise`): Google dokument [261017 KT
 
 - Průměr 5,23 mil./měsíc vs. 1/12 ≈ 6,1 mil. Jen pololetní souhrn (pravidlo je měsíční) a jsou to náklady, ne výdaje.
 - Meziročně náklady +1,73 mil. (+5,8 %), osobní náklady +2,66 mil. (+13,4 %), cestovné 368 → 120 tis.
+- **Co je „ztráta“ (261018):** účetní výsledek za pololetí (náklady 31,38 − výnosy 30,15 mil.), ne přečerpání rozpisu. Hlavní příčina: MŠMT do 30. 6. neposlalo UK dotaci na DKR (provizorium státu v Q1 2026, promítnutí hodnocení VO 2025+), fakulty ji nezaúčtovaly do výnosů (účet 691). DKRVO = dlouhodobý koncepční rozvoj výzkumné organizace (institucionální podpora výzkumu, KTF 2026: 9,51 mil.). Po připočtení 4,6 mil. by pololetí bylo ≈ +3,4 mil. (vlastní přepočet). Zdroj: `UK-Hospodareni do 2026-06_AS.pdf`, úvodní komentář + tabulka fakult se ztrátou.
 - HV −1 230 tis. (loni +10 617). RUK: chybí DKR 4,6 mil., nižší TAČR −0,9, OP JAK −0,4, instit. podpora −0,3. Ztrátu má 10 fakult/součástí UK.
 
 ## Rozpis 2026 vs. 2025 (Kč, tabulka „Porovnání s r-1“ v rozpisu UK)
