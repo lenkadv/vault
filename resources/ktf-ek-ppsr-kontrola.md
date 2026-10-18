@@ -92,6 +92,14 @@ Tohle je výklad, který z nálezů dovozuje Lenka. Není to doložený fakt, pr
 Připravena kopie `kontrola PPSŘ_pracovní materiál_LD.xlsx` (původní soubor beze změny). Struktura Maruščiny tabulky (A–I) zůstala, moje doplnění je ve sloupcích J–O (modré): alokace dle kont, náklady dle kont (5+7), čerpáno dle výkazu RUK, rozdíl, komentář, k doložení/dotaz. Druhý list „LD – obecně a otázky" = obecné zjištění (112 833 Kč), 6 dotazů na fakultu a co je odvozeno. Lenka to po schválení přepíše do Maruščiny verze; forma předání (Excel / WhatsApp / mail) se rozhoduje potom.
 
 
+## Maruščina zpráva na EK 19. 10. 2026 (261018)
+
+Mail „podklad na pondělí“ od Marušky (17. 10., z OpatrnaM@seznam.cz), příloha `20_10.docx` ve složce `KTF Ekonomická komise`. Je to „Pracovní materiál – stav kontroly k 18. 10. 2026“, postavený na mé analýze z 260920 (kapitoly 3–6 a příloha A převzaty téměř doslova). Fakulta do schůzky nic nedoplnila (mail MV 16. 10.), EK 19. 10. 9:00 Zoom projedná stav kontroly z dodaných podkladů + materiály EK UK od Radka (viz [[ktf-ek-rozpocet-cerpani-2026]]).
+
+Maruška přidala: „Dosavadní průběh“ a blok „Nejdůležitější zjištění po aktivitách“ (A2/2025 dvě jména z účetní sjetiny, A6 marketing jako „neobvyklé čerpání“, A9 opatření děkana vykázané 2024 i 2025, ale nevydané, A10 kariérní poradenství bez kariérního centra), závěrečnou větu „alarmující“.
+
+Na co upozornit (261018, moje čtení, Lenka rozhodne): jména osob v A2 (Lenčino pravidlo „bez jmen“); v textu zůstala první osoba z mé analýzy („Můj předpoklad… podle mě šlo o čistě účetní operaci“, „uvádím“, „nenajdu“, „doporučuji“), tedy Lenčina interpretace, kterou nechtěla ve formálním textu; věta „vypadá jako účelová úprava výkazu“; datum „doložení do 15. 9.“ po schůzce 25. 9. (nejspíš 15. 10., domněnka); „podklady dodány 17. 8.“ vs. mail Procházkové 7. 8.
+
 ## Investiční plán UK 2027 (261011) — není součást kontroly PPSŘ
 
 Příloha `03b_PR_SZ_UK_2027_PŘÍLOHA_PIA_STROJE_PRISTROJE.xlsx` (Plán investičních aktivit UK 2027, stroje a přístroje; ve složce `KTF Ekonomická komise`, jen k nahlédnutí) **nesouvisí bezprostředně s kontrolou PPSŘ**. Že je v ní jedna položka placená z PPSŘ (KTF, AI hardware, 400 000 Kč, shoduje se s investiční částkou AF-5 na 2027), je shoda okolností. Nezařazovat do nálezů ani do analýzy kontroly. Za KTF 4 položky (1 + 3): AI 400 000 Kč (PPSŘ) a knihovna 1 893 068 Kč z OP JAK ERDF Kvalita (čistící stroj, SelfCheck, regály). Dotazy komisi (WhatsApp 261011): co se plánuje za výzkum a výuku a kdo se tomu bude věnovat; je u knihovních položek spoluúčast fakulty? Popis „vlastní AI model“ pochází z buňky E7 této tabulky, ne z textu AF-5.
