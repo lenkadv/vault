@@ -28,9 +28,12 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
   - Lenka 260930: sociální sítě odložené, protože jí nešly. Malá odezva (IG, carousely A4E) mohla být dána tím, že neví, jak na to, ne kanálem samotným. Až bude prostor, zkusit s nimi experimentovat tak, aby ji to nevyčerpalo; Blotato přijde na řadu až po tom.
 
 - **Sociální sítě — úklid účtů (260930)** — mapa v memory `reference_social_accounts_map` a [[VL – metricool]]:
-  - Facebook **Všichni svatí** zrušit nebo sloučit s tady Lenka (hlavní místo pro umění i svaté je tady Lenka).
+  - Facebook **Všichni svatí** zrušit nebo sloučit s tady Lenka (hlavní místo pro umění i svaté je tady Lenka). **261018:** Lenka by sloučení ráda. Podle návodů třetích stran (oficiální stránka nápovědy Meta neověřena): sloučit jde jen stránky s podobným názvem, které představují totéž, a Lenka musí být správkyní obou; při rozdílných názvech nejdřív přejmenovat; sloučená stránka přijde o všechen obsah (sledující přejdou). Claude to přes své nástroje udělat neumí. Jednodušší varianta: na Všech svatých rozlučkový příspěvek s odkazem na Tady Lenka a stránku skrýt/zrušit. Zdroje: https://www.agorapulse.com/blog/how-to-merge-two-facebook-pages/ · https://www.synup.com/en/how-to/how-to-merge-two-duplicate-facebook-pages
   - Facebookovou stránku **tady Lenka** Lenka kdysi sloučila s LCEnglish (angličtina + umění pod jednou střechou); dnes se jí to už nezdá jako dobrý nápad. Rozhodnout, jestli angličtinu a umění zase oddělit, až se bude řešit návrat k sítím.
-  - Web **lenkadvorakova.cz** (brána ke všem projektům, vizitka) potřebuje údržbu.
+
+- **Údržba webu lenkadvorakova.cz** (brána ke všem projektům, vizitka) — potřebuje údržbu, docela určitě se udělá (Lenka 261018; vyčleněno ze „Sociální sítě — úklid účtů“).
+
+- **Údržba webu lcenglish.cz** — potřebuje údržbu, docela určitě se udělá (Lenka 261018).
 
 - **Prodejní stránka kurzu AI „rámovaná uměním“ (obrazy starých mistrů s vtipnými popisky)** — Lence se nápad moc líbí (261017), ale hodí se jen pro kurzy, které by vedla **sama, bez Štěpánky**; u DigiStartu se nepoužije. Hotový vzor: koncept C v Leadpages „DigiStart – C Obrazy (koncept)“ https://leadpages.com/edit/fkurymm40wlxri37ox47msws (nepublikovaný), zdrojové HTML a obrázky `GrowOS/digistart/work/pages/_digistart-pilot-prodejni-stranka/varianty/C-obrazy.html` + `img/`. Obrazy z Met Open Access (Vermeer *A Maid Asleep* a *Young Woman with a Water Pitcher*, Degas *A Woman Ironing*, ter Borch *Curiosity*, Maes *The Lacemaker*), volná díla. Původ nápadu: [[resources/digistart-swipe]] (vizuály ve stylu obrazů).
 
@@ -48,6 +51,7 @@ Věci, kde ještě nepadla volba. Přehodnotit při weekly review.
   - **Kritérium:** Vítek pravidelný rozvrh nemá, takže okna hledat průběžně: když je přes den (hlavně o víkendu) doma prázdno a je před 21:00, sednout ke klavíru — s budíkem, aby hraní nespolklo zbytek dne. První pokus o víkendu 3.–4. 10. (hotovo 3. 10., viz níže). Myšlenka se teď často vrací — signál, že stojí za to okna aktivně hledat.
   - **První pokus 3. 10. 2026:** začala Rachmaninova, prokousala se prvními dvěma takty (zná noty, hrát to neumí). Další okno hledat průběžně podle kritéria výše.
   - **Doplněk 261011 (Lenka):** od prvního pokusu zahrála za minulý týden asi dvakrát až třikrát, vždy chvilku, aspoň dvakrát trochu déle. Zatím to jde, ne nijak intenzivně.
+  - **261018 (Lenka):** tento týden ani jednou — hodně práce (FEKT, DigiStart).
   - **Vyhodnotit při weekly review kolem 31. 10.**, spolu s rytmem semestru.
 
 ## Ostatní

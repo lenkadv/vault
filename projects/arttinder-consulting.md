@@ -4,24 +4,26 @@
 
 Freelance art consulting pro Michala Kociána (klient z F2F koučinku): pomoc s výběrem děl do nového domu, Lenka jako nezávislý průvodce.
 
-## Stav
+## Aktuální stav
 
-260920: po odložení do someday (260910) dohodnuto pokračování. Schůzka s Michalem Kociánem ve čtvrtek 24. 9.
-
-260924: schůzka proběhla (sada otázek). Schůzka st 7. 10. 2026 17:00 proběhla jen spolu (vycházka odpadla, 5. hodina balíčku). Schůzka út 13. 10. 2026 17:00 proběhla jen jako setkání (bez vycházky). Další schůzka **út 20. 10. 2026 17:00** (v kalendáři); v neděli 18. 10. ověřit počasí, jestli bude vycházka, nebo jen setkání.
+261018: Další schůzka s Michalem Kociánem **út 20. 10. 2026 17:00–18:00** (v kalendáři), bez vycházky. Minule chtěl, aby ho Lenka zase přiměla mluvit o něčem, o čem mluvit nechce → Lenka připravila srovnání stavebního zákona v ČR, Německu a Francii (Deep Research): nová česká úprava se v průběhu řízení inspirovala v těchto zemích, ale na rozdíl od nich výrazně oslabila památkovou péči a ochranu přírody. Do úterka z toho udělat zadání, které Michal dostane ke splnění. Znovu se mu nepřipomínat (Lenka 261017).
 
 **Sada otázek na schůzku:** [Google Doc](https://docs.google.com/document/d/1OHPiSk_C1f_VRUFiTVSEEO4R4Y8xF-sxqz5vI3NGkYM/edit?tab=t.0) (záměr a vztah k umění, vkus, prostor domu, rozpočet, proces).
 
 ## Next actions
 
-- [x] Schůzka s Michalem Kociánem — projít sadu otázek ✅ 2026-09-24
-- [x] O víkendu 3.–4. 10. prověřit počasí na 7. 10. ✅ 2026-10-04 — předpověď (Open-Meteo): sucho, max 19 °C, min 8 °C, vítr slabý, ráno mlha; následující den 8. 10. déšť a silnější vítr → vycházka vychází
-- [x] Napsat Michalu Kociánovi: schůzka st 7. 10. 17:00 bude vycházka (sucho, kolem 19 °C, v 17:00 už k večeru); domluvit, kde se sejít, případně co si vzít ✅ 2026-10-04 (napsáno, čeká se na odpověď → [[waiting-for]]) — odpověď 261004: z vycházky nic nebude, schůzka st 7. 10. 17:00 bude jen spolu (formát schůzky se dolaďuje)
-- [x] Schůzka s Michalem Kociánem st 7. 10. 17:00 — jen schůzka spolu (vycházka odpadla, Michal 261004) #next-action #online ✅ 2026-10-07
+- [ ] Zpracovat Deep Research o stavebním zákoně (ČR × Německo × Francie: řízení převzato, památková péče a ochrana přírody oslabeny) do úkolu/zadání pro Michala Kociána, aby ho mohl na schůzce dostat ke splnění (Deep Research z Gemini: [Google Doc](https://docs.google.com/document/d/15Uw7o6hbaJZiwM7Zfxm9PEVc6AqyvvptarlfzqN3R7s/edit?tab=t.0)) #next-action #online 📅 2026-10-20
+- [ ] Schůzka s Michalem Kociánem út 20. 10. 17:00–18:00 (v kalendáři; vycházka nebude a znovu se mu nepřipomínat, Lenka 261017) #online 📅 2026-10-20
 
-- [x] V neděli 11. 10. ověřit předpověď na út 13. 10. 17:00 ✅ 2026-10-11 — předpověď: 15 °C, sucho, slabý vítr → na vycházku příznivé; Lenka to Michalu Kociánovi napsala sama, čeká se na jeho odpověď (→ [[waiting-for]])
-- [x] Schůzka s Michalem Kociánem út 13. 10. 17:00–18:00 ✅ 2026-10-13 — proběhla jen jako schůzka, bez vycházky (Lenka 261014); 6. hodina nového balíčku
-- [ ] Schůzka s Michalem Kociánem út 20. 10. 17:00–18:00 (v kalendáři; vycházka nebude a znovu se mu nepřipomínat, Lenka 261017 má pro něj jiný úkol, který je potřeba do úterý dopracovat tak, aby ho mohl použít) #next-action #online 📅 2026-10-20
+## Záznam (nejnovější nahoře)
+
+261013: Schůzka út 13. 10. 17:00 proběhla jen jako setkání, bez vycházky (6. hodina nového balíčku). Předpověď 11. 10. byla příznivá, Lenka Michalovi psala sama.
+
+261007: Schůzka st 7. 10. 17:00 proběhla jen spolu (vycházka odpadla podle Michala 261004, 5. hodina balíčku). Počasí prověřeno 4. 10. (Open-Meteo: sucho, max 19 °C).
+
+260924: Schůzka proběhla, prošla se sada otázek.
+
+260920: Po odložení do someday (260910) dohodnuto pokračování.
 
 ## Podklady (převzato ze someday-maybe)
 

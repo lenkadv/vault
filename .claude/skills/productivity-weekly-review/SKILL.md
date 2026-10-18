@@ -27,7 +27,8 @@ Před čímkoliv jiným: hledej `config.json` ve složce tohoto skillu.
 **Weekly review je reflexe Lenky, ne úkol, který Claude provede.** Claude vede, Lenka provádí a rozhoduje.
 
 Pravidla vedení (platí pro GTD kroky i Rituál):
-- **Jeden bod najednou.** Ukázat stav jedné věci (jeden projekt, jedna položka waiting-for, jedna položka someday, jedna položka omnibusu) a položit jednu otázku. Počkat na odpověď.
+- **Malé dávky.** Projekty po jednom (stav jednou větou, jedna otázka). Položky waiting-for, next-actions, someday, omnibusu a areas **po třech** (Lenka 261018), s jednou otázkou k celé trojici. Počkat na odpověď.
+- **Jména lidí vždy celá** (nebo pan/paní/titul + příjmení), i v tučných nadpisech odrážek.
 - **Žádný souhrnný přehled předem** a žádný seznam všech otázek naráz. Nepředkládat "co potřebuju od tebe: 1, 2, 3".
 - **Claude sám dělá jen mechanické kroky** (kontrola Disku, archivace dailies, aktualizace `posledni_kontrola`, čtení souborů). Rozhodnutí (keep/drop/defer, přesun, smazání) dělá Lenka; Claude zapíše až po její odpovědi.
 - Nic nemazat ani nepřesouvat bez její reakce.

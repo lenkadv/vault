@@ -18,7 +18,7 @@ Bakalářské studium dějin umění, KTF UK Praha.
 | Test SHP                                 | 260616 12:00                                                       | ✅ 260616                                                |
 | Seminární práce Male Gaze v novověku     | 📅 2026-07-31 (vlastní cíl, posunuto z 15.7.) | ✅ 2026-08-03 — odesláno (3 dny po vlastním cíli)        |
 | Seminární práce Restaurování             | 📅 2026-08-15 (vlastní cíl)                                        | ✅ odesláno — projekt hotový, viz [[archive/seminarka-restaurovani]] |
-| Příspěvek do sborníku *Transitorius mundus* (emblematická reprezentace sv. Terezie z Ávily), 10–15 normostran, .docx, nakl. Artefactum | 📅 2026-11-30 | čeká na domluvu s dr. Štěrbovou → [[gtd/next-actions]] |
+| Příspěvek do sborníku *Transitorius mundus* (emblematická reprezentace sv. Terezie z Ávily), 10–15 normostran, .docx, nakl. Artefactum | 📅 2026-11-30 (interní 31. 10., vyřešit před Římem 13. 11.) | článek v nějaké podobě hotový; čeká na domluvu s paní doktorkou Štěrbovou (nemocná, asi po 26. 10.) → [[gtd/next-actions]] |
 
 | Referát Hagiografie: Delehaye, *Les Origines du Culte des Martyrs* (prezentace v `KTF/Aktuální/Hagiografie`) | **odloženo na neurčito** (Lenka 261008; původně 22. 10.) | zadáno 261005; nový termín zatím nezazněl → [[gtd/waiting-for]] |
 

@@ -1,27 +1,33 @@
-# Priority — týden od po 12. 10. 2026 (do dalšího weekly review)
+# Priority — týden od po 19. 10. 2026 (do dalšího weekly review)
 
-> Nastaveno při weekly review 261011. Toto čte skill při denním plánování celý týden.
-> Kontext týdne: školní týden (Po–Čt přednášky, pá Přehledovka 2, čt exkurze Budeč, st koncert Rudolfinum), do toho dva velké termíny na konec října: závěrečná zpráva z auditu FEKT a příprava DigiStartu (reklamy od začátku listopadu). Lenka si hlídá realistická očekávání; bloky se upravují průběžně podle situace. Bloky jsou založeny v Todoist kalendáři.
+> Nastaveno při weekly review 261018. Toto čte skill při denním plánování celý týden.
+> Kontext: školní týden (po Metodologie, út Přehledovka + prváci + Vizuálka, čt muzeologie + hagiografie + exkurze Prosek, pá Přehledovka 2). Zpráva FEKT je u Štěpánky, DigiStart z velké části čeká na ni. Lenka je unavená z nabitých víkendů; plán je realistický, ne maximální. Bloky jsou v Todoist kalendáři.
 
-1. **Audit FEKT: osnova závěrečné zprávy → Štěpánce k odsouhlasení**
-   > Út 13. 10. 12:15–14:15. Projít doklady, nabídku a mezivýstupy, navrhnout strukturu, označit slepá místa (snímky pracovního dne 12.–14. 10., reporty a rozpočty od paní Hruškové). Po schválení píše zprávu Claude, kontrolu a dopracování si rozdělí Lenka, Štěpánka a Tereza; hotovo před koncem října. → [[gnostika-fekt-audit]]
+1. **Art for English #27, odeslání út 20. 10.**
+   > Po 19. 10. 15:30–17:00. Dílo a gramatika zatím nevybrané (slot doplněn 261004) — na začátku bloku Claude navrhne 2–3 varianty. → [[lcenglish-art-for-english]]
 
-2. **DigiStart: projektový plán kampaně a rozdělení práce se Štěpánkou**
-   > St 14. 10. 14:30–16:30 (plán) a pá 16. 10. 14:00–16:00 (rozdělení práce se Štěpánkou). Cíl: příprava hotová do konce října, reklamy od začátku listopadu. Pilot = živá vysílání, pevně jen první dvě setkání; hlavní práce je kampaň: nová FB stránka DigiStart, web/landing page s přihlášením, video, reklama na FB, propojka kalendáře na konzultace. → [[digistart]]
+2. **PENTA: předat prezentaci Davidu Musilovi (po 19. 10.)**
+   > Po 19. 10. 13:45–14:45 spolu se zadáním pro Michala Kociána. Jen naše prezentace (PDF v Podkladech). → [[penta-hacked-list-report]]
 
-3. **Art for English #26 (Frida Kahlo, past simple)**
-   > Po 12. 10. 15:00–17:00 (zadání, brief, draft); newsletter v úterý 13. 10., případně dokončit v úterý. → [[lcenglish-art-for-english]]
+3. **Michal Kocián: zadání ze srovnání stavebního zákona (do út 20. 10. 17:00)**
+   > Z Deep Research v Gemini ([Google Doc](https://docs.google.com/document/d/15Uw7o6hbaJZiwM7Zfxm9PEVc6AqyvvptarlfzqN3R7s/edit?tab=t.0)) udělat úkol, který Michal dostane ke splnění; zpracuje hlavně Claude, asi půl hodiny. → [[arttinder-consulting]]
 
-4. **tadylenka díl #3 (memento mori / vanitas), pátek 16. 10.**
-   > Čt 15. 10. 12:00–14:00 (psaní) a pá 16. 10. 11:00–13:00 (dokončit, publikovat). Tentokrát s bloky; pravidelnost je u tadylenky úspěch. → [[tadylenka-publishing]]
+4. **Studium: Anki každý den + zpracování přednášek + trénink**
+   > Metodologie po 19. 10. 13:15–13:45 (zpracovat), pá 23. 10. 11:00–11:45 (písemný trénink). Pech út 20. 10. 18:30–19:00 a pá 23. 10. 10:15–10:45 (zpracovat), čt 22. 10. 12:00–12:45 (trénink zkoušky). → [[prehledovky-pech]], [[resources/postupy/metodologie2]]
 
-5. **Studium: Přehledovky (Pech)**
-   > Út 13. 10. 19:00–19:30 a pá 16. 10. 10:15–10:45 „zpracuj přednášku"; so 17. 10. 10:15–11:00 trénink zkoušky (neděle 18. 10. je návštěva u rodičů, Lenka bloky přesunula na sobotu). Anki balíčky 01 a 11 naimportovat znovu. → [[prehledovky-pech]]
-   > Investiční plán KTF pro Ekonomickou komisi je hotový (261011, večer), blok so 17. 10. 12:00–13:00 zrušen. Jednání komise po 19. 10. v 9:00 zůstává ve [[waiting-for]].
+5. **DigiStart: jen to, co jde bez Štěpánky**
+   > Po 19. 10. 17:15–18:00 fakturace v GNOSTICE (termín 21. 10.), st 21. 10. 16:15–18:15 koncept B3. Datum začátku pilotu čeká na Štěpánku (waiting-for 21. 10.), Meta na odpověď (25. 10.). → [[digistart]]
 
-**Kufřík:** st 14. 10. 11:00–12:45 odnést ke Šumanovi na Smíchov (před japonštinou ve 13:00). **Navíc blok na drobné úkoly:** st 14. 10. 16:45–17:45 (po bloku audit FEKT, před koncertem v 19:30): next actions z [[next-actions]] a projektů (kufřík, italki, příprava DPH, Anki import).
+## Každý den / pravidelně
 
-**Dál bez priority, ale s termínem (ve [[waiting-for]]):** Michal Kocián út 13. 10. 17:00, Veronika Voříšková (PENTA, objednávka, 14. 10.), Vítek (seznam oprav, 15. 10.), 16. 10. follow-upy (David Musil, EVIDENT, Štěpánka/Hrušková, Ekonomická komise), DPH přiznání 25. 10.
+- 🔁 **Japonská patnáctka** (~15 min, artefakt „Japonská patnáctka“) — denně, **první úkol hned po svodce a plánu dne** → [[japonstina-patnactka]]
+- 🔁 **Anki** — každé ráno pevně (po, st, čt, so, ne); **út a pá** (Přehledovka v 8:30) jen opakování po kouskách během dne, i v telefonu → [[prehledovky-pech]]
+
+**Další bloky:** po 19. 10. 14:45–15:15 příprava na setkání s prváky; st 21. 10. 10:30–11:15 japonština domácí úkol (před očním 11:30, hodina 15:00); pá 23. 10. 13:00–14:30 AI Strategist povinná příprava (kurz živě 26.–28. 10.).
+
+**Odloženo vědomě:** tadylenka #3 (bez data, termín vybere Lenka), reorganizace Disku (od 2. 11.).
+
+**S termínem (ve [[waiting-for]]):** Ekonomická komise po 19. 10. 9:00 (ráno rekapitulace bodů), Štěpánka — zpráva FEKT 20. 10., datum pilotu DigiStart 21. 10., rozcestník gnostika.cz 23. 10.; PENTA faktura 22. 10.; Martin Blažek a Jan Matha 23. 10.; italki 23. 10.; DPH ne 25. 10. 9:00; Vítek a Meta 25. 10.; paní doktorka Štěrbová (stipendium, sborník) po 26. 10.
 
 ---
 

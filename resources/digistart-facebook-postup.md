@@ -48,6 +48,8 @@ Postup k projektu [[digistart]]. Lenka zakládá účty (Claude účty zakládat
 - 21:29: Lenka z telefonu (prohlížeč) našla a odklikla „eskalovat pozastavení“ (jen zaškrtávací políčko, žádné potvrzení se neukázalo). Jestli žádost odešla, nevíme. Ověřit jednou zítra v Kvalitě účtu (stav problému) a v e-mailu / Support Inbox; když se do pár dní nic nehne, cesta přes Štěpánku (portfolio GNOSTIKY).
 - Lenka teď má 2 vlastní portfolia, třetí sama založit nemůže. Pokud kontrola neprojde: portfolio založí Štěpánka (GNOSTIKA), což sedí i na pozdější vlastnictví.
 
+- **261018:** kontrola znovu z počítače i mobilu, stejný kruh (jediné ověření SMS, nedojde). Chatbot Meta 17. 10. nepomohl. Lenka 18. 10. nahlásila bug novým kanálem; jestli se dostane k člověku, nevíme. **Dál nezkoušet; čeká se na Metu do 25. 10. Portfolio přes Štěpánku (GNOSTIKA) je jen připravená záloha, o spuštění rozhodne Lenka.**
+
 ## Vzhled stránky (připraveno 261017)
 
 Soubory v `GrowOS/digistart/brain/assets/facebook/` (popis v `brain/assets/index.md`), nahrává Lenka ručně (důvod: portfolio DigiStart omezeno pro podezření na automatizaci, stránka visí na Lenčině profilu, který spravuje i LCEnglish; automatické klikání přes prohlížeč by mohlo upozornit i na její profil — domněnka, neověřeno):

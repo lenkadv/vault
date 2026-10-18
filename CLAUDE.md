@@ -127,6 +127,17 @@ Formát záznamu v resources/:
 - Projekt v someday → **smazat projektový soubor**, přesunout vše potřebné do someday záznamu (someday záznam musí být akční sám o sobě — bez dalších kliknutí)
 - Projekt dokončen → přesunout do `archive/`, zkontrolovat a vyčistit stopy v `areas/`, `gtd/`, `inbox/`
 
+### Projektový soubor — aktuální stav nahoře, nové zápisy nad starší (261018)
+
+Kdo otevře projekt, musí hned nahoře vidět, kde se teď je. Pořadí v každém souboru v `projects/`:
+1. Hlavička (oblast, zdroj, odkazy)
+2. `## Aktuální stav` — 2–5 vět s datem YYMMDD: kde projekt je, na co se čeká, další krok. Při každé změně ji **přepsat**, nepřidávat další odstavec
+3. `## Co to je` / klíčové odkazy a pravidla projektu (trvalé věci)
+4. `## Next actions` — jen otevřené úkoly
+5. `## Záznam (nejnovější nahoře)` — datované záznamy o průběhu. **Nový záznam vždy NAD předchozí**, nikdy na konec souboru. Hotové úkoly se sem převedou jako záznam (nebo se smažou), nehromadí se jako `[x]` mezi otevřenými
+
+Starší projekty se přerovnají postupně, vždy když na soubor sáhnu (nebo při weekly review), obsah se při tom nemaže. U publishing projektů platí navíc pole „Poslední / Další“ v Aktuálním stavu ([[feedback_publishing_aktualni_stav]]).
+
 ### Next-action advancement — povinný krok při odškrtnutí
 
 Kdykoli odškrtnu task s `#next-action` v projektovém souboru:
@@ -253,6 +264,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 12. **Weekly review ritual** — navazuje bez ptaní: pohled zpátky na oblasti, reflexe (2-3 otázky), brain dump backlog, waiting-for přehled, kalendář příštího týdne, priority → uloží `weekly-reviews/YYMMDD-week-review.md` a `gtd/next-week-priorities.md`
     - Při sekci priorities: přečíst dailies za uplynulý týden (max 10), areas/ a projects/ — hodnotit strategicky, ne jen operačně. Prioritou jsou důležité-neurgentní věci. Nabídnout vlastní hodnocení, pak čekat na reakci.
     - **Studium: Přehledovky (dr. Pech), od 261006.** Při plánování příštího týdne vždy navrhnout studijní bloky: **po každé přednášce (út, pá) cca 30 min** „zpracuj přednášku“ a **1× týdně cca 45 min trénink zkoušky** (návrh: neděle dopoledne). Časy potvrdit s Lenkou a po potvrzení založit v Todoist kalendáři (běžná pravidla kalendáře). Do priorit zařadit studium jako důležité-neurgentní věc, dokud trvá semestr; výsledek zapsat do `gtd/next-week-priorities.md`. Kolize s jinými bloky řešit přesunem bloku, ne vynecháním. Detail [[resources/postupy/prehledovky-pech]].
+    - **Pravidelné věci (od 261018):** malé pravidelné návyky (např. japonská patnáctka) se při plánování týdne s Lenkou projdou a zapíšou do sekce `## Každý den / pravidelně` v `gtd/next-week-priorities.md`. Denní plán je pak každý den vypíše jako vlastní řádek, ne jako MIT ani mezi drobné úkoly. Důvod: next action se sama nenabízí a na tyhle věci jinak dojde až při review („aha, to jsem nedělala“).
     - Projects aktualizovat průběžně i při review — nejen next actions, ale celý stav a směřování.
     - Dailies psát tak, aby obsahovaly info použitelné při příštím review (rozhodnutí, momentum, strategické posuny).
 

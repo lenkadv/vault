@@ -49,10 +49,11 @@ sort by due
 ---
 
 ## @online
-- [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) 📅 2026-10-31
+- [ ] EVIDENT (Kateřina Suvarinová): napsat e-mail k potvrzenému termínu komunikačního školení st 11. 11. — udělat při příští svodce, až se mail do ní dostane (Lenka 261018); po definitivním potvrzení od Kateřiny upravit v kalendáři událost „Evident?“ (11. 11. 9–16) ⚠️ pracovní mail, ne z Gmailu
+- [ ] Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) 📅 2026-10-31 **Stav 261018 (weekly review): zatím se nedívala ani jednou; připomínky od Clauda nepřicházely.**
 
-- [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.; orientační termín pro sebe, nic se nezavírá, klidně se posune — Lenka 261017). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]]
-- [ ] Zeptat se paní doktorky Štěrbové **na WhatsAppu** na příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní; ústně se to zatím neprobralo, a tak se přesouvá na WhatsApp (Lenka 261014, původně 12. 10. osobně)
+- [ ] italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.; orientační termín pro sebe, nic se nezavírá, klidně se posune — Lenka 261017). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]] — 261018: neobjednávat hned, Lenka chce mít prostor na přípravu; nízká priorita, případně posunout 📅 2026-10-23
+- [ ] Zeptat se paní doktorky Štěrbové **na WhatsAppu** na příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní; ústně se to zatím neprobralo, a tak se přesouvá na WhatsApp (Lenka 261014, původně 12. 10. osobně) — 261018: článek je v nějaké podobě hotový, jde o to ujasnit si, jak moc ho měnit; Lenka váhá mezi napsat a promluvit (a neví, o čem přesně mluvit). **Interní termín 31. 10.** (ne hotovo, ale začít řešit; vyřešené mít před Římem 13. 11.; uzávěrka sborníku 30. 11.) Paní doktorka je nemocná, výuka 19. 10. odpadá → zmínit asi v po 26. 10., pokud bude příležitost (spolu se stipendiem). 📅 2026-10-31
 
 
 ```tasks
@@ -95,7 +96,6 @@ sort by path
 
 ## @venku/pochůzky
 
-- [ ] **Vyzvednout kufřík Samsonite v opravně, v pátek 16. 10.** (kufřík odvezla 261014, kolečka se vymění, cena cca 450 Kč za kolečko včetně práce, tedy asi 900 Kč za dvě). **Petr Šuman, Opravna obuvi a kufrů, U Santošky 1315/4, Praha-Smíchov, po–pá 9–17** (tel. 777 973 906). V kalendáři (Todoist) **pá 16. 10. 10:00–11:45**, rovnou z Přehledovky (končí v 10:00); tadylenka #3 se kvůli tomu posunula na 11:45–13:45 a „zpracuj přednášku“ na 16:15–16:45
 
 
 ```tasks

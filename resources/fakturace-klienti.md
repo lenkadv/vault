@@ -102,7 +102,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## Michal Kocián
 
-### Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 261014 (28 000 Kč = 10 × 2 800 Kč, Zjednodušená faktura, splatnost 24. 10. 2026, ve FAPI neodeslaná; odešle Lenka sama)
+### Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 261014 (28 000 Kč = 10 × 2 800 Kč, Zjednodušená faktura, splatnost 24. 10. 2026, ve FAPI neodeslaná; odešle Lenka sama) — **✅ zaplaceno (Lenka 261018)**
 
 | #   | Datum  | Poznámka                                                    |
 | --- | ------ | ----------------------------------------------------------- |

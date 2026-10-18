@@ -8,11 +8,13 @@ Plán, rozhodnutí a mapa starých → nových názvů: [[resources/disk-reorgan
 
 ## Aktuální stav
 
+261018 (weekly review): **odloženo na listopad** — do konce října mají přednost FEKT a DigiStart. Next action se obnoví 2. 11. (připomínka v [[waiting-for]], sekce „Čeká na datum“).
+
 Hotovo 261004: kořen Disku a 00 INBOX prázdné, klienti rozdělení (06 F2F BIZ: Aktivní klienti / ZZ Archiv), kurzy sloučené do `02 EDUCATION/Kurzy – byznys a marketing`, tadylenka s podsložkou `Všichni svatí – databáze`, archivy sjednocené na `ZZ Archiv`, pravidlo „inspirace/marketing/AI starší 3 let → archiv“. Pravidla práce: nic nemazat natrvalo z `G:` (jen přesun do `00 INBOX/Ke smazání`), před každou dávkou tabulka odkud → kam a souhlas, nahrávky v `Easy Voice Recorder` se nehýbou.
 
 ## Tasky
 
-- [ ] Projít `01 PRIVATE` po položkách s Claudem — 29 volných souborů v kořeni (očkování, CV, cestovní věci, malování…) a složky `Official`, `Omnibus`, `Hudba`, `obrázky`, `ZZ Archiv`; citlivé věci tam jsou záměrně online #next-action #online
+- [ ] Projít `01 PRIVATE` po položkách s Claudem — 29 volných souborů v kořeni (očkování, CV, cestovní věci, malování…) a složky `Official`, `Omnibus`, `Hudba`, `obrázky`, `ZZ Archiv`; citlivé věci tam jsou záměrně online #online (odloženo na listopad, 261018 → [[waiting-for]] „Čeká na datum“ 📅 2026-11-02)
 - [ ] Podrobně projít `02 EDUCATION/KTF/Absolvované` (43 předmětů), `Literatura apod.`, `Jazyky`
 - [ ] Podrobně projít `03 LCEnglish` (Products/HELE, Content, Tech; Shadowloop řešit samostatně)
 - [ ] Roztřídit zbytek `ZZ ARCHIV` v kořeni (AirBnB, Gnostika, Helena, Julia Cameron, Kurz rétoriky, PRESENATION, publicspeaking.cz) podle oblastí

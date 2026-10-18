@@ -6,6 +6,10 @@
 
 ---
 
+## Aktuální stav
+
+261018 (weekly review): next action „Připravit první kolo reklamy“ zůstává. Lenka tuší, že reklama na LCEnglish nakonec půjde dřív než DigiStart (spolupráce se Štěpánkou nepostupuje tak rychle); když se DigiStart protáhne, pustí se znovu do téhle reklamy. (statické reklamy: vyzkoušet [[ABM – Static Ad Framework]], 261018)
+
 ## Cíl
 
 Nahradit slabou generickou FreshLearn prodejní stránku (`kurzy.lcenglish.cz/p/10xe` — bez ceny, CTA "Přihlaste se do kurzu" místo nákupu) plnohodnotnou prodejní stránkou na vlastní doméně, propojenou na existující FAPI checkout a automatizaci (Drip + Shadowloop + FreshLearn).

@@ -1,6 +1,6 @@
 # Jak vznikla stránka GNOSTIKY o personálních a procesních auditech (261002)
 
-Záznam jedné pracovní seance (cloudová relace Claude Code, 2. 10. 2026): zadání, podklady, použité nástroje, průběh úprav, rozhodnutí a poučení. Slouží jako paměť projektu [[projects/gnostika-web-audit]] a jako vzor, jak příště postavit podobnou stránku (viz také [[resources/postupy/prodejni-stranky]] a [[resources/navod-prodejni-stranka-s-ai]] pro DigiStart).
+Záznam jedné pracovní seance (cloudová relace Claude Code, 2. 10. 2026): zadání, podklady, použité nástroje, průběh úprav, rozhodnutí a poučení. Slouží jako paměť projektu [[archive/gnostika-web-audit]] a jako vzor, jak příště postavit podobnou stránku (viz také [[resources/postupy/prodejni-stranky]] a [[resources/navod-prodejni-stranka-s-ai]] pro DigiStart).
 
 Časy jsou přibližné: podle časových razítek Leadpages (UTC) po převodu na středoevropský letní čas (+2 h).
 
@@ -173,7 +173,7 @@ Lenka průběžně upravovala texty přímo v editoru Leadpages (např. „Dvě 
 ## 7. Stav k 261002
 
 - Koncept C zveřejněný pod heslem, noindex, název „GNOSTIKA – audity (koncept)“.
-- Čeká se na Štěpánku (follow-up 2026-10-07), otevřené body jsou v [[projects/gnostika-web-audit]].
+- Čeká se na Štěpánku (follow-up 2026-10-07), otevřené body jsou v [[archive/gnostika-web-audit]].
 - Odkazy: https://lenka-dvorakova.lpcontent.net/fFhdZ1PwT5 · editor https://leadpages.com/edit/cjuyzbzcc5zfpm50z02cubaj · slug `fFhdZ1PwT5`.
 
 ---

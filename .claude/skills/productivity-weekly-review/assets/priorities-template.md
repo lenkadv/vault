@@ -13,6 +13,12 @@
 
 [Max 5 priorit. Vynech slot, pokud jich bylo méně.]
 
+## Každý den / pravidelně
+
+- [Pravidelná věc, např. Japonská patnáctka (~15 min, artefakt)] — [kdy: denně / po, st, pá] → [[projekt]]
+
+[Malé pravidelné návyky, které se jinak ztrácejí v next actions. Denní plán je každý den vypíše jako samostatný řádek. Domluvit při weekly review s Lenkou, co sem patří.]
+
 ---
 
 _Pokud se priority v průběhu týdne změní — uprav tento soubor. Skill vždy čte aktuální verzi._

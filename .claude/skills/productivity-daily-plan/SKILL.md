@@ -176,6 +176,8 @@ Načti `G:\Můj disk\vault\gtd\goals.md`. Použij jako kontext při výběru MIT
 
 Načti `G:\Můj disk\vault\gtd\next-week-priorities.md`. Toto je **kontext**, ne seznam úkolů. Při výběru MITů preferuj tasky, které jasně posouvají týdenní prioritu.
 
+**Pravidelné věci (od 261018):** sekce `## Každý den / pravidelně` v tomto souboru se do plánu vypisuje **vždy**, každý den, na který připadá, jako vlastní řádek pod MITy (např. „🔁 Japonská patnáctka (~15 min) → [[japonstina-patnactka]]“). Nejsou to MITy a nepatří do bloku drobných úkolů; cílem je, aby na Lenku každý den „svítily“. Při průběžném zápisu nebo zavírání se do Průběhu dne poznamená, jestli proběhly (bez hodnocení). Pokud sekce chybí nebo je prázdná, nic nevymýšlet.
+
 **e2. Svodka z e-mailů.**
 
 Přečti `G:\Můj disk\vault\resources\postupy\svodka.md` a sestav svodku z nevytříděných mailů od posledního čísla (obvykle za uplynulý den, po delší pauze za víc dní). Maily z oddílu „Vyžaduje pozornost“ přesuň do hlavního inboxu. Svodku publikuj na stálou adresu a do plánu dej jeden řádek s odkazem. Věci s termínem z „Vyžaduje pozornost“ ber jako kandidáty do flexibilního seznamu.

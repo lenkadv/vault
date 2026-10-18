@@ -10,6 +10,10 @@ Jednostránkový web („digitální vizitka“) GNOSTIKA CONSULTING, s.r.o. o p
 
 ## Aktuální stav
 
+261018: **Hotovo, archivováno.** Web běží na gnostika.cz/audity (nasazeno na **Netlify**, ne WordPress). Nedodělky ze seznamu „Před ostrým spuštěním“ jsou vyřešené (Lenka 261018). Zbývá jen Štěpánčin rozcestník na hlavní stránce gnostika.cz → [[waiting-for]].
+
+## Záznam (nejnovější nahoře)
+
 261002: **Koncept C „Víte, kdo u vás co dělá?“** je zveřejněný v Leadpages **pod heslem** a s vypnutým indexováním (noindex).
 - Adresa: https://lenka-dvorakova.lpcontent.net/fFhdZ1PwT5 (heslo má Lenka, do vaultu se nepíše)
 - Leadpages: slug `fFhdZ1PwT5`, ID stránky `cjuyzbzcc5zfpm50z02cubaj`, editor https://leadpages.com/edit/cjuyzbzcc5zfpm50z02cubaj
@@ -33,12 +37,12 @@ Jednostránkový web („digitální vizitka“) GNOSTIKA CONSULTING, s.r.o. o p
 
 ## Před ostrým spuštěním
 
-- [ ] odstranit žlutý pruh a všechny žluté placeholdery
-- [ ] odebrat heslo a rozhodnout o indexování (teď noindex)
-- [ ] slug a doména (stránka teď běží na `lpcontent.net` s pruhem „Preview page“ od Leadpages)
-- [ ] originál loga, případně foto, reference se souhlasem, meta popis a náhled pro sdílení
-- [ ] mobil, odkazy `mailto:` a `tel:`, kontrola textů proti nabídce
-- [ ] záloha HTML (export z Leadpages) do vaultu
+- [x] odstranit žlutý pruh a všechny žluté placeholdery
+- [x] odebrat heslo a rozhodnout o indexování (teď noindex)
+- [x] slug a doména (stránka teď běží na `lpcontent.net` s pruhem „Preview page“ od Leadpages)
+- [x] originál loga, případně foto, reference se souhlasem, meta popis a náhled pro sdílení
+- [x] mobil, odkazy `mailto:` a `tel:`, kontrola textů proti nabídce
+- [x] záloha HTML (export z Leadpages) do vaultu
 
 ## Next actions
 
