@@ -22,6 +22,9 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
 
+## 2026-10-19
+**Jeden postup pro všechny výstupy přes frontu GrowOS (rozhodnutí Lenky, platí pro všechny byznysy).** Všechny výstupy (články, stránky, příspěvky, reklamy) vznikají jako položky fronty (`work/`), Lenka je schvaluje na nástěnce nebo v chatu a teprve schválené jdou ven (Substack, Leadpages, Metricool, Meta). Úpravy, které Lenka udělá v externím nástroji, Claude přenese zpět do položky. Důvod: kombinace různých postupů byla matoucí, Lenka nechce pamatovat výjimky. Postup ve vaultu `resources/postupy/growos.md` („Jednotný postup výstupů“).
+
 ## 2026-10-17: sign-up, ten participants, Claude Pro, FAQ, domain open
 **Decided (Lenka, in the chat):**
 - **"No selling from mid-November" means no ads only.** Ads stop around mid-November; sign-up stays open until the course starts.

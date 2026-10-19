@@ -283,5 +283,6 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 ## GrowOS — jádro
 
 - `GrowOS/` = samostatný marketing systém pro tadylenka a lcenglish (2.0 od 260906). Charta `GrowOS/AGENTS.md`; systémové cesty v GrowOS (`system/`, `.claude/`, `AGENTS.md`, `CLAUDE.md`) upravuje jen Lenka.
+- **Jednotný postup výstupů (261019):** každý výstup = položka fronty GrowOS → Claude ukáže v chatu + nástěnka [[GrowOS fronta.base]] (`review`) → Lenka schválí (`approved`) → teprve pak Drip/Substack/Metricool/Leadpages → po vydání `published`. Žádné výjimky. Detail [[resources/postupy/growos]] („Jednotný postup výstupů“).
 - **Rozdělení:** strategie, kadence a `#next-action` („připravit epizodu #NN“) žijí v `projects/` (publishing projekty); konkrétní výroba = work item v `GrowOS/<byznys>/work/` a jeho review fronta — kroky výroby do vault GTD nepsat.
 - Po vydání → aktualizovat „Aktuální stav“ (a u A4E „Vydané díly“) v projektu + next-action advancement. Plný postup → [[resources/postupy/growos]].

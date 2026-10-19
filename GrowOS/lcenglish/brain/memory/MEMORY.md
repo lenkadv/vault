@@ -80,6 +80,7 @@ pointer to it here — so this file stays short and quick to load.
   odeslané newslettery) je platná reálná historie.
 
 - Migrace z GrowOS 0.1 proběhla 2026-09-06. Kompletní 0.1 archiv je v `lcenglish/legacy-0.1/2026-09-06/original/`. Detailní produkční postupy (checklist tvorby epizody, týdenní checklist, howto) jsou v `library/process/`.
+- **Jednotný postup výstupů od 2026-10-19:** všechno přes frontu (`work/`, review → approved), teprve pak Drip/Substack/Metricool. Výjimka pro newsletter zrušena, viz [[decisions]] a [[methodology]].
 - Hlavní běžící formát je **Art for English** — týdenní newsletter přes Drip podle `research/art-bites-curriculum-2026.md`. Postup tvorby dílu je v [[methodology]]. Epizody 1–20 odeslané, #21 naplánovaná v Dripu.
 - Thumbnail k epizodě dělá Lenka sama v Canvě — Claude připraví jen text pro Canvu (anglicky).
 - Carousely a Remotion render pipeline jsou **opuštěné** (viz [[decisions]]). Nepředpokládat je v žádném postupu.

@@ -29,6 +29,20 @@ GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
   `AGENTS.md`, `CLAUDE.md` a zápis do cizí byznys složky. **Systémové změny v těchto
   cestách dělá Lenka sama.**
 
+## Jednotný postup výstupů (od 261019, rozhodnutí Lenky)
+
+Platí pro **všechno, co Claude pro GrowOS byznysy vyrábí** (lcenglish, tadylenka, DigiStart; newsletter, Substack, článek, příspěvek, prodejní stránka, reklama). Žádné výjimky, ať si Lenka nemusí pamatovat, co se dělá kde.
+
+1. **Výstup = work item** v `GrowOS/<byznys>/work/<kanál>/` (u série podsložka dílu, např. `work/email/28-mucha/newsletter.md`). Podklady (brief, obrázky, research) zůstávají v `library/`. Hned po založení zkontrolovat razítko (`id`, `status: draft`) — bez něj ho fronta nevidí. Sezení musí běžet ve složce `GrowOS` a **nikdy nedělat `cd` do podsložek** (261019: tím hlídač tiše přestane razítkovat); vždy absolutní cesty.
+2. **Před review lokální commit** Claudovy verze (pro porovnání úprav a lekce).
+3. **`draft → review` + ukázat v chatu:** text (u krátkých věcí celý, u dlouhých shrnutí + odkaz) a odkaz na nástěnku [[GrowOS fronta.base]]. Kde je volba (úvod, titulek, subject), 2–3 varianty.
+4. **Lenka upraví a schválí:** v Obsidianu, v chatu nebo v externím nástroji (Drip, Leadpages, Metricool). Úpravy z externího nástroje Claude přenese zpět do položky, ať je v ní vždy aktuální znění. Schválení = karta do `approved` nebo „schvaluju“ v chatu; změny = `changes` + poznámka.
+5. **Až po `approved`** jde výstup ven: Drip (duplikát minulé kampaně v Chromu), Substack draft, Metricool koncept, Leadpages. Nic z toho dřív, ani jako koncept. Plánuje a zveřejňuje Lenka.
+6. **Po skutečném vydání** Claude ověří a posune `approved → published`; aktualizuje projekt ve vaultu (Aktuální stav, next-action advancement).
+7. **Lekce:** porovnat commit z bodu 2 se schválenou verzí, opakující se úpravy do `brain/lessons/`.
+
+Starší rozpracované věci (Art for English do #27, DigiStart koncepty v Leadpages ze 17. 10.) se dodělávají po staru; nové vznikají už takto.
+
 ## Hybrid: vault GTD vs GrowOS work fronta
 
 - **`projects/lcenglish-art-for-english.md`, `projects/tadylenka-publishing.md`** drží

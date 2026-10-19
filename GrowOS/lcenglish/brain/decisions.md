@@ -7,6 +7,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 ## [PLACEHOLDER: YYYY-MM-DD]
 [PLACEHOLDER: what you decided, and the reason behind it. For example: "Focusing on email over social for now, because that is where our buyers actually are and we already have a list."]
 
+## 2026-10-19
+**Jeden postup pro všechny výstupy přes frontu GrowOS, výjimka pro newsletter zrušena.** Newsletter, Substack i FB upoutávka vznikají jako položky fronty (`work/`), Lenka je schvaluje na nástěnce nebo v chatu a teprve schválené jdou do Dripu, na Substack a do Metricoolu. Důvod: u #27 šla FB upoutávka do Metricoolu bez Lenčina výběru a schválení; kombinace „newsletter mimo frontu, příspěvky ve frontě“ byla matoucí a Lenka nechce pamatovat, co má výjimku. Platí od #28 a pro všechny byznysy. Postup: `methodology.md` kroky 5–8, ve vaultu `resources/postupy/growos.md`.
+
 ## 2026-10-05
 **Facebook (stránka Tady Lenka, sloučený profil umění + angličtina): jen příspěvky s přesahem k tady Lenka.** Art for English se tam hodí (spojuje umění a angličtinu, oba Lenčiny byznysy); čistě angličtinářské příspěvky ne. Upoutávky na Substack klidně s různými úhly i víckrát, ale vždy se spojením obraz + jazyk. Čistě angličtinářské příspěvky patří na IG `lights_camera_english` (samostatný profil LCEnglish) — **s IG se zatím nezačíná** (Lenka 2026-10-05, po zkoušce `content-repurpose` na #25).
 

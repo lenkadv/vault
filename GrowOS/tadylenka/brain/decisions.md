@@ -7,6 +7,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto-publishing, HANDOFF au
 ## [PLACEHOLDER: YYYY-MM-DD]
 [PLACEHOLDER: what you decided, and the reason behind it. For example: "Focusing on email over social for now, because that is where our buyers actually are and we already have a list."]
 
+## 2026-10-19
+**Jeden postup pro všechny výstupy přes frontu GrowOS (rozhodnutí Lenky, platí pro všechny byznysy).** Všechny výstupy (články, stránky, příspěvky, reklamy) vznikají jako položky fronty (`work/`), Lenka je schvaluje na nástěnce nebo v chatu a teprve schválené jdou ven (Substack, Leadpages, Metricool, Meta). Úpravy, které Lenka udělá v externím nástroji, Claude přenese zpět do položky. Důvod: kombinace různých postupů byla matoucí, Lenka nechce pamatovat výjimky. Postup ve vaultu `resources/postupy/growos.md` („Jednotný postup výstupů“).
+
 ## 2026-09-09
 Strategický rozhovor o tadylence — nastavena páteř publikování.
 
