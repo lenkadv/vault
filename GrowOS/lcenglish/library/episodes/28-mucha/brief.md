@@ -5,12 +5,12 @@ painting: "Apoteóza slovanstva (Apotheosa z dějin Slovanstva, „Slovanstvo pr
 artist: "Alfons Mucha (1860–1939)"
 year: "1926 (EN Wikipedie, Commons, mucha-epopej.cz); CZ Wikipedie 1926–1928"
 institution: "majetek hl. m. Prahy; vystaveno na zámku v Moravském Krumlově (od července 2021)"
-grammar: "at / on / in (revize) + data"
+grammar: "řadové číslovky a čtení dat a letopočtů (změněno z at / on / in, Lenka 2026-10-19)"
 publish-newsletter: 2026-10-27
 publish-carousel: pozastaveno
 ---
 
-# Epizoda 28 — Alfons Mucha: Apoteóza slovanstva (Slovanská epopej), at / on / in + data
+# Epizoda 28 — Alfons Mucha: Apoteóza slovanstva (Slovanská epopej), řadové číslovky a data
 
 Připraveno dopředu 2026-10-19 (test jednotného postupu přes frontu GrowOS). **Rekapitulace podle curricula** (řádek #28): 27. 10., at/on/in (revize) + data, Slovanská epopej (vybrat panel), hook 28. 10. Den vzniku ČSR. Výběr panelu je návrh Clauda.
 
@@ -23,17 +23,20 @@ Připraveno dopředu 2026-10-19 (test jednotného postupu přes frontu GrowOS). 
 
 | # | Anglicky | Highlight | Česky |
 |---|---|---|---|
-| 1 | Czechoslovakia was founded **on** 28 October 1918. | on | Československo vzniklo 28. října 1918. |
-| 2 | Mucha gave the Slav Epic to Prague **in** 1928. | in | Mucha daroval Slovanskou epopej Praze v roce 1928. |
-| 3 | A young man is standing **at** the top of the painting. | at | Nahoře na obraze stojí mladý muž. |
+**Změna gramatiky 2026-10-19 (Lenka):** původně at / on / in, ale předložky už byly dvakrát (#9 at/on/in, #23 předložky pohybu; #2 předložky místa) → **řadové číslovky a čtení dat a letopočtů** (v sérii ještě nebylo). Vyřazená verze vět je v Gitu (commit c53d512).
+
+| # | Anglicky | Highlight | Česky |
+|---|---|---|---|
+| 1 | Czechoslovakia was born on the **twenty-eighth** of October, **nineteen eighteen**. | twenty-eighth, nineteen eighteen | Československo vzniklo 28. října 1918. |
+| 2 | Mucha gave the Slav Epic to Prague in **nineteen twenty-eight**, ten years later. | nineteen twenty-eight | Mucha daroval Slovanskou epopej Praze v roce 1928, o deset let později. |
+| 3 | The Apotheosis is the **twentieth** and last painting of the cycle. | twentieth | Apoteóza je dvacátý a poslední obraz cyklu. |
 
 Gramatický klíč:
-- **on** + den a datum: *on Monday, on 28 October, on my birthday*.
-- **in** + delší období (měsíc, rok, století, roční období): *in October, in 1928, in the 20th century, in winter*.
-- **at** + přesný bod (hodina, chvíle): *at nine o'clock, at night, at the end*; i u místa: *at the top, at the door*.
-- Česky často jen „v“ nebo nic („28. října“, „v roce 1928“, „v devět“).
-- Čtení data: *on 28 October* = *on the twenty-eighth of October*.
-- Věta 3 ověřena na reprodukci: mladík s rozpřaženýma rukama nahoře uprostřed, v rukou věnce.
+- **Řadové číslovky:** *first, second, third*, pak *-th*: *fourth, fifth (!), tenth, twenty-eighth*; desítky *-y → -ieth*: *twenty → twentieth*. Zkratky *1st, 2nd, 3rd, 28th*.
+- **Datum:** píše se *28 October* (UK) / *October 28* (US), čte se *the twenty-eighth of October* / *October (the) twenty-eighth*. Čeština má tečku („28.“), angličtina koncovku a *the*.
+- **Letopočty po dvojicích:** *1918 = nineteen eighteen*, *1928 = nineteen twenty-eight*; *1900 = nineteen hundred*; *2000 = two thousand*; *2026 = twenty twenty-six* i *two thousand and twenty-six*.
+- Věta 2: fakt „1928“ ověřen (EN-SE, CZ, EN-AM); „ten years later“ je jen výpočet 1918 + 10, ne tvrzení o záměru.
+- Věta 3: Apoteóza je 20. obraz cyklu (EN-SE, ME).
 
 ## Obsah epizody
 
@@ -50,7 +53,7 @@ Gramatický klíč:
 ALPHONSE MUCHA: THE APOTHEOSIS OF THE SLAVS (THE SLAV EPIC)
 1926, Moravský Krumlov Castle, Moravský Krumlov, Czech Republic
 ```
-Pill (gramatický cíl): `at / on / in`
+Pill (gramatický cíl): `dates & ordinal numbers` (změněno 2026-10-19; thumbnail řeší Lenka v hlavním vlákně)
 
 ## Obraz
 
