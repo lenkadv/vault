@@ -20,6 +20,8 @@ properties:
     displayName: Tvoje poznámka
   note.created:
     displayName: Vytvořeno
+  file.ctime:
+    displayName: Vytvořeno
 views:
   - type: table
     name: Čeká na tebe
@@ -47,9 +49,9 @@ views:
       - business
       - channel
       - note.note
-      - created
+      - file.ctime
     sort:
-      - property: created
+      - property: file.ctime
         direction: DESC
     boardColumns:
       - draft
