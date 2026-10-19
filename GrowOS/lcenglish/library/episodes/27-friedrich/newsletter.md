@@ -7,14 +7,7 @@ type: Art for English #27 — Caspar David Friedrich, Poutník nad mořem mlhy, 
 
 <!-- Claudův draft 2026-10-19, verze 2. Hook (Lenka 261019): cizí jazyk jako moře mlhy, Lenčina japonština u seriálu. Původní hook s kolenem zamítnut (úvod „před X lety“ by opakoval #26). Po Lenčiných úpravách porovnat git diff → lekce. -->
 
-## Subject: [vybrat]
-
-Návrhy:
-1. Rozumím jen vrcholkům
-2. Všude samá mlha
-3. Kdo to je? Nikdo neví.
-4. Ještě nikdy jsem…
-5. Mlha se zvedá
+## Subject: Za mlhou hustou tak, že by se dala krájet
 
 ---
 
@@ -32,7 +25,7 @@ Jsem jako poutník nad mořem mlhy.
 
 (IMAGE: nl-thumb.png - Poutník nad mořem mlhy, s proklikem do sbírky Hamburger Kunsthalle https://online-sammlung.hamburger-kunsthalle.de/de/objekt/HK-5161/der-wanderer-ueber-dem-nebelmeer)
 
-Tenhle obraz namaloval německý malíř Caspar David Friedrich kolem roku 1817. Krajinu si úplně nevymyslel, i když není ani úplně reálná. Poskládal ji z kreseb, které si dělal, když putoval po Saském Švýcarsku. Dost možná je na ní i kousek Čech - kuželovitá hora vlevo v pozadí by mohl být Růžovský vrch.
+Tenhle obraz namaloval německý malíř Caspar David Friedrich kolem roku 1817. Krajinu si úplně nevymyslel, i když není ani úplně reálná. Poskládal ji z kreseb, které si dělal, když putoval po Saském Švýcarsku. Dost možná je na ní i kousek Čech - kuželovitá hora vlevo v pozadí by mohla být Růžovský vrch.
 
 Kdo je ten muž? To nikdo neví. Stojí k nám zády, a tak se už přes dvě stě let díváme na někoho, kdo se dívá. 
 
@@ -44,7 +37,7 @@ Všechny tři věty jsou v předpřítomném čase (*present perfect*). Použív
 
 Jakmile ale určíte, kdy se to stalo, je to úkol pro minulý čas prostý: *Friedrich painted it around 1817.*
 
-A teď vy: *Have you ever watched a series in English?* Jestli ano, napište mi, jaký - stačí jedna věta: *I've watched…*
+A teď vy: *Have you ever watched a TV series in English?* Jestli ano, napište mi: *I've watched…*
 
 Zdraví L.
 
