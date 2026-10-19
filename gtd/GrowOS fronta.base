@@ -43,12 +43,6 @@ views:
     groupBy:
       property: status
       direction: ASC
-    boardColumns:
-      - draft
-      - review
-      - changes
-      - approved
-    cardTitleProperty: note.headline
     order:
       - business
       - channel
@@ -57,13 +51,19 @@ views:
     sort:
       - property: created
         direction: DESC
+    boardColumns:
+      - draft
+      - review
+      - changes
+      - approved
+    cardTitleProperty: note.headline
+    cardOpenBehavior: modal
   - type: cards
     name: Podle stavu (bez doplňku)
     filters:
       and:
         - status != "published"
         - status != "rejected"
-    group_by: status
     order:
       - headline
       - business
@@ -75,6 +75,7 @@ views:
         direction: ASC
       - property: created
         direction: DESC
+    group_by: status
   - type: table
     name: Rozpracované a vrácené
     filters:
