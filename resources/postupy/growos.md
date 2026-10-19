@@ -54,6 +54,7 @@ GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
   (`schedule_broadcast`). Draft založený přes MCP má výchozí publikum „All people“, takže
   segment Newsletter je potřeba nastavit vždy. Naplánování přes MCP jen na Lenčino
   výslovné „naplánuj“ s konkrétním časem; obrázek (thumbnail) se přes MCP nahrát nedá.
+  ⚠️ **Art for English ale přes `create_broadcast` nezakládat** (261019): vzniká kampaň v Custom HTML editoru se surovým kódem, ne v Text Builderu. Draft = duplikát minulé epizody v Chromu, viz `GrowOS/lcenglish/brain/lessons/0.1-lessons.md`.
   **Smyčka učení (260927):** Claude založí draft v Dripu a svou verzi (předmět,
   preheader, text, broadcast ID) uloží do `GrowOS/lcenglish/work/email/` → Lenka
   draft v Dripu doupraví a odešle → Claude přečte odeslanou verzi (`get_broadcast`),

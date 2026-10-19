@@ -40,7 +40,7 @@ Gramatický klíč:
 |---|---|---|
 | [brief.md](brief.md) | Tento soubor | ✅ |
 | [newsletter.md](newsletter.md) | Subject „Za mlhou hustou tak, že by se dala krájet“, text po Lenčiných úpravách 19. 10. | ✅ text, ⏳ Lenka naplánuje |
-| Drip draft | broadcast **604073309**, „Za mlhou hustou tak, že by se dala krájet//Friedrich“, nenaplánováno, publikum zatím „All people“ (nastavit segment Newsletter), obrázek jako `[OBRÁZEK]` — preview https://www.getdrip.com/broadcasts/604073309/e445540b79fee2131ef88 | ⏳ Lenka |
+| Drip draft | broadcast **919204975** (duplikát #26 v Text Builderu), „Za mlhou hustou tak, že by se dala krájet//Friedrich“, segment Newsletter, stav draft (předvyplněný čas 20. 10. 7:44 z #26), obrázek jako `[OBRÁZEK]` — preview https://www.getdrip.com/broadcasts/919204975/2cd4daad3ee0f0ac7198b. Chybný MCP draft 604073309 (Custom HTML) smazat | ⏳ Lenka |
 | [substack.md](substack.md) / substack.html | Zrcadlo na Substack (methodology 6b), draft na Substacku zatím nezaložen | ⏳ |
 | FB upoutávka | `work/social/a4e-27-friedrich-facebook.md`, Metricool koncept 400208355 (Tady Lenka, 20. 10. 15:00, bez obrázku, 1. komentář čeká na odkaz) https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=8150468097853573042 | ⏳ Lenka |
 | friedrich-wanderer-above-the-sea-of-fog-1817.jpg | Reprodukce, 2327 × 2980 px, 1 MB, Wikimedia Commons, public domain | ✅ |
