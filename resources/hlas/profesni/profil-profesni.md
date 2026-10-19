@@ -221,3 +221,23 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
 - „koukáte jí pod prsty“ je ustálené rčení, ne chyba (Claude to chtěl „opravit“ na „na prsty“). **Pravidlo:** u rčení si před „opravou“ dát pozor; skutečné překlepy a chyby ale označovat a navrhovat, Lenka to chce.
 - Placeholdery „[doplní Štěpánka]“ → „[doplnit]“. Poznámky pro Štěpánku tykání, nabídka vykání.
 - Beze změny: „Ať AI pracuje pro vás, ne vy pro ni“, tabulky ukázek a kroků, nabídka tématu navazujícího workshopu, dílna pro vedoucí, „Skutečná data“, „Jak chráníme vaše data“, velikost skupiny 15.
+
+### 261019 — EVIDENT, potvrzení 11. 11. (anglicky, koncept v Gmailu)
+
+- Claude: „The follow-up half day we can arrange later, as agreed.“ → Lenka: „We can arrange the follow-up half-day later, as agreed.“ Claude větu převzal z Lenčina mailu z 16. 10. („The follow-up half day we can then arrange flexibly“) kvůli návaznosti. Předmět na začátku věty je v angličtině možný jen pro důraz nebo kontrast a v běžném pracovním mailu působí jako český slovosled. **Pravidlo:** v anglických mailech držet neutrální slovosled podmět – sloveso – předmět; když přebírám formulaci z dřívějšího mailu, zkontrolovat ji, ne opakovat.
+- „…on Evropská, or have you already moved to your new headquarters?“ → „…on Evropská?“ **Pravidlo:** ověřovací otázku nechat krátkou, bez domněnek navíc.
+
+### 261019 — PENTA, David Musil: předání přehledu HackedList.io (prodejní mail)
+
+- Moje verze začínala „u firemních adres se nenašlo nic“. Lenka: první věta závěru nesmí být „nic se nenašlo“, mail má službu prodat. **Pravidlo:** u nabídky služby začít nejcitlivějším nálezem a tím, proč vadí; „nic“ v hlavní firmě nezamlčet, ale ani nedávat dopředu.
+- Doplnit **rozsah a jeho meze**: co se prošlo (zřejmé domény, firmy skupiny), že všechny domény klienta neznáme a mohou existovat další úniky. **Pravidlo:** u jednorázové analýzy říct, co pokryla a co ne; mez rozsahu je zároveň důvod pokračovat.
+- Hodnota služby: Lenka to vnímá jako „pojištění“, ale tak to nepojmenovat. **Pravidlo:** psát jako jistotu a přehled („máte jistotu, že se o novém úniku dozvíte včas“), jednorázový přehled = „snímek k jednomu dni“.
+- Další krok jako dvě varianty: kontakt v materiálu (ozvat se přímo), nebo Lenka propojí.
+- Úvod: chyběla přátelská věta. **Pravidlo:** u dlouholetého klienta (David Musil) za „Dobrý den, Davide,“ jedna lehká osobní věta se smajlíkem ;-) nebo :-), jako v jejích starších mailech („držím palce, ať máte úplné volno aspoň na Vánoce“, „jak se zabydlujete v roli korunního prince? :-)“). Nevymýšlet konkrétní fakta (konference proběhla?), když je nevím.
+- **Lenčiny závěrečné úpravy před odesláním (261019):**
+  - Celý odstavec o tenderovém portálu (nálezy, scénář s fakturou, čtyři kroky na s. 5) vyškrtnut. **Pravidlo:** průvodní mail k příloze nepřevypráví její obsah; stačí rozsah, mez rozsahu a hodnota služby, detaily jsou v PDF.
+  - „Jak jsem se zmínila na konzultaci 28. 9.“ → „Jak jsem slíbila“. Šlo o slib, ne zmínku; moje opatrnost (v poznámkách jsem slib neměla) byla zbytečná. **Pravidlo:** když nevím, jestli šlo o slib, zeptat se, nebo napsat neutrálně bez data; datum konzultace v úvodu netřeba.
+  - „Všechny domény… ale neznáme“ → „neznají“ (HackedList.io). **Pravidlo:** za cizí firmu nemluvit v 1. osobě množného čísla; Lenka je prostředník, ne součást HackedList.io.
+  - „Smysl průběžného hlídání je…“ → „Smysl průběžného hlídání, které HackedList.io nabízí, je…“. **Pravidlo:** u nabídky říct, kdo službu nabízí.
+  - „stačí mi napsat, kdo by za vás přišel“ → „stačí mi napsat“. **Pravidlo:** závěrečnou výzvu nezužovat na konkrétní krok, nechat ji otevřenou.
+  - „podzim máte nabitý“ → „podzim máte stále nabitý“; „Takový přehled“ → „Přehled“. Drobnosti.

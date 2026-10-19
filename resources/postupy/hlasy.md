@@ -27,6 +27,10 @@ Kdykoli Lenka můj text **přepíše** (upraví přímo v souboru, vloží svou 
 
 Platí pro všechny hlasy a všechny kanály, i mimo seanci, která psaní začala.
 
+## 2b. Návrh e-mailu = rovnou koncept v Gmailu (Lenka 261019)
+
+Když Lenka řekne „navrhni / nadraftuj mi e-mail“, koncept **hned založit v Gmailu** (`create_draft`; u odpovědi s `replyToMessageId` posledního mailu ve vlákně, příjemci a kopie jako „Odpovědět všem“), ne jen napsat text do chatu. Lenka ho v Gmailu doupraví a odešle sama; Claude nikdy neodesílá. V chatu jen odkaz na koncept, krátké shrnutí a ⚠️ výstraha k odesílací adrese (oddíl 3). Úprava existujícího konceptu viz paměť `reference_gmail_draft_update_detaches_thread`. Výjimka: maily na KTF ze školního účtu (koncept v Gmailu by byl ve špatném účtu) → text do chatu.
+
 ## 3. Z jaké adresy odeslat — u pracovních mailů hlídat vždy a důrazně (Lenka 261011)
 
 Koncepty z Gmail konektoru vznikají v účtu `lnk.dvorakova@gmail.com` a Claude **nemůže změnit odesílatele**. Lenka u klientských a pracovních mailů musí před odesláním přepnout „Od“ na pracovní adresu; odeslání ze soukromého Gmailu nedělá dobrý dojem (261011: odpověď Veronice Voříškové z PENTY odešla nejdřív z Gmailu a Lenka ji přeposlala z pracovní adresy).

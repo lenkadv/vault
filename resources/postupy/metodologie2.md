@@ -100,13 +100,17 @@ Dashboard jako u Pecha **zatím není** (nabídnout, až bude víc přednášek)
 | **Znalectví** (`znal`, `christ`, `fiorillo`, `bartsch`, `sonnenfels`, `met-znalectvi`) | 5. 10. (**páteř dějin umění až dodnes**, vznik z heuristiky a terminologie, Francie špička, předstupně van Mander až Houbraken, kritika opřená o znalecké základy), 12. 10. (metody a země) | maják Christ 1735 Lipsko, Fiorillo 1813 Göttingen, Bartsch 21 sv., stavy grafiky |
 | Formalistická a kulturněhistorická metoda (`met`) | 5. 10. (úvod), 12. 10. (jen přes Winckelmanna a Hegela) | Wölfflin, Burckhardt, Du Bos, Le Clerc — **čekáme na hlavní výklad** |
 | Ikonologie, výtvarná kritika, památková péče (`met`) | 5. 10. (úvod), 12. 10. (zmínky: Diderot, Wren, Winckelmann a vykopávky) | zatím jen zmínky |
-| Čeští historici umění | 12. 10. | **Dlabač** (Strahov, 2. gen., slovník 1815–16), **Hollar** (ilustrace Dugdalea); Mistr Theodorik a Dientzenhoferové jen mimochodem |
+| Čeští historici umění | 12. 10., 19. 10. | 12. 10.: **Dlabač** (Strahov, 2. gen., slovník 1815–16), **Hollar** (ilustrace Dugdalea); Mistr Theodorik a Dientzenhoferové jen mimochodem. 19. 10.: **Cibulka** (UK za 1. republiky, přírůstková kniha; kontext) |
+| Filozoficko-kulturněhistorické syntézy (`synt`, `lanzi`, `agincourt`, `cicognara`, `lenoir`, `gibbon`, `voltaire`) | 19. 10. | **„důležití pardálové“**: Lanzi (1. gen., „Gombrich přelomu 18. a 19. st.“, dílo = primární pramen → Rumohr), d'Agincourt (1. gen., středověk), Cicognara (2. gen., tvůrčí imaginace); předstupně Voltaire, Gibbon (úpadkové fáze → formalisté); Lenoir (užité umění) |
+| Architektura 18. st. (`arch`, `pancrazi`, `piranesi`) | 19. 10. | Řecko × Řím; **udržet Pancraziho a jako protipól Piranesiho** („dva, maximálně tři pardály“); Piranesi: inženýrská architektura, Etruskové (rané fáze) |
+| Výtvarná kritika (`depiles`, `diderot`, `stendhal`) | 5. 10., 12. 10., 19. 10. | 19. 10.: de Piles body (max. 20, Rafael, Rubens; kritéria „udržet“), Diderot originalita + tvůrčí imaginace, **Stendhal „nejdůležitější výtvarný kritik“** (romantismus, Salon 1824, psychologická kritéria), Berlín 1844 první řádná katedra |
 
 ## Zpracováno
 | Přednáška | Témata | Karty | Stav |
 |---|---|---|---|
 | 5. 10. 2026 | osvícenství (1./2. generace), styl–maniéra–vkus, předchůdci (Vasari, van Mander, Sandrart, Baldinucci, Bellori, de Piles, Du Bos, Houbraken), Winckelmann, Diderot, Condorcet, metody, literatura ke zkoušce | 53 | ✅ sestaveno a naimportováno do Anki 261007 |
 | 12. 10. 2026 | Winckelmann podrobně, Caylus a datace komparací, německá reakce (Hegel, Schlegel, Goethe, Lessing, Herder), Británie (Reynolds, Hogarth, Wren, Essex, Warton, Walpole, Burke/Price, Dugdale/Hollar), dílenské receptáře, znalectví (Christ, Fiorillo, Bartsch, Sonnenfels, Dlabač), dějiny umění na univerzitách | +43 nových, 1 upravená (Goethe) = 96 celkem | ✅ sestaveno 261012, čeká na import (13 karet s tagem `overit`) |
+| 19. 10. 2026 | syntézy (Voltaire, Gibbon, Lanzi, d'Agincourt, Gerville, Cicognara, Lenoir), architektura Řecko × Řím (Pancrazi, Le Roy, Laugier, Piranesi), průvodce (Scaramuccia, Bartoli, Saint-Non, Denon), kritika (de Piles, Diderot, Condorcet, Stendhal), napoleonská éra, Berlín 1844, Cibulka, Belting zůstává | +26 nových (`new_cards_p3.py`, 17 do Jádra, 6 `zk_kontext`) = 132 celkem | ✅ sestaveno 261019, čeká na import (6 karet `overit`); Doc `1rKKGek2Hux7jzjWww88ZEkxZgr_wytj03TCnS3y32yc`, dashboard aktualizován |
 
 ## Trénink (záznamy)
 | Datum | Co | Poznámky |
