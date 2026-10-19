@@ -94,3 +94,5 @@
 {"actor":"ai","session":"manualtest","event":"created","id":"f8sx2xkb4k","path":"lcenglish/work/social/27-friedrich/facebook-zada.md","skill":"social-write","ts":"2026-10-19T16:34:05.818Z"}
 
 {"actor":"ai","session":"5f47f954-0164-4b1e-a6b0-c157b42a2914","event":"frozen","id":"f8sx2xkb4k","snapshot":".snapshots/f8sx2xkb4k.md","ts":"2026-10-19T16:34:20.099Z"}
+
+{"actor":"owner","event":"flip","id":"f8sx2xkb4k","from":"draft","to":"approved","detected":"reconcile","ts":"2026-10-19T17:09:03.720Z"}
