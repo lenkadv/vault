@@ -49,6 +49,11 @@ GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
   zastaralý — tvrdí read-only). Odesílá/plánuje Lenka ve webovém Dripu; odeslání,
   naplánování a mazání/odhlašování odběratelů jen po výslovném potvrzení.
   „Výsledná verze" od Lenky = už upraveno v Dripu, nezakládat duplicitní draft.
+  **Od Drip release notes srpen–září 2026 (vyšly 14. 10. 2026)** umí MCP u single email
+  kampaně i přiřadit uložený segment (`set_broadcast_audience`) a naplánovat odeslání
+  (`schedule_broadcast`). Draft založený přes MCP má výchozí publikum „All people“, takže
+  segment Newsletter je potřeba nastavit vždy. Naplánování přes MCP jen na Lenčino
+  výslovné „naplánuj“ s konkrétním časem; obrázek (thumbnail) se přes MCP nahrát nedá.
   **Smyčka učení (260927):** Claude založí draft v Dripu a svou verzi (předmět,
   preheader, text, broadcast ID) uloží do `GrowOS/lcenglish/work/email/` → Lenka
   draft v Dripu doupraví a odešle → Claude přečte odeslanou verzi (`get_broadcast`),
