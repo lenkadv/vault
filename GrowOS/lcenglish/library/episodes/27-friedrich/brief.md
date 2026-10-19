@@ -19,13 +19,13 @@ Rekapitulace a odsouhlasení 2026-10-19 (Lenka): ze tří variant vybrána **B �
 
 ## Kanonické věty (zdroj pravdy — změna zde = update ve všech souborech)
 
-**Návrh 2026-10-19 — čeká na Lenku.** Věta 3 se přizpůsobí hooku.
+**Stav 2026-10-19 večer:** pořadí a věty 1 a 3 podle Lenčiny úpravy v Obsidianu, věta 2 doplněna Claudem (Lenka svou větu o japonštině smazala). Věta 2 opřená o fakt: obraz je na obálkách knih, hrnků, CD (EN Wikipedia).
 
 | # | Anglicky | Highlight | Česky |
 |---|---|---|---|
-| 1 | **Have** you ever **stood** above the clouds? | have … stood | Stáli jste někdy nad mraky? |
-| 2 | Nobody **has** ever **seen** his face. | has … seen | Jeho tvář nikdy nikdo neviděl. |
-| 3 | I**'ve** never **understood** a whole episode. | 've … understood | Ještě nikdy jsem nerozuměla celému dílu. *(o Lenčině japonštině - potvrdit)* |
+| 1 | Nobody **has** ever **seen** his face. | has … seen | Jeho tvář nikdy nikdo neviděl. |
+| 2 | You **have** probably **seen** this painting before. | have … seen | Tenhle obraz jste už nejspíš někde viděli. |
+| 3 | **Have** you ever **stood** above the clouds? | have … stood | Stáli jste někdy nad mraky? |
 
 Gramatický klíč:
 - **Present perfect** = zkušenost bez konkrétního času: *kdy* se to stalo, není důležité, důležité je, *že* se to stalo (nebo nestalo).
