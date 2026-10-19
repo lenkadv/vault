@@ -63,7 +63,7 @@ pointer to it here — so this file stays short and quick to load.
 
 ## Notes
 
-- **V sezení nedělat `cd` do podsložek (261019).** Příkaz `cd` v Bashi přesune pracovní složku sezení (třeba do `lcenglish/library/...`) a od té chvíle hlídač GrowOS nové položky v `work/` neorazítkuje, tiše, bez chyby. Stalo se u FB upoutávky #27: položka nevstoupila do fronty. Vždy absolutní cesty; po založení položky zkontrolovat, že hlavička má `id` a `status`.
+- **V sezení nedělat `cd` do podsložek (261019).** Příkaz `cd` v Bashi přesune pracovní složku sezení (třeba do `lcenglish/library/...`) a od té chvíle hlídač GrowOS nové položky v `work/` neorazítkuje, tiše, bez chyby. Stalo se u FB upoutávky #27: položka nevstoupila do fronty. Vždy absolutní cesty; po založení položky zkontrolovat, že hlavička má `id` a `status`. **Ani proměnné v cestách** (`B="…"; mkdir "$B/…"`): hlídač je čte doslova a zamkne sezení na business `$B`, pak odmítá každý zápis do lcenglish (stalo se 261019 u #28–30, Lenka musela smazat `.growos/sessions/<id>.json`). Cesty vypisovat celé.
 - **Seanci pro GrowOS vždy otevírat ve složce `GrowOS`, ne `GrowOS/lcenglish`** (261014). Jen tam běží hlídač, který novým souborům v `work/` sám doplní id, stav a datum. V seanci otevřené hlouběji zůstanou nové soubory bez razítka a Doctor je hlásí jako chybu (stalo se u šesti příspěvků o Fridě Kahlo).
 - **"Todoist kalendář" = Google Calendar s názvem "Todoist"** (id:
   `d0cf3065decc1cb2fe038fcefe927aa76e4896534f469afa6667eadbfb891110@group.calendar.google.com`),
