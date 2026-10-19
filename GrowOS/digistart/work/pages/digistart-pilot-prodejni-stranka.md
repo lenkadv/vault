@@ -9,6 +9,7 @@ business: digistart
 channel: pages
 created: 2026-10-17
 note: čekáme na Štěpánku, možná zpracovat verzi s ponaučením z GrowOS
+kanban_order: V1
 ---
 
 # DigiStart pilot: prodejní stránka (text, struktura, směr vzhledu)

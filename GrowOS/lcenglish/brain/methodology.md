@@ -1,5 +1,22 @@
 # Methodology
 
+## Rychlý průvodce epizodou (ověřeno na #27, 2026-10-19; podrobnosti v krocích níže)
+
+**Sezení vždy otevřít ve složce `GrowOS`, v Bashi nikdy `cd` do podsložek** (jinak hlídač tiše přestane razítkovat). Kdo co dělá: **C** = Claude, **L** = Lenka.
+
+1. **Zadání (C → L):** C zrekapituluje slot z curricula a navrhne 2–3 varianty díla + gramatiky, které v sérii ještě nebyly (zkontrolovat „Vydané díly“ v projektu). L vybere.
+2. **Hook (L):** C nabídne otázky a úhly, L dodá zážitek. Úvod nesmí opakovat stavbu minulého dílu.
+3. **Podklady (C):** `library/episodes/NN-umelec/brief.md` (ověřená fakta se zdroji, 3 kanonické věty, gramatický klíč, text pro Canvu, P.S. jen s fakty z `business.md`) + obraz.
+4. **Návrh do fronty (C):** `work/email/NN-umelec/newsletter.md` → zkontrolovat razítko (`id`, `status`) → lokální commit → `review` → text ukázat v chatu + subject ve 3–5 variantách.
+5. **Úpravy a schválení (L):** v Obsidianu nebo v chatu; místa, kam má C doplnit, označí `xxxxx` / „(doplň)“. Vrácení s poznámkou = sloupec `changes`; schválení = `approved` na nástěnce `gtd/GrowOS fronta.base` nebo „schvaluju“. C nikdy neposouvá do `approved` / `changes` / `rejected` za L.
+6. **Thumbnail (C → L):** Canva, soubor „Art4English Episodes thumbnail“: C zkopíruje horní stránku v Chromu, nahraje obraz (WikiArt nebo muzeum, ne Commons), vymění obraz a texty, pošle náhled; po „ulož“ uloží a přejmenuje nadpis stránky na autora. L případně doladí výřez a stáhne `nl-thumb.jpg` do složky epizody.
+7. **Drip (C → L):** v Chromu duplikovat minulou epizodu (Text Builder, segment Newsletter), vložit text a subject; nikdy MCP `create_broadcast`. L vloží thumbnail a naplánuje.
+8. **Substack (C → L):** `work/articles/NN-umelec/substack.md` (pravidla 6b, v publikovaném textu dlouhé pomlčky `–`), draft v Chromu. L vloží obrázek, tlačítka, naplánuje.
+9. **FB upoutávka (C → L):** `work/social/NN-umelec/facebook-*.md`, 2–3 varianty úvodu v chatu → L vybere a schválí → C uloží koncept do Metricoolu (Tady Lenka, obrázek ze Substacku, odkaz na článek v 1. komentáři bez sledovacích parametrů). Čas a zveřejnění L.
+10. **Po odeslání (C):** ověřit Drip, Substack, FB → položky `published` → finální text, lekce z rozdílu (commit z kroku 4 vs. schválená verze), kopie do `samples/`, curriculum ✅, projekt (Vydané díly, Aktuální stav, next action na další díl).
+
+**Kdy C nástěnku vidí:** když L v kterémkoli otevřeném vlákně napíše „mrkni na nástěnku“, jinak ráno v denním plánu. Příprava dílů dopředu se zkouší od 2026-10-19 (#28–30, hooky doplní L).
+
 ## Our way of doing it, in steps
 Jak vzniká jeden díl Art for English (dnešní podoba — bez Remotion, bez carouselu):
 
@@ -64,5 +81,5 @@ Zatím to bylo popsané jen v admin/technickém `resources/shadowloop-admin.md` 
 - Měření snahy streakem místo schopnosti se domluvit.
 
 ## Proof this works
-- Viz `brain/samples/` — 21 odeslaných newsletterů Art for English v Lenčině hlase.
+- Viz `brain/samples/` — odeslané newslettery Art for English v Lenčině hlase (seznam v `samples/index`).
 - Studentské výsledky: [PLACEHOLDER: přesunout doslovné citáty do brain/proof/ a odkázat odsud].

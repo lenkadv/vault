@@ -6,7 +6,7 @@ source: library/episodes/28-mucha/brief.md
 subject: Dárek s podmínkou
 date: 2026-10-27
 id: we8q1kk5ok
-status: draft
+status: review
 business: lcenglish
 channel: email
 created: 2026-10-19

@@ -96,3 +96,25 @@
 {"actor":"ai","session":"5f47f954-0164-4b1e-a6b0-c157b42a2914","event":"frozen","id":"f8sx2xkb4k","snapshot":".snapshots/f8sx2xkb4k.md","ts":"2026-10-19T16:34:20.099Z"}
 
 {"actor":"owner","event":"flip","id":"f8sx2xkb4k","from":"draft","to":"approved","detected":"reconcile","ts":"2026-10-19T17:09:03.720Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"created","id":"we8q1kk5ok","path":"lcenglish/work/email/28-mucha/newsletter.md","ts":"2026-10-19T17:47:36.549Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"created","id":"qsbdfehx4k","path":"lcenglish/work/email/29-oosterwijck/newsletter.md","ts":"2026-10-19T17:47:56.773Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"created","id":"ap8fe0z635","path":"lcenglish/work/email/30-el-greco/newsletter.md","ts":"2026-10-19T17:48:58.086Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"flip","id":"we8q1kk5ok","from":"draft","to":"review","ts":"2026-10-19T17:49:30.839Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"frozen","id":"we8q1kk5ok","snapshot":".snapshots/we8q1kk5ok.md","ts":"2026-10-19T17:49:30.848Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"flip","id":"qsbdfehx4k","from":"draft","to":"review","ts":"2026-10-19T17:49:31.486Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"frozen","id":"qsbdfehx4k","snapshot":".snapshots/qsbdfehx4k.md","ts":"2026-10-19T17:49:31.489Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"flip","id":"ap8fe0z635","from":"draft","to":"review","ts":"2026-10-19T17:49:32.136Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"frozen","id":"ap8fe0z635","snapshot":".snapshots/ap8fe0z635.md","ts":"2026-10-19T17:49:32.138Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"flip","id":"we8q1kk5ok","from":"review","to":"draft","ts":"2026-10-19T18:05:44.487Z"}
+
+{"actor":"ai","session":"ca9f48e3-275f-4664-ba6d-fef7d7a85260","event":"flip","id":"we8q1kk5ok","from":"draft","to":"review","ts":"2026-10-19T18:06:37.449Z"}

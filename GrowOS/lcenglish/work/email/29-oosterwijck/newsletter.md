@@ -6,7 +6,7 @@ source: "library/episodes/29-oosterwijck/brief.md"
 subject: "Kolik času nám zbývá?"
 date: 2026-11-03
 id: qsbdfehx4k
-status: draft
+status: review
 business: lcenglish
 channel: email
 created: 2026-10-19

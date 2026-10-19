@@ -28,3 +28,5 @@
 {"actor":"ai","session":"a38026c4-459b-4bbe-8bfc-6eb62276c1a3","event":"flip","id":"08nsvlhil6","from":"review","to":"changes","ts":"2026-10-17T14:25:59.480Z"}
 
 {"actor":"ai","session":"a38026c4-459b-4bbe-8bfc-6eb62276c1a3","event":"flip","id":"08nsvlhil6","from":"changes","to":"draft","ts":"2026-10-17T14:26:05.110Z"}
+
+{"actor":"owner","event":"note","id":"08nsvlhil6","note":"čekáme na Štěpánku, možná zpracovat verzi s ponaučením z GrowOS","detected":"reconcile","ts":"2026-10-19T12:58:58.188Z"}

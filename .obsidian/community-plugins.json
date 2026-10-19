@@ -2,5 +2,6 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-zotero-desktop-connector",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "base-board"
 ]
