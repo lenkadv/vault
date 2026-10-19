@@ -34,7 +34,7 @@ views:
     sort:
       - property: created
         direction: DESC
-  - type: kanban
+  - type: base-board
     name: Nástěnka
     filters:
       and:
