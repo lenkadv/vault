@@ -35,4 +35,13 @@ Thumbnail z Canvy `library/episodes/27-friedrich/nl-thumb.jpg`, nebo celý obraz
 - Fakta: obálky knih, trička, CD, hrnky; parodie v Minecraftu a Doctor Who (EN Wikipedia, viz `library/episodes/27-friedrich/brief.md`); datace kolem 1817 (Hamburger Kunsthalle); totožnost postavy neznámá (muzeum)
 - Stránka: Tady Lenka; Metricool koncept na út 20. 10. 15:00, zveřejňuje Lenka
 - Metricool koncept (id 400227967, uuid 8150468097853573042), obrázek = Lenčin thumbnail ze Substacku, první komentář vyplněn 19. 10.: https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=8150468097853573042
+- **Finální verze Lenky (Metricool, naplánováno na út 20. 10. 12:30, id 400232159):**
+
+  Je na obálkách knih, na hrncích i na tričkách. Zahrál si v Minecraftu i v Doctoru Who.
+
+  Muž v tmavém kabátě stojí na skále, opírá se o hůl a dívá se do mlhy. Caspar David Friedrich ho namaloval kolem roku 1817 a od té doby mu koukáme na záda.
+
+  Nobody has ever seen his face.
+
+  Co má tenhle obraz společného s japonskými seriály (a s gaučem), se dočtete v článku. Odkaz je v prvním komentáři.
 - Placeholders left for the owner: none
