@@ -10,7 +10,7 @@
    > Po 19. 10. 13:45–14:45 spolu se zadáním pro Michala Kociána. Jen naše prezentace (PDF v Podkladech). → [[penta-hacked-list-report]]
 
 3. **Michal Kocián: zadání ze srovnání stavebního zákona (do út 20. 10. 17:00)**
-   > Z Deep Research v Gemini ([Google Doc](https://docs.google.com/document/d/15Uw7o6hbaJZiwM7Zfxm9PEVc6AqyvvptarlfzqN3R7s/edit?tab=t.0)) udělat úkol, který Michal dostane ke splnění; zpracuje hlavně Claude, asi půl hodiny. → [[arttinder-consulting]]
+   > Z Deep Research v Gemini ([Google Doc](https://docs.google.com/document/d/15Uw7o6hbaJZiwM7Zfxm9PEVc6AqyvvptarlfzqN3R7s/edit?tab=t.0)) udělat úkol, který Michal dostane ke splnění; zpracuje hlavně Claude, asi půl hodiny. → [[fakturace-klienti]] (Michal Kocián)
 
 4. **Studium: Anki každý den + zpracování přednášek + trénink**
    > Metodologie po 19. 10. 13:15–13:45 (zpracovat), pá 23. 10. 11:00–11:45 (písemný trénink). Pech út 20. 10. 18:30–19:00 a pá 23. 10. 10:15–10:45 (zpracovat), čt 22. 10. 12:00–12:45 (trénink zkoušky). → [[prehledovky-pech]], [[resources/postupy/metodologie2]]

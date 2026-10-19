@@ -156,7 +156,7 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Tabulka zájemkyň (kdo, kdy, výsledek) — C
 
 **5. Fakturace a platba** (limit st 21. 10.)
-- [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit platbu, fakturu a upomínky; když ne rychle, ruční faktura z Fakturoidu nebo Lenčino FAPI; zda prodává GNOSTIKA, je zatím otevřené (Lenka 261017, závisí i na Facebooku) — L s C #next-action #online 📅 2026-10-21
+- [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit platbu, fakturu a upomínky; když ne rychle, ruční faktura z Fakturoidu nebo Lenčino FAPI; zda prodává GNOSTIKA, je zatím otevřené (Lenka 261017, závisí i na Facebooku). **261019 (Lenka po diskusi se Štěpánkou): předčasné řešit**, fakturace visí na tom, jestli se zprůchodní portfolio DigiStart na Facebooku přes GNOSTIKU; když ne, bude potřeba jiné řešení. Lenka se mezitím jen podívá, jestli Fakturoid fakturovat umí — L s C #next-action #online
 - [ ] Objednávkový formulář: 15 000 Kč, karta + převod, správná věta o tom, kdy se platí — L s C
 - [ ] Obchodní podmínky a ochrana osobních údajů GNOSTIKY (vrácení peněz při neotevření, bez garance, prodávající s IČ) — L s C (Š by nevěděla, co se tím myslí; Lenka 261017)
 - [ ] Testovací objednávka celou cestou — L

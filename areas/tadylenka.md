@@ -20,7 +20,7 @@
 ## Nápady na rozvoj
 
 - **"Rande s uměním"** — název, který se hodí. Zatím bez jasného ukotvení — mohlo by být: komentované vycházky po galeriích, art consulting jako značka, nebo název pro lead magnet / interaktivní formát. Zachovat.
-- **ArtTinder lead magnet** — veřejná verze pro čtenáře s copyright-free starým uměním. Základ (HTML app) hotový. → [[projects/arttinder-consulting]]
+- **ArtTinder lead magnet** — veřejná verze pro čtenáře s copyright-free starým uměním. Základ (HTML app) hotový. → [[someday-maybe]] (ArtTinder, od 261019)
 
 ## K prozkoumání
 

@@ -270,7 +270,7 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
 
 **Denní otvírací rituál** (každý den při sezení u počítače):
 - Spustit `/daily-plan` nebo napsat „denní plán" / „naplánuj mi den"
-- Skill sestaví svodku z nevytříděných e-mailů od posledního čísla ([[resources/postupy/svodka]]), přečte Google Kalendář, projde `projects/` pro `#next-action` tasky (vč. publishing projektů), zkontroluje [[next-week-priorities]]. z fronty GrowOS vypíše, co čeká na Lenčino rozhodnutí (`review`) a co je schválené k vydání, Lenka odpoví jednou větou; nástěnka [[GrowOS fronta.base]] (od 261018)
+- Skill sestaví svodku z nevytříděných e-mailů od posledního čísla ([[resources/postupy/svodka]]), přečte Google Kalendář, projde `projects/` pro `#next-action` tasky (vč. publishing projektů), zkontroluje [[next-week-priorities]]. z fronty GrowOS vypíše jen novinky: položky, které od posledního plánu přibyly do `review` nebo se tam vrátily po opravě (každou jednou); schválené a naplánované nevypisuje a po plánovaném odeslání si Claude tiše ověří, že prošlo, a posune na `published`, Lence se ozve jen při chybě (261019); Lenka odpoví jednou větou; nástěnka [[GrowOS fronta.base]] (od 261018)
 - Výstup: plán (2–3 MITy v časových blocích + flexibilní seznam) jako sekce nahoře v `daily/YYMMDD.md`
 - Kalendářní bloky z weekly review jsou základ — denní plán je upřesňuje, nevytváří od nuly
 - Goals soubor: [[goals]] — kvartální směry, aktualizuje se při Quarterly Sprint
