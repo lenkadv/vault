@@ -13,8 +13,8 @@ publish-carousel: pozastaveno
 # Epizoda 27 — Caspar David Friedrich: Poutník nad mořem mlhy, present perfect
 
 Rekapitulace a odsouhlasení 2026-10-19 (Lenka): ze tří variant vybrána **B — Friedrich, present perfect**. Slot 20. 10. byl v curriculu prázdný (doplněn 2026-10-04).
-- **Hook (Lenka 2026-10-19):** příběh o operaci kolena a návratu na dlouhé výlety (`brain/stories/koleno-operace-dva-roky-do-plne-formy.md`). Chybí jen kdy a kam poprvé vyrazila (placeholder v draftu).
-- **Prodej v P.S. (návrh):** Nepravidelná slovesa za 14 dní (790 Kč, https://lcenglish.cz/irregular) — present perfect = třetí tvary. Jen ověřená fakta: 50 nejpoužívanějších nepravidelných sloves v kontextu, 14 dní.
+- **Hook (Lenka 2026-10-19, verze 2):** cizí jazyk jako moře mlhy - Lenka u japonského seriálu zachytí jen jednotlivá slova, zbytek je mlha; přenos na čtenáře a angličtinu. Původní hook s kolenem zamítnut: úvod „před pár lety“ by opakoval #26 („před třiceti lety“), viz lekce ep. 27.
+- **Prodej v P.S. (návrh, verze 2):** 10x ENGLISH (1.270 Kč, https://lcenglish.cz/10x-english) - poslech a mluvení rozhánějí mlhu; fakta jen z business.md: 100 krátkých dialogů z reálného života, nahrávky v plné rychlosti i na 80 % tempa. (Pozn.: 10x ENGLISH byl v P.S. u #25, Nepravidelná slovesa u #26.)
 - **Česká linka:** krajina je složená z Labských pískovců, vlevo v pozadí možná Růžovský vrch (Rosenberg) v Českém Švýcarsku. Psát opatrně („možná“, „jeden z vrcholů“), zdroje se neshodnou.
 
 ## Kanonické věty (zdroj pravdy — změna zde = update ve všech souborech)
@@ -25,7 +25,7 @@ Rekapitulace a odsouhlasení 2026-10-19 (Lenka): ze tří variant vybrána **B �
 |---|---|---|---|
 | 1 | **Have** you ever **stood** above the clouds? | have … stood | Stáli jste někdy nad mraky? |
 | 2 | Nobody **has** ever **seen** his face. | has … seen | Jeho tvář nikdy nikdo neviděl. |
-| 3 | I**'ve** finally **gone** on a long hike again. | 've … gone | Konečně jsem zase vyrazila na dlouhý výlet. |
+| 3 | I**'ve** never **understood** a whole episode. | 've … understood | Ještě nikdy jsem nerozuměla celému dílu. *(o Lenčině japonštině - potvrdit)* |
 
 Gramatický klíč:
 - **Present perfect** = zkušenost bez konkrétního času: *kdy* se to stalo, není důležité, důležité je, *že* se to stalo (nebo nestalo).
