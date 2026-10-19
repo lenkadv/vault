@@ -58,6 +58,7 @@ views:
       - review
       - changes
       - approved
+      - rejected
     cardTitleProperty: note.headline
     cardOpenBehavior: modal
   - type: cards
