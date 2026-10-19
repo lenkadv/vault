@@ -18,7 +18,7 @@ Anglicky se to dá říct jednou větou: „Nobody has ever seen his face.“
 
 Co má ten obraz společného s japonskými seriály (a s gaučem), se dočtete v článku. Odkaz je v prvním komentáři.
 
-**První komentář:** [PLACEHOLDER: odkaz na Substack #27 po naplánování]
+**První komentář:** https://artforenglish.substack.com/p/za-mlhou-hustou-tak-ze-by-se-dala
 
 **Hashtags:** none
 
@@ -34,4 +34,5 @@ Thumbnail z Canvy `library/episodes/27-friedrich/nl-thumb.jpg`, nebo celý obraz
 - Intent: story; methodology 6c, lekce `brain/lessons/261005-fb-upoutavka.md` (jiný úvod než článek, bez názvu série, nové věty, odkaz v 1. komentáři)
 - Fakta: obálky knih, trička, CD, hrnky; parodie v Minecraftu a Doctor Who (EN Wikipedia, viz `library/episodes/27-friedrich/brief.md`); datace kolem 1817 (Hamburger Kunsthalle); totožnost postavy neznámá (muzeum)
 - Stránka: Tady Lenka; Metricool koncept na út 20. 10. 15:00, zveřejňuje Lenka
-- Placeholders left for the owner: odkaz na Substack v prvním komentáři
+- Metricool koncept (id 400227967, uuid 8150468097853573042), obrázek = Lenčin thumbnail ze Substacku, první komentář vyplněn 19. 10.: https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=8150468097853573042
+- Placeholders left for the owner: none

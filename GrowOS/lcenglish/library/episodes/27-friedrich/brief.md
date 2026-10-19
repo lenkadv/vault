@@ -40,9 +40,9 @@ Gramatický klíč:
 |---|---|---|
 | [brief.md](brief.md) | Tento soubor | ✅ |
 | [newsletter.md](newsletter.md) | Subject „Za mlhou hustou tak, že by se dala krájet“, text po Lenčiných úpravách 19. 10. | ✅ text, ⏳ Lenka naplánuje |
-| Drip draft | broadcast **919204975** (duplikát #26 v Text Builderu), „Za mlhou hustou tak, že by se dala krájet//Friedrich“, segment Newsletter, stav draft (předvyplněný čas 20. 10. 7:44 z #26), obrázek jako `[OBRÁZEK]` — preview https://www.getdrip.com/broadcasts/919204975/2cd4daad3ee0f0ac7198b. Chybný MCP draft 604073309 (Custom HTML) smazat | ⏳ Lenka |
-| [substack.md](substack.md) / substack.html | Zrcadlo na Substack (methodology 6b). Draft https://artforenglish.substack.com/publish/post/221174435 (nepublikováno, titulek a podtitulek nastavené, místo obrázku text `[OBRÁZEK]`) | ⏳ Lenka: obrázek, tlačítka, naplánovat |
-| FB upoutávka | `work/social/a4e-27-friedrich-facebook.md`, Metricool koncept 400208355 (Tady Lenka, 20. 10. 15:00, bez obrázku, 1. komentář čeká na odkaz) https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=8150468097853573042 | ⏳ Lenka |
+| Drip | broadcast **919204975** (naplánováno Lenkou 19. 10.) (duplikát #26 v Text Builderu), „Za mlhou hustou tak, že by se dala krájet//Friedrich“, segment Newsletter, stav draft (předvyplněný čas 20. 10. 7:44 z #26), obrázek jako `[OBRÁZEK]` — preview https://www.getdrip.com/broadcasts/919204975/2cd4daad3ee0f0ac7198b. Chybný MCP draft 604073309 (Custom HTML) smazat | ⏳ Lenka |
+| [substack.md](substack.md) / substack.html | Zrcadlo na Substack (methodology 6b). https://artforenglish.substack.com/p/za-mlhou-hustou-tak-ze-by-se-dala (Lenka doplnila obrázek a odkazy, Claude opravil pomlčky na dlouhé) | ✅ |
+| FB upoutávka | `work/social/a4e-27-friedrich-facebook.md`, Metricool koncept 400227967 (Tady Lenka, 20. 10. 15:00, thumbnail, 1. komentář s odkazem na Substack) https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=8150468097853573042 | ⏳ Lenka |
 | friedrich-wanderer-above-the-sea-of-fog-1817.jpg | Reprodukce, 2327 × 2980 px, 1 MB, Wikimedia Commons, public domain | ✅ |
 | nl-thumb.jpg | Thumbnail z Canvy (Lenka 19. 10.) | ✅ |
 
