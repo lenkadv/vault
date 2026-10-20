@@ -108,6 +108,7 @@ Pravidla údajů: datace děl: prezentace vyučujícího, pak přednáška, pak 
 ## 5. Text (jednotná pravidla)
 
 - **Slovník:** „v přednášce“ (ne „na nahrávce“, „v přepisu“); vyučující vždy „dr. Pech“, „doc. Kubík“ (**nikdy samotné příjmení**); u historických osob běžné příjmení je v pořádku.
+- **Text zápisků bez odkazů na vyučujícího (Lenka 261020):** zápisky jsou poznámky z jeho přednášky, takže co řekl, se píše jako hotová věc. Nepsat „dr. Pech uvedl / uzavřel / spojil / připomněl / zdůraznil“, „podle dr. Pecha“, „v přednášce zaznělo“. Jméno vyučujícího patří jen do **Poznámek ke kontrole** (rozpory: „dr. Pech uvedl X, jiné zdroje Y“) a do organizačních informací, kde jinak nejde (např. „ke zkoušce“ stačí bez jména).
 - **Jazyk:** české uvozovky „ “, pomlčka v rozsazích `–` (1717–1768), mezery před interpunkcí pryč, žádné zdvojené mezery, „Shrnutí“ (ne „Souhrn“, ne „Executive Summary“).
 - **Struktura Docu:** (1) titulek (TITLE; název přednášky, bez data), (2) **Shrnutí** jako číslovaný seznam 5 až 7 bodů s tučnými hesly, závěry nahoře (ne „Tento dokument shrnuje…“), (3) očíslované sekce `1. …` (nadpis 1. úrovně) s podsekcemi bez čísla (nadpis 2. úrovně), (4) tabulky tam, kde Notebook dává přehled (autoři, díla, termíny), (5) na konci **Poznámky ke kontrole**. Titulek a názvy děl kurzívou; názvy děl v tabulce kurzívou, jména tučně.
 - **Co nikdy neměnit bez poznámky:** formulace vyučujícího a věcné údaje.
