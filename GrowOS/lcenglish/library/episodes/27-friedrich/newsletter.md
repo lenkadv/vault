@@ -1,11 +1,11 @@
 ---
 platform: Email newsletter (LCEnglish)
-status: draft
+status: sent
 date: 2026-10-20
 type: Art for English #27 — Caspar David Friedrich, Poutník nad mořem mlhy, present perfect
 ---
 
-<!-- Claudův draft 2026-10-19, verze 2. Hook (Lenka 261019): cizí jazyk jako moře mlhy, Lenčina japonština u seriálu. Původní hook s kolenem zamítnut (úvod „před X lety“ by opakoval #26). Po Lenčiných úpravách porovnat git diff → lekce. -->
+<!-- ODESLÁNO 2026-10-20 7:53 (Drip 919204975), text = Drip. Poslední Lenčina oprava v Dripu: „někde viděl“ → „někdy viděl“. Claudův draft 2026-10-19, verze 2. Hook (Lenka 261019): cizí jazyk jako moře mlhy, Lenčina japonština u seriálu. Původní hook s kolenem zamítnut (úvod „před X lety“ by opakoval #26). Po Lenčiných úpravách porovnat git diff → lekce. -->
 
 ## Subject: Za mlhou hustou tak, že by se dala krájet
 
@@ -30,7 +30,7 @@ Tenhle obraz namaloval německý malíř Caspar David Friedrich kolem roku 1817.
 Kdo je ten muž? To nikdo neví. Stojí k nám zády, a tak se už přes dvě stě let díváme na někoho, kdo se dívá. 
 
 **Nobody has ever seen his face.** Jeho tvář nikdy nikdo neviděl.
-**You have probably seen this painting before.** Tenhle obraz jste už nejspíš někde {% if subscriber.tags contains "M" %}viděl{% elsif subscriber.tags contains "F" %}viděla{% else %}viděli{% endif %}.
+**You have probably seen this painting before.** Tenhle obraz jste už nejspíš někdy {% if subscriber.tags contains "M" %}viděl{% elsif subscriber.tags contains "F" %}viděla{% else %}viděli{% endif %}.
 **Have you ever stood above the clouds?** {% if subscriber.tags contains "M" %}Stál jste{% elsif subscriber.tags contains "F" %}Stála jste{% else %}Stáli jste{% endif %} někdy nad mraky?
 
 Všechny tři věty jsou v předpřítomném čase (*present perfect*). Používáme ho pro zkušenosti, u kterých nezáleží na tom, kdy přesně se staly - důležité je jen to, že se staly (nebo nestaly). Tvoří se z *have / has* a třetího tvaru slovesa: *stand - stood - stood, see - saw - seen*. Proto se s ním tak dobře ptá *Have you ever…?* (Už jste někdy…?).

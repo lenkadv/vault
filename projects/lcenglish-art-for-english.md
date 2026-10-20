@@ -35,6 +35,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - #23 Vincent van Gogh — Červená vinice (předložky pohybu: through / across / along / towards) — 22. 9. 2026
 - #24 Josef Václav Myslbek — Pomník sv. Václava (zápor: don't / doesn't / didn't) — 29. 9. 2026
 - #25 Hieronymus Bosch — Zahrada pozemských rozkoší, výřez z pekla (mustn't × don't have to) — 6. 10. 2026
+- #26 Frida Kahlo — Dvě Fridy (past simple: slovesa) — 13. 10. 2026
+- #27 Caspar David Friedrich — Poutník nad mořem mlhy (present perfect) — 20. 10. 2026
 
 ## Sekvence (opakující se)
 
@@ -117,7 +119,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] NL #26: Drip naplánován na út 13. 10. ráno, Substack naplánován (https://artforenglish.substack.com/p/nic-nevypadlo-thank-you-very-much) ✅ 2026-10-12
 - [x] FB k #26: koncept v Metricoolu (Tady Lenka, 13. 10. 15:00, text „Dvě svatby, jeden rozvod…“, thumbnail z Dripu, první komentář s odkazem na Substack; https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-2452399304780397900) — zkontrolovat a naplánovat / zveřejnit ✅ 2026-10-13 — Lenka: vše nastavené, zbývá jen zveřejnění z Metricoolu; kontrola, že prošlo, je ve [[waiting-for]] (14. 10.)
 - [x] Po odeslání #26 (13. 10.): finální text z Dripu do `library/episodes/26-kahlo/newsletter.md`, porovnání se zveřejněnou verzí → lekce, kopie do `brain/samples/`, „Vydané díly“, curriculum, Substack zrcadlo ověřit, čas epizody je zapsaný ✅ 2026-10-13 — Lenka 13. 10.: vše je už všude nastavené
-- [ ] **Claude tiše, bez ptaní Lenky** (261019): po odeslání #27 (út 20. 10.: Drip 7:53, Substack, FB 12:30) ověřit, že vše vyšlo; položky ve frontě posunout na published; finální text z Dripu do `library/episodes/27-friedrich/newsletter.md`, lekce, kopie do `brain/samples/`, Vydané díly, curriculum. Lence se ozvat jen, když něco neprošlo. 📅 2026-10-20
+- [x] Po odeslání #27: ověřeno, fronta `published`, finální text v `library/episodes/27-friedrich/newsletter.md` a `brain/samples/`, Vydané díly, curriculum ✅ 2026-10-20 — Drip 919204975 sent 7:53, Substack 7:24, FB Tady Lenka 12:30 published; jediná Lenčina změna v Dripu „někde“ → „někdy“ (bez nové lekce)
 - [ ] #28–30 připravené dopředu ve frontě GrowOS (test): doplnit hooky a projít na nástěnce `gtd/GrowOS fronta.base` (#28 Mucha, řadové číslovky a data, 27. 10.; #29 Oosterwijck, 3. 11.; #30 El Greco, 10. 11.); thumbnail #28 v Canvě hotový #next-action #online 📅 2026-10-26
 - [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
 - [x] Do Substack verze #26 vložit odkaz na díl #17 ✅ 2026-10-12 — vloženo do draftu (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu)
@@ -126,8 +128,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #26 Frida Kahlo, Dvě Fridy (past simple: slovesa) — odesláno út 13. 10. 2026 7:44 (Drip), Substack 13. 10. 8:21, FB upoutávka 13. 10. 15:00 (Tady Lenka, z Metricoolu; kontrola publikace ve [[waiting-for]] 14. 10.). Čtenářka Renata odpověděla svým příběhem (koncept dvojjazyčné odpovědi je v Gmailu)
-- **Další výstup:** NL #27 Caspar David Friedrich, Poutník nad mořem mlhy (present perfect), subject „Za mlhou hustou tak, že by se dala krájet“: **naplánováno** út 20. 10. (Drip 919204975 v 7:53, Substack https://artforenglish.substack.com/p/za-mlhou-hustou-tak-ze-by-se-dala, FB Tady Lenka 12:30). Od #28 jednotný postup přes frontu GrowOS (rychlý průvodce nahoře v `GrowOS/lcenglish/brain/methodology.md`); #28–30 připravené dopředu jako test.
+- **Poslední newsletter:** #27 Caspar David Friedrich, Poutník nad mořem mlhy (present perfect), „Za mlhou hustou tak, že by se dala krájet“ — odesláno út 20. 10. 2026 7:53 (Drip 919204975), Substack 7:24 (https://artforenglish.substack.com/p/za-mlhou-hustou-tak-ze-by-se-dala), FB upoutávka Tady Lenka 12:30 (https://facebook.com/697505129047580/posts/1722203479911068). Ověřeno 261020.
+- **Další výstup:** NL #28 Mucha, Apoteóza (řadové číslovky a data), út 27. 10. — ve frontě GrowOS ve stavu review, chybí hook (Lenka); #29 Oosterwijck (3. 11.) a #30 El Greco (10. 11.) taky v review. Postup přes frontu (rychlý průvodce v `GrowOS/lcenglish/brain/methodology.md`).
 - [ ] **Otevřené ze zkoušky skillů (261005):** sada `repurpose-25-bosch` v GrowOS frontě (8 položek, FB 1 a FB 3 přepracovány na obraz + jazyk) — Lenka rozhodne, co dál; zvážit `social-strategy` (zapsat pravidla FB do plánu) — řešit ve vlákně o nastavení GrowOS 2; ~~k rozhodnutí také (261006): `setup.md` Social vs. Metricool~~ **vyřešeno 261006:** Social zůstává `safe-state`, příspěvek se v Metricoolu naplánuje na čas, ale zůstane jako koncept a zveřejní ho Lenka; Ads vyplněno (Meta, safe-state, viz [[lcenglish-10x-english-sales-page]]); Video se zatím nedělá; Support je pevně safe-state, chybí jen ID schránky #next-action #online
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
