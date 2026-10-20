@@ -6,7 +6,7 @@
 
 ## Aktuální stav
 
-261020: **Termíny domluveny ústně (Lenka a Štěpánka):** začátek 25. 11., kurz 4 pondělí do poloviny prosince, páté konzultační setkání (dobrovolné) až po Vánocích, záměrně s odstupem, aby si to účastnice vyzkoušely. Konzultace zdarma Štěpánka přeplánuje podle nového termínu; koupí a zprovozní TidyCal a pošle odkaz, který Lenka nalinkuje na prodejní stránku → čeká se na ni ([[waiting-for]], 28. 10.).
+261020: **Termíny domluveny ústně (Lenka a Štěpánka):** začátek po 23. 11., kurz 4 pondělí 17–20 (23. 11., 30. 11., 7. 12., 14. 12.), páté konzultační setkání (dobrovolné) až po Vánocích, záměrně s odstupem, aby si to účastnice vyzkoušely. Konzultace zdarma Štěpánka přeplánuje podle nového termínu; koupí a zprovozní TidyCal a pošle odkaz, který Lenka nalinkuje na prodejní stránku → čeká se na ni ([[waiting-for]], 28. 10.).
 
 261018 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic), příprava kampaně má být hotová do 30. 10., reklamy od 2. 11. Checklist „Příprava kampaně do 30. 10.“ je níž. Přehled „DigiStart – kde jsme“ Štěpánka dostala. ~~Čeká se na Štěpánku: datum začátku a rytmus setkání~~ (vyřešeno 261020). **Meta:** Lenčino portfolio DigiStart zůstává zablokované (SMS nedojde, bug nahlášen 18. 10.), čeká se na Metu do 25. 10.; portfolio za GNOSTIKU přes Š je jen připravená záloha. **Next actions:** koncept B3 prodejní stránky, fakturace v GNOSTICE (do 21. 10.), obsah setkání 1–2, transkripty Dannyho Innyho.
 
