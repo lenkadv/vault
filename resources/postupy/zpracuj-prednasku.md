@@ -26,7 +26,7 @@ Hotové (jednotný vzhled, zkontrolované údaje, Poznámky ke kontrole): `26101
 | 261016 Umělecké avantgardy počátku 20. století: Od dynamiky futurismu k původu abstrakce | Přehledovka 20. st. | `1qif_bXmC06R8bXcubeGCcNvatoDmf08UITSevrf9JRk` | hotový (261016), rozpory pro dr. Pecha v dashboardu `pech/q8`, `q9` |
 | 261019 Vývoj historiografie, výtvarné kritiky a znalectví v 18. a na počátku 19. století | Metodologie 2 | `1rKKGek2Hux7jzjWww88ZEkxZgr_wytj03TCnS3y32yc` | hotový (261019), rozpory v dashboardu Metodologie 2 `notes/v09`–`v15`; skripty `meto-work\zapisky\build_html1019.py`, `format_meto.py` (nastavení tabulek po jedné) |
 | 261020 Proměny umění a estetiky na prahu 19. století: Od neoklasicismu k romantismu | Přehledovka 19. st. | `1hVDtSE7HeDPLHjADk8JwH7e-sSAOxk-M03YZg7D1ryQ` | hotový (261020), rozpory v dashboardu `pech/q10`; skripty `build_html1020.py`, `format_1020.py` (šířky tabulek po jedné) |
-| 261002 20. století Fauvismus a německý expresionismus | Přehledovka 20. st. | `1UUeFzbCnjjdVfP8hgJkj7rZzvSIn8hUo5IlaGasf8T4` | **k úpravě** (surový z Notebooku) |
+| 261002 Počátky avantgardy kolem roku 1905: Fauvismus a německý expresionismus | Přehledovka 20. st. | `1KbPlu9PzneB2CF92gnij3OnLLOBWTvducdNl7K7UxeE` | hotový (261020): **nový Doc**, zpráva znovu jen z nahrávky, 3 kontrolní dotazy, rozpory v dashboardu `pech/q11`; skripty `zapiskyuild_html1002.py` (text píše Claude do `z1002\z1002.md`), `format_1002.py`. Starý surový Doc `1UUeFzbCnjjdVfP8hgJkj7rZzvSIn8hUo5IlaGasf8T4` (261002 20. století…) čeká na rozhodnutí Lenky, zda smazat |
 | 261009 Kubismus, purismus a předválečná avantgarda | Přehledovka 20. st. | `1j5j4n6mJUdY3427nkK1-HGXy6tqmhWhsZhnGWA-FNwc` | **k úpravě** |
 | 261005 Metodologie II | Metodologie 2 | `1y_FdQPaQU95uksi_2W5a9ebA6Wuc-7oH90nMY988eLA` | **k úpravě** |
 | 261001 Metodologie hagiografie, vývoj kultu svatých a prameny | Hagiografie | `1XZn4frnyo3Ph3Splc7QCDn-OBkkWLEgeiUYpQCuGGLk` | výchozí, neupravený (notebook `0e2d3213`) |
@@ -158,6 +158,12 @@ Skripty: `C:\Users\Lenka\Documents\pech-work\zapisky\` (`build_html.py`, `format
 - **Zkomolená jména z přepisu Notebook „dovykládá“ špatně:** „Algrana“ u Diderota vyložil jako Algardiho, správně (Lenka) **Chardin**; „Petr z Apulie“ odhad sedl. Jméno odhadnuté z fonetického přepisu nikdy nepsat do textu jako jisté: buď do Poznámek jako opravu odhadem, nebo se zeptat Lenky, která byla na přednášce.
 - Tabulky s různým účelem v jednom Docu: `meto-work\zapisky\format_meto.py` (kopie `format_generic.py` s nastavením po jednotlivých tabulkách: šířky `TW`, tučný 1. sloupec `TB`, sloupec kurzívou `TI`; kurzíva v buňce končí před „ (“).
 - Dávka vzhledu po částech do ~16 kB (5 částí místo 3) prošla bez chyby.
+
+### Poučení z 261020 večer (Přehledovka 20. st., starší Doc 261002)
+
+- Starý Doc z Notebooku vznikl ze zprávy, která brala i prezentaci: obsahoval tabulku 46 děl, z nichž většina v přednášce nezazněla, a chyběla v něm třetina přednášky (architektura, film, Nolde, Pechstein, *Neue Wilde*). Proto se **zpráva generuje znovu jen ze zdroje nahrávky** a starý Doc se neopravuje, ale nahradí novým (Drive neumí přepsat obsah existujícího Docu z HTML; nový Doc = nové ID, starý smazat jen se souhlasem Lenky).
+- Když je zpráva tenká, Claude napíše text zápisků sám do markdownu (`z1002\z1002.md`) ze zprávy a ze tří kontrolních dotazů; `build_html1002.py` je jen převod + Poznámky ke kontrole.
+- Notebook si v odpovědích odporuje (Dufy jednou zazněl, jednou ne): co se liší mezi dotazy, jde do „K ověření v přednášce“, ne do textu jako jisté.
 
 ### Poučení z 261020 (Přehledovka 19. st.)
 
