@@ -50,7 +50,6 @@ sort by due
 
 ## @online
 - [ ] Pustit si večer Andrewa Graham-Dixona na YouTube místo další práce 📅 2026-10-31
-
 - [ ] italki: objednat 2. hodinu němčiny u Philippa Kocha 📅 2026-10-23
 - [ ] Zeptat se paní doktorky Štěrbové na příspěvek do sborníku Transitorius mundus 📅 2026-10-31
 - [ ] Rozhodnout, co s teoretickými kartami Anki z Přehledovky (dr. Pech)

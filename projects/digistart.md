@@ -126,7 +126,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
 
 **1. Rozhodnutí**
-- [ ] Datum začátku a rytmus setkání (st 11. 11., nebo 25. 11.; jednou, nebo dvakrát týdně) — L + Š; 261018: Š má podklady, čeká se na ni → [[waiting-for]]
+- [x] Datum začátku a rytmus setkání: domluveno 261020 (po 23. 11. – 14. 12., 4 pondělí 17–20; páté setkání po Vánocích) ✅ 2026-10-20
 - [ ] Sepsat cíl a výstup setkání 1–2 #next-action #online
     - Kontext: Obsah setkání 1–2: cíl a co si účastnice odnese — L; představa: v podstatě to, co Lenka testovala se Štěpánkou při zkušebním průchodu (balíček); může počkat (261018)
 - [ ] Délka a čas setkání, záznam ano/ne, osvědčení ano/ne — L + Š #online
