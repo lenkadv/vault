@@ -50,6 +50,8 @@ Postup k projektu [[digistart]]. Lenka zakládá účty (Claude účty zakládat
 
 - **261018:** kontrola znovu z počítače i mobilu, stejný kruh (jediné ověření SMS, nedojde). Chatbot Meta 17. 10. nepomohl. Lenka 18. 10. nahlásila bug novým kanálem; jestli se dostane k člověku, nevíme. **Dál nezkoušet; čeká se na Metu do 25. 10. Portfolio přes Štěpánku (GNOSTIKA) je jen připravená záloha, o spuštění rozhodne Lenka.**
 
+- **261020:** Lenka chce portfolio přes Štěpánku. Postup pro Š (založit portfolio DigiStart, ověřit úplnou kontrolu nad stránkou, přidat stránku, pozvat Lenku, poslat ID portfolia): dokument https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3 (soukromý, Lenka ho musí nasdílet). Kroky 1 a 3 ověřené v české nápovědě Meta, popisky v nastavení stránky a v sekci Uživatelé neověřené.
+
 ## Vzhled stránky (připraveno 261017)
 
 Soubory v `GrowOS/digistart/brain/assets/facebook/` (popis v `brain/assets/index.md`), nahrává Lenka ručně (důvod: portfolio DigiStart omezeno pro podezření na automatizaci, stránka visí na Lenčině profilu, který spravuje i LCEnglish; automatické klikání přes prohlížeč by mohlo upozornit i na její profil — domněnka, neověřeno):

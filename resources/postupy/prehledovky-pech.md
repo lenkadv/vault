@@ -98,6 +98,7 @@ Chráněný sdíleným heslem, nasazuje Claude příkazem `wrangler deploy` ze s
 | Kubismus, salonní kubisté, purismus | 9. 10. 2026 (20. st.) | ✅ karty v „00 Teorie“ + dlouhé odpovědi v Tréninku |
 | Neoklasicismus (dokončení), vizionářská a neoklasicistní architektura, začátek romantismu (picturesque, předchůdci) | 13. 10. 2026 (19. st.) | ✅ karty v „00 Teorie“ (TEORIE.apkg čeká na import) + dlouhé odpovědi v Tréninku |
 | Futurismus, chronofotografie, 1. sv. válka a návrat k řádu, vorticismus, počátky abstrakce, orfismus | 16. 10. 2026 (20. st.) | ✅ karty v „00 Teorie“ (+49, celkem 194, TEORIE.apkg čeká na import); zápisky v Docu; ruská avantgarda, Severiniho *Matka s dítětem* a Armory Show příště |
+| Goya, Ossian, Füssli, Blake, estetika vznešena (Burke, Kant, Schopenhauer), Nazaréni, Runge, Géricault, orientalismus, Friedrich | 20. 10. 2026 (19. st.) | ✅ +45 karet v „00 Teorie“ (celkem 239, TEORIE.apkg čeká na import); zápisky v Docu `261020 Proměny umění a estetiky na prahu 19. století…` (ID `1hVDtSE7HeDPLHjADk8JwH7e-sSAOxk-M03YZg7D1ryQ`, skripty `zapisky\build_html1020.py`, `format_1020.py`); `released.json` 02 → 49 (přednáška skončila Friedrichovým *Cestovatelem*, slajd 49); Constable a Turner příště. West, *Thor*, *Spánek rozumu*, Mortimer, Runge *Odpočinek*, Pforr *Rudolf*, Delacroix *Šílená žena* nezazněly (pod slajdem 49, odtajní se pravidlem podle čísla slajdu) |
 | Ostatní směry | čekají na přednášky | automatická karta „zástupci“ z dat prezentací |
 
 ## Stav 261016 (po zpracování páteční přednášky)

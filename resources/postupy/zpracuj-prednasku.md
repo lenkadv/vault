@@ -25,6 +25,7 @@ Hotové (jednotný vzhled, zkontrolované údaje, Poznámky ke kontrole): `26101
 | 261006 Přelom 18. a 19. století a klasicismus | Přehledovka 19. st. | `1rFKf401ZwbKZC7A9qEYlWujbmlBhUm_2_AtTcPOp2Dk` | hotový |
 | 261016 Umělecké avantgardy počátku 20. století: Od dynamiky futurismu k původu abstrakce | Přehledovka 20. st. | `1qif_bXmC06R8bXcubeGCcNvatoDmf08UITSevrf9JRk` | hotový (261016), rozpory pro dr. Pecha v dashboardu `pech/q8`, `q9` |
 | 261019 Vývoj historiografie, výtvarné kritiky a znalectví v 18. a na počátku 19. století | Metodologie 2 | `1rKKGek2Hux7jzjWww88ZEkxZgr_wytj03TCnS3y32yc` | hotový (261019), rozpory v dashboardu Metodologie 2 `notes/v09`–`v15`; skripty `meto-work\zapisky\build_html1019.py`, `format_meto.py` (nastavení tabulek po jedné) |
+| 261020 Proměny umění a estetiky na prahu 19. století: Od neoklasicismu k romantismu | Přehledovka 19. st. | `1hVDtSE7HeDPLHjADk8JwH7e-sSAOxk-M03YZg7D1ryQ` | hotový (261020), rozpory v dashboardu `pech/q10`; skripty `build_html1020.py`, `format_1020.py` (šířky tabulek po jedné) |
 | 261002 20. století Fauvismus a německý expresionismus | Přehledovka 20. st. | `1UUeFzbCnjjdVfP8hgJkj7rZzvSIn8hUo5IlaGasf8T4` | **k úpravě** (surový z Notebooku) |
 | 261009 Kubismus, purismus a předválečná avantgarda | Přehledovka 20. st. | `1j5j4n6mJUdY3427nkK1-HGXy6tqmhWhsZhnGWA-FNwc` | **k úpravě** |
 | 261005 Metodologie II | Metodologie 2 | `1y_FdQPaQU95uksi_2W5a9ebA6Wuc-7oH90nMY988eLA` | **k úpravě** |
@@ -157,6 +158,12 @@ Skripty: `C:\Users\Lenka\Documents\pech-work\zapisky\` (`build_html.py`, `format
 - **Zkomolená jména z přepisu Notebook „dovykládá“ špatně:** „Algrana“ u Diderota vyložil jako Algardiho, správně (Lenka) **Chardin**; „Petr z Apulie“ odhad sedl. Jméno odhadnuté z fonetického přepisu nikdy nepsat do textu jako jisté: buď do Poznámek jako opravu odhadem, nebo se zeptat Lenky, která byla na přednášce.
 - Tabulky s různým účelem v jednom Docu: `meto-work\zapisky\format_meto.py` (kopie `format_generic.py` s nastavením po jednotlivých tabulkách: šířky `TW`, tučný 1. sloupec `TB`, sloupec kurzívou `TI`; kurzíva v buňce končí před „ (“).
 - Dávka vzhledu po částech do ~16 kB (5 částí místo 3) prošla bez chyby.
+
+### Poučení z 261020 (Přehledovka 19. st.)
+
+- Notebook ve zprávě přidal desítku jmen a údajů, které v přednášce nezazněly (Abildgaard jako Füssliho žák, Pinel, Dubuffet, Hartley, Janohrad, Vogel…), a spletl i datum v názvu díla (Goya „2. května“). Třetí kontrolní dotaz se seznamem 25–30 konkrétních tvrzení (ANO / NE / JINAK) to odhalil; vypuštěné věci jdou do Poznámek jako „Vypuštěno, protože v přednášce nezaznělo“.
+- Tučné heslo s kurzívou názvu díla: v markdownu `**{Název} (rok):**`, `inline()` v `build_html1020.py` převádí `{…}` na `<i>`.
+- `####` mezititulky nad tabulkami nahradit úvodní větou s dvojtečkou (jinak vznikne nadpis 2. úrovně vedle podsekcí).
 
 **Nové nahrávky (261019):** Hagiografie a Muzejnictví z 15. 10. (`Hagio 261015.mp3`, `Muzejnictvi 261015.mp3`) zůstávají v Easy Voice Recorderu, **zatím nezpracovávat** (Lenka, kvůli tokenům).
 

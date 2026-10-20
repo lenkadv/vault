@@ -6,7 +6,9 @@
 
 ## Aktuální stav
 
-261018 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic), příprava kampaně má být hotová do 30. 10., reklamy od 2. 11. Checklist „Příprava kampaně do 30. 10.“ je níž. Přehled „DigiStart – kde jsme“ Štěpánka dostala. **Čeká se na Š:** datum začátku a rytmus setkání (→ [[waiting-for]], 21. 10.). **Meta:** Lenčino portfolio DigiStart zůstává zablokované (SMS nedojde, bug nahlášen 18. 10.), čeká se na Metu do 25. 10.; portfolio za GNOSTIKU přes Š je jen připravená záloha. **Next actions:** koncept B3 prodejní stránky, fakturace v GNOSTICE (do 21. 10.), obsah setkání 1–2, transkripty Dannyho Innyho.
+261020: **Termíny domluveny ústně (Lenka a Štěpánka):** začátek 25. 11., kurz 4 pondělí do poloviny prosince, páté konzultační setkání (dobrovolné) až po Vánocích, záměrně s odstupem, aby si to účastnice vyzkoušely. Konzultace zdarma Štěpánka přeplánuje podle nového termínu; koupí a zprovozní TidyCal a pošle odkaz, který Lenka nalinkuje na prodejní stránku → čeká se na ni ([[waiting-for]], 28. 10.).
+
+261018 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic), příprava kampaně má být hotová do 30. 10., reklamy od 2. 11. Checklist „Příprava kampaně do 30. 10.“ je níž. Přehled „DigiStart – kde jsme“ Štěpánka dostala. ~~Čeká se na Štěpánku: datum začátku a rytmus setkání~~ (vyřešeno 261020). **Meta:** Lenčino portfolio DigiStart zůstává zablokované (SMS nedojde, bug nahlášen 18. 10.), čeká se na Metu do 25. 10.; portfolio za GNOSTIKU přes Š je jen připravená záloha. **Next actions:** koncept B3 prodejní stránky, fakturace v GNOSTICE (do 21. 10.), obsah setkání 1–2, transkripty Dannyho Innyho.
 
 ## Co to je
 
@@ -116,7 +118,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Nasdílet Štěpánce složku `resources/digistart-balicek-stepanka` ✅ 2026-10-11 — balíček prošli společně v Jičíně, zpětná vazba existuje
 - [x] Odpovědět Štěpánce na mail „DigiStart – shrnutí zkušebního průchodu“ — odpověď není potřeba, vyřešeno osobně ✅ 2026-10-11 (Lenka)
 - [x] Sepsat projektový plán kampaně DigiStart → checklist „Příprava kampaně do 30. 10.“ níž (Lenka s Claudem 261017) ✅ 2026-10-17
-- [ ] Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[resources/digistart-swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4 #next-action #online
+- [ ] Přepsat čtyři videa Dannyho Inyho (AI Strategist) do transkriptů #next-action #online
+    - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[resources/digistart-swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
 - [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
 ### Příprava kampaně do 30. 10. (checklist 261017, reklamy od 2. 11.)
@@ -124,7 +127,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 
 **1. Rozhodnutí**
 - [ ] Datum začátku a rytmus setkání (st 11. 11., nebo 25. 11.; jednou, nebo dvakrát týdně) — L + Š; 261018: Š má podklady, čeká se na ni → [[waiting-for]]
-- [ ] Obsah setkání 1–2: cíl a co si účastnice odnese — L; představa: v podstatě to, co Lenka testovala se Štěpánkou při zkušebním průchodu (balíček); může počkat (261018) #next-action #online
+- [ ] Sepsat cíl a výstup setkání 1–2 #next-action #online
+    - Kontext: Obsah setkání 1–2: cíl a co si účastnice odnese — L; představa: v podstatě to, co Lenka testovala se Štěpánkou při zkušebním průchodu (balíček); může počkat (261018)
 - [ ] Délka a čas setkání, záznam ano/ne, osvědčení ano/ne — L + Š #online
 - [ ] Odpověď do FAQ „Je moje pošta v bezpečí?“ a přepsání celého FAQ na stránce (Lence se současné nelíbí) — L s C #online
 - [ ] Kde hostovat digistart.cz: Leadpages (vlastní doména), nebo Lenčin hosting (lenkadvorakova.cz, lcenglish.cz) — L #online
@@ -138,7 +142,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Vymyslet systém, jak pohodlně přidávat příspěvky na FB stránku (Metricool je připojený, značka DigiStart) — L s C #online
 
 **3. Prodejní stránka B2** (https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u)
-- [ ] Koncept B3 v Leadpages vedle B2 (B2 nepřepisovat): zabudovat poznatky z rozboru prodejní stránky GrowOS (tišší druhé tlačítko „nejdřív mi ukažte, jak to funguje“, postavy čtenářek, „co už jste zkusila“, scéna dne po kurzu, FAQ o nákladech na Claude Pro a o bezpečí dat; nepřebírat nafouknuté hodnoty, návnady a strašení) a porovnat s B2, jestli se líbí. Rozbor: `G:\Můj disk\Databanka AI\Grow On Repeat GrowOS 261018\Prodejní stránka GrowOS – rozbor.md`, zdroj https://www.growonrepeat.com/growos — L s C #next-action #online
+- [ ] Postavit koncept B3 prodejní stránky v Leadpages (vedle B2) #next-action #online
+    - Kontext: Koncept B3 v Leadpages vedle B2 (B2 nepřepisovat): zabudovat poznatky z rozboru prodejní stránky GrowOS (tišší druhé tlačítko „nejdřív mi ukažte, jak to funguje“, postavy čtenářek, „co už jste zkusila“, scéna dne po kurzu, FAQ o nákladech na Claude Pro a o bezpečí dat; nepřebírat nafouknuté hodnoty, návnady a strašení) a porovnat s B2, jestli se líbí. Rozbor: `G:\Můj disk\Databanka AI\Grow On Repeat GrowOS 261018\Prodejní stránka GrowOS – rozbor.md`, zdroj https://www.growonrepeat.com/growos — L s C
 - [ ] Doplnit žlutá místa: datum, setkání, Claude Pro (rozhodnuto: nutný), věta o deseti účastnicích (rozhodnuto: platí), údaje GNOSTIKY — L s C #online
 - [ ] Věty o Lence a Štěpánce napsat (zatím na stránce žádné nejsou), Š schválí svou — L s C, pak Š
 - [ ] Fotky do sekce o lektorkách (portréty 2024) a snímek webu GNOSTIKY o auditech — C
@@ -156,7 +161,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Tabulka zájemkyň (kdo, kdy, výsledek) — C
 
 **5. Fakturace a platba** (limit st 21. 10.)
-- [ ] Zjistit v GNOSTICE (Fakturoid), jestli jde napojit platbu, fakturu a upomínky; když ne rychle, ruční faktura z Fakturoidu nebo Lenčino FAPI; zda prodává GNOSTIKA, je zatím otevřené (Lenka 261017, závisí i na Facebooku). **261019 (Lenka po diskusi se Štěpánkou): předčasné řešit**, fakturace visí na tom, jestli se zprůchodní portfolio DigiStart na Facebooku přes GNOSTIKU; když ne, bude potřeba jiné řešení. Lenka se mezitím jen podívá, jestli Fakturoid fakturovat umí — L s C #next-action #online
+- [ ] Podívat se, jestli Fakturoid GNOSTIKY umí fakturovat kurz #next-action #online
+    - Kontext: Zjistit v GNOSTICE (Fakturoid), jestli jde napojit platbu, fakturu a upomínky; když ne rychle, ruční faktura z Fakturoidu nebo Lenčino FAPI; zda prodává GNOSTIKA, je zatím otevřené (Lenka 261017, závisí i na Facebooku). **261019 (Lenka po diskusi se Štěpánkou): předčasné řešit**, fakturace visí na tom, jestli se zprůchodní portfolio DigiStart na Facebooku přes GNOSTIKU; když ne, bude potřeba jiné řešení. Lenka se mezitím jen podívá, jestli Fakturoid fakturovat umí — L s C
 - [ ] Objednávkový formulář: 15 000 Kč, karta + převod, správná věta o tom, kdy se platí — L s C
 - [ ] Obchodní podmínky a ochrana osobních údajů GNOSTIKY (vrácení peněz při neotevření, bez garance, prodávající s IČ) — L s C (Š by nevěděla, co se tím myslí; Lenka 261017)
 - [ ] Testovací objednávka celou cestou — L

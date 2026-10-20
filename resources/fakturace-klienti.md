@@ -112,6 +112,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 14  | 260924 | ✓ — 4. hodina nového balíčku (10 h)                         |
 | 15  | 261007 | ✓ — 5. hodina nového balíčku (10 h), schůzka bez vycházky (17:00–18:00) |
 | 16  | 261013 | ✓ — 6. hodina nového balíčku (10 h), jen schůzka, bez vycházky (17:00–18:00; potvrdila Lenka 261014) |
+| 17  | 261020 | ✓ — 7. hodina nového balíčku (10 h), schůzka 17:00–18:00 (zadání ke stavebnímu zákonu ČR × Německo × Francie; potvrdila Lenka 261020) |
 
 **Příští schůzka út 20. 10. 17:00–18:00 (7. hodina):** Michal dostane zadání ze srovnání stavebního zákona ČR × Německo × Francie. Podklad: [Google Doc – podklad pro Michala](https://docs.google.com/document/d/1ywXdPigT3lMvYzmNOhnIje_cXKOkrfWBfhUSjRMaKIY/edit?tab=t.0) (Lenka v Gemini 261019), výchozí [Deep Research](https://docs.google.com/document/d/15Uw7o6hbaJZiwM7Zfxm9PEVc6AqyvvptarlfzqN3R7s/edit?tab=t.0). Klient bez projektu (Lenka 261019). Na konzultacích se mluví i o umění: Michal vybírá díla do nového domu (budget stovky tisíc Kč+), Lenka jako nezávislá průvodkyně; sada otázek (záměr, vkus, prostor domu, rozpočet, proces) [Google Doc](https://docs.google.com/document/d/1OHPiSk_C1f_VRUFiTVSEEO4R4Y8xF-sxqz5vI3NGkYM/edit?tab=t.0), prošla se 260924. ArtTinder s ním byl jen jednou vyzkoušen (260618), samostatný nápad je v [[someday-maybe]].
 

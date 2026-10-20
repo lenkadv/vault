@@ -109,7 +109,8 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 
 ## Další kroky
 
-- [ ] Připravit a publikovat díl #3 — **memento mori / vanitas** (Co vidíš), termín zatím bez data (261018 weekly review: tadylenka tento týden nemá prioritu, pondělní blok zrušen; termín vybere Lenka; díl #4 stigmata 30. 10. se pak posune) #next-action #online
+- [ ] Vybrat termín a napsat díl #3 memento mori / vanitas (Co vidíš) #next-action #online
+    - Kontext: Připravit a publikovat díl #3 — **memento mori / vanitas** (Co vidíš), termín zatím bez data (261018 weekly review: tadylenka tento týden nemá prioritu, pondělní blok zrušen; termín vybere Lenka; díl #4 stigmata 30. 10. se pak posune)
   - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
 - [ ] Přepsat uvítací příspěvek „Dějiny umění: v nejlepších letech“ (27. 3. 2026) vlastním hlasem. Dnešní text je převzatý z AI (mission statement, odrážky „Interpretace / Dialog / Zpomalení“). Claude může navrhnout verzi podle `GrowOS/tadylenka/brain/voice.md` (260929). Není spěšné, bez next-action.

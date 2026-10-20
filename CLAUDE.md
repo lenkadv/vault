@@ -107,6 +107,7 @@ Formát záznamu v resources/:
 | Projekt bez next action | Upozornit Lenku, nevymýšlet za ni | — |
 
 - Context tag je u projektů mimo tadylenka/lcenglish povinný — bez něj se task v [[next-actions]] nezobrazí.
+- **Task = jedna krátká věta, jeden jasný krok** (Lenka 261020): řádek s checkboxem (v projektu, v [[next-actions]] i ve [[waiting-for]]) obsahuje jen sloveso + co + tagy/datum, tak aby ho Lenka zvládla sama bez mého výkladu. Historie, kdo co kdy řekl, předchozí kroky a odkazy jdou **pod task jako odsazená odrážka „Kontext:“** (projekt, waiting-for) nebo, u úkolů bez projektu, do [[kontext-ukolu]] (task na ni může odkázat). Nikdy odstavec v řádku tasku. Paměť `feedback_next_actions_kratce`.
 - Deadline: `#next-action #online 📅 YYYY-MM-DD`. Pozor: deadline ≠ naplánovaný termín. Konkrétní slot v čase → Google Kalendář (`lnk.dvorakova@gmail.com`, čas vždy předem potvrdit s Lenkou), ne 📅 tag.
 
 ### Jak se tasky zobrazují v GTD

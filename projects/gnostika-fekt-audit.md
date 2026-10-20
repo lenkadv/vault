@@ -6,7 +6,9 @@
 
 ## Aktuální stav
 
-261018: Pracovní verze závěrečné zprávy ([Google Doc, 261017](https://docs.google.com/document/d/1jG0WYEAuoADXhE_VGtrv5u9KJjd-HvD4_zU3kLQiSuE/edit)) a briefing pro AI asistenta Štěpánky jsou od 17. 10. u Štěpánky. Čeká se na její vyjádření → [[waiting-for]]. Potom se zapracují připomínky; kontrolu si rozdělí Lenka, Štěpánka a Tereza. Cíl: připraveno k odevzdání před koncem října 2026 (harmonogram zakázky: nejpozději listopad). Podklady od paní Ivany Hruškové (rozpočty a čerpání, reporty pro vedení) dál chybí, Lenka je nevyžaduje. **Next action záměrně žádná** (čeká se na Štěpánku).
+261020: Závěrečná zpráva je na Štěpánčině straně, pracuje na ní ona. Lenka teď nemá žádnou akci a není to ani čekání ve waiting-for; Štěpánka se ozve, až bude něco potřebovat (Lenka 261020). Projekt proto záměrně nemá next action.
+
+Dříve 261018: Pracovní verze závěrečné zprávy ([Google Doc, 261017](https://docs.google.com/document/d/1jG0WYEAuoADXhE_VGtrv5u9KJjd-HvD4_zU3kLQiSuE/edit)) a briefing pro AI asistenta Štěpánky jsou od 17. 10. u Štěpánky. Čeká se na její vyjádření → [[waiting-for]]. Potom se zapracují připomínky; kontrolu si rozdělí Lenka, Štěpánka a Tereza. Cíl: připraveno k odevzdání před koncem října 2026 (harmonogram zakázky: nejpozději listopad). Podklady od paní Ivany Hruškové (rozpočty a čerpání, reporty pro vedení) dál chybí, Lenka je nevyžaduje. **Next action záměrně žádná** (čeká se na Štěpánku).
 
 ## Co to je
 
