@@ -12,6 +12,11 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
   - Použij, až budeš řešit: proč si psát vlastní postupy (šablony zadání) a proč je nenechat napsat AI.
   - Zjištění z citované studie (87 úloh, https://arxiv.org/abs/2602.12670): psaný postup zvedl úspěšnost zhruba z 1/3 na 1/2; kratší postupy fungovaly líp než dlouhé; s postupem zvládl levnější model totéž co dražší; **postup, který si AI napsala sama, dopadl hůř než žádný**, protože hodnota je v lidském úsudku, co je „dobře“.
   - Praktické cvičení z newsletteru: vzít postup na opakovanou týdenní věc, pustit ho 5× na levnějším modelu a porovnat. Kde se to rozbije, tam je v postupu vágní řádek.
+- **Playbook pro stážistu (úvodní úkol)** — The AI Exchange / AMP, č. 203 (20. 10. 2026) — https://news.theaiexchange.com/p/new-data-shows-companies-are-not-hiring-for-this-ai-skill
+  - Použij, až budeš řešit: **jednoduchý úvodní úkol** kurzu (Lenka 261021: sedí na DigiStart), na prvním setkání nebo jako domácí úkol před ním; navazuje na „Krátký postup > dlouhý manuál“ výš.
+  - Jádro: firmy přestávají chtít „umí ChatGPT“ (inzeráty na základní promptování −25 % od ledna, data Workday, ~550 velkých zaměstnavatelů: https://newsroom.workday.com/2026-10-05-Workday-Global-Workforce-Report-AI-Is-Rewriting-Jobs-More-Than-Its-Cutting-Them) a chtějí „umí s AI stavět“ (+51 %). Stavět tu neznamená programovat, ale sepsat postup, podle kterého AI (i člověk) práci zopakuje bez nového vysvětlování.
+  - Zadání pro účastnici ve třech krocích: (1) najdi zadání, které jsi AI tento měsíc psala nejčastěji; (2) napiš, co bys řekla stážistce, která to má udělat: kdy se začíná, co k tomu potřebuje, jednotlivé kroky a jak vypadá hotovo; (3) začni nejsnazším úkolem, ne nejcennějším (snadné se dokončí a dokončené se šíří).
+  - Pro personu: otázka „co bys řekla stážistce?“ je známá situace z práce a nevyžaduje žádný žargon.
 
 ## Blok A5: Co AI umí, co neumí, na co si dát pozor
 

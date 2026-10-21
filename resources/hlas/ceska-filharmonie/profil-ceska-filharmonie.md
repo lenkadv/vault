@@ -68,9 +68,11 @@ Hravá a vřelá autorita: orchestr mluví v první osobě množného čísla ja
 - 30. 9. 2026, „Mahlerovský speciál | Slyšíte na Mahlera?“: „Náš Mahlerovský komplet už je komplet“; „Tenhle box ocení i zapřísáhlí odpůrci sportu.“ (hříčka komplet × sport); „Mahlera totiž člověk objevuje pořád znovu.“
 - 21. 9. 2026, dopis abonentům (Lucie Maňourová): „Čekání na své koncerty v Rudolfinu si tak můžete zpříjemnit ve společnosti Semjona Byčkova, Jakuba Hrůši, Magdaleny Kožené…“
 - 6. 10. 2026, „Říjnové dění v Rudolfinu“ (Rudolfinské novinky 3/131, preheader „Sto streamů, deset sonát, hudební divy a nové CD“): úvodník jako cesta („Projdeme se mezi obrazy, nahlédneme do říše divů, navštívíme dvůr čínského císaře a zastavíme se také v Brně. Oslavíme jednu kulatou stovku a pustíme se do Beethovenova sonátového maratonu. Vyrazte s námi!“); jedna věta o čísle jako událost („Počítadlo přímých přenosů se tento týden zastaví na rovné stovce“, tlačítko „Sledovat 100. přenos →“); „Tři večery s Beethovenem“ (výčet čísel: deset sonát, troje setkání, dva interpreti); „Beethoven odmítá zestárnout“ (otázka jako háček na článek z Ladírny); tlačítka „Poslední volná místa →“, „Vybrat koncert →“, „Vykročit za dobrodružstvím →“, „Pořídit album →“.
+- 20. 10. 2026, „Slon, Ohnivák a mamutí kel. Co mají společného?“ (Rudolfinské novinky 4/131): předmět jako hádanka ze tří nesourodých věcí, úvodník ji rozplétá („To není začátek podivné pohádky, ale trojice nečekaných hrdinů dnešních Rudolfinských novinek“), každá položka mailu pak jednu z nich odhalí (Rachmaninov sám nazval svůj Třetí klavírní koncert „koncertem pro slona“; Stravinského Pták Ohnivák; houslař Jan Slípka a mamutí kly v Ladírně); tlačítka „Nepropásnout premiéru →“, „Pořídit CD →“.
 
 ## Poučení / co si z toho vzít
 
 - Pro tadylenka a A4E: smyslový vstup (zvuky, obraz) místo oznámení a jedna hříčka z oboru v předmětu.
 - Pro lcenglish: tlačítka se slovesem v první osobě („To mě zajímá →“) a nabídka více cest k jednomu tématu.
 - Úvodník jako výčet cest („projdeme se… nahlédneme… navštívíme… zastavíme se“) shrne celý mail jednou větou a dá mu tah; použitelné jako úvod newsletteru s více položkami (261006).
+- Předmět jako hádanka ze tří nesourodých věcí, které mail postupně rozluští (Slon, Ohnivák, mamutí kel, 261021): použitelné pro A4E nebo tadylenka, když díl obsahuje víc položek.
