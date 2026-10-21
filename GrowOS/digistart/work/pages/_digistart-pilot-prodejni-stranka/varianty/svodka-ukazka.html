@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ukázka ranní svodky (fiktivní)</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,700;62..125,800&family=Caveat:wght@600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F1ECE6;--ink:#231A1D;--mut:#5E5155;--b:#9B224F;--pink:#F3D3E0;--paper:#FBF8F4;
+ --h:"Archivo","Arial Narrow",Arial,sans-serif;--t:"DM Sans",system-ui,Arial,sans-serif;--hand:"Caveat",cursive}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);padding:40px 16px;font:16px/1.5 var(--t);color:var(--ink)}
+.svodka{max-width:520px;margin:0 auto;background:#fff;border:2px solid var(--ink);border-radius:3px;box-shadow:6px 6px 0 var(--ink);transform:rotate(-1deg)}
+.hd{padding:18px 22px 14px;border-bottom:2px solid var(--ink)}
+.hd .from{font:700 12px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+.hd h3{font:800 26px/1.1 var(--h);font-stretch:85%;margin:8px 0 2px;letter-spacing:-.02em}
+.hd .meta{font-size:14px;color:var(--mut)}
+.sec{padding:14px 22px;border-bottom:1px dashed rgba(35,26,29,.3)}
+.sec:last-child{border-bottom:0}
+.lab{font:700 12px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--b);margin:0 0 10px}
+ul{list-style:none;margin:0;padding:0}
+li{padding:5px 0 5px 22px;position:relative;font-size:15px;line-height:1.4}
+.todo li::before{content:"";position:absolute;left:2px;top:9px;width:11px;height:11px;border:2px solid var(--b);border-radius:2px}
+.todo b{color:var(--ink)}
+.todo .moved{display:inline-block;font-size:12px;background:var(--pink);color:var(--b);padding:0 6px;border-radius:2px;margin-left:4px}
+.news li::before{content:"–";position:absolute;left:4px;color:var(--mut)}
+.news li{color:var(--mut)}
+.news b{color:var(--ink);font-weight:500}
+.del{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--paper)}
+.del p{margin:0;font-size:15px}
+.del .n{font:800 34px/1 var(--h);font-stretch:78%;color:var(--b)}
+.hand{font:600 24px/1.1 var(--hand);color:var(--b);text-align:right;padding:6px 22px 14px;transform:rotate(-2deg)}
+</style>
+</head>
+<body>
+<div class="svodka">
+ <div class="hd">
+  <div class="from">Od: vaše AI pomocnice</div>
+  <h3>Ranní svodka · úterý</h3>
+  <div class="meta">31 nových mailů od včerejška · přečtení zabere asi 2 minuty</div>
+ </div>
+ <div class="sec todo">
+  <p class="lab">Vyřídit dnes (3)</p>
+  <ul>
+   <li><b>Faktura za hosting</b> – splatná v pátek <span class="moved">přesunuto do Doručené</span></li>
+   <li><b>Klientka Jana</b> chce posunout čtvrteční lekci. Koncept odpovědi je připravený.</li>
+   <li><b>Sestra</b> se ptá na neděli – osobní zpráva</li>
+  </ul>
+ </div>
+ <div class="sec news">
+  <p class="lab">Newslettery v kostce (12)</p>
+  <ul>
+   <li><b>Marketing:</b> jak psát předmět e-mailu, aby ho lidé otevřeli</li>
+   <li><b>Canva:</b> nové šablony na Vánoce</li>
+   <li><b>Kurz fotografování:</b> sleva do neděle</li>
+   <li>…a devět dalších, každý v jedné větě</li>
+  </ul>
+ </div>
+ <div class="sec del">
+  <p>Reklamy a akce označené štítkem <b>„smazat“</b>.<br>Smazat je musíte vy.</p>
+  <div class="n">16</div>
+ </div>
+ <div class="hand">místo 31 mailů jeden text</div>
+</div>
+</body>
+</html>
