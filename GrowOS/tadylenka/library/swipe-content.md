@@ -8,7 +8,7 @@ Zajímavé formáty, přístupy a inspirace od jiných tvůrců. Ne obsah k pře
 
 - **Co to je:** Newsletter White Label Comedy (12. 10. 2026) ukazuje „Comedy Creatives“, vtipné reklamní obrázky. Podle Lenky vypadají jako obrazy a jsou docela vtipné.
 - **Jak možná použít pro tadylenka:** Obraz s vtipným popiskem nebo situací jako formát pro sociální sítě (IG stories, příspěvek), spojení umění a humoru. Zatím jen inspirace k případnému návratu, nic se nezakládá.
-- Odkaz: jen v mailu, [Gmail – „Oh, The Horror...“ (12. 10. 2026)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878845172598887303) — mail archivovat, ne mazat. Rozbor úvodního vzorce a nápady pro lcenglish: [[GrowOS/lcenglish/library/swipe-content]]; DigiStart má vlastní swipe: [[resources/digistart-swipe]].
+- Odkaz: jen v mailu, [Gmail – „Oh, The Horror...“ (12. 10. 2026)](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1878845172598887303) — mail archivovat, ne mazat. Rozbor úvodního vzorce a nápady pro lcenglish: [[GrowOS/lcenglish/library/swipe-content]]; DigiStart má vlastní swipe: [[GrowOS/digistart/library/swipe-content|digistart swipe]].
 
 ## 260803 — Hannah Fry's video structure (IG reel)
 

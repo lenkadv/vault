@@ -55,7 +55,7 @@ Přípravu kampaně do 30. 10. a spuštění reklam 2. 11. termín začátku neo
 | Osnova 5týdenního pilotu v1 (varianta A, bezplatné nástroje) + varianta B (hotový balíček v Claudu) | [[digistart-pilot-osnova]] |
 | Forma: úvodní konzultace jako součást prodeje, 1× týdně setkání, odevzdávky, dílny, „30 dní poté“ | [[digistart-pilot-osnova]] §7 |
 | Zkušební průchod balíčkem se Štěpánkou (úklid souborů, hlasové profily, koncepty e-mailů) a její zpětná vazba | [[05-zpetna-vazba-zkusebni-pruchod-261011]] |
-| Swipe pro úvod stránky a reklamy | [[digistart-swipe]] |
+| Swipe pro úvod stránky a reklamy | [[GrowOS/digistart/library/swipe-content|digistart swipe]] |
 | Postup prodejních stránek, ověřený na 10x ENGLISH | [[resources/postupy/prodejni-stranky]], [[navod-prodejni-stranka-s-ai]] |
 | Leadpages: účet Grow, konektor umí stránky, koncepty, brand kit | [[leadpages-moznosti]] |
 | Meta Ads konektor, reklamní účet a pixel pro LCEnglish | paměť `reference_meta_ads_accounts_connector` |
@@ -218,7 +218,7 @@ Stav je podle Databanky ([[Průvodce Databankou]]). U většiny reklamních a st
 - [[resources/postupy/prodejni-stranky]]: fáze 0–6 pro stránku, včetně „tří otázek“ (odkud čtenářka přijde, kdo mluví, co se slibuje). U Facebooku je to „prohlížení“: příběh, problém před produktem, víc vysvětlení.
 - Leadpages konektor (soukromé koncepty, brand kit, Components pro opakované bloky) a Meta Ads konektor.
 - Canva konektor na vizuály reklamy a obálku stránky.
-- Nápad na kreativní směr z [[digistart-swipe]]: vtipné vizuály ve stylu obrazů (Lenčina odbornost, odliší se od generických AI reklam). Rozhodnout se při vizuálech.
+- Nápad na kreativní směr z [[GrowOS/digistart/library/swipe-content|digistart swipe]]: vtipné vizuály ve stylu obrazů (Lenčina odbornost, odliší se od generických AI reklam). Rozhodnout se při vizuálech.
 - `productivity-decision-journal` pro D1–D3, `productivity-unblock` kdyby některý krok dlouho stál.
 
 ### Co nedělat (aby se plán nerozbujel)

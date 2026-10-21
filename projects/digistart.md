@@ -2,7 +2,8 @@
 
 **Oblast:** [[areas/finances-admin]]
 **Spolupráce:** kolegyně Štěpánka
-**Resources:** [[resources/digistart-swipe]] — swipe pro texty a vizuály kampaně (261013) · [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP · [[AI Black Magic – přehled knihovny 260927]] §1 — materiály z AI Black Magic seřazené podle bloků osnovy (trial končí 27./28. 9. 2026, co chceme, se musí zkopírovat hned)
+**Marketing (GrowOS):** `GrowOS/digistart/` — brain (publikum, hlas, nabídka, rozhodnutí), swipe [[GrowOS/digistart/library/swipe-content|digistart swipe]], banka nápadů, fronta výstupů ke schválení; rozdělení viz [[resources/postupy/growos]] „DigiStart: co kde žije“ (261021)
+**Resources:** [[GrowOS/digistart/library/swipe-content|digistart swipe]] — swipe pro texty a vizuály kampaně (261013) · [[resources/digistart-dovednosti-mpsv]] — číselník dovedností z databáze MPSV/ÚP · [[AI Black Magic – přehled knihovny 260927]] §1 — materiály z AI Black Magic seřazené podle bloků osnovy (trial končí 27./28. 9. 2026, co chceme, se musí zkopírovat hned)
 
 ## Aktuální stav
 
@@ -19,6 +20,8 @@ Cílová skupina: lidé cca **40+**, kteří si potřebují osvojit digitální 
 Obsah kurzu (zatím k dopracování — "ušít na míru"): široké základy ovládání digitálních nástrojů včetně umělé inteligence — od běžného používání AI (Claude, Gemini, ChatGPT) po přesah do aktivní tvorby použitelné v digitálním marketingu.
 
 ## Persona účastníka
+
+> Živá verze persony pro marketing je `GrowOS/digistart/brain/audience.md` (od 261014, se zdroji a mírou jistoty). Tahle sekce je původní zadání z 260915 a neaktualizuje se; nové poznatky o zájemkyních patří do `audience.md`.
 
 Zdroj persony: Lenčina a Štěpánčina vlastní lektorská zkušenost a rozhodnutí, koho chtějí učit — ne odhad, ne cizí výzkum. Personu si definujeme samy, podle toho, koho chceme cílit.
 
@@ -104,7 +107,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - **Obsah** je pilotní, nemusí být hotový celý. Pilot = **živá vysílání**, na která se účastníci hlásí. Pevně nastavená jen **první dvě setkání (konzultace)**, další se přizpůsobí tomu, co účastnice budou chtít a potřebovat. Shrnutí nabízeného balíčku.
 - **Hlavní práce je kampaň a systém kolem ní** (mnohem větší úkol než obsah kurzu): nová **Facebooková stránka DigiStart**, přes kterou poběží reklama; **web (landing page) pro DigiStart** s přihlášením; **video** na stránku; **reklama na Facebooku**; **propojka kalendáře**, aby si zájemkyně mohly rezervovat konzultaci před rozhodnutím.
   - *Podklad pro video a videoreklamu (261013):* [[ABM – Higgsfield AI for Beginners]] v Databance — výběr nástroje, rozpočet a hotový postup 15s reklamy. Zatím jen odkaz, až se bude řešit video. AI osoba nesmí vystupovat jako skutečná účastnice (reference jen skutečné).
-  - *Vzor pro úvod landing page, reklamy a e-mailu (261013):* swipe „White Label Comedy — publikum ví, že má problém, jen nemá čas“ v [[resources/digistart-swipe]] (vzorec: víš, že máš problém → chceš ho vyřešit → jenže jsi zavalená → kurz seznam úkolů zkracuje, nepřidává) s návrhem přeformulace pro DigiStart. Včetně nápadu na vtipné reklamní vizuály ve stylu obrazů. Zatím jen odkaz, až se budou psát texty kampaně.
+  - *Vzor pro úvod landing page, reklamy a e-mailu (261013):* swipe „White Label Comedy — publikum ví, že má problém, jen nemá čas“ v [[GrowOS/digistart/library/swipe-content|digistart swipe]] (vzorec: víš, že máš problém → chceš ho vyřešit → jenže jsi zavalená → kurz seznam úkolů zkracuje, nepřidává) s návrhem přeformulace pro DigiStart. Včetně nápadu na vtipné reklamní vizuály ve stylu obrazů. Zatím jen odkaz, až se budou psát texty kampaně.
 - **První krok:** zformalizovat jednotlivé kroky, uchopit to jako projekt, říct si, co je potřeba udělat, a rozdělit práci se Štěpánkou.
 - **Návrh plánu kampaně (261014):** [[resources/digistart-kampan-plan]] — rozhodnutí D1–D8, minimum pro spuštění 30. 10., proudy práce, okna v kalendáři a skilly k vyzkoušení. Čeká na Lenčinu revizi; pá 16. 10. 14:00–16:00 je Lenčin vlastní pracovní blok na plán, ne schůzka se Štěpánkou. Štěpánce se plán předá, až bude mít Lenka jasno (forma otevřená, možná sdílená stránka v Claudu).
 
@@ -119,7 +122,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Odpovědět Štěpánce na mail „DigiStart – shrnutí zkušebního průchodu“ — odpověď není potřeba, vyřešeno osobně ✅ 2026-10-11 (Lenka)
 - [x] Sepsat projektový plán kampaně DigiStart → checklist „Příprava kampaně do 30. 10.“ níž (Lenka s Claudem 261017) ✅ 2026-10-17
 - [ ] Přepsat čtyři videa Dannyho Inyho (AI Strategist) do transkriptů #next-action #online
-    - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[resources/digistart-swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
+    - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[GrowOS/digistart/library/swipe-content|digistart swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
 - [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
 ### Příprava kampaně do 30. 10. (checklist 261017, reklamy od 2. 11.)

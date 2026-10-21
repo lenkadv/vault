@@ -20,4 +20,4 @@ Lenka 261020: obrázky má dohnané až po dnešní přednášku (19. století),
 
 ## AI Strategist (Danny Iny)
 
-Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. Rozbor funnelu → [[resources/digistart-swipe]].
+Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].

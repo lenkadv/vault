@@ -97,7 +97,7 @@ The company workshop is a separate offer for a different buyer and is not part o
 - **S2** `resources/digistart-kampan-plan.md` (rozhodnutí 261014)
 - **S3** `resources/digistart-pilot-osnova.md` (cena 35 000 Kč a pětitýdenní tvar jsou přepsané aktuální nabídkou a nepřebírají se)
 - **S4** `resources/digistart-balicek-stepanka/05-zpetna-vazba-zkusebni-pruchod-261011.md` (zpětná vazba druhé lektorky; jen anonymně)
-- **S5** `resources/digistart-swipe.md`
+- **S5** `GrowOS/digistart/library/swipe-content.md` (do 261021 `resources/digistart-swipe.md`)
 - **S6** `resources/postupy/prodejni-stranky.md` (jen metoda)
 
 Webové nálezy (průzkum Visa a další) jsou jen v dossieru [[2026-10-14-audience]], označené **unchecked**, a sem nejsou povýšené.

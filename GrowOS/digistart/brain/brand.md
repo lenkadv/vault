@@ -22,7 +22,7 @@ From the audit page's local font files (`fonty.css`, open-licence fonts):
 [PLACEHOLDER: DigiStart has no logo yet. The GNOSTIKA logo on the audit page belongs to GNOSTIKA, the seller, and is not the DigiStart logo. Decide whether DigiStart gets its own mark or appears under the GNOSTIKA name.]
 
 ## Image style
-[PLACEHOLDER: not decided. Idea only, from `resources/digistart-swipe.md`: funny ads styled like paintings (Lenka's own field), to set DigiStart apart from generic AI ads. Not chosen yet.]
+[PLACEHOLDER: not decided. Idea only, from `GrowOS/digistart/library/swipe-content.md` (do 261021 `resources/digistart-swipe.md`): funny ads styled like paintings (Lenka's own field), to set DigiStart apart from generic AI ads. Not chosen yet.]
 
 ## Look and feel, in a word or two
 Warm, calm, serious but not stiff. Paper-colored background, one strong burgundy accent. *(unchecked: my words for the audit page's palette and type, to be confirmed)*

@@ -2,8 +2,26 @@
 
 Přesunuto z `CLAUDE.md` 260926 (zkrácení hlavního návodu) — text beze změny. `CLAUDE.md` drží jen základní pravidla; Claude čte tenhle soubor při práci na lcenglish/tadylenka výstupech a publishing projektech.
 
-GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka a lcenglish.
+GrowOS (`GrowOS/`) je samostatný marketing systém pro tadylenka, lcenglish a (od 261014) DigiStart.
 **Od 260906 běží GrowOS 2.0** (migrace z 0.1 — viz [[growos-2-migration]]).
+
+
+## DigiStart: co kde žije (261021)
+
+DigiStart má od 261014 vlastní složku `GrowOS/digistart/` (třetí byznys vedle lcenglish a tadylenka). Rozdělení je stejné jako u ostatních byznysů, aby projekt a GrowOS mluvily spolu:
+
+| Co | Kde | Proč |
+|---|---|---|
+| Stav, termíny, domluvy se Štěpánkou, `#next-action` | [[projects/digistart]] | GTD a denní plán čtou jen `projects/` |
+| Publikum, hlas, nabídka a ceny, otevřená rozhodnutí o marketingu | `GrowOS/digistart/brain/` (`audience.md`, `voice.md`, `business.md`, `decisions.md`) | čtou je skilly GrowOS při psaní |
+| Inspirace pro prodejní stránku, reklamy a kampaň (swipe) | `GrowOS/digistart/library/swipe-content.md` | do 261021 v `resources/digistart-swipe.md` (teď jen přesměrování) |
+| Nápady na příspěvky a e-maily | `GrowOS/digistart/brain/ideas.md` | banka nápadů skillu `content-ideas` |
+| Hotové výstupy ke schválení | `GrowOS/digistart/work/` (fronta) | jednotný postup výstupů |
+| Obsah kurzu (osnova, podklady k lekcím, dovednosti MPSV, podmínky) | `resources/digistart-pilot-osnova.md`, `resources/digistart-podklady.md` a další `resources/digistart-*` | není to marketing, ale náplň kurzu |
+
+- Persona: živá verze je `GrowOS/digistart/brain/audience.md`; sekce Persona v projektu je původní zadání (260915) a neaktualizuje se.
+- Nový zdroj z newsletteru nebo jinde, který Lenka okomentuje pro DigiStart: obsah kurzu → `resources/digistart-podklady.md`, prodej a kampaň → swipe v GrowOS, nápad na příspěvek → `brain/ideas.md`.
+- `GrowOS/digistart/brain/memory/MEMORY.md` odkazuje zpět na projekt a na soubory s obsahem kurzu.
 
 ## Kde otevírat sezení a jak jsou vidět skilly (260929)
 

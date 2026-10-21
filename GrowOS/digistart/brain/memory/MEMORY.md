@@ -65,6 +65,7 @@ pointer to it here — so this file stays short and quick to load.
 
 _The system adds durable notes here as it works. Start with one:_
 
+- **Where things live (2026-10-21):** status, dates, agreements with Štěpánka and next actions are in the vault project `projects/digistart.md` (read its "Aktuální stav" first). Course content (outline, lesson materials) is in the vault: `resources/digistart-pilot-osnova.md`, `resources/digistart-podklady.md`. Campaign swipe is `library/swipe-content.md`. Full split: `resources/postupy/growos.md`, section "DigiStart: co kde žije".
 - **Open decisions:** the list of undecided things lives at the top of [[decisions]]. Read it at the start of every DigiStart session, say in one line how many are still open, and when Lenka decides one, write it down, fill the placeholder in the file that holds it and delete the line. The vault project `projects/digistart.md` has a task that points here. (2026-10-14, Lenka: placeholders must not be left to rot.)
 - Lenka answers in dictated Czech, one question at a time works best. She wants rough outlines first and copy polish later, in the page-writing step.
 - Lenka's rule for chat: no "wish"-style guesses about what she wants; use her words and say when something is my reading.
