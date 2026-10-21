@@ -1,6 +1,6 @@
 ---
 type: social-post
-headline: "FB: AI mi každé ráno čte newslettery (a smazat sama nesmí)"
+headline: "FB: AI mi čte newslettery"
 skill: social-write
 platform: facebook
 intent: story
@@ -15,7 +15,7 @@ sealed:
   - _fb-ai-mi-tridi-newslettery/ninja-chatgpt.png sha256:e8632118316f8f35b731478473aadb93a1ee5ec9af047d99d6947327fbddbf7b
 ---
 
-# Facebook — AI mi každé ráno čte newslettery
+# Facebook — AI mi čte newslettery
 
 ## Post
 
@@ -23,11 +23,11 @@ Každý den mi chodí kolem třiceti newsletterů a reklamních mailů. Přihlá
 
 Jen je nestíhám číst.
 
-Tak jsem zaúkolovala AI. Ráno projde nevyřízenou poštu a sepíše mi souhrn. Úplně nahoru dá, co musím vyřídit: fakturu, termín, osobní zprávu. Pokud se něco z toho topí mezi newslettery, přesune mi to do hlavní složky.
+Tak jsem zaúkolovala AI. Ráno projde nevyřízenou poštu a sepíše mi souhrn. Úplně nahoru dá, co musím vyřídit: fakturu, termín, osobní zprávu. Pokud se něco z toho topí mezi newslettery, přesune mi to ve schránce do hlavní složky.
 
 V souhrnu prolétnu i méně podstatné věci, kandidáty na smazání pak v mailové schránce najdu označené štítkem „smazat“. AI sama nic smazat nesmí, to právo jsem jí nedala. Když něco označí špatně, všimnu si toho a vytvoříme pravidlo pro příště.
 
-Chvíli jsme to ladily, ale teď už mi ráno stačí přečíst jeden text místo třiceti mailů. Po letech postupné rezignace na "Inbox Zero" a strachu smazat staré nepřečtené maily, protože "co když je tam něco důležitého", se cítím jako naprostý EMAIL NINJA.
+Chvíli jsme to ladily, ale teď už mi ráno stačí přečíst jeden text místo třiceti mailů. Po letech postupné rezignace na "Inbox Zero" a strachu smazat staré nepřečtené maily, protože „co když je tam něco důležitého“, se cítím jako naprostý EMAIL NINJA.
 
 
 
