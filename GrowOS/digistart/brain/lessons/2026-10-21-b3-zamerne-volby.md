@@ -11,3 +11,4 @@
 - **Removed yellow tags ≠ final.** They mean "needs no special attention". In drafts shared with Štěpánka, never write "rozhodne Lenka".
 - **No real screenshots of Lenka's mail.** A made-up example summary would be acceptable.
 - FAQ: questions that already have an answer stay collapsed; open ones stay expanded until answered.
+- **Grammatical gender follows the noun (Lenka 2026-10-21):** "AI" alone = umělá inteligence = feminine ("AI … ta, jí, sama"). "AI asistent / pomocník" = masculine, "AI asistentka / pomocnice" = feminine. Lenka herself usually says "AI asistent" (masculine). Never switch "AI" pronouns to masculine. Page B3 has a joke toggle "asistentka / asistent" that swaps only the noun phrases (hero, ranní svodka).
