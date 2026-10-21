@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: teach
 id: ngv9fwi38q
-status: draft
+status: rejected
 business: digistart
 channel: social
 created: 2026-10-21
