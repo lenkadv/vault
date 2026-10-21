@@ -22,6 +22,14 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
 
+## 2026-10-21: Facebook posts go live from the queue
+**Decided (Lenka, in the chat):**
+- **Facebook posts of DigiStart are `live`** (`setup.md`, channel social): "Ano, zapni u Facebooku DigiStartu režim live." After approval on the board, Claude confirms item, page and time in one chat line and schedules the post in Metricool itself, image included. Lenka does not open Metricool. Ads stay paused-only.
+- **Claude uploads images, Lenka does not.** Uploading images by hand in Metricool is "neschůdné". Route: sealed image → Leadpages asset → public URL → Metricool (vault `resources/postupy/growos.md`, step 5).
+- **Posting time follows Metricool's best-time suggestion**, as a proposal Lenka confirms.
+- **Social posts never retell other people's newsletters** (lesson `lessons/2026-10-21-newslettery-nejsou-obsah.md`). The first post was built on Lenka's own situation; she rewrote it (lesson `lessons/2026-10-21-fb-hlas-prepis-newslettery.md`).
+**Why:** reviewing a post twice (in GrowOS and again in Metricool) and uploading images by hand is extra work for nothing.
+
 ## 2026-10-19
 **Jeden postup pro všechny výstupy přes frontu GrowOS (rozhodnutí Lenky, platí pro všechny byznysy).** Všechny výstupy (články, stránky, příspěvky, reklamy) vznikají jako položky fronty (`work/`), Lenka je schvaluje na nástěnce nebo v chatu a teprve schválené jdou ven (Substack, Leadpages, Metricool, Meta). Úpravy, které Lenka udělá v externím nástroji, Claude přenese zpět do položky. Důvod: kombinace různých postupů byla matoucí, Lenka nechce pamatovat výjimky. Postup ve vaultu `resources/postupy/growos.md` („Jednotný postup výstupů“).
 

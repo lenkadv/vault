@@ -23,6 +23,7 @@ From the audit page's local font files (`fonty.css`, open-licence fonts):
 
 ## Image style
 [PLACEHOLDER: not decided. Idea only, from `GrowOS/digistart/library/swipe-content.md` (do 261021 `resources/digistart-swipe.md`): funny ads styled like paintings (Lenka's own field), to set DigiStart apart from generic AI ads. Not chosen yet.]
+First Facebook post (2026-10-21): Lenka chose a warm hand-drawn illustration with a self-ironic idea ("e-mail ninja"), on a paper background in the brand colors, no text in the image, made in ChatGPT from the prompt in `work/social/_fb-ai-mi-tridi-newslettery/design-brief.md`. Of three tries (Canva, Gemini, ChatGPT) the ChatGPT one won; Gemini's looked stiff and stock-like. One case, not a style decision yet.
 
 ## Look and feel, in a word or two
 Warm, calm, serious but not stiff. Paper-colored background, one strong burgundy accent. *(unchecked: my words for the audit page's palette and type, to be confirmed)*
