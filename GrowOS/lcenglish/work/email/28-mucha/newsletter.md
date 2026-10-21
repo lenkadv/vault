@@ -12,7 +12,7 @@ channel: email
 created: 2026-10-19
 skill: ""
 note: předložky jsme měli už dvakrát, myslím, lepší by bylo zvolit něcojiného
-kanban_order: V0
+kanban_order: Uz
 ---
 
 <!-- Claudův draft 2026-10-19 (připraveno dopředu, test fronty). Hook z Lenčina života chybí: [PLACEHOLDER: hook] + otázky. Fakta a zdroje v library/episodes/28-mucha/brief.md. Po Lenčiných úpravách porovnat git diff → lekce. -->

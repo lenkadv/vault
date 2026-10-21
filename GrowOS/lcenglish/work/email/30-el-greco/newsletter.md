@@ -2,8 +2,8 @@
 type: newsletter
 headline: "A4E #30 – El Greco, Svatý Martin a žebrák, be going to"
 project: a4e-30-el-greco
-source: "library/episodes/30-el-greco/brief.md"
-subject: "Martin přijíždí na bílém koni"
+source: library/episodes/30-el-greco/brief.md
+subject: Martin přijíždí na bílém koni
 date: 2026-11-10
 id: ap8fe0z635
 status: review
@@ -12,6 +12,7 @@ channel: email
 created: 2026-10-19
 skill: ""
 note: ""
+kanban_order: V1
 ---
 
 <!-- Claudův draft 2026-10-19 (připraveno dopředu, test fronty). Hook z Lenčina života chybí: [PLACEHOLDER: hook] + otázky. Fakta a zdroje v library/episodes/30-el-greco/brief.md. -->

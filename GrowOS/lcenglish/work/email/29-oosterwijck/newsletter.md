@@ -2,8 +2,8 @@
 type: newsletter
 headline: "A4E #29 – Maria van Oosterwijck, Vanitas, quantifiers"
 project: a4e-29-oosterwijck
-source: "library/episodes/29-oosterwijck/brief.md"
-subject: "Kolik času nám zbývá?"
+source: library/episodes/29-oosterwijck/brief.md
+subject: Kolik času nám zbývá?
 date: 2026-11-03
 id: qsbdfehx4k
 status: review
@@ -12,6 +12,7 @@ channel: email
 created: 2026-10-19
 skill: ""
 note: ""
+kanban_order: V0
 ---
 
 <!-- Claudův draft 2026-10-19 (připraveno dopředu, test fronty). Dílo vybral Claude (curriculum ho nemělo), zdůvodnění v briefu. Hook z Lenčina života chybí: [PLACEHOLDER: hook] + otázky. Fakta a zdroje v library/episodes/29-oosterwijck/brief.md. -->
