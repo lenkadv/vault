@@ -79,10 +79,10 @@ post is for when it hands it over.
 
 - Channel: social
 - Provider: Metricool, for the DigiStart Facebook page (Lenka's choice, 2026-10-14). The page exists and Metricool is connected, brand DigiStart (2026-10-17).
-- Destination id: 61595531789130 (Facebook page DigiStart, confirmed by Lenka in chat 2026-10-21). Metricool brand DigiStart has blog id 7485903 and lists its Facebook page as 1421056167749029; whether that is the same page under a second id is not checked yet.
-- Route: connector (Metricool connector; Lenka 2026-10-21: "připrav koncept v Metricoolu")
-- How far to go: safe-state
-- Note: Lenka, brief of 2026-10-14: drafts and paused items, Lenka turns things on.
+- Destination id: 61595531789130
+- Route: connector
+- How far to go: live
+- Note: Destination id = Facebook page DigiStart, confirmed by Lenka in chat 2026-10-21. Metricool brand DigiStart has blog id 7485903 and lists its Facebook page as 1421056167749029; Lenka checked the draft in Metricool on 2026-10-21 and confirmed it sits on the right DigiStart page. Route = the Metricool connector (Lenka 2026-10-21: "připrav koncept v Metricoolu"). Live: Lenka in chat 2026-10-21: "Ano, zapni u Facebooku DigiStartu režim live." Applies to Facebook posts of DigiStart only (work/social/), not to ads. Every live send is still confirmed with Lenka in the session: item, page, and exact publish time. Images go to Metricool via a Leadpages asset URL (vault `resources/postupy/growos.md`, step 5).
 
 Only add a per-platform block — `Channel: linkedin`, `Channel: instagram` — if
 your posts actually live in a folder of that name (`work/linkedin/`). The
