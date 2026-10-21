@@ -83,3 +83,21 @@ created: 2026-10-21
 | Tlačítka | OK | 5× konzultace + plovoucí na mobilu, „Ano, chci …“ |
 
 Námitky z `audience.md`: web a texty dřív (sekce 3, 6, konzultace) · nemám čas (dopis, rytmus večera) · žargon (sekce 3, 4) · bez referencí (pilot, Lenčin příklad) · předplatné AI (co budete potřebovat, FAQ) · bezpečí dat (pravidlo + FAQ, odpověď žlutě).
+
+## Bensonova kontrola 9 bodů — 2026-10-21 večer (verze 344, po Lenčiných úpravách)
+
+Respektuje záměrné volby z `brain/lessons/2026-10-21-b3-zamerne-volby.md` (bez bia, bez věty o deseti účastnicích, „živá vysílání“, titulek…); ty znovu nenavrhuji.
+
+| Bod | Stav | Co a proč | Návrh |
+|---|---|---|---|
+| 1 Layout | OK | slova prodávají i bez designu, každý blok má úkol | příklad „odpověď zákaznici“ je na stránce 3× (úvod, tabulka, svodka „Jana“); zvážit jiný příklad v úvodu |
+| 2 Shoda s publikem | OK | FB „prohlížení“: problém a příběh před nabídkou, tlačítko nahoře | – |
+| 3 Autorita | slabé (záměrně) | jména v úvodu, fotky až v půlce stránky | malé fotky obou lektorek do úvodu vedle jmen (bez textu navíc) |
+| 4 Titulek | OK | o ní, kontrast, projde testem „No a co?“; délku a termín nese lišta pod ním | – |
+| 5 Příběh | OK, krátký | před (30 mailů) → zlom (zaúkolovala AI) → po (jedna svodka) | jedna věta „před“ z Lenčina FB postu: roky rezignace na „Inbox Zero“, strach smazat staré maily |
+| 6 Nabídka | slabé | části pojmenované, cena až po obsahu, chybí ukotvení ceny | poctivé ukotvení: „12 hodin živé práce s lektorkami“ (4 × 3 h), bez ceny za hodinu |
+| 7 Bullety | chybí | tabulka a kalendář jsou konkrétní, ale žádné fascinace (zvědavost) | 3–4 bullety jen z toho, co stránka už slibuje, např. „Jednou větou najdete loňskou nabídku, i když nevíte, jak se soubor jmenoval.“ · „Proč u nás AI nesmí nic odeslat ani smazat – a jak jí to zakázat.“ · „Jak AI naučit váš styl, aby koncepty nemusela přepisovat.“ |
+| 8 Garance | – (záměrně) | žádná garance; roli přebírá konzultace „řekne vám to na rovinu“ | – |
+| 9 Závěr a tlačítka | OK | dopis rámuje volbu („dál kopírovat … nebo dát AI práci“), tlačítko 5× | funkční odkazy (dnes „#“) |
+
+**Tři opravy s největším dopadem:** (1) funkční odkazy na TidyCal a přihlášku, (2) fascinační bullety, (3) poctivé ukotvení ceny „12 hodin živé práce“.
