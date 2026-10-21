@@ -13,7 +13,6 @@ is all it needs._
 ## Open decisions (kept current; review at the start of every DigiStart session)
 Each line says who decides. When a line is decided, write it as a dated entry below, fill the `[PLACEHOLDER]` in the brain file that holds it, and delete the line here. Last updated 2026-10-18 (Facebook page state).
 
-1. **Start date and meeting rhythm.** Wednesday 11 Nov or Wednesday 25 Nov; and Lenka's idea of two meetings a week instead of one. Lenka and Štěpánka. The page text does not wait for it. (End of sign-up decided 2026-10-17, see below.)
 2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: by 30 Oct.
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
 4. **Pixel, ad account, spending cap, operator and terms on the page.** None exist yet. The Facebook page exists (2026-10-17, on Lenka's profile, outside the portfolio); the portfolio DigiStart is restricted by Meta, escalation sent. Next check and the fallback via GNOSTIKA's portfolio: vault `resources/digistart-facebook-postup.md`. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
@@ -21,6 +20,9 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
+
+## 2026-10-20: start date and rhythm
+**Decided (Lenka and Štěpánka, agreed in person, recorded in vault `projects/digistart.md` 2026-10-20):** four Mondays 17:00–20:00, 23 Nov, 30 Nov, 7 Dec and 14 Dec 2026. The fifth, optional consultative meeting comes after Christmas, on purpose with a gap so participants can try things first. Written into the B3 sales page concept on 2026-10-21.
 
 ## 2026-10-21: Facebook posts go live from the queue
 **Decided (Lenka, in the chat):**

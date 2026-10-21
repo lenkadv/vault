@@ -11,7 +11,7 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
   - The first two meetings are fixed and do **not** include building a website (Lenka, 2026-10-14). The next ones follow the participants' needs. Whether any later meeting covers it is open.
   - Minimum 10 participants. 20 is a flexible upper limit: Lenka would not turn women away if more wanted to join. The page may say: "Kurz otevřeme, když se přihlásí alespoň deset účastnic." (Lenka, 2026-10-17). Sign-up stays open until the course starts; only the ads stop around mid-November.
   - The variant: B. Participants are guided through building their own AI system in Claude. They are not handed a finished package to click through alone (Lenka, 2026-10-14).
-  - **Start date: OPEN** (see below). Course must end in the middle of December.
+  - **Dates: four Mondays 17:00–20:00, 23 Nov, 30 Nov, 7 Dec, 14 Dec 2026** (Lenka and Štěpánka, 2026-10-20). Fifth optional consultative meeting after Christmas.
   - [PLACEHOLDER: price of other variants. None are decided.]
   - **No guarantee and no refund**, because the meetings are live workshops (Lenka, 2026-10-14).
   - **Payment is taken at once, at purchase. If the course does not open (fewer than 10 sign up), the money is returned** (Lenka, 2026-10-14). That is the one exception to "no refund".
@@ -34,7 +34,7 @@ Path of the woman: Facebook ad → page → book a consultation, or buy straight
 - **GNOSTIKA** sells, invoices and pays for the ads. Fallback: Lenka's own system through FAPI, to be decided by 21 October — **confirmed** as the plan; the fallback decision is open
 - Pilot price **15 000 Kč** — **confirmed** (Lenka, 2026-10-14). The 35 000 Kč in the older pilot outline is replaced.
 - 4 meetings, one per week; min 10, flexible upper limit 20 (not a hard cap) — **confirmed** (Lenka, 2026-10-14)
-- Start date is **not decided**. Possible: Wednesday 11 Nov or Wednesday 25 Nov, with a fallback in which Štěpánka leads the first meeting. New idea (Lenka, 2026-10-14): two meetings a week instead of one. Not to be written into any text as fixed; use `[PLACEHOLDER: datum prvního setkání]` — **confirmed that it is open**
+- Dates: **four Mondays 17:00–20:00, 23 Nov – 14 Dec 2026**, fifth optional meeting after Christmas — **confirmed** (Lenka and Štěpánka, 2026-10-20)
 - Course must end in the middle of December; Thursday is impossible for Lenka (school until 19:00); Wednesday is better; Lenka and Štěpánka are in Rome from Friday 13 Nov to Wednesday 18 Nov — **confirmed** (internal planning, not for publication)
 - DigiStart itself is a **one-off course** with one price. It sells no subscription. Separate question: guiding participants to an AI system of their own in Claude is the chosen variant, and **each participant needs her own paid Claude Pro plan** (bought from Anthropic, not from DigiStart) — **confirmed** (Lenka, 2026-10-17). The page says it openly.
 - Price of that monthly Claude plan (Pro): "$20" billed monthly, or "$200" a year up front ("$17" a month); no EUR or CZK price shown; prices exclude tax — **checked on claude.com/pricing 2026-10-17**. The same page, same day: "Skills" Yes on Free and Pro (custom vs built-in not split); "Projects" Free up to 5; "Connectors" Yes on Free; "Claude for Microsoft Outlook" and "Claude Code" only on paid plans; Cowork (work with local files) "rolling out to Pro and Max". So variant B (Claude working with her own files and mail) in practice needs Pro — my reading, to confirm with Lenka against the content of the meetings before the page states it.
