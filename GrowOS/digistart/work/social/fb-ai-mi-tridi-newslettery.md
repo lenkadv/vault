@@ -15,9 +15,9 @@ sealed:
   - _fb-ai-mi-tridi-newslettery/ninja-chatgpt.png sha256:e8632118316f8f35b731478473aadb93a1ee5ec9af047d99d6947327fbddbf7b
 publish_destination: "metricool (brand DigiStart, blog id 7485903)"
 publish_ref: "6968605701319378821"
-publish_attempted_at: "2026-10-21T15:03:00.000Z"
-publish_state: prepared
-publish_note: "Koncept v Metricoolu (draft: true, zástupné datum 23. 10. 18:00) s textem i obrázkem. Obrázek nahrán přes Leadpages (asset stránky yyk9wcADYO), Metricool si ho zkopíroval; SHA-256 kopie v Metricoolu = zapečetěný soubor. Text odpovídá schválené kopii."
+publish_attempted_at: "2026-10-21T15:21:00.000Z"
+publish_state: live
+publish_note: "Naplánováno ostře v Metricoolu na čtvrtek 2026-10-22 10:00 Europe/Prague (draft: false, s obrázkem), na Lenčino potvrzení v chatu 2026-10-21. Obrázek nahrán přes Leadpages, SHA-256 kopie v Metricoolu = pečeť. Po vyjití ověřit a posunout na published."
 publish_reason: verified
 ---
 
