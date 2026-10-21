@@ -1,0 +1,8 @@
+2026-10-21 - First Facebook post Lenka rewrote herself (`work/social/fb-ai-mi-tridi-newslettery.md`, my version in git commit "Claudova verze", hers in the next commit). What she changed, and what to do next time:
+
+- **She is the one acting.** My "Od konce září je proto za mě čte AI" became "Tak jsem zaúkolovala AI". She also describes her own steps ("V souhrnu prolétnu…", "v mailové schránce najdu označené"). Write her as the one who sets the AI to work and checks it, not as someone things happen to.
+- **AI as a partner, in plural.** "vytvoříme pravidlo pro příště", "Chvíli jsme to ladily". She talks about working with the AI as a "we".
+- **No dwelling on AI failures.** She cut my paragraph "Kéž by to fungovalo… Nefungovalo… připomínala dvakrát… Snad." and kept just "Chvíli jsme to ladily". Mention that it took tuning in one light line; no list of mistakes, no ironic "Snad."
+- **The payoff is her feeling, with her history.** She ended on years of giving up on "Inbox Zero" and being afraid to delete old unread mail "co když je tam něco důležitého", and a self-ironic hyperbole in capitals: "se cítím jako naprostý EMAIL NINJA". End with the personal relief, told with humour, not with a question to the reader. (She removed my closing question.)
+- **Cut detail that does not carry the story.** Out: "O umění, o AI, o psaní", "po tématech", "jako na ministerstvu", "od konce září". Plain everyday verbs instead: "chodí", "sepíše mi souhrn", "topí se mezi newslettery".
+- **Kept as I wrote it:** the opening line (with "chodí"), "Přihlásila jsem se k nim sama, takže si nemám na co stěžovat :-)", "Jen je nestíhám číst." (my guess, which she confirmed), the bill/deadline/personal message list, and "smazat sama nesmí, to právo jsem jí nedala".

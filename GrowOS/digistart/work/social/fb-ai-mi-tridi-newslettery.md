@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: story
 id: kynwzvbk3p
-status: draft
+status: review
 business: digistart
 channel: social
 created: 2026-10-21
@@ -16,19 +16,17 @@ note: ""
 
 ## Post
 
-Každý den mi přijde kolem třiceti newsletterů a reklamních mailů. O umění, o AI, o psaní. Přihlásila jsem se k nim sama, takže si nemám na co stěžovat :-)
+Každý den mi chodí kolem třiceti newsletterů a reklamních mailů. Přihlásila jsem se k nim sama, takže si nemám na co stěžovat :-)
 
 Jen je nestíhám číst.
 
-Od konce září je proto za mě čte AI. Ráno projde poštu za poslední den a napíše mi z ní souhrn po tématech. Souvislý text, jako na ministerstvu. Úplně nahoru dá, co musím vyřídit: fakturu, termín, osobní zprávu. A tyhle maily mi přesune do hlavní složky, ať se neztratí mezi reklamami.
+Tak jsem zaúkolovala AI. Ráno projde nevyřízenou poštu a sepíše mi souhrn. Úplně nahoru dá, co musím vyřídit: fakturu, termín, osobní zprávu. Pokud se něco z toho topí mezi newslettery, přesune mi to do hlavní složky.
 
-Zbytek označí štítkem „smazat“. A tady je háček: smazat sama nesmí. To právo jsem jí nedala. Štítek projdu a smažu já. V nejhorším případě tak AI něco označí špatně a já si toho všimnu.
+V souhrnu prolétnu i méně podstatné věci, kandidáty na smazání pak v mailové schránce najdu označené štítkem „smazat“. AI sama nic smazat nesmí, to právo jsem jí nedala. Když něco označí špatně, všimnu si toho a vytvoříme pravidlo pro příště.
 
-Kéž by to fungovalo samo od prvního dne... Nefungovalo. Pravidla jsem jí musela sepsat: co mi dá do pozornosti, co mažu, co si nechávám, v jakém jazyce píše souhrn. A některá jsem jí připomínala dvakrát. (Anglické newslettery shrnovat anglicky – to už umí. Snad.)
+Chvíli jsme to ladily, ale teď už mi ráno stačí přečíst jeden text místo třiceti mailů. Po letech postupné rezignace na "Inbox Zero" a strachu smazat staré nepřečtené maily, protože "co když je tam něco důležitého", se cítím jako naprostý EMAIL NINJA.
 
-Teď mi ráno stačí přečíst jeden text místo třiceti mailů.
 
-A vy? Kolik mailů ráno odkliknete bez čtení?
 
 **Hashtags:** none
 
