@@ -43,7 +43,7 @@ Path of the woman: Facebook ad → page → book a consultation, or buy straight
 - Domain: **digistart.cz** exists and is parked at Czechia (where GNOSTIKA also is); no page on it yet — **confirmed** (Lenka, 2026-10-14). **Facebook page DigiStart exists** (created 2026-10-17 from Lenka's own profile, outside any business portfolio; https://www.facebook.com/profile.php?id=61595531789130; Štěpánka invited as admin; Metricool connected, brand DigiStart). The business portfolio DigiStart exists but Meta **restricted** it on 2026-10-17 (suspected automation), so it cannot create or run ads; escalation sent. Detail: vault `resources/digistart-facebook-postup.md`. Pixel, ad account, operator and terms on the page, and the ad spending cap do **not exist yet** — [PLACEHOLDER: each of these four]
 
 ## Where people find us
-Almost nowhere yet. The domain digistart.cz exists but is parked, with no page. The Facebook page DigiStart exists since 2026-10-17 (two posts, no ads). The sales page exists as Leadpages concepts (variant B chosen, now B2), shared with Štěpánka with noindex, not on digistart.cz. No pixel, no ad account. All come with the campaign plan. The Facebook ad is the planned entrance.
+Almost nowhere yet. The domain digistart.cz exists but is parked, with no page. The Facebook page DigiStart exists since 2026-10-17 (two posts, no ads). The sales page exists as Leadpages concepts (B2, and B3 since 2026-10-21), shared with Štěpánka with noindex, not on digistart.cz. No pixel, no ad account. All come with the campaign plan. The Facebook ad is the planned entrance.
 
 ## What makes us different
 In Lenka's words (setup chat, 2026-10-14), shortened, not word for word:

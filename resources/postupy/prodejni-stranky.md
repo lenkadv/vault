@@ -92,6 +92,12 @@ Plus z GrowOS kontroly tření: **každá námitka z audience.md má na stránce
 - **Nahrání obrázků k novému konceptu (261002, funguje):** `create_page_draft` s HTML a zástupnými texty → `create_asset_upload` (slug stránky) → `curl -X PUT --data-binary` na vrácenou adresu → `complete_asset_upload` → `edit_page_draft` přepíše zástupné texty na `https://lenka-dvorakova.lpcontent.net/api/pages/<slug>/assets/<id>?w=1200&fit=scale-down&format=auto&quality=82`. Meta popis a OG obrázek `update_page_seo` funguje už na konceptu. Koncept `list_pages` nepotřebuje, neotevírat cizí koncepty.
 - **Sdílení konceptu s kolegou nebo klientem (261002):** publikovat po Lenčině pokynu, hned vypnout indexování (`update_page_seo`, `robotsIndexable:false`), heslo nastaví Lenka sama v editoru Leadpages (Page Settings → Password Protection), ne v chatu. Ověřit z venku (`curl`: adresa přesměruje na `/unlock`) a zkontrolovat **název stránky v dashboardu**, protože se ukazuje na zamykací stránce. Odkaz a heslo posílat zvlášť. Na adrese `lpcontent.net` je nahoře pruh „Preview page“ (zmizí s vlastní doménou). PDF z cloudu se Lence nemusí otevřít a nejdou nahrát přes Gmail ani Drive, spolehlivé je odkaz na stránku.
 
+- **Skripty na stránce a editor Leadpages (261021, přepínač asistentka/asistent na DigiStart B3):** editor Leadpages skripty stránky spouští a při uložení uloží i přepnutý stav (text, `aria-pressed`, třída na `<html>`). Skript proto musí stav při každém načtení nastavit sám (ne jen „když je uloženo m, přepni“), jinak návštěvnice uvidí, co Lenka naposled zkoušela. Vyzkoušet spolehlivě jde jen na zveřejněné stránce.
+- **Změny přes API se na zveřejněné adrese neukážou**, dokud Lenka stránku znovu nezveřejní (výjimka: `update_page_seo`, platí hned). Po úpravě to vždy říct.
+- **Zarovnání v editoru mezerami (`&nbsp;`) a prázdnými odstavci** rozbije mobil; nahradit CSS (střed, margin).
+- **Reference z dřívějších kurzů:** Lenčiny ohlasy z AI webinářů a workshopů jsou v SocialJuice (zeď 2419, vložená na starších registračních stránkách v Leadpages). U nového produktu jen s nadpisem a poznámkou, že jde o dřívější kurzy, jména zkrátit (křestní + iniciála).
+- **Kontroly hotové stránky:** Bensonových 9 bodů (fáze 2) + GrowOS `website-audit` na zveřejněné adrese (skóre, top oprav, prošlo nezávislou kontrolou). GrowOS Doctor stránku nehodnotí. Před reklamou `ads-meta-compliance`.
+
 ## Fáze 5: technická kontrola před spuštěním
 
 - [ ] Všechny obrázky jako asset v Leadpages, žádný načítaný z cizího serveru.

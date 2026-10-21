@@ -61,7 +61,7 @@ simply one GrowOS will ask about the first time it comes up.
 ### Website
 - Address: digistart.cz (Lenka, 2026-10-14). The domain exists and is parked at Czechia. No page on it yet.
 - Platform: Leadpages (Lenka's choice, 2026-10-14). Publishing only as a private draft until Lenka says otherwise.
-- Notes: sales page concepts A, B, C and B2 exist in Leadpages (2026-10-17); B and B2 are published with noindex only so Štěpánka can read them. Domain hosting is open (see `brain/decisions.md`).
+- Notes: sales page concepts A, B, C, B2 (2026-10-17) and B3 (2026-10-21, https://lenka-dvorakova.lpcontent.net/iYfYzG6Yg_) exist in Leadpages; B, B2 and B3 are published with noindex only so Štěpánka can read them. Domain hosting is open (see `brain/decisions.md`).
 
 ### Email and newsletter
 - Channel: email
