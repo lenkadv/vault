@@ -16,6 +16,8 @@ created: 2026-10-21
 
 **Kde to vidět:** soukromý koncept v Leadpages https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2 (nepublikovaný, B2 nezměněná). Zdrojové HTML: `_digistart-pilot-prodejni-stranka/varianty/B3-rada-nebo-prace.html`. Po prvním zásahu Lenky v editoru je zdrojem pravdy Leadpages.
 
+**2026-10-21 večer:** Lenka upravila text v editoru (verze 333). Zdroj pravdy je teď Leadpages, lokální HTML je zastaralé. Opravila jsem překlepy a sbalila zodpovězené otázky v FAQ (verze 334). Co je záměr a co nenavrhovat: `brain/lessons/2026-10-21-b3-zamerne-volby.md`.
+
 **Zadání (Lenka 2026-10-21):** nová varianta vedle B2, převzít nejlepší nápady z webináře AI Institute, ze swipe DigiStartu, z Bensonovy stránky YouCloned Command a z rozboru stránky GrowOS; osobitá, pro naši cílovou skupinu. Věk čtenářky na stránce není (pravidlo Meta v `brain/audience.md`); „vrstevnice“ je vyjádřené tónem „samy jsme si tím prošly“.
 
 **Odkud čtenářka přijde:** Facebook, „prohlížení“. Hlavní akce konzultace zdarma, druhé tlačítko „Nejdřív mi ukažte, jak to funguje“ (skok na čtyři pondělí), třetí tichý odkaz „rovnou se přihlaste“.
