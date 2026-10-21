@@ -79,8 +79,8 @@ post is for when it hands it over.
 
 - Channel: social
 - Provider: Metricool, for the DigiStart Facebook page (Lenka's choice, 2026-10-14). The page exists and Metricool is connected, brand DigiStart (2026-10-17).
-- Destination id: [PLACEHOLDER: the page, profile, or channel ID — not the handle. The page URL shows 61595531789130; Lenka confirms before it goes here.]
-- Route: [PLACEHOLDER: connector / api / manual]
+- Destination id: 61595531789130 (Facebook page DigiStart, confirmed by Lenka in chat 2026-10-21). Metricool brand DigiStart has blog id 7485903 and lists its Facebook page as 1421056167749029; whether that is the same page under a second id is not checked yet.
+- Route: connector (Metricool connector; Lenka 2026-10-21: "připrav koncept v Metricoolu")
 - How far to go: safe-state
 - Note: Lenka, brief of 2026-10-14: drafts and paused items, Lenka turns things on.
 

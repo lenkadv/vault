@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: story
 id: kynwzvbk3p
-status: review
+status: approved
 business: digistart
 channel: social
 created: 2026-10-21
@@ -13,6 +13,12 @@ note: ""
 kanban_order: V0
 sealed:
   - _fb-ai-mi-tridi-newslettery/ninja-chatgpt.png sha256:e8632118316f8f35b731478473aadb93a1ee5ec9af047d99d6947327fbddbf7b
+publish_destination: "metricool (brand DigiStart, blog id 7485903)"
+publish_ref: "6968605701319378821"
+publish_attempted_at: "2026-10-21T14:56:00.000Z"
+publish_state: waiting-owner
+publish_note: "Text uložen v Metricoolu jako koncept (draft: true, zástupné datum 23. 10. 18:00). Obrázek Metricool z Disku nepřevzal, Lenka ho vloží ručně (ninja-chatgpt.png). Ruční kontrola: text i SHA-256 obrázku odpovídají schválené kopii; publish-stage odmítl kvůli počtu odkazů na souboru na Disku Google (0)."
+publish_reason: unsupported-media
 ---
 
 # Facebook — AI mi čte newslettery
