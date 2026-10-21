@@ -14,7 +14,6 @@ sort by due
 
 ## Čeká na datum
 
-- [ ] AI Strategist: projít úkoly přípravy od Dannyho Inyho v AI Playground → [[kontext-ukolu#AI Strategist (Danny Iny)]] 📅 2026-10-21
 
 - [x] Vzít s sebou přihlašovací údaje ke školnímu účtu KTF (na setkání s prváky v P8, 11:50; prezentace je nasdílená na školním účtu) 📅 2026-10-20 ✅ 2026-10-20
 - [ ] Reorganizace Disku: vrátit `#next-action` na úkol „Projít `01 PRIVATE` po položkách s Claudem“ v [[disk-reorganizace]] (odloženo z weekly review 261018) 📅 2026-11-02
