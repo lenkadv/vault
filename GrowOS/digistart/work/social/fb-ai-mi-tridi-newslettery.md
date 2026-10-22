@@ -5,7 +5,7 @@ skill: social-write
 platform: facebook
 intent: story
 id: kynwzvbk3p
-status: approved
+status: published
 business: digistart
 channel: social
 created: 2026-10-21
@@ -17,7 +17,7 @@ publish_destination: "metricool (brand DigiStart, blog id 7485903)"
 publish_ref: "6968605701319378821"
 publish_attempted_at: "2026-10-21T15:21:00.000Z"
 publish_state: live
-publish_note: "Naplánováno ostře v Metricoolu na čtvrtek 2026-10-22 10:00 Europe/Prague (draft: false, s obrázkem), na Lenčino potvrzení v chatu 2026-10-21. Obrázek nahrán přes Leadpages, SHA-256 kopie v Metricoolu = pečeť. Po vyjití ověřit a posunout na published."
+publish_note: "Vyšlo 2026-10-22 10:00, ověřeno v Metricoolu (status PUBLISHED, https://facebook.com/122096860125517726/posts/122100759393517726). Původně: naplánováno ostře v Metricoolu na čtvrtek 2026-10-22 10:00 Europe/Prague (draft: false, s obrázkem), na Lenčino potvrzení v chatu 2026-10-21. Obrázek nahrán přes Leadpages, SHA-256 kopie v Metricoolu = pečeť. Po vyjití ověřit a posunout na published."
 publish_reason: verified
 ---
 

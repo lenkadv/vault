@@ -46,7 +46,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Prodejní / landing stránky — tvorba, úprava nebo hodnocení (svoje, klientské, konkurence), nabídka, cena, garance, tlačítka | `resources/postupy/prodejni-stranky.md` |
 | Psaní textu za Lenku (e-mail, zpráva, článek, seminárka, newsletter, prodejní text), úprava jejích textů, hlasové profily | `resources/postupy/hlasy.md` (profil před psaním; když Lenka můj text přepíše → rozdíl hned zapsat jako poučení; **u pracovního mailu vždy důrazně upozornit, z jaké adresy odeslat**, ne z Gmailu: oddíl 3) |
 | Přehledné dějiny umění 19.–20. st. (dr. Pech): příprava na zápočet/zkoušku, Anki balíčky z prezentací, chronologie, web pro spolužáky, „zpracuj přednášku“ | `resources/postupy/prehledovky-pech.md` |
-| Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie | `resources/postupy/metodologie2.md` |
+| Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie, státnice z metodologie (témata III. 1–20 jako kostra) | `resources/postupy/metodologie2.md` |
 | **Zpracování přednášky u kteréhokoli předmětu KTF** („zpracuj přednášku“, nová nahrávka z Easy Voice Recorderu, jednotné zápisky v Google Docs, Notebook, kontrola údajů, úprava starších zápisků z Notebooku) | `resources/postupy/zpracuj-prednasku.md` (hlavní postup; Anki jen u Přehledovek a Metodologie 2 → jejich postupy výše) |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
