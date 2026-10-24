@@ -13,9 +13,9 @@ is all it needs._
 ## Open decisions (kept current; review at the start of every DigiStart session)
 Each line says who decides. When a line is decided, write it as a dated entry below, fill the `[PLACEHOLDER]` in the brain file that holds it, and delete the line here. Last updated 2026-10-18 (Facebook page state).
 
-2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: by 30 Oct.
+2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: originally by 30 Oct; shifted 2026-10-24 (ads start around 9 Nov, about 14 days before the course starts 23 Nov).
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
-4. **Pixel, ad account, spending cap, operator and terms on the page.** None exist yet. The Facebook page exists (2026-10-17, on Lenka's profile, outside the portfolio); the portfolio DigiStart is restricted by Meta, escalation sent. Next check and the fallback via GNOSTIKA's portfolio: vault `resources/digistart-facebook-postup.md`. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
+4. **Pixel, ad account, spending cap, operator and terms on the page.** None exist yet. The Facebook page exists (2026-10-17, on Lenka's profile, outside the portfolio); the portfolio DigiStart is restricted by Meta and Meta never answered; on 2026-10-24 Lenka gave up on it and the fallback is running: Štěpánka creates a DigiStart portfolio under GNOSTIKA (instructions shared 2026-10-24). Detail: vault `resources/digistart-facebook-postup.md`. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
 6. **Štěpánka's voice profile.** Only when a text goes out in her name. Ask her for the profile file from the test run then (check for private details first).
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 

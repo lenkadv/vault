@@ -7,9 +7,7 @@
 
 ## Aktuální stav
 
-261020: **Termíny domluveny ústně (Lenka a Štěpánka):** začátek po 23. 11., kurz 4 pondělí 17–20 (23. 11., 30. 11., 7. 12., 14. 12.), páté konzultační setkání (dobrovolné) až po Vánocích, záměrně s odstupem, aby si to účastnice vyzkoušely. Konzultace zdarma Štěpánka přeplánuje podle nového termínu; koupí a zprovozní TidyCal a pošle odkaz, který Lenka nalinkuje na prodejní stránku → čeká se na ni ([[waiting-for]], 28. 10.).
-
-261018 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic), příprava kampaně má být hotová do 30. 10., reklamy od 2. 11. Checklist „Příprava kampaně do 30. 10.“ je níž. Přehled „DigiStart – kde jsme“ Štěpánka dostala. ~~Čeká se na Štěpánku: datum začátku a rytmus setkání~~ (vyřešeno 261020). **Meta:** Lenčino portfolio DigiStart zůstává zablokované (SMS nedojde, bug nahlášen 18. 10.), čeká se na Metu do 25. 10.; portfolio za GNOSTIKU přes Š je jen připravená záloha. **Next actions:** výběr mezi B2 a B3 (B3 postavena 261021, ve frontě), fakturace v GNOSTICE (do 21. 10.), obsah setkání 1–2, transkripty Dannyho Innyho.
+261024 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic). **Kurz začíná po 23. 11.** (4 pondělí 17–20: 23. 11., 30. 11., 7. 12., 14. 12.; páté konzultační setkání po Vánocích). **Posun 261024:** reklamy poběží zhruba 14 dní před startem, tedy **od cca 9. 11.** (dřív plán od 2. 11.); příprava kampaně má o týden víc času, checklist níž platí, jen se posouvá termín. Výběr stránky: dál se pracuje s B3. Štěpánčin TidyCal běží (`https://tidycal.com/ulicna/konzultace`), zbývají české popisky a telefon jako první možnost. **Meta:** Lenčino portfolio DigiStart zůstává zablokované, Meta nereaguje (24. 10. znovu bez kódu i bez člověka) → **jde se přes Štěpánku: portfolio DigiStart za GNOSTIKU**, Lenka jí pošle návod (úkol níž). **Lenka 261024:** úkoly nemají stejnou váhu (rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho) → chce projektovou mapu priorit, úkol níž.
 
 ## Co to je
 
@@ -91,6 +89,9 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 
 ## Otevřené otázky (DigiStart je zatím „oblak“, ne lineární postup — nejsou to next-actions)
 
+- **Videoreklama (zápisník 261024):** jaké nástroje na videoreklamu máme v předplatných (Higgsfield přes AI Black Magic? HeyGen, ElevenLabs?), co umí udělat přímo Claude a který skill na to máme (GrowOS `vsl-write`, Jon Benson voice hacks); vyzkoušet pár testovacích nápadů pro DigiStart. Lenka zmínila i „Christine, či jak se jmenuje“ (nevím, kdo nebo co to je, doplní Lenka).
+- **Claude a e-maily (zápisník 261024):** zjistit, jestli Claude bude umět pracovat s e-maily na … (poznámka je useknutá, Lenka doplní). Souvisí s FAQ „Je moje pošta v bezpečí?“ v checklistu bod 1.
+
 - **Jak se projekt nebo plugin předá účastnicím a jaký plán Claude potřebují** (projekty a dovednosti v běžném chatu; vlákna jako menu kurzu). Zatím jen otázka, bez kroku. **261014 (Notion Skills API):** předávání skillů přes Notion knihovnu a GitHub je řešení pro IT týmy; účastnice DigiStartu nepracují s Notionem ani GitHubem, takže pro ně zůstává jednodušší balíček souborů nebo nahrání skillu přímo do Claude (ověřit v pilotu); Notion cesta by případně dávala smysl až pro firmu s IT (firemní workshop, Team plán). Vzniklo 261006 z rozboru webináře BotBuilders, viz [[digistart-podklady]] (sekce „Co si vzít z webináře BotBuilders“). Až se obloukem dojde k rozhodnutí o formě balíčku a podobě pilotu, otázka se vyřeší sama; neuzavírat uměle.
 
 - **Firemní workshop (261012), není DigiStart, jen z něj vyrostl:** česká pobočka německé firmy (kontakt přes Štěpánku, HR). Nabídku posílá Štěpánka a doplňuje ceny; Lenka dodala obsah. Balíček: 90min představení → 3h workshop (úklid souborů, hlasový profil, koncepty e-mailů, termíny) → 3h navazující workshop s vlastními případy a reporty; podmínka licence Claude (doporučen Team plán). Obsah, licence a seznam příprav → [[digistart-firemni-workshop-osnova]]. Souvisí s otázkou „jednotlivci vs. firmy“ níže.
@@ -125,8 +126,15 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
     - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[GrowOS/digistart/library/swipe-content|digistart swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
 - [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
-### Příprava kampaně do 30. 10. (checklist 261017, reklamy od 2. 11.)
+### Příprava kampaně (checklist 261017; původně do 30. 10. s reklamami od 2. 11., posunuto 261024: reklamy od cca 9. 11.)
 Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
+
+**0. Projektová mapa**
+- [ ] Udělat s Claudem projektovou mapu DigiStartu: co je důležité a co počká #next-action #online
+    - Kontext: Lenka 261024 (weekly review): ve velkých projektech nemají úkoly stejnou váhu, např. rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho. Mapa má ukázat pořadí a váhu úkolů; když se osvědčí, použít i u dalších velkých projektů. Neřešit hned, Lenka rozhodne při plánování.
+
+- [ ] Naplánovat kampaň DigiStart s Claudem skillem `campaign-plan` (GrowOS) #next-action #online
+    - Kontext: Lenka 261024 (weekly review, Databanka): skill vyzkoušet na kampani DigiStart i LCEnglish ([[lcenglish-10x-english-sales-page]]); naplánuje cíl, termíny, příběh, časovou osu a kanály dřív, než vznikne první text. Spouští se v sezení otevřeném v GrowOS. Poznámka [[GOS – campaign-plan]].
 
 **1. Rozhodnutí**
 - [x] Datum začátku a rytmus setkání: domluveno 261020 (po 23. 11. – 14. 12., 4 pondělí 17–20; páté setkání po Vánocích) ✅ 2026-10-20
@@ -138,16 +146,17 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 
 **2. Meta a Facebook**
 - [x] Meta: kontrola omezeného portfolia DigiStart ✅ 2026-10-18 — Lenka zkusila znovu z počítače i mobilu: pořád stejný kruh, jediné ověření je SMS a ta nedojde; chatbot Meta (17. 10.) nepomohl; 18. 10. nahlášen bug novým kanálem (→ [[waiting-for]]). Dál nezkoušet; čeká se na Metu do 25. 10., pak Lenka rozhodne.
-- [ ] Návod pro Š: založit portfolio za GNOSTIKU v Meta Business Suite, přidat Lenku jako správkyni a připojit stránku DigiStart (ID 61595531789130); podklad [[resources/digistart-facebook-postup]] — C návrh, L pošle Š. **Jen záloha (Lenka 261018):** spustit, pokud Meta do 25. 10. portfolio neodblokuje a Lenka se tak rozhodne #online
+- [x] Poslat Štěpánce návod na založení portfolia DigiStart ✅ 2026-10-24 (Lenka nasdílela, čeká se → [[waiting-for]])
+    - Kontext: Lenka 261024: Meta portfolio neodblokovala (žádný kód SMS, hovorem ani WhatsAppem; AI chat slíbí specialistu a vrátí ke kódu), záloha se spouští. Návod pro Š je hotový (261020): https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3, soukromý, Lenka ho musí nasdílet. Š založí portfolio DigiStart za GNOSTIKU, přidá stránku (ID 61595531789130, je mimo portfolio), pozve Lenku a pošle ID portfolia. Podklad [[resources/digistart-facebook-postup]].
 - [ ] Reklamní účet (CZK, Europe/Prague) a karta GNOSTIKY — L/Š, až bude portfolio bez omezení #online
 - [ ] Pixel, propojení stránky, účtu a pixelu, ID do `setup.md` — C, až bude účet
 - [ ] Š přijme pozvánku jako správkyně FB stránky (pozvána 17. 10.) — Š
 - [ ] Vymyslet systém, jak pohodlně přidávat příspěvky na FB stránku (Metricool je připojený, značka DigiStart) — L s C #online
 
 **3. Prodejní stránka B2 / B3** (B2 https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u · B3 https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2)
-- [ ] Porovnat B2 a B3 a vybrat (nebo zkombinovat) #next-action #online
-    - Kontext: B3 „Rada, nebo práce“ postavena 261021 jako soukromý koncept, ve frontě GrowOS na review (`GrowOS/digistart/work/pages/digistart-prodejni-stranka-b3.md`, tam i co je odkud převzaté a žlutá místa). Po výběru druhý koncept smazat. — L
-- [ ] Doplnit žlutá místa: datum, setkání, Claude Pro (rozhodnuto: nutný), věta o deseti účastnicích (rozhodnuto: platí), údaje GNOSTIKY — L s C #online
+- [x] Porovnat B2 a B3 a vybrat ✅ 2026-10-24 — Lenka (tabule): dál pracujeme s B3; můžou vzniknout další varianty, když přijde lepší nápad. B2 zatím nemazat.
+- [ ] Doplnit žlutá místa v B3: datum, setkání, Claude Pro, věta o deseti účastnicích, údaje GNOSTIKY #next-action #online
+    - Kontext: L s C; rozhodnuto 261017: Claude Pro nutný, věta o deseti účastnicích platí. B3 = https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2
 - [ ] Věty o Lence a Štěpánce napsat (zatím na stránce žádné nejsou), Š schválí svou — L s C, pak Š
 - [ ] Fotky do sekce o lektorkách (portréty 2024) a snímek webu GNOSTIKY o auditech — C
 - [ ] Kontrola textu 9 body, mobil, popis a náhled pro sdílení — C
@@ -155,7 +164,9 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Tlačítka na rezervaci a objednávku; před spuštěním pixel, zapnout indexování, smazat koncepty A, B, C — C
 
 **4. Konzultace**
-- [ ] Rezervace konzultací do Outlooku Š: Š prozkoumá Microsoft Bookings (Microsoft 365 GNOSTIKY); když ne, koupí vlastní TidyCal za 29 USD lifetime (https://appsumo.com/products/tidycal/) a napojí ho na svůj Outlook. Cesta „TidyCal Lenky s Outlookem Š“ vypuštěna (Lenka 261017) — Š
+- [x] Pořadí míst v TidyCalu: telefon první, Teams druhé (Lenka ručně 24. 10. večer) ✅ 2026-10-24
+- [x] Štěpánčin TidyCal přepnut do češtiny, 24h čas, jméno „Štěpánka Uličná“ (místo e-mailu) ✅ 2026-10-24
+- [x] Rezervace konzultací: Š zprovoznila vlastní TidyCal (`tidycal.com/ulicna/konzultace`), Lenka ho 23. 10. otestovala ✅ 2026-10-23
 - [ ] Š: kolik konzultací týdně zvládne a v jakých časech (souvisí s časem kurzu v listopadu) — Š, otázka v přehledu
 - [ ] Typ schůzky „Konzultace DigiStart, 30 min, zdarma“, zablokovat Řím 13.–18. 11. — L/Š
 - [ ] Formulář před konzultací — C návrh, L schválí
@@ -203,6 +214,10 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Naplánovat harmonogram (min. 50 h, max. 25 účastníků/skupina) a vložit do Databáze nejpozději 7 dní před začátkem, kurz zveřejnit nejdřív 90 / nejpozději 30 dní před začátkem
 
 ## Záznam (nejnovější nahoře)
+
+**261024 — Štěpánčin TidyCal česky:** S Lenčiným souhlasem (přihlášena do účtu ulicna@gnostika.cz) změněno v Settings: Preferences → Language English → Czech, Time format 12h → 24h; Profile → Your name prázdné → „Štěpánka Uličná“. Ověřeno na https://tidycal.com/ulicna/konzultace: kalendář, formulář i tlačítka česky („Potvrďte rezervaci“, „Rezervovat“), časy 15:00, „S: Štěpánka Uličná“. Anglicky zůstává jen „Online: Microsoft Teams“ (název napojení). E-maily po schůzce jsou na účtu vypnuté. Potvrzení chodí jako pozvánka do kalendáře. Pořadí míst (telefon první) se nepodařilo: výběr Teams ve druhém poli zamrzl stránku, viz úkol v sekci 4. Konzultace je zapnutá ve veřejném adresáři TidyCal (kategorie Professional development), nechána beze změny.
+Doplněk 17:55: (1) Detaily místa („Preferujete rozhovor po telefonu? …“) TidyCal ukazuje až po rezervaci (pole v editoru: „Location details (visible after booking)“). Na stránce je vidět jen název místa a otázka z Questions. (2) Popisek „Vyberte místo“ je pevný překlad TidyCalu, v nastavení ho změnit nejde. Obejít se dá názvem místa a větou v popisu. (3) Administrace TidyCalu česky nejde: Language mění jen rezervační stránky, menu účtu jazyk nemá. Zbývá překlad stránky v Chromu.
+Doplněk 18:00 (Lenka schválila): název místa „Telefonický hovor“ → „Telefonický hovor (zavolám vám)“, do popisu přidána věta „Konzultace probíhá po telefonu, nebo online přes Microsoft Teams.“ Uloženo a ověřeno na veřejné stránce (popis i volba ve formuláři).
 
 **261022 — první FB příspěvek vyšel:** „AI mi čte newslettery“ (ilustrace e-mail ninja) vyšel ve čtvrtek 22. 10. v 10:00 přes Metricool, ověřeno (https://facebook.com/122096860125517726/posts/122100759393517726). Položka `GrowOS/digistart/work/social/fb-ai-mi-tridi-newslettery.md` → `published`.
 

@@ -8,7 +8,7 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
 
 - **Národní galerie — lektor / pedagog pro veřejnost** — potenciální přechod od výuky angličtiny k výdělku z dějin umění. Email s projeveným zájmem odeslán (bez odpovědi). Osobní setkání využito: při VOXovém školení komunikace v NG (7.–8. 9. 2026) Lenka mluvila s vedoucím lektorského oddělení (Oldřich Bystřický) — momentálně nemají nedostatek interních ani externích lektorů, „zůstaneme v kontaktu". Bez konkrétního dalšího kroku. 260926: nechat viset — není žádná záminka, proč Oldřicha Bystřického kontaktovat; reaktivovat, až se objeví přirozená příležitost nebo se NG ozve. Kontakt v NG dřív ghostoval na e-mail. Fakturace za samotné školení viz [[resources/fakturace-klienti]].
 
-- **Domácí knihovna — katalog, uspořádání polic, poznámky z knih** — projekt odložen 261004 (weekly review): Lenka se tomu aktivně věnovat nestíhá. Stav: Notion „📚 Knihovna“ ([odkaz](https://app.notion.com/p/1b8aeae60bc68070ba54f3c5af9910dc)) má 742 fyzických knih + 252 elektronických zdrojů, všechny s obálkami; chybí hlavně starší beletrie bez čárových kódů. Architektura a postup sběru (Handy Library → CSV → ruční import do Notionu, zálohy v `G:\Můj disk\HandyLibrary\`) → [[resources/postupy/knihovna]] + [[HANDOFF – domácí knihovna obálky]]. Poslední kontrola přírůstků 260920 (snapshot `resources/handy-library-snapshot-260920.csv`); 260926 nic nového.
+- **Domácí knihovna — katalog, uspořádání polic, poznámky z knih** — projekt odložen 261004 (weekly review): Lenka se tomu aktivně věnovat nestíhá. Stav: Notion „📚 Knihovna“ ([odkaz](https://app.notion.com/p/1b8aeae60bc68070ba54f3c5af9910dc)) má 742 fyzických knih + 252 elektronických zdrojů, všechny s obálkami; chybí hlavně starší beletrie bez čárových kódů. Architektura a postup sběru (Handy Library → CSV → ruční import do Notionu, zálohy v `G:\Můj disk\HandyLibrary\`) → [[resources/postupy/knihovna]] + [[HANDOFF – domácí knihovna obálky]]. Poslední kontrola přírůstků 260920 (snapshot `resources/handy-library-snapshot-260920.csv`); 260926 nic nového; 261024 nic nového (nejnovější záloha 16. 9.).
   - **První krok při obnovení:** 1) domluvit s Claude logiku fyzického uspořádání knih (po stěhování se pomíchaly; část knih má důvod, proč stojí, kde stojí) · 2) zpracovat poznámky z přečtených knih (poznačené přímo v knížkách) na POZ notes, první kniha McCormack, *Women in the Picture* (~40 záložek) → [[LN – mccormackWomenPicture]] · 3) potřebuje pravidelný blok v kalendáři · 4) pokračovat ve sběru starší beletrie.
   - Oblast: [[areas/domacnost]]
 
@@ -30,10 +30,6 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
 - **Sociální sítě — úklid účtů (260930)** — mapa v memory `reference_social_accounts_map` a [[VL – metricool]]:
   - Facebook **Všichni svatí** zrušit nebo sloučit s tady Lenka (hlavní místo pro umění i svaté je tady Lenka). **261018:** Lenka by sloučení ráda. Podle návodů třetích stran (oficiální stránka nápovědy Meta neověřena): sloučit jde jen stránky s podobným názvem, které představují totéž, a Lenka musí být správkyní obou; při rozdílných názvech nejdřív přejmenovat; sloučená stránka přijde o všechen obsah (sledující přejdou). Claude to přes své nástroje udělat neumí. Jednodušší varianta: na Všech svatých rozlučkový příspěvek s odkazem na Tady Lenka a stránku skrýt/zrušit. Zdroje: https://www.agorapulse.com/blog/how-to-merge-two-facebook-pages/ · https://www.synup.com/en/how-to/how-to-merge-two-duplicate-facebook-pages
   - Facebookovou stránku **tady Lenka** Lenka kdysi sloučila s LCEnglish (angličtina + umění pod jednou střechou); dnes se jí to už nezdá jako dobrý nápad. Rozhodnout, jestli angličtinu a umění zase oddělit, až se bude řešit návrat k sítím.
-
-- **Údržba webu lenkadvorakova.cz** (brána ke všem projektům, vizitka) — potřebuje údržbu, docela určitě se udělá (Lenka 261018; vyčleněno ze „Sociální sítě — úklid účtů“).
-
-- **Údržba webu lcenglish.cz** — potřebuje údržbu, docela určitě se udělá (Lenka 261018).
 
 - **Prodejní stránka kurzu AI „rámovaná uměním“ (obrazy starých mistrů s vtipnými popisky)** — Lence se nápad moc líbí (261017), ale hodí se jen pro kurzy, které by vedla **sama, bez Štěpánky**; u DigiStartu se nepoužije. Hotový vzor: koncept C v Leadpages „DigiStart – C Obrazy (koncept)“ https://leadpages.com/edit/fkurymm40wlxri37ox47msws (nepublikovaný), zdrojové HTML a obrázky `GrowOS/digistart/work/pages/_digistart-pilot-prodejni-stranka/varianty/C-obrazy.html` + `img/`. Obrazy z Met Open Access (Vermeer *A Maid Asleep* a *Young Woman with a Water Pitcher*, Degas *A Woman Ironing*, ter Borch *Curiosity*, Maes *The Lacemaker*), volná díla. Původ nápadu: [[GrowOS/digistart/library/swipe-content|digistart swipe]] (vizuály ve stylu obrazů).
 
@@ -57,8 +53,10 @@ Věci, kde ještě nepadla volba. Přehodnotit při weekly review.
   - **První pokus 3. 10. 2026:** začala Rachmaninova, prokousala se prvními dvěma takty (zná noty, hrát to neumí). Další okno hledat průběžně podle kritéria výše.
   - **Doplněk 261011 (Lenka):** od prvního pokusu zahrála za minulý týden asi dvakrát až třikrát, vždy chvilku, aspoň dvakrát trochu déle. Zatím to jde, ne nijak intenzivně.
   - **261018 (Lenka):** tento týden ani jednou — hodně práce (FEKT, DigiStart).
+  - **261024 (Lenka):** ani tento týden; sledujeme dál.
   - **Vyhodnotit při weekly review kolem 31. 10.**, spolu s rytmem semestru.
 
 ## Ostatní
+- **Předplatné Behind the Masterpiece** (Lenka 261024: zatím jen poznámka, nerozhoduje se) — Substack o dějinách umění https://behindthemasterpiece.substack.com/, placená verze „za pár dolarů měsíčně“ (cenu jsem neověřovala): slovník dějin umění, hloubkové série, Q&A; ve svodce se shrnuje podrobně → [[kontext-ukolu#Behind the Masterpiece]]
 
 - Samočisticí mop — [NOOVOO dvoukomorový](https://noovoo.cz/products/dvoukomorovy-plochy-mop-noovoo-samocistici) nebo alternativa (oddělené komory čisté/špinavé vody, samočisticí mechanismus, na rychlé vytírání bez tahání velkého stroje)

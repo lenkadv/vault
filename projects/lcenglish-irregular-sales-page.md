@@ -4,6 +4,15 @@
 **Stav:** stránka live na `lcenglish.cz/irregular` od 261002 (Goya); zbývá živý test nákupu a měření (opraveno 261004)
 **Zahájeno:** 261002
 
+## Aktuální stav
+
+261024 (weekly review): Stránka běží na `lcenglish.cz/irregular`, živý test nákupu a pixel jsou ověřené, výchozí stav 5 prodejů. Projekt žije dál, protože na něj naváže reklamní kampaň na Facebooku. Kampaň je zatím zapsaná jako jeden bod, rozpadne se na kroky, až se do ní pustíme.
+
+## Next actions
+
+- [ ] Připravit a spustit reklamní kampaň na Nepravidelná slovesa #next-action #online
+    - Kontext: Zatím jen připomínka (Lenka 261024), kampaň má víc kroků. Kampaň LCEnglish poběží asi jen na jeden produkt, 10x ENGLISH, nebo Nepravidelná slovesa; otevřené (viz [[lcenglish-10x-english-sales-page]]). Před spuštěním testovací nákup a ověření události ve Správci událostí Meta (Lenka 261014).
+
 ## Cíl
 
 Nová prodejní stránka pro kurz Nepravidelná slovesa za 14 dní (790 Kč), stejným způsobem a ve stejné kvalitě jako [[projects/lcenglish-10x-english-sales-page]] (varianta D, 261001). Nahradí starou Leadpages stránku `irregular-new` (neveřejná, nenavázaná na web) a stránku `lcenglish.cz/irregular-cho/` (WordPress/Elementor se vloženým formulářem FAPI).

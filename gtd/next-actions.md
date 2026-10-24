@@ -51,9 +51,16 @@ sort by due
 ## @online
 - [ ] Pustit si večer Andrewa Graham-Dixona na YouTube místo další práce 📅 2026-10-31
 - [ ] italki: objednat 2. hodinu němčiny u Philippa Kocha 📅 2026-11-01
+    - Kontext: až po návratu z Drážďan (Lenka 261024).
 - [ ] Zeptat se paní doktorky Štěrbové na příspěvek do sborníku Transitorius mundus 📅 2026-10-31
 - [ ] Rozhodnout, co s teoretickými kartami Anki z Přehledovky (dr. Pech)
-- [ ] Rozhodnout o předplatném Behind the Masterpiece → [[kontext-ukolu#Behind the Masterpiece]]
+- [ ] Vybrat termín výletu Frankfurt – Paříž – Londýn (výstavy končí 17. 1. 2027) → [[resources/mista-k-navstiveni]]
+- [ ] Projít audit webu a zdokumentovat systémy kurzů LC English → [[web-lcenglish-audit-261024]], [[kontext-ukolu#Weby mimo WordPress]], [[kontext-ukolu#Dokumentace systémů LC English]]
+    - Kontext: sloučeno 261024 (weekly review): audit webu a dokumentace systémů kurzů jsou jeden velký projekt, běží v samostatném vlákně.
+- [ ] Nechat Claudem prozkoumat Email Marketing Heroes → [[kontext-ukolu#Email Marketing Heroes]]
+- [ ] Prozkoumat, jak v Dripu vylepšit odhlašovací stránku → [[kontext-ukolu#Odhlašovací stránka Drip]]
+- [ ] Projít s Claudem údržbu webu lenkadvorakova.cz
+    - Kontext: přesunuto ze someday 261024 (weekly review), aby se nezapomnělo. Web je brána ke všem projektům a vizitka. Navazuje na audit webu LC English, který běží v samostatném vlákně.
 
 
 ```tasks
@@ -68,7 +75,6 @@ sort by path
 ```
 
 ## @telefon
-- [ ] Otestovat ikonku Zápisníku na ploše a vybrat: brain dump, nebo zápisník → [[kontext-ukolu#Zápisník z telefonu]]
 
 ```tasks
 not done

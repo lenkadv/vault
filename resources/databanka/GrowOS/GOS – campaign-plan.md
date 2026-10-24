@@ -6,6 +6,7 @@ rok: 2026
 pro:
   - lcenglish
   - tadylenka
+  - digistart
 tema:
   - marketing
 pouzij_kdyz: "Plan a cross-channel marketing campaign before a single asset gets written: a launch, a promo-sale, an evergreen push, or a webinar."
@@ -27,3 +28,8 @@ soubor: "vault/GrowOS/.claude/skills/campaign-plan/SKILL.md"
 [Otevřít SKILL.md](<file:///G:/Můj disk/vault/GrowOS/.claude/skills/campaign-plan/SKILL.md>)
 
 Poznámky z použití:
+
+
+## Poznámky z použití
+
+- 261024 (weekly review): Lenka chce vyzkoušet na kampani LCEnglish i DigiStart; úkoly v [[lcenglish-10x-english-sales-page]] a [[digistart]].

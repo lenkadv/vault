@@ -2,7 +2,7 @@
 
 **Oblast:** [[areas/ai-nastroje]]
 **Založeno:** 260926
-**Stav:** aktivní — 1.1 hotová 261004
+**Stav:** aktivní — 1.1 hotová 261004; 261024 (weekly review) zrušen úkol Humanize Writing z AI Black Magic (Lenka: společné psaní je dost lidské, potřeba není), další krok = marketingový kurz (souvisí s Email Marketing Heroes na tabuli)
 
 ## Cíl
 
@@ -13,8 +13,6 @@ Tempo: ochutnávky po 30–45 min se Claudem.
 ## Postup
 
 - [x] Ochutnávka 1.1 — `marketing-strategy` ✅ 2026-10-04 — porada pro lcenglish → nový plán do ledna 2027; verdikt „jen s převodem do GTD“ (Databanka [[GOS – marketing-strategy]])
-- [ ] Projít plugin Humanize Writing z AI Black Magic #next-action #online
-    - Kontext: AI Black Magic (trial skončil, vše potřebné staženo, 261004): prozkoumat plugin **Humanize Writing** — stáhnout a rozbalit, vybrat skilly pro vault; projít newsletterové a obsahové prompty a uložit použitelné do `resources/`; Lenka z výběru určí, čím začneme. Zadání „navaž na AI Black Magic“. Přehled: [[AI Black Magic – přehled knihovny 260927]]. **Kandidáti z knihovny (261011, 144 ze 147 poznámek v `resources/databanka/AI Black Magic/` je „neprozkoumáno“): Humanize, Course Creator, Automate Personal Busy Work** — projít jako první 2–3. Dělat v příštím bloku ochutnávek (FB reklamy se zkouší v rámci [[lcenglish-10x-english-sales-page]])
 - [ ] Vybrat s Claudem první marketingový kurz k projití #next-action #online
     - Kontext: Projít marketingové kurzy z [[kurzy-marketing]] s Lenkou — postupně, nejdřív ten nejaktuálnější; cíl: vytěžit pro psaní e-mailů, webinářových sekvencí, prodejních stránek a reklam (Lenka 261004: rozhodně chceme; 261011 přesunuto z hlasových profilů, odpočinek od marketingu zrušen, opatrný návrat)
 - [ ] 1.2 `strategy-offer` (návrh: školení/konzultace jako produkt s balíčky)

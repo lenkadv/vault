@@ -53,7 +53,7 @@ ohýbá (2× Co vidíš v slotech 2–3, pak Všichni svatí na svátek).
 ## Aktuální stav
 
 Poslední Substack: 28. 9. 2026 (Svatí mezi námi: Václav, díl #2). Poslední IG carousel: 13. 7. 2026 (Bastille Day).
-**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Díl #1 (**Eva**) vyšel 21. 9. (o 3 dny později než plán 18. 9.). Díl #2 (**Václav**, přehozený z Mr and Mrs Andrews kvůli svátku) vyšel 28. 9. Další výstup = díl #3 (memento mori / vanitas): v pátek 16. 10. nevyšel, nový termín pondělí 19. 10. 2026 (blok 15:00–17:00), rozhodnuto 261016. Díl #4 (stigmata) zůstává na 30. 10.
+**Restart 260909:** nová páteř + úklid content-banku, runway naházená (viz nahoře). Díl #1 (**Eva**) vyšel 21. 9. (o 3 dny později než plán 18. 9.). Díl #2 (**Václav**, přehozený z Mr and Mrs Andrews kvůli svátku) vyšel 28. 9. **261024 (weekly review):** od 28. 9. nic nevyšlo. Další výstup = jeden díl na konec října, memento mori nebo stigmata (oba sedí k Dušičkám a Všem svatým); rozhoduje se při psaní, hlavní je, aby něco vyšlo. Potřebuje blok v kalendáři.
 
 ## Kadence (rozhodnuto 260507, upřesněno 260804, přepsáno 260909)
 
@@ -109,8 +109,8 @@ IG carousel je od 260909 pozastavený. Tohle je reference pro chvíli, až se ro
 
 ## Další kroky
 
-- [ ] Vybrat termín a napsat díl #3 memento mori / vanitas (Co vidíš) #next-action #online
-    - Kontext: Připravit a publikovat díl #3 — **memento mori / vanitas** (Co vidíš), termín zatím bez data (261018 weekly review: tadylenka tento týden nemá prioritu, pondělní blok zrušen; termín vybere Lenka; díl #4 stigmata 30. 10. se pak posune)
+- [ ] Napsat a vydat díl na konec října: memento mori, nebo stigmata #next-action #online
+    - Kontext: 261024 (weekly review, Lenka): důležité je, aby něco vyšlo; oba náměty se hodí ke konci října (Dušičky, Všichni svatí), který z nich, se rozhodne při psaní. Na psaní je potřeba blok v kalendáři, domluvit při plánování týdne. Druhý námět zůstává v runway na další slot.
   - 260926 (weekly review): ambice stihnout 2. 10.; blok na psaní se plánuje na týden 28. 9.–2. 10. v sekci Priority weekly review. Když vydání v pátek nevyjde, přijatelné je i po víkendu.
 
 - [ ] Přepsat uvítací příspěvek „Dějiny umění: v nejlepších letech“ (27. 3. 2026) vlastním hlasem. Dnešní text je převzatý z AI (mission statement, odrážky „Interpretace / Dialog / Zpomalení“). Claude může navrhnout verzi podle `GrowOS/tadylenka/brain/voice.md` (260929). Není spěšné, bez next-action.
