@@ -2,6 +2,10 @@
 
 > Historie a podrobnosti k úkolům z [[next-actions]] a [[waiting-for]], které nemají projektový soubor. Úkol sám je tam jedna krátká věta; tady je, co k němu patří (Lenka 261020). U projektových úkolů patří kontext do projektu.
 
+## Zápisník z telefonu
+
+Zápisník = projekt „Zápisník“ v aplikaci Claude. Co se tam namluví, uloží se přes konektor Google Drive jako .md do `inbox/telefon/` a nic se nespouští (funguje, test z telefonu 261024). Instrukce projektu: [[zapisnik-instrukce]]. Zbývá: (1) ikonka na ploše, která otevře přímo vlákno Zápisníku (iPhone: Zkratky → Otevřít URL; Android: Chrome → Přidat na plochu; adresa vlákna claude.ai/chat/…), (2) rozhodnout, jestli vyhovuje víc brain dump (zpracuje hned) nebo zápisník (jen uloží). Po rozhodnutí: zapsat postup do CLAUDE.md (Zachytávání) a přidat kontrolu `inbox/telefon` do /daily-plan a weekly review (261024).
+
 ## Andrew Graham-Dixon (test do 31. 10.)
 
 Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, že místo toho můžu příjemně pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix). **Test do 31. 10.:** pokud se za říjen podívám aspoň na 2–3 věci, vyplatí se roční studentské předplatné (cca 20 GBP; měsíční video pro členy, archiv dokumentů, Zoom přednášky; https://www.andrewgrahamdixon.com/). Ne po japonštině, hlídat oči. Vyhodnotit při weekly review kolem 31. 10. (261011: položka ze someday-maybe sem sloučena, tady je jediné místo) **Stav 261018 (weekly review): zatím se nedívala ani jednou; připomínky od Clauda nepřicházely.**

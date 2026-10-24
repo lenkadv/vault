@@ -1,0 +1,1 @@
+Zkouška zápisníku, tohle je testovací myšlenka.

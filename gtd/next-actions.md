@@ -67,7 +67,7 @@ sort by path
 ```
 
 ## @telefon
-
+- [ ] Otestovat ikonku Zápisníku na ploše a vybrat: brain dump, nebo zápisník → [[kontext-ukolu#Zápisník z telefonu]]
 
 ```tasks
 not done
