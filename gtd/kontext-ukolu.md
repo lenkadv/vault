@@ -12,7 +12,7 @@ Večer u počítače (pracuji, otevírám další úkol): Claude mi připomene, 
 
 ## italki, němčina
 
-italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.; orientační termín pro sebe, nic se nezavírá, klidně se posune — Lenka 261017). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]] — 261018: neobjednávat hned, Lenka chce mít prostor na přípravu; nízká priorita, případně posunout
+italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí) na termín za 10–14 dní, tedy zhruba 15.–19. 10. (dnes 5. 10.; orientační termín pro sebe, nic se nezavírá, klidně se posune — Lenka 261017). Po objednání založit úkol na přípravu: den předtím s Claudem připravit, co v hodině řeknu (jako 5. 10. Lukrécie), a do kalendáře zapsat termín hodiny → [[deutsch]] — 261018: neobjednávat hned, Lenka chce mít prostor na přípravu; nízká priorita, případně posunout — 261024: posunuto na neděli 1. 11. (Lenka)
 
 ## Paní doktorka Štěrbová, sborník Transitorius mundus
 
@@ -25,3 +25,7 @@ Lenka 261020: obrázky má dohnané až po dnešní přednášku (19. století),
 ## AI Strategist (Danny Iny)
 
 Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].
+
+## Behind the Masterpiece
+
+Substack o dějinách umění (https://behindthemasterpiece.substack.com/), Lence se z uměleckých Substacků líbí nejvíc; i bezplatný náhled považuje za velmi hodnotný a zvažuje autorku podpořit předplatným (Lenka 261024). Placené předplatné podle autorky „za pár dolarů měsíčně“ (přesnou cenu jsem neověřovala) přidává slovník dějin umění, hloubkové série, Q&A se čtenáři a možnost psát jí s dotazy a tipy na muzea. Ve svodce se od 261024 shrnuje podrobně → [[resources/postupy/svodka]].
