@@ -34,6 +34,7 @@ Shrň odpovědi v jedné větě a pokračuj.
 | **2. Klasický Outlook v počítači + skript** | Windows, klasický Outlook (jakýkoli účet v něm přidaný) | PowerShell, Outlook (classic) | skript neodesílá | Bez správce a bez cloudu; netýká se „nového Outlooku“ |
 | **3. Propojení přes Microsoft Graph (MCP server)** | technicky zdatnější, i osobní Microsoft | registrace aplikace, Claude Code | omezeno oprávněními | Nejflexibilnější, nejvíc kroků |
 | **4. Gmail** | Gmail / Google Workspace | konektor v AI nástroji | záleží na nastavení | pro úplnost; viz „Cesta d: Gmail“ níže |
+| **5. Seznam (IMAP)** | adresa na seznam.cz, email.cz, post.cz | Claude Code, Node.js, heslo pro aplikace | server bez odesílání | viz „Cesta e: Seznam“ níže; ověřeno 24. 10. 2026 |
 
 **Rozhodovací pravidla:**
 - Pracovní/školní účet (1a) **a** správce souhlasí → cesta 1.
@@ -88,6 +89,14 @@ Pokud kroky 1 až 3 přesahují schopnosti nebo čas uživatelky, vrať se k ces
 
 ### Cesta d: Gmail
 V Claude je k dispozici konektor Gmail (čtení, koncepty; odesílání je samostatný nástroj, který lze nechat vypnutý / vyžadovat potvrzení). V ChatGPT aplikace Gmail. Postup přidání je stejný: *Konektory → Gmail → přihlášení → oprávnění → test (krok 5)*.
+
+### Cesta e: Seznam (IMAP), Claude Code
+Ověřeno 24. 10. 2026 na testovací schránce (přihlášení, čtení, koncept do Rozepsaných).
+1. Seznam nemá konektor pro Claude ani ChatGPT. Pošta jde číst přes IMAP: server `imap.seznam.cz`, port 993, SSL. IMAP je na Seznamu vždy zapnutý, v nastavení se nic nepřepíná.
+2. Heslo: když má uživatelka zapnuté dvoufázové ověření, vytvoří si **heslo pro aplikace** (Seznam účet → Zabezpečení účtu → Dvoufázové ověření → Heslo pro aplikace). Bez dvoufázového ověření funguje běžné heslo k účtu, ale pak soubor s heslem dává přístup k celému účtu. Proto je lepší heslo pro aplikace. Návod Seznamu: <https://o-seznam.cz/napoveda/ucet/en/dvoufazove-overeni/postovni-programy/>
+3. Do Claude Code se přidá MCP server, který umí jen číst a psát koncepty, např. IMAP Mini MCP (<https://github.com/florianbuetow/imap-mini-mcp>, odesílat neumí). Heslo patří do samostatného souboru mimo sdílené složky, ne do chatu.
+4. Pak zkouška (krok 5).
+Pro uživatelku je postup krok za krokem v `04-skill-maily/NAVOD-seznam-posta.md` (včetně instalačního promptu a zkoušek). Pokud je to na ni moc kroků, zůstaňte u cesty 0.
 
 ## Krok 4: Nastavení bezpečnosti (vždy, v každé cestě)
 

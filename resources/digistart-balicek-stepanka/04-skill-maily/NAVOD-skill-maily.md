@@ -12,6 +12,7 @@
 |---|---|
 | `skill/koncepty-odpovedi/SKILL.md` | skill: roztřídění pošty, koncepty, tvrdá pravidla, učení z úprav |
 | `skill/koncepty-odpovedi/references/pruvodce-propojeni-mailu.md` | **průvodce propojením vašeho e-mailu** (Outlook, Gmail, jiné) s AI; obecný, nezávislý na konkrétní osobě |
+| `NAVOD-seznam-posta.md` | **pošta na Seznamu** (seznam.cz, email.cz, post.cz): propojení s Claude krok za krokem, i s dvoufázovým ověřením |
 
 ## Dvě základní věci, které stojí za pozornost
 
