@@ -59,7 +59,8 @@ sort by due
     - Kontext (261024): rozcestník je hotový → [[lcenglish-ekosystem]]. Doplňovat do něj.
 - [ ] Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B 📅 2026-10-25 → [[drip-lcenglish-uvitani]]
     - Kontext (261024 23:00): přepsáno podle dossieru EMH 008, karty v review: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `overture-b-mail-6.md`. Po schválení Claude postaví Overture C v Dripu.
-- [ ] Smazat testovací kontakty v Dripu (`+pptest-261024`, `+shadowtest2-261024`) a ve Firestore `preregistered/…shadowtest2…` → [[drip-lcenglish-uvitani]]
+- [ ] Smazat testovací kontakty v Dripu (`+pptest-261024`, `+shadowtest2-261024`) → [[drip-lcenglish-uvitani]]
+    - Kontext (261024 23:06): na nic dalšího nejsou potřeba. Firestore už Lenka smazala, Leadpages leady zůstávají (nevadí).
 - [ ] Postavit s Claudem v Dripu vagón A (HELE) po uvítání → [[drip-lcenglish-uvitani]]
     - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
     - Kontext (261024 23:00): po převodu z Elementoru /hele/ vypadá špatně (patička vybíhá, velké písmo) → nejdřív stránka v Leadpages (úkol níže).
