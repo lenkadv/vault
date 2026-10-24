@@ -4,6 +4,9 @@ Sem patří vše, co potřebuješ zachytit. Zpracuješ, až budeš u počítače
 
 ---
 
+- [ ] Projít weby lenkadvorakova.cz a lcenglish.cz a případně aktualizovat PHP (brain dump 261024)
+    - Kontext: navazuje na someday „Údržba webu lenkadvorakova.cz / lcenglish.cz“ ([[someday-maybe]], 261018). Kontrola 261024 curlem: oba weby jsou WordPress za nginx, verzi PHP skrývají, zjistit ji jde jen v administraci hostingu nebo ve WordPressu (Nástroje → Stav webu). Kde weby hostují, ve vaultu zapsané není. fapipi.lenkadvorakova.cz běží na nginx 1.14.2 (verze z roku 2018); server spravoval Vítek, takže tam spíš otázka na něj.
+
 
 ## 📖 Knihy k zapsání do Notion „Book Recommendations“ (dávka při weekly review, krok Note Inbox review)
 
