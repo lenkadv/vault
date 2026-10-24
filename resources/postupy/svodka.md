@@ -31,7 +31,7 @@ Gmail `lnk.dvorakova@gmail.com`: záložky **Promo akce**, **Aktualizace** a hla
 
 1. **Vyžaduje pozornost**
 2. **Hlavní body dne** (nebo „dnů“, podle období) — 3–5 bodů
-3. **Umělá inteligence** — zprávy i praktické tipy (obojí). Po jednotlivých newsletterech.
+3. **Umělá inteligence** — zprávy i praktické tipy (obojí). Po jednotlivých newsletterech. **Od 261024 u každého newsletteru v nadpisu štítek z [[newslettery-ai]]** (např. „AI Inner Circle · Zprávy“), ať Lenka ví, kdo je kdo. Nový AI odesílatel, který v tabulce není → doplnit do tabulky se štítkem a návrhem.
 4. **Umění a dějiny** — po newsletterech (Art History News, Guardian, NG London, Kunsti, Výstavník…)
 5. **Marketing a psaní**
 6. **Česko a svět** — krátce; podcasty drobným písmem na konci stačí
@@ -65,6 +65,9 @@ Délka: při denní svodce stačí kratší — hlavní je souvislý text, ne se
 | **Email Marketing Heroes** | Už chodí jen na jednu adresu. |
 | **Kunsti Radar** (každých 14 dní, přehled výstav po celé Evropě) | Od 261005 **vždy `Svodka/uchovat`, nikdy mazat**: Lenka z něj při plánování cest hledá, co kde ještě trvá (starší čísla už dříve začaté výstavy nepokrývají). Ve svodce zmínit výstavy (hlavně Paříž, Řím, Vídeň, Londýn) a nové zajímavé zapsat do [[resources/mista-k-navstiveni]] jen na pokyn. |
 | **Vodafone vyúčtování** | Platí se inkasem (Lenka 261005) → neuvádět ve „Vyžaduje pozornost“, jen jednou větou jako informaci v hlavních bodech; mail `Svodka/smazat` (PDF není třeba). |
+| **Sunny Lenarduzzi** | Lenka 261024: odebírala kdysi, roky se neozvala, teď nerelevantní → **kandidát na odhlášení** (oddíl „Kandidáti na odhlášení“, odhlásí Lenka). Mail `Svodka/smazat`. |
+| **Novinky AI jen pro USA** (Claude Duet, Grok Bot apod.) | Lenka 261024: dokud nejsou dostupné v Evropě, nejsou pro nás aktuální → jednou větou s poznámkou „zatím jen USA“, nerozvádět. |
+| **Wilco de Kreij (GrowOS, Grow On Repeat)** | Lenka 261024: maily má ráda jako inspiraci, co s AI jde, ale ne vždy jim rozumí. Hlavní mail (tip, postup) **číst podrobně a vysvětlit, co tím myslí a co z toho můžeme udělat my**, ne jen shrnout. Užitečné postupy do Databanky (`resources/databanka/Grow On Repeat/`), mail pak `Svodka/uchovat`, pokud v poznámce není přímý zdroj. |
 
 ## Úklid schránky po svodce (štítek Svodka/uchovat)
 
@@ -154,6 +157,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 22 | 20. 10. 14:10 – 21. 10. 10:50 | 29 vláken; 4× Vyžaduje pozornost (HOSTINGSOLUTIONS záloha 202601198 za hosting lcenglish.cz 1 081,74 Kč, splatnost 10. 11.; Portu kontrola údajů podle AML; Renata odpověděla na A4E #27; Danny Iny pre-training den 2), Portu a Danny Iny přesunuty do Primary; 24 vláken `Svodka/smazat`, `Svodka/uchovat` Mollick (Co-Existence) a Danny Iny; bez štítku HOSTINGSOLUTIONS, Portu, Renata; Artlust 19. 10. patřil do č. 21 |
 | 23 | 21. 10. 10:50 – 22. 10. 12:30 | 21 vláken; 2× Vyžaduje pozornost (Renata znovu: jaký seriál, 100 vět a shadowing, „stará na techniku“; Danny Iny Prompt 2 Deep Identity Mapping, přesunuto do Primary); 15 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny; bez štítku Renata, Štěpánka (Fw AI Institute), HOSTINGSOLUTIONS daňový doklad, připomínka DPH, ÚDU přednáška 4. 11.; Lenka: History of Women (Sleeping Beauty) přeřazen na `Svodka/uchovat`, Schjerfbeck do content banky |
 | 24 | 22. 10. 12:30 – 23. 10. 11:45 | 31 vláken; 2× Vyžaduje pozornost (Danny Iny Prompt 3 Install Your AI Operating System, přesunuto do Primary; Renata: týden mimo, seriály zkusí, jen info); 27 vláken `Svodka/smazat`, `Svodka/uchovat` TRIH (Arthurian Recommendations, žádné knihy do omnibusu: prameny a romány) a Danny Iny; bez štítku Renata, Knihobot watchdog |
+| 25 | 23. 10. 11:45 – 24. 10. 13:20 | 36 vláken (pátek odpoledne a sobota); 2× Vyžaduje pozornost (Evident: místnost na Evropské, kterou upřesní, stejní účastníci, angličtina; TidyCal: zrušená rezervace „Konzultace“ na Štěpánčině stránce 8. 11., nejspíš Lenčin test, přesunuto do Primary); 31 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny ×2 a Wilco „my favorite AI trick“ (rozbor v Databance, Lenka 261024); Lenka 261024: Evident odpověď konceptem, podklad [[evident-skoleni-261111]]; TidyCal test → úkol v [[digistart]]; Hokusai v Dulwich do [[resources/mista-k-navstiveni]]; bez štítku Evident, TidyCal; Artnet jen titulky, články neotevřeny |
 
 ## Publikace
 

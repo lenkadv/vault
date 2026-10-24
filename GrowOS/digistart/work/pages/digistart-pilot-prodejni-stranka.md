@@ -4,12 +4,12 @@ headline: Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás.
 skill: landing-page-write
 arc: mechanism
 id: 08nsvlhil6
-status: draft
+status: changes
 business: digistart
 channel: pages
 created: 2026-10-17
-note: čekáme na Štěpánku, možná zpracovat verzi s ponaučením z GrowOS
-kanban_order: V1
+note: "261024 - už jsme se posunuli dál k verzím B2 a B3, tohle je asi už passé? (Starší poznámka: čekáme na Štěpánku, možná zpracovat verzi s ponaučením z GrowOS)"
+kanban_order: V2
 ---
 
 # DigiStart pilot: prodejní stránka (text, struktura, směr vzhledu)

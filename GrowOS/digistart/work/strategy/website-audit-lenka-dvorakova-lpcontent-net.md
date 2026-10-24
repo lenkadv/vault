@@ -1,16 +1,17 @@
 ---
 type: website-audit
-headline: "Audit stránky B3 — 69/100"
+headline: Audit stránky B3 — 69/100
 skill: website-audit
-url: "https://lenka-dvorakova.lpcontent.net/iYfYzG6Yg_"
+url: https://lenka-dvorakova.lpcontent.net/iYfYzG6Yg_
 mode: own-site
 score: 69
 id: jmfvwe1thi
-status: review
+status: changes
 business: digistart
 channel: strategy
 created: 2026-10-21
-note: ""
+note: nevím, proč je tohle tady, nevím, co na tom kontrolovat
+kanban_order: V3
 ---
 
 # Audit stránky B3 — 69/100
