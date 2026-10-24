@@ -14,6 +14,9 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Smazat s Claudem plugin Elementor a archivní koncepty na lcenglish.cz, pokud web běží bez potíží 📅 2026-10-28
+    - Kontext: Elementor vypnutý 261024 22:40, zatím nesmazaný kvůli rychlému návratu (Lenka: smazat za pár dní). Seznam konceptů v [[resources/web-lcenglish/mapa-webu]].
+
 - [ ] Rozhodnout, jestli ponechat tarif Claude Max, nebo ho před obnovením 24. 11. zrušit 📅 2026-11-17
     - Kontext: Lenka přešla na Max (Zápisník 261024 16:06). V Google Kalendáři připomínka 24. 11. 9:00 s notifikací týden předem.
 

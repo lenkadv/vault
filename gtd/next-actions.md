@@ -75,7 +75,6 @@ sort by due
     - Kontext (261024): zpráva poslaná, Vítek odpověděl ke Shadowloopu (vyřešeno), fapipi (dokumentace v repozitáři) a oslovení (repozitář jmena). Zbývá server a webhook.
     - Kontext (Lenka 261024): až na závěr, po ověření testem (`lnk.dvorakova+pptest-261024@gmail.com`). Chceme kopii skriptu (Google Apps Script, webhook Dripu 119864) nebo přístup k místu, kde běží. Zprávu připraví Claude, posílá se přes Signal, ne e-mailem.
     - Kontext: sloučeno 261024 (weekly review): audit webu a dokumentace systémů kurzů jsou jeden velký projekt, běží v samostatném vlákně.
-- [x] Nechat Claudem prozkoumat Email Marketing Heroes → [[email-marketing-heroes]] ✅ 2026-10-24
 - [ ] Projít s Claudem údržbu webu lenkadvorakova.cz
     - Kontext: přesunuto ze someday 261024 (weekly review), aby se nezapomnělo. Web je brána ke všem projektům a vizitka. Navazuje na audit webu LC English, který běží v samostatném vlákně.
 

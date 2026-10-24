@@ -1,0 +1,55 @@
+# Mapa webu lcenglish.cz
+
+**Oblast:** [[lcenglish]] · **Založeno:** 261024 (Claude, při přestavbě webu) · **Souvisí:** [[web-lcenglish-audit-261024]], [[kontext-ukolu#Weby mimo WordPress]], [[hele-funnel]]
+
+Co kde na webu je, z čeho je postavené a co na to vede. Aktualizovat vždy, když přibude nebo zmizí stránka, formulář nebo odkaz z reklamy či e-mailu. „Odhad“ = neověřeno.
+
+## Hlavní stránky (menu a patička)
+
+| Adresa | Co to je | Postaveno | Co na to vede |
+|---|---|---|---|
+| `/` | Hlavní stránka (fotka, loga, čísla, o mně, 6 nejnovějších článků) | bloky WordPressu (Kadence) | menu Home, logo, patička Homepage |
+| `/blog/` | Seznam článků s filtrem (pokročilost, dovednost, hledání) | Kadence + doplněk `lce-blog-filtr.php` | menu Blog, patička |
+| `/kurzy/` | Přehled 3 kurzů s odkazy na prodejní stránky | bloky WordPressu | menu Kurzy |
+| `/contact/` | Kontaktní formulář (Fluent Forms č. 1 → e-mail na lnk.dvorakova@gmail.com) | bloky WordPressu | menu Kontakt, patička |
+| `/privacy-policy/` | Ochrana osobních údajů | editor bloků | patička, formuláře Dripu |
+| `/obchodni-podminky/` | Obchodní podmínky | editor bloků | patička |
+
+## Prodej (cesta zákazníka)
+
+| Kurz | Prodejní stránka | Objednávka | Po zaplacení |
+|---|---|---|---|
+| 10x ENGLISH | `/10x-english/` (Leadpages `Ytf0hlJeNc`, vkládá plugin Leadpages) | tlačítka vedou rovnou na formulář FAPI (`form.fapi.cz`) | FAPI → fapipi → Drip, Shadowloop, FreshLearn ([[hele-funnel]]) |
+| Nepravidelná slovesa za 14 dní | `/irregular/` (Leadpages, plugin Leadpages) | **5 tlačítek vede na `/irregular-cho/`** = objednávková stránka s formulářem FAPI (790 Kč) a 3 referencemi, z bloků WordPressu (od 261024, ID 7433, bez hlavičky a patičky, noindex) | FAPI → fapipi |
+| Angličtina s příběhem (HELE) | `/hele/` (bloky WordPressu od 261024, ID 7436, tlačítka na `/hele-checkout/`) | (řeší se v samostatném vlákně, HELE je v someday) | FAPI → fapipi (segment `hele`) |
+
+Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní stránka.
+
+## Mimo WordPress (jen nasměrovaná subdoména)
+
+| Adresa | Co to je | Kde běží |
+|---|---|---|
+| `kurzy.lcenglish.cz` | kurzy pro kupující | FreshLearn |
+| `shadowloop.lcenglish.cz` | aplikace Shadowloop | Google Firebase (`shadowloop-firebase`) |
+| `fapipi.lenkadvorakova.cz` | automatika po zaplacení (FAPI → Drip, Shadowloop, FreshLearn) | server kybersquat.cz (MasterDC) |
+| `staging.lcenglish.cz` | zkušební kopie webu (neindexovaná, bez měření) | stejný hosting |
+
+## Bývalé stránky Elementoru (od 261024 Elementor vypnutý)
+
+| Adresa | Co to je | Stav 261024 |
+|---|---|---|
+| `/uprava/`, `/thank-you/` | prázdná „Správa osobních informací“, staré poděkování 2022; odkazy nenalezeny | v konceptech (404) |
+| `/anglicky-za-tyden/`, `/anki-navod/` | 2 připnuté články | editor bloků (obsah beze změny) |
+| `/hele-sp/` 7438, `/hele-ew-sp/` 7439, `/hele-ew-reg/` 7443 (WebinarKit), `/hele-ew-ty/` 7444, `/hele-ew-replay/` 7445, `/hele-checkout/` 7446 (FAPI), `/hele-checkout-ew/` 7447 (SimpleShop, mrtvé) | stránky HELE z 2022 | bloky WordPressu, bez hlavičky a patičky, vzhled třída `lce-lp` v `lce-blog-filtr.php`; kromě `/hele-sp/` noindex; řeší se s HELE |
+| `/shakespeare-mail/` 7448 | Den angličtiny (2022) | bloky, noindex; asi smazat |
+| koncepty: stará /hele/ 7119, xDemo ×4, landing #707 a #3089, archivní Home/Kurzy/Kontakt/Irregular ChO, staré vstupní stránky Elementoru | — | smazat po čase spolu s pluginem Elementor |
+
+## Drip na webu
+
+- Sledovací kód Dripu (účet 2094497) na všech stránkách WordPressu.
+- 84 formulářů Dripu, většinou vyskakovací okna u konkrétních článků (seznam v Dripu, každý má adresu článku).
+- Dvě okna nemají omezení na stránky (zobrazují se kdekoli): „Chcete ode mne dostávat angličtinářské tipy e-mailem?“ (ID 37175075, 2022) a „Welcome to Lights Camera English! … přepis videa“ (ID 663641640, 2018). Odhad: to druhé je zastaralé, prověřit.
+
+## Měření (všechny stránky WordPressu)
+
+Doplněk `wp-content/mu-plugins/lce-mereni.php` (kopie [[resources/web-lcenglish/lce-mereni.php]]): Meta pixel 552638212929820, Google Tag Manager GTM-W7T2DNRP, GA4 G-TPM0Q6YT3M, Google Ads AW-969557192, Sklik. Leadpages stránky mají pixel ve vlastní hlavičce, nákup měří FAPI.
