@@ -118,7 +118,7 @@ the answer you wrote is never used.
   channel, whatever anyone writes here.
 
 ### Other tools
-- Consultation booking: TidyCal (Lenka's choice, 2026-10-14). Destination id: [PLACEHOLDER: not set up for DigiStart]. How it connects to Štěpánka's calendar is open.
+- Consultation booking: TidyCal, Štěpánka's own account (ulicna@gnostika.cz). **Booking link: https://tidycal.com/ulicna/digistart** (Lenka 2026-10-24; the older slug /ulicna/konzultace now redirects). Every consultation button on every sales page variant (B2, B3 and any new one) links here directly, from the first draft.
 - Selling, invoicing: GNOSTIKA (Fakturoid), fallback Lenka's FAPI, decision due 21 October 2026. Destination id: [PLACEHOLDER].
 
 ## How far GrowOS may go
