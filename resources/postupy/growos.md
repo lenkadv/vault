@@ -61,6 +61,21 @@ Platí pro **všechno, co Claude pro GrowOS byznysy vyrábí** (lcenglish, tadyl
 6. **Po skutečném vydání** Claude ověří a posune `approved → published`; aktualizuje projekt ve vaultu (Aktuální stav, next-action advancement).
 7. **Lekce:** porovnat commit z bodu 2 se schválenou verzí, opakující se úpravy do `brain/lessons/`.
 
+### Jak pracovat s kartou na nástěnce (pro Lenku, 261024)
+
+Nástěnka: [[GrowOS fronta.base]], pohled „Nástěnka“. Sloupce = stav karty.
+
+1. **Otevři kartu** (klik). Uvidíš text a pole **Tvoje poznámka**. Pokyn pro Clauda piš do poznámky, ne do textu mailu.
+2. **Drobnosti oprav rovnou v textu.** Claude je převezme a zapíše si z nich poučení, nic dalšího nemění.
+3. **Posuň kartu:**
+   - **approved** = beru to (i s mými úpravami). Jsou-li v kartě varianty, napiš do poznámky kterou („A“). Claude ostatní varianty vyřadí a připraví výstup ven.
+   - **changes** = chci, aby to Claude ještě přepsal. Do poznámky napiš co.
+   - **rejected** = nechci.
+4. **Kdy to Claude uvidí:** při denním plánu, při „zavírám“, nebo hned, když v kterémkoli vlákně napíšeš „koukni na frontu“. Kartu z changes po přepsání vrátí do **review**, takže hned vidíš, že je hotovo.
+5. **Ven to jde až po approved,** a jen tak daleko, jak je to v `setup.md` (u e-mailu v Dripu: Claude vloží v Chromu po tvém „ano“ v chatu, nebo ti dá text k vložení).
+
+Claude zakládá každou kartu s prázdným polem `note: ""`, aby šla poznámka vyplnit přímo v kartě.
+
 Starší rozpracované věci (Art for English do #27, DigiStart koncepty v Leadpages ze 17. 10.) se dodělávají po staru; nové vznikají už takto.
 
 ## Hybrid: vault GTD vs GrowOS work fronta
