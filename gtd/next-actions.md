@@ -59,8 +59,6 @@ sort by due
     - Kontext (261024): rozcestník je hotový → [[lcenglish-ekosystem]]. Doplňovat do něj.
 - [ ] Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B 📅 2026-10-25 → [[drip-lcenglish-uvitani]]
     - Kontext (261024 23:00): přepsáno podle dossieru EMH 008, karty v review: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `overture-b-mail-6.md`. Po schválení Claude postaví Overture C v Dripu.
-- [ ] Smazat testovací kontakty v Dripu (`+pptest-261024`, `+shadowtest2-261024`) → [[drip-lcenglish-uvitani]]
-    - Kontext (261024 23:06): na nic dalšího nejsou potřeba. Firestore už Lenka smazala, Leadpages leady zůstávají (nevadí).
 - [ ] Postavit s Claudem v Dripu vagón A (HELE) po uvítání → [[drip-lcenglish-uvitani]]
     - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
     - Kontext (261024 23:00): po převodu z Elementoru /hele/ vypadá špatně (patička vybíhá, velké písmo) → nejdřív stránka v Leadpages (úkol níže).
@@ -68,7 +66,11 @@ sort by due
     - Kontext (Lenka 261024): zatím provizorně, ať vypadá líp; i objednávkový formulář jako u Irregular. Do té doby /hele/ necháváme, jak je.
 - [ ] Smazat zkušební nákup Nepravidelných sloves (Simona Literová, simali@seznam.cz) → [[kontext-ukolu#Weby mimo WordPress]]
     - Kontext: postup v kontextu úkolu (FAPI, Drip, Shadowloop, schránka Seznam). Mazání dělá Lenka.
-- [ ] Doladit s Claudem web lcenglish.cz: posouvání písma na Kurzech a staré CSS po Elementoru → [[kontext-ukolu#Weby mimo WordPress]]
+- [ ] Doladit s Claudem web lcenglish.cz: posouvání písma na Kurzech a staré CSS po Elementoru 📅 2026-10-25 → [[kontext-ukolu#Weby mimo WordPress]]
+- [ ] Uklidit s Claudem zbytky na lcenglish.cz: dvě stará okna Dripu a zbytky zálohy na hostingu 📅 2026-10-25 → [[kontext-ukolu#Weby mimo WordPress]]
+    - Kontext: okna Dripu ID 37175075 (2022) a 663641640 (2018) se ukazují na celém webu; zamčené soubory `wp-content/updraft/plugins-old/elementor/`. Kopie staging.lcenglish.cz zatím zůstává.
+- [ ] Převést s Claudem publicspeaking.cz na přesměrování bez WordPressu 📅 2026-10-25 → [[web-lcenglish-audit-261024]]
+    - Kontext: běží na zastaralém WordPressu 6.2.14 jen kvůli přesměrování (audit 261024). Levnější tarif hostingu až potom.
 - [ ] Zeptat se Vítka na přístup na server 37.205.8.210 (fapipi, skript jmena) a k čemu je webhook Dripu 119864 (Apps Script) → [[lcenglish-ekosystem]]
     - Kontext (261024): zpráva poslaná, Vítek odpověděl ke Shadowloopu (vyřešeno), fapipi (dokumentace v repozitáři) a oslovení (repozitář jmena). Zbývá server a webhook.
     - Kontext (Lenka 261024): až na závěr, po ověření testem (`lnk.dvorakova+pptest-261024@gmail.com`). Chceme kopii skriptu (Google Apps Script, webhook Dripu 119864) nebo přístup k místu, kde běží. Zprávu připraví Claude, posílá se přes Signal, ne e-mailem.
