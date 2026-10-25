@@ -81,6 +81,7 @@ Ustáleno 260927, ladí se za pochodu. Cíl: Lenka většinu mailů maže, ale n
 3. **Claude označí zbytek období štítkem `Svodka/smazat`** (Gmail ID `Label_90`) — všechny newslettery, promo a notifikace z Promo akcí a Aktualizací za období svodky, které nemají `Svodka/uchovat`. **Neoznačovat** transakční a úřední maily (Lenka 260927):
    - probíhající objednávky a reklamace (Kaufland apod.) → nechat,
    - bankovní avíza (Air Bank) → neoznačovat; Lenka jen rychle mrkne, jestli tam není něco divného, a smaže sama,
+   - **měsíční výpis z účtu Air Bank** (Private i Business, chodí 1.–2. v měsíci, zaheslovaný) → do **Vyžaduje pozornost**: „odheslovat a uložit do `Finance\Výpisy Air Bank\YYYY\`“, podklad pro DPH ([[resources/postupy/dph]], od 261025); neoznačovat,
    - účtenky (Stripe, Google Play) → nemazat,
    - bezpečnostní upozornění (GitHub apod.) → nemazat,
    - pošta, datová podání, shrnutí lekcí (italki) → nechat Lence.
@@ -158,6 +159,7 @@ Slevy na vstupné do muzeí ve svodce nezmiňovat, Lenka má ICOM (261003). Nám
 | 23 | 21. 10. 10:50 – 22. 10. 12:30 | 21 vláken; 2× Vyžaduje pozornost (Renata znovu: jaký seriál, 100 vět a shadowing, „stará na techniku“; Danny Iny Prompt 2 Deep Identity Mapping, přesunuto do Primary); 15 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny; bez štítku Renata, Štěpánka (Fw AI Institute), HOSTINGSOLUTIONS daňový doklad, připomínka DPH, ÚDU přednáška 4. 11.; Lenka: History of Women (Sleeping Beauty) přeřazen na `Svodka/uchovat`, Schjerfbeck do content banky |
 | 24 | 22. 10. 12:30 – 23. 10. 11:45 | 31 vláken; 2× Vyžaduje pozornost (Danny Iny Prompt 3 Install Your AI Operating System, přesunuto do Primary; Renata: týden mimo, seriály zkusí, jen info); 27 vláken `Svodka/smazat`, `Svodka/uchovat` TRIH (Arthurian Recommendations, žádné knihy do omnibusu: prameny a romány) a Danny Iny; bez štítku Renata, Knihobot watchdog |
 | 25 | 23. 10. 11:45 – 24. 10. 13:20 | 36 vláken (pátek odpoledne a sobota); 2× Vyžaduje pozornost (Evident: místnost na Evropské, kterou upřesní, stejní účastníci, angličtina; TidyCal: zrušená rezervace „Konzultace“ na Štěpánčině stránce 8. 11., nejspíš Lenčin test, přesunuto do Primary); 31 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny ×2 a Wilco „my favorite AI trick“ (rozbor v Databance, Lenka 261024); Lenka 261024: Evident odpověď konceptem, podklad [[evident-skoleni-261111]]; TidyCal test → úkol v [[digistart]]; Hokusai v Dulwich do [[resources/mista-k-navstiveni]]; bez štítku Evident, TidyCal; Artnet jen titulky, články neotevřeny |
+| 26 | 24. 10. 13:20 – 25. 10. 10:00 | 15 vláken (sobota odpoledne a neděle ráno); 1× Vyžaduje pozornost (Danny Iny přípravné čtení před AI Strategist, přesunuto do Primary); 10 vláken `Svodka/smazat`, `Svodka/uchovat` Danny Iny; bez štítku Anthropic účtenka (Max 5x, 82,46 €, doklad QRVMHXKX-0008 do DPH za říjen), GitHub pozvánka, HOSTINGSOLUTIONS, připomínka DPH; Artnet hlavní článek otevřen na webu; Lenka 261025: nic dalšího k vyřízení, námět Hugo a Notre-Dame z „Pro tvou práci“ do content banky |
 
 ## Publikace
 

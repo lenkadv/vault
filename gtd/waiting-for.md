@@ -25,7 +25,8 @@ sort by due
 - [x] Vzít s sebou přihlašovací údaje ke školnímu účtu KTF (na setkání s prváky v P8, 11:50; prezentace je nasdílená na školním účtu) 📅 2026-10-20 ✅ 2026-10-20
 - [ ] Reorganizace Disku: vrátit `#next-action` na úkol „Projít `01 PRIVATE` po položkách s Claudem“ v [[disk-reorganizace]] (odloženo z weekly review 261018) 📅 2026-11-02
 - [x] (261016: díl #3 nevyšel, nový termín po 19. 10. 15:00–17:00, blok v Todoist kalendáři přesunut) Pá 16. 10. odpoledne: vyhodnotit, jestli se stihl díl #3 tadylenky → [[tadylenka-publishing]]
-- [ ] DPH přiznání: podívat se spolu s Claudem, jak je dělat snadněji nebo je zautomatizovat. Anthropic účtenka Claude Pro (6. 10. 2026, QRVMHXKX-0007, 18 €) je i po žádosti o odstranění DIČ z 24. 9. **bez DPH** (reverse charge), takže měsíční přiznání zůstává; kromě toho se plánují kurzy DigiStart (možná přes Štěpánku, zatím nejasné), které přiznání ještě rozšíří. Zatím **neeskalovat** u podpory Anthropic, přiznání se vyplňují ručně (Lenka 261007). Vlákno podpory pro případ: [„VAT reverse charge removal“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1877248236423122264) Přiznání se dělá 25. 10. (261018: Lenka potvrdila, příští víkend). (Lenka 261011) 📅 2026-10-25
+- [ ] Odeslat přiznání k DPH za předchozí měsíc 🔁 every month on the 20th 📅 2026-11-20
+    - Kontext: výpisy Air Bank chodí 1.–2. do mailu, svodka na ně upozorní; Lenka odheslí a uloží, Claude připraví XML. Postup [[resources/postupy/dph]]. Za říjen: Anthropic Pro 18 € + přechod na Max 5x 82,46 € (doklad QRVMHXKX-0008).
 
 - [ ] Čekám na Evu Bendovou (KTF, Vizuální kultura): termín náhradní exkurze do Muzea literatury
     - Kontext: úterý 8. nebo 12. prosince; napsala 13. 10., že ještě potvrdí. Informace k nám dorazí, sami se neptáme (ani na exkurzi Čermák 24. 11., ta je v kalendáři od 13. 10., 12:30–15:00); Lenka 261024. Do kalendáře až po potvrzení.
@@ -47,6 +48,8 @@ sort by due
 - [x] **Zrušit Coursera Plus (7denní trial)** — **zrušeno 261009 (Lenka), přístup ke kurzům trvá do 11. 10.** Původní zadání: trial spuštěn 4. 10., zdarma do 11. 10. 2026, od 12. 10. strhne 49 USD měsíčně. Zrušit na https://www.coursera.org/my-purchases → Cancel subscription **nejpozději 10. 10.** (ideálně hned po posledním bloku Coursera v pá 9. 10.). Build Anything with AI je celý stažený a zapsaný (261004, [[coursera-build-anything-with-ai]]); jediný zbývající důvod trial držet je případný další kurz (AI Agent Skills for Leaders), rozhodnutí viz [[claude-academy]]. **Claude připomíná v denním plánu od 7. 10. a znovu 9. 10.** 📅 2026-10-10
 
 ## Čeká na někoho
+- [ ] Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28
+    - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
 - [ ] Čekám na Štěpánku Uličnou: založení portfolia DigiStart za GNOSTIKU a ID portfolia → [[digistart]] 📅 2026-10-31
     - Kontext: návod nasdílen 261024 (https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3); Lenčino portfolio Meta neodblokovala.
 - [x] Čekám na Štěpánku Uličnou: datum začátku pilotu DigiStart → domluveno ústně, viz [[digistart]] ✅ 2026-10-20

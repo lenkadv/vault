@@ -49,6 +49,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie, státnice z metodologie (témata III. 1–20 jako kostra) | `resources/postupy/metodologie2.md` |
 | **Zpracování přednášky u kteréhokoli předmětu KTF** („zpracuj přednášku“, nová nahrávka z Easy Voice Recorderu, jednotné zápisky v Google Docs, Notebook, kontrola údajů, úprava starších zápisků z Notebooku) | `resources/postupy/zpracuj-prednasku.md` (hlavní postup; Anki jen u Přehledovek a Metodologie 2 → jejich postupy výše) |
 | Tabule úkolů (kdo co vede: Claude / spolu / Lenka), odškrtávání mimo Obsidian, synchronizace s vaultem, denní plán bez MIT | `resources/postupy/tabule.md` |
+| Přiznání k DPH (identifikovaná osoba), výpisy Air Bank, XML pro Moje daně | `resources/postupy/dph.md` (přiznává se jen Anthropic; ostatní zahraniční služby jen vypsat, rozhoduje Lenka) |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
 **Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`, pro Lenku [[Průvodce Databankou]]): jediné místo s hodnocením všech AI nástrojů (stav, verdikt, poznámky z použití). Na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
