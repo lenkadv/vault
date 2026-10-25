@@ -24,7 +24,7 @@ Na obraze Alfonse Muchy nově nabytou svobodu slaví ženy v krojích, pletou p�
 
 Co je to za podmínku a jak to souvisí se třemi karafiáty, které jsem dostala na prvním rande, se dočtete v článku. Odkaz je v prvním komentáři.
 
-**První komentář:** [PLACEHOLDER: URL článku na Substacku - vznikne po naplánování zrcadla]
+**První komentář:** https://artforenglish.substack.com/p/darek-s-podminkou
 
 **Hashtags:** none
 
