@@ -132,6 +132,12 @@ Shadowloop lead magnet jako vstupní bod zamítnut — viz [[GrowOS/lcenglish/re
 
 ---
 
+## Prodejní stránka v Leadpages (od 261025)
+
+`/hele/` běží z Leadpages (stránka `1ViPiydGxm`, plugin Leadpages), objednávka `/hele-checkout/` (WP 7446, formulář FAPI 5 970 Kč). Provizorní kopie staré stránky, texty beze změny kromě překlepů. Detail: [[kontext-ukolu#Weby mimo WordPress]], [[mapa-webu]].
+
+- Na později, teď neřešit (Lenka 261025): v části „V čem je Angličtina s příběhem jiná…“ a v části „S kurzem Angličtina s příběhem:“ jsou u všech bodů stejné ikonky. Projít při příští kampani na HELE.
+
 ## Swipe / Inspo
 
 ### Lead magnet místo registrace na webinář (260625)

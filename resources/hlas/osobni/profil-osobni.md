@@ -55,7 +55,7 @@ Krátce, přímo a s lehkou sebeironií: jedna věc na mail, konkrétní fakta (
 - [ ] Konkrétní údaje (datum, číslo, adresa bytu u správy domu).
 - [ ] Jasná prosba nebo otázka.
 - [ ] Pomlčka „ - “, rovné uvozovky "…", vy/váš malé, nejvýš jeden smajlík.
-- [ ] **Závěr mailu (Lenka 261012):** poslední řádek před podpisem je vždy „Zdraví“ (univerzální, i u cizích a vykání); přání typu „Hezký den!“, „Hezký týden!“ jde před něj jako samostatný řádek s vykřičníkem, nikdy ne poslední před podpisem. Kdyby přání bylo poslední, musela by za ním být čárka („Hezký den,“). Vzor: „Hezký den!“ → „Zdraví“ → „Lenka Dvořáková“ (nebo „Zdraví L.“). Nepsat „Děkuju“ nebo „Hezký den“ jako závěrečnou formuli před podpisem.
+- [ ] **Závěr mailu (Lenka 261012):** poslední řádek před podpisem je vždy „Zdraví“ (univerzální, i u cizích a vykání); přání typu „Hezký den!“, „Hezký týden!“ jde před něj jako samostatný řádek s vykřičníkem, nikdy ne poslední před podpisem. Kdyby přání bylo poslední, musela by za ním být čárka („Hezký den,“). Vzor: „Hezký den!“ → „Zdraví“ → „Lenka Dvořáková“ (nebo „Zdraví L.“). Nepsat „Děkuju“ nebo „Hezký den“ jako závěrečnou formuli před podpisem. **Nikdy „Děkuji a zdraví“ + jméno** (Lenka 261025, podruhé): nesedí podmět, „děkuji“ je já, „zdraví“ je ona; poděkování jen jako samostatná věta výš, nebo vůbec.
 - [ ] Podpis podle polohy („Zdraví L.“ / „Zdraví, Lenka Dvořáková“ / „S pozdravem“ ve stížnosti); když adresát píše o nemoci, „Zdraví a zdraví přeje L.“
 - [ ] Nikdy oslovení samotným příjmením.
 - [ ] **Chat a sdílený dokument (Vítek, Štěpánka, spolužačka; Lenka 261013): bez oslovení a bez podpisu**, rovnou věcně; v dokumentu věcné neutrální nadpisy.
@@ -193,3 +193,7 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
   - Vyškrtnuta druhá otázka „And does free admission apply to it?“, zůstala jediná otázka na postup („How do I reserve a time slot…?“). **Pravidlo:** neptat se ano/ne, jestli výhoda platí, když ji muzeum samo uvádí na webu; ptát se jen na postup, jednu otázku. Pravděpodobný důvod: dotaz „platí to?“ zní, jako by pochybovala o jejich vlastním pravidle (můj odhad, ověřit při dalším případu).
   - Beze změny: „Hello,“, věta o tom, že na jejich stránce rezervaci online vidí, ale lístek v obchodě nenašla (konkrétní fakt), „Best regards, Lenka Dvorakova“, žádné „Thank you“ ani „Please let me know“.
 
+- **261025, podpora Hosting Solutions (info@hostingsolutions.cz, prosba o smazání zamčených souborů v koši Plesku)** (Lenka upravila přímo v konceptu):
+  - „Děkuji a zdraví / Lenka Dvořáková“ → „Zdraví / Lenka Dvořáková“. **Pravidlo:** „Děkuji a zdraví“ nikdy, nesedí podmět (děkuji = já, zdraví = ona). Potvrzuje závěr „Zdraví“ z 261012, povýšeno do kontrolního seznamu.
+  - Vyškrtnuto „takže tipuju, že soubor zamkl antivirus nebo je nastavený jako neměnný“, zůstalo „Oprávnění souborů vypadají v pořádku.“ **Pravidlo:** do mailu podpoře nepsat vlastní (moje) domněnky o příčině, jen zjištěný fakt; diagnózu nechat na nich. Hovorové „tipuju“ do mailu firmě nepatří.
+  - „Případně mi poraďte, jak to udělat sama.“ → „Případně prosím o radu, jak bych to mohla udělat sama.“ **Pravidlo:** u prosby cizí firmě zdvořilá forma s „prosím“ a podmiňovacím způsobem, ne rozkaz („poraďte mi“).

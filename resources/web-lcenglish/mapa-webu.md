@@ -21,7 +21,7 @@ Co kde na webu je, z čeho je postavené a co na to vede. Aktualizovat vždy, kd
 |---|---|---|---|
 | 10x ENGLISH | `/10x-english/` (Leadpages `Ytf0hlJeNc`, vkládá plugin Leadpages) | tlačítka vedou rovnou na formulář FAPI (`form.fapi.cz`) | FAPI → fapipi → Drip, Shadowloop, FreshLearn ([[hele-funnel]]) |
 | Nepravidelná slovesa za 14 dní | `/irregular/` (Leadpages, plugin Leadpages) | **5 tlačítek vede na `/irregular-cho/`** = objednávková stránka s formulářem FAPI (790 Kč) a 3 referencemi, z bloků WordPressu (od 261024, ID 7433, bez hlavičky a patičky, noindex) | FAPI → fapipi |
-| Angličtina s příběhem (HELE) | `/hele/` (bloky WordPressu od 261024, ID 7436, tlačítka na `/hele-checkout/`) | (řeší se v samostatném vlákně, HELE je v someday) | FAPI → fapipi (segment `hele`) |
+| Angličtina s příběhem (HELE) | `/hele/` (Leadpages `1ViPiydGxm`, plugin Leadpages, od 261025; 9 tlačítek na `/hele-checkout/`, banner ThePay v patičce) | `/hele-checkout/` = objednávková stránka jako `/irregular-cho/` (WP 7446, formulář FAPI 5 970 Kč, 3 reference k HELE, styl vložený přímo ve stránce, noindex, titulek „Objednávka: Angličtina s příběhem“) | FAPI → fapipi (segment `hele`) |
 
 Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní stránka.
 
@@ -40,9 +40,9 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 |---|---|---|
 | `/uprava/`, `/thank-you/` | prázdná „Správa osobních informací“, staré poděkování 2022; odkazy nenalezeny | v konceptech (404) |
 | `/anglicky-za-tyden/`, `/anki-navod/` | 2 připnuté články | editor bloků (obsah beze změny) |
-| `/hele-sp/` 7438, `/hele-ew-sp/` 7439, `/hele-ew-reg/` 7443 (WebinarKit), `/hele-ew-ty/` 7444, `/hele-ew-replay/` 7445, `/hele-checkout/` 7446 (FAPI), `/hele-checkout-ew/` 7447 (SimpleShop, mrtvé) | stránky HELE z 2022 | bloky WordPressu, bez hlavičky a patičky, vzhled třída `lce-lp` v `lce-blog-filtr.php`; kromě `/hele-sp/` noindex; řeší se s HELE |
+| `/hele-sp/` 7438, `/hele-ew-sp/` 7439, `/hele-ew-reg/` 7443 (WebinarKit), `/hele-ew-ty/` 7444, `/hele-ew-replay/` 7445, `/hele-checkout/` 7446 (od 261025 objednávka podle `/irregular-cho/`), `/hele-checkout-ew/` 7447 (SimpleShop, mrtvé) | stránky HELE z 2022 | bloky WordPressu, bez hlavičky a patičky, vzhled třída `lce-lp` v `lce-blog-filtr.php`; kromě `/hele-sp/` noindex; řeší se s HELE |
 | `/shakespeare-mail/` 7448 | Den angličtiny (2022) | bloky, noindex; asi smazat |
-| koncepty: stará /hele/ 7119, xDemo ×4, landing #707 a #3089, archivní Home/Kurzy/Kontakt/Irregular ChO, staré vstupní stránky Elementoru | — | smazat po čase spolu s pluginem Elementor |
+| koncepty: stará /hele/ 7119, /hele/ z bloků 7436 (slug `hele-bloky`, od 261025), xDemo ×4, landing #707 a #3089, archivní Home/Kurzy/Kontakt/Irregular ChO, staré vstupní stránky Elementoru | — | smazat po čase spolu s pluginem Elementor |
 
 ## Drip na webu
 
@@ -53,3 +53,9 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 ## Měření (všechny stránky WordPressu)
 
 Doplněk `wp-content/mu-plugins/lce-mereni.php` (kopie [[resources/web-lcenglish/lce-mereni.php]]): Meta pixel 552638212929820, Google Tag Manager GTM-W7T2DNRP, GA4 G-TPM0Q6YT3M, Google Ads AW-969557192, Sklik. Leadpages stránky mají pixel ve vlastní hlavičce, nákup měří FAPI.
+
+## ThePay
+
+ThePay (platby kartou přes FAPI) vyžaduje banner se svým logem a logy karet na titulní stránce projektu, ideálně v patičce, do 30 dní od spuštění brány ([náležitosti projektu](https://www.thepay.eu/cs/nalezitosti-projektu/), ověřeno 261025). Banner: `https://gate.thepay.cz/img/thepay-v2-220209-bw-gpay.svg?pid=1345` s odkazem na `https://web.thepay.cz/`. **Pravidlo (Lenka 261025): banner ThePay jen na prodejních stránkách** (v patičce), ne na hlavní stránce ani jinde na webu, kde se nic neprodává. Stav 261025 12:20: je v patičce `/hele/`, `/irregular/` a `/10x-english/`. Na tmavé patičce bez bílého rámečku, převedený stylem do tlumené světle šedé (`filter:grayscale(1) invert(1) brightness(1.3)`, průhlednost 0,55), protože ThePay nemá variantu pro tmavé pozadí (má jen `bw` a `white`, obě pro světlé). Zda ThePay úpravu barvy akceptuje, neověřeno.
+
+**Patička prodejních stránek v Leadpages (Lenka 261025):** „LCEnglish“ jako odkaz na `https://lcenglish.cz/` (podtržení jen po najetí myší) · Lenka Dvořáková; odkazy Ochrana osobních údajů (`/privacy-policy/`) · Obchodní podmínky (`/obchodni-podminky/`); banner ThePay. Platí pro `/hele/`, `/irregular/`, `/10x-english/` a každou další prodejní stránku. Pozor: patička musí mít `display:flow-root`, jinak okraj prvního odstavce vytvoří nad patičkou bílý proužek.

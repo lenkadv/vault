@@ -134,6 +134,9 @@ add_action( 'wp_head', function () {
 		.lce-hero{min-height:70vh !important}
 		.lce-o-mne,.lce-blog-home{padding-left:20px !important;padding-right:20px !important}
 		.lce-o-mne .wp-block-columns{gap:24px}
+		/* Ikona menu na mobilu: bílá, ať nezaniká ve fotce (jemný stín jen pro čitelnost na světlých místech). */
+		#mobile-header .menu-toggle-open{color:#fff !important}
+		#mobile-header .menu-toggle-open .menu-toggle-icon{font-size:28px;filter:drop-shadow(0 1px 2px rgba(0,0,0,.45))}
 	}
 	</style>
 	<?php
@@ -157,7 +160,10 @@ add_action( 'wp_head', function () {
 	.lce-kurzy-cols{align-items:stretch !important}
 	.lce-kurz{display:flex !important;flex-direction:column}
 	.lce-kurz-img{margin:0 0 16px}
-	.lce-kurz-img img{width:100%;aspect-ratio:16/11;object-fit:cover;display:block}
+	/* Místo pro obrázek kurzu vyhrazené předem: bez !important měl obrázek před načtením šířku 0 a text pod ním poskočil (CLS). */
+	.lce-kurz-img{display:block !important;width:100% !important}
+	.lce-kurz-img a{display:block}
+	.lce-kurz-img img{width:100% !important;height:auto;aspect-ratio:16/11;object-fit:cover;display:block}
 	.lce-kurz-nazev{font-size:1.7rem;line-height:1.2;margin:0 0 16px;min-height:2.4em;display:flex;align-items:center;justify-content:center}
 	.lce-kurzy-nadpis{min-height:2.3em}
 	.lce-kurz-nazev a{color:#073071;text-decoration:none}
@@ -168,6 +174,11 @@ add_action( 'wp_head', function () {
 	.lce-kontakt{background:#D65D67;padding:56px 20px 64px;margin:0}
 	.lce-kontakt h1{color:#1E1E1E;font-size:clamp(2.2rem,5vw,3.2rem);margin:0 0 24px}
 	.lce-kontakt .ff-el-group label{color:#1E1E1E}
+	/* Na mobilu Kadence u bloků přes celou šířku ruší vnitřní okraj, text by šel od kraje ke kraji. */
+	@media (max-width:767px){
+		.lce-kurzy,.lce-kontakt{padding-left:24px !important;padding-right:24px !important;margin-left:0 !important;margin-right:0 !important}
+		.lce-kurzy-nadpis{padding-left:24px !important;padding-right:24px !important}
+	}
 	</style>
 	<?php
 }, 21 );
@@ -241,3 +252,20 @@ add_action( 'wp_head', function () {
 	</style>
 	<?php
 }, 23 );
+
+/**
+ * Písma bez poskakování textu: styl písem Kadence (soubor ve wp-content/fonts/) se vloží přímo do stránky
+ * a místo font-display: swap dostane optional. Písma jsou přednačtená, takže se obvykle stihnou;
+ * když ne, zůstane pro danou návštěvu náhradní písmo a text se po načtení nepřeskládá (Kurzy, CLS 0,36).
+ */
+add_filter( 'style_loader_tag', function ( $tag, $handle, $href ) {
+	if ( is_admin() || 'kadence-fonts-gfonts' !== $handle ) {
+		return $tag;
+	}
+	$soubor = WP_CONTENT_DIR . '/fonts/' . basename( (string) wp_parse_url( $href, PHP_URL_PATH ) );
+	if ( ! is_readable( $soubor ) ) {
+		return $tag;
+	}
+	$css = preg_replace( '/font-display:\s*swap/', 'font-display: optional', (string) file_get_contents( $soubor ) );
+	return "<style id='lce-pisma'>\n" . $css . "</style>\n";
+}, 10, 3 );
