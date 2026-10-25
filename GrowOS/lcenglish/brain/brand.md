@@ -31,6 +31,7 @@ Pravidla:
 - **Nadpisy:** DM Serif Display (Regular 400; má jen jeden řez) — Google Fonts
 - **Text, tlačítka, menu:** Karla (400, 700, kurzíva 400) — Google Fonts
 - **E-maily (Drip):** newsletter je **osobní dopis** – prostý text bez šablony, bez obrázkového proklikávacího rámce (Lenka 261025: líbí se jí víc a sedí ke značce). Barvy a písma značky se v něm neřeší, jediný obraz je dílo dne. Kdyby někdy vznikl grafický e-mail: nadpisy Georgia, text Arial, tlačítko #D1003A.
+- **Substack:** Karla tam není → text příspěvků Source Sans 3, nadpisy DM Serif Display (261025).
 - Konec: Fraunces, Roboto Condensed, Teko, Poppins, systémové písmo na prodejních stránkách.
 
 ## Logo

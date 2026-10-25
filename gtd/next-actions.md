@@ -63,7 +63,6 @@ sort by due
     - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
     - Kontext (261024 23:00): po převodu z Elementoru /hele/ vypadá špatně (patička vybíhá, velké písmo) → nejdřív stránka v Leadpages (úkol níže).
     - Kontext (261025): stránka HELE běží z Leadpages na `/hele/`, objednávka na `/hele-checkout/` předělaná ([[kontext-ukolu#Weby mimo WordPress]]).
-- [ ] Přenastavit s Claudem barvy LCEnglish ve FreshLearnu a Substacku podle vzorníku → [[kontext-ukolu#Vizuální identita LCEnglish]]
 - [ ] Rozhodnout, jestli nechat udělat bílou verzi loga LCEnglish na tmavé pozadí → [[kontext-ukolu#Vizuální identita LCEnglish]]
 - [ ] Otevřít nové vlákno: publicspeaking.cz bez WordPressu → [[kontext-ukolu#publicspeaking.cz bez WordPressu]]
 - [ ] Zeptat se Vítka na přístup na server 37.205.8.210 (fapipi, skript jmena) a k čemu je webhook Dripu 119864 (Apps Script) → [[lcenglish-ekosystem]]
