@@ -56,6 +56,8 @@ sort by due
 - [x] **Zrušit Coursera Plus (7denní trial)** — **zrušeno 261009 (Lenka), přístup ke kurzům trvá do 11. 10.** Původní zadání: trial spuštěn 4. 10., zdarma do 11. 10. 2026, od 12. 10. strhne 49 USD měsíčně. Zrušit na https://www.coursera.org/my-purchases → Cancel subscription **nejpozději 10. 10.** (ideálně hned po posledním bloku Coursera v pá 9. 10.). Build Anything with AI je celý stažený a zapsaný (261004, [[coursera-build-anything-with-ai]]); jediný zbývající důvod trial držet je případný další kurz (AI Agent Skills for Leaders), rozhodnutí viz [[claude-academy]]. **Claude připomíná v denním plánu od 7. 10. a znovu 9. 10.** 📅 2026-10-10
 
 ## Čeká na někoho
+- [ ] Čekám na podporu FreshLearn ohledně růžového pozadí portálu a nefunkčního Custom Script pro Member Portal 📅 2026-10-30
+    - Kontext: mail odeslala Lenka 261025 ~21:00 na support@freshlearn.com. Oprava 17 v [[lcenglish-freshlearn-revize]]; vlastní CSS je v administraci uložené (Custom Script → Member Portal), jen se nenačítá.
 - [ ] Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28
     - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
 - [ ] Zkusit se Štěpánkou znovu připojit stránku DigiStart k portfoliu (po 26. 10. večer) → [[digistart]] 📅 2026-10-26

@@ -7,7 +7,7 @@
 
 ## Aktuální stav
 
-261025 17:00: Revize hotová (opravy 1–10, All Courses, sjednocené obchodní podmínky a ochrana osobních údajů). AI Sborovna a VIP skryté z katalogu, hlavní stránky i All Courses; co s nimi dál, je úkol v [[next-actions]]. Zbývá proklikat kurzy jako studentka (next action) a 30. 11. 2026 požádat Teachable o smazání školy ([[waiting-for]]).
+261025 21:00: Kurzy proklikané jako studentka (HELE, 10x ENGLISH, AI Sborovna, VIP): videa, zvuky, obrázky a soubory fungují. Mapy kurzů: [[lcenglish-kurz-hele-mapa]], [[lcenglish-kurz-10x-english-mapa]], [[lcenglish-kurz-ai-sborovna-mapa]]. Opravy 13–15 hotové (přihlášení na papírovém pozadí, mrtvý odkaz v 10x ENGLISH, překlepy). Čeká: oprava 16 (VIP termíny, s rozhodnutím o AI Sborovně v [[next-actions]]) a odpověď podpory FreshLearn k růžovému pozadí portálu (oprava 17, [[waiting-for]] do 30. 10.). Projekt nemá vlastní next action, čeká. AI Sborovna: rozhodnutí v [[next-actions]]. 30. 11. 2026 požádat Teachable o smazání školy ([[waiting-for]]).
 
 ## Co to je
 
@@ -20,8 +20,7 @@ Pravidla:
 
 ## Next actions
 
-- [ ] Proklikat kurzy ve FreshLearn jako studentka s Claudem (videa, zvuky, obrázky, soubory, odkazy) #next-action #online
-    - Kontext: Claude umí v náhledu pro studenty projít každou lekci a zkontrolovat, že se video a zvuk načte, obrázky zobrazí a soubory jsou ke stažení (videa nepřehrává celá). Lenka 261025: udělat později. Žádost o smazání Teachable je ve [[waiting-for]] na 30. 11. 2026.
+Žádná, projekt čeká: odpověď podpory FreshLearn a žádost o smazání Teachable jsou ve [[waiting-for]], oprava 16 patří k rozhodnutí o AI Sborovně ([[next-actions]]).
 
 ## Soupis (FreshLearn, 261025)
 
@@ -83,8 +82,33 @@ Stav: **návrh** = čeká na Lenku · **schváleno** · **hotovo**. Nic se nema�
 | 10 | Drobnosti v textech | Lenka rozhodla 16:00, Claude provedl | **hotovo** 261025: „Shadowlooop“ → „Shadowloop“ (název lekce v HELE); patička „© Lights Camera English 2023“ → „© LCEnglish“ a odkaz „Zpátky na web LCEnglish“ na stránkách Home, 10x ENGLISH (měla „© LCEnglish 2025“), HELE, Naučte se učit anglicky a All Courses. Beze změny (Lenka): archivní Webináře a Nastartujte (e-mail lenka@publicspeaking.cz funguje, dobové tipy na nástroje); stránky Webináře, Nastartujte, Obchodní podmínky a Ochrana osobních údajů mají patičku „© Lenka Dvořáková 2023“, nechány. |
 | 11 | TEST produkty (3 koncepty) | Lenka | **nechat** (Lenka 16:00) |
 | 12 | Zrušení Teachable | Lenka | **zatím ne** (Lenka 16:00): škola běží na bezplatném tarifu, nic nestojí; vše podstatné zazálohované. Viz next action. |
+| 13 | Přihlašovací stránka: popisek „Pamatujte si mě“ u šoupátka je neviditelný (barva textu #1A1416 = barva pozadí). Nastavení Theme → Text colour je společné pro celý portál, změna by rozbila světlé stránky; Custom Script „Member Portal“ se načítá až po přihlášení; náhled v editoru popisek ukazuje světle (chyba FreshLearn). Varianty: A napsat podpoře FreshLearn, B pozadí přihlášení na papír #F7F1EA, C nechat | Lenka vybrala B 20:37, Claude provedl | **hotovo** 261025: Settings → Member Portal → Customise portal → Theme → „Login and sign-up background“ #1A1416 → #F7F1EA, Save changes. Ověřeno živě na stránce obnovy hesla (stejná šablona): pozadí #F7F1EA, text #1A1416. |
+| 14 | 10x ENGLISH, Úvod „Stínování“: věta s odkazem na online tabulku (Google, 410) vypustit, nechat Excel (jako NSUA) | Lenka „ano“ 20:40, Claude provedl | **hotovo** 261025: odstavec s odkazem vypuštěn, věta „Nebo si tabulku stáhněte ve formátu Excel.“ → „Tabulku si stáhněte ve formátu Excel, najdete ji níže ke stažení.“; 2 videa a 2 soubory zůstaly |
+| 15 | Překlepy: HELE 7, 10x ENGLISH 4, AI Sborovna 8 (seznamy v mapách kurzů) | Lenka „ano“ 20:40, Claude provedl | **hotovo** 261025: 21 oprav v 15 lekcích (HELE 7, 10x ENGLISH 3, AI Sborovna 11 včetně „:Dávej mi…:“ → „„Dávej mi…““). **Neopraveno 10x 2.4** „You want give blood too?“ (nahrávka může větu říkat takto, neověřeno poslechem). Opraveno jen v textu lekcí; PDF ke stažení a balíčky v Shadowloop mají původní znění. |
+| 17 | Portál po přihlášení: růžové pozadí stránek (#FCEDF1). FreshLearn ho odvozuje z barvy tlačítek, v nastavení vzhledu na něj pole není („Page background“ v Menu and products mění jen profilovou kartu vlevo, ověřeno v náhledu bez uložení). Návrh: vlastní CSS v Settings → Custom Script → Member Portal (načítá se po přihlášení) → pozadí papír #F7F1EA, zvýraznění papír tmavší #EFE6DB | Lenka „ano“ 20:49, Claude provedl | **uloženo** 261025 20:51: Member Portal zapnuto, In Head Section: `<style id="lce-paper">` (proměnné `--c-brand-soft` → #EFE6DB, `--c-brand-line` → #E2D6C8, `.mp-shell, .page-body-wrapper` → #F7F1EA) + stejný styl přes `<script>` pro jistotu. Vyzkoušeno v kartě před uložením (knihovna i kurz bez růžové). ⚠️ **Nefunguje** (ověřeno 20:53–20:55 po Lenčině novém přihlášení): v administraci uloženo a zapnuto, ale portál ho nenačte ani na kurzylce.freshlearn.com, ani na kurzy.lcenglish.cz/member (portál běží i tam). Profil, který si portál stahuje, má `showCustomScriptCode: false` a prázdný kód; veřejné API přihlášení vrací `companyProfileDTO: null`. Odhad (neověřeno): vlastní kód pro portál FreshLearn nedoručuje (chyba nebo funkce vyššího tarifu). Kód v administraci zůstal, nic nerozbíjí. |
+| 16 | AI Sborovna VIP „Termíny nadcházejících vysílání“: jen minulé akce, rok 2024 místo 2025, doména lenakdvorakova.cz | Lenka | **návrh** (souvisí s rozhodnutím o AI Sborovně) |
 
 ## Záznam (nejnovější nahoře)
+
+- **261025 21:00** Lenka odeslala mail podpoře FreshLearn (oprava 17), starý koncept s doménami v textu smazala → [[waiting-for]] 📅 2026-10-30.
+
+- **261025 20:56–20:58** Koncept zprávy podpoře FreshLearn (anglicky, Gmail, na support@freshlearn.com): růžové pozadí #FCEDF1 odvozené z barvy tlačítek a nenačítaný Custom Script → Member Portal. Odešle Lenka.
+
+- **261025 20:53–20:55** Ověření opravy 17 po novém přihlášení: kód se nenačítá (viz tabulka). V kódu portálu se vlastní skript vkládá z `companyProfile.customScriptHead`, jen když `showCustomScriptCode` je true a portál neběží na adrese *.freshlearn.com; na kurzy.lcenglish.cz/member podmínku domény splňuje, ale server posílá prázdný profil. V portálu se nic neměnilo, smazána jen kopie profilu v paměti karty (sessionStorage) kvůli novému načtení.
+
+- **261025 20:49–20:52** Oprava 17 (Lenka „ano“): růžová #FCEDF1 = proměnná `--c-brand-soft`, kterou FreshLearn odvozuje z barvy tlačítek (inline na `<html>`), používá ji pozadí stránky (`.mp-shell`, `.page-body-wrapper`), aktivní položka menu a štítky kurzů; `--c-brand-line` #F5C7D4 růžové linky. CSS uloženo do Custom Script → Member Portal (viz tabulka). Portál načítá vlastní kód při přihlášení (v kódu portálu `companyProfile.customScriptHead`, drží se v sessionStorage), v otevřené relaci ani v nové kartě se zatím neprojevil (`showCustomScriptCode` false) → čeká na nové přihlášení.
+
+- **261025 20:40–20:45** Opravy 14 a 15 (Lenka „ano“): 16 lekcí upraveno přes API administrace (načtení → náhrada textu, každá náhrada nalezena právě jednou → uložení), mezipaměť kurzů 157241, 157254, 167515 obnovena (`DELETE fs-readonly-api.freshlearn.com/v1/api/course-optimized/cache…`; adresa na `backend.freshlearn.com` nefunguje). Ověřeno novým načtením: všech 16 lekcí má nové znění, Stínování bez odkazu na Google, 2 videa a 2 soubory. Přihlašovací stránka ověřena živě (studentská relace v Chromu mezitím vypršela): popisek „Pamatujte si mě“ čitelný. Růžové pozadí portálu: rozbor v opravě 17, nic neuloženo (náhled vrácen přes Cancel → Discard).
+
+- **261025 20:37–20:40** Oprava 13 (Lenka: varianta B). Výběr barvy ve FreshLearn nebere psaní z klávesnice (zapsal #FF77FF1E), hodnota zadána přímo do pole Hex. Přihlašovací stránku jako přihlášená studentka otevřít nejde (přesměruje do knihovny), ověřeno na `/member/#/forgot-password`, nic neodesláno.
+
+- **261025 19:59–20:30** Proklikání kurzů jako studentka (účet info@lenkadvorakova.cz, Claude in Chrome, vlákno FreshLearn: proklikat kurzy jako studentka). Studentské rozhraní posílá obsah lekcí šifrovaně, proto: (1) automatický průchod všemi lekcemi v rozhraní studentky (tlačítko další lekce, u každé stav videa/zvuku, obrázky, odkazy), (2) soubory ke stažení a externí odkazy ověřené stažením prvního bajtu a curl, (3) texty lekcí přečtené z administrace (jen čtení) → mapy kurzů.
+  - **HELE:** 74 lekcí, 52 videí a 2 zvuky se načtou, 74 souborů ke stažení OK, Dropbox balíčky a odkazy (Anki, YouTube, Shadowloop) živé.
+  - **10x ENGLISH:** 112 lekcí, 102 lekcí se 2 nahrávkami (100 % a 80 %) OK, 32 souborů OK. ⚠️ Mrtvý odkaz na online tabulku v Úvodu (oprava 14).
+  - **AI Sborovna:** 27 zveřejněných lekcí, videa OK, odkazy živé (vlastní GPTs ověřené jen adresou). Obsah zastaralý (Bing Chat, Bard, rozhraní 2024).
+  - **VIP:** 7 lekcí, 3 videa ve FreshLearn a 1 na YouTube OK; termíny vysílání zastaralé (oprava 16).
+  - Přihlašovací stránka: domněnka potvrzena, šoupátko je „Pamatujte si mě“, popisek má barvu pozadí (oprava 13). V administraci nic neměněno.
+  - Vedlejší efekt: průchod lekcemi přehrával začátky videí, FreshLearn si u studentského účtu uložil čas sledování; žádná lekce není označená jako dokončená (0 %).
 
 - **261025 16:52–17:00** AI Sborovna a AI Sborovna VIP: „Make Public“ vypnuto (publicView false, kurzy dál zveřejněné pro zapsané), odebrány z bloku „Doporučuji“ na hlavní stránce a z All Courses (Lenka). Ověřeno živě: hlavní stránka 10x ENGLISH + HELE, All Courses bez AI Sborovny. Založeny úkoly: proklikat kurzy jako studentka (zde), rozhodnout o AI Sborovně ([[next-actions]], kontext v [[kontext-ukolu#AI Sborovna]]).
 
