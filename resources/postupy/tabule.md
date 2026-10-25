@@ -24,7 +24,7 @@ Při každém denním plánu, při weekly review, při „zavírám“, **když 
 2. `stav: hotovo` → odškrtnout ve vaultu podle `odkaz` + next-action advancement (CLAUDE.md); na tabuli nechat jako hotové do příštího weekly review, pak smazat.
 3. `stav: pozdeji` → ve vaultu nic nemazat; při weekly review se rozhodne, jestli do someday.
 4. `poznamka` novější než `zpracovano` → zapracovat do kontextu úkolu ve vaultu, odpovědět ve vlákně, zapsat krátce `odpoved`, nastavit `zpracovano` a podle potřeby `ceka`.
-5. Nové úkoly z vaultu (nové `#next-action`, ruční sekce [[next-actions]], položky z vláken) doplnit na tabuli; úkoly smazané ve vaultu z tabule odebrat.
+5. Nové úkoly z vaultu (nové `#next-action`, ruční sekce [[next-actions]], položky z vláken) doplnit na tabuli; úkoly smazané ve vaultu z tabule odebrat. **Věci, které čekají na datum, na tabuli nedávat** (Lenka 261025): položky z [[waiting-for]] a úkoly s poznámkou „až po…“ / „necháno na…“ se na tabuli objeví **až v den svého 📅** (doplní je denní plán), do té doby žijí jen ve vaultu. Když na kartě zbyde jen čekání na datum, kartu odebrat (nebo dát `hotovo`, pokud je hlavní práce hotová) a zbytek nechat ve waiting-for.
 6. Zapsat `meta/tabule.sync` (datum a čas srovnání, česky) a `syncIso` (ISO čas; tlačítko podle něj počítá změněné karty). Na komentář z tlačítka odpovědět i v komentáři (`ArtifactComments`) a vyřešit ho.
 
 **Stav karty hlídá Claude sám, bez upomínání (Lenka 261024):**
@@ -32,6 +32,12 @@ Při každém denním plánu, při weekly review, při „zavírám“, **když 
 - **Odpověď Lenky ve vlákně:** když Lenka dodá to, na co karta čekala („Potřebuju od tebe“), ve vlákně místo tlačítka na tabuli, vlákno kartu hned přepne z `ceka: true` na `beh: bezi` (nebo `fronta`, když se hned nepokračuje).
 - **Konec práce / „zavírám“:** karta → `stav: hotovo`, nebo zpět `beh: fronta` / `ceka: true` s novým `potrebuju`, podle toho, kde to skončilo.
 - **Kontrola při každé synchronizaci:** projít karty s `ceka: true` a `beh: bezi` proti dnešnímu daily (Průběh dne) a vláknům; co už odpověď má nebo se na tom nepracuje, opravit.
+
+**Proč se stavy nepropisovaly (Lenka 261025) a co platí od teď:** 25. 10. proběhlo osm samostatných vláken (DPH, A4E #28, weby, identita, Shadowloop, FreshLearn), ale kartu přepsalo jen vlákno winningads, protože to mělo v briefu výslovně napsané. Pravidlo „vlákno přepne kartu samo“ žilo jen v tomhle souboru, který ostatní vlákna nečtou, a v kroku „zavírám“ v CLAUDE.md chybělo. Oprava: krok 6a v „zavírám“ (CLAUDE.md) + každý brief nového vlákna obsahuje přepnutí karty + denní vlákno při zavírání srovná všechny karty s Průběhem dne.
+
+**Kdo odpovídá na tlačítko „Koukni na tabuli“ (zjištěno 261025):** komentář „Send to Claude“ zpracuje to vlákno Claude Code, které tabuli sleduje **se zapnutými automatickými odpověďmi**. Když takové není, odpoví Claude v chatu na claude.ai: ten vault nevidí, vlákna nespouští a píše jen pod karty („odsud se k vaultu nedostanu“). Automatické odpovědi se ve vlákně Claude Code zapnou jen tehdy, když **Lenka sama vloží odkaz na tabuli do své zprávy** v tom vlákně (odkaz z mé zprávy nebo ze souboru nestačí). **Řešení od 261025 (Lenka: okamžitá reakce, nic nekopírovat, hlídačem je denní vlákno, žádné stálé vlákno kvůli rostoucímu kontextu):** automatické odpovědi se zapnou i tím, že vlákno tabuli samo publikuje. Skill denního plánu proto na začátku tabuli beze změny znovu publikuje (krok 2e5) a Lenka to jen odklikne. Denní vlákno pak celý den reaguje na tlačítko a večer se sledování ukončí se zavřením vlákna. ⚠️ Zatím ověřeno jen nepřímo: ranní publikace svodky 25. 10. zapnula automatické odpovědi u svodky; u tabule to ukáže první ráno.
+
+**Spuštění z tlačítka (zjištěno 261025):** na kliknutí z tabule smí Claude samostatné vlákno jen **navrhnout** (kartu v denním vlákně Claude Code), ne rovnou spustit; spustit ho jde jen na Lenčino slovo ve vlákně. Lenka pak klikne na kartu „Nová úloha“ v denním vlákně. Na kartě tabule to Claude napíše do `odpoved`.
 
 **Aby tlačítko došlo hned:** vlákno, které má tabuli sledovat (denní vlákno), ji na začátku dne přečte nebo začne sledovat přes `ArtifactComments`.
 

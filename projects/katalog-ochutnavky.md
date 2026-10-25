@@ -13,7 +13,8 @@ Tempo: ochutnávky po 30–45 min se Claudem.
 ## Postup
 
 - [x] Ochutnávka 1.1 — `marketing-strategy` ✅ 2026-10-04 — porada pro lcenglish → nový plán do ledna 2027; verdikt „jen s převodem do GTD“ (Databanka [[GOS – marketing-strategy]])
-- [ ] Vybrat s Claudem první marketingový kurz k projití #next-action #online
+- [ ] Vybrat s Claudem další marketingový kurz k projití #next-action #online
+    - Kontext (Lenka 261025, tabule): kurzy procházíme průběžně. Projito: WinningAds + kurz Winning With Meta Ads (261025, [[APP – WinningAds a kurz Winning With Meta Ads]]), Email Marketing Heroes (261024, [[email-marketing-heroes]]).
     - Kontext: Projít marketingové kurzy z [[kurzy-marketing]] s Lenkou — postupně, nejdřív ten nejaktuálnější; cíl: vytěžit pro psaní e-mailů, webinářových sekvencí, prodejních stránek a reklam (Lenka 261004: rozhodně chceme; 261011 přesunuto z hlasových profilů, odpočinek od marketingu zrušen, opatrný návrat)
 - [ ] 1.2 `strategy-offer` (návrh: školení/konzultace jako produkt s balíčky)
 - [ ] 1.3 `research-audience` · 1.4 `research-competitors` · 1.5 `campaign-plan`

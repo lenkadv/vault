@@ -37,6 +37,10 @@ Sběr materiálů pro náplň kurzu → [[digistart]]. Každý záznam s přím�
   - **Cvičení pro kurz:** vybrat dva obrázky, které účastnice ten měsíc potřebuje, a udělat je v obou nástrojích; za odpoledne zjistí, který jí sedí.
   - **Pro DigiStart ověřit:** jaké nástroje a plány účastnice mají (varianta B počítá s placeným Claude, ChatGPT nebo Gemini nemusí), ceny a limity ve zdarma verzi (stav k 14. 10. 2026, mění se), a jestli stačí Canva s vestavěnou AI. Zdroj je výukový mail s vlastními, neověřenými čísly.
 
+- **AI Creator Course (ContentCreator.com)** — Anthony / ContentCreator.com (2026) — https://www.contentcreator.com/products/ai-creator-course (Lenčin přístup; poznámky [[CC – AI Creator Course]], 261025)
+  - Použij, až budeš řešit: jak účastnicím vysvětlit AI video (pět kroků: nápad, scénář, storyboard z obrázků, video, střih) a srovnání ChatGPT, Claude a Gemini (lekce 6, „jako iPhone a Android, rozhoduje zadání“; i pro blok A); vzorec reklamního textu (hook, problém, řešení, nabídka, výzva) pro blok C.
+  - Pozor: kurz prodává vlastní tržiště PromptEdit; účastnicím ukazovat nástroje, které mají (Gemini s Nano Banana, Canva).
+
 ## Slib kurzu a jazyk persony
 
 - **Otázka „jak AI zapřáhnout pro sebe, ne pracovat pro AI“**: komentář člena komunity Repeat Crew (GrowOS) k otázce autora GrowOS, na co má odpovědět jeho kniha (30. 9. 2026) — https://www.skool.com/repeat-crew-9403/one-question-im-writing-a-book

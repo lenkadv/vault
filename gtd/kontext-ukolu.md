@@ -203,6 +203,22 @@ Lenka 261024: vede Claude (průzkum, kde jsme a jestli to Lenka může udělat s
 - **261024 15:33 hotovo:** Lenka pluginy aktualizovala. Úkol uzavřen; navazuje audit webu lcenglish.cz v samostatném vlákně (Weby mimo WordPress).
 - ~~Další krok:~~ aktualizace pluginů klikne Lenka sama (Nástěnka → Aktualizace → Označit vše → Aktualizovat pluginy, u obou webů), nebo povolí Claudovi zásah. Šablonu Kadence (aktivní) aktualizovat až po ověření, že úpravy nejsou přímo v souborech šablony.
 
+## Zpráva Vítkovi: Shadowloop na Node.js 22 (261025)
+
+Koncept 261025 17:35 (Signal, bez oslovení a podpisu). Souvisí [[lcenglish-ekosystem#Shadowloop a Firebase]], úkol v [[next-actions]] 📅 2026-10-29.
+
+> Google 30. 10. vypíná Node.js 20 u Cloud Functions a na něm běží v shadowloop-firebase sale, freebie a registerUser (https://docs.cloud.google.com/functions/docs/runtime-support - po tom datu je prý nejde aktualizovat a můžou je vypnout). Na sale a freebie stojí nákupy a dárek.
+>
+> Stačí podle mě v functions/package.json přepsat node 20 na 22 a nasadit jen ty tři funkce, ale firebase-functions je tam ještě 3.24, tak nevím, jestli to projde. Zvládneš to do středy, nebo mi napiš, na co si dát pozor, a nasadím to sama (jsem v projektu Owner).
+>
+> A ještě: v projektu je funkce generator (us-central1, Node 22), která v repu není. K čemu je? Ať ji omylem nesmažu.
+>
+> A pořád bych ráda přístup na server 37.205.8.210, hlavně kvůli skriptu jmena - ten nemá CI/CD jako fapipi, takže jeho úpravu bez tebe nenasadím.
+
+**Vítek 261025 17:40 (Signal):** stačí změnit 20 na 22 a po změně zkontrolovat, že to funguje. Funkci `generator` nezná. Přístup na server by musela Lenka chtít po Álím, podle Vítka jí k ničemu není.
+
+**261025 17:52 hotovo (Claude, Lenka „ano, nasaď“):** `sale`, `freebie`, `registerUser` na Node.js 22, test prošel (detail [[lcenglish-ekosystem#Shadowloop a Firebase]]). Rozcestník [[lcenglish-ekosystem]] je tím hotový; dál se doplňuje průběžně.
+
 ## Zpráva Vítkovi: skript na oslovení, Skloňování jmen, Shadowloop u dárku
 
 Koncept 261024 (Signal, bez oslovení a podpisu podle profilu `resources/hlas/osobni/profil-osobni.md`). Souvisí [[lcenglish-ekosystem]], [[drip-lcenglish-uvitani]].

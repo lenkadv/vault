@@ -28,6 +28,8 @@ sort by due
 - [ ] Rozhodnout, jestli ponechat tarif Claude Max, nebo ho před obnovením 24. 11. zrušit 📅 2026-11-17
     - Kontext: Lenka přešla na Max (Zápisník 261024 16:06). V Google Kalendáři připomínka 24. 11. 9:00 s notifikací týden předem.
 
+- [ ] Domluvit termín příštího weekly review (pá 30. 10., nebo ne 1. 11.) a založit blok 📅 2026-10-27
+    - Kontext: so 31. 10. Drážďany; z 📥 daily 261024 a 261025.
 - [ ] Projít návrhy v [[newslettery-ai]] a rozhodnout, co odhlásit (při weekly review) 📅 2026-10-31
 
 - [x] Vzít s sebou přihlašovací údaje ke školnímu účtu KTF (na setkání s prváky v P8, 11:50; prezentace je nasdílená na školním účtu) 📅 2026-10-20 ✅ 2026-10-20
