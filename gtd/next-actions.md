@@ -63,8 +63,6 @@ sort by due
     - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
     - Kontext (261024 23:00): po převodu z Elementoru /hele/ vypadá špatně (patička vybíhá, velké písmo) → nejdřív stránka v Leadpages (úkol níže).
     - Kontext (261025): stránka HELE běží z Leadpages na `/hele/`, objednávka na `/hele-checkout/` předělaná ([[kontext-ukolu#Weby mimo WordPress]]).
-- [ ] Odeslat Vítkovi koncept mailu „Shadowloop - nové barvy“ (Gmail, koncepty) → [[kontext-ukolu#Vizuální identita LCEnglish]]
-    - Kontext (261025): ptáme se, jestli smí barvy v App.jsx změnit a nasadit Claude pod Lenčiným přihlášením do Firebase, nebo to udělá on. Repo kokolem/shadowloop, živá verze = commit z 23. 4. 2023. Po odeslání → waiting-for.
 - [ ] Otevřít nové vlákno: publicspeaking.cz bez WordPressu → [[kontext-ukolu#publicspeaking.cz bez WordPressu]]
 - [ ] Zeptat se Vítka na přístup na server 37.205.8.210 (fapipi, skript jmena) a k čemu je webhook Dripu 119864 (Apps Script) → [[lcenglish-ekosystem]]
     - Kontext (261024): zpráva poslaná, Vítek odpověděl ke Shadowloopu (vyřešeno), fapipi (dokumentace v repozitáři) a oslovení (repozitář jmena). Zbývá server a webhook.

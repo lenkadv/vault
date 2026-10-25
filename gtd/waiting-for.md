@@ -50,6 +50,8 @@ sort by due
 - [x] **Zrušit Coursera Plus (7denní trial)** — **zrušeno 261009 (Lenka), přístup ke kurzům trvá do 11. 10.** Původní zadání: trial spuštěn 4. 10., zdarma do 11. 10. 2026, od 12. 10. strhne 49 USD měsíčně. Zrušit na https://www.coursera.org/my-purchases → Cancel subscription **nejpozději 10. 10.** (ideálně hned po posledním bloku Coursera v pá 9. 10.). Build Anything with AI je celý stažený a zapsaný (261004, [[coursera-build-anything-with-ai]]); jediný zbývající důvod trial držet je případný další kurz (AI Agent Skills for Leaders), rozhodnutí viz [[claude-academy]]. **Claude připomíná v denním plánu od 7. 10. a znovu 9. 10.** 📅 2026-10-10
 
 ## Čeká na někoho
+- [ ] Čekám na Vítka ohledně změny barev Shadowloopu (smí Claude, nebo udělá on) 📅 2026-10-29
+    - Kontext: mail „Shadowloop - nové barvy“ odeslán 261025 na vitekp@pm.me; postup a stav v [[kontext-ukolu#Vizuální identita LCEnglish]].
 - [ ] Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28
     - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
 - [ ] Čekám na Štěpánku Uličnou: založení portfolia DigiStart za GNOSTIKU a ID portfolia → [[digistart]] 📅 2026-10-31
