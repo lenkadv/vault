@@ -34,7 +34,8 @@ Prodejní stránka (Leadpages / web) → FAPI objednávka → fapipi → Drip (�
 | **Automate Hero** | odpočty a „zbývá míst“ (Countdown Hero, Scarcity Hero) | https://automatehero.io, tarif Basic, webhook Dripu 124032 | Lenka (`lenka@publicspeaking.cz`) | [[email-marketing-heroes]] |
 | **Substack** | zrcadlo newsletteru Art for English | https://artforenglish.substack.com | Lenka | [[lcenglish-art-for-english]] |
 | **Meta (FB/IG) a pixel** | reklama, pixel na webu a Leadpages | reklamní účet Lights Camera English, pixel 552638212929820 | Lenka | `GrowOS/lcenglish/setup.md` |
-| **Hosting a domény** | lcenglish.cz, schránka `lenka@lcenglish.cz` | HOSTINGSOLUTIONS, cca 3 071 Kč ročně | Lenka | [[web-lcenglish-audit-261024]] |
+| **Hosting a domény** | lcenglish.cz, schránka `lenka@lcenglish.cz`; publicspeaking.cz jen přesměrování 301 přes `.htaccess` (WordPress smazán 261025) + schránka `lenka@publicspeaking.cz` | HOSTINGSOLUTIONS, cca 3 071 Kč ročně; Multihosting zaplacený do 9. 5. 2027 (tarif řešit ve [[waiting-for]] 📅 2027-04-12) | Lenka | [[web-lcenglish-audit-261024]] |
+| **Staré platformy (vypnuté)** | SimpleShop: všechny produkty archivované 261025, formuláře hlásí „Prodej skončil“ (webhook `api.php` SimpleShop → Drip smazán s WordPressem publicspeaking.cz). Teachable `publicspeaking.teachable.com`: bezplatný tarif, administrace nepřístupná, prodejní stránky dál vidět, koupit nejde; `kurzy.publicspeaking.cz` nefunguje | SimpleShop: app.simpleshop.cz (`lnk.dvorakova@gmail.com`) | Lenka | [[kontext-ukolu#Weby mimo WordPress]]; revize FreshLearn a zrušení Teachable: projekt `lcenglish-freshlearn-revize` |
 | **GrowOS** | výroba výstupů (newsletter, maily, reklamy), fronta ke schválení | `GrowOS/lcenglish/`, nástěnka [[GrowOS fronta.base]] | Lenka + Claude | [[resources/postupy/growos]] |
 
 ## Metoda, podle které je to postavené

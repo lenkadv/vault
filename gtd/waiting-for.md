@@ -14,6 +14,8 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Rozhodnout s Claudem, jestli přejít na levnější tarif hostingu Hosting Solutions 📅 2027-04-12
+    - Kontext: Multihosting zaplacený na 10. 11. 2026 – 9. 5. 2027 (1 081,74 Kč za půl roku, [faktura 202601198](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1879634141929765549)); další zálohová faktura chodí asi 3 týdny předem (kolem 19. 4. 2027). Lenka 261025: řešit až před koncem předplatného. Otázky pro podporu: jaký tarif stačí, jestli se neztratí stará cena, jestli zůstanou schránky a DNS. Detail [[kontext-ukolu#Weby mimo WordPress]].
 - [ ] Smazat s Claudem plugin Elementor a archivní koncepty na lcenglish.cz, pokud web běží bez potíží 📅 2026-10-28
     - Kontext: Elementor vypnutý 261024 22:40, zatím nesmazaný kvůli rychlému návratu (Lenka: smazat za pár dní). Seznam konceptů v [[resources/web-lcenglish/mapa-webu]].
 

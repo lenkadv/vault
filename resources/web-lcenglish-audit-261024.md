@@ -183,7 +183,7 @@ Server: Linux s jádrem 3.10 (CentOS 7 s prodlouženou podporou TuxCare), Apache
 
 **Co znamená „zálohy hostingu nevidíš“:** v ovládacím panelu (Plesk) je sekce Zálohy pro zákazníka zamčená („oprávnění odepřeno“), sama si tam zálohu udělat ani obnovit nemůžeš. Podle stránky tarifu dělá HOSTINGSOLUTIONS **denní zálohy, uchovává 7 dní**; obnova je přes podporu („Obnovení dat ze zálohy“ je v ceníku, cenu jsem neověřoval). Starší než týden tedy hosting nemá; vlastní zálohy = UpdraftPlus (teď jen ručně).
 
-**publicspeaking.cz** ⚠️: nepřesměrovává se na úrovni domény. Je na něm **celý WordPress 6.2.14** (aktuální 7.1.3), který přesměrovává přes plugin Redirection na lenkadvorakova.cz. Panel hlásí „instalace je zastaralá“ a čekající aktualizace pluginů a šablon. PHP 8.2.35 (opravená verze). Web 105 MB + databáze 34 MB. Starý neaktualizovaný WordPress je zbytečné bezpečnostní riziko; přesměrování jde udělat bez WordPressu (odhad: v Plesku nebo DNS).
+**publicspeaking.cz** ⚠️: nepřesměrovává se na úrovni domény. Je na něm **celý WordPress 6.2.14** (aktuální 7.1.3), který přesměrovává přes plugin Redirection na lenkadvorakova.cz. Panel hlásí „instalace je zastaralá“ a čekající aktualizace pluginů a šablon. PHP 8.2.35 (opravená verze). Web 105 MB + databáze 34 MB. Starý neaktualizovaný WordPress je zbytečné bezpečnostní riziko; přesměrování jde udělat bez WordPressu (odhad: v Plesku nebo DNS). **261025:** přesměrováno přes `.htaccess`, WordPress a databáze smazány (záloha na Disku) → [[kontext-ukolu#Weby mimo WordPress]].
 
 ## lenkadvorakova.cz — výchozí stav (261024 16:10, jen čtení)
 
