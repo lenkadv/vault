@@ -8,7 +8,7 @@ title: "Dárek s podmínkou"
 subtitle: "Alfons Mucha, Slovanská epopej a řadové číslovky"
 date: 2026-10-27
 id: 43ypth6ecq
-status: review
+status: approved
 business: lcenglish
 channel: articles
 created: 2026-10-25
@@ -16,7 +16,7 @@ skill: ""
 note: ""
 ---
 
-<!-- Zrcadlo schváleného NL #28 (methodology 6b): bez pozdravu a podpisu, pomlčky „–“, obrázek bez prokliku. Verze ke zkopírování s kurzívou: library/episodes/28-mucha/substack.html. Publikuje Lenka. -->
+<!-- Zrcadlo schváleného NL #28 (methodology 6b): bez pozdravu a podpisu, pomlčky „–“, obrázek bez prokliku. Verze ke zkopírování s kurzívou: library/episodes/28-mucha/substack.html. Publikuje Lenka. Koncept na Substacku: https://artforenglish.substack.com/publish/post/222050451 (Claude 261025). -->
 
 # Dárek s podmínkou
 
