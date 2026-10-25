@@ -35,7 +35,7 @@ Pravidla:
 - Konec: Fraunces, Roboto Condensed, Teko, Poppins, systémové písmo na prodejních stránkách.
 
 ## Logo
-Klapka v `#FF0044` a nápis „LIGHTS CAMERA ENGLISH!“ černě (úzké tučné písmo, název neověřen). Soubor na webu: `https://lcenglish.cz/wp-content/uploads/2022/04/Xlogo_transparent_background.png` (průhledné pozadí). Na tmavém pozadí potřebuje bílou verzi nápisu: [PLACEHOLDER: existuje bílá verze loga? nahrát do brain/assets/ a zapsat do assets/index.md]
+Klapka v `#FF0044` a nápis „LIGHTS CAMERA ENGLISH!“ černě (úzké tučné písmo, název neověřen). Soubor na webu: `https://lcenglish.cz/wp-content/uploads/2022/04/Xlogo_transparent_background.png` (průhledné pozadí). Soubory: `assets/logo/lce-logo-tmave.png` (černý nápis, na světlé pozadí) a `assets/logo/lce-logo-svetle.png` (bílý nápis, na tmavé pozadí; vytvořeno 261025).
 
 ## Image style
 Výtvarná díla z public domain ve vysokém rozlišení (Met Open Access a podobně), žádné stockové fotky ani AI ilustrace. Tmavé pozadí (inkoust) s obrazy jako atmosféra, silná typografie, zlaté zvýraznění klíčových slov. Vzduch a kontrast — ne přeplněné slidy.

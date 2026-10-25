@@ -20,12 +20,14 @@ until a certain date, a headshot you would rather not see on an ad, a screenshot
 with a customer's name in the corner.
 
 ## Logos and brand marks
-- [PLACEHOLDER: `file name` — what it is, and when to use it]
+- `logo/lce-logo-tmave.png` — celé logo: červená klapka #FF0044 a černý nápis „LIGHTS CAMERA ENGLISH!“, průhledné pozadí, 2560 × 1209 px (originál z webu lcenglish.cz). Na světlé pozadí (papír #F7F1EA, bílá); výchozí volba.
+- `logo/lce-logo-svetle.png` — stejné logo s bílým nápisem, klapka zůstává červená, průhledné pozadí, 2560 × 1209 px (vytvořeno 261025 z originálu). Na tmavé pozadí (inkoust #1A1416, tmavé slidy, patička).
 
 ## Photos of people
 - [PLACEHOLDER: `file name` — who is in it, where it was taken, and where it is fine to use]
 
 ## Product and place
+- (obraz na přihlášení FreshLearnu: Toulouse-Lautrec, The Englishman at the Moulin Rouge, Met 437835, public domain – soubor není ve vaultu, je nahraný přímo ve FreshLearnu)
 - [PLACEHOLDER: `file name` — what it shows, and what it is good for]
 
 ## Screenshots
