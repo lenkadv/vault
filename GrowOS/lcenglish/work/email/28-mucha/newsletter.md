@@ -19,6 +19,8 @@ kanban_order: V0
 
 ## Subject: Dárek s podmínkou
 
+**Preheader (náhledový text):** Tři karafiáty, dvacet obrazů a jak anglicky přečíst 28. 10. 1918 (v Dripu 53124723, Claude 261025)
+
 Další varianty:
 - Skoro sto let čekání
 - Nineteen eighteen

@@ -32,7 +32,7 @@ Dárek, se kterým si nevíte rady.
 
 Praha o tom ví svoje. Jenom místo tří karafiátů dostala dvacet obrazů a některé jsou větší než leckterý obývák.
 
-[OBRÁZEK: nl-thumb z Canvy, bez prokliku]
+[OBRÁZEK: library/episodes/28-mucha/nl-thumb.jpg, bez prokliku]
 
 Alfons Mucha maloval Slovanskou epopej osmnáct let, od roku 1910 do roku 1928. Dvacet obrazů, ty největší jsou přes šest metrů vysoké a osm metrů široké. Peníze na ně dal americký mecenáš Charles Crane a od začátku bylo domluvené, že cyklus dostane Praha darem.
 
