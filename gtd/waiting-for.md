@@ -14,6 +14,8 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Požádat podporu Teachable o smazání školy publicspeaking.teachable.com 📅 2026-11-30
+    - Kontext: škola ID 21392, účet lnk.dvorakova@gmail.com (⚠️ psát z této adresy). Vše podstatné je ve FreshLearn nebo zazálohované na Disku (`Zálohy webů/Teachable 261025`). Po smazání ztratí přístup studenti Mluvte anglicky bez obav (2017–2018). Koncept žádosti připraví Claude; potom smazat DNS záznam a subdoménu `kurzy.publicspeaking.cz` v Plesku. Detail [[lcenglish-freshlearn-revize]].
 - [ ] Vysypat s Claudem koš WordPressu na lenkadvorakova.cz, pokud nic nechybí 📅 2026-11-15
     - Kontext: v koši od 261025 staré stránky Leadpages, stará Home, Blog, alpha, surveytest, SUPERworkshop, koncepty; přesměrování záznamů platí i po vysypání. Detail [[kontext-ukolu#Údržba lenkadvorakova.cz]].
 - [ ] Rozhodnout s Claudem, jestli přejít na levnější tarif hostingu Hosting Solutions 📅 2027-04-12
@@ -54,7 +56,8 @@ sort by due
 ## Čeká na někoho
 - [ ] Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28
     - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
-- [ ] Čekám na Štěpánku Uličnou: založení portfolia DigiStart za GNOSTIKU a ID portfolia → [[digistart]] 📅 2026-10-31
+- [ ] Zkusit se Štěpánkou znovu připojit stránku DigiStart k portfoliu (po 26. 10. večer) → [[digistart]] 📅 2026-10-26
+    - Kontext (Zápisník 261024 23:31): Štěpánka portfolio DigiStart založila, připojení stránky Meta odložila zhruba do po 26. 10. 15:30. Pak zkusit znovu a ověřit, že projde.
     - Kontext: návod nasdílen 261024 (https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3); Lenčino portfolio Meta neodblokovala.
 - [x] Čekám na Štěpánku Uličnou: datum začátku pilotu DigiStart → domluveno ústně, viz [[digistart]] ✅ 2026-10-20
 - [x] (261024: TidyCal běží, `tidycal.com/ulicna/konzultace`, Lenka ho 23. 10. otestovala; úprava popisků je úkol v [[digistart]]) Čekám na Štěpánku Uličnou: odkaz na TidyCal s termíny konzultací DigiStart (pro prodejní stránku) → [[digistart]] 📅 2026-10-28 ✅ 2026-10-24

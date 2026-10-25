@@ -7,7 +7,7 @@
 
 ## Aktuální stav
 
-261025 15:20: Opravy 1–8 hotové a ověřené. Ve FreshLearn už nic nevede na úložiště Teachable, SimpleShop, lights-camera-english.com ani goo.gl. Předložkový minikurz je zálohovaný na Disku (`Zálohy webů/Teachable 261025/Predlozkovy minikurz`), ve FreshLearn není. Zbývá rozhodnout body 9–12: záloha kurzu Mluvte anglicky bez obav (jediný obsah, který je ještě jen na Teachable), drobnosti, TEST produkty a zrušení Teachable.
+261025 17:00: Revize hotová (opravy 1–10, All Courses, sjednocené obchodní podmínky a ochrana osobních údajů). AI Sborovna a VIP skryté z katalogu, hlavní stránky i All Courses; co s nimi dál, je úkol v [[next-actions]]. Zbývá proklikat kurzy jako studentka (next action) a 30. 11. 2026 požádat Teachable o smazání školy ([[waiting-for]]).
 
 ## Co to je
 
@@ -20,8 +20,8 @@ Pravidla:
 
 ## Next actions
 
-- [ ] Rozhodnout o opravách 9–12 ve FreshLearn #next-action #online
-    - Kontext: tabulka Opravy níže; 1–8 hotové 261025. Před zrušením Teachable (12) rozhodnout zálohu Mluvte anglicky bez obav (9).
+- [ ] Proklikat kurzy ve FreshLearn jako studentka s Claudem (videa, zvuky, obrázky, soubory, odkazy) #next-action #online
+    - Kontext: Claude umí v náhledu pro studenty projít každou lekci a zkontrolovat, že se video a zvuk načte, obrázky zobrazí a soubory jsou ke stažení (videa nepřehrává celá). Lenka 261025: udělat později. Žádost o smazání Teachable je ve [[waiting-for]] na 30. 11. 2026.
 
 ## Soupis (FreshLearn, 261025)
 
@@ -79,12 +79,26 @@ Stav: **návrh** = čeká na Lenku · **schváleno** · **hotovo**. Nic se nema�
 | 6 | Prodejní stránky `/hele` a `/naucte-se-ucit-anglicky` ve FreshLearn | Lenka rozhodla 14:40, Claude provedl | **hotovo** 261025: HELE 5 tlačítek → `https://lcenglish.cz/hele/`; Naučte se učit anglicky 5 tlačítek → `https://lcenglish.cz/kurzy/`, odkaz v nadpisu „Díky kurzu NAUČTE SE UČIT ANGLICKY“ zrušen (nadpis tím ztratil velké písmo), kurz skrytý z katalogu („Make Public“ vypnuto, zapsaní studenti přístup mají). Prodej NSUA zatím ne. Blok „Plán kurzu“ na stránce NSUA přepnut z kurzu Nastartujte na NAUČTE SE UČIT ANGLICKY (15:10, Lenka „ano“). |
 | 7 | Mrtvé externí odkazy a Předložkový minikurz | Lenka rozhodla 15:05, Claude provedl | **hotovo** 261025 v Naučte se učit anglicky: 1.2 YouTube a 1.5 Seriály → stejné články na lcenglish.cz; Stínování a Jak dál: věta o online tabulce (goo.gl, Google tabulka už neexistuje) vypuštěna, zůstává „Stáhněte si ji ve formátu Excel“; 1.1 Podcasty: řádek o výběru podcastů (dokument neexistuje) a prázdné „Odkazy:“ vypuštěny; 1.4 Audioknížky: ytmp3.cc vypuštěno; 5.2: odkaz na minikurz i úvodní věta, která do něj zvala, vypuštěny (text pod videem je teď prázdný). Minikurz: 3 videa stažená na Disk, do FreshLearn nepřenesen. |
 | 8 | Webináře: 4 prázdné lekce skrýt (zrušit zveřejnění), ne mazat | Claude | **hotovo** 261025 (stav Draft) |
-| 9 | Zálohovat z Teachable na Disk kurz Mluvte anglicky bez obav (videa a materiály), pokud ho Lenka chce zachovat | Lenka rozhodne | návrh |
-| 10 | Drobnosti: „Shadowlooop“, patička „© 2023“, zastaralá doporučení nástrojů ve Webinářích a Nastartujte | Lenka rozhodne | návrh |
-| 11 | TEST produkty (3 koncepty) smazat | jen s výslovným „ano“ | návrh |
-| 12 | Zrušení Teachable: až po bodech 1, 3, 4, 7 a 9 | Lenka | čeká |
+| 9 | Záloha kurzu Mluvte anglicky bez obav z Teachable na Disk | Lenka „ano“ 15:10, Claude provedl | **hotovo** 261025: `Zálohy webů/Teachable 261025/Mluvte anglicky bez obav/` = 32 videí (`videa/`, 31 z běhu 2018 + jiné úvodní video z běhu 3–4/2017; délky ověřeny proti osnově), 25 příloh (`prilohy/`: checklisty M1–M8, šablona, 13 MP3, obrázek) a soubor s osnovou a texty lekcí; celkem ~1 GB. Běhy 10–11/2017 a 3–4/2017 mají stejnou osnovu i přílohy, zálohován jeden (odhad: i videa stejná, liší se jen úvodní, to je uložené). |
+| 10 | Drobnosti v textech | Lenka rozhodla 16:00, Claude provedl | **hotovo** 261025: „Shadowlooop“ → „Shadowloop“ (název lekce v HELE); patička „© Lights Camera English 2023“ → „© LCEnglish“ a odkaz „Zpátky na web LCEnglish“ na stránkách Home, 10x ENGLISH (měla „© LCEnglish 2025“), HELE, Naučte se učit anglicky a All Courses. Beze změny (Lenka): archivní Webináře a Nastartujte (e-mail lenka@publicspeaking.cz funguje, dobové tipy na nástroje); stránky Webináře, Nastartujte, Obchodní podmínky a Ochrana osobních údajů mají patičku „© Lenka Dvořáková 2023“, nechány. |
+| 11 | TEST produkty (3 koncepty) | Lenka | **nechat** (Lenka 16:00) |
+| 12 | Zrušení Teachable | Lenka | **zatím ne** (Lenka 16:00): škola běží na bezplatném tarifu, nic nestojí; vše podstatné zazálohované. Viz next action. |
 
 ## Záznam (nejnovější nahoře)
+
+- **261025 16:52–17:00** AI Sborovna a AI Sborovna VIP: „Make Public“ vypnuto (publicView false, kurzy dál zveřejněné pro zapsané), odebrány z bloku „Doporučuji“ na hlavní stránce a z All Courses (Lenka). Ověřeno živě: hlavní stránka 10x ENGLISH + HELE, All Courses bez AI Sborovny. Založeny úkoly: proklikat kurzy jako studentka (zde), rozhodnout o AI Sborovně ([[next-actions]], kontext v [[kontext-ukolu#AI Sborovna]]).
+
+- **261025 16:36–16:55** Doplňující kontroly (Lenka):
+  - **Nákup 10x ENGLISH → FreshLearn je ověřený:** živý test 261006 (objednávka 420260502, FAPI → fapipi `/handle-invoice/10XE` 200 OK, Drip, Firebase, FreshLearn člen vznikl) a nastavení fapipi `actions.json` (kurz 157254, plán 22290), viz [[lcenglish-10x-english-sales-page]] a [[daily/2026-10/261006]].
+  - **AI Sborovna:** prodávala se přes SimpleShop (archivováno 261025), stránka `lcenglish.cz/ai` hlásí „prodej skončil“. Ve FreshLearn je kurz zveřejněný s vlastní pokladnou (`/checkout/Course/28834`, 970 Kč), ale **žádná platební brána není napojená** (Stripe nepřipojený, PayPal prázdný; Razorpay neověřen, odhad prázdný) → zaplatit nejde. Co s tím, rozhodne Lenka.
+  - **Obchodní podmínky a ochrana osobních údajů sjednocené:** lcenglish.cz a lenkadvorakova.cz mají shodné obchodní podmínky (info@lenkadvorakova.cz, IČO 647 28 617); samostatnou ochranu osobních údajů má jen lcenglish.cz (`/privacy-policy/`, lenkadvorakova.cz ji nemá, ochrana údajů je tam v čl. 10 obchodních podmínek). Ve FreshLearn byly starší verze s lenka@publicspeaking.cz → stránky `/terms` a `/privacy` teď přesměrovávají na `lcenglish.cz/obchodni-podminky/` a `lcenglish.cz/privacy-policy/` (vlastní kód v hlavičce stránky, jako u `/10xe`; přesměrování v nastavení FreshLearn je placené). Na lcenglish.cz v ochraně osobních údajů 2× lenka@publicspeaking.cz → info@lenkadvorakova.cz (WordPress stránka 4452, stará verze v revizích). Ověřeno živě. Text dál zmiňuje „weby lcenglish.cz a publicspeaking.cz“ (neměněno).
+  - Kontrola lekcí jako studentka: Lenka chtěla jen vědět, jestli jde; nedělalo se.
+
+- **261025 16:19–16:25** Stránka All Courses (`kurzy.lcenglish.cz/all-courses`, blok Product → výběr kurzů): odškrtnuty Naučte se učit anglicky, Webináře, Nastartujte, přidána AI Sborovna (Lenka). Ověřeno živě: AI Sborovna, 10x ENGLISH, Angličtina s příběhem; blok „Testimonial Video“ beze změny.
+
+- **261025 15:57–16:15** Oprava 10 provedena (viz tabulka). Patička je v každé stránce webu zvlášť (blok Footer → Copyright Text a T&C Text), společná patička v Website → Navigation je prázdná. Ověřeno na živém webu: Home, HELE, Naučte se učit anglicky, All Courses bez „Lights Camera English 2023“. Účet Teachable: lnk.dvorakova@gmail.com, škola ID 21392; poslední faktura Teachable (11/2023) šla na lenka@lights-camera-english.com (doména už nefunguje). Nalezeno: Obchodní podmínky ve FreshLearn uvádějí 4× lenka@publicspeaking.cz (adresa funguje; právní text, neměněno).
+
+- **261025 15:10–15:35** Oprava 9. Videa kurzu nemají na Teachable tlačítko Stáhnout, ale odkaz `/courses/<kurz>/lectures/<lekce>/hotmart_lecture_video_download_link/<příloha>` funguje i tak. Hromadné stahování z JavaScriptu Chrome po prvním souboru zablokoval, místní přijímač zablokoval taky (odhad: povolení přístupu k místní síti, nenastavovala jsem), fungovala navigace karty na odkaz ke stažení → složka Stažené soubory → přesun a přejmenování na Disk. 4 duplicitní kopie, které vznikly opakováním, smazány po ověření shody (`cmp`); ostatní soubory ve Stažených nedotčené. Texty lekcí převedené do Markdownu (`Mluvte anglicky bez obav – osnova a texty lekcí.md`). Kurz odkazuje na lenka@publicspeaking.cz, FB skupinu a kurz „How to do great presentations in English“ (kurzy.publicspeaking.cz).
 
 - **261025 15:00–15:20** Blok „Plán kurzu“ na prodejní stránce Naučte se učit anglicky opraven (blok Curriculum → Content → Course; ukazoval kurz Nastartujte vlastní online kurz). Ověřeno na živé stránce; HELE ukazuje svou osnovu, `/10xe` přesměrovává na lcenglish.cz/10x-english. Oprava 7 podle Lenčina rozhodnutí (viz tabulka), 7 lekcí NSUA upraveno přes API, ověřeno: 0 mrtvých odkazů, soubory ke stažení zůstaly. Google dokumenty za goo.gl (výběr podcastů, online tabulky) na Lenčině Disku nejsou a Google je hlásí jako nedostupné (410). Předložkový minikurz: jako majitelka školy jde lekce otevřít bez zápisu, 3 videa (36–41 MB) stažena do `G:\Můj disk\Zálohy webů\Teachable 261025\Predlozkovy minikurz\`. ⚠️ Přímý odkaz na editor stránek `build.freshlearn.com/add-next/<id>` odhlásil Lenku z FreshLearn; editor otevírat jen přes Website → Pages → Edit.
 

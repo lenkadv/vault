@@ -4,7 +4,7 @@
 
 ## Zápisník z telefonu
 
-Zápisník = projekt „Zápisník“ v aplikaci Claude. Co se tam namluví, uloží se přes konektor Google Drive jako .md do `inbox/telefon/` a nic se nespouští (funguje, test z telefonu 261024). Instrukce projektu: [[zapisnik-instrukce]]. **Ikonka na ploše funguje (Lenka 261024).** Zbývá rozhodnout, jestli vyhovuje víc brain dump (zpracuje hned) nebo zápisník (jen uloží). Po rozhodnutí: zapsat postup do CLAUDE.md (Zachytávání) a přidat kontrolu `inbox/telefon` do /daily-plan a weekly review (261024).
+Zápisník = projekt „Zápisník“ v aplikaci Claude. Co se tam namluví, uloží se přes konektor Google Drive jako .md do `inbox/telefon/` a nic se nespouští (funguje, test z telefonu 261024). Instrukce projektu: [[zapisnik-instrukce]]. **Ikonka na ploše funguje (Lenka 261024).** Zbývá rozhodnout, jestli vyhovuje víc brain dump (zpracuje hned) nebo zápisník (jen uloží). **261025 (Lenka):** kontrola `inbox/telefon` přidána do `/daily-plan` (krok 2e4) a do „zavírám“ (krok 5c), postup v CLAUDE.md (Zachytávání).
 
 ## Andrew Graham-Dixon (test do 31. 10.)
 
@@ -29,6 +29,10 @@ Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), 
 ## Behind the Masterpiece
 
 Substack o dějinách umění (https://behindthemasterpiece.substack.com/), Lence se z uměleckých Substacků líbí nejvíc; i bezplatný náhled považuje za velmi hodnotný a zvažuje autorku podpořit předplatným (Lenka 261024). Placené předplatné podle autorky „za pár dolarů měsíčně“ (přesnou cenu jsem neověřovala) přidává slovník dějin umění, hloubkové série, Q&A se čtenáři a možnost psát jí s dotazy a tipy na muzea. Ve svodce se od 261024 shrnuje podrobně → [[resources/postupy/svodka]].
+
+## AI Sborovna
+
+Lenka 261025: zvážit, jestli AI Sborovnu aktualizovat a přidávat nové věci a pouštět do ní nové lidi, nebo ji nechat v klidu dožít tak, jak je. Stav 261025: kurz „AI Sborovna“ (FreshLearn 167515, 38 lekcí, 9 nezveřejněných, prázdné moduly Matematika a Společenské vědy; poslední záznamy webinářů 2/2025) a „AI Sborovna VIP“ (170914, záznamy vysílání 10–11/2024). Prodávala se přes SimpleShop (archivováno 261025), `lcenglish.cz/ai` hlásí „prodej skončil“; ve FreshLearn obě skryté z katalogu, z hlavní stránky i z All Courses (261025), zapsaní studenti přístup mají. Pokladna FreshLearn nemá platební bránu, případný nový prodej by šel přes FAPI → fapipi. Detail [[lcenglish-freshlearn-revize]].
 
 ## Weby mimo WordPress
 
