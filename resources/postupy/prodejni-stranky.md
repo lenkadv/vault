@@ -69,6 +69,7 @@ Plus z GrowOS kontroly tření: **každá námitka z audience.md má na stránce
 
 ## Fáze 3: vzhled
 
+- **Barvy a písma nevymýšlet, brát z brand.md byznysu** (u LCEnglish od 261025 `GrowOS/lcenglish/brain/brand.md`, varianta Galerie: tlačítka #D1003A, hover #A8002E, text #1A1416, pozadí #F7F1EA, zlatá #E6A93B jen na tmavém, DM Serif Display + Karla; vzorník https://claude.ai/artifact/YR59A2aWtN8eTQYshtiNCF). Varianty se liší rozvržením, ne paletou. U stávajících stránek Leadpages se paleta mění jedním blokem stylu `lce-galerie` před `htmlpub-breakpoint-visibility`.
 - Postavit **2–3 varianty vedle sebe** jako neveřejné koncepty (u 10x ENGLISH: A hutná textová, B dopis, C galerie). Lenka vybírá a kombinuje. Výsledná D = úvod z C + tělo A. Porovnávání funguje líp než jedna „finální“ verze.
 - Dát **skutečný vzor** (stránka, která se Lence líbí, např. Bottomless Emails), ne přídavná jména („moderní, čisté“).
 - Vlastní obrázky: skutečné screenshoty produktu, obrazy z public domain sbírek (Met Open Access) obarvené do barev značky. Žádné stock fotky, žádné AI ilustrace.

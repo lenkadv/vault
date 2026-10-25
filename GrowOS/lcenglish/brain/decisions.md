@@ -7,6 +7,9 @@ _Nejnovější nahoře. Přeneseno z 0.1 (brand.md, howto, curriculum, lessons) 
 ## [PLACEHOLDER: YYYY-MM-DD]
 [PLACEHOLDER: what you decided, and the reason behind it. For example: "Focusing on email over social for now, because that is where our buyers actually are and we already have a list."]
 
+## 2026-10-25
+**Jednotná vizuální identita „Galerie“ pro všechny služby LCEnglish.** Barvy jen z loga (červená #FF0044, tlačítka #D1003A, inkoust #1A1416), papírové pozadí #F7F1EA, zlatá #E6A93B jen na tmavém; písma DM Serif Display + Karla (v e-mailech Georgia + Arial). Důvod: každá služba měla jinou hlavní barvu (6 barev, 6 sad písem) a Lenka je pořád míchala; vzor GNOSTIKA (jedna barva z loga, k ní tmavá a teplé pozadí). Ze tří variant vybrala B (Galerie) před A (uklizený web s modrou) a C (filmový plakát). Detaily `brand.md`, vzorník https://claude.ai/artifact/YR59A2aWtN8eTQYshtiNCF.
+
 ## 2026-10-19
 **Jeden postup pro všechny výstupy přes frontu GrowOS, výjimka pro newsletter zrušena.** Newsletter, Substack i FB upoutávka vznikají jako položky fronty (`work/`), Lenka je schvaluje na nástěnce nebo v chatu a teprve schválené jdou do Dripu, na Substack a do Metricoolu. Důvod: u #27 šla FB upoutávka do Metricoolu bez Lenčina výběru a schválení; kombinace „newsletter mimo frontu, příspěvky ve frontě“ byla matoucí a Lenka nechce pamatovat, co má výjimku. Platí od #28 a pro všechny byznysy. Postup: `methodology.md` kroky 5–8, ve vaultu `resources/postupy/growos.md`.
 

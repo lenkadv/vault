@@ -27,3 +27,5 @@ soubor: "~/.claude/skills/impeccable-typeset/SKILL.md"
 [Otevřít SKILL.md](<file:///C:/Users/Lenka/.claude/skills/impeccable-typeset/SKILL.md>)
 
 Poznámky z použití:
+
+- 261025 (vlákno Vizuální identita LCEnglish): skill nespuštěn. Paletu a písma jsem odvodil ručně (barvy přečtené ze stylů živých stránek, kontrasty spočítané skriptem, varianty jako artefakt). Pro jednorázové sjednocení značky jsem ho nepotřeboval; vyzkoušet až při stavbě nové stránky od nuly.

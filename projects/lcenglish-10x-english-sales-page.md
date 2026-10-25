@@ -8,6 +8,7 @@
 
 ## Aktuální stav
 
+261025: Stránka má novou vizuální identitu LCEnglish (Galerie: tlačítka #D1003A, papír #F7F1EA, DM Serif Display + Karla, [[GrowOS/lcenglish/brain/brand]]); úkol na sladění barev s webem je hotový.
 261024 (weekly review): Projekt zůstává otevřený, next action je kampaň „Připravit první kolo reklamy“. Reklamy LCEnglish a DigiStartu na sobě nezávisí a můžou běžet paralelně (Lenka 261024). Otevřené: kampaň LCEnglish asi jen na jeden produkt, buď 10x ENGLISH, nebo Nepravidelná slovesa ([[lcenglish-irregular-sales-page]]). (statické reklamy: vyzkoušet [[ABM – Static Ad Framework]], 261018)
 
 ## Cíl
@@ -58,9 +59,6 @@ Cíl: reklama se sama zaplatí = cena za jeden prodej pod 1 270 Kč (při stropu
     - Vyzkoušet (Lenka 261024): Leadpages „Meta creative optimizer“, rutina, která podle zvoleného rozvrhu najde nejlepší Meta reklamu a napíše k ní novou variantu textu na test; nic nepošle do Meta bez schválení, živou reklamu nemění, rozpočet nemění. Návod: https://leadpages.com/blog/automate-meta-ad-copy-testing · nastavení: https://leadpages.com/dashboard (mail Michael Sacca 22. 10. 2026)
 - [ ] Adaptovat s Claudem frameworky White Label Comedy na reklamu (10x ENGLISH, pak DigiStart) #next-action #online
     - Kontext (Lenka 261020): zdravotnický rámec z mailu „Side Effects May Include…“ (problém jako nemoc, řešení jako léčba, „vedlejší účinky“); Lenka je sama adaptovat neumí, chce to zkusit s Claudem. Zvážit i zkušebně placeného „Briana“ (AI marketér White Label Comedy): https://adsclub.whitelabelcomedy.com/join/hccac-0826b-sp. Mail (štítek Svodka/uchovat): https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1879478438152782851
-- [ ] Sladit barvy prodejních stránek v Leadpages s webem lcenglish.cz #next-action
-    - Kontext (261025): řeší se v novém vlákně „Vizuální identita LC English“ ([[kontext-ukolu#Vizuální identita LC English]]).
-    - Kontext (Lenka 261024, při přestavbě webu): /10x-english a /irregular (Leadpages) mají cihlově červená tlačítka, web používá světlé bordó (tlačítka na Kurzech #D65D67, ověřeno 261024), akcent #FF0044, nadpisy #073071, pozadí #FFF5E0. Až po přenosu přestavěného webu na živou doménu ([[web-lcenglish-audit-261024]]).
 - [ ] Postavit s Claudem hezčí objednávku 10x ENGLISH podle /hele-checkout/ a /irregular-cho/ #next-action
     - Kontext (Lenka 261025): teď tlačítka vedou rovnou na holý formulář FAPI; nedělat hned, jen nezapomenout. Vzor: WP stránky 7446 a 7433 (nadpis, čára, formulář FAPI vlevo, reference vpravo), postup v [[kontext-ukolu#Weby mimo WordPress]] a [[prodejni-stranky]].
 - [ ] Rozhodnout, jaký odpočet použít na 10x ENGLISH (Countdown Hero, nebo Leadpages) — až při reklamě nebo HELE
