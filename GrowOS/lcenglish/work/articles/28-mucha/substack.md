@@ -4,8 +4,8 @@ headline: "Substack #28 – Dárek s podmínkou (Mucha, řadové číslovky a da
 project: a4e-28-mucha
 source: work/email/28-mucha/newsletter.md
 platform: Substack (artforenglish.substack.com)
-title: "Dárek s podmínkou"
-subtitle: "Alfons Mucha, Slovanská epopej a řadové číslovky"
+title: Dárek s podmínkou
+subtitle: Alfons Mucha, Slovanská epopej a řadové číslovky
 date: 2026-10-27
 id: 43ypth6ecq
 status: approved
@@ -14,6 +14,7 @@ channel: articles
 created: 2026-10-25
 skill: ""
 note: ""
+kanban_order: V1
 ---
 
 <!-- Zrcadlo schváleného NL #28 (methodology 6b): bez pozdravu a podpisu, pomlčky „–“, obrázek bez prokliku. Verze ke zkopírování s kurzívou: library/episodes/28-mucha/substack.html. Publikuje Lenka. Koncept na Substacku: https://artforenglish.substack.com/publish/post/222050451 (Claude 261025). -->
