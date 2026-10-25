@@ -14,6 +14,8 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Připomenout Vítkovi obnovu karty ve Firebase Shadowloopu (Visa •5179 platí do 02/2028) 📅 2028-01-15
+    - Kontext (261025): platební profil projektu `shadowloop-firebase` je Vítkův; útrata je téměř nulová, ale bez platné karty hrozí pozastavení funkcí `sale` a `freebie` → [[lcenglish-ekosystem]].
 - [ ] Požádat podporu Teachable o smazání školy publicspeaking.teachable.com 📅 2026-11-30
     - Kontext: škola ID 21392, účet lnk.dvorakova@gmail.com (⚠️ psát z této adresy). Vše podstatné je ve FreshLearn nebo zazálohované na Disku (`Zálohy webů/Teachable 261025`). Po smazání ztratí přístup studenti Mluvte anglicky bez obav (2017–2018). Koncept žádosti připraví Claude; potom smazat DNS záznam a subdoménu `kurzy.publicspeaking.cz` v Plesku. Detail [[lcenglish-freshlearn-revize]].
 - [ ] Vysypat s Claudem koš WordPressu na lenkadvorakova.cz, pokud nic nechybí 📅 2026-11-15
