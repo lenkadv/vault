@@ -241,3 +241,11 @@ Až Lenka přepíše návrh mailu od Clauda, sem se zapíše rozdíl (co Claude 
   - „Smysl průběžného hlídání je…“ → „Smysl průběžného hlídání, které HackedList.io nabízí, je…“. **Pravidlo:** u nabídky říct, kdo službu nabízí.
   - „stačí mi napsat, kdo by za vás přišel“ → „stačí mi napsat“. **Pravidlo:** závěrečnou výzvu nezužovat na konkrétní krok, nechat ji otevřenou.
   - „podzim máte nabitý“ → „podzim máte stále nabitý“; „Takový přehled“ → „Přehled“. Drobnosti.
+
+### 261025 — lenkadvorakova.cz, Home: sekce „Proč se mnou“ (web pro firemní klienty)
+
+- Moje verze: u jedné položky jen dodatek bez slovesa („Rozpočtový výbor OSN během českého předsednictví EU.“), u ostatních celé věty. Lenka: nesourodé. **Pravidlo:** položky jednoho seznamu psát stejnou formou (všechno celé věty, nebo všechno heslovitě).
+- U OSN chyběl obsah a váha: Lenka doplnila, o čem vyjednávala (rozpočet OSN a mírových operací) a že šlo o miliardy dolarů, ale „ne moc bombasticky“. **Pravidlo:** váhu ukázat konkrétním číslem a předmětem, ne přídavnými jmény; jedna krátká věta navíc stačí.
+- „vedla jsem přes 100 lidí a investice za 2 miliardy“ → „vedla jsem přes 100 lidí a měla na starosti investice“. **Pravidlo:** každé části výčtu dát její vlastní přesné sloveso, nesdílet jedno sloveso přes různé věci.
+- Rok (2009) a jméno projektu (kampus Albertov) vynechat: rok působí zastarale, projekt má dnes negativní konotace. **Pravidlo:** na veřejném webu nedatovat starší úspěchy a nejmenovat projekty, ke kterým se Lenka nechce hlásit; stačí role a rozsah.
+- Kontakt (261025): moje věta nad formulářem „Napište mi stručně, kdo ve vašem týmu bude prezentovat… Ozvu se a domluvíme se na dalším kroku.“ Lenka: celou vyškrtnout, „oni vědí, co mají psát do formuláře“; ponechat jen „Raději e-mail? Pište na…“. **Pravidlo:** firemním klientům neradit, co mají napsat, a nepřidávat úvodní text tam, kde formulář mluví sám za sebe.

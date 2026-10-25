@@ -9,7 +9,7 @@ tema:
   - web
   - design
 pouzij_kdyz: "UI/UX design intelligence for web and mobile."
-stav: neprozkoumáno
+stav: použito
 nainstalovano: ano
 verdikt: ""
 spousteni: "/ui-ux-pro-max"
@@ -29,3 +29,7 @@ soubor: "~/.claude/skills/ui-ux-pro-max/SKILL.md"
 Poznámky z použití:
 
 - 261025 (vlákno Vizuální identita LCEnglish): skill nespuštěn. Paletu a písma jsem odvodil ručně (barvy přečtené ze stylů živých stránek, kontrasty spočítané skriptem, varianty jako artefakt). Pro jednorázové sjednocení značky jsem ho nepotřeboval; vyzkoušet až při stavbě nové stránky od nuly.
+
+## Poznámky z použití
+
+- 261025 (web lenkadvorakova.cz, Home): `--design-system` pro osobní web lektorky komunikace dal obecný návrh (Liquid Glass, Poppins/Open Sans, modrá) – nesedí, zamítnuto. Užitečné byly hledání po doménách: `landing` (pořadí úvod → nabídka → reference → CTA po referencích, loga jako důvěra), `product` (odborné služby = tmavá důvěryhodná barva + zlatá), `typography` (potvrzení patkové + bezpatkové dvojice). Kontrasty jsem počítala sama. Návrh verdiktu: ponechat, používat jen dotazy po doménách, ne celý `--design-system`.

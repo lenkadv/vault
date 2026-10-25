@@ -4,7 +4,7 @@ headline: Chatovat s AI umíte. Teď ji naučte, aby pracovala za vás.
 skill: landing-page-write
 arc: mechanism
 id: 08nsvlhil6
-status: changes
+status: rejected
 business: digistart
 channel: pages
 created: 2026-10-17

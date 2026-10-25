@@ -1,0 +1,1 @@
+Štěpánce se podařilo vytvořit portfolio Digistart, ale taky hned dostala odklad a nemohla připojit stránku, protože prý to musí čekat, ta hláška jí ukazovala do pondělka do 15:30 asi, takže je potřeba to zkusit znova, třeba někdy v pondělí večer, abychom prověřili, jestli to projde. K tomu připojení stránky.

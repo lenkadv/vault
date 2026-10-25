@@ -6,7 +6,7 @@ url: https://lenka-dvorakova.lpcontent.net/iYfYzG6Yg_
 mode: own-site
 score: 69
 id: jmfvwe1thi
-status: changes
+status: rejected
 business: digistart
 channel: strategy
 created: 2026-10-21

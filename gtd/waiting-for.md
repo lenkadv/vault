@@ -14,6 +14,8 @@ sort by due
 
 ## Čeká na datum
 
+- [ ] Vysypat s Claudem koš WordPressu na lenkadvorakova.cz, pokud nic nechybí 📅 2026-11-15
+    - Kontext: v koši od 261025 staré stránky Leadpages, stará Home, Blog, alpha, surveytest, SUPERworkshop, koncepty; přesměrování záznamů platí i po vysypání. Detail [[kontext-ukolu#Údržba lenkadvorakova.cz]].
 - [ ] Rozhodnout s Claudem, jestli přejít na levnější tarif hostingu Hosting Solutions 📅 2027-04-12
     - Kontext: Multihosting zaplacený na 10. 11. 2026 – 9. 5. 2027 (1 081,74 Kč za půl roku, [faktura 202601198](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1879634141929765549)); další zálohová faktura chodí asi 3 týdny předem (kolem 19. 4. 2027). Lenka 261025: řešit až před koncem předplatného. Otázky pro podporu: jaký tarif stačí, jestli se neztratí stará cena, jestli zůstanou schránky a DNS. Detail [[kontext-ukolu#Weby mimo WordPress]].
 - [ ] Smazat s Claudem plugin Elementor a archivní koncepty na lcenglish.cz, pokud web běží bez potíží 📅 2026-10-28

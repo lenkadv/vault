@@ -160,7 +160,9 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Věty o Lence a Štěpánce napsat (zatím na stránce žádné nejsou), Š schválí svou — L s C, pak Š
 - [ ] Fotky do sekce o lektorkách (portréty 2024) a snímek webu GNOSTIKY o auditech — C
 - [ ] Kontrola textu 9 body, mobil, popis a náhled pro sdílení — C
+    - Kontext (audit B3 261021, Lenka 261025): popis pro sdílení je zatím anglický výchozí text Leadpages („View this page published on Leadpages“, og:locale en_US), musí být česky. Chybějící kontakt je vědomě žluté místo, doplní se, až bude jasné, kdo kurz prodává. Karta auditu ve frontě → `rejected`.
 - [ ] Doména digistart.cz napojit (podle rozhodnutí v bodě 1) — L s C
+- [ ] Přidat kartu DigiStart do nabídky na lenkadvorakova.cz (třetí karta vedle školení), až bude prodejní stránka venku — C
 - [ ] Tlačítka na rezervaci a objednávku; před spuštěním pixel, zapnout indexování, smazat koncepty A, B, C — C
 
 **4. Konzultace**

@@ -9,7 +9,7 @@ tema:
   - web
   - design
 pouzij_kdyz: "Evaluate design from a UX perspective, assessing visual hierarchy, information architecture, emotional resonance, cognitive load, and overall quality with…"
-stav: neprozkoumáno
+stav: použito
 nainstalovano: ano
 verdikt: ""
 spousteni: "/impeccable-critique"
@@ -27,3 +27,7 @@ soubor: "~/.claude/skills/impeccable-critique/SKILL.md"
 [Otevřít SKILL.md](<file:///C:/Users/Lenka/.claude/skills/impeccable-critique/SKILL.md>)
 
 Poznámky z použití:
+
+## Poznámky z použití
+
+- 261025 (web lenkadvorakova.cz, koncept Home): automatický detektor `npx impeccable` nespuštěn (stahoval by balíček z npm, lokální kopie ve skillu není), kontrola ručně podle pravidel skillu. Přínosné: zakázaný vzor bočních proužků (`border-left` u „Proč se mnou“), opakované nadpisky nad každou sekcí, nejednotné popisky tlačítek, nevyrovnaná loga, skóre heuristik 28/40. Lenka nechala opravit vše kromě věty v úvodu. Návrh verdiktu: ponechat (dobrá kontrola před zveřejněním webu).
