@@ -6,24 +6,23 @@ project: a4e-28-mucha
 platform: facebook
 intent: story
 id: 83npo23zsn
-status: review
+status: approved
 business: lcenglish
 channel: social
 created: 2026-10-25
-note: ""
+note: volím (upravenou) variantu A
+kanban_order: V2
 ---
 
 # Facebook - dárek, se kterým si Praha neví rady
 
 ## Post
 
-Umíte nahlas anglicky přečíst 28. října 1918?
-
 Czechoslovakia was born on the twenty-eighth of October, nineteen eighteen.
 
-Na obraze Alfonse Muchy tu svobodu slaví ženy v krojích, pletou věnce a chystají prapory. Vlevo dole lidé vítají legionáře, kteří se vracejí z ciziny. Je to poslední z dvaceti obrazů Slovanské epopeje. Praha je dostala darem s jedinou podmínkou a tu dodnes nesplnila.
+Na obraze Alfonse Muchy nově nabytou svobodu slaví ženy v krojích, pletou přitom věnce a chystají prapory. Vlevo dole lidé vítají legionáře, kteří se vracejí z ciziny. Je to poslední z dvaceti obrazů Slovanské epopeje, které Praha dostala darem. S jedinou podmínkou - kterou dodnes nesplnila.
 
-Co je to za podmínku a proč jsem na prvním rande celé odpoledne vláčela tři karafiáty, se dočtete v článku. Odkaz je v prvním komentáři.
+Co je to za podmínku a jak to souvisí se třemi karafiáty, které jsem dostala na prvním rande, se dočtete v článku. Odkaz je v prvním komentáři.
 
 **První komentář:** [PLACEHOLDER: URL článku na Substacku - vznikne po naplánování zrcadla]
 
