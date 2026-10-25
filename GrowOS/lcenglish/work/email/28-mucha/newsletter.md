@@ -6,16 +6,16 @@ source: library/episodes/28-mucha/brief.md
 subject: Dárek s podmínkou
 date: 2026-10-27
 id: we8q1kk5ok
-status: review
+status: approved
 business: lcenglish
 channel: email
 created: 2026-10-19
 skill: ""
-note: předložky jsme měli už dvakrát, myslím, lepší by bylo zvolit něcojiného
-kanban_order: Uz
+note: dopsala jsem osobní příběh na úvod, uprav dle potřeby
+kanban_order: V0
 ---
 
-<!-- Claudův draft 2026-10-19 (připraveno dopředu, test fronty). Hook z Lenčina života chybí: [PLACEHOLDER: hook] + otázky. Fakta a zdroje v library/episodes/28-mucha/brief.md. Po Lenčiných úpravách porovnat git diff → lekce. -->
+<!-- Claudův draft 2026-10-19, úvod (rande a karafiáty) dopsala Lenka 2026-10-25, Claude navázal zbytek. Fakta a zdroje v library/episodes/28-mucha/brief.md. Po Lenčiných úpravách porovnat git diff → lekce. -->
 
 ## Subject: Dárek s podmínkou
 
@@ -30,12 +30,15 @@ Další varianty:
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
-zítra je 28. října. Den volna, vlajky na budovách a pro mnoho z nás vzpomínka na to, jak se ve škole slavilo výročí republiky.
+dávno, dávno tomu, co jsem byla na svém prvním opravdovém romantickém rande. Chtěli jsme spolu zajít na výstavu a pak se projít po městě, tedy nijak pozoruhodný plán pro dva gymnazisty. Chlapec dorazil včas, přiměřeně vymydlený - a přinesl mi kytku. To bylo samozřejmě milé. Kdo by nechtěl na rande dostat kytku?
 
-[PLACEHOLDER: hook - Lenčin zážitek k 28. říjnu nebo ke Slovanské epopeji. Možné otázky:
-1. Jak 28. říjen slavíte vy, nebo jak se slavil, když jste byla malá (průvod, lampiony, výlet)? Je s ním spojená nějaká konkrétní vzpomínka?
-2. Viděla jste Slovanskou epopej naživo (Veletržní palác 2012-2016, nebo Moravský Krumlov)? Jak na vás působila ta velikost?
-3. Dostala jste někdy dárek s podmínkou, nebo dárek, se kterým jste nevěděla kam? (Most k pavilonu, který Praha nikdy nepostavila.)]
+Ukázalo se, že... já.
+
+Protože to znamenalo, že ty tři nebohé karafiáty jsem pak musela celé odpoledne vláčet s sebou. Na výstavu, na Petřín, do tramvaje...
+
+Dárek, se kterým si nevíte rady.
+
+Praha o tom ví svoje. Jenom místo tří karafiátů dostala dvacet obrazů a některé jsou větší než leckterý obývák.
 
 (IMAGE: nl-thumb.png - Apoteóza slovanstva, s proklikem na stránku expozice Slovanské epopeje https://www.mucha-epopej.cz/slovanska-epopej/)
 
@@ -43,9 +46,11 @@ Alfons Mucha maloval Slovanskou epopej osmnáct let, od roku 1910 do roku 1928. 
 
 Mucha ho Praze opravdu daroval - v roce 1928, deset let po vzniku republiky. S jedinou podmínkou: město pro obrazy postaví vlastní budovu.
 
-Tu podmínku Praha dodnes nesplnila. Epopej dnes visí na zámku v Moravském Krumlově.
+Tu podmínku Praha dodnes nesplnila. A tak se epopej stěhuje z jednoho dočasného útulku do druhého. Za války byla schovaná, pak skoro padesát let visela na zámku v Moravském Krumlově, potom čtyři roky v pražském Veletržním paláci, v roce 2017 se podívala až do Tokia a od roku 2021 je zase v Krumlově.
 
-Poslední obraz celého cyklu, Apoteóza slovanstva, je oslava konce války a svobody. Vlevo dole lidé vítají legionáře, kteří se vracejí z ciziny, ženy v krojích pletou věnce a vpravo vlají vlajky vítězných mocností (najdete i americkou?). A úplně nahoře stojí mladík s rozpřaženýma rukama a v každé drží věnec.
+Zatímco já jsem se s karafiáty trápila jedno odpoledne, Praha ten svůj dar s sebou vláčí už skoro sto let.
+
+Poslední obraz celého cyklu, Apoteóza z dějin Slovanstva, oslavuje slovanskou minulost i nově nabytou českou svobodu.
 
 **Czechoslovakia was born on the *twenty-eighth* of October, *nineteen eighteen*.** Československo vzniklo 28. října 1918.
 **Mucha gave the Slav Epic to Prague in *nineteen twenty-eight*, ten years later.** Mucha daroval Slovanskou epopej Praze v roce 1928, o deset let později.
@@ -55,8 +60,8 @@ Napsat datum anglicky zvládne skoro každý. Přečíst ho nahlas, to už je ji
 
 Letopočty se čtou po dvojicích, jako dvě čísla za sebou: *1918* je *nineteen eighteen*, *1928* *nineteen twenty-eight*. Žádné „tisíc devět set“. Výjimkou jsou roky kolem dvoutisícího: *2000* je *two thousand* a letošní rok uslyšíte jako *twenty twenty-six* i *two thousand and twenty-six*.
 
-Republika se narodila 28. října. A vy? Napište mi, kdy jste se {% if subscriber.tags contains "M" %}narodil{% elsif subscriber.tags contains "F" %}narodila{% else %}narodili{% endif %} - a zkuste to napsat tak, jak byste to řekli nahlas: *I was born on the … of …, nineteen …*
+Republika se narodila 28. října. A vy? Psát mi to nemusíte ;-), ale zkuste si to aspoň říct nahlas: *I was born on the … of …, nineteen …*
 
 Zdraví L.
 
-P.S. Slovanská epopej jsou dějiny vyprávěné v obrazech. Já zase vyprávím angličtinu - v kurzu [Angličtina s příběhem](https://lcenglish.cz/hele/) má sedmnáct animovaných epizod a gramatika se v nich učí z příběhu, ne z tabulky. (Na vlastní budovu zatím čekat nemusíte.)
+P.S. Slovanská epopej vypráví dějiny ve dvaceti obrazech. Já zase vyprávím angličtinu - v kurzu [Angličtina s příběhem](https://lcenglish.cz/hele/) má sedmnáct animovaných epizod a gramatiku a slovíčka se naučíte díky příběhu, který je možná ještě napínavější než dějiny Slovanů ;-) A ani nový dům kvůli tomu stavět nemusíte ;-)
