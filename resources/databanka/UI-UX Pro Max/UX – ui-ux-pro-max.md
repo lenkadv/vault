@@ -11,7 +11,7 @@ tema:
 pouzij_kdyz: "UI/UX design intelligence for web and mobile."
 stav: použito
 nainstalovano: ano
-verdikt: ""
+verdikt: ponechat
 spousteni: "/ui-ux-pro-max"
 soubor: "~/.claude/skills/ui-ux-pro-max/SKILL.md"
 ---
@@ -32,4 +32,4 @@ Poznámky z použití:
 
 ## Poznámky z použití
 
-- 261025 (web lenkadvorakova.cz, Home): `--design-system` pro osobní web lektorky komunikace dal obecný návrh (Liquid Glass, Poppins/Open Sans, modrá) – nesedí, zamítnuto. Užitečné byly hledání po doménách: `landing` (pořadí úvod → nabídka → reference → CTA po referencích, loga jako důvěra), `product` (odborné služby = tmavá důvěryhodná barva + zlatá), `typography` (potvrzení patkové + bezpatkové dvojice). Kontrasty jsem počítala sama. Návrh verdiktu: ponechat, používat jen dotazy po doménách, ne celý `--design-system`.
+- 261025 (web lenkadvorakova.cz, Home): `--design-system` pro osobní web lektorky komunikace dal obecný návrh (Liquid Glass, Poppins/Open Sans, modrá) – nesedí, zamítnuto. Užitečné byly hledání po doménách: `landing` (pořadí úvod → nabídka → reference → CTA po referencích, loga jako důvěra), `product` (odborné služby = tmavá důvěryhodná barva + zlatá), `typography` (potvrzení patkové + bezpatkové dvojice). Kontrasty jsem počítala sama. Verdikt ponechat (Lenka 261025), používat jen dotazy po doménách, ne celý `--design-system`.
