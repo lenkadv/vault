@@ -14,7 +14,8 @@ Souvisí s úkolem „Projít audit webu a zdokumentovat systémy kurzů LC Engl
 ```
 Web lcenglish.cz (WordPress)  ──┐
 Stránky v Leadpages (dárky)  ───┼─► Drip (účet LCEnglish 2094497)
-Formuláře Dripu na webu      ───┘      │  workflow „delivery: …“ → mail s dárkem
+Formuláře Dripu na webu      ───┤      │  workflow „delivery: …“ → mail s dárkem
+lcenglish.cz/newsletter/     ───┘      │  nebo „signup: newsletter A4E“ (bez dárku) → mail s posledním dílem
                                         │  → CONTROLLER START → 000 GTKY (4 uvítací maily)
                                         │  → vagón podle dárku (B = Nepravidelná slovesa; A HELE, C 10x ENGLISH zatím prázdné)
                                         │  → každé úterý newsletter Art for English (+ zrcadlo na Substacku)
@@ -44,7 +45,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 ### Web lcenglish.cz (WordPress)
 
 - **Ověřeno:** 261026 (nadpis úvodu a nejčtenější články na hlavní stránce, obrázek pro sdílení, koš Plesku vysypán; přestavba 261024–25)
-- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, výběr v zkratce `[lce-posledni-clanky clanky="…"]`), stránky Home, Blog, Kurzy, Kontakt, objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
+- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, výběr v zkratce `[lce-posledni-clanky clanky="…"]`), stránky Home, Blog, Kurzy, Kontakt, Newsletter (`/newsletter/`, přihlášení k Art for English bez dárku, od 261026), objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
 - **Kde běží:** WordPress 7.1.3 u HOSTINGSOLUTIONS (Plesk, server web54, IP 176.227.168.166, PHP 8.3.36), šablona Kadence, od 261024 bez Elementoru (plugin vypnutý, nesmazaný). Na stejném tarifu i lenkadvorakova.cz a publicspeaking.cz (jen přesměrování). Zkušební kopie `staging.lcenglish.cz` (neměnit, neindexovaná). Hosting cca 3 071 Kč ročně, zaplaceno do 9. 5. 2027.
 - **Přístup:** Lenka (2 admin účty: lnk.dvorakova@gmail.com, 07pmtalk@gmail.com), zákaznický účet https://cp.hostingsolutions.cz. Claude pracuje v Chromu, když se Lenka přihlásí; soubory do `mu-plugins` nahrává Claude ve Správci souborů Plesku, když se Lenka přihlásí přes klientskou sekci (Mé služby → lcenglish.cz → Otevřít ovládací panel = jednotné přihlášení; přímá stránka `web54…:8443` chce jiné údaje, viz [[kontext-ukolu#Weby mimo WordPress]] 261026).
 - **Napojení:** měřicí kódy z doplňku `wp-content/mu-plugins/lce-mereni.php` (Meta pixel 552638212929820, GTM, GA4, Google Ads, Sklik); vzhled a filtr blogu `lce-blog-filtr.php`; sledovací kód Dripu (plugin Drip for WordPress) a 84 formulářů Dripu; plugin Leadpages (`/10x-english/`, `/irregular/`, `/hele/`); formuláře FAPI na objednávkových stránkách; Rank Math (SEO, výchozí obrázek pro sdílení `lcenglish-sdileni.jpg` od 261026, [[mapa-webu#Identita a obrázek pro sdílení]]); DNS subdomén `kurzy.` (FreshLearn) a `shadowloop.` (Firebase) je u HOSTINGSOLUTIONS. Schránka `lenka@lcenglish.cz` (odesílací adresa Dripu) je na tomtéž hostingu. Zálohy: UpdraftPlus na Google Disk + denní zálohy hostingu (7 dní, obnova přes podporu).
@@ -86,11 +87,11 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Drip
 
-- **Ověřeno:** 261025 (webhooky, oslovení u všech kontaktů; uvítání 261024)
+- **Ověřeno:** 261026 (nové přihlášení k newsletteru bez dárku otestováno; webhooky a oslovení 261025)
 - **K čemu:** e-mailový seznam, dárky, uvítání (Controller a vagóny podle Email Marketing Heroes), newsletter Art for English, záznam nákupů.
 - **Kde běží:** getdrip.com, účet LCEnglish 2094497, odesílá `lenka@lcenglish.cz`. Druhý účet AI lektoři (8879539) není LCEnglish.
 - **Přístup:** Lenka. Claude: konektor (čtení, odběratelé, maily ve workflow); workflow a integrace jen v prohlížeči. API klíč `DRIP_API_KEY` v `GrowOS/lcenglish/.env`.
-- **Napojení:** vstupy z Leadpages (automatizace), formulářů Dripu na webu (akce ve formuláři) a fapipi (nákup); webhook 124032 (Automate Hero; nefunkční 119864 a 120166 smazány 261025); skript `jmena` čte a zapisuje pole `osloveni`; mail dárku Shadowloop volá funkci `freebie`; automatizace „admin: EU consent – nákup …“ na štítky `Purchased: …`.
+- **Napojení:** vstupy z Leadpages (automatizace), formulářů Dripu na webu (akce ve formuláři), přihlášení k newsletteru bez dárku na lcenglish.cz/newsletter/ (formulář 377807034 → workflow `signup: newsletter A4E`, od 261026) a fapipi (nákup); webhook 124032 (Automate Hero; nefunkční 119864 a 120166 smazány 261025); skript `jmena` čte a zapisuje pole `osloveni`; mail dárku Shadowloop volá funkci `freebie`; automatizace „admin: EU consent – nákup …“ na štítky `Purchased: …`.
 - **Dokumentace:** [[drip-lcenglish-uvitani]] (celá cesta, dárky, Controller, patička, odhlášení), [[email-marketing-heroes]] a [[email-marketing-heroes-mapa]] (metoda), texty mailů `GrowOS/lcenglish/brain/samples/drip-archiv/`.
 - **Otevřené:** vagóny A (HELE) a C (10x ENGLISH) prázdné, návrhy Overture C a 6. mailu Overture B čekají na nástěnce GrowOS ([[next-actions]]); testovací kontakty smaže Lenka; anketa ve 3. uvítacím mailu nic nevětví; stránka odhlášení generická (vlastní stránka „vyberte si, co chcete“ zatím neřešit).
 

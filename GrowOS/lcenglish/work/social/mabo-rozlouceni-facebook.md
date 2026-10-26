@@ -23,7 +23,7 @@ tahle skupina byla dlouho místem, kde jsme spolu mluvili anglicky bez obav. Už
 
 Proto skupinu archivuju. Všechno, co tu je, zůstane k přečtení, jen už sem nepůjde psát.
 
-S angličtinou se ale nerozloučíme! Každé úterý posílám newsletter Art for English: jeden obraz, jeho příběh a angličtina, která se k němu váže. Přihlásit se můžete tady: https://artforenglish.substack.com
+S angličtinou se ale nerozloučíme! Každé úterý posílám newsletter Art for English: jeden obraz, jeho příběh a angličtina, která se k němu váže. Přihlásit se můžete tady: https://lcenglish.cz/newsletter/
 
 A na https://lcenglish.cz najdete články, taháky i kurzy.
 

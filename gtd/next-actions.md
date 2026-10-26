@@ -58,7 +58,9 @@ sort by due
 - [ ] Zveřejnit rozlučkový příspěvek ve FB skupině MABO a připnout ho → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook.md`
     - Kontext (261026): text a postup archivace jsou v položce; za týden po zveřejnění skupinu archivovat (… pod úvodní fotkou → Archivovat skupinu). Odkazy na skupinu jsou z webu pryč.
 - [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
-    - Kontext (261026): API Dripu je hlásí jako zapnutá, podle zápisu z 25. 10. bylo okno z roku 2018 vypnuté. Rozhodnout, která nechat.
+    - Kontext (261026): API Dripu je hlásí jako zapnutá, ale v rozhraní Dripu (Forms) je „LCE homepage“ (37175075) vypnuté, takže API údaj nejspíš neodpovídá; zkontrolovat přepínače ON/OFF u všech čtyř přímo v Dripu a rozhodnout, která nechat.
+- [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
+    - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
     - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
 - [ ] Rozhodnout s Claudem, jestli smazat `GrowOS/lcenglish/legacy-0.1` (archiv z migrace 6. 9.)

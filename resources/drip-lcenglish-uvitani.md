@@ -36,6 +36,13 @@ Pojistky z Blueprintu, které v tom jsou:
 - **Zákazník v kurzu nedostává prodejní maily.** Štítek `IN_PRODUCT` (během produktové série) uvítání zastaví. Po dokončení série „HELE inside“ nebo „Irregular product email series“ ho workflow `admin: IN_PRODUCT removal` odebere.
 - Štítek `CONTROLLER` hlídá, aby člověk neběžel ve dvou vagónech najednou.
 
+## Přihlášení k newsletteru bez dárku (od 261026)
+
+- Stránka https://lcenglish.cz/newsletter/ (WP 7546, odkaz v patičce „Učte se se mnou“ a pruh na hlavní stránce), děkovací https://lcenglish.cz/newsletter/diky/ (WP 7547, noindex).
+- Formulář Dripu **377807034** „Newsletter A4E (lcenglish.cz/newsletter)“ (vložený HTML, bez dvojího potvrzení, přesměrování na děkovací stránku, štítek `newsletter: A4E` posílá skryté pole `tags[]` v kódu na webu – při změně štítku v Dripu upravit i kód stránky).
+- Workflow **`signup: newsletter A4E`** (643734995, kopie „delivery: TOP 3x25“): spouští odeslání formuláře nebo štítek `newsletter: A4E` → `EU_consent_how = newsletter: A4E`, `EU_consent_when` → mail „Váš první Art for English“ (odkaz na archiv Substacku, text v `GrowOS/lcenglish/work/email/newsletter-prihlaseni-prvni-dil.md`) → `controller = c` + CONTROLLER START (za 1 h 000 GTKY) → po uvítání vagón C.
+- Ověřeno 261026 dvěma zkušebními přihlášeními (`lnk.dvorakova+newsletter@…`, `+newsletter2@…`): mail dorazil hned, souhlas, `controller`, `CONTROLLER`, štítek (u druhého, po doplnění skrytého pole).
+
 ## Který dárek kam vede
 
 | Dárek (workflow) | Vstup | controller | Co dostane po uvítání |
