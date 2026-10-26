@@ -25,4 +25,14 @@ Platí pravidlo úklidu z 26. 10. (paměť `feedback_uklid_smysl_ne_misto`): roz
 5. **Archiv `ZZ K záloze`:** stav zálohy (úkol v [[disk-reorganizace]]).
 6. Výsledek zapíše do daily a krátce do Záznamu v [[disk-reorganizace]] (nebo do nového projektu, až bude ten uzavřený).
 
+## Jak se to spouští (aby to nezůstalo jen zapsané)
+
+| Co | Spouštěč | Kde je zapsaný |
+|---|---|---|
+| Měsíční Stažené | úkol 🔁 ve [[waiting-for]] (1. v měsíci); denní plán ho v ten den dá do „Dnes na stole“ | skill `productivity-daily-plan`, krok 2b2 |
+| Čtvrtletní údržba | úkol 🔁 ve [[waiting-for]] (26. 1., 26. 4. …); denní plán stejně jako výš; Quarterly Sprint kontroluje, že proběhla | krok 2b2 denního plánu, skill `productivity-quarterly-sprint` (Session 4, bod 4b) |
+| Instalace na zkoušku | pravidlo v `CLAUDE.md` (načítá se v každém sezení) → úkol za 14 dní | `CLAUDE.md`, Pravidla |
+
+Po splnění opakovaného úkolu zapíše Claude ručně další výskyt (Tasks plugin ho vytvoří jen při odškrtnutí kliknutím v Obsidianu).
+
 Neměnit: AppData, Zotero, Anki, pracovní složky nástrojů. Při odinstalaci pozor na položky se stejným jménem (261026 odinstalace starého Notionu odinstalovala i ten současný).

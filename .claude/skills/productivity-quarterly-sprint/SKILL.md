@@ -225,6 +225,8 @@ The session that makes the plan real. Without it, themes and priorities decay in
 
 4. **Decision journal forward dates.** If decision-journal is configured, scan for entries with review dates in the upcoming quarter. Surface them: "You have 4 decision journal entries due for review next quarter — here are the dates."
 
+4b. **Údržba počítače (vault Lenky, od 261027).** Zkontroluj, že čtvrtletní údržba počítače podle `G:\Můj disk\vault\resources\postupy\udrzba-pocitace.md` proběhla (záznam v daily nebo v projektu `disk-reorganizace`) a že úkol 🔁 ve `gtd/waiting-for.md` má datum v novém kvartálu. Pokud neproběhla, navrhni pro ni blok v prvním týdnu kvartálu.
+
 5. **Calendar prep.** If calendar audit revealed recurring meetings to cancel, surface them as action items: "Earlier this sprint you decided to cancel the 'Product Status' series — add to next-actions?"
 
 6. **Write the quarterly review file.** Compile everything from Sessions 1-4 into a single review file using `assets/quarterly-review-template.md`. Save to `{reviews_folder}/{YYYY-QN}-quarterly-review.md`.

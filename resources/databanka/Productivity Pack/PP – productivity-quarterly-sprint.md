@@ -30,7 +30,7 @@ Poznámky z použití:
 
 <!-- zneni-skillu:start (generuje gen_zneni_skillu.py, needitovat) -->
 
-> [!quote]- Znění skillu (aktualizováno 261025)
+> [!quote]- Znění skillu (aktualizováno 261027)
 > ```yaml
 > name: productivity-quarterly-sprint
 > description: Runs a structured 4-session quarterly planning sprint spread across a week (typically the last week of a calendar quarter). Aggregates from every other pack skill's outputs — 12 weeks of daily plans, weekly reviews, brain dumps, meeting recaps, decisions log, decision-journal entries, reading digests, calendar audits, unblock log patterns, CRM relationship data — and uses them to produce three artifacts: a quarterly review file (deep look-back across 90 days), an updated goals.md (current state of stated goals refreshed with what was achieved/dropped/learned), and a next-quarter themes/priorities file (1-3 themes, 3-5 priorities each, optional metrics) that the weekly review consults all quarter. State-saved across sessions so the user can do this over a week, not in one painful sitting. Use this skill whenever the user says "quarterly review", "quarterly planning", "Q[N] planning", "end-of-quarter review", "set my quarterly goals", "plan the next quarter", "start my quarterly sprint", "resume my quarterly sprint", "reflect on the quarter", "what did I do this quarter", or any phrase about quarterly-scale reflection or planning. The 4 sessions: (1) look back across all pack data, (2) reflect deeply, (3) set themes + priorities, (4) operationalize cadences and time blocks. Designed for the end of Q1/Q2/Q3/Q4 on the calendar.
@@ -257,6 +257,8 @@ Poznámky z použití:
 >    For any cadence that didn't happen consistently last quarter, ask whether to set up a scheduled task (using the schedule skill) for the new quarter.
 >
 > 4. **Decision journal forward dates.** If decision-journal is configured, scan for entries with review dates in the upcoming quarter. Surface them: "You have 4 decision journal entries due for review next quarter — here are the dates."
+>
+> 4b. **Údržba počítače (vault Lenky, od 261027).** Zkontroluj, že čtvrtletní údržba počítače podle `G:\Můj disk\vault\resources\postupy\udrzba-pocitace.md` proběhla (záznam v daily nebo v projektu `disk-reorganizace`) a že úkol 🔁 ve `gtd/waiting-for.md` má datum v novém kvartálu. Pokud neproběhla, navrhni pro ni blok v prvním týdnu kvartálu.
 >
 > 5. **Calendar prep.** If calendar audit revealed recurring meetings to cancel, surface them as action items: "Earlier this sprint you decided to cancel the 'Product Status' series — add to next-actions?"
 >

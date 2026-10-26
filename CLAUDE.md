@@ -189,6 +189,7 @@ Když Lenka řekne „nezapomenout“, „jen aby to nezapadlo“, „neřešit 
   - shrnutí **+ přímý proklik na zdroj** uložen → mail může do koše (`Svodka/smazat`);
   - jen shrnutí bez přímého prokliku (odkaz vede jen na mail) → mail **zůstává dohledatelný v archivu**, nemazat;
   - Substack a jiné na webu dohledatelné texty, běžná oznámení bez odkazu (např. „registrace brzy“) → mail může do koše.
+- **Instalace na zkoušku (261027):** kdykoli Lenka nebo Claude nainstaluje program, rozšíření, CLI, npm balíček nebo MCP server na zkoušku, Claude hned založí ve [[waiting-for]] úkol „Rozhodnout: nechat, nebo odinstalovat X“ s 📅 za 14 dní. Důvod a postup: [[resources/postupy/udrzba-pocitace]].
 - **Git:** Claude smí lokálně `git add` + `git commit`, **nikdy `git push`** (blokováno) — push spouští Lenka sama (`cd "G:\Můj disk\vault"; git push`). Detaily [[resources/postupy/git-zaloha]].
 
 ## Systémové změny — jak je zapisovat

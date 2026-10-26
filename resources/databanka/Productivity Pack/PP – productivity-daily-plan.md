@@ -30,7 +30,7 @@ Poznámky z použití:
 
 <!-- zneni-skillu:start (generuje gen_zneni_skillu.py, needitovat) -->
 
-> [!quote]- Znění skillu (aktualizováno 261026)
+> [!quote]- Znění skillu (aktualizováno 261027)
 > ```yaml
 > name: productivity-daily-plan
 > description: Sestaví denní plán — 2–3 nejdůležitější úkoly (MITs) s časovými bloky, zbytek flexibilně. Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
@@ -190,6 +190,10 @@ Poznámky z použití:
 > Pokud nalezneš soubory, poznamej si jejich cesty — při případném odškrtnutí budeš potřebovat upravit správný soubor.
 >
 > **Vždy také načíst** manuální sekce `G:\Můj disk\vault\gtd\next-actions.md` — sekce @online, @telefon, @doma, @venku obsahují kontextové tasky bez projektu. Zahrnout je do flexibilního seznamu plánu podle kontextu dne.
+>
+> **b2. Waiting-for: termíny a opakované úkoly (od 261027).**
+>
+> Vždy přečti `G:\Můj disk\vault\gtd\waiting-for.md` (nestačí dotaz `tasks` v next-actions, ten Claude v souboru nevidí vyhodnocený). Každá otevřená položka s 📅 do dneška + 3 dny jde do plánu: dnešní a prošlé do „🗂️ Dnes na stole“, ostatní do „⏰ Follow-upy“. **Opakované úkoly (🔁)** v den splatnosti patří do „Dnes na stole“ jako konkrétní práce (např. měsíční Stažené, čtvrtletní údržba počítače podle `resources/postupy/udrzba-pocitace.md`). Když je Claude odškrtne v souboru, Tasks plugin další výskyt nevytvoří, protože ho nespouští klik v Obsidianu: Claude musí pod hotový řádek sám zapsat nový řádek s dalším datem (stejný text a 🔁).
 >
 > **c. Google Kalendář + Todoist kalendář.**
 >
