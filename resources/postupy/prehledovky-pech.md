@@ -52,6 +52,35 @@ Součást „zpracuj přednášku“, vedle karet. Vzor vzhledu: Doc **261012 Od
 
 **Příklad rozporu (261013):** Gros, *Napoleon navštěvující nemocné v Jaffě*: Pechova prezentace 1807–1808, Louvre a Salon 1804. Pech lpí na přesné dataci a Lence dřívější odchylku od prezentace neuznal, proto se ho zeptat, kterou dataci uznává (dashboard `pech/q6`).
 
+## Projekt na cesty (claude.ai, od 261026, zkušebně)
+Projekt **„Přehledovka na cesty“** v aplikaci Claude: v telefonu se ho Lenka zeptá, nechá se zkoušet ve formátu zkoušky dr. Pecha nebo si nechá vysvětlit dílo či pojem. Doplněk k Anki (poznávačka obrazů zůstává v Anki, projekt obrázky z Docs nevidí). Metodologie 2 sem nepatří, ta má Studovnu v dashboardu. Instrukce: [[resources/postupy/prehledovka-na-cesty-instrukce]]. Přehled, k čemu se projekty hodí: [[resources/claude-projects-prehled]].
+
+**Založení (Lenka, na počítači, jednou):**
+1. claude.ai → Projekty → Nový projekt, název „Přehledovka na cesty“.
+2. Instrukce projektu: vložit text z bloku v [[resources/postupy/prehledovka-na-cesty-instrukce]].
+3. Soubory → **+ → Drive** → vložit odkazy na Docy níže (jeden po druhém). Google Docy připojené z Disku se **aktualizují samy** (nápověda Anthropicu [Use Google Workspace connectors](https://support.claude.com/en/articles/10166901-using-the-google-drive-integration), staženo 261026): opravy v zápiscích se do projektu dostanou bez nového nahrávání. Claude z nich čte jen text, obrázky ne. Drive jde jen u soukromého projektu (na Pro jsou všechny soukromé).
+
+**Co do projektu:**
+| Doc | Odkaz |
+|---|---|
+| 261006 Přelom 18. a 19. století a klasicismus (19. st.) | https://docs.google.com/document/d/1rFKf401ZwbKZC7A9qEYlWujbmlBhUm_2_AtTcPOp2Dk/edit |
+| 261013 Přelom 18. a 19. století: Od neoklasicismu k romantismu (19. st.) | https://docs.google.com/document/d/1kuEcpuInRSLRux3-r84iKGSnpqEMMg0MrwF5WkqUeWk/edit |
+| 261020 Proměny umění a estetiky na prahu 19. století (19. st.) | https://docs.google.com/document/d/1hVDtSE7HeDPLHjADk8JwH7e-sSAOxk-M03YZg7D1ryQ/edit |
+| 261002 Počátky avantgardy kolem roku 1905: Fauvismus a německý expresionismus (20. st.) | https://docs.google.com/document/d/1KbPlu9PzneB2CF92gnij3OnLLOBWTvducdNl7K7UxeE/edit |
+| 261009 Kubismus a jeho proměny: Od Slečen z Avignonu k purismu (20. st.) | https://docs.google.com/document/d/1PU9gBs57hjP27tZc7RvPmqpA0S_zGrIbS2ex2hKrnAI/edit |
+| 261016 Umělecké avantgardy počátku 20. století (20. st.) | https://docs.google.com/document/d/1qif_bXmC06R8bXcubeGCcNvatoDmf08UITSevrf9JRk/edit |
+| 261023 Ruská avantgarda, Armory Show a návrat k řádu (20. st.) | https://docs.google.com/document/d/1q8stV2zxP2tFbHpTOOhJQq0sDoCTTWHw1F5AquFK8Hs/edit |
+| 261016 Zkouška u dr. Pecha: podklady od spolužáků, roztříděné (hlavní studijní dokument) | https://docs.google.com/document/d/1sGPBvRlij4aHyIPyeEqVFXjhkKnz014GOXqWpY2yQSw/edit |
+| Přehledovka 19.-20.století: minulé zkoušky | https://docs.google.com/document/d/1wGfiPkkQA0GN7zgcKfqjl8fp1Fh3OtQCP2hww5DaO-M/edit |
+
+Nepřidávat: starý surový Doc 261002 (`1UUeFzbC…`), rozcestník pro spolužáky, prezentace dr. Pecha (obrázky projekt nečte, data děl jsou v zápiscích a v podkladech). Teorie karty (`pech-work\teorie-karty-nahled.txt`) by šly nahrát jako soubor, ale neaktualizují se samy; zatím ne, rozhodne se po týdnu zkoušení.
+
+**Použití na cestě (telefon, i hlasem):** „Zkoušej mě z 20. století, 5 minut“ · „Písemná otázka z přednášky 20. 10.“ · „Poznávačka slovně z kubismu“ · „Vysvětli mi kubismus“ · „Co je picturesque?“ · „Die Brücke: kdo, kdy, kde?“. Bez tématu se projekt zeptá, ze které přednášky, a nabídne jen probrané.
+
+**Po každé přednášce:** jakmile je hotový Doc se zápisky (krok 9 v [[resources/postupy/zpracuj-prednasku]]), Claude v závěrečné zprávě připomene „přidej Doc do projektu“ a Lenka ho připojí (Soubory → + → Drive → odkaz). Bez toho projekt novou přednášku nezná a nezkouší z ní. Změní-li se formát zkoušky nebo poučení z tréninku, upravit instrukce v souboru i v projektu.
+
+**Vyhodnocení:** po týdnu používání od založení (kdy Lenka projekt založí, zapíše se sem). Otázky: používala ho cestou? Ptal se bez nápovědy, hodnotil rozumně? Chybělo něco z podkladů? Výsledek do tohoto oddílu a na kartu `claude-projects` na tabuli.
+
 ## Odtajňování karet (nepředbíhat dr. Pecha; od 261007)
 Obrazové karty z prezentací, které se ještě neprobíraly, jsou v Anki **pozastavené** (suspend) a mají tag `cekame`. Odtajňuje je Claude až po „zpracuj přednášku“, podle toho, **které slajdy pan Pech skutečně probral** (z přepisu nahrávky: poslední zmíněné dílo). Stav je v `pech-work\released.json`: `{"01": 19, "13": 999}` = z balíčku 01 odtajněné slajdy 1–19, z 13 všechny (999); balíček, který v souboru není, je celý pozastavený (včetně doplňků FF-A/B/C). Teorie karty se nikdy nedrží. **Postup:** po zpracování přednášky upravit `released.json` a spustit `pech-work\hold\anki_hold.py` (zálohuje sbírku do `anki-backup`, pozastaví/odtajní, přidá/odebere tag `cekame`, karty s historií nechá být). **Anki musí být zavřené** (skript používá knihovnu `anki` 26.9.3 přímo na sbírce `%APPDATA%\Anki2\Lenka`); Lenka pak Anki otevře a synchronizuje (mobil). Zkouška na kopii: `--dry <cesta>` ukáže počty beze změny. Alternativa bez zavírání Anki: doplněk AnkiConnect (Lenka by ho nainstalovala).
 Počáteční stav 261007: odtajněno 01 (slajdy 1–19; od Ingresa dál čeká na další úterní přednášku) a 13; vše ostatní drženo.

@@ -30,6 +30,7 @@ Hotové (jednotný vzhled, zkontrolované údaje, Poznámky ke kontrole): `26101
 | 261009 Kubismus a jeho proměny: Od Slečen z Avignonu k purismu | Přehledovka 20. st. | `1PU9gBs57hjP27tZc7RvPmqpA0S_zGrIbS2ex2hKrnAI` | hotový (261020): **nový Doc** stejně jako 261002, rozpory v dashboardu `pech/q12`; skripty `zapiskyuild_html1009.py` (text v `z1009\z1009.md`), `format_1009.py`. Starý Doc (261009 Kubismus, purismus a předválečná avantgarda) Lenka smazala |
 | 261005 Osvícenství a zrod dějin umění jako vědy: požadavky předmětu a barokní předchůdci | Metodologie 2 | `1oe6Zb7ikKEMGuYS35Nu8DPi7lIlbMlrZpos_VXNi8VA` | hotový (261022): **nový Doc** jako u 261002 (zpráva jen z nahrávky `f14c8ed4`, 3 kontrolní dotazy), oddíl Ke státnicím, 10 rozporů v Poznámkách; pracovní soubory `meto-work\zapisky\z1005\` (text `z1005.md`, `build_html1005.py` + `notes1005.py`, `format_1005.py`). Pozor: po `format_meto.py` mají nadpisy písmo z výchozího stylu (v PDF Arial), proto dávka `fix2.json` nastaví Lora na nadpisech. Starý Doc `1y_FdQPaQU95uksi_2W5a9ebA6Wuc-7oH90nMY988eLA` (261005 Rekapitulace a osvícenství) Lenka 261022 nechala smazat (v koši Disku) |
 | 261023 Ruská avantgarda, Armory Show a návrat k řádu: Od ikon a lubků k Černému čtverci | Přehledovka 20. st. | `1q8stV2zxP2tFbHpTOOhJQq0sDoCTTWHw1F5AquFK8Hs` | hotový (261023): zpráva jen z nahrávky (zdroj `0231be39`), text napsán znovu, 3 kontrolní dotazy, rozpory v dashboardu `pech/q13`; pracovní soubory `pech-work\z1023\` (`z1023.md`, `build_html1023.py` + `notes1023.py`, `format_1023.py`) |
+| 261026 Romantismus, berlínská škola a francouzská křesťanská archeologie: dějiny umění v 1. polovině 19. století | Metodologie 2 | `13Nqt-Ok5u9RqMnM6IiHA9X6oIBtlaPp-V4fWooSG3y8` | hotový (261026): zpráva jen z nahrávky (zdroj `b22054bd`), 3 kontrolní dotazy (osnova; 40 tvrzení ANO / NE / JINAK; doslovné citace), 5 rozporů a 6 bodů k ověření v Poznámkách; pracovní soubory `meto-work\zapisky\z1026\` (`z1026.md`, `build_html1026.py` + `notes1026.py`, `format_1026.py`) |
 | 261001 Metodologie hagiografie, vývoj kultu svatých a prameny | Hagiografie | `1XZn4frnyo3Ph3Splc7QCDn-OBkkWLEgeiUYpQCuGGLk` | výchozí, neupravený (notebook `0e2d3213`) |
 | 261008 Metodologie hagiografie a kritická analýza raně křesťanských pramenů … | Hagiografie | `12LqIIydjQDzY3ens_5dxSKaS-CwL6FJVe4VNCdS4E6w` | výchozí, neupravený |
 | 261001 Úvod do muzeologie a správy sbírek | Muzejnictví | `1t9S-TOVrNPgQdKbIo9MwN6yc19EUnxXSXpYUd5PvKHU` | výchozí, neupravený (Lenka přejmenovala) |
@@ -184,6 +185,15 @@ Skripty: `C:\Users\Lenka\Documents\pech-work\zapisky\` (`build_html.py`, `format
 - **Díla jen ukázaná na slajdech Notebook nezachytí** (Lenka 261023): obraz, který byl na slajdu, ale slovně se podrobněji nekomentoval, Notebook hlásí jako „nezaznělo“. Takové dílo z prezentace mezi probranými slajdy nepsat do Poznámek jako „nezaznělo“, ale jako „Notebook nezachytil, na slajdu pravděpodobně ukázáno“ a dát ho do tabulky děl; při pochybnosti se zeptat Lenky, která byla na přednášce.
 - Notebook přidává i do kontrolních odpovědí (jméno osla „Dodo“, literatura Lolo; *Červený rayonismus* připsal Gončarovové, v prezentaci Larionov). Co se liší od prezentace nebo literatury, rychle ověřit webem a zapsat jako rozpor.
 
+### Poučení z 261026 (Metodologie 2)
+
+- Druhý kontrolní dotaz (40 tvrzení) Notebook skoro celý potvrdil („ANO, přesně zaznělo“). Teprve třetí dotaz s požadavkem na **doslovné citace** u rizikových míst ukázal, co nezaznělo (*arte moderna*, „první katedra na světě“) a jak zazněla jména. U podezřele souhlasné odpovědi vždy chtít citace.
+- **Zpráva Notebooku vynechává návraty k dřívějším osobám a tématům** (26. 10. chyběli Caylus, Baldinucci, Winckelmann a další, které Lenka v přednášce slyšela). Proto u předmětů s průřezovou látkou (hlavně Metodologie 2) vždy samostatný dotaz „ke komu a čemu z dřívějška se vyučující vrací“ a návraty zapsat do zápisků („Návrat k …“). Co vyučující opakuje, je důležité: [[resources/postupy/metodologie2]], oddíl „Co doc. Kubík opakuje“.
+- Když se přepis Notebooku a Lenka (byla na přednášce) rozcházejí, platí Lenka (26. 10.: „Věříte škola“ Notebook vyložil jako vídeňskou, správně berlínská).
+- Nahrávka v Easy Voice Recorderu měla jiný název (`Metodologie 261026.mp3`), přejmenovat podle tabulky.
+- `notebooklm source refresh` se zkráceným ID (`5c160002`) selhal s „aborted“, s delším (`5c160002-1fe7`) prošel.
+- Vložení nových otázek do dokumentu s otázkami: `insertText` „\n…“ na konec posledního bodu tématu, číslování navazuje samo (od nejvyššího indexu k nejnižšímu).
+
 **Nové nahrávky (261019):** Hagiografie a Muzejnictví z 15. 10. (`Hagio 261015.mp3`, `Muzejnictvi 261015.mp3`) zůstávají v Easy Voice Recorderu, **zatím nezpracovávat** (Lenka, kvůli tokenům).
 
 ## 8. Poznámky ke kontrole (poslední sekce Docu)
@@ -209,6 +219,7 @@ Slovník poznámek stejný jako v textu (v přednášce, dr. Pech, doc. Kubík).
 2. **Daily:** jeden řádek do Průběhu dne dnešního `daily/YYMMDD.md` (přednáška, název Docu, počet rozporů k ověření).
 3. **Kalendář:** skutečný čas práce zapsat při „zavírám“ podle pravidel v [[CLAUDE]] (blok „Zpracování přednášky <předmět>“), ne předem.
 4. Lence v závěrečné zprávě: odkaz na Doc (název jako odkaz), co jsem změnil, co ověřit (5 až 8 odrážek), co zbývá.
+5. **Projekt „Přehledovka na cesty“** (jen Přehledovky, od 261026): v závěrečné zprávě připomenout jednou větou „Přidej Doc do projektu Přehledovka na cesty: Soubory → + → Drive → vložit odkaz“ (odkaz na Doc hned za tím). Claude to udělat nemůže, projekt v claude.ai spravuje Lenka. Detail [[resources/postupy/prehledovky-pech]], oddíl „Projekt na cesty“.
 
 ## 10. Anki větev (jen předměty označené „ano“)
 
