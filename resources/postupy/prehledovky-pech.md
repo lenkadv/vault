@@ -58,7 +58,7 @@ Projekt **„Přehledovka na cesty“** v aplikaci Claude: v telefonu se ho Lenk
 **Založení (Lenka, na počítači, jednou):**
 1. claude.ai → Projekty → Nový projekt, název „Přehledovka na cesty“.
 2. Instrukce projektu: vložit text z bloku v [[resources/postupy/prehledovka-na-cesty-instrukce]].
-3. Soubory → **+ → Drive** → vložit odkazy na Docy níže (jeden po druhém). Google Docy připojené z Disku se **aktualizují samy** (nápověda Anthropicu [Use Google Workspace connectors](https://support.claude.com/en/articles/10166901-using-the-google-drive-integration), staženo 261026): opravy v zápiscích se do projektu dostanou bez nového nahrávání. Claude z nich čte jen text, obrázky ne. Drive jde jen u soukromého projektu (na Pro jsou všechny soukromé).
+3. Soubory → **+ → Drive** → vložit odkazy na Docy níže (jeden po druhém). Google Docy připojené z Disku se **aktualizují samy** (nápověda Anthropicu [Use Google Workspace connectors](https://support.claude.com/en/articles/10166901-using-the-google-drive-integration), staženo 261026): opravy v zápiscích se do projektu dostanou bez nového nahrávání. Claude z nich čte jen text, obrázky ne. Drive jde jen u soukromého projektu (na Pro jsou všechny soukromé). **Zkušenost 261026 (Lenka):** připojování bylo velmi pracné, okno Drive se u každého Docu proklikávalo celou strukturou Disku od začátku. Proto po přednášce připomínat **přesný název Docu**, aby šel v okně najít hledáním nebo mezi nedávnými soubory (nápověda uvádí i vložení odkazu; jestli v okně funguje, zatím neověřeno).
 
 **Co do projektu:**
 | Doc | Odkaz |

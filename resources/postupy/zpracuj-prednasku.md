@@ -219,7 +219,7 @@ Slovník poznámek stejný jako v textu (v přednášce, dr. Pech, doc. Kubík).
 2. **Daily:** jeden řádek do Průběhu dne dnešního `daily/YYMMDD.md` (přednáška, název Docu, počet rozporů k ověření).
 3. **Kalendář:** skutečný čas práce zapsat při „zavírám“ podle pravidel v [[CLAUDE]] (blok „Zpracování přednášky <předmět>“), ne předem.
 4. Lence v závěrečné zprávě: odkaz na Doc (název jako odkaz), co jsem změnil, co ověřit (5 až 8 odrážek), co zbývá.
-5. **Projekt „Přehledovka na cesty“** (jen Přehledovky, od 261026): v závěrečné zprávě připomenout jednou větou „Přidej Doc do projektu Přehledovka na cesty: Soubory → + → Drive → vložit odkaz“ (odkaz na Doc hned za tím). Claude to udělat nemůže, projekt v claude.ai spravuje Lenka. Detail [[resources/postupy/prehledovky-pech]], oddíl „Projekt na cesty“.
+5. **Projekt „Přehledovka na cesty“** (jen Přehledovky, od 261026): v závěrečné zprávě připomenout jednou větou „Přidej Doc do projektu Přehledovka na cesty: Soubory → + → Drive“, s **přesným názvem Docu** k vyhledání v okně Drive (proklikávání strukturou Disku je pracné) a odkazem. Claude to udělat nemůže, projekt v claude.ai spravuje Lenka. Detail [[resources/postupy/prehledovky-pech]], oddíl „Projekt na cesty“.
 
 ## 10. Anki větev (jen předměty označené „ano“)
 
