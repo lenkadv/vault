@@ -6,6 +6,7 @@ Souvisí s úkolem „Projít audit webu a zdokumentovat systémy kurzů LC Engl
 **Jak se rozcestník udržuje živý (Lenka 261026):**
 - **Při „zavírám“ hlídá hook:** skript `~/.claude/inject-closing-checklist.ps1` při pokynu „zavírám“ vypíše soubory o systémech LCEnglish, které se ten den změnily (projekty `lcenglish-*`, [[shadowloop-admin]], [[drip-lcenglish-uvitani]], `resources/web-lcenglish/` aj.). Claude pak opraví oddíl dotčeného systému a přepíše u něj **Ověřeno**.
 - **Při weekly review:** Claude vypíše systémy s „Ověřeno“ starším než 30 dní a nabídne jeden ověřit (krok 7 v `CLAUDE.md`).
+- **Údaje v textech** (den vydání Art for English, ceny, počty) hlídá seznam [[lcenglish-hlidane-udaje]]; skript mapy webu vypíše, kde se na webu a v mailech Dripu vyskytují.
 - **Ověřeno = datum, kdy někdo stav systému skutečně viděl** (v administraci, v kódu, testem), ne kdy se upravil text.
 - Podrobnosti patří do souboru v „Dokumentace“, sem jen přehled. Stránky, odkazy, dárky a videa na webu → [[mapa-webu-skutecna]] (generuje skript), z čeho je web postavený → [[mapa-webu]].
 

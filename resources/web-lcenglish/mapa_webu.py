@@ -8,6 +8,7 @@ a vypíše rozdíl proti minulému běhu.
 Spuštění (z kořene vaultu):  python -I resources/web-lcenglish/mapa_webu.py
 Spouští se při weekly review a při „zavírám“ ve vlákně, které měnilo web.
 Zobrazení stránek čte z mapa-webu-navstevnost.json (Claude ho obnovuje z Metricoolu přes konektor).
+Hlídané údaje (resources/lcenglish-hlidane-udaje.md) hledá v textu stránek a v aktivních mailech Dripu.
 
 Zdroje stránek: sitemapy Rank Math, REST API WordPressu (i stránky s noindex),
 prodejní stránky Leadpages a vše, na co vedou interní odkazy.
@@ -16,6 +17,7 @@ z GrowOS/lcenglish/.env (jen čte).
 """
 
 import base64
+import html
 import json
 import re
 import ssl
@@ -50,6 +52,14 @@ UA = {"User-Agent": "Mozilla/5.0 (mapa webu LCEnglish; Claude pro Lenku)"}
 
 
 def fetch(url, headers=None, timeout=30, verify=True):
+    """Stránky z Leadpages občas neodpoví včas (261026: /irregular/), proto druhý pokus s delším čekáním."""
+    st, final, body = _fetch(url, headers, timeout, verify)
+    if st == 0 or st >= 500:
+        st, final, body = _fetch(url, headers, timeout * 2, verify)
+    return st, final, body
+
+
+def _fetch(url, headers=None, timeout=30, verify=True):
     req = urllib.request.Request(url, headers={**UA, **(headers or {})})
     ctx = None if verify else ssl._create_unverified_context()
     try:
@@ -85,6 +95,7 @@ class Page(HTMLParser):
         self.links, self.nav_links, self.noindex = [], [], False
         self.leadbox = False
         self._stack = []  # (tag, je_šablona)
+        self.text_parts = []  # viditelný text obsahu (bez šablony, skriptů a stylů)
 
     def _in_nav(self):
         return any(n for _, n in self._stack)
@@ -114,6 +125,8 @@ class Page(HTMLParser):
     def handle_data(self, data):
         if self._in_title:
             self.title += data
+        elif not self._in_nav() and not any(t in ("script", "style", "noscript") for t, _ in self._stack):
+            self.text_parts.append(data)
 
 
 def sitemap_paths():
@@ -137,6 +150,73 @@ def rest_items(kind):
         page += 1
     label = {"posts": "článek", "pages": "stránka", "categories": "kategorie"}[kind]
     return {norm(i["link"]): label for i in items}
+
+
+PAGE_TEXTS = {}
+WATCH_FILE = VAULT / "resources" / "lcenglish-hlidane-udaje.md"
+
+
+def drip_auth():
+    env = VAULT / "GrowOS" / "lcenglish" / ".env"
+    if not env.exists():
+        return None
+    m = re.search(r"^DRIP_API_KEY\s*=\s*['\"]?([^'\"\s]+)", env.read_text(encoding="utf-8"), re.M)
+    return {"Authorization": "Basic " + base64.b64encode(f"{m.group(1)}:".encode()).decode()} if m else None
+
+
+def drip_texts():
+    """{místo: text} aktivních mailů Dripu: maily ve workflow a v emailových sériích."""
+    auth = drip_auth()
+    if not auth:
+        return {}
+    api = f"https://api.getdrip.com/v2/{DRIP_ACCOUNT}"
+    getj = lambda u: (lambda st, _, b: json.loads(b) if st == 200 else {})(*fetch(u, auth))
+    clean = lambda h: html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", h or "")))
+    out = {}
+    for wf in getj(f"{api}/workflows?status=active&per_page=200").get("workflows", []):
+        det = getj(f"{api}/workflows/{wf['id']}/details").get("workflows", [{}])[0].get("details", {})
+        ids, stack = [], [det]
+        while stack:
+            n = stack.pop()
+            if isinstance(n, dict):
+                if n.get("action_type") == "send_email" and n.get("email"):
+                    ids.append(n["email"]["id"])
+                stack.extend(n.values())
+            elif isinstance(n, list):
+                stack.extend(n)
+        for eid in ids:
+            e = getj(f"{api}/workflows/{wf['id']}/emails/{eid}").get("emails", [{}])[0]
+            out[f"Drip workflow „{wf['name']}“ → „{e.get('subject') or e.get('name')}“"] = " ".join(
+                [e.get("subject") or "", e.get("preheader") or "", e.get("text_body") or clean(e.get("html_body"))])
+    for c in getj(f"{api}/campaigns?status=active&per_page=200").get("campaigns", []):
+        for e in getj(f"{api}/campaigns/{c['id']}/emails").get("emails", []):
+            out[f"Drip série „{c.get('name')}“ → „{e.get('subject')}“"] = " ".join(
+                [e.get("subject") or "", e.get("preheader") or "", e.get("text_body") or clean(e.get("html_body"))])
+    return out
+
+
+def watched():
+    """[(údaj, platí, regex)] z tabulky v resources/lcenglish-hlidane-udaje.md."""
+    rows = []
+    if not WATCH_FILE.exists():
+        return rows
+    for line in WATCH_FILE.read_text(encoding="utf-8").splitlines():
+        cells = [c.strip() for c in re.split(r"(?<!\\)\|", line.strip())[1:-1]]
+        if len(cells) >= 3 and cells[2].startswith("`"):
+            rows.append((cells[0], cells[1], cells[2].strip("`").replace("\\|", "|")))
+    return rows
+
+
+def find_watched(texts):
+    """{údaj: {"plati":…, "mista": {místo: [úryvky]}}}"""
+    out = {}
+    for name, value, rx in watched():
+        hits = {}
+        for place, text in texts.items():
+            for m in list(re.finditer(rx, text, re.I))[:3]:
+                hits.setdefault(place, []).append("…" + re.sub(r"\s+", " ", text[max(0, m.start() - 60):m.end() + 60]).strip() + "…")
+        out[name] = {"plati": value, "mista": hits}
+    return out
 
 
 def drip_popups():
@@ -192,6 +272,7 @@ def analyse(path):
         "nav_external": nav["external"],
         "videos": videos,
         "leadbox": p.leadbox,
+        "text": re.sub(r"\s+", " ", " ".join(p.text_parts)).strip(),
     }
 
 
@@ -294,6 +375,8 @@ def build():
     for p in data:
         data[p]["nav_backlinks"] = nav_back.get(p, 0)
     common = [f"{l} ({c}×)" for l, c in sorted(common.items(), key=lambda x: (-x[1], x[0]))]
+    global PAGE_TEXTS
+    PAGE_TEXTS = {r["final"]: r["text"] for r in pages.values() if r["status"] == 200 and r["text"]}
     return data, common, redirects, broken, everywhere, titles
 
 
@@ -354,7 +437,7 @@ def check_external(urls):
         return {u: e for u, e in ex.map(one, sorted(urls)) if e}
 
 
-def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad=None):
+def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad=None, watch=None):
     now = datetime.now().strftime("%y%m%d %H:%M")
     seen, seen_src = views()
     listings = LISTINGS | {p for p, d in data.items() if d["kind"] == "kategorie"}
@@ -400,6 +483,17 @@ def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_
         L.append(f"| {link(p)} | {seen.get(p, '?')} | {cell(kurz) if kurz else '**ne**'} | "
                  f"{cell(gift(d)) if gift(d) else '**žádný**'} | {cell(d['internal'])} | {vids(d)} |")
 
+    L += ["", "## Hlídané údaje", "",
+          "Kde se na webu a v aktivních mailech Dripu píše údaj, který se může změnit. Seznam a hodnoty, které platí: "
+          "[[lcenglish-hlidane-udaje]]. Když text nesedí s „Platí“, opravit.", ""]
+    for name, w in (watch or {}).items():
+        L += [f"### {name}", "", f"**Platí:** {w['plati']}", ""]
+        if not w["mista"]:
+            L.append("- nikde nenalezeno")
+        for place, snips in sorted(w["mista"].items()):
+            where = link(place) if place.startswith("/") else place
+            L.append(f"- {where}: " + " · ".join(s.replace("|", "/") for s in snips[:2]))
+        L.append("")
     L += ["", "## Propojení stránek", "",
           "Vede sem z výpisů = hlavní stránka, blog a kategorie (vedou skoro na všechno, proto jen počet). "
           "Ze šablony = menu, patička a „související články“ pod články.", "",
@@ -476,8 +570,16 @@ def main():
     changes = diff(old, data) if old else []
     ext_urls = {u for d in data.values() for u in d["external"]} | {c.rsplit(" (", 1)[0] for c in common if c.startswith("http")}
     ext_bad = check_external(ext_urls)
-    write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad)
-    OUT_JSON.write_text(json.dumps({"generated": datetime.now().strftime("%y%m%d %H:%M"), "pages": data},
+    texts = {**PAGE_TEXTS, **drip_texts()}
+    watch = find_watched(texts)
+    old_watch = prev.get("hlidane", {}) if old else {}
+    for name, w in watch.items():
+        a, b = set(old_watch.get(name, [])), set(w["mista"])
+        changes += [f"+ hlídaný údaj „{name}“ nově v: {x}" for x in sorted(b - a)] if name in old_watch else []
+        changes += [f"− hlídaný údaj „{name}“ už není v: {x}" for x in sorted(a - b)]
+    write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad, watch)
+    OUT_JSON.write_text(json.dumps({"generated": datetime.now().strftime("%y%m%d %H:%M"), "pages": data,
+                                    "hlidane": {n: sorted(w["mista"]) for n, w in watch.items()}},
                                    ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Stránek {len(data)}, rozbitých {len(broken)}, přesměrování {len(redirects)}, "
           f"problémových odkazů ven {len(ext_bad)}.")

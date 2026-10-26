@@ -1,5 +1,5 @@
 {
- "generated": "261026 17:24",
+ "generated": "261026 17:37",
  "pages": {
   "/": {
    "title": "LCEnglish - aby vás angličtina bavila",
@@ -91,7 +91,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=WzIqD9GAS6U"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 12
   },
   "/25-top-podstatnych-jmen/": {
    "title": "Nejpoužívanější slova v angličtina: 25 top podstatných jmen",
@@ -116,7 +116,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=OxgykeTrOsY"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 8
   },
   "/3-nejcastejsi-chyby-rodilych-mluvcich-ktere-vy-nedelate/": {
    "title": "3 nejčastější chyby rodilých mluvčích (které vy neděláte) | LCEnglish",
@@ -153,7 +153,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=4-tSmRGU1DA"
    ],
-   "nav_backlinks": 13
+   "nav_backlinks": 3
   },
   "/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/": {
    "title": "7 nejlepších YouTube kanálů na učení angličtiny | LCEnglish",
@@ -176,7 +176,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=F_pnYSXGE2k"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 6
   },
   "/acting-in-danish/": {
    "title": "Take 10: Acting in Danish | LCEnglish",
@@ -196,7 +196,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=t9G_VzYEHgc"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 9
   },
   "/advanced/": {
    "title": "Pokročilí | LCEnglish",
@@ -265,7 +265,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=oXMdfj1r_d4"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 9
   },
   "/afternoon-tea/": {
    "title": "Take 46: Afternoon Tea | LCEnglish",
@@ -287,7 +287,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=sVLOAH9UXJg"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 4
   },
   "/americka-britska-anglictina/": {
    "title": "Americká vs. britská angličtina: hlavní rozdíly",
@@ -342,7 +342,7 @@
     "https://www.youtube.com/watch?v=BGX4nMrnxg0",
     "https://www.youtube.com/watch?v=e33vwOw8jl0"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 11
   },
   "/anglicka-slovicka/": {
    "title": "Anglická slovíčka: která se učit a jak | LCEnglish",
@@ -384,7 +384,7 @@
     "https://www.youtube.com/watch?v=OxgykeTrOsY",
     "https://www.youtube.com/watch?v=tcypwJMcfxc"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 11
   },
   "/anglicky-chatgpt/": {
    "title": "Učte se anglicky s umělou inteligencí a ChatGPT",
@@ -411,7 +411,7 @@
    ],
    "files": [],
    "videos": [],
-   "nav_backlinks": 13
+   "nav_backlinks": 11
   },
   "/anglicky-za-tyden/": {
    "title": "Anglicky za týden: co se dá naučit a jak na to | LCEnglish",
@@ -465,7 +465,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=eBCjch-jmrM"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 5
   },
   "/anki-navod/": {
    "title": "Anki: kompletní návod + balíček anglických slovíček",
@@ -496,7 +496,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=dZz73jwymjU"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 12
   },
   "/anniversary/": {
    "title": "Take 47: Anniversary | LCEnglish",
@@ -516,7 +516,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=e05EaGhmHMM"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 10
   },
   "/aplikace-shadowloop/": {
    "title": "Aplikace Shadowloop: trénink mluvení, slovíček i gramatiky",
@@ -544,7 +544,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/art-gallery/": {
    "title": "Take 18: Art Gallery | LCEnglish",
@@ -564,7 +564,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=wgk1e6tCvaA"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 6
   },
   "/at-the-airport/": {
    "title": "Take 40: At the Airport | LCEnglish",
@@ -586,7 +586,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=LUAGXmLTUxQ"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/autumn-weather/": {
    "title": "Take 7: Autumn Weather | LCEnglish",
@@ -608,7 +608,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=kLVdTTlvrPE"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 10
   },
   "/backstage/": {
    "title": "Take 58: Backstage | LCEnglish",
@@ -628,7 +628,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=to9a7Jl4fa0"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 7
   },
   "/beginners/": {
    "title": "Začátečníci | LCEnglish",
@@ -652,7 +652,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 111
+   "nav_backlinks": 105
   },
   "/blog/": {
    "title": "Blog | LCEnglish",
@@ -722,7 +722,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fqIZ0dO0XQU"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 7
   },
   "/cats-or-dogs/": {
    "title": "Take 21: Cats or dogs? | LCEnglish",
@@ -762,7 +762,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=EE4f7615Sbo"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/contact/": {
    "title": "Kontakt | LCEnglish",
@@ -798,7 +798,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=omCgqDg73RM"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 9
   },
   "/czech-easter/": {
    "title": "Take 24: Czech Easter | LCEnglish",
@@ -816,7 +816,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Ut5TZabEarQ"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 10
   },
   "/datum-anglicky/": {
    "title": "Jak říct datum anglicky | LCEnglish",
@@ -833,7 +833,7 @@
     "https://www.youtube.com/watch?v=VBC1rCL8dRo",
     "https://www.youtube.com/watch?v=WldbFnfwqOE"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 11
   },
   "/dont-poop/": {
    "title": "Don't Poop In The Rocks - Audio Story | LCEnglish",
@@ -853,7 +853,7 @@
     "https://www.youtube.com/watch?v=T_qeya3i8XU",
     "https://www.youtube.com/watch?v=of4msjnQ1s8"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 10
   },
   "/english-breakfast/": {
    "title": "Take 49: English Breakfast | LCEnglish",
@@ -875,7 +875,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=STU1bUFTrHQ"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 8
   },
   "/exclamations/": {
    "title": "Anglická citoslovce - jak říct Fuj! Au! Mňam! a ostatní | LCEnglish",
@@ -895,7 +895,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Udpq_Xu3A9A"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 8
   },
   "/film-makeup/": {
    "title": "Take 9: Film Makeup | LCEnglish",
@@ -919,7 +919,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=de6ZCe72RvY"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 11
   },
   "/first-impressions/": {
    "title": "Take 42: First Impressions | LCEnglish",
@@ -942,7 +942,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=b_2RpupxdR0"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 11
   },
   "/food-memories/": {
    "title": "Take 48: Food Memories | LCEnglish",
@@ -965,7 +965,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=8Gui_4Du_Tk"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 12
   },
   "/fridge/": {
    "title": "Take 6: What's in the Fridge? | LCEnglish",
@@ -987,7 +987,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=iOA9xjB4TPc"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 8
   },
   "/furniture-hunt/": {
    "title": "Take 51: Furniture Hunt | LCEnglish",
@@ -1007,7 +1007,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Slgno0QEBxk"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 12
   },
   "/gonna-wanna/": {
    "title": "Gonna, wanna a další zkrácené výrazy v hovorové angličtině | LCEnglish",
@@ -1030,7 +1030,7 @@
     "https://www.youtube.com/watch?v=Wi41vpKQytQ",
     "https://www.youtube.com/watch?v=XTgBK0wQJ5c"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 7
   },
   "/halloween/": {
    "title": "Take 5: Halloween!? | LCEnglish",
@@ -1050,7 +1050,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ZaL4XeG4Ffc"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 14
   },
   "/happiness/": {
    "title": "Take 57: Happiness | LCEnglish",
@@ -1070,7 +1070,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Phr9--OjaFg"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 11
   },
   "/hele-checkout-ew/": {
    "title": "HELE EW checkout | LCEnglish",
@@ -1217,7 +1217,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=RMaAZm2tuik"
    ],
-   "nav_backlinks": 13
+   "nav_backlinks": 9
   },
   "/how-to-declutter/": {
    "title": "Take 27: How To Declutter | LCEnglish",
@@ -1239,7 +1239,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=7TIUNBEJJ6Y"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 9
   },
   "/individualni-hodina-1plus2-zdarma/": {
    "title": "Individuální hodina konverzace: jak získat 1+2 zdarma | LCEnglish",
@@ -1258,7 +1258,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Hn27akIHC_g"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 10
   },
   "/inventura-2024/": {
    "title": "Jak jsem na tom s jazyky - inventura 2024 | LCEnglish",
@@ -1339,7 +1339,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Nmfm5yk4esM"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 8
   },
   "/its-our-birthday/": {
    "title": "Take 53: It's Our Birthday! | LCEnglish",
@@ -1359,7 +1359,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=YyXWgd5vYxg"
    ],
-   "nav_backlinks": 14
+   "nav_backlinks": 5
   },
   "/iversenova-metoda/": {
    "title": "Jak se učit slovíčka - Iversenova metoda | LCEnglish",
@@ -1386,7 +1386,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=3zXZdhyvZR4"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 7
   },
   "/jak-se-naucit-anglicke-predlozky/": {
    "title": "Anglické předložky - jak se je naučit | LCEnglish",
@@ -1430,7 +1430,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=_dCsbdIBIHI"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 8
   },
   "/jak-se-zacit-ucit-anglicky-pravidelne/": {
    "title": "Jak se začít učit anglicky pravidelně (a nepřestat) | LCEnglish",
@@ -1453,7 +1453,7 @@
     "https://www.youtube.com/watch?v=oHX0BZMrSTc",
     "https://www.youtube.com/watch?v=zKCEqfZiEWs"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 9
   },
   "/jak-zacit-mluvit-anglicky/": {
    "title": "Jak (konečně) začít mluvit anglicky | LCEnglish",
@@ -1482,7 +1482,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=vl_nlSREDXs"
    ],
-   "nav_backlinks": 13
+   "nav_backlinks": 7
   },
   "/jazykova-predsevzeti/": {
    "title": "Jazyková předsevzetí: jak to udělat, abyste je dodrželi | LCEnglish",
@@ -1502,7 +1502,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=3NxTwT0wjvY"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 10
   },
   "/kdyz-nemate-to-spravne-slovo/": {
    "title": "Co říct, když nemáte to správné slovo | LCEnglish",
@@ -1519,7 +1519,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=9_830UxNsQ0"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 4
   },
   "/keltove-a-anglictina/": {
    "title": "Kde se v angličtině vzalo \"do\" | LCEnglish",
@@ -1554,7 +1554,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 12
+   "nav_backlinks": 11
   },
   "/kurzy/": {
    "title": "Online kurzy angličtiny - učte se se mnou | LCEnglish",
@@ -1612,7 +1612,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=b0-f1ei3Hbo"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 7
   },
   "/lenkas-dream/": {
    "title": "Take 16: Lenka's Dream (předpřítomný čas v praxi)| LCEnglish",
@@ -1632,7 +1632,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=gyXwkX3uDFA"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 6
   },
   "/looking-back-at-2017/": {
    "title": "Take 13: Looking Back at 2017 | LCEnglish",
@@ -1649,7 +1649,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=yDyPcDGHU2A"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 9
   },
   "/lovers-day/": {
    "title": "Take 29: Lovers Day | LCEnglish",
@@ -1667,7 +1667,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=h2nMLA7Z73U"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 2
   },
   "/mince-pies/": {
    "title": "Take 12: Mince pies | LCEnglish",
@@ -1687,7 +1687,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Hipo8OmrpVg"
    ],
-   "nav_backlinks": 4
+   "nav_backlinks": 11
   },
   "/morning-routine/": {
    "title": "Take 1: Morning Routine | LCEnglish",
@@ -1709,7 +1709,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Wi41vpKQytQ"
    ],
-   "nav_backlinks": 13
+   "nav_backlinks": 14
   },
   "/moving-home/": {
    "title": "Take 26: Moving Home | LCEnglish",
@@ -1729,7 +1729,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=bMdsPWMH85U"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 8
   },
   "/names-and-faces/": {
    "title": "Take 59: Names and Faces | LCEnglish",
@@ -1749,7 +1749,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ocnyZyaDNMI"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 5
   },
   "/nebojujte-s-anglictinou/": {
    "title": "Nebojujte s angličtinou | LCEnglish",
@@ -1764,7 +1764,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=DFppXGpz_xI"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 10
   },
   "/nejlepsi-metoda-na-uceni-anglictiny/": {
    "title": "Nejlepší metoda na učení angličtiny | LCEnglish",
@@ -1839,7 +1839,7 @@
    ],
    "files": [],
    "videos": [],
-   "nav_backlinks": 12
+   "nav_backlinks": 10
   },
   "/nepravidelna-slovesa/": {
    "title": "Nepravidelná slovesa v angličtině: jak na ně v 5 krocích | LCEnglish",
@@ -1874,7 +1874,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ZuDcY_W1QXk"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 10
   },
   "/new-hair/": {
    "title": "Take 17: New Hair | LCEnglish",
@@ -1916,7 +1916,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=irFW1gpSkL4"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 7
   },
   "/newsletter/": {
    "title": "Art for English – angličtina přes umění každý týden | LCEnglish",
@@ -1987,7 +1987,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=LPvYskQEY7I"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 6
   },
   "/on-set/": {
    "title": "Take 56: With Abbey on Set | LCEnglish",
@@ -2007,7 +2007,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=jiE7673DPlE"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 9
   },
   "/online-dating/": {
    "title": "Take 33: Online dating | LCEnglish",
@@ -2027,7 +2027,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=PDCQrilGVc8"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 6
   },
   "/planning-a-trip/": {
    "title": "Take 34: Planning a Trip | LCEnglish",
@@ -2047,7 +2047,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=WldbFnfwqOE"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 4
   },
   "/prague-uprising/": {
    "title": "Take 30: Prague Uprising | LCEnglish",
@@ -2067,7 +2067,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=wCUJtTgOWTc"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 7
   },
   "/predlozky-mista-at-on-in/": {
    "title": "Předložky místa: AT, ON, IN | LCEnglish",
@@ -2085,7 +2085,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 9
+   "nav_backlinks": 14
   },
   "/predpritomny-cas/": {
    "title": "Předpřítomný čas: Present Perfect si zamilujete! | LCEnglish",
@@ -2143,7 +2143,7 @@
     "https://www.youtube.com/watch?v=Ll3mbvCb45M",
     "https://www.youtube.com/watch?v=vPTDotiqsF4"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 7
   },
   "/privacy-policy/": {
    "title": "Ochrana osobních údajů | LCEnglish",
@@ -2183,7 +2183,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=_XznjlSG0GM"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 7
   },
   "/proc-se-vanoce-anglicky-pisou-xmas/": {
    "title": "Proč se Vánoce anglicky píšou Xmas | LCEnglish",
@@ -2199,7 +2199,7 @@
     "https://www.youtube.com/watch?v=JyrPdKNpzWo",
     "https://www.youtube.com/watch?v=M4-35TN6Amw"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 7
   },
   "/public-transport/": {
    "title": "Take 50: Public Transport | LCEnglish",
@@ -2224,7 +2224,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=E5EWPNMWLBY"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 8
   },
   "/relatable-faces/": {
    "title": "Take 25: Relatable Faces | LCEnglish",
@@ -2244,7 +2244,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=0ZX09Z6DyNY"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 7
   },
   "/royal-accent/": {
    "title": "Take 31: Royal Accent | LCEnglish",
@@ -2264,7 +2264,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=JSa6RCfNgj4"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/royal-wedding/": {
    "title": "Take 32: Royal Wedding | LCEnglish",
@@ -2303,7 +2303,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fVGposY-KaI"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 5
   },
   "/shakespeare-mail/": {
    "title": "Shakespeare | LCEnglish",
@@ -2336,7 +2336,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ENt-2N-uIj8"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 11
   },
   "/shopping-for-clothes/": {
    "title": "Take 43: Shopping for Clothes | LCEnglish",
@@ -2358,7 +2358,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=9iLrnroGPKQ"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 6
   },
   "/slovicka-karticky/": {
    "title": "Jak se učit slovíčka: Kartičky | LCEnglish",
@@ -2381,7 +2381,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fAstTyeALQU"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 5
   },
   "/slovickova-jednohubka-domaci-pristroje/": {
    "title": "Slovíčková jednohubka: domácí přístroje | LCEnglish",
@@ -2417,7 +2417,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=UD_YT7f1Xzg"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 9
   },
   "/staycation-workation/": {
    "title": "Take 39: Staycation vs. Workation | LCEnglish",
@@ -2439,7 +2439,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=NedrPQz-nOI"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 9
   },
   "/stinovani-trenink-anglicke-vyslovnosti/": {
    "title": "Stínování: jak natrénovat správnou anglickou výslovnost | LCEnglish",
@@ -2464,7 +2464,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=VUJldlhvh-Q"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 6
   },
   "/summer-fruit/": {
    "title": "Take 37: Summer Fruit | LCEnglish",
@@ -2486,7 +2486,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=-eRuavLtvpc"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/survival-kit/": {
    "title": "Take 61: Survival Kit | LCEnglish",
@@ -2506,7 +2506,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=RXrJ6r26BqQ"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 5
   },
   "/thanksgiving/": {
    "title": "Take 8: Thanksgiving | LCEnglish",
@@ -2526,7 +2526,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=vVEYghoouNc"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 9
   },
   "/the-life-of-an-actress/": {
    "title": "Take 22: The Life of An Actress | LCEnglish",
@@ -2568,7 +2568,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=7zz7LIxzZ6w"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 6
   },
   "/tiger-oasis/": {
    "title": "Take 62: Tiger Oasis | LCEnglish",
@@ -2590,7 +2590,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=UkeoAJsC-y0"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 5
   },
   "/tipping-tips/": {
    "title": "Take 44: Tipping Tips | LCEnglish",
@@ -2610,7 +2610,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=s7Jq7VFBfHE"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 8
   },
   "/to-be/": {
    "title": "Sloveso to be - být v angličtině | LCEnglish",
@@ -2635,7 +2635,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=tHewG-K_wfA"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/top-25-adjectives/": {
    "title": "25 nejpoužívanějších anglických přídavných jmen | LCEnglish",
@@ -2687,7 +2687,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=tcypwJMcfxc"
    ],
-   "nav_backlinks": 13
+   "nav_backlinks": 9
   },
   "/trip-to-ikea/": {
    "title": "Take 20: Trip to IKEA | LCEnglish",
@@ -2707,7 +2707,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=gxCz5JkGS9I"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 3
   },
   "/tv-series-revisited/": {
    "title": "Take 60: TV Series Revisited | LCEnglish",
@@ -2727,7 +2727,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ItteWs8c-GQ"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 9
   },
   "/tvseries-for-english/": {
    "title": "Take 3: TV Series That Will Help You Improve Your English | LCEnglish",
@@ -2751,7 +2751,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=CcJYT2BpSnc"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 15
   },
   "/ucit-se-anglicky-nepotrebovat-cas/": {
    "title": "20 způsobů, jak na angličtinu nepotřebovat žádný čas navíc",
@@ -2779,7 +2779,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 10
+   "nav_backlinks": 11
   },
   "/uncategorized/": {
    "title": "Různé | LCEnglish",
@@ -2796,7 +2796,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 12
+   "nav_backlinks": 13
   },
   "/walk-in-the-woods/": {
    "title": "Take 52: Walk in the Woods | LCEnglish",
@@ -2814,7 +2814,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Tt31_VLg6vI"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 10
   },
   "/walkie-talkie/": {
    "title": "Walkie-Talkie, Heatie-Eatie a Starey-Squarey | LCEnglish",
@@ -2832,7 +2832,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 12
+   "nav_backlinks": 11
   },
   "/weather-idioms/": {
    "title": "Take 11: Weather Idioms - Počasí v idiomech | LCEnglish",
@@ -2852,7 +2852,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=hvfuGfKts0U"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 8
   },
   "/what-to-pack/": {
    "title": "Take 36: What to Pack | LCEnglish",
@@ -2872,7 +2872,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=5frvn-61Puk"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 8
   },
   "/whos-henry/": {
    "title": "Take 23: Who's Henry? | LCEnglish",
@@ -2893,7 +2893,41 @@
    "videos": [
     "https://www.youtube.com/watch?v=lD8GmChtjzM"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 6
   }
+ },
+ "hlidane": {
+  "Den vydání Art for English": [
+   "Drip série „000 GTKY“ → „ [Email 1/4] Učím (se) jinak“"
+  ],
+  "Jak často vychází Art for English": [
+   "/",
+   "/newsletter/",
+   "Drip série „000 GTKY“ → „ [Email 1/4] Učím (se) jinak“"
+  ],
+  "Počet dílů Art for English": [
+   "/newsletter/"
+  ],
+  "Počet studentů": [
+   "/"
+  ],
+  "Počet online kurzů": [
+   "/"
+  ],
+  "Spokojenost a pokroky": [
+   "/",
+   "/the-life-of-an-actress/",
+   "Drip série „HELE inside“ → „[HELE] E7: Je to tak hodinka cesty...“"
+  ],
+  "Cena Nepravidelná slovesa za 14 dní": [
+   "/irregular/"
+  ],
+  "Cena 10x ENGLISH": [
+   "/10x-english/"
+  ],
+  "Cena Angličtina s příběhem (HELE)": [
+   "/hele-ew-sp/",
+   "/hele/"
+  ]
  }
 }
