@@ -43,17 +43,17 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Web lcenglish.cz (WordPress)
 
-- **Ověřeno:** 261026 (obrázek pro sdílení, koš Plesku vysypán; přestavba 261024–25)
-- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, rozpracováno ve vlákně „Úpravy webů ze Zápisníku 261025“), stránky Home, Blog, Kurzy, Kontakt, objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
+- **Ověřeno:** 261026 (nadpis úvodu a nejčtenější články na hlavní stránce, obrázek pro sdílení, koš Plesku vysypán; přestavba 261024–25)
+- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, výběr v zkratce `[lce-posledni-clanky clanky="…"]`), stránky Home, Blog, Kurzy, Kontakt, objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
 - **Kde běží:** WordPress 7.1.3 u HOSTINGSOLUTIONS (Plesk, server web54, IP 176.227.168.166, PHP 8.3.36), šablona Kadence, od 261024 bez Elementoru (plugin vypnutý, nesmazaný). Na stejném tarifu i lenkadvorakova.cz a publicspeaking.cz (jen přesměrování). Zkušební kopie `staging.lcenglish.cz` (neměnit, neindexovaná). Hosting cca 3 071 Kč ročně, zaplaceno do 9. 5. 2027.
-- **Přístup:** Lenka (2 admin účty: lnk.dvorakova@gmail.com, 07pmtalk@gmail.com), zákaznický účet https://cp.hostingsolutions.cz. Claude pracuje v Chromu, když se Lenka přihlásí; soubory do `mu-plugins` nahrává Lenka v Plesku.
+- **Přístup:** Lenka (2 admin účty: lnk.dvorakova@gmail.com, 07pmtalk@gmail.com), zákaznický účet https://cp.hostingsolutions.cz. Claude pracuje v Chromu, když se Lenka přihlásí; soubory do `mu-plugins` nahrává Claude ve Správci souborů Plesku, když se Lenka přihlásí přes klientskou sekci (Mé služby → lcenglish.cz → Otevřít ovládací panel = jednotné přihlášení; přímá stránka `web54…:8443` chce jiné údaje, viz [[kontext-ukolu#Weby mimo WordPress]] 261026).
 - **Napojení:** měřicí kódy z doplňku `wp-content/mu-plugins/lce-mereni.php` (Meta pixel 552638212929820, GTM, GA4, Google Ads, Sklik); vzhled a filtr blogu `lce-blog-filtr.php`; sledovací kód Dripu (plugin Drip for WordPress) a 84 formulářů Dripu; plugin Leadpages (`/10x-english/`, `/irregular/`, `/hele/`); formuláře FAPI na objednávkových stránkách; Rank Math (SEO, výchozí obrázek pro sdílení `lcenglish-sdileni.jpg` od 261026, [[mapa-webu#Identita a obrázek pro sdílení]]); DNS subdomén `kurzy.` (FreshLearn) a `shadowloop.` (Firebase) je u HOSTINGSOLUTIONS. Schránka `lenka@lcenglish.cz` (odesílací adresa Dripu) je na tomtéž hostingu. Zálohy: UpdraftPlus na Google Disk + denní zálohy hostingu (7 dní, obnova přes podporu).
 - **Dokumentace:** [[mapa-webu]] (co kde je), [[web-lcenglish-audit-261024]] (výchozí stav, hosting, pluginy), [[kontext-ukolu#Weby mimo WordPress]] (průběh přestavby), kopie doplňků `resources/web-lcenglish/`.
-- **Otevřené:** smazat plugin Elementor a archivní koncepty ([[waiting-for]] 📅 2026-10-28); koš Plesku se zbytky `elementor` vysypala podpora HOSTINGSOLUTIONS (svodka č. 27, 261026); úpravy hlavní stránky ze Zápisníku běží v samostatném vlákně; levnější tarif hostingu zvážit po úklidu; tarif řešit ve [[waiting-for]] 📅 2027-04-12.
+- **Otevřené:** smazat plugin Elementor a archivní koncepty ([[waiting-for]] 📅 2026-10-28); koš Plesku se zbytky `elementor` vysypala podpora HOSTINGSOLUTIONS (svodka č. 27, 261026); levnější tarif hostingu zvážit po úklidu; tarif řešit ve [[waiting-for]] 📅 2027-04-12.
 
 ### Leadpages
 
-- **Ověřeno:** 261026 (obrázky pro sdílení prodejních stránek; patička a ThePay 261025)
+- **Ověřeno:** 261026 (obrázky pro sdílení a nový snímek Shadowloopu na /irregular/ a /10x-english/; patička a ThePay 261025)
 - **K čemu:** prodejní stránky (10x ENGLISH `Ytf0hlJeNc`, Irregular, HELE `1ViPiydGxm`), stránky dárků (Anki, Shadowloop texty, Daily Routine…), stránky seznamu (`remain`, `unsubscribe`…), DigiStart.
 - **Kde běží:** https://leadpages.com/dashboard, tarif Grow, subdomény `lenka-dvorakova.lpcontent.net` a `lenkadvorakova.lpages.co`; od 15. 10. 2026 nové prostředí (186 stránek převedeno).
 - **Přístup:** Lenka. Claude: konektor (vidí stránky, ne nastavení integrací), úpravy v Chromu.
