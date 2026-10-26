@@ -2,7 +2,7 @@
 
 - **Zdroj:** Danny Iny (Mirasee), úvodní video k tréninku AI Strategist pro přihlášené, „Danny's AI setup guide for training using Claude“, 9:06. Přepis v Lenčině Voicenotes: <https://voicenotes.com/recording/V6s5UzaV> (nahráno 21. 10. 2026). Přímý odkaz na video nemám (nevím, kde ho Lenka pustila; asi v materiálech tréninku pro přihlášené).
 - **Druhý zdroj se zdůvodněním:** veřejné video Dannyho Inyho „2026 AI landscape update“ (14. 10. 2026, série před AI Strategist), přepis je ve Voicenotes ve stejném seznamu nahrávek (Lenčino Voicenotes, 14. 10.).
-- **K čemu:** vysvětlení „proč DigiStart běží na Claude“ ([[digistart]]). Poznámky vlastními slovy, krátké citace v angličtině; celý přepis zůstává ve Voicenotes.
+- **K čemu:** vysvětlení „proč DigiStart běží na Claude“ ([[digistart]]). Poznámky vlastními slovy, krátké citace v angličtině. Celé přepisy (261026): [[GrowOS/digistart/library/danny-iny-ai-strategist/README|složka danny-iny-ai-strategist]].
 
 ## Úvodní video: jak to Danny říká (9 min)
 
