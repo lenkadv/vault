@@ -79,7 +79,7 @@ pointer to it here — so this file stays short and quick to load.
   resetu vědomě nepřenášejí. Jediná výjimka: `brain/samples/` (skutečně
   odeslané newslettery) je platná reálná historie.
 
-- Migrace z GrowOS 0.1 proběhla 2026-09-06. Kompletní 0.1 archiv je v `lcenglish/legacy-0.1/2026-09-06/original/`. Detailní produkční postupy (checklist tvorby epizody, týdenní checklist, howto) jsou v `library/process/`.
+- Migrace z GrowOS 0.1 proběhla 2026-09-06. Archiv `lcenglish/legacy-0.1/` smazán 261026 (Lenka); celé 0.1 je v zipech `vault/archive/growos-0.1-pred-migraci-260906.zip` a `growos-0.1-backup-260906.zip`. Detailní produkční postupy (checklist tvorby epizody, týdenní checklist, howto) jsou v `library/process/`.
 - **Jednotný postup výstupů od 2026-10-19:** všechno přes frontu (`work/`, review → approved), teprve pak Drip/Substack/Metricool. Výjimka pro newsletter zrušena, viz [[decisions]] a [[methodology]].
 - Hlavní běžící formát je **Art for English** — týdenní newsletter přes Drip podle `research/art-bites-curriculum-2026.md`. Postup tvorby dílu je v [[methodology]]. Epizody 1–27 odeslané, #28 Mucha naplánovaná na 27. 10. 2026 (Drip 8:01, Substack 8:27, FB 12:30), #29–30 rozpracované ve frontě (stav 2026-10-25). Drip thumbnail a preheader, Substack tlačítka a proklik obrázku dělá od #28 Claude (viz [[methodology]]).
 - Thumbnail k epizodě dělá Lenka sama v Canvě — Claude připraví jen text pro Canvu (anglicky).

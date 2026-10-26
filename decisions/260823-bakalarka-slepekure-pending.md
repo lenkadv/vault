@@ -58,3 +58,7 @@ Lenka nerozumí, z čeho vyučující obava u Male Gaze pramení (formát bakal�
 - [[decisions/260523-lcenglish-jako-donor]] — profesní kontext, širší rozhodnutí o identitě, review taky 261005
 - [[areas/slepekure]]
 - [[areas/studies]] — Male Gaze seminárka, nové kandidátní téma
+
+## 261026 — rozhodnuto
+
+Lenka se s dr. Štěrbovou (KTF) dohodla na bakalářce o Vojtěchovi (Brandl vs. Reiner, navazuje na seminárku Obraz sv. Vojtěcha). Další krok: kostra pro dr. Štěrbovou (co je hotové, rozpracované, co prozkoumat) → [[next-actions]], [[kontext-ukolu#Paní doktorka Štěrbová, sborník Transitorius mundus]].

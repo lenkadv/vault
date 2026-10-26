@@ -1,0 +1,1 @@
+V Grow OS v části LC English máme složku Legacy 0.1 a já si říkám, jestli už nepřišla ta chvíle, kdy jsme to měli vymazat. Nevím, jestli to máme někde hlídané. A pokud ano, tak fajn, můžeme to zatím nechat ležet. Pokud ne, tak se obávám, že to je jedna z těch věcí, které jsou někde napsané a věci leží tam už na věky, takže bych se na to chtěla podívat.

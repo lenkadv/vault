@@ -1,0 +1,1 @@
+Na prodejní stránce nepravidelných sloves Irregular je náhled toho, jak vypadá shadow loop, a je ještě v té barevnosti, než jsme ji upravili. Takže tenhle ten obrázek by to chtělo změnit tak, aby odpovídal tomu, jak shadow loop skutečně vypadá, a taky aby lépe barevně zapadal do toho, jak tu stránku máme teď koncipovanou.

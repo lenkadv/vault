@@ -1,6 +1,6 @@
 # Zápisník z telefonu — instrukce pro projekt v aplikaci Claude
 
-Text níže se vkládá do pole **Instrukce projektu** v projektu „Zápisník“ (aplikace Claude, telefon / claude.ai). Potřebuje zapnutý konektor **Google Drive**. Poznámky přistanou jako `.md` v `vault/inbox/telefon/` a zpracuje je Claude Code u počítače: automaticky při `/daily-plan` a při „zavírám“ (od 261025), jinak pokynem „zpracuj zápisník“. Zpracované soubory jdou do `inbox/telefon/zpracovano/`. Notion se tu záměrně nepoužívá, protože je drahý na tokeny.
+Text níže se vkládá do pole **Instrukce projektu** v projektu „Zápisník“ (aplikace Claude, telefon / claude.ai). Potřebuje zapnutý konektor **Google Drive**. Poznámky přistanou jako `.md` v `vault/inbox/telefon/` a zpracuje je Claude Code u počítače: automaticky při `/daily-plan` a při „zavírám“ (od 261025), jinak pokynem „zpracuj zápisník“. Zařazené soubory jdou do `inbox/telefon/zarazeno/`. Notion se tu záměrně nepoužívá, protože je drahý na tokeny.
 
 ---
 

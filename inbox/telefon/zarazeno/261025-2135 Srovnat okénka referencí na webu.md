@@ -1,0 +1,1 @@
+Na stránce lenkadvorakova.cz v části Co říkají klienti je okénko s citátem od Jitky Pourové větší než ty další dvě. To je potřeba upravit a srovnat.

@@ -34,4 +34,6 @@ Nejmenší krok: vyber jeden z návrhů, napíšu instrukce a seznam souborů k 
 - **Paměť projektu** si drží, co nešlo, a vrací se k tomu.
 - **Nenahradí** Anki a poznávačku obrazů.
 - **Překryv:** u Metodologie už je zkoušecí Notebook (NotebookLM) a skill v Gemini; projekt přidává oba předměty na jednom místě, paměť slabých míst a hlasový režim. Návrh: týden zkusit vedle Notebooku.
-- **Neověřeno:** jestli se Google Docs v projektu aktualizují samy, nebo se nahrávají znovu.
+- **Ověřeno 261026:** Google Docs připojené z Disku (Soubory → + → Drive) se v projektu aktualizují samy; Claude z nich čte jen text, obrázky ne ([nápověda](https://support.claude.com/en/articles/10166901-using-the-google-drive-integration)).
+- **Rozhodnuto 261026:** projekt jen pro Přehledovku dr. Pecha, „Přehledovka na cesty“ → [[resources/postupy/prehledovky-pech]] (oddíl „Projekt na cesty“), instrukce [[resources/postupy/prehledovka-na-cesty-instrukce]].
+- **261026, po vzniku Studovny:** u Metodologie 2 je hlavní učení ve Studovně dashboardu (linie, jen z prošlého, i na telefonu s diktováním). Projekt by k ní přidal hlavně volné otázky („vysvětli mi…“), Přehledovku dr. Pecha na stejném místě a paměť slabých míst. Zkoušení z Metodologie už má Studovna, Notebook i Gemini, takže projekt kvůli němu samotnému nedává smysl; rozhoduje Lenka (karta `claude-projects` na tabuli).

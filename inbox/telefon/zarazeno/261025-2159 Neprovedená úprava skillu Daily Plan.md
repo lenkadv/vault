@@ -1,0 +1,1 @@
+A v dokumentu, který máme uložený pod postupy tabule, se píše, že úprava skillu Productivity Daily Plan podle tohoto postupu se dělá s Lenkou, zatím neprovedena. Lenka o tom ovšem zjevně nic neví, takže asi to není provedené. A zase je to jedna z těch věcí, které jsou někde napsané, ale není k nim žádná akce, takže nenastanou, protože jenom z toho zapsaného textu se nic nestane.

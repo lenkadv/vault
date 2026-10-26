@@ -1,0 +1,1 @@
+Na lcenglish.cz je nápis „Chcete se naučit anglicky“ příliš vlevo u kraje obrazovky. I na větší obrazovce, i na menší obrazovce by bylo dobré ho posunout víc ke středu, aby to bylo estetičtější.

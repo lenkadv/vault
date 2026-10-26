@@ -1,0 +1,1 @@
+Na webu lenkadvorakova.cz celá ta hero section by se mi líbila trošku větší, aby tam byla větší ta fotografie s tím modrým pozadím za mnou, aby to působilo trošku dominantněji, třeba takovým způsobem, jako to máme na LC English, kde tomu prostě daleko víc vévodím. Tohle to má trošku takovou estetiku z roku 2000 a to nechcem.

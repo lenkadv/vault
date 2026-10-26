@@ -63,7 +63,7 @@ pointer to it here — so this file stays short and quick to load.
 
 ## Notes
 
-- Migrace z GrowOS 0.1 proběhla 2026-09-06. Kompletní 0.1 archiv je v `tadylenka/legacy-0.1/2026-09-06/original/`.
+- Migrace z GrowOS 0.1 proběhla 2026-09-06. Archiv `tadylenka/legacy-0.1/` smazán 261026 (Lenka); celé 0.1 je v zipech `vault/archive/growos-0.1-pred-migraci-260906.zip` a `growos-0.1-backup-260906.zip`.
 - **Banka nápadů = `library/content-bank/`** (jednotlivé soubory, pohled `Content Bank.base`). Schéma: `library/content-bank/_SCHEMA.md`. `rubrika` = 3 rotující + `jine` + `mimo`; `status` = fresh/used/retired; `temata` = skutečné téma (jen u 3 hlavních rubrik); žádná osa formátu. NEPŘEVÁDĚT do jednoho souboru. Detail v [[ideas]].
 - Publikační postup je v [[methodology]] (Substack článek: rubrika z runway → draft → revize → publish → `status: used`). Starý 0.1 howto přesunut mimo vault 260909.
 - **Kadence je cílové tempo za kvartál, ne termín na položku** — plní se dávkovými content sprinty do volných oken (viz [[decisions]]). tadylenka ustupuje první při nárazu jiné práce.

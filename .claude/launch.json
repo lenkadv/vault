@@ -6,6 +6,12 @@
       "runtimeExecutable": "cmd",
       "runtimeArgs": ["/c", "cd /d C:\\Users\\Lenka\\source\\repos\\shadowloop && set PUBLIC_URL=.&& set BROWSER=none&& set PORT=3000&& npx react-scripts start"],
       "port": 3000
+    },
+    {
+      "name": "meto-test",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["C:\\Users\\Lenka\\Documents\\meto-work\\_test\\serve.py"],
+      "port": 8765
     }
   ]
 }

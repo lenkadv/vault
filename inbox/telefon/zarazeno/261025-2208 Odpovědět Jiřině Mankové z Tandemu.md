@@ -1,0 +1,1 @@
+Potřebuju odpovědět Jiřině Mankové z Tandemu na zprávu na WhatsAppu.

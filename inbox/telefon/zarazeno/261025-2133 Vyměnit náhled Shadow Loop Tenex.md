@@ -1,0 +1,1 @@
+To stejné jako pro kurz prodejní stránku nepravidelných sloves platí i pro Tenex English. I tady je stejný náhled aplikace Shadow Loop, který je potřeba vyměnit za ten aktuální.

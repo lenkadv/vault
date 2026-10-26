@@ -1,0 +1,1 @@
+V patičce webu, a tam, kde je copyright, e-mailová adresa, kontakt, obchodní podmínky, ochrana osobních údajů, bych byla ráda, kdyby všechny tyhle ty položky byly trošku tmavší šedou barvou, aby v tom černém pásu víc zanikaly. A taky se mi zdá, že nejsou vycentrované na prostředku. To by vypadalo lépe.

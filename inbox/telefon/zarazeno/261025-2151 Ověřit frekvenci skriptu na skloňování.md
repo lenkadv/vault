@@ -1,0 +1,1 @@
+U skriptu na skloňování jmen se píše, že to projde jednou denně, ale já jsem přesvědčená, že to je častěji než jednou denně. Tohle není zásadní pro fungování, jenom pokud to tak není a prochází se to častěji než jednou denně, třeba nevím, jednou za hodinu, tak by ta informace tady v tom dokumentu LC English ekosystém byla zavádějící.

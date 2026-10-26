@@ -1,0 +1,1 @@
+Resources, dokument fakturace, klienti a uvádí u Penty trošku zmateně, že faktura společná Pentě číslo 426507 je zaplaceno, ověřeno v bance 261022, ale na konci toho odstavce je rovněž napsáno čekání na platbu ve waiting for na 22.10. To už by tam teda být nemělo.
