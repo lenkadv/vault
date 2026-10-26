@@ -308,6 +308,9 @@ def diff(old, new):
             a, b = set(old[p].get(key, [])), set(new[p].get(key, []))
             lines += [f"+ {p}: {label} {x}" for x in sorted(b - a)]
             lines += [f"− {p}: {label} {x}" for x in sorted(a - b)]
+        a, b = old[p].get("nav_backlinks", 0), new[p].get("nav_backlinks", 0)
+        if a != b and max(a, b) >= 20:  # související články se střídají náhodně, hlídat jen menu a patičku
+            lines.append(f"~ {p}: odkazy sem ze šablony (menu, patička) {a} → {b}")
     return lines
 
 

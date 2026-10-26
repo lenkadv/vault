@@ -52,8 +52,6 @@ sort by due
 - [ ] Odpovědět Jiřině Mankové z Tandemu na WhatsAppu (Zápisník 261025)
 - [ ] Zkontrolovat novou patičku a úvod na lenkadvorakova.cz → [[kontext-ukolu#Údržba lenkadvorakova.cz]]
 - [ ] Ověřit u Vítka, jak často běží skript `jmena` na skloňování → [[lcenglish-ekosystem]]
-- [ ] Opravit s Claudem v patičce lcenglish.cz odkaz HELE z `/hele-sp/` na `/hele/` → [[mapa-webu-skutecna]]
-    - Kontext (261026, mapa webu): blok „Učte se se mnou“ v patičce na všech 122 stránkách vede na starou stránku HELE z roku 2022 místo nové `/hele/` z Leadpages. Úpravy webu teď dělá vlákno „Úpravy webů ze Zápisníku 261025“, proto se zatím nic neměnilo.
 - [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
     - Kontext (261026): API Dripu je hlásí jako zapnutá, podle zápisu z 25. 10. bylo okno z roku 2018 vypnuté. Rozhodnout, která nechat.
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]

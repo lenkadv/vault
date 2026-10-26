@@ -1,13 +1,15 @@
 # Skutečná mapa webu lcenglish.cz
 
-**Vygenerováno:** 261026 10:01 skriptem `resources/web-lcenglish/mapa_webu.py` (neupravovat ručně, přepíše se). Oblast [[lcenglish]] · z čeho je web postavený a pravidla: [[mapa-webu]] · systémy: [[lcenglish-ekosystem]].
+**Vygenerováno:** 261026 12:24 skriptem `resources/web-lcenglish/mapa_webu.py` (neupravovat ručně, přepíše se). Oblast [[lcenglish]] · z čeho je web postavený a pravidla: [[mapa-webu]] · systémy: [[lcenglish-ekosystem]].
 Obnova: při weekly review a při „zavírám“ ve vlákně, které měnilo web nebo Leadpages (`python -I resources/web-lcenglish/mapa_webu.py`).
 
 Stránek: 134 (stránky 15, Leadpages 3, kategorie 4, články 112, jiné 0). Odkazy počítají jen obsah stránky; menu, patička, kategorie a „související články“ jsou souhrnně dole.
 
-## Změny od minulé mapy (261026 10:00)
+## Změny od minulé mapy (261026 10:01)
 
-- beze změny
+- ~ /beginners/: odkazy sem ze šablony (menu, patička) 106 → 107
+- ~ /hele-sp/: odkazy sem ze šablony (menu, patička) 122 → 0
+- ~ /hele/: odkazy sem ze šablony (menu, patička) 0 → 122
 
 ## Přehled
 
@@ -22,131 +24,131 @@ Stránek: 134 (stránky 15, Leadpages 3, kategorie 4, články 112, jiné 0). Od
 | [/hele-ew-replay/](https://lcenglish.cz/hele-ew-replay/) | stránka, noindex | 0 / 0 | 0 / 0 | – | 1 |
 | [/hele-ew-sp/](https://lcenglish.cz/hele-ew-sp/) | stránka, noindex | 1 / 1 | 0 / 0 | – | – |
 | [/hele-ew-ty/](https://lcenglish.cz/hele-ew-ty/) | stránka, noindex | 0 / 0 | 0 / 0 | – | – |
-| [/hele-sp/](https://lcenglish.cz/hele-sp/) | stránka | 1 / 1 | 2 / 122 | – | – |
+| [/hele-sp/](https://lcenglish.cz/hele-sp/) | stránka | 1 / 1 | 2 / 0 | – | – |
 | [/irregular-cho/](https://lcenglish.cz/irregular-cho/) | stránka, noindex | 0 / 0 | 1 / 0 | – | – |
 | [/kurzy/](https://lcenglish.cz/kurzy/) | stránka | 3 / 0 | 0 / 121 | – | – |
 | [/obchodni-podminky/](https://lcenglish.cz/obchodni-podminky/) | stránka | 0 / 0 | 3 / 121 | – | – |
 | [/privacy-policy/](https://lcenglish.cz/privacy-policy/) | stránka | 0 / 0 | 3 / 121 | – | – |
 | [/shakespeare-mail/](https://lcenglish.cz/shakespeare-mail/) | stránka, noindex | 0 / 0 | 0 / 0 | – | – |
 | [/10x-english/](https://lcenglish.cz/10x-english/) | Leadpages | 3 / 2 | 1 / 122 | – | – |
-| [/hele/](https://lcenglish.cz/hele/) | Leadpages | 4 / 1 | 1 / 0 | – | 1 |
+| [/hele/](https://lcenglish.cz/hele/) | Leadpages | 4 / 1 | 1 / 122 | – | 1 |
 | [/irregular/](https://lcenglish.cz/irregular/) | Leadpages | 6 / 3 | 1 / 122 | – | – |
 | [/advanced/](https://lcenglish.cz/advanced/) | kategorie | 10 / 0 | 0 / 116 | – | – |
 | [/advbeginners/](https://lcenglish.cz/advbeginners/) | kategorie | 10 / 0 | 0 / 116 | – | – |
-| [/beginners/](https://lcenglish.cz/beginners/) | kategorie | 10 / 0 | 0 / 106 | – | – |
-| [/uncategorized/](https://lcenglish.cz/uncategorized/) | kategorie | 3 / 0 | 0 / 11 | – | – |
-| [/10-nouns-advanced/](https://lcenglish.cz/10-nouns-advanced/) | článek | 0 / 1 | 0 / 10 | 1 | 1 |
-| [/1968-2/](https://lcenglish.cz/1968-2/) | článek | 1 / 2 | 1 / 7 | 1 | 1 |
-| [/25-top-podstatnych-jmen/](https://lcenglish.cz/25-top-podstatnych-jmen/) | článek | 2 / 1 | 2 / 9 | 1 | 1 |
-| [/3-nejcastejsi-chyby-rodilych-mluvcich-ktere-vy-nedelate/](https://lcenglish.cz/3-nejcastejsi-chyby-rodilych-mluvcich-ktere-vy-nedelate/) | článek | 0 / 1 | 0 / 12 | 1 | 1 |
+| [/beginners/](https://lcenglish.cz/beginners/) | kategorie | 10 / 0 | 0 / 107 | – | – |
+| [/uncategorized/](https://lcenglish.cz/uncategorized/) | kategorie | 3 / 0 | 0 / 9 | – | – |
+| [/10-nouns-advanced/](https://lcenglish.cz/10-nouns-advanced/) | článek | 0 / 1 | 0 / 5 | 1 | 1 |
+| [/1968-2/](https://lcenglish.cz/1968-2/) | článek | 1 / 2 | 1 / 6 | 1 | 1 |
+| [/25-top-podstatnych-jmen/](https://lcenglish.cz/25-top-podstatnych-jmen/) | článek | 2 / 1 | 2 / 10 | 1 | 1 |
+| [/3-nejcastejsi-chyby-rodilych-mluvcich-ktere-vy-nedelate/](https://lcenglish.cz/3-nejcastejsi-chyby-rodilych-mluvcich-ktere-vy-nedelate/) | článek | 0 / 1 | 0 / 9 | 1 | 1 |
 | [/3-tipy-na-slovicka/](https://lcenglish.cz/3-tipy-na-slovicka/) | článek | 0 / 0 | 2 / 8 | – | 1 |
-| [/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/](https://lcenglish.cz/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/) | článek | 0 / 7 | 0 / 7 | – | 1 |
-| [/acting-in-danish/](https://lcenglish.cz/acting-in-danish/) | článek | 0 / 3 | 0 / 4 | 1 | 1 |
-| [/after-life/](https://lcenglish.cz/after-life/) | článek | 0 / 4 | 0 / 5 | 1 | 1 |
-| [/afternoon-tea/](https://lcenglish.cz/afternoon-tea/) | článek | 0 / 3 | 1 / 5 | 1 | 1 |
-| [/americka-britska-anglictina/](https://lcenglish.cz/americka-britska-anglictina/) | článek | 3 / 31 | 2 / 9 | – | 2 |
-| [/anglicka-slovicka/](https://lcenglish.cz/anglicka-slovicka/) | článek | 9 / 5 | 6 / 11 | 1 | 3 |
-| [/anglicky-chatgpt/](https://lcenglish.cz/anglicky-chatgpt/) | článek | 1 / 3 | 5 / 11 | 1 | – |
+| [/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/](https://lcenglish.cz/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/) | článek | 0 / 7 | 0 / 6 | – | 1 |
+| [/acting-in-danish/](https://lcenglish.cz/acting-in-danish/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
+| [/after-life/](https://lcenglish.cz/after-life/) | článek | 0 / 4 | 0 / 9 | 1 | 1 |
+| [/afternoon-tea/](https://lcenglish.cz/afternoon-tea/) | článek | 0 / 3 | 1 / 10 | 1 | 1 |
+| [/americka-britska-anglictina/](https://lcenglish.cz/americka-britska-anglictina/) | článek | 3 / 31 | 2 / 6 | – | 2 |
+| [/anglicka-slovicka/](https://lcenglish.cz/anglicka-slovicka/) | článek | 9 / 5 | 6 / 12 | 1 | 3 |
+| [/anglicky-chatgpt/](https://lcenglish.cz/anglicky-chatgpt/) | článek | 1 / 3 | 5 / 14 | 1 | – |
 | [/anglicky-za-tyden/](https://lcenglish.cz/anglicky-za-tyden/) | článek | 8 / 4 | 2 / 7 | 1 | – |
-| [/anglictina-na-dovolenou/](https://lcenglish.cz/anglictina-na-dovolenou/) | článek | 0 / 4 | 1 / 4 | 1 | 1 |
-| [/anki-navod/](https://lcenglish.cz/anki-navod/) | článek | 0 / 6 | 7 / 8 | 1 | 1 |
+| [/anglictina-na-dovolenou/](https://lcenglish.cz/anglictina-na-dovolenou/) | článek | 0 / 4 | 1 / 10 | 1 | 1 |
+| [/anki-navod/](https://lcenglish.cz/anki-navod/) | článek | 0 / 6 | 7 / 6 | 1 | 1 |
 | [/anniversary/](https://lcenglish.cz/anniversary/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
-| [/aplikace-shadowloop/](https://lcenglish.cz/aplikace-shadowloop/) | článek | 2 / 2 | 6 / 9 | 1 | – |
+| [/aplikace-shadowloop/](https://lcenglish.cz/aplikace-shadowloop/) | článek | 2 / 2 | 6 / 10 | 1 | – |
 | [/art-gallery/](https://lcenglish.cz/art-gallery/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
 | [/at-the-airport/](https://lcenglish.cz/at-the-airport/) | článek | 0 / 3 | 1 / 7 | 1 | 1 |
-| [/autumn-weather/](https://lcenglish.cz/autumn-weather/) | článek | 0 / 4 | 0 / 9 | 2 | 1 |
-| [/backstage/](https://lcenglish.cz/backstage/) | článek | 0 / 3 | 0 / 13 | 1 | 1 |
-| [/brand-names/](https://lcenglish.cz/brand-names/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
-| [/cancelled-flight/](https://lcenglish.cz/cancelled-flight/) | článek | 2 / 3 | 0 / 4 | 1 | 1 |
-| [/cats-or-dogs/](https://lcenglish.cz/cats-or-dogs/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
-| [/coffee-talk/](https://lcenglish.cz/coffee-talk/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
-| [/country-vs-city/](https://lcenglish.cz/country-vs-city/) | článek | 0 / 3 | 2 / 6 | 1 | 1 |
-| [/czech-easter/](https://lcenglish.cz/czech-easter/) | článek | 0 / 3 | 0 / 7 | – | 1 |
-| [/datum-anglicky/](https://lcenglish.cz/datum-anglicky/) | článek | 0 / 0 | 0 / 10 | – | 3 |
-| [/dont-poop/](https://lcenglish.cz/dont-poop/) | článek | 0 / 0 | 3 / 9 | – | 2 |
-| [/english-breakfast/](https://lcenglish.cz/english-breakfast/) | článek | 1 / 3 | 0 / 12 | 1 | 1 |
-| [/exclamations/](https://lcenglish.cz/exclamations/) | článek | 0 / 3 | 0 / 12 | 1 | 1 |
-| [/film-makeup/](https://lcenglish.cz/film-makeup/) | článek | 1 / 4 | 0 / 5 | 2 | 1 |
-| [/first-impressions/](https://lcenglish.cz/first-impressions/) | článek | 2 / 3 | 0 / 11 | 1 | 1 |
-| [/food-memories/](https://lcenglish.cz/food-memories/) | článek | 0 / 3 | 2 / 6 | 1 | 1 |
+| [/autumn-weather/](https://lcenglish.cz/autumn-weather/) | článek | 0 / 4 | 0 / 8 | 2 | 1 |
+| [/backstage/](https://lcenglish.cz/backstage/) | článek | 0 / 3 | 0 / 11 | 1 | 1 |
+| [/brand-names/](https://lcenglish.cz/brand-names/) | článek | 0 / 3 | 0 / 11 | 1 | 1 |
+| [/cancelled-flight/](https://lcenglish.cz/cancelled-flight/) | článek | 2 / 3 | 0 / 6 | 1 | 1 |
+| [/cats-or-dogs/](https://lcenglish.cz/cats-or-dogs/) | článek | 0 / 3 | 0 / 3 | 1 | 1 |
+| [/coffee-talk/](https://lcenglish.cz/coffee-talk/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
+| [/country-vs-city/](https://lcenglish.cz/country-vs-city/) | článek | 0 / 3 | 2 / 7 | 1 | 1 |
+| [/czech-easter/](https://lcenglish.cz/czech-easter/) | článek | 0 / 3 | 0 / 6 | – | 1 |
+| [/datum-anglicky/](https://lcenglish.cz/datum-anglicky/) | článek | 0 / 0 | 0 / 8 | – | 3 |
+| [/dont-poop/](https://lcenglish.cz/dont-poop/) | článek | 0 / 0 | 3 / 11 | – | 2 |
+| [/english-breakfast/](https://lcenglish.cz/english-breakfast/) | článek | 1 / 3 | 0 / 9 | 1 | 1 |
+| [/exclamations/](https://lcenglish.cz/exclamations/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/film-makeup/](https://lcenglish.cz/film-makeup/) | článek | 1 / 4 | 0 / 8 | 2 | 1 |
+| [/first-impressions/](https://lcenglish.cz/first-impressions/) | článek | 2 / 3 | 0 / 8 | 1 | 1 |
+| [/food-memories/](https://lcenglish.cz/food-memories/) | článek | 0 / 3 | 2 / 8 | 1 | 1 |
 | [/fridge/](https://lcenglish.cz/fridge/) | článek | 0 / 4 | 0 / 7 | 2 | 1 |
-| [/furniture-hunt/](https://lcenglish.cz/furniture-hunt/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/gonna-wanna/](https://lcenglish.cz/gonna-wanna/) | článek | 0 / 1 | 0 / 7 | 1 | 5 |
-| [/halloween/](https://lcenglish.cz/halloween/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
-| [/happiness/](https://lcenglish.cz/happiness/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
+| [/furniture-hunt/](https://lcenglish.cz/furniture-hunt/) | článek | 0 / 3 | 0 / 12 | 1 | 1 |
+| [/gonna-wanna/](https://lcenglish.cz/gonna-wanna/) | článek | 0 / 1 | 0 / 9 | 1 | 5 |
+| [/halloween/](https://lcenglish.cz/halloween/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/happiness/](https://lcenglish.cz/happiness/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
 | [/how-are-you/](https://lcenglish.cz/how-are-you/) | článek | 2 / 1 | 10 / 11 | – | 1 |
-| [/how-to-declutter/](https://lcenglish.cz/how-to-declutter/) | článek | 0 / 3 | 1 / 4 | 1 | 1 |
-| [/individualni-hodina-1plus2-zdarma/](https://lcenglish.cz/individualni-hodina-1plus2-zdarma/) | článek | 1 / 1 | 0 / 11 | – | 1 |
-| [/inventura-2024/](https://lcenglish.cz/inventura-2024/) | článek | 3 / 0 | 2 / 5 | – | – |
+| [/how-to-declutter/](https://lcenglish.cz/how-to-declutter/) | článek | 0 / 3 | 1 / 6 | 1 | 1 |
+| [/individualni-hodina-1plus2-zdarma/](https://lcenglish.cz/individualni-hodina-1plus2-zdarma/) | článek | 1 / 1 | 0 / 10 | – | 1 |
+| [/inventura-2024/](https://lcenglish.cz/inventura-2024/) | článek | 3 / 0 | 2 / 4 | – | – |
 | [/italsky-za-3-dny/](https://lcenglish.cz/italsky-za-3-dny/) | článek | 1 / 0 | 2 / 8 | – | 1 |
-| [/its-our-birthday/](https://lcenglish.cz/its-our-birthday/) | článek | 0 / 3 | 0 / 5 | 1 | 1 |
-| [/iversenova-metoda/](https://lcenglish.cz/iversenova-metoda/) | článek | 3 / 1 | 3 / 5 | 1 | 1 |
-| [/jak-se-naucit-anglicke-predlozky/](https://lcenglish.cz/jak-se-naucit-anglicke-predlozky/) | článek | 0 / 3 | 0 / 9 | – | 1 |
-| [/jak-se-ucit-anglicky-s-detmi/](https://lcenglish.cz/jak-se-ucit-anglicky-s-detmi/) | článek | 0 / 7 | 2 / 6 | – | 1 |
-| [/jak-se-zacit-ucit-anglicky-pravidelne/](https://lcenglish.cz/jak-se-zacit-ucit-anglicky-pravidelne/) | článek | 1 / 3 | 1 / 5 | – | 2 |
-| [/jak-zacit-mluvit-anglicky/](https://lcenglish.cz/jak-zacit-mluvit-anglicky/) | článek | 2 / 9 | 0 / 13 | 1 | 1 |
-| [/jazykova-predsevzeti/](https://lcenglish.cz/jazykova-predsevzeti/) | článek | 2 / 1 | 0 / 8 | – | 1 |
-| [/kdyz-nemate-to-spravne-slovo/](https://lcenglish.cz/kdyz-nemate-to-spravne-slovo/) | článek | 1 / 0 | 0 / 9 | – | 1 |
-| [/keltove-a-anglictina/](https://lcenglish.cz/keltove-a-anglictina/) | článek | 0 / 2 | 1 / 7 | – | – |
-| [/klinika-pro-cedule-1-udrzujte-poradek-na-dvore/](https://lcenglish.cz/klinika-pro-cedule-1-udrzujte-poradek-na-dvore/) | článek | 0 / 0 | 4 / 9 | – | – |
-| [/languages-and-personality/](https://lcenglish.cz/languages-and-personality/) | článek | 0 / 3 | 1 / 8 | 1 | 1 |
-| [/lenkas-difficult-words/](https://lcenglish.cz/lenkas-difficult-words/) | článek | 0 / 1 | 0 / 7 | 1 | 1 |
-| [/lenkas-dream/](https://lcenglish.cz/lenkas-dream/) | článek | 0 / 3 | 0 / 5 | 1 | 1 |
-| [/looking-back-at-2017/](https://lcenglish.cz/looking-back-at-2017/) | článek | 0 / 2 | 0 / 9 | – | 1 |
-| [/lovers-day/](https://lcenglish.cz/lovers-day/) | článek | 0 / 3 | 0 / 9 | – | 1 |
-| [/mince-pies/](https://lcenglish.cz/mince-pies/) | článek | 0 / 3 | 0 / 10 | 1 | 1 |
-| [/morning-routine/](https://lcenglish.cz/morning-routine/) | článek | 0 / 3 | 1 / 12 | 1 | 1 |
-| [/moving-home/](https://lcenglish.cz/moving-home/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
-| [/names-and-faces/](https://lcenglish.cz/names-and-faces/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/nebojujte-s-anglictinou/](https://lcenglish.cz/nebojujte-s-anglictinou/) | článek | 0 / 0 | 0 / 9 | – | 1 |
-| [/nejlepsi-metoda-na-uceni-anglictiny/](https://lcenglish.cz/nejlepsi-metoda-na-uceni-anglictiny/) | článek | 0 / 2 | 0 / 7 | – | 2 |
-| [/nejnovejsi-anglicka-slova/](https://lcenglish.cz/nejnovejsi-anglicka-slova/) | článek | 0 / 0 | 0 / 9 | – | 1 |
-| [/nepravidelna-slovesa-na-konci-leta/](https://lcenglish.cz/nepravidelna-slovesa-na-konci-leta/) | článek | 1 / 1 | 3 / 8 | – | – |
-| [/nepravidelna-slovesa-seznam/](https://lcenglish.cz/nepravidelna-slovesa-seznam/) | článek | 1 / 1 | 3 / 17 | 1 | – |
-| [/nepravidelna-slovesa/](https://lcenglish.cz/nepravidelna-slovesa/) | článek | 5 / 3 | 7 / 8 | 1 | 1 |
-| [/new-hair/](https://lcenglish.cz/new-hair/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/new-years-resolutions/](https://lcenglish.cz/new-years-resolutions/) | článek | 0 / 4 | 0 / 10 | 2 | 1 |
-| [/on-a-diet/](https://lcenglish.cz/on-a-diet/) | článek | 0 / 3 | 0 / 5 | 1 | 1 |
-| [/on-set/](https://lcenglish.cz/on-set/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
-| [/online-dating/](https://lcenglish.cz/online-dating/) | článek | 0 / 3 | 0 / 11 | 1 | 1 |
-| [/planning-a-trip/](https://lcenglish.cz/planning-a-trip/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/prague-uprising/](https://lcenglish.cz/prague-uprising/) | článek | 0 / 3 | 0 / 12 | 1 | 1 |
-| [/predlozky-mista-at-on-in/](https://lcenglish.cz/predlozky-mista-at-on-in/) | článek | 0 / 0 | 4 / 17 | – | – |
-| [/predpritomny-cas/](https://lcenglish.cz/predpritomny-cas/) | článek | 4 / 2 | 7 / 10 | 1 | 2 |
-| [/predsevzeti-hack/](https://lcenglish.cz/predsevzeti-hack/) | článek | 0 / 2 | 0 / 11 | – | 7 |
-| [/proc-se-anglictina-pise-tak-blbe/](https://lcenglish.cz/proc-se-anglictina-pise-tak-blbe/) | článek | 1 / 2 | 2 / 7 | – | 1 |
-| [/proc-se-vanoce-anglicky-pisou-xmas/](https://lcenglish.cz/proc-se-vanoce-anglicky-pisou-xmas/) | článek | 0 / 0 | 0 / 7 | – | 2 |
-| [/public-transport/](https://lcenglish.cz/public-transport/) | článek | 4 / 3 | 0 / 9 | 1 | 1 |
-| [/relatable-faces/](https://lcenglish.cz/relatable-faces/) | článek | 0 / 3 | 0 / 10 | 1 | 1 |
-| [/royal-accent/](https://lcenglish.cz/royal-accent/) | článek | 0 / 3 | 1 / 9 | – | 1 |
-| [/royal-wedding/](https://lcenglish.cz/royal-wedding/) | článek | 0 / 3 | 0 / 10 | 1 | 1 |
+| [/its-our-birthday/](https://lcenglish.cz/its-our-birthday/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
+| [/iversenova-metoda/](https://lcenglish.cz/iversenova-metoda/) | článek | 3 / 1 | 3 / 9 | 1 | 1 |
+| [/jak-se-naucit-anglicke-predlozky/](https://lcenglish.cz/jak-se-naucit-anglicke-predlozky/) | článek | 0 / 3 | 0 / 10 | – | 1 |
+| [/jak-se-ucit-anglicky-s-detmi/](https://lcenglish.cz/jak-se-ucit-anglicky-s-detmi/) | článek | 0 / 7 | 2 / 9 | – | 1 |
+| [/jak-se-zacit-ucit-anglicky-pravidelne/](https://lcenglish.cz/jak-se-zacit-ucit-anglicky-pravidelne/) | článek | 1 / 3 | 1 / 8 | – | 2 |
+| [/jak-zacit-mluvit-anglicky/](https://lcenglish.cz/jak-zacit-mluvit-anglicky/) | článek | 2 / 9 | 0 / 9 | 1 | 1 |
+| [/jazykova-predsevzeti/](https://lcenglish.cz/jazykova-predsevzeti/) | článek | 2 / 1 | 0 / 7 | – | 1 |
+| [/kdyz-nemate-to-spravne-slovo/](https://lcenglish.cz/kdyz-nemate-to-spravne-slovo/) | článek | 1 / 0 | 0 / 14 | – | 1 |
+| [/keltove-a-anglictina/](https://lcenglish.cz/keltove-a-anglictina/) | článek | 0 / 2 | 1 / 10 | – | – |
+| [/klinika-pro-cedule-1-udrzujte-poradek-na-dvore/](https://lcenglish.cz/klinika-pro-cedule-1-udrzujte-poradek-na-dvore/) | článek | 0 / 0 | 4 / 12 | – | – |
+| [/languages-and-personality/](https://lcenglish.cz/languages-and-personality/) | článek | 0 / 3 | 1 / 9 | 1 | 1 |
+| [/lenkas-difficult-words/](https://lcenglish.cz/lenkas-difficult-words/) | článek | 0 / 1 | 0 / 10 | 1 | 1 |
+| [/lenkas-dream/](https://lcenglish.cz/lenkas-dream/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/looking-back-at-2017/](https://lcenglish.cz/looking-back-at-2017/) | článek | 0 / 2 | 0 / 11 | – | 1 |
+| [/lovers-day/](https://lcenglish.cz/lovers-day/) | článek | 0 / 3 | 0 / 7 | – | 1 |
+| [/mince-pies/](https://lcenglish.cz/mince-pies/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
+| [/morning-routine/](https://lcenglish.cz/morning-routine/) | článek | 0 / 3 | 1 / 10 | 1 | 1 |
+| [/moving-home/](https://lcenglish.cz/moving-home/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
+| [/names-and-faces/](https://lcenglish.cz/names-and-faces/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
+| [/nebojujte-s-anglictinou/](https://lcenglish.cz/nebojujte-s-anglictinou/) | článek | 0 / 0 | 0 / 7 | – | 1 |
+| [/nejlepsi-metoda-na-uceni-anglictiny/](https://lcenglish.cz/nejlepsi-metoda-na-uceni-anglictiny/) | článek | 0 / 2 | 0 / 8 | – | 2 |
+| [/nejnovejsi-anglicka-slova/](https://lcenglish.cz/nejnovejsi-anglicka-slova/) | článek | 0 / 0 | 0 / 8 | – | 1 |
+| [/nepravidelna-slovesa-na-konci-leta/](https://lcenglish.cz/nepravidelna-slovesa-na-konci-leta/) | článek | 1 / 1 | 3 / 9 | – | – |
+| [/nepravidelna-slovesa-seznam/](https://lcenglish.cz/nepravidelna-slovesa-seznam/) | článek | 1 / 1 | 3 / 12 | 1 | – |
+| [/nepravidelna-slovesa/](https://lcenglish.cz/nepravidelna-slovesa/) | článek | 5 / 3 | 7 / 7 | 1 | 1 |
+| [/new-hair/](https://lcenglish.cz/new-hair/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/new-years-resolutions/](https://lcenglish.cz/new-years-resolutions/) | článek | 0 / 4 | 0 / 11 | 2 | 1 |
+| [/on-a-diet/](https://lcenglish.cz/on-a-diet/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/on-set/](https://lcenglish.cz/on-set/) | článek | 0 / 3 | 0 / 5 | 1 | 1 |
+| [/online-dating/](https://lcenglish.cz/online-dating/) | článek | 0 / 3 | 0 / 12 | 1 | 1 |
+| [/planning-a-trip/](https://lcenglish.cz/planning-a-trip/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/prague-uprising/](https://lcenglish.cz/prague-uprising/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/predlozky-mista-at-on-in/](https://lcenglish.cz/predlozky-mista-at-on-in/) | článek | 0 / 0 | 4 / 11 | – | – |
+| [/predpritomny-cas/](https://lcenglish.cz/predpritomny-cas/) | článek | 4 / 2 | 7 / 9 | 1 | 2 |
+| [/predsevzeti-hack/](https://lcenglish.cz/predsevzeti-hack/) | článek | 0 / 2 | 0 / 5 | – | 7 |
+| [/proc-se-anglictina-pise-tak-blbe/](https://lcenglish.cz/proc-se-anglictina-pise-tak-blbe/) | článek | 1 / 2 | 2 / 5 | – | 1 |
+| [/proc-se-vanoce-anglicky-pisou-xmas/](https://lcenglish.cz/proc-se-vanoce-anglicky-pisou-xmas/) | článek | 0 / 0 | 0 / 6 | – | 2 |
+| [/public-transport/](https://lcenglish.cz/public-transport/) | článek | 4 / 3 | 0 / 10 | 1 | 1 |
+| [/relatable-faces/](https://lcenglish.cz/relatable-faces/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
+| [/royal-accent/](https://lcenglish.cz/royal-accent/) | článek | 0 / 3 | 1 / 6 | – | 1 |
+| [/royal-wedding/](https://lcenglish.cz/royal-wedding/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
 | [/same-or-different/](https://lcenglish.cz/same-or-different/) | článek | 0 / 1 | 0 / 9 | 1 | 1 |
-| [/shooting-in-slovakia/](https://lcenglish.cz/shooting-in-slovakia/) | článek | 0 / 3 | 0 / 10 | 1 | 1 |
-| [/shopping-for-clothes/](https://lcenglish.cz/shopping-for-clothes/) | článek | 1 / 3 | 0 / 9 | 1 | 1 |
-| [/slovicka-karticky/](https://lcenglish.cz/slovicka-karticky/) | článek | 3 / 0 | 3 / 10 | – | 1 |
+| [/shooting-in-slovakia/](https://lcenglish.cz/shooting-in-slovakia/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/shopping-for-clothes/](https://lcenglish.cz/shopping-for-clothes/) | článek | 1 / 3 | 0 / 8 | 1 | 1 |
+| [/slovicka-karticky/](https://lcenglish.cz/slovicka-karticky/) | článek | 3 / 0 | 3 / 9 | – | 1 |
 | [/slovickova-jednohubka-domaci-pristroje/](https://lcenglish.cz/slovickova-jednohubka-domaci-pristroje/) | článek | 0 / 0 | 2 / 4 | – | – |
-| [/somewhere-to-stay/](https://lcenglish.cz/somewhere-to-stay/) | článek | 0 / 3 | 0 / 4 | 1 | 1 |
-| [/staycation-workation/](https://lcenglish.cz/staycation-workation/) | článek | 0 / 3 | 1 / 5 | 1 | 1 |
-| [/stinovani-trenink-anglicke-vyslovnosti/](https://lcenglish.cz/stinovani-trenink-anglicke-vyslovnosti/) | článek | 0 / 3 | 3 / 7 | 1 | 1 |
+| [/somewhere-to-stay/](https://lcenglish.cz/somewhere-to-stay/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
+| [/staycation-workation/](https://lcenglish.cz/staycation-workation/) | článek | 0 / 3 | 1 / 8 | 1 | 1 |
+| [/stinovani-trenink-anglicke-vyslovnosti/](https://lcenglish.cz/stinovani-trenink-anglicke-vyslovnosti/) | článek | 0 / 3 | 3 / 5 | 1 | 1 |
 | [/summer-fruit/](https://lcenglish.cz/summer-fruit/) | článek | 0 / 3 | 1 / 7 | 1 | 1 |
 | [/survival-kit/](https://lcenglish.cz/survival-kit/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/thanksgiving/](https://lcenglish.cz/thanksgiving/) | článek | 0 / 3 | 0 / 10 | 1 | 1 |
-| [/the-life-of-an-actress/](https://lcenglish.cz/the-life-of-an-actress/) | článek | 0 / 3 | 1 / 10 | 1 | 1 |
-| [/things-to-do/](https://lcenglish.cz/things-to-do/) | článek | 0 / 3 | 0 / 3 | 1 | 1 |
-| [/tiger-oasis/](https://lcenglish.cz/tiger-oasis/) | článek | 0 / 3 | 1 / 14 | 1 | 1 |
-| [/tipping-tips/](https://lcenglish.cz/tipping-tips/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
-| [/to-be/](https://lcenglish.cz/to-be/) | článek | 1 / 1 | 3 / 5 | 1 | 1 |
-| [/top-25-adjectives/](https://lcenglish.cz/top-25-adjectives/) | článek | 3 / 1 | 2 / 7 | 1 | 1 |
-| [/top-25-verbs/](https://lcenglish.cz/top-25-verbs/) | článek | 3 / 1 | 2 / 10 | 1 | 1 |
+| [/thanksgiving/](https://lcenglish.cz/thanksgiving/) | článek | 0 / 3 | 0 / 4 | 1 | 1 |
+| [/the-life-of-an-actress/](https://lcenglish.cz/the-life-of-an-actress/) | článek | 0 / 3 | 1 / 6 | 1 | 1 |
+| [/things-to-do/](https://lcenglish.cz/things-to-do/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/tiger-oasis/](https://lcenglish.cz/tiger-oasis/) | článek | 0 / 3 | 1 / 11 | 1 | 1 |
+| [/tipping-tips/](https://lcenglish.cz/tipping-tips/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/to-be/](https://lcenglish.cz/to-be/) | článek | 1 / 1 | 3 / 10 | 1 | 1 |
+| [/top-25-adjectives/](https://lcenglish.cz/top-25-adjectives/) | článek | 3 / 1 | 2 / 13 | 1 | 1 |
+| [/top-25-verbs/](https://lcenglish.cz/top-25-verbs/) | článek | 3 / 1 | 2 / 7 | 1 | 1 |
 | [/trip-to-ikea/](https://lcenglish.cz/trip-to-ikea/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/tv-series-revisited/](https://lcenglish.cz/tv-series-revisited/) | článek | 0 / 3 | 0 / 7 | 1 | 1 |
-| [/tvseries-for-english/](https://lcenglish.cz/tvseries-for-english/) | článek | 0 / 7 | 0 / 6 | 1 | 1 |
-| [/ucit-se-anglicky-nepotrebovat-cas/](https://lcenglish.cz/ucit-se-anglicky-nepotrebovat-cas/) | článek | 1 / 7 | 5 / 10 | – | – |
-| [/walk-in-the-woods/](https://lcenglish.cz/walk-in-the-woods/) | článek | 0 / 3 | 0 / 10 | – | 1 |
-| [/walkie-talkie/](https://lcenglish.cz/walkie-talkie/) | článek | 0 / 0 | 4 / 13 | – | – |
-| [/weather-idioms/](https://lcenglish.cz/weather-idioms/) | článek | 0 / 3 | 0 / 4 | 1 | 1 |
-| [/what-to-pack/](https://lcenglish.cz/what-to-pack/) | článek | 0 / 3 | 0 / 6 | 1 | 1 |
-| [/whos-henry/](https://lcenglish.cz/whos-henry/) | článek | 0 / 3 | 0 / 9 | 2 | 1 |
+| [/tv-series-revisited/](https://lcenglish.cz/tv-series-revisited/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/tvseries-for-english/](https://lcenglish.cz/tvseries-for-english/) | článek | 0 / 7 | 0 / 5 | 1 | 1 |
+| [/ucit-se-anglicky-nepotrebovat-cas/](https://lcenglish.cz/ucit-se-anglicky-nepotrebovat-cas/) | článek | 1 / 7 | 5 / 8 | – | – |
+| [/walk-in-the-woods/](https://lcenglish.cz/walk-in-the-woods/) | článek | 0 / 3 | 0 / 6 | – | 1 |
+| [/walkie-talkie/](https://lcenglish.cz/walkie-talkie/) | článek | 0 / 0 | 4 / 14 | – | – |
+| [/weather-idioms/](https://lcenglish.cz/weather-idioms/) | článek | 0 / 3 | 0 / 9 | 1 | 1 |
+| [/what-to-pack/](https://lcenglish.cz/what-to-pack/) | článek | 0 / 3 | 0 / 8 | 1 | 1 |
+| [/whos-henry/](https://lcenglish.cz/whos-henry/) | článek | 0 / 3 | 0 / 3 | 2 | 1 |
 
 ## Dárky: co se kde nabízí
 
@@ -300,7 +302,7 @@ Vyskakovací okna Dripu bez omezení na stránky (zobrazí se kdekoli):
 ## Odkazy ze šablony (menu, patička, kategorie, související články; počet stránek)
 
 - /10x-english/ (122×)
-- /hele-sp/ (122×)
+- /hele/ (122×)
 - /irregular/ (122×)
 - https://www.facebook.com/LiCaEnglish/ (122×)
 - https://www.instagram.com/lights_camera_english/ (122×)
@@ -313,7 +315,7 @@ Vyskakovací okna Dripu bez omezení na stránky (zobrazí se kdekoli):
 - /privacy-policy/ (121×)
 - /advanced/ (116×)
 - /advbeginners/ (116×)
-- /beginners/ (106×)
+- /beginners/ (107×)
 - a 113 článků v „souvisejících článcích“ pod jinými články (počet je u každé stránky v Přehledu, sloupec Vede sem / ze šablony)
 
 ## Stránky podrobně
