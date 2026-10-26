@@ -11,3 +11,13 @@ Přepisy videí Dannyho Inyho (Mirasee) k tréninku AI Strategist, stažené 26.
 | — | Úvodní video pro přihlášené: nastavení Claude | 9:06 | [[05-uvodni-video-nastaveni-claude]], rozbor [[danny-iny-proc-claude]] |
 
 Pořadí 1 a 4 je odhad: video 1 v textu říká „in the next one…“, video 4 o sobě „the last video in this week's series“. Videa 2 a 3 („capabilities pointed at a real problem in my own business“) Lenka do Voicenotes nenahrála.
+
+## Živý trénink 26.–28. 10. 2026
+
+Lenka nahrává bloky do Voicenotes, Claude ukládá přepisy a ke každému dni píše výtah (DigiStart, práce s Claudem, LCEnglish).
+
+| Den | Blok | Přepis | Výtah |
+|---|---|---|---|
+| 1 (26. 10.) | 1: úvod, Clarity Cascade, neviditelná omezení | [[10-zivy-d1-b1-prepis]] | [[zivy-den-1-vytah]] |
+| 1 (26. 10.) | 2: obavy z AI, Hammer of the AI Gods, dvě hodiny AI | [[11-zivy-d1-b2-prepis]] | [[zivy-den-1-vytah]] |
+| 1 (26. 10.) | 3: strategie, prostředky a cíle, úzké hrdlo | [[12-zivy-d1-b3-prepis]] | [[zivy-den-1-vytah]] |

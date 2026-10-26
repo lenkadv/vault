@@ -16,6 +16,8 @@ italki: objednat další hodinu němčiny (Philipp Koch, 2. z balíčku 5 lekcí
 
 ## Paní doktorka Štěrbová, sborník Transitorius mundus
 
+**261026 (Lenka mluvila s dr. Štěrbovou osobně):** (1) **sborník je jasný:** Lenka vyjde z článku o sv. Terezii, který psala pro *Mundus symbolicus*, trochu ho přizpůsobí pro sborník a pošle ho dr. Štěrbové k posouzení; uzávěrka sborníku 30. 11., interně vyřešit před Římem 13. 11. (2) **stipendium** paní doktorka propátrá (waiting-for). (3) **bakalářka:** dohodly se na tématu Vojtěch; Lenka jí připraví kostru: co už má, co je rozpracované a co ještě může udělat nebo prozkoumat, pak se na ni znovu obrátí.
+
 Zeptat se paní doktorky Štěrbové **na WhatsAppu** na příspěvek do sborníku Transitorius mundus (emblematická reprezentace sv. Terezie z Ávily, termín 30. 11.) — před zahájením psaní; ústně se to zatím neprobralo, a tak se přesouvá na WhatsApp (Lenka 261014, původně 12. 10. osobně) — 261018: článek je v nějaké podobě hotový, jde o to ujasnit si, jak moc ho měnit; Lenka váhá mezi napsat a promluvit (a neví, o čem přesně mluvit). **Interní termín 31. 10.** (ne hotovo, ale začít řešit; vyřešené mít před Římem 13. 11.; uzávěrka sborníku 30. 11.) Paní doktorka je nemocná, výuka 19. 10. odpadá → zmínit asi v po 26. 10., pokud bude příležitost (spolu se stipendiem).
 
 ## Anki, teoretické karty (Přehledovka, dr. Pech)
@@ -24,7 +26,7 @@ Lenka 261020: obrázky má dohnané až po dnešní přednášku (19. století),
 
 ## AI Strategist (Danny Iny)
 
-Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. **Zachycení (261026):** zvuk po blocích do Voicenotes, prompty a odkazy do dokumentu na Disku v `00 Inbox`; zpracování je úkol v [[digistart]]. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].
+Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. **Zachycení (261026):** zvuk po blocích do Easy Voice Recorderu a soubor pak do Voicenotes (nativní nahrávání se zasekávalo), prompty a odkazy do dokumentu na Disku v `00 Inbox`; zpracování je úkol v [[digistart]]. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].
 
 ## Behind the Masterpiece
 
