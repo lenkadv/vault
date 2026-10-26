@@ -7,6 +7,7 @@ a vypíše rozdíl proti minulému běhu.
 
 Spuštění (z kořene vaultu):  python -I resources/web-lcenglish/mapa_webu.py
 Spouští se při weekly review a při „zavírám“ ve vlákně, které měnilo web.
+Zobrazení stránek čte z mapa-webu-navstevnost.json (Claude ho obnovuje z Metricoolu přes konektor).
 
 Zdroje stránek: sitemapy Rank Math, REST API WordPressu (i stránky s noindex),
 prodejní stránky Leadpages a vše, na co vedou interní odkazy.
@@ -309,64 +310,115 @@ def diff(old, new):
             lines += [f"+ {p}: {label} {x}" for x in sorted(b - a)]
             lines += [f"− {p}: {label} {x}" for x in sorted(a - b)]
         a, b = old[p].get("nav_backlinks", 0), new[p].get("nav_backlinks", 0)
-        if a != b and max(a, b) >= 20:  # související články se střídají náhodně, hlídat jen menu a patičku
+        if max(a, b) >= 20 and abs(a - b) >= 5:  # související články se střídají náhodně, hlídat jen menu a patičku
             lines.append(f"~ {p}: odkazy sem ze šablony (menu, patička) {a} → {b}")
     return lines
 
 
+COURSES = {"/kurzy/", "/10x-english/", "/irregular/", "/hele/", "/hele-sp/", "/irregular-cho/", "/hele-checkout/"}
+LISTINGS = {"/", "/blog/"}  # + kategorie; vedou skoro na všechno, proto jen počtem
+TOP_N = 12
+
+
+def views():
+    f = Path(__file__).with_name("mapa-webu-navstevnost.json")
+    if not f.exists():
+        return {}, None
+    v = json.loads(f.read_text(encoding="utf-8"))
+    return v.get("zobrazeni", {}), f"{v.get('obdobi', '?')}, {v.get('zdroj', '?')}, staženo {v.get('stazeno', '?')}"
+
+
+def cell(items):
+    """Seznam do buňky tabulky: oddělený čárkami, bez svislítek."""
+    return ", ".join(str(i).replace("|", "/") for i in items) if items else "–"
+
+
 def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date):
     now = datetime.now().strftime("%y%m%d %H:%M")
-    fb = lambda u: f"{titles.get(u) or u} ({u})" if u.startswith("http") else u
+    seen, seen_src = views()
+    listings = LISTINGS | {p for p, d in data.items() if d["kind"] == "kategorie"}
+
+    def gift(d):
+        g = [titles.get(f) or f for f in d["freebies"]]
+        g += ["okno Dripu „" + x.split(": ", 1)[-1] + "“" for x in d["popups"]]
+        return g
+
+    def vids(d):
+        return " ".join(f"[▶]({v})" for v in d["videos"]) or "–"
+
+    def link(p):
+        return f"[{p}]({WEB}{p})"
+
     order = {"stránka": 0, "Leadpages": 1, "kategorie": 2, "jiné": 3, "článek": 4}
-    pages = sorted(data, key=lambda p: (order.get(data[p]["kind"], 9), p))
+    pages = sorted(data, key=lambda p: (order.get(data[p]["kind"], 9), -seen.get(p, 0), p))
+    count = lambda k: sum(d["kind"] == k for d in data.values())
     L = [
         "# Skutečná mapa webu lcenglish.cz",
         "",
         f"**Vygenerováno:** {now} skriptem `resources/web-lcenglish/mapa_webu.py` (neupravovat ručně, přepíše se). "
         "Oblast [[lcenglish]] · z čeho je web postavený a pravidla: [[mapa-webu]] · systémy: [[lcenglish-ekosystem]].",
-        "Obnova: při weekly review a při „zavírám“ ve vlákně, které měnilo web nebo Leadpages "
-        "(`python -I resources/web-lcenglish/mapa_webu.py`).",
+        "Obnova: při weekly review (předtím Claude obnoví návštěvnost z Metricoolu do `mapa-webu-navstevnost.json`) "
+        "a při „zavírám“ ve vlákně, které měnilo web (`python -I resources/web-lcenglish/mapa_webu.py`).",
         "",
-        f"Stránek: {len(data)} (stránky {sum(d['kind']=='stránka' for d in data.values())}, "
-        f"Leadpages {sum(d['kind']=='Leadpages' for d in data.values())}, "
-        f"kategorie {sum(d['kind']=='kategorie' for d in data.values())}, "
-        f"články {sum(d['kind']=='článek' for d in data.values())}, jiné {sum(d['kind']=='jiné' for d in data.values())}). "
-        "Odkazy počítají jen obsah stránky; menu, patička, kategorie a „související články“ jsou souhrnně dole.",
+        f"Stránek {len(data)}: stránky {count('stránka')}, Leadpages {count('Leadpages')}, kategorie {count('kategorie')}, "
+        f"články {count('článek')}. Odkazy se počítají jen z obsahu stránky; menu, patička a „související články“ "
+        "jsou souhrnně dole. Zobrazení: " + (seen_src or "data chybí"),
         "",
-        f"## Změny od minulé mapy ({prev_date or 'první běh'})",
+        "## Kam vést návštěvníka",
         "",
+        f"Nejčtenější články (top {TOP_N} podle zobrazení za 12 měsíců): vede z nich odkaz na kurz a nabízejí dárek? "
+        "Úkol doplnit do nich dárek nebo odkaz na kurz je v [[next-actions]].",
+        "",
+        "| Článek | Zobrazení | Odkaz na kurz z textu | Dárek | Vede na (z textu) | Video |",
+        "|---|---|---|---|---|---|",
     ]
-    L += [f"- {c}" for c in changes[:200]] or ["- beze změny" if prev_date else "- první mapa, není s čím srovnávat"]
-    if len(changes) > 200:
-        L.append(f"- … a dalších {len(changes) - 200} (celé v `mapa-webu-data.json` přes git diff)")
-    L += ["", "## Přehled", "",
-          "| Stránka | Typ | Odkazy ven (int./ext.) | Vede sem (z obsahu / ze šablony) | Dárky | Videa |",
-          "|---|---|---|---|---|---|"]
+    top = sorted((p for p in data if data[p]["kind"] == "článek"), key=lambda p: -seen.get(p, 0))[:TOP_N]
+    for p in top:
+        d = data[p]
+        kurz = [l for l in d["internal"] if l in COURSES]
+        L.append(f"| {link(p)} | {seen.get(p, '?')} | {cell(kurz) if kurz else '**ne**'} | "
+                 f"{cell(gift(d)) if gift(d) else '**žádný**'} | {cell(d['internal'])} | {vids(d)} |")
+
+    L += ["", "## Propojení stránek", "",
+          "Vede sem z výpisů = hlavní stránka, blog a kategorie (vedou skoro na všechno, proto jen počet). "
+          "Ze šablony = menu, patička a „související články“ pod články.", "",
+          "| Stránka | Typ | Zobrazení | Vede na | Vede sem z článků a stránek | Vede sem z výpisů / ze šablony | Dárek | Video |",
+          "|---|---|---|---|---|---|---|---|"]
     for p in pages:
         d = data[p]
-        gifts = len(d["freebies"]) + len(d["popups"])
+        back = [b for b in d["backlinks"] if b not in listings]
+        from_list = len(d["backlinks"]) - len(back)
         typ = d["kind"] + (", noindex" if d["noindex"] else "")
-        L.append(f"| [{p}]({WEB}{p}) | {typ} | {len(d['internal'])} / {len(d['external'])} | "
-                 f"{len(d['backlinks'])} / {d['nav_backlinks']} | {gifts or '–'} | {len(d['videos']) or '–'} |")
+        L.append(f"| {link(p)} | {typ} | {seen.get(p, '–')} | {cell(d['internal'])} | {cell(back)} | "
+                 f"{from_list} / {d['nav_backlinks']} | {cell(gift(d))} | {vids(d)} |")
+
+    ext = defaultdict(set)
+    for p, d in data.items():
+        for u in d["external"]:
+            ext[u].add(p)
+    host = lambda u: (urlparse(u).hostname or "").removeprefix("www.")
+    L += ["", "## Odkazy ven", "",
+          f"{len(ext)} různých adres na {len({host(u) for u in ext})} webech, seřazeno podle webu.", "",
+          "| Web | Adresa | Ze stránek |", "|---|---|---|"]
+    last = None
+    for u in sorted(ext, key=lambda u: (host(u), u)):
+        h = host(u)
+        L.append(f"| {h if h != last else ''} | [{u.split('://', 1)[-1][:70]}]({u}) | {cell(sorted(ext[u]))} |")
+        last = h
 
     gifts = defaultdict(set)
     for p, d in data.items():
-        for f in d["freebies"]:
-            gifts[fb(f)].add(p)
-        for f in d["popups"]:  # stejný nadpis okna = jeden dárek, ID oken jsou u stránek
-            gifts["vyskakovací okno Dripu „" + f.split(": ", 1)[-1] + "“"].add(p)
-    L += ["", "## Dárky: co se kde nabízí", ""]
-    L += [f"- **{g}** ← {', '.join(sorted(ps))}" for g, ps in sorted(gifts.items())] or ["- nic nenalezeno"]
+        for g in gift(d):
+            gifts[g].add(p)
+    L += ["", "## Dárky: co se kde nabízí", "", "| Dárek | Na stránkách |", "|---|---|"]
+    L += [f"| {g.replace('|', '/')} | {cell(sorted(ps))} |" for g, ps in sorted(gifts.items())]
     if everywhere:
-        L += ["", "Vyskakovací okna Dripu bez omezení na stránky (zobrazí se kdekoli):", ""]
-        L += [f"- {e}" for e in everywhere]
+        L += ["", "Vyskakovací okna Dripu bez omezení na stránky (zobrazí se kdekoli): " + "; ".join(everywhere)]
 
-    vids = defaultdict(set)
-    for p, d in data.items():
-        for v in d["videos"]:
-            vids[v].add(p)
-    L += ["", "## Videa YouTube", ""]
-    L += [f"- {v} ← {', '.join(sorted(ps))}" for v, ps in sorted(vids.items())] or ["- žádná"]
+    L += ["", f"## Změny od minulé mapy ({prev_date or 'první běh'})", ""]
+    L += [f"- {c}" for c in changes[:200]] or ["- beze změny" if prev_date else "- první mapa, není s čím srovnávat"]
+    if len(changes) > 200:
+        L.append(f"- … a dalších {len(changes) - 200} (celé v `mapa-webu-data.json` přes git diff)")
 
     orphans = [p for p in pages if not data[p]["backlinks"] and not data[p]["nav_backlinks"] and p != "/"]
     L += ["", "## Na co nevede žádný odkaz z webu", ""]
@@ -376,25 +428,13 @@ def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_
     L += [f"- {p} → přesměruje na {t}" for p, t in sorted(redirects.items())]
     if not broken and not redirects:
         L.append("- nic")
-    L += ["", "## Odkazy ze šablony (menu, patička, kategorie, související články; počet stránek)", ""]
+    L += ["", "## Odkazy ze šablony (menu, patička, kategorie; počet stránek)", ""]
     wide = [c for c in common if int(c.rsplit("(", 1)[1].rstrip("×)")) >= 20]
     L += [f"- {c}" for c in wide] or ["- nic"]
     if len(common) > len(wide):
         L.append(f"- a {len(common) - len(wide)} článků v „souvisejících článcích“ pod jinými články "
-                 "(počet je u každé stránky v Přehledu, sloupec Vede sem / ze šablony)")
-
-    L += ["", "## Stránky podrobně", ""]
-    for p in pages:
-        d = data[p]
-        L += [f"### {p}", "", f"{d['title']} · {d['kind']}" + (" · noindex" if d["noindex"] else ""), ""]
-        for label, key in (("Interní odkazy", "internal"), ("Externí odkazy", "external"),
-                           ("Vede sem", "backlinks"), ("Soubory", "files"), ("Videa", "videos")):
-            if d[key]:
-                L.append(f"- **{label}:** " + ", ".join(d[key]))
-        if d["freebies"] or d["popups"]:
-            L.append("- **Dárky:** " + "; ".join([fb(f) for f in d["freebies"]] + d["popups"]))
-        L.append("")
-    OUT_MD.write_text("\n".join(L), encoding="utf-8")
+                 "(počet u každé stránky v tabulce Propojení, sloupec ze šablony)")
+    OUT_MD.write_text("\n".join(L) + "\n", encoding="utf-8")
 
 
 def main():
