@@ -8,9 +8,13 @@
 
 ## Aktuální stav
 
-261025: Stránka má novou vizuální identitu LCEnglish ([[GrowOS/lcenglish/brain/brand]]). Další krok je první kolo FB reklamy (next action níže má postup). Průzkum nástrojů je hotový: WinningAds (generátor statických reklam + knihovna Ad Spy) a kurz „Winning With Meta Ads“ jsou prošlé, viz záznam 261025 níže. Otevřené: kampaň asi jen na jeden produkt, 10x ENGLISH, nebo Nepravidelná slovesa ([[lcenglish-irregular-sales-page]]); v WinningAds zatím existuje jen nabídka na Nepravidelná slovesa. (statické reklamy: vyzkoušet také [[ABM – Static Ad Framework]], 261018)
+261026: nový náhled Shadowloopu a obrázek pro sdílení (záznam níže). 261025: Stránka má novou vizuální identitu LCEnglish ([[GrowOS/lcenglish/brain/brand]]). Další krok je první kolo FB reklamy (next action níže má postup). Průzkum nástrojů je hotový: WinningAds (generátor statických reklam + knihovna Ad Spy) a kurz „Winning With Meta Ads“ jsou prošlé, viz záznam 261025 níže. Otevřené: kampaň asi jen na jeden produkt, 10x ENGLISH, nebo Nepravidelná slovesa ([[lcenglish-irregular-sales-page]]); v WinningAds zatím existuje jen nabídka na Nepravidelná slovesa. (statické reklamy: vyzkoušet také [[ABM – Static Ad Framework]], 261018)
 
 ## Záznam (nejnovější nahoře)
+
+### 261026 — Náhled Shadowloopu a obrázek pro sdílení (vlákno „Úpravy webů ze Zápisníku“, Lenka schválila)
+- Starý snímek Shadowloopu („Many people speak English“, indigo, asset `zfqn351ofeau2uekh2ztf22l`) nahrazen novým v mobilní šířce (fráze „The best way to learn English is to watch LCE.“, nový vzhled aplikace): asset `th2hwio6tt6lb623j29pq8vs`, 430×680, `edit_page` + publish, ověřeno na lcenglish.cz/10x-english/.
+- Obrázek pro sdílení: Pissarro, *Two Young Peasant Women* (Met [437304](https://www.metmuseum.org/art/collection/search/437304)) vyříznutý z originálu na 1200×630 (asset `a5zyeirb4fk3nhb6mbuu2y0i`), dřív 599×463.
 
 ### 261025 — Průzkum WinningAds a kurzu Winning With Meta Ads (vlákno „Průzkum winningads.com“, Chrome, jen čtení)
 

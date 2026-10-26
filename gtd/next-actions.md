@@ -49,6 +49,16 @@ sort by due
 ---
 
 ## @online
+- [ ] Odpovědět Jiřině Mankové z Tandemu na WhatsAppu (Zápisník 261025)
+- [ ] Zkontrolovat novou patičku a úvod na lenkadvorakova.cz → [[kontext-ukolu#Údržba lenkadvorakova.cz]]
+- [ ] Aktualizovat s Claudem [[lcenglish-ekosystem]] a domluvit, jak ho udržet živý
+- [ ] Ověřit u Vítka, jak často běží skript `jmena` na skloňování → [[lcenglish-ekosystem]]
+- [ ] Probrat s Claudem skutečnou mapu webu lcenglish.cz (stránky, odkazy, dárky, videa) → [[resources/web-lcenglish/mapa-webu]]
+    - Kontext (Zápisník 261025): mapa má poznámku „aktualizovat vždy, když přibude stránka…“, ale nic to nehlídá. Lenka chce celou mapu: každá stránka, interní a externí odkazy z ní, které stránky na ni vedou, jaké dárky nabízí, odkazy na videa YouTube. „Možná k diskusi.“
+- [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
+    - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
+- [ ] Rozhodnout s Claudem, jestli smazat `GrowOS/lcenglish/legacy-0.1` (archiv z migrace 6. 9.)
+    - Kontext (Zápisník 261025): podle `GrowOS/lcenglish/brain/memory/MEMORY.md` je tam kompletní archiv 0.1; nenašla jsem nic, co by smazání hlídalo (261026).
 - [ ] Rozhodnout o zálohování databáze Shadowloopu → [[lcenglish-ekosystem]]
     - Kontext (261025): Firestore nemá žádné zálohy ani ochranu proti smazání. Claude navrhuje zapnout ochranu proti smazání a denní automatickou zálohu (pár korun ročně).
 - [ ] Rozhodnout, co dál s AI Sborovnou: rozvíjet a otevřít novým lidem, nebo nechat v klidu dožít → [[kontext-ukolu#AI Sborovna]]

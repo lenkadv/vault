@@ -6,12 +6,21 @@
 
 ## Aktuální stav
 
+261026: Náhled Shadowloopu na stránce je nový (aktuální vzhled aplikace) a obrázek pro sdílení je Goya v barvách Galerie. Další krok: reklamní kampaň (next action níže).
+
 261024 (weekly review): Stránka běží na `lcenglish.cz/irregular`, živý test nákupu a pixel jsou ověřené, výchozí stav 5 prodejů. Projekt žije dál, protože na něj naváže reklamní kampaň na Facebooku. Kampaň je zatím zapsaná jako jeden bod, rozpadne se na kroky, až se do ní pustíme.
 
 ## Next actions
 
 - [ ] Připravit a spustit reklamní kampaň na Nepravidelná slovesa #next-action #online
     - Kontext: Zatím jen připomínka (Lenka 261024), kampaň má víc kroků. Kampaň LCEnglish poběží asi jen na jeden produkt, 10x ENGLISH, nebo Nepravidelná slovesa; otevřené (viz [[lcenglish-10x-english-sales-page]]). Před spuštěním testovací nákup a ověření události ve Správci událostí Meta (Lenka 261014).
+
+## Záznam (nejnovější nahoře)
+
+### 261026 — Náhled Shadowloopu a obrázek pro sdílení (vlákno „Úpravy webů ze Zápisníku“, Lenka schválila)
+- Starý snímek Shadowloopu (indigo, asset `om850dlb3aw8s3xnjn8wuar5`) nahrazen novým v mobilní šířce (fráze „The best way to learn English is to watch LCE.“, nový vzhled aplikace, jméno účtu skryté): asset `x3u86c0ki24thk7ncw53c5v0`, 430×680, `edit_page` + publish, ověřeno na lcenglish.cz/irregular/ (mobil). Stejný snímek je na /10x-english/. Zdroj: `shadowloop.lcenglish.cz`, snímek přes iframe v mobilní šířce.
+- Obrázek pro sdílení: Goya v barvách Galerie (šedotón × #D1003A jako hero, 1200×630, asset `hkgduy0c6x7pivi2l0bh0h8x`, `update_page_seo`), dřív korálový ([[mapa-webu#Identita a obrázek pro sdílení]]).
+- Pozn.: Leadpages hlásí u stránky `robotsIndexable: false`; na lcenglish.cz/irregular/ se ale žádný robots tag nevypisuje (ověřeno curlem), takže na indexaci webu to vliv nemá.
 
 ## Cíl
 

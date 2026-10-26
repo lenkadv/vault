@@ -75,10 +75,16 @@ add_action( 'wp_head', function () {
 
 /**
  * [lce-posledni-clanky pocet="6"] – mřížka posledních článků s obrázkem (náhrada widgetu Portfolio z Elementor Pro na hlavní stránce).
+ * [lce-posledni-clanky clanky="673,6755"] – vybrané články v daném pořadí (hlavní stránka od 261026: nejčtenější podle Metricoolu).
  */
 add_shortcode( 'lce-posledni-clanky', function ( $atts ) {
-	$atts  = shortcode_atts( array( 'pocet' => 6 ), $atts );
-	$posts = get_posts( array( 'numberposts' => (int) $atts['pocet'], 'post_status' => 'publish' ) );
+	$atts = shortcode_atts( array( 'pocet' => 6, 'clanky' => '' ), $atts );
+	$ids  = array_filter( array_map( 'absint', explode( ',', $atts['clanky'] ) ) );
+	if ( $ids ) {
+		$posts = get_posts( array( 'include' => $ids, 'orderby' => 'post__in', 'post_status' => 'publish' ) );
+	} else {
+		$posts = get_posts( array( 'numberposts' => (int) $atts['pocet'], 'post_status' => 'publish' ) );
+	}
 	if ( ! $posts ) {
 		return '';
 	}
@@ -116,7 +122,7 @@ add_action( 'wp_head', function () {
 	}
 	?>
 	<style>
-	.lce-hero .wp-block-cover__inner-container{max-width:1100px;margin:0 auto;padding:0 24px}
+	.lce-hero .wp-block-cover__inner-container{width:100%;max-width:1100px;margin:0 auto;padding:0 24px;box-sizing:border-box}
 	.lce-hero h1{color:#fff !important;text-shadow:0 1px 12px rgba(0,0,0,.3)}
 	.lce-hero .wp-block-cover__background{background:#000;opacity:.08}
 	.lce-cisla{background:#1A1416 !important;color:#fff !important}
@@ -132,7 +138,10 @@ add_action( 'wp_head', function () {
 		.lce-cisla-row{grid-template-columns:repeat(2,1fr)}
 		.lce-loga-row{justify-content:center}
 		.lce-loga-row img{width:84px;height:84px}
-		.lce-hero{min-height:70vh !important}
+		.lce-hero{min-height:70vh !important;align-items:flex-end !important}
+		/* Nadpis na mobilu uprostřed dole (na tričku), nepřekrývá obličej (261026). */
+		.lce-hero .wp-block-cover__inner-container{padding:0 20px 56px}
+		.lce-hero h1{text-align:center}
 		.lce-o-mne,.lce-blog-home{padding-left:20px !important;padding-right:20px !important}
 		.lce-o-mne .wp-block-columns{gap:24px}
 		/* Ikona menu na mobilu: bílá, ať nezaniká ve fotce (jemný stín jen pro čitelnost na světlých místech). */

@@ -1,0 +1,23 @@
+/* Vizuální identita lenkadvorakova.cz (261025): papír, inkoust, petrolejová #1E5470, DM Serif Display + Karla */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:ital,wght@0,400;0,700;1,400&display=swap');
+body{background:#F7F1EA}
+/* Hlavička */
+#masthead,#masthead .site-main-header-wrap,#masthead .site-header-row-container-inner{background:#F7F1EA !important}
+#masthead{border-bottom:0;box-shadow:none}
+#masthead .custom-logo{display:none}
+#masthead .site-title{font-family:'DM Serif Display',serif !important;font-weight:400 !important;font-size:26px !important;color:#1A1416 !important;letter-spacing:0}
+#masthead .main-navigation a,#mobile-drawer a{font-family:Karla,sans-serif !important;font-size:16px !important;font-weight:700 !important;color:#1A1416 !important}
+#masthead .main-navigation .menu>li>a:hover{color:#1E5470 !important}
+#masthead .main-navigation .menu>li:last-child>a{background:#1E5470;color:#fff !important;border-radius:6px;padding:10px 18px !important;margin-left:8px}
+#masthead .main-navigation .menu>li:last-child>a:hover{background:#163F55}
+#masthead .menu-toggle-open,#masthead .menu-toggle-icon{color:#1A1416 !important}
+/* Patička */
+#colophon .site-bottom-footer-wrap,#colophon .site-footer-row-container-inner{background:#1A1416 !important}
+#colophon .site-info,#colophon .footer-html{font-family:Karla,sans-serif;font-size:15px;color:#D9D0D2}
+#colophon .footer-html-inner p{margin:0;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center}
+#colophon .footer-html a{color:#fff !important;text-decoration:underline;text-underline-offset:3px}
+#colophon .site-bottom-footer-inner-wrap{padding-top:30px;padding-bottom:30px}
+#colophon .site-bottom-footer-inner-wrap{max-width:1100px;margin:0 auto;padding-left:20px;padding-right:20px}
+#masthead .site-main-header-inner-wrap{max-width:1100px;margin:0 auto}
+/* Home: jméno je velké v úvodu, v hlavičce ho neopakovat */
+body.home #masthead .site-branding{visibility:hidden}
