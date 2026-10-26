@@ -75,6 +75,7 @@ sort by due
 - [ ] Rozhodnout, co s teoretickými kartami Anki z Přehledovky (dr. Pech)
 - [ ] Vybrat termín výletu Frankfurt – Paříž – Londýn (výstavy končí 17. 1. 2027) → [[resources/mista-k-navstiveni]]
 - [ ] Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B 📅 2026-10-25 → [[drip-lcenglish-uvitani]]
+    - ⚠️ Kontext (261026): obě položky nemají razítko GrowOS (`id`), a proto je nástěnka neukazuje (`growos doctor`). Nejdřív je znovu založit v sezení otevřeném ve složce GrowOS (viz Pro denní vlákno 261026), pak teprve projít. Texty: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `…/overture-b-mail-6.md`.
     - Kontext (261024 23:00): přepsáno podle dossieru EMH 008, karty v review: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `overture-b-mail-6.md`. Po schválení Claude postaví Overture C v Dripu.
 - [ ] Postavit s Claudem v Dripu vagón A (HELE) po uvítání → [[drip-lcenglish-uvitani]]
     - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
