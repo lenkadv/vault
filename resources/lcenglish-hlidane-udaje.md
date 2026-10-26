@@ -21,7 +21,6 @@ Oblast [[lcenglish]] · založeno 261026 (Lenka: „to udržování aktuálních
 | Počet online kurzů | 3 v prodeji: HELE, 10x ENGLISH, Nepravidelná slovesa (Lenka 261026: uvádět skutečný počet a při změně opravit) | `\d+\s*(online\s*)?kurz` | dřív 5 |
 | Vlastní aplikace | 1 (Shadowloop; na hlavní stránce od 261026) | `\d+\s*vlastní aplikac` | |
 | Počet článků na blogu | 100+ (112 zveřejněných k 26. 10. 2026; na hlavní stránce od 261026) | `\d+\+?\s*článk` | nové články Lenka teď nepíše |
-| Spokojenost a pokroky | na webu se nemá uvádět (Lenka 261026: „100 %“ z hlavní stránky pryč) | `100\s*%` | hlídá, aby se to nevrátilo |
 | Cena Nepravidelná slovesa za 14 dní | 790 Kč | `790` | [[lcenglish-irregular-sales-page]] |
 | Cena 10x ENGLISH | 1 270 Kč | `1[\s.]?270` | [[lcenglish-10x-english-sales-page]] |
 | Cena Angličtina s příběhem (HELE) | 5 970 Kč | `5[\s.]?970` | [[hele-funnel]] |
