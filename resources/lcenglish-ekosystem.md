@@ -20,7 +20,7 @@ lcenglish.cz/newsletter/     ───┘      │  nebo „signup: newsletter A
                                         │  → CONTROLLER START → 000 GTKY (4 uvítací maily)
                                         │  → vagón podle dárku (B = Nepravidelná slovesa; A HELE, C 10x ENGLISH zatím prázdné)
                                         │  → každé úterý newsletter Art for English (+ zrcadlo na Substacku)
-                                        │  pravidelně skript `jmena` (server u fapipi) → Skloňování jmen → oslovení v 5. pádě
+                                        │  každou celou hodinu skript `jmena` (server u fapipi) → Skloňování jmen → oslovení v 5. pádě
                                         │  dárek „Texty… Shadowloop“: odkaz v mailu → Shadowloop funkce `freebie`
                                         ▼
 Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zaplacení fapipi →
@@ -128,13 +128,13 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Skript na oslovení `jmena` a Skloňování jmen
 
-- **Ověřeno:** 261025 (repozitář a kontakty v Dripu; frekvence spouštění neověřená)
-- **K čemu:** pravidelně (frekvence neověřená, viz Nasazení) projde kontakty bez pole `osloveni` v obou účtech Dripu (LCEnglish i AI lektoři), zeptá se Skloňování jmen a zapíše oslovení v 5. pádě (Lenko, Davide) a štítek M/F. Oslovení se proto u nového kontaktu neobjeví hned.
+- **Ověřeno:** 261026 (frekvence od Vítka: cron `0 * * * *`; repozitář a kontakty v Dripu 261025)
+- **K čemu:** každou celou hodinu (cron `0 * * * *`, Vítek 261026) projde kontakty bez pole `osloveni` v obou účtech Dripu (LCEnglish i AI lektoři), zeptá se Skloňování jmen a zapíše oslovení v 5. pádě (Lenko, Davide) a štítek M/F. Oslovení se proto u nového kontaktu neobjeví hned.
 - **Kde běží:** Python skript github.com/kokolem/jmena (`main.py`, `invalid_names.json`, `ungendered_names.json`) na serveru u fapipi (37.205.8.210). Služba https://www.sklonovani-jmen.cz, zdarma 10 dotazů denně (stačí: ověřeno 261025, všech 121 aktivních kontaktů LCEnglish má oslovení, za 30 dní 4 nové, nejvýš 1 denně; AI lektoři 0 aktivních) (předplatné vypršelo 13. 4. 2025; při velkých webinářích se platilo, minimum 49 Kč).
 - **Přístup:** repozitář Lenka (pozvánka přijata 261024); server jen Vítek; účet Skloňování jmen od 261024 na Lence.
 - ⚠️ API klíče Dripu a Skloňování jmen jsou zapsané přímo v `main.py`: u služeb nový klíč negenerovat, jinak skript přestane fungovat.
 - **Dokumentace:** [[drip-lcenglish-uvitani#Oslovení v 5. pádě (skript, zjištěno 261024; opraveno podle Vítka 22:30)]].
-- **Nasazení (ověřeno 261025 v repozitáři):** na rozdíl od fapipi **nemá CI/CD** (žádné `.github/workflows`), změna na GitHubu se na server sama nedostane. Poslední změna kódu 28. 2. 2024. Kód je jednoduchý: projde stránky odběratelů obou účtů, kdo nemá `osloveni` a má jméno, tomu zjistí 5. pád a rod a zapíše je. Jména, která služba neumí, si ukládá do `invalid_names.json` a `ungendered_names.json` (na serveru, takže kopie v repozitáři je starší). Spouštění je nastavené na serveru (odhad: cron), v repozitáři o něm nic není, takže **frekvenci neznáme**: dřív tu stálo „jednou denně“, Lenka si myslí, že častěji (Zápisník 261025); ověřit u Vítka (úkol v [[next-actions]]). **Ověřeno 261026 na GitHubu:** `main.py` jednou projde kontakty a skončí (žádná smyčka ani čekání), takže frekvenci určuje jen nastavení na serveru. Zkušební kontakt založený 26. 10. v 16:53 měl oslovení „Lenko“ a štítek F v 18:47, tedy do dvou hodin; jestli to byl jediný denní běh, z toho poznat nejde.
+- **Nasazení (ověřeno 261025 v repozitáři):** na rozdíl od fapipi **nemá CI/CD** (žádné `.github/workflows`), změna na GitHubu se na server sama nedostane. Poslední změna kódu 28. 2. 2024. Kód je jednoduchý: projde stránky odběratelů obou účtů, kdo nemá `osloveni` a má jméno, tomu zjistí 5. pád a rod a zapíše je. Jména, která služba neumí, si ukládá do `invalid_names.json` a `ungendered_names.json` (na serveru, takže kopie v repozitáři je starší). Spouštění je nastavené na serveru: **cron `0 * * * *`, tedy každou celou hodinu** (Vítek 261026; Lenka to tušila správně v Zápisníku 261025, dřív tu stálo „jednou denně“). **Ověřeno 261026 na GitHubu:** `main.py` jednou projde kontakty a skončí (žádná smyčka ani čekání), takže frekvenci určuje jen nastavení na serveru. Zkušební kontakt založený 26. 10. v 16:53 měl oslovení „Lenko“ a štítek F v 18:47, tedy do dvou hodin; jestli to byl jediný denní běh, z toho poznat nejde.
 - **Otevřené:** úpravu skriptu nasadí zatím jen Vítek (přístup na server).
 
 ### Ostatní
@@ -192,7 +192,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 | Nákup v Dripu dvakrát | pravidla FAPI výše (zálohové faktury, webhook na zaplacení objednávky) |
 | Dárek nepřišel | Leadpages → Connectors → Automations (je u formuláře akce Drip?) → Drip workflow `delivery: …` ([[drip-lcenglish-uvitani]]) |
 | Dárek Shadowloop bez balíčku | odkaz v mailu `freebie` s `url_encode`; člověk musí na odkaz kliknout |
-| Mail začíná „Dobrý den,“ bez jména | oslovení přibude až druhý den (skript `jmena`); jinak vyčerpaných 10 dotazů nebo server (Vítek) |
+| Mail začíná „Dobrý den,“ bez jména | oslovení přibude nejpozději do hodiny (skript `jmena` běží každou celou hodinu); uvítání GTKY čeká hodinu, takže už první mail GTKY má oslovení; bez jména odchází jen okamžitý mail s dárkem nebo posledním dílem (proto v něm Liquid počítá s „Dobrý den,“); jinak vyčerpaných 10 dotazů nebo server (Vítek) |
 | Na webu chybí měření | `wp-content/mu-plugins/lce-mereni.php` ([[mapa-webu#Měření (všechny stránky WordPressu)]]) |
 | Prodejní stránka zmizela z lcenglish.cz | plugin Leadpages ve WordPressu |
 | Shadowloop nejde otevřít | Firebase konzole → Hosting → Release history → Rollback ([[shadowloop-admin]]) |
@@ -215,7 +215,6 @@ Uvítání a vagóny podle Email Marketing Heroes (Blueprint: Build Your Control
 
 - Meta: doplnit soupis účtů (portfolio, reklamní účty, přístupy, platba) při přípravě reklamy pro LCEnglish
 - Shadowloop: rozhodnout o zálohování Firestore (žádné zálohy, [[next-actions]])
-- Skript `jmena`: ověřit u Vítka, jak často běží ([[next-actions]])
 - Drip: Overture C (10x ENGLISH) a 6. mail Overture B na nástěnce, pak vagón A (HELE) → [[drip-lcenglish-uvitani]], [[next-actions]]
 - Web: smazat Elementor a koncepty po 28. 10. ([[waiting-for]]); hlavní stránka a náhledy Shadowloopu v Leadpages se upravují (vlákno „Úpravy webů ze Zápisníku 261025“)
 - FreshLearn: podpora kvůli CSS portálu (📅 30. 10.); AI Sborovna a VIP termíny rozhodnout; Teachable 30. 11. ([[lcenglish-freshlearn-revize]])

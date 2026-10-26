@@ -100,7 +100,7 @@ V EMH má Overture 6 mailů, každý z jiného úhlu: zasít myšlenku, proměna
 
 ## Oslovení v 5. pádě (skript, zjištěno 261024; opraveno podle Vítka 22:30)
 
-**Správně (Vítek 261024):** oslovení dělá Python skript github.com/kokolem/jmena, který běží jednou denně na serveru u fapipi. Projde kontakty bez `osloveni` v obou účtech Dripu (LCE, AI lektoři), zeptá se Skloňování jmen, zapíše `osloveni` a štítek M/F. Proto se u nových kontaktů oslovení objeví až druhý den. Odstavec níže o webhooku a Apps Scriptu je překonaný: webhook 119864 oslovení nedělá.
+**Správně (Vítek 261024):** oslovení dělá Python skript github.com/kokolem/jmena, který běží na serveru u fapipi každou celou hodinu (cron `0 * * * *`, Vítek 261026; dřív zde chybně „jednou denně“). Projde kontakty bez `osloveni` v obou účtech Dripu (LCE, AI lektoři), zeptá se Skloňování jmen, zapíše `osloveni` a štítek M/F. Proto se u nových kontaktů oslovení objeví až druhý den. Odstavec níže o webhooku a Apps Scriptu je překonaný: webhook 119864 oslovení nedělá.
 
 
 - Pole `osloveni` (Lenko, Davide, Eliško) a štítky M/F doplňuje **skript Google Apps Script**. Drip ho volá webhookem při každém přidání štítku (`subscriber.applied_tag`, webhook 119864, založen 31. 7. 2023, adresa začíná `https://script.google.com/macros/s/AKfycbzo…/exec`). Skript se ptá služby **Skloňování jmen** (https://www.sklonovani-jmen.cz, Jan Kozák).
