@@ -23,8 +23,8 @@ Dvojí užití výstupu:
 
 ## Podklady
 
-- Původní dokument od Hacked List (verze 2): `C:\Users\Lenka\Downloads\HackedList_Expanded_Report_Penta_Real_Estate_CZ_Adisseo_Style.pdf`
-- 260927 návrh pro Davida Musila (8 slajdů, PDF do mailu) + příloha pro IT s opraveným součtem: `C:\Users\Lenka\Downloads\Penta_RE_HackedList_prehled\` (zdroj `prehled.html`, PDF se generuje z Edge)
+- Původní dokument od Hacked List (verze 2): `G:\Můj disk\06 F2F BIZ 👥\Aktivní klienti\PENTA\HackedList report 2609\HackedList_Expanded_Report_Penta_Real_Estate_CZ_Adisseo_Style.pdf` (přesunuto ze Stažených 261026)
+- 260927 návrh pro Davida Musila (8 slajdů, PDF do mailu) + příloha pro IT s opraveným součtem: `G:\Můj disk\06 F2F BIZ 👥\Aktivní klienti\PENTA\HackedList report 2609\Penta_RE_HackedList_prehled\` (zdroj `prehled.html`, PDF se generuje z Edge)
 - K vyjasnění s Hacked List: součet na s. 4 (uvedeno 45, tabulka dává 43; v příloze opraveno na 43), rozdíl 0 vs. 6 (firemní e-maily vs. tender portál), název souboru prozrazoval šablonu Adisseo, 4,5 mld. v reportu vs. 5,2 mld. na webu
 - Reference z hackedlist.io: Veolia, T-Mobile, Univerzita Karlova, RFE/RL
 - 260928 Vítkova kontrola zapracována: součet 43; 5,2 mld. dle webu; CASCA 3 záznamy (vč. účtu bez domény, stejný username + heslo), nákaza ~25. 5. 2022, viděno 20. 6. 2024–9. 6. 2026; Proclienta 2, nákaza ~23. 9. 2023, viděno 16. 11. 2023–13. 11. 2025; „naposledy viděno“ ≠ platnost. U CASCA i přístupy k microsoftonline.com (@casca.sk), u Proclienty k proclienta.mailadmin.sk → podvodný mail ze skutečné schránky je možný. Navíc pentaholding.eu (ecm. za VPN u člověka z Proclienty, upload.) → poznámka „mimo rozsah“ na slajdu 3. Vždy psát **HackedList.io**. Technický report od HackedListu Davidovi **nedávat**, jen naši prezentaci. Předchozí verze HTML: `prehled_260927.html`.
