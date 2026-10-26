@@ -7,7 +7,7 @@
 
 ## Aktuální stav
 
-261024 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic). **Kurz začíná po 23. 11.** (4 pondělí 17–20: 23. 11., 30. 11., 7. 12., 14. 12.; páté konzultační setkání po Vánocích). **Posun 261024:** reklamy poběží zhruba 14 dní před startem, tedy **od cca 9. 11.** (dřív plán od 2. 11.); příprava kampaně má o týden víc času, checklist níž platí, jen se posouvá termín. Výběr stránky: dál se pracuje s B3. Štěpánčin TidyCal běží (`https://tidycal.com/ulicna/digistart`, od 24. 10. napojený na všechna tlačítka konzultace v B2 i B3), zbývají české popisky a telefon jako první možnost. **Meta:** Lenčino portfolio DigiStart zůstává zablokované, Meta nereaguje (24. 10. znovu bez kódu i bez člověka) → **jde se přes Štěpánku: portfolio DigiStart za GNOSTIKU**, Lenka jí pošle návod (úkol níž). **Lenka 261024:** úkoly nemají stejnou váhu (rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho) → chce projektovou mapu priorit, úkol níž.
+261024 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic). **Kurz začíná po 23. 11.** (4 pondělí 17–20: 23. 11., 30. 11., 7. 12., 14. 12.; páté konzultační setkání po Vánocích). **Posun 261024:** reklamy poběží zhruba 14 dní před startem, tedy **od cca 9. 11.** (dřív plán od 2. 11.); příprava kampaně má o týden víc času, checklist níž platí, jen se posouvá termín. Výběr stránky: dál se pracuje s B3. Štěpánčin TidyCal běží (`https://tidycal.com/ulicna/digistart`, od 24. 10. napojený na všechna tlačítka konzultace v B2 i B3), zbývají české popisky a telefon jako první možnost. **Meta:** Lenčino portfolio DigiStart zůstává zablokované, Meta nereaguje (24. 10. znovu bez kódu i bez člověka) → **jde se přes Štěpánku: portfolio DigiStart za GNOSTIKU**, Lenka jí pošle návod (úkol níž). **Lenka 261024:** úkoly nemají stejnou váhu (rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho) → chce projektovou mapu priorit, úkol níž. **261026:** Claude si přepisy z Voicenotes stáhne sám (zatím přes Chrome; Lenka zapne konektor, úkol níž); rozbor úvodního videa Dannyho Inyho „proč Claude“ je v `GrowOS/digistart/library/danny-iny-proc-claude.md`.
 
 ## Co to je
 
@@ -123,7 +123,16 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Odpovědět Štěpánce na mail „DigiStart – shrnutí zkušebního průchodu“ — odpověď není potřeba, vyřešeno osobně ✅ 2026-10-11 (Lenka)
 - [x] Sepsat projektový plán kampaně DigiStart → checklist „Příprava kampaně do 30. 10.“ níž (Lenka s Claudem 261017) ✅ 2026-10-17
 - [ ] Přepsat čtyři videa Dannyho Inyho (AI Strategist) do transkriptů #next-action #online
-    - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[GrowOS/digistart/library/swipe-content|digistart swipe]] (lievák: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, transkripty udělá sama, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
+    - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[GrowOS/digistart/library/swipe-content|digistart swipe]] (funnel: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
+    - 261026: přepisy aspoň dvou videí série už jsou v Lenčině Voicenotes („2026 AI landscape update“ a „V4 AI strategist training invite“, obě 14. 10.); Claude je stáhne sám ([[resources/postupy/voicenotes]]), Lenka jen řekne.
+- [ ] Napsat s Claudem pro DigiStart vysvětlení, proč kurz běží na Claude #next-action #online
+    - Kontext (Zápisník 261025, `inbox/telefon/zarazeno/261025-2140…`): vzor je úvodní video Dannyho Inyho k AI Strategist, které vysvětluje, proč kurz běží na Claude; přepis má Lenka ve Voice Notes (stažení řeší úkol níž). U nás to nikde vysvětlené není a „rozhodně by tam mělo být“.
+    - Podklad 261026: rozbor úvodního videa a zdůvodnění z veřejného videa [[GrowOS/digistart/library/danny-iny-proc-claude]].
+- [ ] Projít s Claudem platformu AI Strategist jako vzor pro informace účastnicím DigiStartu #next-action #online
+    - Kontext (Zápisník 261025): Danny Iny má hezky udělanou platformu, na které zveřejňuje informace ke kurzu.
+- [x] Ověřit, jestli si Claude stáhne přepisy z Voice Notes sám ✅ 2026-10-26 — ano, viz Záznam 261026
+- [ ] Zapnout v Claude konektor Voicenotes #next-action #online
+    - Kontext (261026): oficiální konektor, přihlášení jen kliknutím (bez hesla a klíče), Claude pak přepisy stahuje sám bez Chromu. Odkaz: https://claude.ai/directory/connectors/1c34a7fb-93a7-4a21-8fc8-2287034ecc8c → Add → Connect → Continue. Postup [[resources/postupy/voicenotes]].
 - [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
 ### Příprava kampaně (checklist 261017; původně do 30. 10. s reklamami od 2. 11., posunuto 261024: reklamy od cca 9. 11.)
@@ -216,6 +225,12 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Naplánovat harmonogram (min. 50 h, max. 25 účastníků/skupina) a vložit do Databáze nejpozději 7 dní před začátkem, kurz zveřejnit nejdřív 90 / nejpozději 30 dní před začátkem
 
 ## Záznam (nejnovější nahoře)
+
+**261026 09:10–09:20 — Voicenotes: Claude si přepisy stáhne sám (samostatné vlákno „Voice Notes: přístup pro Clauda“).**
+- Služba = voicenotes.com (Lenka 261026). **Oficiální konektor existuje** (`https://api.voicenotes.com/mcp`, přihlášení OAuth, nástroje hledat, vypsat, stáhnout přepis, založit textovou poznámku; mazat a upravovat neumí). Zatím není zapnutý → úkol pro Lenku výš.
+- Veřejné API nemá; oficiální Obsidian plugin „Voicenotes“ by synchronizoval všechny nahrávky do vaultu (nepořádek, token ve vaultu, celý přepis neověřen) → nedoporučuji.
+- **Vyzkoušeno přes Claude in Chrome ve vlastní kartě:** nahrávka „Danny's AI setup guide for training using Claude“ (9:06, https://voicenotes.com/recording/V6s5UzaV), karta Transcript, celý text přečten. V aplikaci nic nezměněno.
+- Výstup: [[GrowOS/digistart/library/danny-iny-proc-claude]] (stavba videa, argumenty, co z toho pro DigiStart; poznámky vlastními slovy, celý přepis zůstává ve Voicenotes). Postup [[resources/postupy/voicenotes]], Databanka [[SLU – Voicenotes]].
 
 **261025 17:56–18:25 — Videoreklama: rozbor Kristine Mirelle, nástrojů a kurzu AI Creator Course (samostatné vlákno, čeká na Lenčin výběr nápadu).**
 - *Zkušební klip ve Flow (19:16, nápad 2 „mladý guru“, kreslené postavy, nic nezveřejněno):* obrázek z Nano Banana, video Veo 3.1 Fast ve Flow (nové rozhraní 2026 = chat „Co chcete vytvořit?“, ne tlačítka Frames to Video). **Čeština zní dobře** (Lenka). Problém: zadání „comedic timing, light office ambience“ přidalo smích ze sitcomu a klávesnici a přegenerování s „odstraň to“ nepomohlo; pomohlo nové video se zadáním, které popisuje zvuk („only the two voices… complete silence between lines“). Mladík mluvil pomaleji, než měl → Claude přes ffmpeg zrychlil jeho repliku o 20 %, uřízl 3 s ticha na konci a vypálil české titulky: `Stažené soubory/DigiStart-test-guru-zkraceny-titulky.mp4` (6,8 s). Asi 4–5 generování ≈ 80–100 kreditů.

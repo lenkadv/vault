@@ -59,6 +59,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 15  | 261024 | 25 min | DigiStart: propojení Claude s poštou na Seznamu: průzkum, test IMAP na testovací schránce (čtení, koncept), MCP server bez odesílání, návod krok za krokem pro účastnice a testerky (20:20–20:45) → [[NAVOD-seznam-posta]], [[projects/digistart]] |
 | 16  | 261024 | 36 min | DigiStart: Seznam, bezpečnostní zkoušky 1–4 přes MCP (odeslání odmítnuto, pokyn z e-mailu neproveden), zápis do návodu (20:45–21:21) → [[projects/digistart]] |
 | 17  | 261025 | 1 h 26 min | DigiStart: nástroje na videoreklamu: rozbor vzoru Kristine Mirelle, ověření Google AI Pro a Flow, kurz AI Creator Course a Wilcův postup střihu do podkladů, tři nápady, zkušební klip ve Flow (čeština, zrychlení, titulky) (17:56–19:22; Lenčina práce ve Flow mezi zprávami započtena, byla součástí testu) → [[projects/digistart]] |
+| 18  | 261026 | 10 min | DigiStart: Voicenotes, jak si Claude stáhne přepisy (konektor, Chrome), rozbor úvodního videa Dannyho Inyho „proč Claude“ (09:10–09:20) → `GrowOS/digistart/library/danny-iny-proc-claude.md` |
 
 **Součet práce na počítači k 261021 (jen zapsané řádky):** DigiStart 17 h 20 min (řádky 1–5, 8–13) + firemní workshop 1 h 45 min (řádek 7) = **19 h 05 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **33 h 37 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně. Bloky DigiStartu z 18.–20. 10. v tabulce zatím nejsou (zapisuje je denní vlákno, pokud proběhly).
 
@@ -109,7 +110,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## Michal Kocián
 
-### Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 261014 (28 000 Kč = 10 × 2 800 Kč, Zjednodušená faktura, splatnost 24. 10. 2026, ve FAPI neodeslaná; odešle Lenka sama) — **✅ zaplaceno (Lenka 261018)**
+Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 261014 (28 000 Kč = 10 × 2 800 Kč, Zjednodušená faktura, splatnost 24. 10. 2026, ve FAPI neodeslaná; odešle Lenka sama) — **✅ zaplaceno (Lenka 261018)**
 
 | #   | Datum  | Poznámka                                                    |
 | --- | ------ | ----------------------------------------------------------- |
@@ -167,7 +168,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 
 ## David Musil (PENTA)
 
-**Typ:** fakturovat po skončení · **Sazba:** 2 800 Kč/h (platí i pro Lukášika a Vacka) · **Vyfakturováno 261012:** společná faktura PENTA č. 426507 (**zaplaceno, ověřeno v bance 261022**) (zjednodušený doklad, FAPI; původní č. 26500 téhož dne stornována, protože vyšla z nepoužité řady, objednávka č. 4615001906, 33 600 Kč = Musil 5 h + Vacek 3 h + Lukášik/Lapeš 4 h, splatnost 22. 10. 2026), tři položky v jedné faktuře; číslo objednávky doplněno na fakturu, PDF poslala Lenka mailem Veronice Voříškové 261012 15:01 (z `lenka@publicspeaking.cz`); čekání na platbu ve [[waiting-for]] (22. 10.)
+**Typ:** fakturovat po skončení · **Sazba:** 2 800 Kč/h (platí i pro Lukášika a Vacka) · **Vyfakturováno 261012:** společná faktura PENTA č. 426507 (**zaplaceno, ověřeno v bance 261022**) (zjednodušený doklad, FAPI; původní č. 26500 téhož dne stornována, protože vyšla z nepoužité řady, objednávka č. 4615001906, 33 600 Kč = Musil 5 h + Vacek 3 h + Lukášik/Lapeš 4 h, splatnost 22. 10. 2026), tři položky v jedné faktuře; číslo objednávky doplněno na fakturu, PDF poslala Lenka mailem Veronice Voříškové 261012 15:01 (z `lenka@publicspeaking.cz`)
 **Plán:** 3–5 hodin
 
 | #   | Datum  | Délka | Poznámka |

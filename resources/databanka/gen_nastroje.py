@@ -112,6 +112,7 @@ SLUZBY = [  # (název, k čemu, stav, zdroj)
  ("Computer use", "ovládání desktopových aplikací (Word apod.) přes obrazovku", "neprozkoumáno"),
  ("Scheduled tasks", "naplánované úlohy v aplikaci Claude", "neprozkoumáno"),
  ("AI Black Magic konektor", "knihovna promptů a skillů (trial skončil 260928)", "použito"),
+ ("Voicenotes", "stáhnout přepis nahrávky z voicenotes.com (Lenčiny nahrávky a přepisy videí)", "použito"),
 ]
 APPS = [
  ("NotebookLM (CLI)", "dotazy do Lenčiných notebooků z Claude Code", "použito", "reference_notebooklm_cli"),
