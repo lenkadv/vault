@@ -41,7 +41,7 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 |---|---|---|
 | `/uprava/`, `/thank-you/` | prázdná „Správa osobních informací“, staré poděkování 2022; odkazy nenalezeny | v konceptech (404) |
 | `/anglicky-za-tyden/`, `/anki-navod/` | 2 připnuté články | editor bloků (obsah beze změny) |
-| `/hele-sp/` 7438, `/hele-ew-sp/` 7439, `/hele-ew-reg/` 7443 (WebinarKit), `/hele-ew-ty/` 7444, `/hele-ew-replay/` 7445, `/hele-checkout/` 7446 (od 261025 objednávka podle `/irregular-cho/`), `/hele-checkout-ew/` 7447 (SimpleShop, mrtvé) | stránky HELE z 2022 | bloky WordPressu, bez hlavičky a patičky, vzhled třída `lce-lp` v `lce-blog-filtr.php`; kromě `/hele-sp/` noindex; řeší se s HELE |
+| `/hele-sp/` 7438 (od 261026 přesměrováno 301 na `/hele/`, Rank Math → Redirections), `/hele-ew-sp/` 7439, `/hele-ew-reg/` 7443 (WebinarKit), `/hele-ew-ty/` 7444, `/hele-ew-replay/` 7445, `/hele-checkout/` 7446 (od 261025 objednávka podle `/irregular-cho/`), `/hele-checkout-ew/` 7447 (SimpleShop, mrtvé) | stránky HELE z 2022 | bloky WordPressu, bez hlavičky a patičky, vzhled třída `lce-lp` v `lce-blog-filtr.php`; kromě `/hele-sp/` noindex; řeší se s HELE |
 | `/shakespeare-mail/` 7448 | Den angličtiny (2022) | bloky, noindex; asi smazat |
 | koncepty: stará /hele/ 7119, /hele/ z bloků 7436 (slug `hele-bloky`, od 261025), xDemo ×4, landing #707 a #3089, archivní Home/Kurzy/Kontakt/Irregular ChO, staré vstupní stránky Elementoru | — | smazat po čase spolu s pluginem Elementor |
 

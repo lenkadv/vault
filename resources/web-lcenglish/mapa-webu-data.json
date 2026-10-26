@@ -1,5 +1,5 @@
 {
- "generated": "261026 15:18",
+ "generated": "261026 15:52",
  "pages": {
   "/": {
    "title": "LCEnglish - aby vás angličtina bavila",
@@ -42,7 +42,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=A8QGfulLhXM"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 9
   },
   "/10x-english/": {
    "title": "10x ENGLISH – mluvte a rozumějte anglicky bez překládání v hlavě | LCEnglish",
@@ -54,10 +54,12 @@
     "/privacy-policy/"
    ],
    "external": [
-    "https://form.fapi.cz/",
+    "https://form.fapi.cz/?id=08e6875e-2992-46e3-baa0-8871ead20575",
     "https://web.thepay.cz/"
    ],
    "backlinks": [
+    "/jak-se-zacit-ucit-anglicky-pravidelne/",
+    "/jak-zacit-mluvit-anglicky/",
     "/kurzy/"
    ],
    "freebies": [],
@@ -150,7 +152,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=4-tSmRGU1DA"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 8
   },
   "/7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/": {
    "title": "7 nejlepších YouTube kanálů na učení angličtiny | LCEnglish",
@@ -173,7 +175,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=F_pnYSXGE2k"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 5
   },
   "/acting-in-danish/": {
    "title": "Take 10: Acting in Danish | LCEnglish",
@@ -181,7 +183,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/589847041/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -194,7 +195,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=t9G_VzYEHgc"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 9
   },
   "/advanced/": {
    "title": "Pokročilí | LCEnglish",
@@ -250,7 +251,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/495029857/submissions/new",
     "https://www.ted.com/talks/michelle_knox_talk_about_your_death_while_you_re_still_healthy",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
@@ -272,7 +272,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/269185035/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -287,7 +286,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=sVLOAH9UXJg"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/americka-britska-anglictina/": {
    "title": "Americká vs. britská angličtina: hlavní rozdíly",
@@ -352,7 +351,7 @@
     "/3-tipy-na-slovicka/",
     "/anki-navod/",
     "/aplikace-shadowloop/",
-    "/hele-sp/",
+    "/hele/",
     "/iversenova-metoda/",
     "/jak-se-ucit-anglicky-s-detmi/",
     "/nepravidelna-slovesa/",
@@ -360,10 +359,10 @@
     "/slovicka-karticky/"
    ],
    "external": [
-    "https://docs.google.com/spreadsheets/d/1DPINLJQ5SfjGMlJ60qQlkCkqrkEqVDu1RINaYhxOgqs/edit",
+    "https://docs.google.com/spreadsheets/d/1DPINLJQ5SfjGMlJ60qQlkCkqrkEqVDu1RINaYhxOgqs/edit?usp=sharing",
     "https://jazykovymentoring.sk/metoda-goldlist-ucenie-sa-slovicok-jednoduchsie/",
     "https://www.getdrip.com/forms/273307425/submissions/new",
-    "https://www.jazykovy-koutek.cz/",
+    "https://www.jazykovy-koutek.cz/?p=7760",
     "https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000"
    ],
    "backlinks": [
@@ -384,7 +383,7 @@
     "https://www.youtube.com/watch?v=OxgykeTrOsY",
     "https://www.youtube.com/watch?v=tcypwJMcfxc"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 6
   },
   "/anglicky-chatgpt/": {
    "title": "Učte se anglicky s umělou inteligencí a ChatGPT",
@@ -411,7 +410,7 @@
    ],
    "files": [],
    "videos": [],
-   "nav_backlinks": 14
+   "nav_backlinks": 9
   },
   "/anglicky-za-tyden/": {
    "title": "Anglicky za týden: co se dá naučit a jak na to | LCEnglish",
@@ -430,7 +429,6 @@
    "external": [
     "https://shadowloop.lcenglish.cz/",
     "https://www.50languages.com/phrasebook/cs/en/",
-    "https://www.facebook.com/groups/MABOgroup",
     "https://www.getdrip.com/forms/273307425/submissions/new"
    ],
    "backlinks": [
@@ -452,7 +450,6 @@
    "internal": [],
    "external": [
     "http://www.ef-czech.cz/epi/",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/178425901/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -478,8 +475,7 @@
     "https://ankiweb.net/account/login",
     "https://apps.ankiweb.net/",
     "https://apps.apple.com/us/app/ankimobile-flashcards/id373493387",
-    "https://play.google.com/store/apps/details",
-    "https://www.facebook.com/groups/MABOgroup/",
+    "https://play.google.com/store/apps/details?id=com.ichi2.anki",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [
@@ -499,7 +495,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=dZz73jwymjU"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 9
   },
   "/anniversary/": {
    "title": "Take 47: Anniversary | LCEnglish",
@@ -507,7 +503,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/205240485/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -528,7 +523,7 @@
    "noindex": false,
    "internal": [
     "/anki-navod/",
-    "/hele-sp/"
+    "/hele/"
    ],
    "external": [
     "https://kurzy.lcenglish.cz/p/10xe/",
@@ -548,7 +543,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 6
+   "nav_backlinks": 13
   },
   "/art-gallery/": {
    "title": "Take 18: Art Gallery | LCEnglish",
@@ -556,7 +551,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/873085288/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -569,7 +563,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=wgk1e6tCvaA"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 8
   },
   "/at-the-airport/": {
    "title": "Take 40: At the Airport | LCEnglish",
@@ -577,7 +571,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/669264567/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -592,7 +585,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=LUAGXmLTUxQ"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 13
   },
   "/autumn-weather/": {
    "title": "Take 7: Autumn Weather | LCEnglish",
@@ -600,7 +593,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/365029651/submissions/new",
     "https://www.getdrip.com/forms/449085947/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
@@ -615,7 +607,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=kLVdTTlvrPE"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 7
   },
   "/backstage/": {
    "title": "Take 58: Backstage | LCEnglish",
@@ -623,7 +615,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/608419129/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -660,7 +651,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 106
+   "nav_backlinks": 104
   },
   "/blog/": {
    "title": "Blog | LCEnglish",
@@ -693,7 +684,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/961079677/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -706,7 +696,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=WazrXfeQFUA"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/cancelled-flight/": {
    "title": "Take 41: Cancelled Flight | LCEnglish",
@@ -717,7 +707,6 @@
     "/staycation-workation/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/506292829/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -730,7 +719,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fqIZ0dO0XQU"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 9
   },
   "/cats-or-dogs/": {
    "title": "Take 21: Cats or dogs? | LCEnglish",
@@ -738,7 +727,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/744847512/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -759,7 +747,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/474446532/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -772,7 +759,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=EE4f7615Sbo"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/contact/": {
    "title": "Kontakt | LCEnglish",
@@ -793,7 +780,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/34532823/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -809,7 +795,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=omCgqDg73RM"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 12
   },
   "/czech-easter/": {
    "title": "Take 24: Czech Easter | LCEnglish",
@@ -817,7 +803,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/717426310/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -828,7 +813,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Ut5TZabEarQ"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/datum-anglicky/": {
    "title": "Jak říct datum anglicky | LCEnglish",
@@ -845,7 +830,7 @@
     "https://www.youtube.com/watch?v=VBC1rCL8dRo",
     "https://www.youtube.com/watch?v=WldbFnfwqOE"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 8
   },
   "/dont-poop/": {
    "title": "Don't Poop In The Rocks - Audio Story | LCEnglish",
@@ -865,7 +850,7 @@
     "https://www.youtube.com/watch?v=T_qeya3i8XU",
     "https://www.youtube.com/watch?v=of4msjnQ1s8"
    ],
-   "nav_backlinks": 15
+   "nav_backlinks": 10
   },
   "/english-breakfast/": {
    "title": "Take 49: English Breakfast | LCEnglish",
@@ -875,7 +860,6 @@
     "/food-memories/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/340074897/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -896,7 +880,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/157100985/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -909,7 +892,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Udpq_Xu3A9A"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 8
   },
   "/film-makeup/": {
    "title": "Take 9: Film Makeup | LCEnglish",
@@ -919,7 +902,6 @@
     "/how-are-you/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/441901207/submissions/new",
     "https://www.getdrip.com/forms/969081899/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
@@ -934,7 +916,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=de6ZCe72RvY"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 5
   },
   "/first-impressions/": {
    "title": "Take 42: First Impressions | LCEnglish",
@@ -945,7 +927,6 @@
     "/languages-and-personality/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/819693367/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -966,7 +947,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/648326240/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -982,7 +962,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=8Gui_4Du_Tk"
    ],
-   "nav_backlinks": 4
+   "nav_backlinks": 6
   },
   "/fridge/": {
    "title": "Take 6: What's in the Fridge? | LCEnglish",
@@ -990,7 +970,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/428297416/submissions/new",
     "https://www.getdrip.com/forms/73796412/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
@@ -1005,7 +984,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=iOA9xjB4TPc"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 9
   },
   "/furniture-hunt/": {
    "title": "Take 51: Furniture Hunt | LCEnglish",
@@ -1013,7 +992,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/293692449/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1026,7 +1004,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Slgno0QEBxk"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 14
   },
   "/gonna-wanna/": {
    "title": "Gonna, wanna a další zkrácené výrazy v hovorové angličtině | LCEnglish",
@@ -1049,7 +1027,7 @@
     "https://www.youtube.com/watch?v=Wi41vpKQytQ",
     "https://www.youtube.com/watch?v=XTgBK0wQJ5c"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 6
   },
   "/halloween/": {
    "title": "Take 5: Halloween!? | LCEnglish",
@@ -1057,7 +1035,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/298920075/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1070,7 +1047,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ZaL4XeG4Ffc"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 8
   },
   "/happiness/": {
    "title": "Take 57: Happiness | LCEnglish",
@@ -1078,7 +1055,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/167949003/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1091,7 +1067,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Phr9--OjaFg"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 6
   },
   "/hele-checkout-ew/": {
    "title": "HELE EW checkout | LCEnglish",
@@ -1117,7 +1093,6 @@
    "internal": [],
    "external": [],
    "backlinks": [
-    "/hele-sp/",
     "/hele/"
    ],
    "freebies": [],
@@ -1184,26 +1159,6 @@
    "videos": [],
    "nav_backlinks": 0
   },
-  "/hele-sp/": {
-   "title": "HELE: Angličtina s příběhem | LCEnglish",
-   "kind": "stránka",
-   "noindex": false,
-   "internal": [
-    "/hele-checkout/"
-   ],
-   "external": [
-    "https://web.thepay.cz/"
-   ],
-   "backlinks": [
-    "/anglicka-slovicka/",
-    "/aplikace-shadowloop/"
-   ],
-   "freebies": [],
-   "popups": [],
-   "files": [],
-   "videos": [],
-   "nav_backlinks": 0
-  },
   "/hele/": {
    "title": "Angličtina s příběhem | LCEnglish",
    "kind": "Leadpages",
@@ -1218,6 +1173,8 @@
     "https://web.thepay.cz/"
    ],
    "backlinks": [
+    "/anglicka-slovicka/",
+    "/aplikace-shadowloop/",
     "/kurzy/"
    ],
    "freebies": [],
@@ -1257,7 +1214,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=RMaAZm2tuik"
    ],
-   "nav_backlinks": 15
+   "nav_backlinks": 11
   },
   "/how-to-declutter/": {
    "title": "Take 27: How To Declutter | LCEnglish",
@@ -1265,7 +1222,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/693092244/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1280,7 +1236,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=7TIUNBEJJ6Y"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 5
   },
   "/individualni-hodina-1plus2-zdarma/": {
    "title": "Individuální hodina konverzace: jak získat 1+2 zdarma | LCEnglish",
@@ -1299,7 +1255,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Hn27akIHC_g"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 6
   },
   "/inventura-2024/": {
    "title": "Jak jsem na tom s jazyky - inventura 2024 | LCEnglish",
@@ -1380,7 +1336,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Nmfm5yk4esM"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 6
   },
   "/its-our-birthday/": {
    "title": "Take 53: It's Our Birthday! | LCEnglish",
@@ -1388,7 +1344,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/820489058/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1401,7 +1356,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=YyXWgd5vYxg"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/iversenova-metoda/": {
    "title": "Jak se učit slovíčka - Iversenova metoda | LCEnglish",
@@ -1428,7 +1383,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=3zXZdhyvZR4"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 4
   },
   "/jak-se-naucit-anglicke-predlozky/": {
    "title": "Anglické předložky - jak se je naučit | LCEnglish",
@@ -1437,7 +1392,6 @@
    "internal": [],
    "external": [
     "http://kurzy.lcenglish.cz/p/predlozkovy-minikurz",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [],
@@ -1447,7 +1401,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=QsXNVLnr2eU"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 5
   },
   "/jak-se-ucit-anglicky-s-detmi/": {
    "title": "Jak se učit anglicky s dětmi - tipy a zkušenosti| LCEnglish",
@@ -1480,11 +1434,10 @@
    "kind": "článek",
    "noindex": false,
    "internal": [
+    "/10x-english/",
     "/ucit-se-anglicky-nepotrebovat-cas/"
    ],
    "external": [
-    "http://kurzy.lcenglish.cz/p/10x-english/",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [
@@ -1504,13 +1457,12 @@
    "kind": "článek",
    "noindex": false,
    "internal": [
+    "/10x-english/",
     "/stinovani-trenink-anglicke-vyslovnosti/",
     "/ucit-se-anglicky-nepotrebovat-cas/"
    ],
    "external": [
-    "http://kurzy.lcenglish.cz/p/10x-english/",
     "https://shadowloop.lcenglish.cz",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/355751022/submissions/new",
     "https://www.internations.org/",
     "https://www.italki.com/i/CeGHad",
@@ -1527,7 +1479,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=vl_nlSREDXs"
    ],
-   "nav_backlinks": 4
+   "nav_backlinks": 7
   },
   "/jazykova-predsevzeti/": {
    "title": "Jazyková předsevzetí: jak to udělat, abyste je dodrželi | LCEnglish",
@@ -1547,7 +1499,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=3NxTwT0wjvY"
    ],
-   "nav_backlinks": 12
+   "nav_backlinks": 5
   },
   "/kdyz-nemate-to-spravne-slovo/": {
    "title": "Co říct, když nemáte to správné slovo | LCEnglish",
@@ -1564,7 +1516,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=9_830UxNsQ0"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/keltove-a-anglictina/": {
    "title": "Kde se v angličtině vzalo \"do\" | LCEnglish",
@@ -1572,7 +1524,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/c/PublicspeakingCz?sub_confirmation=1"
    ],
    "backlinks": [
@@ -1582,7 +1533,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 4
+   "nav_backlinks": 8
   },
   "/klinika-pro-cedule-1-udrzujte-poradek-na-dvore/": {
    "title": "Klinika pro cedule #1: Udržujte pořádek na dvoře!!! | LCEnglish",
@@ -1600,7 +1551,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 9
+   "nav_backlinks": 10
   },
   "/kurzy/": {
    "title": "Online kurzy angličtiny - učte se se mnou | LCEnglish",
@@ -1625,7 +1576,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/56873619/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1640,7 +1590,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=TU8lJTKLVy4"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 10
   },
   "/lenkas-difficult-words/": {
    "title": "StudyBite 7: Lenka's Difficult Words | LCEnglish",
@@ -1659,7 +1609,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=b0-f1ei3Hbo"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/lenkas-dream/": {
    "title": "Take 16: Lenka's Dream (předpřítomný čas v praxi)| LCEnglish",
@@ -1667,7 +1617,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/114825197/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1680,7 +1629,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=gyXwkX3uDFA"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 9
   },
   "/looking-back-at-2017/": {
    "title": "Take 13: Looking Back at 2017 | LCEnglish",
@@ -1688,7 +1637,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [],
@@ -1698,7 +1646,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=yDyPcDGHU2A"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 6
   },
   "/lovers-day/": {
    "title": "Take 29: Lovers Day | LCEnglish",
@@ -1706,7 +1654,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/478702637/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1717,7 +1664,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=h2nMLA7Z73U"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 7
   },
   "/mince-pies/": {
    "title": "Take 12: Mince pies | LCEnglish",
@@ -1725,7 +1672,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/181701623/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1738,7 +1684,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Hipo8OmrpVg"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 7
   },
   "/morning-routine/": {
    "title": "Take 1: Morning Routine | LCEnglish",
@@ -1746,7 +1692,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/273307425/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1761,7 +1706,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Wi41vpKQytQ"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 12
   },
   "/moving-home/": {
    "title": "Take 26: Moving Home | LCEnglish",
@@ -1769,7 +1714,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/216542820/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1790,7 +1734,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/296427057/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1803,7 +1746,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ocnyZyaDNMI"
    ],
-   "nav_backlinks": 4
+   "nav_backlinks": 5
   },
   "/nebojujte-s-anglictinou/": {
    "title": "Nebojujte s angličtinou | LCEnglish",
@@ -1818,7 +1761,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=DFppXGpz_xI"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/nejlepsi-metoda-na-uceni-anglictiny/": {
    "title": "Nejlepší metoda na učení angličtiny | LCEnglish",
@@ -1826,7 +1769,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [],
@@ -1837,7 +1779,7 @@
     "https://www.youtube.com/watch?v=6LoqJmC-uuM",
     "https://www.youtube.com/watch?v=oHX0BZMrSTc"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 6
   },
   "/nejnovejsi-anglicka-slova/": {
    "title": "Nejnovější anglická slova | LCEnglish",
@@ -1852,7 +1794,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=uYi_XHAE3iI"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/nepravidelna-slovesa-na-konci-leta/": {
    "title": "Nepravidelná slovesa na konci léta | LCEnglish",
@@ -1861,9 +1803,7 @@
    "internal": [
     "/nepravidelna-slovesa/"
    ],
-   "external": [
-    "https://www.facebook.com/groups/MABOgroup"
-   ],
+   "external": [],
    "backlinks": [
     "/advbeginners/",
     "/beginners/",
@@ -1873,7 +1813,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 13
+   "nav_backlinks": 10
   },
   "/nepravidelna-slovesa-seznam/": {
    "title": "Nepravidelná slovesa - seznam ke stažení | LCEnglish",
@@ -1896,7 +1836,7 @@
    ],
    "files": [],
    "videos": [],
-   "nav_backlinks": 14
+   "nav_backlinks": 9
   },
   "/nepravidelna-slovesa/": {
    "title": "Nepravidelná slovesa v angličtině: jak na ně v 5 krocích | LCEnglish",
@@ -1911,7 +1851,7 @@
    ],
    "external": [
     "https://www.getdrip.com/forms/778588959/submissions/new",
-    "https://www.jazykovy-koutek.cz/",
+    "https://www.jazykovy-koutek.cz/?p=12067",
     "https://www.newsinlevels.com/"
    ],
    "backlinks": [
@@ -1931,7 +1871,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ZuDcY_W1QXk"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 6
   },
   "/new-hair/": {
    "title": "Take 17: New Hair | LCEnglish",
@@ -1939,7 +1879,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/692544796/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -1952,7 +1891,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=9UHZu8I-5G0"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 8
   },
   "/new-years-resolutions/": {
    "title": "Take 14: New Year's Resolutions | LCEnglish",
@@ -1960,7 +1899,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/45009561/submissions/new",
     "https://www.getdrip.com/forms/770303200/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
@@ -1975,7 +1913,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=irFW1gpSkL4"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 9
   },
   "/obchodni-podminky/": {
    "title": "Obchodní podmínky | LCEnglish",
@@ -2000,7 +1938,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/814915613/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2013,7 +1950,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=LPvYskQEY7I"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/on-set/": {
    "title": "Take 56: With Abbey on Set | LCEnglish",
@@ -2021,7 +1958,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/268740553/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2034,7 +1970,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=jiE7673DPlE"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 11
   },
   "/online-dating/": {
    "title": "Take 33: Online dating | LCEnglish",
@@ -2042,7 +1978,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/780046433/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2055,7 +1990,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=PDCQrilGVc8"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 4
   },
   "/planning-a-trip/": {
    "title": "Take 34: Planning a Trip | LCEnglish",
@@ -2063,7 +1998,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/400193008/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2076,7 +2010,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=WldbFnfwqOE"
    ],
-   "nav_backlinks": 16
+   "nav_backlinks": 6
   },
   "/prague-uprising/": {
    "title": "Take 30: Prague Uprising | LCEnglish",
@@ -2084,7 +2018,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/466285438/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2115,7 +2048,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 8
+   "nav_backlinks": 12
   },
   "/predpritomny-cas/": {
    "title": "Předpřítomný čas: Present Perfect si zamilujete! | LCEnglish",
@@ -2149,7 +2082,7 @@
     "https://www.youtube.com/watch?v=ENao97DDmQQ",
     "https://www.youtube.com/watch?v=gyXwkX3uDFA"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 11
   },
   "/predsevzeti-hack/": {
    "title": "Hackněte novoroční předsevzetí (nejen angličtinářská) | LCEnglish",
@@ -2157,7 +2090,7 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "http://awin1.com/awclick.php",
+    "http://awin1.com/awclick.php?mid=5478&id=670165",
     "https://www.scribd.com/g/7etjg5"
    ],
    "backlinks": [],
@@ -2173,7 +2106,7 @@
     "https://www.youtube.com/watch?v=Ll3mbvCb45M",
     "https://www.youtube.com/watch?v=vPTDotiqsF4"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 11
   },
   "/privacy-policy/": {
    "title": "Ochrana osobních údajů | LCEnglish",
@@ -2200,7 +2133,6 @@
     "/aplikace-shadowloop/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
    "backlinks": [
@@ -2213,7 +2145,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=_XznjlSG0GM"
    ],
-   "nav_backlinks": 3
+   "nav_backlinks": 8
   },
   "/proc-se-vanoce-anglicky-pisou-xmas/": {
    "title": "Proč se Vánoce anglicky píšou Xmas | LCEnglish",
@@ -2229,7 +2161,7 @@
     "https://www.youtube.com/watch?v=JyrPdKNpzWo",
     "https://www.youtube.com/watch?v=M4-35TN6Amw"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 17
   },
   "/public-transport/": {
    "title": "Take 50: Public Transport | LCEnglish",
@@ -2242,7 +2174,6 @@
     "/summer-fruit/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/254363675/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2255,7 +2186,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=E5EWPNMWLBY"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/relatable-faces/": {
    "title": "Take 25: Relatable Faces | LCEnglish",
@@ -2263,7 +2194,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/377984000/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2276,7 +2206,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=0ZX09Z6DyNY"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 8
   },
   "/royal-accent/": {
    "title": "Take 31: Royal Accent | LCEnglish",
@@ -2284,7 +2214,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/506608986/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2297,7 +2226,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=JSa6RCfNgj4"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/royal-wedding/": {
    "title": "Take 32: Royal Wedding | LCEnglish",
@@ -2305,7 +2234,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/561247730/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2337,7 +2265,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fVGposY-KaI"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 7
   },
   "/shakespeare-mail/": {
    "title": "Shakespeare | LCEnglish",
@@ -2358,7 +2286,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/545966187/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2371,7 +2298,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ENt-2N-uIj8"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 6
   },
   "/shopping-for-clothes/": {
    "title": "Take 43: Shopping for Clothes | LCEnglish",
@@ -2381,7 +2308,6 @@
     "/how-to-declutter/"
    ],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/401562800/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2394,7 +2320,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=9iLrnroGPKQ"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 7
   },
   "/slovicka-karticky/": {
    "title": "Jak se učit slovíčka: Kartičky | LCEnglish",
@@ -2417,7 +2343,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=fAstTyeALQU"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 11
   },
   "/slovickova-jednohubka-domaci-pristroje/": {
    "title": "Slovíčková jednohubka: domácí přístroje | LCEnglish",
@@ -2441,7 +2367,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/134049613/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2454,7 +2379,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=UD_YT7f1Xzg"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 6
   },
   "/staycation-workation/": {
    "title": "Take 39: Staycation vs. Workation | LCEnglish",
@@ -2462,7 +2387,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/527555251/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2477,7 +2401,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=NedrPQz-nOI"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 11
   },
   "/stinovani-trenink-anglicke-vyslovnosti/": {
    "title": "Stínování: jak natrénovat správnou anglickou výslovnost | LCEnglish",
@@ -2510,7 +2434,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/540072900/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2525,7 +2448,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=-eRuavLtvpc"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 7
   },
   "/survival-kit/": {
    "title": "Take 61: Survival Kit | LCEnglish",
@@ -2533,7 +2456,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/915292596/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2546,7 +2468,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=RXrJ6r26BqQ"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/thanksgiving/": {
    "title": "Take 8: Thanksgiving | LCEnglish",
@@ -2554,7 +2476,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/536216456/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2567,7 +2488,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=vVEYghoouNc"
    ],
-   "nav_backlinks": 6
+   "nav_backlinks": 8
   },
   "/the-life-of-an-actress/": {
    "title": "Take 22: The Life of An Actress | LCEnglish",
@@ -2575,7 +2496,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/975316234/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2590,7 +2510,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=kl4BgjAfZr4"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 6
   },
   "/things-to-do/": {
    "title": "Take 35: Things to Do | LCEnglish",
@@ -2598,7 +2518,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/173486643/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2611,7 +2530,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=7zz7LIxzZ6w"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 8
   },
   "/tiger-oasis/": {
    "title": "Take 62: Tiger Oasis | LCEnglish",
@@ -2619,7 +2538,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/124386621/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2634,7 +2552,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=UkeoAJsC-y0"
    ],
-   "nav_backlinks": 11
+   "nav_backlinks": 9
   },
   "/tipping-tips/": {
    "title": "Take 44: Tipping Tips | LCEnglish",
@@ -2642,7 +2560,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/563100490/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2655,7 +2572,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=s7Jq7VFBfHE"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 8
   },
   "/to-be/": {
    "title": "Sloveso to be - být v angličtině | LCEnglish",
@@ -2680,7 +2597,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=tHewG-K_wfA"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 11
   },
   "/top-25-adjectives/": {
    "title": "25 nejpoužívanějších anglických přídavných jmen | LCEnglish",
@@ -2706,7 +2623,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=-rk5JyI_Et0"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 10
   },
   "/top-25-verbs/": {
    "title": "Anglická slovesa: 25 nejčastějších | LCEnglish",
@@ -2732,7 +2649,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=tcypwJMcfxc"
    ],
-   "nav_backlinks": 7
+   "nav_backlinks": 6
   },
   "/trip-to-ikea/": {
    "title": "Take 20: Trip to IKEA | LCEnglish",
@@ -2740,7 +2657,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/10169734/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2753,7 +2669,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=gxCz5JkGS9I"
    ],
-   "nav_backlinks": 5
+   "nav_backlinks": 8
   },
   "/tv-series-revisited/": {
    "title": "Take 60: TV Series Revisited | LCEnglish",
@@ -2761,7 +2677,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/192183039/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2774,7 +2689,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=ItteWs8c-GQ"
    ],
-   "nav_backlinks": 10
+   "nav_backlinks": 6
   },
   "/tvseries-for-english/": {
    "title": "Take 3: TV Series That Will Help You Improve Your English | LCEnglish",
@@ -2786,7 +2701,6 @@
     "http://www.imdb.com/title/tt0238784/",
     "http://www.imdb.com/title/tt0410975/",
     "http://www.imdb.com/title/tt0460649/",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/558890568/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2814,7 +2728,6 @@
     "https://shadowloop.lcenglish.cz",
     "https://www.babbel.com/",
     "https://www.duolingo.com/",
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.memrise.com/"
    ],
    "backlinks": [
@@ -2828,7 +2741,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 10
+   "nav_backlinks": 4
   },
   "/uncategorized/": {
    "title": "Různé | LCEnglish",
@@ -2845,7 +2758,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 9
+   "nav_backlinks": 11
   },
   "/walk-in-the-woods/": {
    "title": "Take 52: Walk in the Woods | LCEnglish",
@@ -2853,7 +2766,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/663641640/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2864,7 +2776,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=Tt31_VLg6vI"
    ],
-   "nav_backlinks": 16
+   "nav_backlinks": 4
   },
   "/walkie-talkie/": {
    "title": "Walkie-Talkie, Heatie-Eatie a Starey-Squarey | LCEnglish",
@@ -2882,7 +2794,7 @@
    "popups": [],
    "files": [],
    "videos": [],
-   "nav_backlinks": 13
+   "nav_backlinks": 14
   },
   "/weather-idioms/": {
    "title": "Take 11: Weather Idioms - Počasí v idiomech | LCEnglish",
@@ -2890,7 +2802,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/926078595/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2903,7 +2814,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=hvfuGfKts0U"
    ],
-   "nav_backlinks": 8
+   "nav_backlinks": 14
   },
   "/what-to-pack/": {
    "title": "Take 36: What to Pack | LCEnglish",
@@ -2911,7 +2822,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/220874213/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2924,7 +2834,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=5frvn-61Puk"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 13
   },
   "/whos-henry/": {
    "title": "Take 23: Who's Henry? | LCEnglish",
@@ -2932,7 +2842,6 @@
    "noindex": false,
    "internal": [],
    "external": [
-    "https://www.facebook.com/groups/MABOgroup/",
     "https://www.getdrip.com/forms/592655648/submissions/new",
     "https://www.youtube.com/channel/UCO77Nq3CpYaW_0xUB_8yVkA?sub_confirmation=1"
    ],
@@ -2946,7 +2855,7 @@
    "videos": [
     "https://www.youtube.com/watch?v=lD8GmChtjzM"
    ],
-   "nav_backlinks": 9
+   "nav_backlinks": 8
   }
  }
 }

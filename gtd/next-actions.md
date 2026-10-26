@@ -54,6 +54,8 @@ sort by due
 - [ ] Ověřit u Vítka, jak často běží skript `jmena` na skloňování → [[lcenglish-ekosystem]]
 - [ ] Vymyslet s Claudem dárek nebo odkaz na kurz do nejčtenějších článků lcenglish.cz → [[mapa-webu-skutecna#Kam vést návštěvníka]]
     - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.
+- [ ] Rozhodnout s Claudem, co místo 3 rozbitých odkazů v článcích lcenglish.cz → [[mapa-webu-skutecna#Rozbité odkazy ven]]
+    - Kontext (261026): předložkový minikurz (článek o předložkách, ve FreshLearn není), formulář Dripu 663641640 (Walk in the woods, okno vypnuté 25. 10.), YouTube kanál PublicspeakingCz (Jak začít mluvit, Keltové). Odkazy na FB stránku LiCaEnglish, skupinu MABO a /hele-sp/ jsou z webu pryč.
 - [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
     - Kontext (261026): API Dripu je hlásí jako zapnutá, podle zápisu z 25. 10. bylo okno z roku 2018 vypnuté. Rozhodnout, která nechat.
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]

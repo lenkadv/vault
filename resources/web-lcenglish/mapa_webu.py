@@ -212,7 +212,7 @@ def classify(hrefs, path, final_path):
         host = (u.hostname or "").lower()
         if not host:
             continue
-        url = f"{u.scheme}://{host}{u.path}" + (f"?{u.query}" if host.endswith("youtube.com") and u.query else "")
+        url = f"{u.scheme}://{host}{u.path}" + (f"?{u.query}" if u.query else "")
         if FREEBIE_HOST.search(host):
             freebies.add(url)
         elif FILE_EXT.search(u.path):
@@ -333,7 +333,28 @@ def cell(items):
     return ", ".join(str(i).replace("|", "/") for i in items) if items else "–"
 
 
-def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date):
+SOCIAL = re.compile(r"(^|\.)(facebook\.com|instagram\.com|fb\.com)$", re.I)
+
+
+def check_external(urls):
+    """{adresa: problém}. Facebook a Instagram nepřihlášenému vrací 200 i u zrušené stránky, proto jen k ručnímu ověření."""
+    def one(u):
+        host = urlparse(u).hostname or ""
+        if SOCIAL.search(host):
+            return u, "Facebook/Instagram: automaticky nejde ověřit, zkontrolovat ručně"
+        st, final, _ = fetch(u, timeout=20)
+        if st == 0:
+            st, final, _ = fetch(u, timeout=20, verify=False)
+            if st == 200:
+                return u, None
+        if st in (401, 403, 405, 429, 999):  # ochrana proti robotům, ne rozbitý odkaz
+            return u, None
+        return u, None if st and st < 400 else (f"chyba {st}" if st else "neodpovídá")
+    with ThreadPoolExecutor(6) as ex:
+        return {u: e for u, e in ex.map(one, sorted(urls)) if e}
+
+
+def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad=None):
     now = datetime.now().strftime("%y%m%d %H:%M")
     seen, seen_src = views()
     listings = LISTINGS | {p for p, d in data.items() if d["kind"] == "kategorie"}
@@ -428,6 +449,15 @@ def write_md(data, common, redirects, broken, everywhere, titles, changes, prev_
     L += [f"- {p} → přesměruje na {t}" for p, t in sorted(redirects.items())]
     if not broken and not redirects:
         L.append("- nic")
+    L += ["", "## Rozbité odkazy ven", ""]
+    where = defaultdict(set)
+    for p, d in data.items():
+        for u in d["external"]:
+            where[u].add(p)
+    for u, e in sorted((ext_bad or {}).items(), key=lambda x: (x[1], x[0])):
+        L.append(f"- {u} → {e} ← {cell(sorted(where[u])) if where[u] else 'šablona (menu, patička)'}")
+    if not ext_bad:
+        L.append("- nic")
     L += ["", "## Odkazy ze šablony (menu, patička, kategorie; počet stránek)", ""]
     wide = [c for c in common if int(c.rsplit("(", 1)[1].rstrip("×)")) >= 20]
     L += [f"- {c}" for c in wide] or ["- nic"]
@@ -444,10 +474,13 @@ def main():
         old, prev_date = prev.get("pages", {}), prev.get("generated")
     data, common, redirects, broken, everywhere, titles = build()
     changes = diff(old, data) if old else []
-    write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date)
+    ext_urls = {u for d in data.values() for u in d["external"]} | {c.rsplit(" (", 1)[0] for c in common if c.startswith("http")}
+    ext_bad = check_external(ext_urls)
+    write_md(data, common, redirects, broken, everywhere, titles, changes, prev_date, ext_bad)
     OUT_JSON.write_text(json.dumps({"generated": datetime.now().strftime("%y%m%d %H:%M"), "pages": data},
                                    ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Stránek {len(data)}, rozbitých {len(broken)}, přesměrování {len(redirects)}.")
+    print(f"Stránek {len(data)}, rozbitých {len(broken)}, přesměrování {len(redirects)}, "
+          f"problémových odkazů ven {len(ext_bad)}.")
     print("\n".join(changes) if changes else ("Beze změny." if old else "První běh."))
 
 
