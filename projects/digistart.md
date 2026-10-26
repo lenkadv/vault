@@ -226,7 +226,7 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 
 ## Záznam (nejnovější nahoře)
 
-**261026 09:10–09:20 — Voicenotes: Claude si přepisy stáhne sám (samostatné vlákno „Voice Notes: přístup pro Clauda“).**
+**261026 09:10–09:25 — Voicenotes: Claude si přepisy stáhne sám (samostatné vlákno „Voice Notes: přístup pro Clauda“).**
 - Služba = voicenotes.com (Lenka 261026). **Oficiální konektor existuje** (`https://api.voicenotes.com/mcp`, přihlášení OAuth, nástroje hledat, vypsat, stáhnout přepis, založit textovou poznámku; mazat a upravovat neumí). Zatím není zapnutý → úkol pro Lenku výš.
 - Veřejné API nemá; oficiální Obsidian plugin „Voicenotes“ by synchronizoval všechny nahrávky do vaultu (nepořádek, token ve vaultu, celý přepis neověřen) → nedoporučuji.
 - **Vyzkoušeno přes Claude in Chrome ve vlastní kartě:** nahrávka „Danny's AI setup guide for training using Claude“ (9:06, https://voicenotes.com/recording/V6s5UzaV), karta Transcript, celý text přečten. V aplikaci nic nezměněno.
