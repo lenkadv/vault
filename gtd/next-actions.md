@@ -50,7 +50,6 @@ sort by due
 
 ## @online
 - [ ] Odpovědět Jiřině Mankové z Tandemu na WhatsAppu (Zápisník 261025)
-- [ ] Zkontrolovat novou patičku a úvod na lenkadvorakova.cz → [[kontext-ukolu#Údržba lenkadvorakova.cz]]
 - [ ] Ověřit u Vítka, jak často běží skript `jmena` na skloňování → [[lcenglish-ekosystem]]
 - [ ] Vymyslet s Claudem dárek nebo odkaz na kurz do nejčtenějších článků lcenglish.cz → [[mapa-webu-skutecna#Kam vést návštěvníka]]
     - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.

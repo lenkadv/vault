@@ -24,7 +24,7 @@ Lenka 261020: obrázky má dohnané až po dnešní přednášku (19. století),
 
 ## AI Strategist (Danny Iny)
 
-Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].
+Registrace 261014 (místo zdarma). Povinná příprava 19.–25. 10. (3–5 h), denní úkoly v AI Playground; blok pá 23. 10. 13:00–14:30; Lenka se na úkoly podívá st 21. 10. Kurz živě 26.–28. 10., 16–22 h, bez záznamu, potřeba placený Claude s pamětí; kolizi út 27. 10. 17:00 s Michalem Kociánem řeší Lenka sama; nemusí sedět celou dobu, případně nahrát a Claude zpracuje. **Zachycení (261026):** zvuk po blocích do Voicenotes, prompty a odkazy do dokumentu na Disku v `00 Inbox`; zpracování je úkol v [[digistart]]. Rozbor funnelu → [[GrowOS/digistart/library/swipe-content|digistart swipe]].
 
 ## Behind the Masterpiece
 
@@ -117,7 +117,7 @@ Zadání pro nové vlákno (261025):
 ## Údržba lenkadvorakova.cz
 
 **Zápisník 261025 (úpravy vzhledu):** (1) v části „Co říkají klienti“ je okénko s citátem Jitky Pourové větší než ostatní dvě, srovnat; (2) patička: copyright, e-mail, kontakt, obchodní podmínky a ochrana údajů tmavší šedou, ať v černém pásu víc zanikají, a vycentrovat (že jde o patičku lenkadvorakova.cz, odhaduji podle sousedních poznámek, Lenka to v poznámce neřekla); (3) hero sekce větší, větší fotka s modrým pozadím, dominantnější jako na lcenglish.cz, „ne estetika roku 2000“. Zdroj `inbox/telefon/zarazeno/261025-2135…`, `…2136…`, `…2137…`.
-**261026 09:50 HOTOVO (vlákno „Úpravy webů ze Zápisníku“, Lenka schválila):** patička je opravdu tohoto webu (lcenglish.cz má jinou). Vše v Přizpůsobit → Další styly CSS (záloha předchozí verze `resources/web-lenkadvorakova/dalsi-styly-css-261026-pred.css`): (1) reference: okénka měla od šablony spodní okraj 32 px kromě posledního, mřížka pak protáhla poslední → `.ld .ld-q{margin:0}`, ověřeno 3× 416 px; (2) patička tlumeně šedá #8C8285, bílá až po najetí, vycentrovaná; (3) úvod: první návrh (větší oblouk) Lenka odmítla („estetika roku 2000, uříznutá postava trčí“) → **varianta A**: celá šířka modrá #1E5470, bílé jméno, zlatý nadpis nad ním, fotka velká bez oblouku stojí na spodní hraně jako na lcenglish.cz, hlavička na Home taky modrá. Ověřeno na počítači i mobilu. Lenka ještě zkontroluje patičku a úvod (úkol v [[next-actions]]).
+**261026 09:50 HOTOVO (vlákno „Úpravy webů ze Zápisníku“, Lenka schválila):** patička je opravdu tohoto webu (lcenglish.cz má jinou). Vše v Přizpůsobit → Další styly CSS (záloha předchozí verze `resources/web-lenkadvorakova/dalsi-styly-css-261026-pred.css`): (1) reference: okénka měla od šablony spodní okraj 32 px kromě posledního, mřížka pak protáhla poslední → `.ld .ld-q{margin:0}`, ověřeno 3× 416 px; (2) patička tlumeně šedá #8C8285, bílá až po najetí, vycentrovaná; (3) úvod: první návrh (větší oblouk) Lenka odmítla („estetika roku 2000, uříznutá postava trčí“) → **varianta A**: celá šířka modrá #1E5470, bílé jméno, zlatý nadpis nad ním, fotka velká bez oblouku stojí na spodní hraně jako na lcenglish.cz, hlavička na Home taky modrá. Ověřeno na počítači i mobilu. Lenka 261026 16:00 zkontrolovala a schválila (reference, patička, úvod A „vypadá mnohem líp“).
 
 Zadání pro nové vlákno (261025):
 
