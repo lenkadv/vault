@@ -122,7 +122,9 @@ add_action( 'wp_head', function () {
 	}
 	?>
 	<style>
-	.lce-hero .wp-block-cover__inner-container{width:100%;max-width:1100px;margin:0 auto;padding:0 24px;box-sizing:border-box}
+	/* Nadpis uprostřed levé části úvodu (mezi krajem a fotkou). !important kvůli silnějšímu pravidlu WordPressu pro pozici obsahu „vlevo uprostřed“ (261026). */
+	.lce-hero.wp-block-cover .wp-block-cover__inner-container{width:58% !important;max-width:none !important;margin:0 !important;padding:0 24px !important;box-sizing:border-box;display:flex;justify-content:center}
+	.lce-hero h1{margin:0 !important}
 	.lce-hero h1{color:#fff !important;text-shadow:0 1px 12px rgba(0,0,0,.3)}
 	.lce-hero .wp-block-cover__background{background:#000;opacity:.08}
 	.lce-cisla{background:#1A1416 !important;color:#fff !important}
@@ -140,8 +142,8 @@ add_action( 'wp_head', function () {
 		.lce-loga-row img{width:84px;height:84px}
 		.lce-hero{min-height:70vh !important;align-items:flex-end !important}
 		/* Nadpis na mobilu uprostřed dole (na tričku), nepřekrývá obličej (261026). */
-		.lce-hero .wp-block-cover__inner-container{padding:0 20px 56px}
-		.lce-hero h1{text-align:center}
+		.lce-hero.wp-block-cover .wp-block-cover__inner-container{width:100% !important;padding:0 20px 56px !important}
+		.lce-hero h1{text-align:center;width:100%}
 		.lce-o-mne,.lce-blog-home{padding-left:20px !important;padding-right:20px !important}
 		.lce-o-mne .wp-block-columns{gap:24px}
 		/* Ikona menu na mobilu: bílá, ať nezaniká ve fotce (jemný stín jen pro čitelnost na světlých místech). */
