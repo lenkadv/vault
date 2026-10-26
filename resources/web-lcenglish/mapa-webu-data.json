@@ -1,5 +1,5 @@
 {
- "generated": "261026 18:00",
+ "generated": "261026 18:02",
  "pages": {
   "/": {
    "title": "LCEnglish - aby vás angličtina bavila",
@@ -2908,7 +2908,9 @@
   "Počet dílů Art for English": [
    "/newsletter/"
   ],
-  "Počet studentů": [],
+  "Počet studentů": [
+   "/"
+  ],
   "Počet online kurzů": [
    "/"
   ],

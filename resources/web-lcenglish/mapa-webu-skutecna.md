@@ -1,6 +1,6 @@
 # Skutečná mapa webu lcenglish.cz
 
-**Vygenerováno:** 261026 18:00 skriptem `resources/web-lcenglish/mapa_webu.py` (neupravovat ručně, přepíše se). Oblast [[lcenglish]] · z čeho je web postavený a pravidla: [[mapa-webu]] · systémy: [[lcenglish-ekosystem]].
+**Vygenerováno:** 261026 18:02 skriptem `resources/web-lcenglish/mapa_webu.py` (neupravovat ručně, přepíše se). Oblast [[lcenglish]] · z čeho je web postavený a pravidla: [[mapa-webu]] · systémy: [[lcenglish-ekosystem]].
 Obnova: při weekly review (předtím Claude obnoví návštěvnost z Metricoolu do `mapa-webu-navstevnost.json`) a při „zavírám“ ve vlákně, které měnilo web (`python -I resources/web-lcenglish/mapa_webu.py`).
 
 Stránek 135: stránky 16, Leadpages 3, kategorie 4, články 112. Odkazy se počítají jen z obsahu stránky; menu, patička a „související články“ jsou souhrnně dole. Zobrazení: 2025-10-26 – 2026-10-26, Metricool, značka LCEnglish 2215183, metriky WTPA01/WTPA02 (zobrazení stránek webu), staženo 261026 15:20
@@ -52,7 +52,7 @@ Kde se na webu a v aktivních mailech Dripu píše údaj, který se může změn
 
 **Platí:** 1 200+ online (bio na kurzy.lcenglish.cz, ověřeno 14. 9. 2026; na hlavní stránce od 261026)
 
-- nikde nenalezeno
+- [/](https://lcenglish.cz/): …Skip to content Chcete se (na)učit anglicky? 1 200+ studentů online 3 online kurzy 1 vlastní aplikace 100+ článků na bl…
 
 ### Počet online kurzů
 
@@ -438,10 +438,9 @@ Vede sem z výpisů = hlavní stránka, blog a kategorie (vedou skoro na všechn
 
 Vyskakovací okna Dripu bez omezení na stránky (zobrazí se kdekoli): vyskakovací okno Dripu 37175075: Chcete ode mne dostávat angličtinářské tipy e-mailem?; vyskakovací okno Dripu 772993722: Jak vám může internet ZDARMA pomoci s angličtinou?; vyskakovací okno Dripu 478702637: Welcome to Lights Camera English!; vyskakovací okno Dripu 663641640: Welcome to Lights Camera English!
 
-## Změny od minulé mapy (261026 17:37)
+## Změny od minulé mapy (261026 18:00)
 
-- − hlídaný údaj „Počet studentů“ už není v: /
-- − hlídaný údaj „Spokojenost a pokroky“ už není v: /
+- + hlídaný údaj „Počet studentů“ nově v: /
 
 ## Na co nevede žádný odkaz z webu
 
