@@ -1,9 +1,13 @@
 # Ekosystém LCEnglish: mapa všech systémů
 
-Oblast: [[lcenglish]] · založeno 261024 (Lenka: „mapa celého ekosystému, odkud to celé spravovat“), přestavěno 261025 (Claude: u každého systému kde běží, kdo má přístup, napojení, dokumentace, co je otevřené). Tohle je rozcestník: podrobnosti zůstávají v odkazovaných souborech, sem patří přehled a „kdo co drží“. Cíl: nemuset se ptát Vítka.
+Oblast: [[lcenglish]] · založeno 261024 (Lenka: „mapa celého ekosystému, odkud to celé spravovat“), přestavěno 261025 (Claude: u každého systému kde běží, kdo má přístup, napojení, dokumentace, co je otevřené), srovnáno se stavem 261026 (změny 25. 10. večer a 26. 10. ráno). Tohle je rozcestník: podrobnosti zůstávají v odkazovaných souborech, sem patří přehled a „kdo co drží“. Cíl: nemuset se ptát Vítka.
 Souvisí s úkolem „Projít audit webu a zdokumentovat systémy kurzů LC English“ v [[next-actions]] a [[kontext-ukolu#Dokumentace systémů LC English]].
 
-**Aktualizace:** nová věc o systému → krátce sem do jeho oddílu (a podrobně do souboru v „Dokumentace“). Změna stránky, formuláře nebo odkazu na webu → [[mapa-webu]].
+**Jak se rozcestník udržuje živý (Lenka 261026):**
+- **Při „zavírám“ hlídá hook:** skript `~/.claude/inject-closing-checklist.ps1` při pokynu „zavírám“ vypíše soubory o systémech LCEnglish, které se ten den změnily (projekty `lcenglish-*`, [[shadowloop-admin]], [[drip-lcenglish-uvitani]], `resources/web-lcenglish/` aj.). Claude pak opraví oddíl dotčeného systému a přepíše u něj **Ověřeno**.
+- **Při weekly review:** Claude vypíše systémy s „Ověřeno“ starším než 30 dní a nabídne jeden ověřit (krok 7 v `CLAUDE.md`).
+- **Ověřeno = datum, kdy někdo stav systému skutečně viděl** (v administraci, v kódu, testem), ne kdy se upravil text.
+- Podrobnosti patří do souboru v „Dokumentace“, sem jen přehled. Stránky, odkazy, dárky a videa na webu → [[mapa-webu-skutecna]] (generuje skript), z čeho je web postavený → [[mapa-webu]].
 
 ## Jak k nám člověk přijde a co se s ním děje
 
@@ -14,7 +18,7 @@ Formuláře Dripu na webu      ───┘      │  workflow „delivery: …�
                                         │  → CONTROLLER START → 000 GTKY (4 uvítací maily)
                                         │  → vagón podle dárku (B = Nepravidelná slovesa; A HELE, C 10x ENGLISH zatím prázdné)
                                         │  → každé úterý newsletter Art for English (+ zrcadlo na Substacku)
-                                        │  jednou denně skript `jmena` (server u fapipi) → Skloňování jmen → oslovení v 5. pádě
+                                        │  pravidelně skript `jmena` (server u fapipi) → Skloňování jmen → oslovení v 5. pádě
                                         │  dárek „Texty… Shadowloop“: odkaz v mailu → Shadowloop funkce `freebie`
                                         ▼
 Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zaplacení fapipi →
@@ -39,27 +43,30 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Web lcenglish.cz (WordPress)
 
-- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání), stránky Home, Blog, Kurzy, Kontakt, objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
+- **Ověřeno:** 261026 (obrázek pro sdílení, koš Plesku vysypán; přestavba 261024–25)
+- **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, rozpracováno ve vlákně „Úpravy webů ze Zápisníku 261025“), stránky Home, Blog, Kurzy, Kontakt, objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
 - **Kde běží:** WordPress 7.1.3 u HOSTINGSOLUTIONS (Plesk, server web54, IP 176.227.168.166, PHP 8.3.36), šablona Kadence, od 261024 bez Elementoru (plugin vypnutý, nesmazaný). Na stejném tarifu i lenkadvorakova.cz a publicspeaking.cz (jen přesměrování). Zkušební kopie `staging.lcenglish.cz` (neměnit, neindexovaná). Hosting cca 3 071 Kč ročně, zaplaceno do 9. 5. 2027.
 - **Přístup:** Lenka (2 admin účty: lnk.dvorakova@gmail.com, 07pmtalk@gmail.com), zákaznický účet https://cp.hostingsolutions.cz. Claude pracuje v Chromu, když se Lenka přihlásí; soubory do `mu-plugins` nahrává Lenka v Plesku.
-- **Napojení:** měřicí kódy z doplňku `wp-content/mu-plugins/lce-mereni.php` (Meta pixel 552638212929820, GTM, GA4, Google Ads, Sklik); vzhled a filtr blogu `lce-blog-filtr.php`; sledovací kód Dripu (plugin Drip for WordPress) a 84 formulářů Dripu; plugin Leadpages (`/10x-english/`, `/irregular/`, `/hele/`); formuláře FAPI na objednávkových stránkách; DNS subdomén `kurzy.` (FreshLearn) a `shadowloop.` (Firebase) je u HOSTINGSOLUTIONS. Schránka `lenka@lcenglish.cz` (odesílací adresa Dripu) je na tomtéž hostingu. Zálohy: UpdraftPlus na Google Disk + denní zálohy hostingu (7 dní, obnova přes podporu).
+- **Napojení:** měřicí kódy z doplňku `wp-content/mu-plugins/lce-mereni.php` (Meta pixel 552638212929820, GTM, GA4, Google Ads, Sklik); vzhled a filtr blogu `lce-blog-filtr.php`; sledovací kód Dripu (plugin Drip for WordPress) a 84 formulářů Dripu; plugin Leadpages (`/10x-english/`, `/irregular/`, `/hele/`); formuláře FAPI na objednávkových stránkách; Rank Math (SEO, výchozí obrázek pro sdílení `lcenglish-sdileni.jpg` od 261026, [[mapa-webu#Identita a obrázek pro sdílení]]); DNS subdomén `kurzy.` (FreshLearn) a `shadowloop.` (Firebase) je u HOSTINGSOLUTIONS. Schránka `lenka@lcenglish.cz` (odesílací adresa Dripu) je na tomtéž hostingu. Zálohy: UpdraftPlus na Google Disk + denní zálohy hostingu (7 dní, obnova přes podporu).
 - **Dokumentace:** [[mapa-webu]] (co kde je), [[web-lcenglish-audit-261024]] (výchozí stav, hosting, pluginy), [[kontext-ukolu#Weby mimo WordPress]] (průběh přestavby), kopie doplňků `resources/web-lcenglish/`.
-- **Otevřené:** smazat plugin Elementor a archivní koncepty ([[waiting-for]] 📅 2026-10-28); koš Plesku (zbytky `elementor`) jde vysypat jen přes podporu, koncept mailu v Gmailu; levnější tarif hostingu zvážit po úklidu; tarif řešit ve [[waiting-for]] 📅 2027-04-12.
+- **Otevřené:** smazat plugin Elementor a archivní koncepty ([[waiting-for]] 📅 2026-10-28); koš Plesku se zbytky `elementor` vysypala podpora HOSTINGSOLUTIONS (svodka č. 27, 261026); úpravy hlavní stránky ze Zápisníku běží v samostatném vlákně; levnější tarif hostingu zvážit po úklidu; tarif řešit ve [[waiting-for]] 📅 2027-04-12.
 
 ### Leadpages
 
+- **Ověřeno:** 261026 (obrázky pro sdílení prodejních stránek; patička a ThePay 261025)
 - **K čemu:** prodejní stránky (10x ENGLISH `Ytf0hlJeNc`, Irregular, HELE `1ViPiydGxm`), stránky dárků (Anki, Shadowloop texty, Daily Routine…), stránky seznamu (`remain`, `unsubscribe`…), DigiStart.
 - **Kde běží:** https://leadpages.com/dashboard, tarif Grow, subdomény `lenka-dvorakova.lpcontent.net` a `lenkadvorakova.lpages.co`; od 15. 10. 2026 nové prostředí (186 stránek převedeno).
 - **Přístup:** Lenka. Claude: konektor (vidí stránky, ne nastavení integrací), úpravy v Chromu.
-- **Napojení:** na Drip LCEnglish přes Connectors → Automations („a form is submitted → Drip: Add/Update subscriber → workflow `delivery: …`“); na web přes plugin Leadpages; tlačítka prodejních stránek vedou na FAPI nebo objednávkové stránky webu; Meta pixel v hlavičce každé stránky; patička s bannerem ThePay jen na prodejních stránkách.
+- **Napojení:** na Drip LCEnglish přes Connectors → Automations („a form is submitted → Drip: Add/Update subscriber → workflow `delivery: …`“); na web přes plugin Leadpages; tlačítka prodejních stránek vedou na FAPI nebo objednávkové stránky webu; Meta pixel v hlavičce každé stránky; patička s bannerem ThePay jen na prodejních stránkách; obrázky pro sdílení `/irregular/` (Goya) a `/10x-english/` (Pissarro) nastavené 261026 přes konektor (`update_page_seo`).
 - **Dokumentace:** [[drip-lcenglish-uvitani]] („Dárky v Leadpages napojené zpět na Drip“, „Leadpages po převodu“), [[lcenglish-10x-english-sales-page]], [[mapa-webu]] (patička prodejních stránek), [[prodejni-stranky]].
-- **Otevřené:** 33 starých automatizací s vypnutým Dripem nechat (Lenka 261024); staré webinářové a AI stránky archivovat (návrh); `stayintouch` patří účtu Dripu AI lektoři, rozhoduje Lenka; HELE stránka je provizorní kopie (ikonky řešit při kampani).
+- **Otevřené:** vyměnit náhled Shadowloopu na `/irregular/` a `/10x-english/` za nový vzhled (next action v projektech); 33 starých automatizací s vypnutým Dripem nechat (Lenka 261024); staré webinářové a AI stránky archivovat (návrh); `stayintouch` patří účtu Dripu AI lektoři, rozhoduje Lenka; HELE stránka je provizorní kopie (ikonky řešit při kampani).
 
 ### FAPI
 
+- **Ověřeno:** 261024 (zkušební nákup Irregular prošel)
 - **K čemu:** objednávkové formuláře, zálohové faktury, faktury, platby (karta přes ThePay, převod).
 - **Kde běží:** fapi.cz; formuláře 10x ENGLISH, HELE (150336, 5 970 Kč), Irregular (790 Kč).
-- **Přístup:** Lenka. Jestli má účet i Vítek, nevíme.
+- **Přístup:** Lenka.
 - **Napojení:** formulář → krok „4 Akce“ → „Zaplacení objednávky → spustit programový skript“ → `https://fapipi.lenkadvorakova.cz/handle-invoice/<segment>` (u upsellu „Zaplacení položky s kódem“). Měření nákupu (pixel) na děkovací stránce FAPI. Banner ThePay musí být na prodejních stránkách.
 - **Pravidla (Vítek 261001):** zachovat vystavování zálohových faktur (bez nich fapipi prodej přeskočí); webhook nechat na „zaplacení objednávky“; před splátkami, předplatným nebo změnou fakturace nechat napojení ověřit. Zkušební objednávku **smazat, ne stornovat** (číselná řada).
 - **Dokumentace:** [[resources/hele-funnel]] (Fáze 4), paměť `reference_fapipi_new_product`, Google Doc „Akce do FAPI/Freshlearn/Drip tutorial“ (obsahuje token Dripu, nesdílet).
@@ -67,8 +74,9 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### fapipi (most FAPI → Drip + Shadowloop + FreshLearn)
 
+- **Ověřeno:** 261025 (repozitář, `actions.json`, CI/CD)
 - **K čemu:** po zaplacení objednávky ve FAPI provede akce podle segmentu: zapíše jméno a nákup do Dripu, přidá štítek `Purchased: …`, zavolá Shadowloop `sale`, zapíše do kurzu ve FreshLearn.
-- **Kde běží:** `fapipi.lenkadvorakova.cz` → server 37.205.8.210 (MasterDC Praha, jméno `kybersquat.cz`), server patří Alexovi (Ala, Lenčin syn; Lenka 261025). DNS záznam je u domény lenkadvorakova.cz (HOSTINGSOLUTIONS). Kód github.com/kokolem/fapipi (soukromý).
+- **Kde běží:** `fapipi.lenkadvorakova.cz` → server 37.205.8.210 (MasterDC Praha, jméno `kybersquat.cz`), server patří Alexovi (Ála, Lenčin syn; Lenka 261025). DNS záznam je u domény lenkadvorakova.cz (HOSTINGSOLUTIONS). Kód github.com/kokolem/fapipi (soukromý).
 - **Přístup:** Lenka má přístup k repozitáři (ověřeno 261024), na server ne. Vítek všechno.
 - **Jak upravit bez Vítka:** nastavení je v `actions.json` (segment = produkt, akce `save_name_and_shopper_activity_to_drip`, `add_drip_tag`, `add_shadowloop_product`, `enroll_in_freshlearn`, ID kurzu a plánu). Úprava přes github.dev (v repozitáři klávesa tečka), po uložení se změna sama nasadí na server (CI/CD, `.github/workflows`). Návod psala Lenka: `README.txt` v repozitáři. Čtení v Chromu: `github.com/kokolem/fapipi/blob/master/actions.json?plain=1`.
 - **Segmenty (ověřeno):** `hele` (Drip „Purchased: HELE“, Shadowloop `HELE`, FreshLearn 157241 / plán 22289), `10XE` (FreshLearn 157254 / plán 22290, živý test 261006), Irregular (zkušební nákup 261024 prošel).
@@ -78,6 +86,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Drip
 
+- **Ověřeno:** 261025 (webhooky, oslovení u všech kontaktů; uvítání 261024)
 - **K čemu:** e-mailový seznam, dárky, uvítání (Controller a vagóny podle Email Marketing Heroes), newsletter Art for English, záznam nákupů.
 - **Kde běží:** getdrip.com, účet LCEnglish 2094497, odesílá `lenka@lcenglish.cz`. Druhý účet AI lektoři (8879539) není LCEnglish.
 - **Přístup:** Lenka. Claude: konektor (čtení, odběratelé, maily ve workflow); workflow a integrace jen v prohlížeči. API klíč `DRIP_API_KEY` v `GrowOS/lcenglish/.env`.
@@ -87,15 +96,19 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### FreshLearn
 
+- **Ověřeno:** 261025 (proklikáno jako studentka, opravy 1–17)
 - **K čemu:** kurzová platforma (jediná od 12/2023): HELE 157241, 10x ENGLISH 157254, Naučte se učit anglicky 157293 (skrytý), Webináře 157303 a Nastartujte 157314 (archivní, skryté), AI Sborovna 167515 a VIP 170914 (skryté, bez platební brány).
 - **Kde běží:** `kurzy.lcenglish.cz` (DNS CNAME na `cname.freshlearn.com`), administrace https://app.freshlearn.com; videa a soubory přímo ve FreshLearn.
 - **Přístup:** Lenka (přihlašuje se sama, Claude heslo nezadává).
 - **Napojení:** zápis kupujících dělá fapipi (ID kurzu a plánu v `actions.json`); obchodní podmínky a ochrana osobních údajů přesměrované na lcenglish.cz; prodejní stránky ve FreshLearn vedou na lcenglish.cz; Shadowloop jen odkazy v lekcích.
-- **Dokumentace:** [[lcenglish-freshlearn-revize]] (soupis, opravy, jak se upravují stránky a lekce), [[lcenglish-teachable-osnovy-261025]].
-- **Otevřené:** proklikat kurzy jako studentka (next action v projektu); rozhodnout o AI Sborovně ([[next-actions]]); Teachable požádat o smazání 30. 11. 2026 ([[waiting-for]]).
+- **Vzhled:** barvy Galerie (261025), přihlášení s obrazem Toulouse-Lautrec *The Englishman* a pozadím #F7F1EA (261025 večer, popisek „Pamatujte si mě“ je tím čitelný).
+- **Dokumentace:** [[lcenglish-freshlearn-revize]] (soupis, opravy 1–17, jak se upravují stránky a lekce), mapy kurzů s texty lekcí [[lcenglish-kurz-hele-mapa]], [[lcenglish-kurz-10x-english-mapa]], [[lcenglish-kurz-ai-sborovna-mapa]] (261025), [[lcenglish-teachable-osnovy-261025]], paměť `reference_freshlearn_admin`.
+- **Ověřeno 261025 večer:** HELE, 10x ENGLISH, AI Sborovna a VIP proklikané jako studentka (videa, zvuky, 106 souborů ke stažení, odkazy); mrtvý odkaz a 21 překlepů opraveno.
+- **Otevřené:** vlastní CSS portálu (Custom Script → Member Portal) se nenačítá, čeká se na podporu FreshLearn ([[waiting-for]] 📅 2026-10-30); zastaralé termíny ve VIP spolu s rozhodnutím o AI Sborovně ([[next-actions]], [[lcenglish-freshlearn-revize]]); Teachable požádat o smazání 30. 11. 2026 ([[waiting-for]]).
 
 ### Shadowloop a Firebase
 
+- **Ověřeno:** 261025 (funkce na Node.js 22, platby, zálohy, přístupy)
 - **K čemu:** aplikace na stínování, balíčky ke kurzům (HELE, HELE EW, HELE downsell, 10x ENGLISHonly, Irregular, Miroslav Urban, Shadowloop 10xE texty) a k dárku.
 - **Kde běží:** Google Firebase, projekt `shadowloop-firebase`: Hosting (aplikace na `shadowloop.lcenglish.cz`), Cloud Functions v regionu europe-central2, databáze Firestore (`users`, `preregistered`, `products`, `freebies`), Authentication. Kód github.com/kokolem/shadowloop (soukromý, logika `functions/index.js`), lokální kopie `C:\Users\Lenka\source\repos\shadowloop`. Na HOSTINGSOLUTIONS je jen DNS a stará kopie z 2021 (374 MB, nemazat bez Vítka).
 - **Platí (ověřeno 261025):** tarif Blaze, platební účet „My Billing Account“ (01CC45-849DC0-28D09A), platební profil **Vítek Peterka**, Visa •5179 platná do **02/2028**. Útrata říjen 2026 0,00 USD, za poslední rok nejvýš 2,4 centu (poslední platba 1. 6. 0,01 USD). Lenka účet vidí (Owner projektu). Před 02/2028 ať Vítek kartu obnoví ([[waiting-for]]).
@@ -113,15 +126,18 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Skript na oslovení `jmena` a Skloňování jmen
 
-- **K čemu:** jednou denně projde kontakty bez pole `osloveni` v obou účtech Dripu (LCEnglish i AI lektoři), zeptá se Skloňování jmen a zapíše oslovení v 5. pádě (Lenko, Davide) a štítek M/F. Proto se oslovení u nového kontaktu objeví až druhý den.
+- **Ověřeno:** 261025 (repozitář a kontakty v Dripu; frekvence spouštění neověřená)
+- **K čemu:** pravidelně (frekvence neověřená, viz Nasazení) projde kontakty bez pole `osloveni` v obou účtech Dripu (LCEnglish i AI lektoři), zeptá se Skloňování jmen a zapíše oslovení v 5. pádě (Lenko, Davide) a štítek M/F. Oslovení se proto u nového kontaktu neobjeví hned.
 - **Kde běží:** Python skript github.com/kokolem/jmena (`main.py`, `invalid_names.json`, `ungendered_names.json`) na serveru u fapipi (37.205.8.210). Služba https://www.sklonovani-jmen.cz, zdarma 10 dotazů denně (stačí: ověřeno 261025, všech 121 aktivních kontaktů LCEnglish má oslovení, za 30 dní 4 nové, nejvýš 1 denně; AI lektoři 0 aktivních) (předplatné vypršelo 13. 4. 2025; při velkých webinářích se platilo, minimum 49 Kč).
 - **Přístup:** repozitář Lenka (pozvánka přijata 261024); server jen Vítek; účet Skloňování jmen od 261024 na Lence.
 - ⚠️ API klíče Dripu a Skloňování jmen jsou zapsané přímo v `main.py`: u služeb nový klíč negenerovat, jinak skript přestane fungovat.
 - **Dokumentace:** [[drip-lcenglish-uvitani#Oslovení v 5. pádě (skript, zjištěno 261024; opraveno podle Vítka 22:30)]].
-- **Nasazení (ověřeno 261025 v repozitáři):** na rozdíl od fapipi **nemá CI/CD** (žádné `.github/workflows`), změna na GitHubu se na server sama nedostane. Poslední změna kódu 28. 2. 2024. Kód je jednoduchý: projde stránky odběratelů obou účtů, kdo nemá `osloveni` a má jméno, tomu zjistí 5. pád a rod a zapíše je. Jména, která služba neumí, si ukládá do `invalid_names.json` a `ungendered_names.json` (na serveru, takže kopie v repozitáři je starší). Spouštění jednou denně je nastavené na serveru (odhad: cron), v repozitáři o něm nic není.
+- **Nasazení (ověřeno 261025 v repozitáři):** na rozdíl od fapipi **nemá CI/CD** (žádné `.github/workflows`), změna na GitHubu se na server sama nedostane. Poslední změna kódu 28. 2. 2024. Kód je jednoduchý: projde stránky odběratelů obou účtů, kdo nemá `osloveni` a má jméno, tomu zjistí 5. pád a rod a zapíše je. Jména, která služba neumí, si ukládá do `invalid_names.json` a `ungendered_names.json` (na serveru, takže kopie v repozitáři je starší). Spouštění je nastavené na serveru (odhad: cron), v repozitáři o něm nic není, takže **frekvenci neznáme**: dřív tu stálo „jednou denně“, Lenka si myslí, že častěji (Zápisník 261025); ověřit u Vítka (úkol v [[next-actions]]).
 - **Otevřené:** úpravu skriptu nasadí zatím jen Vítek (přístup na server).
 
 ### Ostatní
+
+**Ověřeno:** 261025 (sestavení tabulky; Meta jen částečně)
 
 | Systém | K čemu | Kde / účet | Přístup | Podrobně |
 |---|---|---|---|---|
@@ -132,6 +148,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 | **Metricool** | statistiky webu, plánování příspěvků (koncepty, zveřejňuje Lenka) | plugin na webu, metricool.com | Lenka | `GrowOS/lcenglish/setup.md` |
 | **Domény a pošta** | lcenglish.cz (do 25. 6. 2027, registrátor Gransy), lenkadvorakova.cz (do 6. 5. 2027; běží na ní fapipi), publicspeaking.cz (do 28. 9. 2027; ověřeno ve whois CZ.NIC 261025) (přesměrování 301 přes `.htaccess`, WordPress smazán 261025); schránky `lenka@lcenglish.cz`, `lenka@publicspeaking.cz` | HOSTINGSOLUTIONS | Lenka | [[web-lcenglish-audit-261024]] |
 | **Staré platformy (vypnuté)** | SimpleShop: produkty archivované 261025, formuláře hlásí „Prodej skončil“. Teachable `publicspeaking.teachable.com` (škola 21392): bezplatný tarif, kurzy jdou otevřít jako studentka, zazálohováno na Disk; `kurzy.publicspeaking.cz` nefunguje | app.simpleshop.cz (`lnk.dvorakova@gmail.com`) | Lenka | [[kontext-ukolu#Weby mimo WordPress]], [[lcenglish-freshlearn-revize]] |
+| **Vizuální identita „Galerie“** | barvy a písma pro web, Leadpages, Drip, FreshLearn, Substack, Canvu a Shadowloop (261025) | `GrowOS/lcenglish/brain/brand.md`, vzorník https://claude.ai/artifact/YR59A2aWtN8eTQYshtiNCF | Lenka + Claude | `brand.md` (výjimky Shadowloopu tamtéž) |
 | **GrowOS** | výroba výstupů (newsletter, maily, reklamy), fronta ke schválení | `GrowOS/lcenglish/`, nástěnka [[GrowOS fronta.base]] | Lenka + Claude | [[resources/postupy/growos]] |
 
 ## Platby a obnovy (sestaveno 261025 z faktur v Gmailu)
@@ -192,13 +209,13 @@ Uvítání a vagóny podle Email Marketing Heroes (Blueprint: Build Your Control
 - [x] Webhooky Dripu 119864 (LCEnglish) a 120166 (AI lektoři) na nedokončené skripty „Drip to GSheets“ z 2023: ověřeno, že nic nedělaly; **smazány 261025 19:20** na Lenčin pokyn. Skripty na Disku zůstaly (neškodí).
 - [x] Nasazení Cloud Functions Shadowloopu: Lenka je vlastnice projektu, smí; vyzkoušeno 261025 (Node.js 22)
 
-## Otevřené (souhrn, 261025)
+## Otevřené (souhrn, 261026)
 
 - Meta: doplnit soupis účtů (portfolio, reklamní účty, přístupy, platba) při přípravě reklamy pro LCEnglish
-- FreshLearn: proklikat kurzy jako studentka (next action, příště)
 - Shadowloop: rozhodnout o zálohování Firestore (žádné zálohy, [[next-actions]])
-- Drip: Overture C (10x ENGLISH) a vagón A (HELE) → [[drip-lcenglish-uvitani]], [[next-actions]]
-- Web: smazat Elementor a koncepty po 28. 10. ([[waiting-for]]), koš Plesku přes podporu
-- FreshLearn: proklikat kurzy jako studentka; AI Sborovna rozhodnout; Teachable 30. 11. ([[lcenglish-freshlearn-revize]])
+- Skript `jmena`: ověřit u Vítka, jak často běží ([[next-actions]])
+- Drip: Overture C (10x ENGLISH) a 6. mail Overture B na nástěnce, pak vagón A (HELE) → [[drip-lcenglish-uvitani]], [[next-actions]]
+- Web: smazat Elementor a koncepty po 28. 10. ([[waiting-for]]); hlavní stránka a náhledy Shadowloopu v Leadpages se upravují (vlákno „Úpravy webů ze Zápisníku 261025“)
+- FreshLearn: podpora kvůli CSS portálu (📅 30. 10.); AI Sborovna a VIP termíny rozhodnout; Teachable 30. 11. ([[lcenglish-freshlearn-revize]])
 
 Vyřešené (261024): oslovení po 15. 10. funguje (test Jana); dárek „Texty… Shadowloop“ opraven (test s „+“ prošel, 5 balíčků v `preregistered`); Anki a další dárky z Leadpages znovu napojené na Drip.

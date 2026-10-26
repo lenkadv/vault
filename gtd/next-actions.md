@@ -51,10 +51,11 @@ sort by due
 ## @online
 - [ ] Odpovědět Jiřině Mankové z Tandemu na WhatsAppu (Zápisník 261025)
 - [ ] Zkontrolovat novou patičku a úvod na lenkadvorakova.cz → [[kontext-ukolu#Údržba lenkadvorakova.cz]]
-- [ ] Aktualizovat s Claudem [[lcenglish-ekosystem]] a domluvit, jak ho udržet živý
 - [ ] Ověřit u Vítka, jak často běží skript `jmena` na skloňování → [[lcenglish-ekosystem]]
-- [ ] Probrat s Claudem skutečnou mapu webu lcenglish.cz (stránky, odkazy, dárky, videa) → [[resources/web-lcenglish/mapa-webu]]
-    - Kontext (Zápisník 261025): mapa má poznámku „aktualizovat vždy, když přibude stránka…“, ale nic to nehlídá. Lenka chce celou mapu: každá stránka, interní a externí odkazy z ní, které stránky na ni vedou, jaké dárky nabízí, odkazy na videa YouTube. „Možná k diskusi.“
+- [ ] Opravit s Claudem v patičce lcenglish.cz odkaz HELE z `/hele-sp/` na `/hele/` → [[mapa-webu-skutecna]]
+    - Kontext (261026, mapa webu): blok „Učte se se mnou“ v patičce na všech 122 stránkách vede na starou stránku HELE z roku 2022 místo nové `/hele/` z Leadpages. Úpravy webu teď dělá vlákno „Úpravy webů ze Zápisníku 261025“, proto se zatím nic neměnilo.
+- [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
+    - Kontext (261026): API Dripu je hlásí jako zapnutá, podle zápisu z 25. 10. bylo okno z roku 2018 vypnuté. Rozhodnout, která nechat.
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
     - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
 - [ ] Rozhodnout s Claudem, jestli smazat `GrowOS/lcenglish/legacy-0.1` (archiv z migrace 6. 9.)

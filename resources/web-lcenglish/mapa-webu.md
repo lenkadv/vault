@@ -2,7 +2,8 @@
 
 **Oblast:** [[lcenglish]] · **Založeno:** 261024 (Claude, při přestavbě webu) · **Souvisí:** [[web-lcenglish-audit-261024]], [[kontext-ukolu#Weby mimo WordPress]], [[hele-funnel]]
 
-Co kde na webu je, z čeho je postavené a co na to vede. Aktualizovat vždy, když přibude nebo zmizí stránka, formulář nebo odkaz z reklamy či e-mailu. „Odhad“ = neověřeno.
+Z čeho je web postavený, pravidla a co na něj vede zvenku (reklama, e-maily). „Odhad“ = neověřeno.
+**Všechny stránky s odkazy tam a zpět, dárky a videi YouTube:** [[mapa-webu-skutecna]], generuje ji skript `mapa_webu.py` (od 261026; obnova při weekly review a při „zavírám“ ve vlákně, které měnilo web, hlídá to hook, viz [[lcenglish-ekosystem]]). Tenhle soubor se upravuje ručně, když se změní stavba webu nebo pravidlo.
 
 ## Hlavní stránky (menu a patička)
 
@@ -49,6 +50,7 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 - Sledovací kód Dripu (účet 2094497) na všech stránkách WordPressu.
 - 84 formulářů Dripu, většinou vyskakovací okna u konkrétních článků (seznam v Dripu, každý má adresu článku).
 - Dvě okna nemají omezení na stránky (zobrazují se kdekoli): „Chcete ode mne dostávat angličtinářské tipy e-mailem?“ (ID 37175075, 2022) a „Welcome to Lights Camera English! … přepis videa“ (ID 663641640, 2018). Odhad: to druhé je zastaralé, prověřit.
+- ⚠️ Rozpor (261026): API Dripu hlásí jako zapnutá (`is_widget_enabled`) a bez omezení na stránky **4** okna: 37175075, 772993722 „Jak vám může internet ZDARMA pomoci s angličtinou?“, 478702637 a 663641640 (obě „Welcome to Lights Camera English!“). Podle Průběhu dne 261025 bylo okno z roku 2018 vypnuté; buď API vypnutí nehlásí, nebo jde o jiné okno. Ověřit v Dripu. Seznam oken po stránkách je v [[mapa-webu-skutecna#Dárky: co se kde nabízí]].
 
 ## Identita a obrázek pro sdílení
 
