@@ -51,6 +51,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Tabule úkolů (kdo co vede: Claude / spolu / Lenka), odškrtávání mimo Obsidian, synchronizace s vaultem, denní plán bez MIT | `resources/postupy/tabule.md` |
 | Přiznání k DPH (identifikovaná osoba), výpisy Air Bank, XML pro Moje daně | `resources/postupy/dph.md` (přiznává se jen Anthropic; ostatní zahraniční služby jen vypsat, rozhoduje Lenka) |
 | Přepisy z Voicenotes (voicenotes.com), stažení přepisu nahrávky nebo videa, „stáhni z Voicenotes“ | `resources/postupy/voicenotes.md` (konektor, jinak Chrome ve vlastní kartě; nic v aplikaci neměnit) |
+| Údržba počítače (disk C:, Stažené, nainstalované programy, duplicity s Diskem), měsíční a čtvrtletní kontrola, instalace programu na zkoušku | `resources/postupy/udrzba-pocitace.md` (vyzkoušená aplikace = úkol „nechat/odinstalovat“ za 14 dní; mazat finálně jen Lenka) |
 | Databanka AI (všechny AI nástroje a materiály + jejich hodnocení: nainstalované skilly, konektory, tutoriály, prompty), nový zdroj nebo nástroj | `resources/postupy/databanka.md` |
 
 **Databanka AI** (`resources/databanka/`, tabulka `Databanka.base`, pro Lenku [[Průvodce Databankou]]): jediné místo s hodnocením všech AI nástrojů (stav, verdikt, poznámky z použití). Na začátku většího úkolu ji prohledám podle tématu a když něco sedí, řeknu to jednou větou. Detaily a spouštěče v postupu výše.
@@ -268,6 +269,8 @@ Vlákno, kde běží denní plán, je organizační jednotka dne — ne jednorá
     - **Pravidelné věci (od 261018):** malé pravidelné návyky (např. japonská patnáctka) se při plánování týdne s Lenkou projdou a zapíšou do sekce `## Každý den / pravidelně` v `gtd/next-week-priorities.md`. Denní plán je pak každý den vypíše jako vlastní řádek, ne jako MIT ani mezi drobné úkoly. Důvod: next action se sama nenabízí a na tyhle věci jinak dojde až při review („aha, to jsem nedělala“).
     - Projects aktualizovat průběžně i při review — nejen next actions, ale celý stav a směřování.
     - Dailies psát tak, aby obsahovaly info použitelné při příštím review (rozhodnutí, momentum, strategické posuny).
+
+**Údržba počítače (od 261026):** měsíčně 1. v měsíci Stažené (5 min) a čtvrtletně velká kontrola (programy proti soupisu, nové složky, duplicity, volné místo), úkoly 🔁 ve [[waiting-for]], čtvrtletní kontrola patří i do Quarterly Sprint. Postup [[resources/postupy/udrzba-pocitace]].
 
 **Denní otvírací rituál** (každý den při sezení u počítače):
 - Spustit `/daily-plan` nebo napsat „denní plán" / „naplánuj mi den"

@@ -125,6 +125,8 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [ ] Přepsat čtyři videa Dannyho Inyho (AI Strategist) do transkriptů #next-action #online
     - Kontext: Přepsat do transkriptů čtyři videa Dannyho Innyho (série AI Strategist, 6.–12. 10.) a doplnit rozbor do [[GrowOS/digistart/library/swipe-content|digistart swipe]] (funnel: série videí, vlastní cena, povinná příprava, FAQ na námitky); Lenka 261014, odkaz na čtvrté video: https://go.mirasee.com/2026/oct-ais-video-4
     - 261026: staženy všechny přepisy k AI Strategist, které jsou ve Voicenotes (video 1, video 4 a úvodní video pro přihlášené) → `GrowOS/digistart/library/danny-iny-ai-strategist/`. Videa 2 a 3 ve Voicenotes nejsou; zbývá je nahrát do Voicenotes (pak je Claude stáhne) a udělat rozbor do swipe.
+- [ ] Vybrat s Claudem z [[pripady-z-praxe-claude]] příklady pro DigiStart a reklamu #next-action #online
+    - Kontext (Lenka 261026): úklid disku, ranní svodka, weby a mapa webu jako vlastní případové studie, „abych tě mohla chválit i jinde“.
 - [ ] Napsat s Claudem pro DigiStart vysvětlení, proč kurz běží na Claude #next-action #online
     - Kontext (Zápisník 261025, `inbox/telefon/zarazeno/261025-2140…`): vzor je úvodní video Dannyho Inyho k AI Strategist, které vysvětluje, proč kurz běží na Claude; přepis má Lenka ve Voice Notes (stažení řeší úkol níž). U nás to nikde vysvětlené není a „rozhodně by tam mělo být“.
     - Podklad 261026: rozbor úvodního videa a zdůvodnění z veřejného videa [[GrowOS/digistart/library/danny-iny-proc-claude]].

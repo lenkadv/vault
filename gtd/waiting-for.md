@@ -31,7 +31,7 @@ sort by due
 - [x] (261026: blok pá 30. 10. 14:00–16:30 v Todoist kalendáři; Lenka: pevný termín není třeba) Domluvit termín příštího weekly review (pá 30. 10., nebo ne 1. 11.) a založit blok 📅 2026-10-27 ✅ 2026-10-26
     - Kontext: so 31. 10. Drážďany; z 📥 daily 261024 a 261025.
 - [ ] Projít návrhy v [[newslettery-ai]] a rozhodnout, co odhlásit (při weekly review) 📅 2026-10-31
-- [ ] Zkontrolovat, že Lenka odpověděla Jiřině Mankové z Tandemu 📅 2026-10-27
+- [x] (261026 23:18 Lenka na tabuli: hotovo) Zkontrolovat, že Lenka odpověděla Jiřině Mankové z Tandemu 📅 2026-10-27 ✅ 2026-10-26
     - Kontext (Lenka 261026 20:37): „zkusím napsat dnes, zkontroluj mě zítra“.
 - [ ] Vyzkoušet najednou prompty z AI Strategist 📅 2026-10-29 → [[kontext-ukolu#AI Strategist (Danny Iny)]]
     - Kontext (Lenka 261026): během kurzu (26.–28. 10.) je nezkouší, všechny až po něm.
@@ -44,6 +44,10 @@ sort by due
 - [ ] Reorganizace Disku: vrátit `#next-action` na úkol „Projít `01 PRIVATE` po položkách s Claudem“ v [[disk-reorganizace]] (odloženo z weekly review 261018) 📅 2026-11-02
 - [x] (261016: díl #3 nevyšel, nový termín po 19. 10. 15:00–17:00, blok v Todoist kalendáři přesunut) Pá 16. 10. odpoledne: vyhodnotit, jestli se stihl díl #3 tadylenky → [[tadylenka-publishing]]
 - [ ] Odeslat přiznání k DPH za předchozí měsíc 🔁 every month on the 20th 📅 2026-11-20
+- [ ] Projít s Claudem Stažené a zařadit, co má zůstat 🔁 every month on the 1st 📅 2026-11-01
+    - Kontext: měsíční kontrola podle [[resources/postupy/udrzba-pocitace]] (Lenka 261026, po úklidu disku C:).
+- [ ] Čtvrtletní údržba počítače s Claudem (programy, složky, duplicity, místo) 🔁 every 3 months 📅 2027-01-26
+    - Kontext: postup [[resources/postupy/udrzba-pocitace]]; výchozí soupis programů [[pc-programy-261026.csv]], volno 571,7 GB (261026).
     - Kontext: výpisy Air Bank chodí 1.–2. do mailu, svodka na ně upozorní; Lenka odheslí a uloží, Claude připraví XML. Postup [[resources/postupy/dph]]. Za říjen: Anthropic Pro 18 € + přechod na Max 5x 82,46 € (doklad QRVMHXKX-0008).
 
 - [ ] Čekám na Evu Bendovou (KTF, Vizuální kultura): termín náhradní exkurze do Muzea literatury
