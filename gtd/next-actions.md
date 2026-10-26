@@ -54,7 +54,7 @@ sort by due
     - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.
 - [ ] Rozhodnout s Claudem, co místo 3 rozbitých odkazů v článcích lcenglish.cz → [[mapa-webu-skutecna#Rozbité odkazy ven]]
     - Kontext (261026): předložkový minikurz (článek o předložkách, ve FreshLearn není), formulář Dripu 663641640 (Walk in the woods, okno vypnuté 25. 10.), YouTube kanál PublicspeakingCz (Jak začít mluvit, Keltové). Odkazy na FB stránku LiCaEnglish, skupinu MABO a /hele-sp/ jsou z webu pryč.
-- [ ] Zveřejnit rozlučkový příspěvek ve FB skupině MABO a připnout ho → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook.md`
+- [ ] Zveřejnit rozlučkový příspěvek ve FB skupině MABO a připnout ho → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`
     - Kontext (261026): text a postup archivace jsou v položce; za týden po zveřejnění skupinu archivovat (… pod úvodní fotkou → Archivovat skupinu). Odkazy na skupinu jsou z webu pryč.
 - [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
     - Kontext (261026): API Dripu je hlásí jako zapnutá, ale v rozhraní Dripu (Forms) je „LCE homepage“ (37175075) vypnuté, takže API údaj nejspíš neodpovídá; zkontrolovat přepínače ON/OFF u všech čtyř přímo v Dripu a rozhodnout, která nechat.
