@@ -59,6 +59,7 @@ sort by due
     - Kontext (261026): API Dripu je hlásí jako zapnutá, ale v rozhraní Dripu (Forms) je „LCE homepage“ (37175075) vypnuté, takže API údaj nejspíš neodpovídá; zkontrolovat přepínače ON/OFF u všech čtyř přímo v Dripu a rozhodnout, která nechat.
 - [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
     - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
+    - Kontext (261027): maily číst nemusí. Claude při denním plánu ověří ve schránce, že došly GTKY 3/4 a 4/4, dá jim `Svodka/smazat` a v pátek Lence řekne, že kontakty může smazat.
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
     - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
 - [ ] Rozhodnout o zálohování databáze Shadowloopu → [[lcenglish-ekosystem]]
