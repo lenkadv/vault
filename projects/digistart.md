@@ -7,7 +7,33 @@
 
 ## Aktuální stav
 
-261024 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic). **Kurz začíná po 23. 11.** (4 pondělí 17–20: 23. 11., 30. 11., 7. 12., 14. 12.; páté konzultační setkání po Vánocích). **Posun 261024:** reklamy poběží zhruba 14 dní před startem, tedy **od cca 9. 11.** (dřív plán od 2. 11.); příprava kampaně má o týden víc času, checklist níž platí, jen se posouvá termín. Výběr stránky: dál se pracuje s B3. Štěpánčin TidyCal běží (`https://tidycal.com/ulicna/digistart`, od 24. 10. napojený na všechna tlačítka konzultace v B2 i B3), zbývají české popisky a telefon jako první možnost. **Meta:** Lenčino portfolio DigiStart zůstává zablokované, Meta nereaguje (24. 10. znovu bez kódu i bez člověka) → **jde se přes Štěpánku: portfolio DigiStart za GNOSTIKU**, Lenka jí pošle návod (úkol níž). **Lenka 261024:** úkoly nemají stejnou váhu (rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho) → chce projektovou mapu priorit, úkol níž. **261026:** Claude si přepisy z Voicenotes stahuje sám přes konektor (zapnutý a ověřený 09:20); rozbor úvodního videa Dannyho Inyho „proč Claude“ je v `GrowOS/digistart/library/danny-iny-proc-claude.md`.
+261027: **Projektová mapa hotová** (oddíl níž, schválila Lenka s úpravami). Do 9. 11. (start reklam) platí pořadí: platba a fakturace → Meta přes Štěpánku → **reklama (kreativa a texty)** → stránka B3 → co účastnice dostane po zaplacení → konzultace. Nejvíc teď visí na rozhodnutí, kdo prodává (GNOSTIKA, nebo Lenčino FAPI), a na Štěpánce (připojení stránky k portfoliu). Platforma pro účastnice zatím není rozhodnutá; vzor AI Strategist je v [[resources/digistart-vzor-platforma-ai-strategist]].
+
+Předchozí stav 261024 (weekly review): Staví se komerční pilot (varianta B, 15 000 Kč, min. 10 účastnic). **Kurz začíná po 23. 11.** (4 pondělí 17–20: 23. 11., 30. 11., 7. 12., 14. 12.; páté konzultační setkání po Vánocích). **Posun 261024:** reklamy poběží zhruba 14 dní před startem, tedy **od cca 9. 11.** (dřív plán od 2. 11.); příprava kampaně má o týden víc času, checklist níž platí, jen se posouvá termín. Výběr stránky: dál se pracuje s B3. Štěpánčin TidyCal běží (`https://tidycal.com/ulicna/digistart`, od 24. 10. napojený na všechna tlačítka konzultace v B2 i B3), zbývají české popisky a telefon jako první možnost. **Meta:** Lenčino portfolio DigiStart zůstává zablokované, Meta nereaguje (24. 10. znovu bez kódu i bez člověka) → **jde se přes Štěpánku: portfolio DigiStart za GNOSTIKU**, Lenka jí pošle návod (úkol níž). **Lenka 261024:** úkoly nemají stejnou váhu (rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho) → chce projektovou mapu priorit, úkol níž. **261026:** Claude si přepisy z Voicenotes stahuje sám přes konektor (zapnutý a ověřený 09:20); rozbor úvodního videa Dannyho Inyho „proč Claude“ je v `GrowOS/digistart/library/danny-iny-proc-claude.md`.
+
+## Projektová mapa (261027)
+
+Co je důležité a co počká. Schválila Lenka 261027 s úpravami: „co dostane účastnice po zaplacení“ patří před start prodeje a hned po fakturaci a Metě je nejdůležitější reklama. Při změně priorit mapu přepsat, ne přidávat další.
+
+**Větve:** (1) cesta zájemkyně: reklama → stránka B3 → konzultace nebo objednávka → platba → uvítání; (2) Meta a reklama; (3) kurz: setkání, technika, záznamy a odkazy pro účastnice; (4) inspirace a výzkum: Danny Iny, případy z praxe, videoreklama.
+
+**TEĎ, do 9. 11. (start reklam), v tomto pořadí:**
+1. **Kdo prodává a jak se platí:** rozhodnout GNOSTIKA (Fakturoid), nebo Lenčino FAPI → objednávkový formulář → obchodní podmínky → testovací objednávka. Hlavní uzel, visí na něm i stránka.
+2. **Meta přes Štěpánku:** připojení stránky k portfoliu → reklamní účet a karta GNOSTIKY → pixel.
+3. **Reklama: kreativa a texty** (Lenka: po fakturách a Metě nejdůležitější): 2–3 statické reklamy, texty a kontrola zásad Meta, strop útraty (L + Š); výzkum reklam konkurence jde hned.
+4. **Stránka B3:** žlutá místa, věty o lektorkách, fotky, český náhled, FAQ (i pošta a záznamy), doména, tlačítko objednávky.
+5. **Co účastnice dostane po zaplacení:** uvítací mail, „Připravte se“, kam půjdou záznamy a odkazy. Musí být jasné, než se začne prodávat.
+6. **Konzultace:** Štěpánčina kapacita, scénář, zablokovat Řím 13.–18. 11. (TidyCal běží).
+
+**POTOM, do 23. 11. (start kurzu):** technika setkání (délka, záznam, osvědčení, Zoom/Meet); cíl a výstup setkání 1–2; úpravy balíčku podle Štěpánčiny zpětné vazby; vysvětlení „proč Claude“ (hodí se i do „Připravte se“ a FAQ).
+
+**POČKÁ:** přepisy a výtahy AI Strategist (malá váha); případy z praxe (vrátit se při psaní textů reklam); skill `campaign-plan` (Claude: mapa ho u DigiStartu z velké části nahrazuje, spíš vyzkoušet na LCEnglish; nerozhodnuto); video a videoreklama (nepovinné); systém FB příspěvků (Metricool běží).
+
+**SOMEDAY:** kolej MPSV/ÚP (50 h, po Vánocích); firemní workshop (na Štěpánce); test návodu na Seznam na čistém počítači; WikiClone; playbook a rails; forma předávání balíčku.
+
+**Čeká na Štěpánku:** připojení stránky k portfoliu, přijetí pozvánky jako správkyně FB stránky, kapacita konzultací, věta o sobě. **Lenka + Štěpánka:** kdo prodává, strop útraty, technika a záznamy.
+
+**Platforma pro účastnice:** zatím otevřené (živý kurz, platforma nutná není; spíš jedna stránka se záznamy a odkazy, případně na vlastním webu). Dlouhodobý vzor i pro další kurzy: [[resources/digistart-vzor-platforma-ai-strategist]].
 
 ## Co to je
 
@@ -133,8 +159,6 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [ ] Zpracovat s Claudem přepisy živého AI Strategist (26.–28. 10.) do výtahu #next-action #online 📅 2026-10-30
     - Kontext (261026): Lenka nahrává každý blok (16:00, 18:30, 20:30) zvlášť; od bloku 3 dne 1 do Easy Voice Recorderu jako přednášky a soubor pak nahraje do Voicenotes (nativní nahrávání Voicenotes se u dlouhých bloků zasekávalo), prompty a odkazy píše do dokumentu na Disku v `00 Inbox`. Claude stáhne přepisy do `GrowOS/digistart/library/danny-iny-ai-strategist/` a ke každému dni udělá výtah: DigiStart (stavba kurzu, prodej, funnel), práce s Claudem (postupy, prompty), LCEnglish. Úvody a opakování vynechat, použitelné do swipe nebo jako úkoly.
     - 261026: den 1 hotový (bloky 1–3) → [[zivy-den-1-vytah]].
-- [ ] Projít s Claudem platformu AI Strategist jako vzor pro informace účastnicím DigiStartu #next-action #online
-    - Kontext (Zápisník 261025): Danny Iny má hezky udělanou platformu, na které zveřejňuje informace ke kurzu.
 - [x] Ověřit, jestli si Claude stáhne přepisy z Voice Notes sám ✅ 2026-10-26 — ano, viz Záznam 261026
 - [x] Zapnout v Claude konektor Voicenotes ✅ 2026-10-26 — funguje, ověřeno 09:20
     - Kontext (261026): oficiální konektor, přihlášení jen kliknutím (bez hesla a klíče), Claude pak přepisy stahuje sám bez Chromu. Odkaz: https://claude.ai/directory/connectors/1c34a7fb-93a7-4a21-8fc8-2287034ecc8c → Add → Connect → Continue. Postup [[resources/postupy/voicenotes]].
@@ -143,9 +167,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 ### Příprava kampaně (checklist 261017; původně do 30. 10. s reklamami od 2. 11., posunuto 261024: reklamy od cca 9. 11.)
 Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
 
-**0. Projektová mapa**
-- [ ] Udělat s Claudem projektovou mapu DigiStartu: co je důležité a co počká #next-action #online
-    - Kontext: Lenka 261024 (weekly review): ve velkých projektech nemají úkoly stejnou váhu, např. rezervační kalendář a fakturace jsou důležitější než transkripty videí Dannyho Inyho. Mapa má ukázat pořadí a váhu úkolů; když se osvědčí, použít i u dalších velkých projektů. Neřešit hned, Lenka rozhodne při plánování.
+**0. Projektová mapa** — hotová 261027, oddíl „Projektová mapa“ nahoře.
 
 - [ ] Naplánovat kampaň DigiStart s Claudem skillem `campaign-plan` (GrowOS) #next-action #online
     - Kontext: Lenka 261024 (weekly review, Databanka): skill vyzkoušet na kampani DigiStart i LCEnglish ([[lcenglish-10x-english-sales-page]]); naplánuje cíl, termíny, příběh, časovou osu a kanály dřív, než vznikne první text. Spouští se v sezení otevřeném v GrowOS. Poznámka [[GOS – campaign-plan]].
@@ -200,15 +222,18 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 **6. Reklamy** (až bude účet a pixel; reklamy od 2. 11. do poloviny listopadu)
 - [ ] Výzkum reklam konkurence v Meta Ad Library (`ads-meta-research`) — C, jde už teď
 - [ ] Strop útraty na první kolo a kritérium po 14 dnech — L + Š
-- [ ] Kreativa: 2–3 statické reklamy v Canvě — C (vyzkoušet postup [[ABM – Static Ad Framework]] z Databanky, Lenka 261018)
-- [ ] Texty reklam (bez věku čtenářky) a kontrola zásad Meta (`ads-meta-compliance`) — C
+- [ ] Připravit s Claudem 2–3 statické reklamy v Canvě #next-action #online
+    - Kontext: C (vyzkoušet postup [[ABM – Static Ad Framework]] z Databanky, Lenka 261018); podle mapy 261027 hned po fakturaci a Metě nejdůležitější. Výstup přes frontu GrowOS (sezení ve složce GrowOS).
+- [ ] Napsat s Claudem texty reklam a zkontrolovat zásady Meta #next-action #online
+    - Kontext: bez věku čtenářky, skill `ads-meta-compliance`; při psaní projít [[pripady-z-praxe-claude]].
 - [ ] Založit reklamy pozastavené (C), zapnout (L)
 - [ ] Video: nepovinné, až zbude kapacita
 
 **7. Kurz a balíček**
 - [ ] Projít se Štěpánčinou zpětnou vazbou ze zkušebního průchodu (mail z 11. 10.) a zapracovat úpravy do skillů a návodů balíčku (krátká cesta C:\dgs, kontrola délky cest, citlivé údaje ve vzorcích, nevymýšlet fakta v osobním profilu, pojistky u pošty, blok „pod pokličkou“) — L s C #online
 - [ ] Technika setkání (Zoom nebo Meet, odkaz, nahrávání) — L + Š
-- [ ] Co účastnice dostane po zaplacení (uvítací mail, co si připravit) — C návrh
+- [ ] Navrhnout s Claudem, co účastnice dostane po zaplacení #next-action #online
+    - Kontext (Lenka 261027): musí být jasné do 9. 11., než se začne prodávat. Uvítací mail, „Připravte se“ (vzor Get Ready v [[resources/digistart-vzor-platforma-ai-strategist]]) a kam půjdou záznamy a odkazy. Kurz je záměrně živý; záznamy asi přes YouTube a jedna stránka, kde je vše pohromadě, možná na vlastním webu místo platformy (platforma není o moc bezpečnější, přihlašovací údaje se dají sdílet taky). Nerozhodnuto.
 
 **8. Štěpánka**
 *Jen pro Lenku (261017, do přehledu pro Š nepatří):* Lence se zdá nereálné stihnout vše před Vánoci; většina práce stojí na ní, Š na DigiStartu moc nepracuje (věcem tolik nerozumí, možná ani nevidí, kolik práce zbývá). Cíl přehledu: ukázat Š celý plán a rozsah práce a zkusit na ni delegovat, co jde (Š má vlastního AI asistenta). Jak delegovat, zatím otevřené.
@@ -230,6 +255,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Naplánovat harmonogram (min. 50 h, max. 25 účastníků/skupina) a vložit do Databáze nejpozději 7 dní před začátkem, kurz zveřejnit nejdřív 90 / nejpozději 30 dní před začátkem
 
 ## Záznam (nejnovější nahoře)
+
+**261027 20:18–20:35 — Projektová mapa a platforma AI Strategist (samostatné vlákno „DigiStart: projektová mapa“).** Mapa (oddíl nahoře) sestavena z projektu, `GrowOS/digistart/brain/plan.md` a `decisions.md`. Lenka upravila: „co dostane účastnice po zaplacení“ přesunuto do TEĎ (musí být jasné před prodejem), po fakturaci a Metě je nejdůležitější reklama (kreativa a texty). `#next-action` přidány na kreativu, texty reklam a „po zaplacení“. Platforma AI Strategist prošlá v Chromu ve vlastní kartě (jen stavba, nic nezměněno) → [[resources/digistart-vzor-platforma-ai-strategist]]; Lenka ji bere jako dlouhodobý vzor, i pro další kurzy. Úkoly „Udělat projektovou mapu“ a „Projít platformu AI Strategist“ splněny.
 
 **261026 09:10–09:25 — Voicenotes: Claude si přepisy stáhne sám (samostatné vlákno „Voice Notes: přístup pro Clauda“).**
 - Služba = voicenotes.com (Lenka 261026). **Oficiální konektor existuje** (`https://api.voicenotes.com/mcp`, přihlášení OAuth, nástroje hledat, vypsat, stáhnout přepis, založit textovou poznámku; mazat a upravovat neumí). Zatím není zapnutý → úkol pro Lenku výš.
