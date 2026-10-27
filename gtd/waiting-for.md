@@ -16,8 +16,8 @@ sort by due
 
 - [ ] Smazat zálohu staging.lcenglish.cz na Disku, pokud živému webu nic nechybí 📅 2027-01-27
     - Kontext (261027): složka `G:\Můj disk\Zálohy webů\staging.lcenglish.cz 261027` (databáze + soubory, 600 MB). Staging smazán 261027, starší stav webu před přenosem 24. 10.; mazat finálně jen Lenka. Detail [[kontext-ukolu#Weby mimo WordPress]].
-- [ ] Vysypat koš Plesku a smazat serverové kopie zálohy stagingu (hosting na 117 % místa) 📅 2026-10-30
-    - Kontext (261027): Plesk → Soubory → kořen: `staging-files-261027.zip` a `wp_ucl99_2026-10-27_12-19-59.sql.zip` → Odebrat; pak `.trash` vysypat. Kopie je na Disku. Uvolní cca 1,8 GB. Dělá Lenka (trvalé mazání).
+- [ ] Smazat serverové kopie zálohy stagingu v Plesku 📅 2026-10-30
+    - Kontext (261027): Plesk → Soubory → kořen lcenglish.cz: `staging-files-261027.zip` a `wp_ucl99_2026-10-27_12-19-59.sql.zip` → Odebrat (pak vysypat `.trash`). Kopie je na Disku. Uvolní 573 MB. Koš je už prázdný (soubory stagingu zmizely s odebráním subdomény). Dělá Lenka (trvalé mazání). Další možný úklid: [[kontext-ukolu#Weby mimo WordPress]] (rozbor místa 261027).
 - [ ] Připomenout Vítkovi obnovu karty ve Firebase Shadowloopu (Visa •5179 platí do 02/2028) 📅 2028-01-15
     - Kontext (261025): platební profil projektu `shadowloop-firebase` je Vítkův; útrata je téměř nulová, ale bez platné karty hrozí pozastavení funkcí `sale` a `freebie` → [[lcenglish-ekosystem]].
 - [ ] Požádat podporu Teachable o smazání školy publicspeaking.teachable.com 📅 2026-11-30
