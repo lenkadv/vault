@@ -53,8 +53,6 @@ sort by due
     - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.
 - [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
     - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
-- [ ] Připnout rozlučkový příspěvek ve FB skupině MABO, pokud ještě není → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`
-    - Kontext: zveřejněno 27. 10.; pozastavení skupiny (místo archivace) je ve [[waiting-for]] na 3. 11.
 - [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
     - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
     - Kontext (261027): maily číst nemusí. Claude při denním plánu ověří ve schránce, že došly GTKY 3/4 a 4/4, dá jim `Svodka/smazat` a v pátek Lence řekne, že kontakty může smazat.
