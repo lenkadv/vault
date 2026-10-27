@@ -91,6 +91,7 @@ Stav: **návrh** = čeká na Lenku · **schváleno** · **hotovo**. Nic se nema�
 
 ## Záznam (nejnovější nahoře)
 
+- **261027 17:28** Podpora FreshLearn (Frank, 27. 10. 16:36) po Lenčině odpovědi (odešla 12:52 z lnk.dvorakova@gmail.com): nedávno přidali v Settings → Member Portal → Customize Member Portal **samostatné nastavení barvy pozadí portálu** (screenshot v mailu). To nejspíš vysvětluje, proč se od 27. 10. načítá i vlastní CSS. Možnost: vrátit tlačítka na #D1003A (sedí k logu) a pozadí nastavit nativně na papír #F7F1EA; rozhodne Lenka. [Mail](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1880053114335778960)
 - **261027 13:52–14:00** Lenka nevidí přepínač jazyka. Příčina v kódu portálu: hlavička ho ukáže jen tehdy, když při jejím načtení už je v kartě uložený jazyk (`languageDTO` a `languageId` v sessionStorage). V nové kartě se hlavička vykreslí dřív, než portál jazyk stáhne, a přepínač chybí; po obnovení stránky je vidět („Čeština“, ověřeno). Chování FreshLearn, skripty ho nezpůsobují; s jedním jazykem nevadí, nic neměněno.
 
 - **261027 13:47–13:52** Lenka prošla portál: česky vše kromě přepínače jazyka („Czech“ = název jazyka v nastavení FreshLearn, ne popisek). Přidán skript `<script id="lce-jazyk">` (přepíše samostatný nápis „Czech“ na „Čeština“ mimo editory a obsah lekcí, upraví i `languageDTO` v sessionStorage), uloženo, mezipaměť profilu smazána. Ověřeno na stránce zapomenutého hesla v nové kartě.

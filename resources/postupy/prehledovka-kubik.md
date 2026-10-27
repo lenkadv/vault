@@ -1,0 +1,60 @@
+# Postup: Přehledné dějiny antického a středověkého umění (doc. Kubík) – zpracování po tématech
+
+Vznikl 261027. Absolvovaný předmět (1. ročník, ZS + LS). Cíl: **zápisky po tématech** ze všech dostupných nahrávek z různých let, jako podklad ke státnicím. Hlavní postup zápisků (vzhled, kontrola údajů, Poznámky ke kontrole) je v [[resources/postupy/zpracuj-prednasku]]; tady jsou odlišnosti. **Anki se nedělá** (Lenka 261027).
+
+## Proč po tématech, ne po přednáškách
+Lenka předmět nenahrávala. Nahrávky jsou z různých ročníků a doc. Kubík v každém roce stihne jiný kus látky (na konci semestru často zhušťuje, v některých letech má víc času). Jedno téma se proto skládá z více nahrávek a jedna nahrávka může obsahovat víc témat.
+
+## Zdroje
+- **Notebook „Přehledovka Kubík – všechny nahrávky“** (`7c48904e`, založen 261027): **jediný pracovní notebook**, každá nahrávka v něm jednou. Placený tarif, limit 50 zdrojů neplatí. Malé notebooky `01`–`19` (Pravěk … Pozdní gotika) a „Přehledovka komplet“ (`93d7364d`) zůstávají beze změny; komplet obsahuje jen řadu m4a sloučenou po tématech a **nemá** nahrávky 2018/2019, proto se z něj nekopírovalo.
+- **Ročníky nahrávek:** řada m4a (`2 Keltové 1`, `16_1 Karolinská renesance` …, rok neznámý), ZS 2018 (`N. Stredovek DD. MM. 2018`), LS 2019 (`LS N … 1903xx`), ZS 2019 (`7.`/`10. Stredovek … 2019`), **2021/22 od spolužačky** (`PD YYMMDD`, ZS jen 30. 11. 2021, LS 14. 2.–23. 5. 2022).
+- **Vizuální kultura středověku 2** (`VIZU 25MMDD` z 2025, `VIZU2 22MMDD` z 2022): doc. Kubík ji vykládá jako podmnožinu přehledovky, takže obsahuje i látku k přehledovce a místy se s ní kryje (Lenka 261027). Zdroj na stejné úrovni jako nahrávky přehledovky, u rozdílů uvádět, že jde o Vizu.
+- **Originály nahrávek:** `G:\Můj disk\02 EDUCATION 📚\KTF\XX Absolvované\Přehledovka Kubík – nahrávky k vytřídění (z počítače)\` (podsložky m4a, mp3; `2021-22 od spolužačky (Přehledovka + Vizu 2)` = kopie z disku spolužačky cajchanova@gmail.com, složka Dějiny umění → Prvak → Rec). `Audio Overviews` = AI shrnutí, ne přednáška, nepoužívat. Kubíkův **Úvod do dějin umění** (2021, na disku spolužačky) je jiný předmět, nepoužívá se.
+- **Slajdy:** album Google Photos „Přehledné dějiny antického a středověkého umění 24ZS 25LS“ (8. 10. 2024 – 19. 5. 2025, Lenčino, odkaz v Docu `Přehledné dějiny antického a středověkého umění I + II` ve složce předmětu). Otevře se bez přihlášení, fotky jdou stáhnout (`lh3.googleusercontent.com/pw/…=w1600`), mají datum focení. Slajdy jsou většinou fotky děl **bez popisku** → slouží k identifikaci díla, jména a datace z přednášky a webu. Záloha: fotky slajdů 2021/22 na disku spolužačky (`Prvak/Foto_Kubik/PrehledneDejiny1, 2`).
+- **Kontrolní materiály (ne zdroj obsahu):** státnicové otázky `KTF/Státnice Bc/` (I. 1–6, II. 1–10), studentské zápisky spolužaček (`Prvak/Kubik-podklady/Přehledovka_*.docx`, 2022), PDF k tématům ve složce předmětu. Co v nich je a v přednášce ne → ověřit v Notebooku, ne opisovat.
+
+## Pracovní složka a přepisy
+`C:\Users\Lenka\Documents\kubik-work\` (mimo Disk): `dump.py` stáhne přepisy (`source fulltext`) do `tx\` a osnovy nahrávek (dotaz na jednu nahrávku, vždy `--new -y`, notebook je náš) do `osnovy\`; `sources.json` = seznam zdrojů. Přepisy jsou úplné a čitelné, takže úsek k tématu jde číst přímo, nejen přes shrnutí Notebooku.
+
+## Výstupy
+- **Složka:** `KTF\XX Absolvované\Přehledné dějiny antického a středověkého umění\Zápisky\` (bez sdílené podsložky; sdílí se případně celá, Lenka 261027).
+- **Jeden Google Doc na téma**, vzhled podle [[resources/postupy/zpracuj-prednasku]], navíc oddíl **„Ke státnicím“** (jako u Metodologie 2) a v Poznámkách ke kontrole rozdíly mezi ročníky **s rokem nahrávky**.
+- Zpráva z Notebooku se generuje ze **všech nahrávek k tématu** (`-s` pro každou), ne z jedné.
+
+## Jak vzniká zápisek k tématu (pilot 261027)
+1. Nahrávky k tématu najít hledáním klíčových slov v celých přepisech (`tx\`), u nejasných podle osnovy; nahrávky delší pasáže převést `fold` do `wrap\` a číst přímo (ne přes zprávu Notebooku, přepisy jsou úplné, Notebook u více nahrávek vynechává). Takhle jde pracovat souběžně s frontou dotazů na Notebook.
+2. Text píše Claude do `zNN.md` ze všech ročníků; rozdíly mezi ročníky a co zaznělo jen v jednom roce → Poznámky ke kontrole (`notesNN.py`). Vizu jako samostatný oddíl „doplněk“.
+3. **Lenčiny vlastní poznámky z roku 2025** (PDF ve složce předmětu, např. `Karolinská renesance.pdf`, export z Notionu s datem přednášky a seznamem děl a datací) slouží ke kontrole jmen a datací; podle nich je řada m4a (alespoň `16_1`) z LS 2025, tedy Lenčin ročník.
+4. Doc: HTML → Drive `create_file` do `Zápisky`, název `NN Téma: podtitul`; vzhled `formatNN.py --map HEADING_1:title,HEADING_2:h1,HEADING_3:h2,HEADING_4:h3`, dávku rozdělit na 4 části (první s `requiredRevisionId`).
+
+## Témata v samostatných vláknech (Lenka 261027)
+Každé téma běží ve **vlastním vlákně** (šetří kontext hlavního vlákna, víc témat najednou). Hlavní vlákno „Přehledovka Kubík“ vlákna zakládá, kontroluje výsledek a vede tabulku Stav.
+- Vlákno tématu: přečte tento postup, [[resources/postupy/zpracuj-prednasku]] (oddíly 5–8) a pilot `kubik-work\z09\` (vzor, schválen); pracuje v `kubik-work\zNN\`; Doc do složky `Zápisky`.
+- **Nesahá na tento soubor** (víc vláken najednou by se přepisovalo). Výsledek zapíše do `kubik-work\zNN\STAV.md` (odkaz na Doc, použité nahrávky a ročníky, co zbývá) a jednou řádkou do Průběhu dne v `daily/YYMMDD.md`.
+- Notebook používá jen výjimečně a vždy s `-s` a bez `--new` (frontu osnov a dotazy jiných vláken nerušit); hlavní zdroj jsou přepisy v `tx\`.
+- Státnice: **III. 2** má v oficiálním znění výslovně „byzantský spor o obraz (vč. Libri carolini)“ i dílenskou literaturu (receptáře), proto Libri Carolini a traktát z Lukky patří do III. 2 (ověřeno v `SZZ otázky_.docx` 261027, Lenka se ptala).
+
+## Postup
+1. ✅ Společný notebook (261027).
+2. Soupis nahrávek → témata (z osnov a přepisů): tabulka nahrávka × téma × ročník × podíl. Výsledek ukázat Lence.
+3. **Kostru témat potvrdí Lenka** (výchozí návrh: témata malých notebooků 01–19, jemněji jen kde to pomůže státnicím, např. česká gotika přemyslovská × lucemburská).
+4. Pilot jednoho tématu (návrh: Karolínská a otonská renesance, II. 4), schválení vzoru, pak po jednom tématu.
+5. Stav zpracování vést v tabulce níže.
+
+## Stav
+| Krok | Stav |
+|---|---|
+| Notebook se všemi nahrávkami | 261027: 61 zkopírováno z malých notebooků, 15 nahráno z Disku, 30 z 2021/22 → po odstranění 9 duplicit **97 nahrávek** |
+| Duplicity (podle přepisů, 261027) | z notebooku odstraněny: `10. Stredovek 17. 12. 2019.wav` (= 10a + 10b), `7. Stredovek 19. 11. 2019.wav` (= 7a + 7b), `LS 6. Stredovek 2 25. 3. 2019` (= LS 6.a–c), `3. Stredovek 23. 10. 2018` (= 3a + 3b), `7 Řecko` (= `6. Stredovek 13. 11. 2018`), `8a Řecko` (= `7a Řecko`), `8b Etruskové` (= `7b`), `9a Etruskové` (= `8a`), `2 Keltové 1a` (úsek `2. Středověk 16. 10. 2018`). Přepisy odložené v `kubik-work\tx\_duplicity\`. **Pozor: řada m4a je zčásti tvořená nahrávkami z ZS 2018** (např. `7 Řecko` = 13. 11. 2018), rok u ní tedy není jednotný. Částečný překryv bez odstranění: `13 Ravenna Byzanc` × `13_2 Byzanc_I`, `2 Keltové 1` × `2 Keltové 1b`. |
+| Soupis nahrávek | 261027 hotový: `kubik-work\soupis.md` (nahrávka → úseky s podíly, z osnov Notebooku; osnovy v `osnovy\`, celé přepisy v `tx\`) |
+| Kostra témat | čeká na soupis a Lenku |
+| Pilot 09 Karolínská renesance | 261027 Doc [09 Karolínská renesance: od palácové kaple v Cáchách po bible Karla Holého](https://docs.google.com/document/d/1WHKrzYZe5cpfF_HEvSzLmp5Y92Kuk4WXHaY116USMIQ/edit) (složka `Zápisky`, ID složky `1pWPyIrzLvb9YUTnILWzrdfxFZ5DQdSQK`); **vzor schválen Lenkou 261027 14:11** (struktura, oddíl Ke státnicím, Poznámky ke kontrole s ročníky, Vizu jako doplněk). Pracovní soubory `kubik-work\z09\` (`z09.md`, `notes09.py`, `build_html09.py`, `format09.py` s nastavením tabulek). |
+| 06 Řím | 261027 Doc [06 Řím: od etruského dědictví po Konstantinovu stylovou syntézu](https://docs.google.com/document/d/1eqlpjbBM5P0r82hTST7ZQCzL8qeQcPSu9kZCjB1lmcA/edit), 1,5× pilot; detail `kubik-work\z06\STAV.md` |
+| 07 Křesťanská antika | 261027 Doc [07 Křesťanská antika: od katakomb po ravennské mozaiky](https://docs.google.com/document/d/1M7NPZ9uA_ynxJSqcJq8Myde-BeQQpj7kYgdyLMhlDSE/edit); justiniánská Ravenna jen z 2022; `z07\STAV.md` |
+| 10 Velká Morava | 261027 Doc [10 Velká Morava: od Sámovy říše po zlatnictví a kostely Mikulčic](https://docs.google.com/document/d/17UNQv0_ucwZqt8O1bsfNsqKbK7uRCJ30vuDtRwUxiOs/edit); `z10\STAV.md` |
+| 11 Otonská renesance | 261027 Doc [11 Otonská renesance: od Gernrode po evangeliáře Oty III.](https://docs.google.com/document/d/1bzi8UchaV8qdFWY4iFVp7A1J-OAe6iogs9fnKeaKbRs/edit); `z11\STAV.md` |
+| 01 Pravěk a Keltové | 261027 Doc [01 Pravěk a Keltové: od Stonehenge po keltská oppida](https://docs.google.com/document/d/1Wd-4Ac8oGDnaWyd26o47QbbqWM89lsfaZSdb1Q0euBo/edit); `z01\STAV.md` |
+| 02 Egypt | 261027 Doc [02 Egypt: od Narmerovy palety po fajjúmské portréty](https://docs.google.com/document/d/1v8TxkbMpOOC6c2la73gGTf9pQYPuWSrZ4HcPTo4oP1I/edit), 20 stran; `z02\STAV.md` |
+| 03 Egejské civilizace | 261027 Doc [03 Egejské civilizace: od paláce v Knóssu po Lví bránu v Mykénách](https://docs.google.com/document/d/19-4MmRLJczjlbpfoBsBt1CcAVCuURZPtrQ43_BloKrk/edit); kykladská kultura v žádné nahrávce; `z03\STAV.md` |
+| 04 Řecko | 261027 dva Docy: [04a Řecko: od geometrického slohu po Feidia](https://docs.google.com/document/d/1OlD-cpOtu47LtPCF8NK_Tz2I8YS5kAtuUJnICg5bF8M/edit), [04b Řecko: od pozdní klasiky po helénismus](https://docs.google.com/document/d/1vAQhtrbfim6Ye2JHY7gbHabeLid2fACCzFaiFw2JuhM/edit); `z04\STAV.md` |
+| 05, 08, 12, 13 | 261027 16:05 spuštěna samostatná vlákna |
