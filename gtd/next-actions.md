@@ -107,8 +107,6 @@ path does not include lcenglish
 sort by path
 ```
 
-- [ ] Zeptat se Vítka, jestli je potřeba stará kopie Shadowloopu na hostingu lcenglish.cz (373 MB) → [[kontext-ukolu#Weby mimo WordPress]]
-
 ## @doma
 
 ```tasks
