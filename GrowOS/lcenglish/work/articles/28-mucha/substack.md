@@ -8,7 +8,7 @@ title: Dárek s podmínkou
 subtitle: Alfons Mucha, Slovanská epopej a řadové číslovky
 date: 2026-10-27
 id: 43ypth6ecq
-status: approved
+status: published
 business: lcenglish
 channel: articles
 created: 2026-10-25

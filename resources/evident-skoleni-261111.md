@@ -2,12 +2,12 @@
 
 > Klient: Evident Service Center Europe s.r.o. (dříve Olympus), Customer Care. ⚠️ Korespondence z `info@lenkadvorakova.cz`.
 > Vlákno: [Gmail – „Communication training“](https://mail.google.com/mail/?authuser=lnk.dvorakova@gmail.com#all/thread-f:1871603737715473946)
-> Čekání na kontakt z vrátnice hlídá [[waiting-for]].
+> Příchod domluven (Markéta Hánlová 26. 10.), viz Místo.
 
 ## Logistika
 
 - **Termín:** středa 11. 11. 2026, celodenní první část (v kalendáři blok „Evident?“ 9:00–16:00 od 7. 10.; po potvrzení přejmenovat).
-- **Místo:** kancelář Evident, **Evropská 16/176, Praha 6**. Místnost zarezervuje Markéta Hánlová (23. 10.). **Koho kontaktovat z vrátnice:** dotaz v odpovědi 24. 10., čeká se ([[waiting-for]]). V lednu 2025 to byl Ross Zylman (WhatsApp nebo telefon 773 995 624, přišel naproti). Adresa je z ledna 2025 (Ross Zylman), nová zpráva uvádí jen „office at Evropská“.
+- **Místo:** kancelář Evident, **Evropská 16/176, Praha 6**. Zasedačka **Brussels**, rezervace 9:00–16:00 (Markéta Hánlová 26. 10.). **Příchod:** přijít v 8:30, ať je čas se připravit, a po příchodu volat přímo Markétě Hánlové (+420 723 615 970). V lednu 2025 to byl Ross Zylman (WhatsApp nebo telefon 773 995 624, přišel naproti). Adresa je z ledna 2025 (Ross Zylman), nová zpráva uvádí jen „office at Evropská“.
 - **Jazyk:** angličtina (Markéta Hánlová 23. 10.).
 - **Účastníci:** stejný seznam jako 6. 10. (Markéta Hánlová 23. 10.: „The participants list would be same“).
 

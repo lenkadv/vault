@@ -37,6 +37,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - #25 Hieronymus Bosch — Zahrada pozemských rozkoší, výřez z pekla (mustn't × don't have to) — 6. 10. 2026
 - #26 Frida Kahlo — Dvě Fridy (past simple: slovesa) — 13. 10. 2026
 - #27 Caspar David Friedrich — Poutník nad mořem mlhy (present perfect) — 20. 10. 2026
+- #28 Alfons Mucha — Apoteóza ze Slovanské epopeje (řadové číslovky a data) — 27. 10. 2026
 
 ## Sekvence (opakující se)
 
@@ -131,8 +132,8 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 
 ## Aktuální stav
 
-- **Poslední newsletter:** #27 Caspar David Friedrich, Poutník nad mořem mlhy (present perfect), „Za mlhou hustou tak, že by se dala krájet“ — odesláno út 20. 10. 2026 7:53 (Drip 919204975), Substack 7:24 (https://artforenglish.substack.com/p/za-mlhou-hustou-tak-ze-by-se-dala), FB upoutávka Tady Lenka 12:30 (https://facebook.com/697505129047580/posts/1722203479911068). Ověřeno 261020.
-- **Další výstup:** NL #28 Mucha, Apoteóza (řadové číslovky a data), út 27. 10. — text schválen (approved 261025, úvod o karafiátech napsala Lenka), Drip 53124723 naplánován na út 27. 10. 8:01; Substack (https://artforenglish.substack.com/p/darek-s-podminkou) s tlačítky naplánován na út 27. 10. 8:27 (Lenka, ověřeno); FB upoutávka jako koncept v Metricoolu (út 12:30) i s odkazem v prvním komentáři. #29 Oosterwijck (3. 11.) a #30 El Greco (10. 11.) rozpracované v review, hooky bez termínu (261024).
+- **Poslední newsletter:** #28 Alfons Mucha, Apoteóza ze Slovanské epopeje (řadové číslovky a data), „Dárek s podmínkou“ — odesláno út 27. 10. 2026 8:01 (Drip 53124723, segment Newsletter), Substack 8:27 (https://artforenglish.substack.com/p/darek-s-podminkou). FB upoutávka byla koncept v Metricoolu na út 12:30; mezi naplánovanými příspěvky na 27. 10. ji Metricool nevrací, takže ji Lenka musí naplánovat nebo zveřejnit sama. Ověřeno 261027 11:40.
+- **Další výstup:** NL #29 Oosterwijck, út 3. 11. (v review, hook bez termínu); #30 El Greco 10. 11. rozpracované (261024).
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.
 
