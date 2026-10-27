@@ -78,8 +78,8 @@ sort by due
     - Kontext: mail odeslala Lenka 261025 ~21:00 na support@freshlearn.com. Oprava 17 v [[lcenglish-freshlearn-revize]]; vlastní CSS je v administraci uložené (Custom Script → Member Portal), jen se nenačítá.
 - [x] (261025 12:01: Jaroslav Podhradský odpověděl „koš vyprázdněn dle požadavku“, svodka č. 27) Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28 ✅ 2026-10-26
     - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
-- [ ] Čekám na Štěpánku: připojení stránky DigiStart k portfoliu Meta → [[digistart]] 📅 2026-10-30
-    - Kontext: Lenka jí připomněla 261027 večer; 30. 10. ověřit, jestli to prošlo.
+- [ ] Zavolat si se Štěpánkou k připojení stránky DigiStart k portfoliu Meta → [[digistart]] 📅 2026-10-28
+    - Kontext: Lenka jí připomněla 261027 večer, domluvily se, že si 28. 10. zavolají.
     - Kontext (Zápisník 261024 23:31): Štěpánka portfolio DigiStart založila, připojení stránky Meta odložila zhruba do po 26. 10. 15:30. Pak zkusit znovu a ověřit, že projde.
     - Kontext: návod nasdílen 261024 (https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3); Lenčino portfolio Meta neodblokovala.
 - [x] Čekám na Štěpánku Uličnou: datum začátku pilotu DigiStart → domluveno ústně, viz [[digistart]] ✅ 2026-10-20
