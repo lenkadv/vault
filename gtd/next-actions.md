@@ -51,6 +51,8 @@ sort by due
 ## @online
 - [ ] Vymyslet s Claudem dárek nebo odkaz na kurz do nejčtenějších článků lcenglish.cz → [[mapa-webu-skutecna#Kam vést návštěvníka]]
     - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.
+- [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
+    - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
 - [ ] Rozhodnout s Claudem, co místo 3 rozbitých odkazů v článcích lcenglish.cz → [[mapa-webu-skutecna#Rozbité odkazy ven]]
     - Kontext (261026): předložkový minikurz (článek o předložkách, ve FreshLearn není), formulář Dripu 663641640 (Walk in the woods, okno vypnuté 25. 10.), YouTube kanál PublicspeakingCz (Jak začít mluvit, Keltové). Odkazy na FB stránku LiCaEnglish, skupinu MABO a /hele-sp/ jsou z webu pryč.
 - [ ] Zveřejnit rozlučkový příspěvek ve FB skupině MABO a připnout ho → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`
