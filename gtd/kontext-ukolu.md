@@ -62,6 +62,14 @@ Ze zápisníku 261024 (`inbox/telefon/261024-1304`): prozkoumat, jestli jde pře
 - **Nalezeno navíc:** `kurzy.publicspeaking.cz` (Teachable) nefunguje, prohlížeč hlásí chybu zabezpečeného spojení; škola sama běží na publicspeaking.teachable.com. DNS je v pořádku, problém je na straně Teachable (odhad: vlastní doména v nastavení Teachable už není). Starší stav, nesouvisí se změnou.
 - ~~Další krok: Lenka rozhodne o smazání WordPressu (a `api.php`); pak dotaz podpoře Hosting Solutions na levnější tarif.~~
 
+**261027 12:45 staging.lcenglish.cz smazán (Claude, vlákno „Smazat zkušební web staging.lcenglish.cz“, s výslovným svolením Lenky 12:17):**
+- **Před smazáním ověřeno:** živý web na stagingu nezávisí (všech 123 adres ze sitemapy 200, žádný odkaz na `staging.`, server nemá naplánované úlohy). Staging neměl nic navíc: poslední úprava 24. 10. 19:05 (před přenosem), jen pluginy smazané na živém webu (Elementor, WP Rocket, Akismet) a 1 záznam kontaktního formuláře z 24. 10. (test, Chrome).
+- **Mail „Email Summary of Your Forms“:** týdenní souhrn Fluent Forms (Global Settings → Email Summaries). Vypnula ho Lenka; ověřeno vypnuté na stagingu i na živém webu.
+- **Záloha:** `G:\Můj disk\Zálohy webů\staging.lcenglish.cz 261027\` = databáze `wp_ucl99_2026-10-27_12-19-59.sql.zip` (66 MB SQL, výpis kompletní) + soubory `staging-files-261027.zip` (56 163 souborů, 1,2 GB rozbaleno, 566 MB zip), obojí ověřeno. Kopie i na serveru v kořeni předplatného lcenglish.cz.
+- **Smazáno:** instalace odpojena z WP Toolkitu (zůstaly 2: lcenglish.cz, lenkadvorakova.cz), databáze `wp_ucl99` smazána (živý web má `wp_egtdm`), 26 položek ze složky `staging.lcenglish.cz` přesunuto do koše Plesku, subdoména odebrána. DNS: staging neměl vlastní záznam, odpovídal jen přes zástupný `* CNAME lcenglish.cz` v DNS klientské sekce; ten zůstává (nemazat, může na něm viset víc). `https://staging.lcenglish.cz` teď nenaváže spojení.
+- **Ověřeno po smazání:** /, /blog/, /newsletter/, /hele/, /kurzy/, /contact/ = 200, měřicí kódy na Home.
+- ⚠️ **Místo na hostingu: 117 % (3 513 z 3 000 MB)** už před smazáním. Koš Plesku a zip na serveru místo neuvolní. Až Lenka vysype koš a smaže serverové kopie zálohy (`staging-files-261027.zip`, `wp_ucl99_…sql.zip` v kořeni), uvolní se cca 1,8 GB. Záloha na Disku zůstává do 27. 1. 2027 ([[waiting-for]]).
+
 **261025 12:55 WordPress na publicspeaking.cz smazán (Claude, s výslovným svolením Lenky 12:44):**
 - Soubory WordPressu (23 položek včetně `api.php` a `api.php.old`) přesunuty do koše Plesku, v `httpdocs` zůstaly jen `.htaccess` a `.well-known`. Databáze `publicspeaking` smazána, instalace odpojena z WP Toolkitu (zůstaly 3: lcenglish.cz, staging, lenkadvorakova.cz).
 - `.htaccess` vyčištěn: jen pravidla přesměrování, bez bloku WordPressu a bez výjimky pro `api.php` (ta teď přesměruje na hlavní stránku).

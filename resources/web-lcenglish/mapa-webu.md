@@ -35,7 +35,7 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 | `kurzy.lcenglish.cz` | kurzy pro kupující | FreshLearn |
 | `shadowloop.lcenglish.cz` | aplikace Shadowloop | Google Firebase (`shadowloop-firebase`) |
 | `fapipi.lenkadvorakova.cz` | automatika po zaplacení (FAPI → Drip, Shadowloop, FreshLearn) | server kybersquat.cz (MasterDC) |
-| `staging.lcenglish.cz` | zkušební kopie webu (neindexovaná, bez měření) | stejný hosting |
+| ~~`staging.lcenglish.cz`~~ | zkušební kopie webu, **smazána 261027** (záloha `Zálohy webů/staging.lcenglish.cz 261027` do 27. 1. 2027); adresa nenaváže spojení, zástupný DNS záznam `*` zůstává | — |
 
 ## Bývalé stránky Elementoru (od 261024 Elementor vypnutý)
 
