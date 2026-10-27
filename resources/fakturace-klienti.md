@@ -60,6 +60,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 16  | 261024 | 36 min | DigiStart: Seznam, bezpečnostní zkoušky 1–4 přes MCP (odeslání odmítnuto, pokyn z e-mailu neproveden), zápis do návodu (20:45–21:21) → [[projects/digistart]] |
 | 17  | 261025 | 1 h 26 min | DigiStart: nástroje na videoreklamu: rozbor vzoru Kristine Mirelle, ověření Google AI Pro a Flow, kurz AI Creator Course a Wilcův postup střihu do podkladů, tři nápady, zkušební klip ve Flow (čeština, zrychlení, titulky) (17:56–19:22; Lenčina práce ve Flow mezi zprávami započtena, byla součástí testu) → [[projects/digistart]] |
 | 18  | 261026 | 15 min | DigiStart: Voicenotes, jak si Claude stáhne přepisy (konektor zapnut a ověřen), rozbor úvodního videa Dannyho Inyho „proč Claude“, přepisy k AI Strategist (09:10–09:25) → `GrowOS/digistart/library/danny-iny-proc-claude.md` |
+| 19  | 261027 | 42 min | DigiStart: projektová mapa priorit (do 9. 11.: platba → Meta → reklama → B3 → po zaplacení → konzultace), dashboard, platforma AI Strategist jako vzor (20:18–21:00) → [[digistart]], `resources/digistart-vzor-platforma-ai-strategist.md` |
 
 **Součet práce na počítači k 261021 (jen zapsané řádky):** DigiStart 17 h 20 min (řádky 1–5, 8–13) + firemní workshop 1 h 45 min (řádek 7) = **19 h 05 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **33 h 37 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně. Bloky DigiStartu z 18.–20. 10. v tabulce zatím nejsou (zapisuje je denní vlákno, pokud proběhly).
 
