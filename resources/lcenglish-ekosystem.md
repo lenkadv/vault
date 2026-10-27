@@ -98,15 +98,16 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### FreshLearn
 
-- **Ověřeno:** 261025 (proklikáno jako studentka, opravy 1–17)
+- **Ověřeno:** 261027 (portál česky a cihlová tlačítka; 261025 proklikáno jako studentka, opravy 1–17)
 - **K čemu:** kurzová platforma (jediná od 12/2023): HELE 157241, 10x ENGLISH 157254, Naučte se učit anglicky 157293 (skrytý), Webináře 157303 a Nastartujte 157314 (archivní, skryté), AI Sborovna 167515 a VIP 170914 (skryté, bez platební brány).
 - **Kde běží:** `kurzy.lcenglish.cz` (DNS CNAME na `cname.freshlearn.com`), administrace https://app.freshlearn.com; videa a soubory přímo ve FreshLearn.
 - **Přístup:** Lenka (přihlašuje se sama, Claude heslo nezadává).
 - **Napojení:** zápis kupujících dělá fapipi (ID kurzu a plánu v `actions.json`); obchodní podmínky a ochrana osobních údajů přesměrované na lcenglish.cz; prodejní stránky ve FreshLearn vedou na lcenglish.cz; Shadowloop jen odkazy v lekcích.
-- **Vzhled:** barvy Galerie (261025), přihlášení s obrazem Toulouse-Lautrec *The Englishman* a pozadím #F7F1EA (261025 večer, popisek „Pamatujte si mě“ je tím čitelný).
+- **Vzhled:** barvy Galerie (261025), přihlášení s obrazem Toulouse-Lautrec *The Englishman* a pozadím #F7F1EA (261025 večer, popisek „Pamatujte si mě“ je tím čitelný); tlačítka cihlová #B23A12 (261027).
+- **Vlastní kód portálu** (Settings → Custom Script → Member Portal → In Head Section, načítá se od 261027): `lce-paper` (papírové pozadí místo růžové), `lce-cestina` (333 českých popisků, které FreshLearn v jazyce Czech nemá; editor překladů je za tarifem No Brainer Plus; slovník [[freshlearn-preklady-portalu]]), `lce-jazyk` (přepínač jazyka „Čeština“ místo „Czech“). Po každé změně smazat mezipaměť profilu (paměť `reference_freshlearn_admin`).
 - **Dokumentace:** [[lcenglish-freshlearn-revize]] (soupis, opravy 1–17, jak se upravují stránky a lekce), mapy kurzů s texty lekcí [[lcenglish-kurz-hele-mapa]], [[lcenglish-kurz-10x-english-mapa]], [[lcenglish-kurz-ai-sborovna-mapa]] (261025), [[lcenglish-teachable-osnovy-261025]], paměť `reference_freshlearn_admin`.
 - **Ověřeno 261025 večer:** HELE, 10x ENGLISH, AI Sborovna a VIP proklikané jako studentka (videa, zvuky, 106 souborů ke stažení, odkazy); mrtvý odkaz a 21 překlepů opraveno.
-- **Otevřené:** vlastní CSS portálu (Custom Script → Member Portal) se nenačítá, čeká se na podporu FreshLearn ([[waiting-for]] 📅 2026-10-30); zastaralé termíny ve VIP spolu s rozhodnutím o AI Sborovně ([[next-actions]], [[lcenglish-freshlearn-revize]]); Teachable požádat o smazání 30. 11. 2026 ([[waiting-for]]).
+- **Otevřené:** zastaralé termíny ve VIP spolu s rozhodnutím o AI Sborovně ([[next-actions]], [[lcenglish-freshlearn-revize]]); Teachable požádat o smazání 30. 11. 2026 ([[waiting-for]]).
 
 ### Shadowloop a Firebase
 
