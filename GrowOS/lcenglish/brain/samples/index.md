@@ -17,6 +17,8 @@ Odeslané newslettery Art for English (přeneseno z GrowOS 0.1, 2026-09-06). Já
 - [[episodes-23-vangogh-newsletter]] — AfE #23, van Gogh, Červená vinice, předložky pohybu. (Naplánováno v Dripu na 22. 9., odejde automaticky.)
 - [[episodes-24-myslbek-newsletter]] — AfE #24, Myslbek, Pomník sv. Václava, zápor don't/doesn't/didn't. (Naplánováno v Dripu na 29. 9., odejde automaticky.)
 - [[episodes-25-bosch-newsletter]] — AfE #25, Bosch, Zahrada pozemských rozkoší, mustn't × don't have to. Odesláno 6. 10. 2026 7:28. Poprvé prodejní P.S. místo snippetu (10x ENGLISH).
+- [[episodes-27-friedrich-newsletter]] — AfE #27, Friedrich, Poutník nad mořem mlhy, present perfect. Odesláno 20. 10. 2026 7:53.
+- [[episodes-28-mucha-newsletter]] — AfE #28, Mucha, Apoteóza ze Slovanské epopeje, řadové číslovky a data. Odesláno 27. 10. 2026 8:01. Úvod napsala Lenka (rande, tři karafiáty), prodej v P.S. (Angličtina s příběhem).
 - [[episodes-22-kimhongdo-newsletter]] — AfE #22, Kim Hong-do, Ssireum, adverbs of frequency. (Naplánováno v Dripu, odejde automaticky.)
 - [[episodes-21-colosseum-newsletter]] — AfE #21, Koloseum. (Naplánováno v Dripu, odejde automaticky.)
 - [[episodes-20-steen-newsletter]] — AfE #20, Jan Steen, Škola pro chlapce a děvčata.

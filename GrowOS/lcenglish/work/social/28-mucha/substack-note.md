@@ -6,7 +6,7 @@ project: a4e-28-mucha
 platform: substack-notes
 intent: story
 id: n0wha0non2
-status: approved
+status: published
 business: lcenglish
 channel: social
 created: 2026-10-25

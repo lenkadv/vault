@@ -6,7 +6,7 @@ project: a4e-28-mucha
 platform: facebook
 intent: story
 id: 83npo23zsn
-status: approved
+status: published
 business: lcenglish
 channel: social
 created: 2026-10-25
