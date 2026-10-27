@@ -62,12 +62,18 @@ Ze zápisníku 261024 (`inbox/telefon/261024-1304`): prozkoumat, jestli jde pře
 - **Nalezeno navíc:** `kurzy.publicspeaking.cz` (Teachable) nefunguje, prohlížeč hlásí chybu zabezpečeného spojení; škola sama běží na publicspeaking.teachable.com. DNS je v pořádku, problém je na straně Teachable (odhad: vlastní doména v nastavení Teachable už není). Starší stav, nesouvisí se změnou.
 - ~~Další krok: Lenka rozhodne o smazání WordPressu (a `api.php`); pak dotaz podpoře Hosting Solutions na levnější tarif.~~
 
+**261027 13:45 Úklid překladů lenkadvorakova.cz HOTOVO (Claude, s výslovným svolením Lenky 13:21):**
+- Stejná příčina: 25 jazyků jádra (jazyk webu je cs_CZ). WP-CLI ve WP Toolkitu: `language core uninstall` 24 jazyků mimo cs_CZ (24× Success), `language plugin uninstall --all` (146 odinstalováno), `language theme uninstall --all` (14). Zůstala čeština 10,4 MB a 0,3 MB pro nepoužívanou šablonu Twenty Twenty-Three (nechána).
+- Ověřeno: /, /kontakt/, /obchodni-podminky/, /osobni-udaje/, /wp-login.php = 200 bez chybových hlášek, `lang="cs"`, administrace (Nástěnka) se načte.
+- **Místo: 762 → 502 MB z 6 240 MB (8 %).**
+- Nalezeno navíc: sitemapa (Rank Math) uvádí `/alpha/` a `/surveytest/` (poslední změna červenec 2023), obě vrací 404 a přes REST API je stránky ani články nenajdou (odhad: vstupní stránky Elementoru nebo smazané stránky, které v sitemapě zůstaly). S překlady nesouvisí. Úklid sitemapy = samostatná drobnost.
+
 **261027 13:35 Úklid lcenglish.cz HOTOVO (Claude, s výslovným svolením Lenky 13:12):**
 - Bod obnovení WP Toolkitu z 24. 10. 19:39 odebrán (534 MB).
 - WP-CLI ve WP Toolkitu: `language core uninstall` 24 jazyků (všechny kromě cs_CZ, 24× Success), `language plugin uninstall --all` téže sady (178 odinstalováno, 158 nebylo), `language theme uninstall --all` (37 odinstalováno). Ve `wp-content/languages` zůstala čeština 11 MB a 2 soubory 0,1 MB (`wpmudev`, pozůstatek smazaného pluginu, nechány). Nové překlady do jiných jazyků se už nestahují (WordPress je bere podle nainstalovaných jazyků jádra).
 - Ověřeno: /, /blog/, /newsletter/, /hele/, /kurzy/, /contact/, /irregular-cho/, /wp-login.php = 200 bez chybových hlášek, měřicí kódy na Home, administrace (Nástěnka) se načte.
 - **Místo: lcenglish.cz 1,8 GB z 3 000 MB (62 %)** (ráno 3,4 GB / 117 %). Po smazání serverových kopií zálohy stagingu ([[waiting-for]] 📅 2026-10-30) asi 1,2 GB.
-- Zbývá k rozhodnutí: stejný úklid překladů na lenkadvorakova.cz (254 MB), stará kopie Shadowloopu 373 MB, jazyk webu `en-US` (viz níže).
+- Zbývá k rozhodnutí: ~~stejný úklid překladů na lenkadvorakova.cz~~ (hotovo 13:45), stará kopie Shadowloopu 373 MB, jazyk webu `en-US` (viz níže).
 
 **261027 13:20 Úklid lcenglish.cz – příčina překladů a návrh (Claude, jen čtení, čeká na Lenčino ano):**
 - **Příčina překladů:** WordPress na lcenglish.cz má nainstalované jazykové balíčky jádra pro **25 jazyků** (cs_CZ, da_DK, de_DE, el, es_ES, fi, fr_FR, id_ID, it_IT, ja, ko_KR, nb_NO, nl_NL, pl_PL, pt_BR, pt_PT, ru_RU, sv_SE, th, tl, tr_TR, uk, vi, zh_CN, zh_TW). WordPress pak ke každému pluginu a šabloně automaticky stahuje překlady do všech nainstalovaných jazyků (automatické aktualizace překladů zapnuté), proto 7 045 souborů v `languages/plugins`. Nejstarší soubory jsou z 9. 6. 2022, ostatní se přepsaly aktualizacemi. Kdo jazyky nainstaloval, nevím; odhad: seznam odpovídá jazykům rozhraní Plesku, takže je přidal instalátor WP Toolkitu při instalaci WordPressu (lenkadvorakova.cz má totéž). Uživatelé žádný jiný jazyk nastavený nemají.
