@@ -161,6 +161,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [ ] Zpracovat s Claudem přepisy živého AI Strategist (26.–28. 10.) do výtahu #next-action #online 📅 2026-10-30
     - Kontext (261026): Lenka nahrává každý blok (16:00, 18:30, 20:30) zvlášť; od bloku 3 dne 1 do Easy Voice Recorderu jako přednášky a soubor pak nahraje do Voicenotes (nativní nahrávání Voicenotes se u dlouhých bloků zasekávalo), prompty a odkazy píše do dokumentu na Disku v `00 Inbox`. Claude stáhne přepisy do `GrowOS/digistart/library/danny-iny-ai-strategist/` a ke každému dni udělá výtah: DigiStart (stavba kurzu, prodej, funnel), práce s Claudem (postupy, prompty), LCEnglish. Úvody a opakování vynechat, použitelné do swipe nebo jako úkoly.
     - 261026: den 1 hotový (bloky 1–3) → [[zivy-den-1-vytah]].
+    - 261027: den 2 hotový (bloky 1–3) → [[zivy-den-2-vytah]].
 - [x] Ověřit, jestli si Claude stáhne přepisy z Voice Notes sám ✅ 2026-10-26 — ano, viz Záznam 261026
 - [x] Zapnout v Claude konektor Voicenotes ✅ 2026-10-26 — funguje, ověřeno 09:20
     - Kontext (261026): oficiální konektor, přihlášení jen kliknutím (bez hesla a klíče), Claude pak přepisy stahuje sám bez Chromu. Odkaz: https://claude.ai/directory/connectors/1c34a7fb-93a7-4a21-8fc8-2287034ecc8c → Add → Connect → Continue. Postup [[resources/postupy/voicenotes]].

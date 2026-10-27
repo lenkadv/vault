@@ -21,3 +21,6 @@ Lenka nahrává bloky do Voicenotes, Claude ukládá přepisy a ke každému dni
 | 1 (26. 10.) | 1: úvod, Clarity Cascade, neviditelná omezení | [[10-zivy-d1-b1-prepis]] | [[zivy-den-1-vytah]] |
 | 1 (26. 10.) | 2: obavy z AI, Hammer of the AI Gods, dvě hodiny AI | [[11-zivy-d1-b2-prepis]] | [[zivy-den-1-vytah]] |
 | 1 (26. 10.) | 3: strategie, prostředky a cíle, úzké hrdlo | [[12-zivy-d1-b3-prepis]] | [[zivy-den-1-vytah]] |
+| 2 (27. 10.) | 1: energie | [[13-zivy-d2-b1-prepis]] | [[zivy-den-2-vytah]] |
+| 2 (27. 10.) | 2: provedení | [[14-zivy-d2-b2-prepis]] | [[zivy-den-2-vytah]] |
+| 2 (27. 10.) | 3: pasti AI, dotazy | [[15-zivy-d2-b3-prepis]] | [[zivy-den-2-vytah]] |
