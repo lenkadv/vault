@@ -54,9 +54,7 @@ sort by due
 - [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
     - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
 - [ ] Připnout rozlučkový příspěvek ve FB skupině MABO, pokud ještě není → `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`
-    - Kontext (261026): text a postup archivace jsou v položce; za týden po zveřejnění skupinu archivovat (… pod úvodní fotkou → Archivovat skupinu). Odkazy na skupinu jsou z webu pryč.
-- [ ] Ověřit s Claudem v Dripu 4 vyskakovací okna, která se ukazují na celém webu → [[mapa-webu#Drip na webu]]
-    - Kontext (261026): API Dripu je hlásí jako zapnutá, ale v rozhraní Dripu (Forms) je „LCE homepage“ (37175075) vypnuté, takže API údaj nejspíš neodpovídá; zkontrolovat přepínače ON/OFF u všech čtyř přímo v Dripu a rozhodnout, která nechat.
+    - Kontext: zveřejněno 27. 10.; pozastavení skupiny (místo archivace) je ve [[waiting-for]] na 3. 11.
 - [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
     - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
     - Kontext (261027): maily číst nemusí. Claude při denním plánu ověří ve schránce, že došly GTKY 3/4 a 4/4, dá jim `Svodka/smazat` a v pátek Lence řekne, že kontakty může smazat.
