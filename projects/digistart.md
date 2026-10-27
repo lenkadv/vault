@@ -236,6 +236,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Technika setkání (Zoom nebo Meet, odkaz, nahrávání) — L + Š
 - [ ] Navrhnout s Claudem, co účastnice dostane po zaplacení #next-action #online
     - Kontext (Lenka 261027): musí být jasné do 9. 11., než se začne prodávat. Uvítací mail, „Připravte se“ (vzor Get Ready v [[resources/digistart-vzor-platforma-ai-strategist]]) a kam půjdou záznamy a odkazy. Kurz je záměrně živý; záznamy asi přes YouTube a jedna stránka, kde je vše pohromadě, možná na vlastním webu místo platformy (platforma není o moc bezpečnější, přihlašovací údaje se dají sdílet taky). Nerozhodnuto.
+- [ ] Doladit s Claudem projektový dashboard DigiStartu #next-action #online
+    - Kontext (Lenka 261027 21:41): „nejsem úplně na 100 % spokojená, doladíme zítra“; co přesně nesedí, zatím neřekla. Dashboard: https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j
 
 **8. Štěpánka**
 *Jen pro Lenku (261017, do přehledu pro Š nepatří):* Lence se zdá nereálné stihnout vše před Vánoci; většina práce stojí na ní, Š na DigiStartu moc nepracuje (věcem tolik nerozumí, možná ani nevidí, kolik práce zbývá). Cíl přehledu: ukázat Š celý plán a rozsah práce a zkusit na ni delegovat, co jde (Š má vlastního AI asistenta). Jak delegovat, zatím otevřené.
