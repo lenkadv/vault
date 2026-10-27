@@ -90,6 +90,7 @@ Stav: **návrh** = čeká na Lenku · **schváleno** · **hotovo**. Nic se nema�
 
 ## Záznam (nejnovější nahoře)
 
+- **261027 12:20–12:35** Podpora FreshLearn (Frank, 26. 10.): pozadí portálu změnit nejde, Custom Script systémová nastavení neupraví. Lenka chce růžovou pryč změnou barvy tlačítek. Pozadí = 7 % barvy tlačítek do bílé (`--c-brand-soft`), linky 22 % (`--c-brand-line`); ověřeno na #D1003A → #FCEDF1 / #F5C7D4, u jiných barev jde o výpočet, ověřit v náhledu. Varianty: A cihlová #B23A12 → #FAF1EE (bílý text 6,0:1); **B rezavá #8D3700 → #F7F1ED ≈ papír #F7F1EA** (7,8:1, linka #E6D3C7 ≈ #E2D6C8); C inkoust #1A1416 → #EFEFEF. Čeká na Lenčin výběr; pak změnit v Customize Member Portal → Theme a doplnit [[GrowOS/lcenglish/brain/brand]] (FreshLearn). Koncept odpovědi podpoře (žádost o samostatné pozadí) v Gmailu ve vlákně, ⚠️ odeslat z info@lenkadvorakova.cz.
 - **261025 21:00** Lenka odeslala mail podpoře FreshLearn (oprava 17), starý koncept s doménami v textu smazala → [[waiting-for]] 📅 2026-10-30.
 
 - **261025 20:56–20:58** Koncept zprávy podpoře FreshLearn (anglicky, Gmail, na support@freshlearn.com): růžové pozadí #FCEDF1 odvozené z barvy tlačítek a nenačítaný Custom Script → Member Portal. Odešle Lenka.
