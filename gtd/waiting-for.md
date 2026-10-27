@@ -42,7 +42,7 @@ sort by due
 - [ ] Vrátit nebo prodloužit v knihovně KTF knihu Svět včerejška (Zweig) 📅 2026-10-29
     - Kontext: upozornění knihovny 26. 10. (svodka č. 27); prodloužit jde v kontě https://cuni.primo.exlibrisgroup.com/discovery/account?vid=420CKIS_INST:UKAZ, pokud kniha není rezervovaná.
 - [ ] Navrhnout s Claudem curriculum Art for English na leden–červen 2027 📅 2026-11-30 → [[lcenglish-art-for-english]]
-    - Kontext (Zápisník 261025): současný plán v `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md` končí v prosinci; tenhle úkol je pojistka, aby další plán vznikl včas a nečekal se na náhodu.
+    - Kontext (Zápisník 261025): současný plán v `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md` končí v prosinci; tenhle úkol je pojistka, aby další plán vznikl včas a nečekal se na náhodu. Na leden zařadit Klanění tří králů (Botticelli, k 5. 1. 2027, nedogmaticky; Lenka 261027); otevřené body v curriculu.
 
 - [x] Vzít s sebou přihlašovací údaje ke školnímu účtu KTF (na setkání s prváky v P8, 11:50; prezentace je nasdílená na školním účtu) 📅 2026-10-20 ✅ 2026-10-20
 - [ ] Reorganizace Disku: vrátit `#next-action` na úkol „Projít `01 PRIVATE` po položkách s Claudem“ v [[disk-reorganizace]] (odloženo z weekly review 261018) 📅 2026-11-02

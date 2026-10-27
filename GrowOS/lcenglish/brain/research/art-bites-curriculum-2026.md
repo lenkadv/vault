@@ -4,7 +4,7 @@ Přístup: grammar-first (nejdřív jazykový cíl, pak dílo). Každý týden j
 Úroveň: A2–B1, dospělí čeští studenti.
 Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 
-**Stav:** Duben–červen potvrzeno. Léto otevřené (rozhodnutí v květnu). Září–prosinec hrubý návrh.
+**Stav:** Duben–září potvrzeno a odvysíláno. Říjen–prosinec upřesněn a schválen Lenkou 2026-10-27 (#29–#37). Leden–červen 2027 se navrhne do 30. 11. (waiting-for).
 
 ---
 
@@ -35,7 +35,7 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 | --- | ------ | ----------------------------------------- | ------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 13  | 14. 7. | used to (zvyk/stav v minulosti)           | Babcia z wnuczkiem (Babička s vnukem) | Konrad Krzyżanowski (1915), Muzeum Narodowe w Warszawie | Navazuje na Lenčinu dovolenou v Polsku — generační rozdíl v porozumění češtině<br>✅ materiál hotový |
 | 14  | 21. 7. | should / shouldn't (rady, pravidla)       | Tribuna degli Uffizi           | Johann Zoffany (1772–78), Royal Collection                  | Meta-téma: pravidla chování v galerii — obraz plný diváků obklopujících slavná díla; řeší otevřený bod "should/shouldn't – galerie" |
-| 15  | 28. 7. | comparative adjectives (bigger/softer/louder than) | Children's Games + Berry Pickers | Pieter Bruegel starší (1560), Kunsthistorisches Museum Vídeň + Winslow Homer (1873), National Gallery of Art Washington | **Revize 2026-07-28:** původně Morisot + Klimt (mateřství), vyměněno — nesedělo k real-life hooku (nostalgie na vlastní dětské léto). Bruegel/Homer = dvě vize dětství, 313 let od sebe. Morisot i Klimt zůstávají jako materiál pro budoucí epizodu. Pozor: Bruegel se v plánu objevuje potřetí (viz týdny 23, 27) — vyrovnat v některém příštím vydání jiným umělcem/umělkyní. |
+| 15  | 28. 7. | comparative adjectives (bigger/softer/louder than) | Children's Games + Berry Pickers | Pieter Bruegel starší (1560), Kunsthistorisches Museum Vídeň + Winslow Homer (1873), National Gallery of Art Washington | **Revize 2026-07-28:** původně Morisot + Klimt (mateřství), vyměněno — nesedělo k real-life hooku (nostalgie na vlastní dětské léto). Bruegel/Homer = dvě vize dětství, 313 let od sebe. Morisot i Klimt zůstávají jako materiál pro budoucí epizodu (Morisot zařazena 2026-10-27 do #34). Pozor: Bruegel se v plánu objevuje potřetí (viz týdny 23, 27) — vyrovnat v některém příštím vydání jiným umělcem/umělkyní. |
 | 16  | 4. 8.  | superlatives — 3. stupeň (the hottest/the most vivid) | Fruit Vendors                  | Amrita Sher-Gil (1937), sbírka Sundaramových, Nové Dillí     | **Revize 2026-08-04:** původně Rembrandt/must-mustn't (Desatero), nesedělo — náboženský kontext u cílovky. Nahrazeno reakcí na vlnu veder, navazuje na comparative z týdne 15 (posun na superlative) |
 | 17  | 11. 8. | past continuous (was/were + -ing)         | Detroit Industry Murals (detail) | Diego Rivera (1932–33), Detroit Institute of Arts        | Dělníci "stavěli" stroje — mexický muralismus, industriální téma |
 | 18  | 18. 8. | for / since (délka trvání a od kdy) | Ulysses and Argus | Briton Rivière (1885, instituce neověřena — pravděpodobně soukromá sbírka) | **Rozhodnuto 2026-08-15** — dvojitý hook: 18. 8. má svátek Helena + Nolanova Odyssea zrovna v kinech. Odysseus a věrný pes Argos, jediný, kdo ho po 20 letech pozná. Obraz se nepodařilo dohledat na Commons/WikiArt ani ověřit instituci — newsletter proto obraz jen popisuje textem a odkazuje na Homérův originál místo obrázku. Nahrazuje af Klint (přesunuto do Otevřených bodů, materiál v `output/episodes/_unplaced-af-klint/`) |
@@ -57,7 +57,7 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 
 ## Říjen–prosinec 2026
 
-*Hrubý návrh — bude upřesněn v září/říjnu. **2026-10-04: od 20. 10. přečíslováno (+1), čísla týdnů v poznámkách a bilančních tabulkách níže jsou ještě podle starého číslování.** Číslování navazuje na dokončené curriculum výše (#14–24). Některá díla ještě k doplnění (viz poznámky).*
+*Upřesněno a schváleno Lenkou 2026-10-27 (#29–#37). **Od 2026-10-04 přečíslováno (+1), čísla týdnů ve starších bilančních tabulkách níže jsou ještě podle starého číslování.** Zásady listopadu–prosince: místo opakování v každém dílu nové jevy, které v sérii chyběly (opakování jen #29 a #30); 4 z 9 dílů od umělkyň; náboženská témata jdou, když se pojmou nedogmaticky (Lenka 2026-10-27).*
 
 | # | Datum | Gramatika / slovní zásoba | Dílo | Umělec / zdroj | Poznámka |
 |---|---|---|---|---|---|
@@ -65,15 +65,15 @@ Formát: 1 obraz · 5 minut · pár frází + 1 mluvní úkol.
 | 26 | 13. 10. | past simple: slovesa (pravidelná + nepravidelná) | Dvě Fridy (Las dos Fridas) | Frida Kahlo (1939), Museo de Arte Moderno, Mexico City | **Rozhodnuto 2026-10-12:** Dvě Fridy (ne Zlomený sloup). Hook: Lenčina noc v Mexiku (nedokončený penzion, škorpion, prales). **Dílo NENÍ public domain** (Mexiko 100 let po smrti, správce práv Banco de México Diego Rivera & Frida Kahlo Museums Trust), Lenka bere riziko na sebe (jako u #19). Prodej v P.S.: Nepravidelná slovesa za 14 dní. `library/episodes/26-kahlo/` |
 | 27 | 20. 10. | present perfect: zkušenost (Have you ever…? / never) | Poutník nad mořem mlhy (Der Wanderer über dem Nebelmeer) | Caspar David Friedrich (kolem 1817), Hamburger Kunsthalle | **Rozhodnuto 2026-10-19** (ze tří variant; slot doplněn 2026-10-04). Hook: cizí jazyk jako moře mlhy, Lenčina japonština u seriálu. Česká linka: Labské pískovce, vlevo možná Růžovský vrch. P.S. 10x ENGLISH. ✅ odesláno 20. 10. (Drip 7:53, Substack, FB 12:30). `library/episodes/27-friedrich/` |
 | 28 | 27. 10. | řadové číslovky + čtení dat a letopočtů (**změněno 2026-10-19** z at / on / in — předložky už byly v #2, #9, #23) | Slovanská epopej — Apoteóza slovanstva (1926, 20. obraz) | Alfons Mucha (1910–1928), zámek Moravský Krumlov | 28. 10. Den vzniku ČSR; draft ve frontě (`work/email/28-mucha/`) |
-| 29 | 3. 11. | quantifiers (revision) | Zátiší | k upřesnění | 2. 11. Dušičky — klidnější téma |
-| 30 | 10. 11. | be going to (revision) + oblečení / počasí | Sv. Martin a žebrák | El Greco (1597–99), National Gallery Washington | 11. 11. Sv. Martin |
-| 31 | 17. 11. | past simple (revision) | Svoboda vede lid | Eugène Delacroix (1830), Louvre | 17. 11. Den svobody a demokracie |
-| 32 | 24. 11. | předložky místa (revision) | Sčítání lidu v Betlémě | Pieter Bruegel st. (1566), Královské muzeum Brusel | Advent od 30. 11. |
-| 33 | 1. 12. | offers / requests (revision) + vánoční slovní zásoba | Klanění tří králů | Sandro Botticelli (cca 1475), Uffizi | Advent |
-| 34 | 8. 12. | adjectives (revision) + barvy, tvary, nálady, světlo | Nativita v noci | Geertgen tot Sint Jans (cca 1490), Rijksmuseum | 5. 12. Mikuláš (po) |
-| 35 | 15. 12. | quantifiers + jídlo (revision) | Zátiší s krocanem nebo vánoční zátiší | Pieter Claesz nebo Clara Peeters | Vánoční stůl — pozn.: Peeters použita i v týdnu 8 |
-| 36 | 22. 12. | sekvence (revision) + zimní slovní zásoba | Zimní krajina s bruslíky | Pieter Bruegel st. (1565), KHM Vídeň | Vánoce / zima |
-
+| 29 | 3. 11. | quantifiers (revision) | Vanitas (zátiší s přesýpacími hodinami) | Maria van Oosterwijck (1668), Kunsthistorisches Museum Vídeň | 2. 11. Dušičky. Rozpracováno (`work/email/29-oosterwijck/`, review, chybí hook). Umělkyně, NL |
+| 30 | 10. 11. | be going to (revision) + oblečení / počasí | Sv. Martin a žebrák | El Greco (1597–99), National Gallery of Art Washington | 11. 11. Sv. Martin. Rozpracováno (`work/email/30-el-greco/`, review, chybí hook) |
+| 31 | 17. 11. | **could / couldn't** (co šlo a nešlo dřív; navazuje na can z #4) | Svoboda vede lid | Eugène Delacroix (1830), Louvre | 17. 11. Den boje za svobodu a demokracii; hook: co jsme před rokem 1989 nemohli. Gramatika změněna 2026-10-27 z past simple (to bylo v #26) |
+| 32 | 24. 11. | **look + adjective / look like** (barvy, tvary, nálada) | The Ten Largest, No. 7, Adulthood | Hilma af Klint (1907) | První abstrakce v sérii, umělkyně, SE, public domain. Obrázek v `library/episodes/_unplaced-af-klint/`; ⚠️ brief s fakty tam není, při briefu ověřit znovu |
+| 33 | 1. 12. | **will** (předpověď: It will snow) | Noční sníh v Kambaře (z cyklu 53 stanic Tókaidó) | Utagawa Hiroshige (1833–34), dřevořez | Začátek adventu a zimy, předpověď počasí. Třetí dílo z Asie (po #4, #22) |
+| 34 | 8. 12. | **present perfect: just / already / yet** | Kolébka (Le Berceau) | Berthe Morisot (1872), Musée d'Orsay | Hook: „Už máte dárky? Ještě ne.“ Rozšiřuje present perfect z #27. Umělkyně, FR (čekala od 2026-07-28) |
+| 35 | 15. 12. | **too / enough** (moc cukru, málo času) | Kiss Me and You'll Kiss the 'Lasses (Making Preserves) | Lilly Martin Spencer (1856), Brooklyn Museum | Vánoční pečení, kuchyně. Umělkyně, USA. Public domain ověřeno 2026-10-27: https://brooklynmuseum.org/objects/1452. Too/enough původně u Eschera (autorská práva) |
+| 36 | 22. 12. | **first conditional** (If it snows, we'll…) | zimní ves s dětmi na saních (konkrétní obrázek vybrat při briefu) | Josef Lada | Vánoce, česká linka, navazuje na will z #33. ⚠️ NENÍ public domain (Lada † 1957, chráněno do konce 2027); Lenka bere riziko 2026-10-27 (jako u #19, #26) |
+| 37 | 29. 12. | **want to / hope to / plan to + infinitiv** (předsevzetí; kontrast s like + -ing z #10) | Nocturne in Black and Gold – The Falling Rocket (ohňostroj) | James McNeill Whistler (1875), Detroit Institute of Arts | Konec roku, Silvestr. Příběh: kritik Ruskin psal, že Whistler „chrstl lidem do tváře kbelík barvy“, Whistler ho zažaloval a vyhrál jeden farthing. ⚠️ Dílo i gramatika navrženy Claudem 2026-10-27, čeká na Lenčino potvrzení |
 ---
 
 ## Zdroje obrazů — stažení před renderem
@@ -125,15 +125,17 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 
 - **Escher — Relativita:** vyřazen z týdne 20 (2026-08-15) — nahrazen Janem Steenem (must/mustn't, první školní den). Escher zůstává dobrý materiál (enough/too, hravé "schody, co nedávají smysl"), ale potřebuje nový termín — zatím nepřiřazen. Autorská práva stále k ověření před použitím (Escherova pozůstalost aktivně spravovaná, možná nutný jen odkaz/embed místo staženého souboru).
 - **Zhang Zeduan — Podél řeky o svátku Čching-ming (quantifiers):** vyřazen z týdne 21 (2026-09-06) — ruční svitek 25 cm × 5 m nešel použít jako obrázek do newsletteru. Nahrazen epizodou o Colosseu/velariu (návaznost na Lenčin návrat z Říma). Stažený obraz v `library/episodes/_nepouzite-obrazy/zhang-zeduan-along-the-river-qingming-12th-c.jpg`, fakta v git historii `output/episodes/21-colosseum/` (dřív `21-zhang-zeduan`). Vyřazením padá jediný čínský díl roku 2026 — mimoevropská tradice zůstává jen Japonsko (#4) a Korea (#22). Dobrý materiál pro quantifiers nebo "a lot of / a few" v příštím ročníku; jako plochý formát ale potřebuje výřez, ne celý svitek.
-- **Týden 28** (quantifiers – Dušičky, říjen): Vybrat zátiší s dušičkovým nebo podzimním námětem — stále k doplnění.
-- **Týden 34**: Clara Peeters se opakuje (použita i v týdnu 8). Zvážit střídání s Pieter Claesz.
+- ~~Týden 28 (quantifiers – Dušičky)~~ → vyřešeno, #29 (3. 11.) Maria van Oosterwijck, Vanitas.
+- ~~Týden 34 Peeters opakování~~ → vyřešeno 2026-10-27, vánoční stůl nahrazen Lilly Martin Spencer (#35).
+- **Leden 2027 — Klanění tří králů** (Botticelli, cca 1475, Uffizi; Lenka 2026-10-27): náboženská témata ano, pojatá nedogmaticky. Klanění se hodí k Třem králům (út 5. 1. 2027), kolem Vánoc je Lada. Nativita v noci (Geertgen tot Sint Jans) zůstává jako materiál na příští Vánoce. Zařadit při curriculu na leden–červen 2027.
+- **Na rok 2027 zbývá z gramatiky:** trpný rod (was painted by), vztažné věty (who / which / that), druhý kondicionál, wish.
 - **Berthe Morisot — Kolébka + Gustav Klimt — Mateřství (téma mateřství/rodiny):** znovu otevřeno 2026-07-28 — plánováno na týden 15, ale vyměněno za Bruegel/Homer (nesedělo k real-life hooku dané epizody). Oba obrazy zůstávají dobrý materiál, hledat vhodnější týden/hook (např. epizoda přímo o rodičovství, ne o dětské nostalgii).
 - **Bruegel v plánu potřetí:** týden 15 (Children's Games) přidán 2026-07-28 vedle už existujících týdnů 23 a 27. Zvážit v některém příštím vydání nahrazení jednoho z těchto tří (ideálně týden 15 nebo 23) jiným umělcem, přednostně ženou — vyrovná se tím i ženské zastoupení (aktuálně 9 z 35 týdnů po odebrání Morisot z týdne 15).
 - ~~Týden 13 (should/shouldn't – galerie)~~ → vyřešeno, týden 14 (21. 7.), Zoffany — Tribuna degli Uffizi.
 - ~~Týden 16 Caravaggio repeat (vinobraní)~~ → vyřešeno, týden 23 (22. 9.) nahrazen van Goghem — Caravaggio se tak v roce 2026 objevuje jen jednou (týden 1).
 - **Rembrandt — Mojžíš rozbíjí desky Desatera (have to/must/mustn't):** vyřazeno z týdne 16 (2026-08-04) — náboženský kontext nesedí k cílovce. Materiál v `output/episodes/` nahrazen, samotný nápad na must/mustn't se přesouvá na Jana Steena (viz níže).
 - ~~Jan Steen — Škola pro chlapce a dívky (must/mustn't, školní pravidla)~~ → vyřešeno 2026-08-15, týden 20 (1. 9., první školní den), nahrazuje Eschera.
-- **Hilma af Klint — The Ten Largest, No. 7 (adjectives: barvy, tvary, nálada):** vyřazena z týdne 18 (2026-08-15) — nahrazena Rivièrem (Odysseus a Argos, dvojitý hook na jmeniny Heleny + Nolanovu Odysseu v kinech). Fakta i obrázek už hotové a ověřené, viz `output/episodes/_unplaced-af-klint/brief.md` — zatím bez přiřazeného termínu, dobrý materiál pro "adjectives" nebo podobnou vizuální/náladovou gramatiku.
+- **Hilma af Klint — zařazena 2026-10-27 do #32 (24. 11.).** Původně The Ten Largest, No. 7 (adjectives: barvy, tvary, nálada): vyřazena z týdne 18 (2026-08-15) — nahrazena Rivièrem (Odysseus a Argos, dvojitý hook na jmeniny Heleny + Nolanovu Odysseu v kinech). Fakta i obrázek už hotové a ověřené, viz `output/episodes/_unplaced-af-klint/brief.md` — zatím bez přiřazeného termínu, dobrý materiál pro "adjectives" nebo podobnou vizuální/náladovou gramatiku.
 
 **Poznámka k procesu (2026-07-28):** Curriculum je tentativní plán, ne závazný — průběžné výměny děl/umělců podle toho, co skutečně sedí k real-life hooku dané epizody, jsou v pořádku. Bilance stylů/období/pohlaví/národností se kontroluje při quarterly review, ne po každé jednotlivé epizodě.
 
@@ -163,6 +165,8 @@ Všechna díla jsou public domain. Stahovat v nejvyšším dostupném rozlišen�
 ---
 
 ## Ženy-umělkyně v plánu
+
+**Stav 2026-10-27 (vydané a schválené díly #1–#37):** Vigée Le Brun (#5), Cassatt (#6), Peeters (#8), Sher-Gil (#16), Kahlo (#26), Oosterwijck (#29), af Klint (#32), Morisot (#34), Lilly Martin Spencer (#35) = 9 z 37 ≈ 24 %. Národnosti listopadu–prosince: NL, ES, FR, SE, JP, FR, USA, CZ, USA. Starší výpočet níže je podle původního plánu.
 
 Týdny: 5 (Vigée Le Brun), 6 (Cassatt), 7 (Morisot), 8 (Peeters), 11 (Gentileschi), 16 (Amrita Sher-Gil), 26 (Kahlo), 34 (Peeters volitelně)
 = 8 z 35 týdnů ≈ 23 % (2026-08-24: týden 19 přehozen z Cassatt na Wayne Thiebauda — Cassatt už byla v týdnu 6, nahrazena mužským malířem na Lenčino přání, ženské zastoupení tím kleslo o jedno místo; týden 18 měl být Hilma af Klint, ale 2026-08-15 nahrazena Rivièrem — af Klint zůstává nepřiřazená, viz Otevřené body; dosazení af Klint zpět do plánu by ženské zastoupení vrátilo na 9)
