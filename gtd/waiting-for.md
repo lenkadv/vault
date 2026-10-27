@@ -13,6 +13,8 @@ sort by due
 ---
 
 ## Čeká na datum
+- [ ] Pozastavit FB skupinu MABO (rozlučka visí od 27. 10.) 📅 2026-11-03
+    - Kontext: archivace v rozhraní není, jen „Pozastavit skupinu“; postup v `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`.
 
 - [ ] Smazat zálohu staging.lcenglish.cz na Disku, pokud živému webu nic nechybí 📅 2027-01-27
     - Kontext (261027): složka `G:\Můj disk\Zálohy webů\staging.lcenglish.cz 261027` (databáze + soubory, 600 MB). Staging smazán 261027, starší stav webu před přenosem 24. 10.; mazat finálně jen Lenka. Detail [[kontext-ukolu#Weby mimo WordPress]].

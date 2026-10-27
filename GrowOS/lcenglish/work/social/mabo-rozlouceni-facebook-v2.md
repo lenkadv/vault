@@ -6,7 +6,7 @@ platform: facebook
 intent: story
 note: ""
 id: ukdp9dfnq8
-status: approved
+status: published
 business: lcenglish
 channel: social
 created: 2026-10-26
@@ -41,5 +41,6 @@ Místo Substacku stránka s dárkem, která vede do Dripu (uvítací e-maily a v
 1. Příspěvek zveřejnit ve skupině a připnout (… u příspěvku → Připnout / Doporučené).
 2. Nechat ho týden viset, ať ho členové uvidí.
 3. Ve skupině kliknout na … (Více) pod úvodní fotkou → Archivovat skupinu → potvrdit. Pokud tam volba není: vlevo Spravovat skupinu → Nastavení skupiny.
+   - 261027: Lenka v rozhraní našla jen „Pozastavit skupinu“, archivaci ne. Domněnka (neověřeno): Facebook archivaci nahradil pozastavením, které funguje podobně: nikdo nepřidá příspěvek ani komentář, obsah zůstane, jde kdykoli obnovit. Použít pozastavení.
 4. Archivovaná skupina: členové zůstávají a obsah si přečtou, nikdo nepřidá příspěvek, komentář ani reakci, noví členové nepřibývají. Jde vrátit stejným menu (Zrušit archivaci).
 5. Smazání skupiny by znamenalo ručně odebrat všechny členy a pak skupinu opustit; nedoporučeno, archivace stačí.
