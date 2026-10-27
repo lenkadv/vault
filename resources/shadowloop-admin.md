@@ -58,6 +58,17 @@ Sepsáno podle Firebase a vyzkoušeno na zkušebním balíčku `TEST-generator-p
 
 **Zkušební balíček 261025:** po ověření celý smazán (Lenka 261025 19:00; záznam, soubory ve Storage, položky v účtech; ověřeno).
 
+## Japonské balíčky ze staré verze (vráceno 261027)
+
+Ve staré verzi aplikace z roku 2021 (před Firebase, kopie na hostingu lcenglish.cz ve složce `shadowloop.lcenglish.cz`, záloha `G:\Můj disk\Zálohy webů\shadowloop-stara-kopie 261027\shadowloop-stara-kopie-261027.zip`) bylo 195 balíčků. Při porovnání 261027 chyběly ve Firebase jen japonské, ostatní skupiny (10xEnglish, HELE, Nepravidelná slovesa, TOP25 = 3x25) tam jsou celé.
+
+- **Nahráno 261027 (Lenka „ano, nahraj“):** 33 balíčků, všechny `premium: true`. Skupina **Japonština** „27 Lesson“ až „41 Vocab“ (15) a skupina **JapanesePod** „JPod S4-15“ až „JPod S4-32“ (18). Japonština 25 a 26 ve Firebase už byla.
+- **Kdo je vidí:** jen účet `lnk.dvorakova@gmail.com`. Do jeho `premiumDecks` přidáno všech 35 japonských (i 25 a 26, které v něm předtím nebyly), účet má teď 140 balíčků. Žádnému produktu balíčky nepatří.
+- **Pořadí (`props.json`):** JapanesePod `{"shuffle": false}` (rozhovor v pevném pořadí, poslední položka je celá lekce `S4LNN.mp3`), převzato ze staré verze. Japonština `{"shuffle": true}`: jsou to samostatné věty, stará verze `props.json` neměla a bez něj míchala; stejně je nastavený i balíček 25 ve Firebase.
+- **Jak:** skriptem přes Firebase CLI přihlášení (Storage + Firestore REST), soubor `<složka>.csv` přejmenován na `deck.csv`, v 35 Vocab opraven název nahrávky `11 .mp3` → `11.mp3`. Ověřeno v aplikaci na zkušebním účtu (dočasně přidané JPod S4-16 a 35 Vocab, pak zase odebrané): obrázek, japonská věta, anglický překlad, zvuk, počet položek (11 a 25) sedí.
+- **ID a názvy:** list „Japonština“ v tabulce [Shadowloop Firebase user friendly názvy balíčků](https://docs.google.com/spreadsheets/d/1qopm0vZDWD8BJ79pxAMq7v6dUGOwy70G2adf83fGlic/edit).
+- Překlad v japonských balíčcích je anglický (sloupec „česky“ obsahuje angličtinu), tak to bylo i ve staré verzi.
+
 ## Generátor balíčků (funkce `generator`, zmapováno 261025)
 
 Lenka 261025: generátor je nástroj na výrobu balíčků do Shadowloopu, potřebujeme ho. Kód není v repozitáři `kokolem/shadowloop`, žije jen ve Firebase.
