@@ -13,6 +13,8 @@ Předchozí stav 261024 (weekly review): Staví se komerční pilot (varianta B,
 
 ## Projektová mapa (261027)
 
+**Dashboard:** https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j (soukromý; kroky, termíny, Štěpánka, rozhodnutí; Lenka tam odškrtává dílčí kroky a píše poznámky). Při každé změně mapy nebo dokončení kroku ho Claude přepíše přes ArtifactData (kolekce `kroky`, `rozhodnuti`, `milniky`, doc `dash/stav`); zdroj pravdy zůstává tenhle soubor.
+
 Co je důležité a co počká. Schválila Lenka 261027 s úpravami: „co dostane účastnice po zaplacení“ patří před start prodeje a hned po fakturaci a Metě je nejdůležitější reklama. Při změně priorit mapu přepsat, ne přidávat další.
 
 **Větve:** (1) cesta zájemkyně: reklama → stránka B3 → konzultace nebo objednávka → platba → uvítání; (2) Meta a reklama; (3) kurz: setkání, technika, záznamy a odkazy pro účastnice; (4) inspirace a výzkum: Danny Iny, případy z praxe, videoreklama.
