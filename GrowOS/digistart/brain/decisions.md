@@ -13,13 +13,19 @@ is all it needs._
 ## Open decisions (kept current; review at the start of every DigiStart session)
 Each line says who decides. When a line is decided, write it as a dated entry below, fill the `[PLACEHOLDER]` in the brain file that holds it, and delete the line here. Last updated 2026-10-18 (Facebook page state).
 
-2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: originally by 30 Oct; shifted 2026-10-24 (ads start around 9 Nov, about 14 days before the course starts 23 Nov).
+2. **Content of the four meetings.** Decided: the first two do not include building a website; participants choose the topics of meetings 3 and 4, and a website may be one of them (2026-10-28, entry below). Open: what the first two contain. Lenka. Campaign plan: originally by 30 Oct; shifted 2026-10-24 (ads start around 9 Nov, about 14 days before the course starts 23 Nov).
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
 4. **Pixel, spending cap and terms.** Since 2026-10-28 the operator is GNOSTIKA (entry below); its DigiStart portfolio with the Facebook page and an ad account runs. Still open: pixel, spending cap (Lenka + Štěpánka), updated GNOSTIKA terms. Only Lenka confirms ids for setup.md.
 6. **Štěpánka's voice profile.** Only when a text goes out in her name. Ask her for the profile file from the test run then (check for private details first).
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 
-Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
+Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), the exact price after the pilot (decided after the pilot; that it will be higher is settled, entry 2026-10-28).
+
+## 2026-10-28: meetings 3–4 chosen by the group; price after the pilot higher
+**Decided (Lenka, in the chat 21:58, "Ano, zapiš", confirming her own wording in the B4 sales page):**
+- **Participants choose the content of meetings 3 and 4.** Examples the page may give: AI remakes an outdated website, prepares a month of social posts from her notes, sorts her mail every morning. So a website **may** be a topic of meetings 3–4, if the group picks it. The first two meetings still do not include a website.
+- **The price of the next run will be higher than the pilot price.** The page may say "Pilotní cena je výhodná právě proto, že jde o první běh, příště bude vyšší." The exact amount is not decided and is not stated.
+**Why:** Lenka wrote both into B4 (háček „Je to pilot“, rytmus kurzu, FAQ). It is a real reason for the pilot price, not invented urgency, and it lets the group shape the course.
 
 ## 2026-10-28: selling through GNOSTIKA's SimpleShop
 **Decided (Lenka with Štěpánka, and Lenka in the chat 19:19):**

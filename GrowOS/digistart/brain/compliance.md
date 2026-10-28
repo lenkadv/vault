@@ -16,7 +16,8 @@
 - Any claim that states or suggests the reader's age ("40+", "ve vašem věku", "vrstevnice", "svého věku"). Why: Lenka's rule for ads (brief, 2026-10-14), and the plan's reading of Meta policy. Meta policy itself is **unchecked**; `ads-meta-compliance` is to check every ad.
 - Testimonials, results or numbers that do not exist. No participant has finished DigiStart. The feedback of Štěpánka Uličná from the test run may be used anonymously only, and she is also the second lecturer, so it must not be passed off as a participant's words. Lenka said on 2026-10-14 that Štěpánka agrees to be quoted. Whether with her name or anonymously is not said: confirm the wording when it is first used.
 - A fixed start date, while the date is open.
-- That participants will build and publish a website, until the content of the meetings includes it. That Lenka and Štěpánka did it is true and may be said.
+- That every participant will build and publish a website. Since 2026-10-28 it may be said that a website can be a topic of meetings 3–4 if the participants choose it (Lenka). That Lenka and Štěpánka did it is true and may be said.
+- An amount or a date for the higher price after the pilot. "Příště bude vyšší" is true and may be said (Lenka, 2026-10-28); it must not be turned into a countdown or a deadline.
 - The Claude Pro price as a fixed koruna amount. Required plan confirmed (Lenka, 2026-10-17); say "podle ceníku Anthropicu 20 USD měsíčně", paid to Anthropic.
 - Anything about competitors' courses that is not on their own pages.
 - Hiding the price behind a consultation. The price is stated openly.

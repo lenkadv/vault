@@ -8,7 +8,7 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
 ## What we sell
 - **DigiStart pilot** — **15 000 Kč** one-off, pilot price — women who already tried AI and want it to do real work; the core group is solo businesswomen and sole traders (lecturers, coaches, advisers), but the wording does not narrow it.
   - 4 live meetings, one per week. A fifth, optional and consultative, may follow later.
-  - The first two meetings are fixed and do **not** include building a website (Lenka, 2026-10-14). The next ones follow the participants' needs. Whether any later meeting covers it is open.
+  - The first two meetings are fixed and do **not** include building a website (Lenka, 2026-10-14). Participants choose the topics of meetings 3 and 4; a website (AI remakes an outdated one) may be one of them, as may a month of social posts or daily mail sorting (Lenka, 2026-10-28).
   - Minimum 10 participants. 20 is a flexible upper limit: Lenka would not turn women away if more wanted to join. The page may say: "Kurz otevřeme, když se přihlásí alespoň deset účastnic." (Lenka, 2026-10-17). Sign-up stays open until the course starts; only the ads stop around mid-November.
   - The variant: B. Participants are guided through building their own AI system in Claude. They are not handed a finished package to click through alone (Lenka, 2026-10-14).
   - **Dates: four Mondays 17:00–20:00, 23 Nov, 30 Nov, 7 Dec, 14 Dec 2026** (Lenka and Štěpánka, 2026-10-20). Fifth optional consultative meeting after Christmas.
@@ -25,6 +25,7 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
 3. Optional fifth meeting, consultative, later. In the price if it is held (Lenka, 2026-10-14). [PLACEHOLDER: whether it will be held.]
 
 Path of the woman: Facebook ad → page → book a consultation, or buy straight away.
+The next run after the pilot will cost more than 15 000 Kč; the amount is not decided (Lenka, 2026-10-28).
 [PLACEHOLDER: other variants, a free first step, and anything after the pilot such as an evergreen version are not decided.]
 
 ## The hard facts (never contradict these)
@@ -59,14 +60,15 @@ In Lenka's words (setup chat, 2026-10-14), shortened, not word for word:
 Lenka said she has **not seen** other one-day courses, so what she says about them is her belief, not a checked fact. Marketing must not describe competitors as "nalejvárna" or say what their courses lack. The research found that Umeligence and Digitari sell one-day courses (see [[competitors]], **unchecked**).
 
 The message that comes first (Lenka, 2026-10-14, see [[decisions]]): not only "use AI for your daily work", which people already picture, but a level above: AI can really work for the small business owner. A website is one example, and it is something the two lecturers did: they built a page with AI and put it online. It is a real pain for solo businesswomen: sites that look poor, are hard to change, and the owner does not know what to write. Lenka does not want the offer to dwell on websites.
-Open: whether the course itself includes building one. Until the content of the meetings says so, the website is only an example of what AI can do.
+Decided 2026-10-28: a website may be a topic of meetings 3–4 if the participants choose it ("AI vám předělá zastaralý web"). It is one option among others, not a promise of the course.
 
 ## What we will not say
 - The reader's age, or anything that suggests it (Meta rule): not "40+", not "ve vašem věku". — **confirmed**
 - A fixed start date, until it is decided. — **confirmed**
 - Invented facts, numbers, results, references or testimonials. — **confirmed**
 - The Claude Pro price as a koruna amount or as fixed forever: say "podle ceníku Anthropicu 20 USD měsíčně" and that it can change. — (2026-10-17)
-- That participants will build and publish a website, until the content of the meetings includes it. That the two lecturers did it is fine to say. — **confirmed** (Lenka, 2026-10-14)
+- That every participant will build and publish a website. It may be said that a website can be a topic of meetings 3–4 if the group chooses it (Lenka, 2026-10-28). That the two lecturers did it is fine to say. — **confirmed** (Lenka, 2026-10-14, 2026-10-28)
+- The exact price of the next run. "Příště bude vyšší" may be said; no amount, no deadline pressure. — **confirmed** (Lenka, 2026-10-28)
 - Anything about competitors' courses that Lenka or the research has not seen on their own pages. — GrowOS rule, **to confirm** with Lenka
 - Big, puffed-up words and marketing: "revoluční", "zázračné" and the like. "Nabubřelý marketing k nám nesedí." — **confirmed** (Lenka, 2026-10-14). It is about tone, not a fixed list of banned words.
 - Hiding the price until a consultation. The price is shown before, openly. Lenka and Štěpánka do not want the common sales tactic "book a call to find out the price": it may bring many bookings and few buyers, or put women off so they never book. It does not fit them. — **confirmed** (Lenka, 2026-10-14)
