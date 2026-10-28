@@ -119,7 +119,7 @@ the answer you wrote is never used.
 
 ### Other tools
 - Consultation booking: TidyCal, Štěpánka's own account (ulicna@gnostika.cz). **Booking link: https://tidycal.com/ulicna/digistart** (Lenka 2026-10-24; the older slug /ulicna/konzultace now redirects). Every consultation button on every sales page variant (B2, B3 and any new one) links here directly, from the first draft.
-- Selling, invoicing: GNOSTIKA (Fakturoid), fallback Lenka's FAPI, decision due 21 October 2026. Destination id: [PLACEHOLDER].
+- Selling, invoicing: **SimpleShop of GNOSTIKA CONSULTING, s.r.o.** (decided by Lenka and Štěpánka 2026-10-28; SimpleShop issues the invoices itself, no Fakturoid). Product DigiStart, product id 160078 (edit: https://app.simpleshop.cz/produkty/crud/160078/). Order form: https://form.simpleshop.cz/V5KQb/buy/ ; product detail with description: https://form.simpleshop.cz/V5KQb/ . Payments: card via Stripe (still to be activated), bank transfer KB (account to be checked by Lenka). Contact on the form: ulicna@gnostika.cz. Settings are changed only after Lenka approves a queue item (`work/pages/digistart-simpleshop-formular.md`). Thank-you page after payment: not built yet.
 
 ## How far GrowOS may go
 

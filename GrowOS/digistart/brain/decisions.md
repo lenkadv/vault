@@ -15,11 +15,20 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 2. **Content of the four meetings.** Decided: the first two do not include building a website. Open: what they do contain, and whether a later meeting covers a website. Lenka. Campaign plan: originally by 30 Oct; shifted 2026-10-24 (ads start around 9 Nov, about 14 days before the course starts 23 Nov).
 3. **Fifth meeting.** Tentative; decided as the course goes. In the price if held.
-4. **Pixel, ad account, spending cap, operator and terms on the page.** None exist yet. The Facebook page exists (2026-10-17, on Lenka's profile, outside the portfolio); the portfolio DigiStart is restricted by Meta and Meta never answered; on 2026-10-24 Lenka gave up on it and the fallback is running: Štěpánka creates a DigiStart portfolio under GNOSTIKA (instructions shared 2026-10-24). Detail: vault `resources/digistart-facebook-postup.md`. Setting them up is part of the preparation plan. The domain digistart.cz exists (parked at Czechia). Only Lenka confirms ids for setup.md.
+4. **Pixel, spending cap and terms.** Since 2026-10-28 the operator is GNOSTIKA (entry below); its DigiStart portfolio with the Facebook page and an ad account runs. Still open: pixel, spending cap (Lenka + Štěpánka), updated GNOSTIKA terms. Only Lenka confirms ids for setup.md.
 6. **Štěpánka's voice profile.** Only when a text goes out in her name. Ask her for the profile file from the test run then (check for private details first).
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), price after the pilot (decided after the pilot).
+
+## 2026-10-28: selling through GNOSTIKA's SimpleShop
+**Decided (Lenka with Štěpánka, and Lenka in the chat 19:19):**
+- Ads and sales run through GNOSTIKA; the order form is GNOSTIKA's SimpleShop, which also issues the invoices (Štěpánka sorts it with her accountant). No Fakturoid, no platic.cz.
+- The form does not mention the ten-participant minimum: when to open the course is the lecturers' call, ten is a working figure. No "money back if the course does not open" sentence on the form either.
+- No right of withdrawal: it is a live course. To be written into GNOSTIKA's terms, which must be updated (contact ulicna@gnostika.cz, Stripe as the card gateway).
+- Card payments via Stripe (to be activated), bank transfer KB for now. Contact ulicna@gnostika.cz. No cap on places for now.
+- After payment the buyer is redirected to a DigiStart thank-you page, still to be built.
+**Why:** the DigiStart Meta portfolio runs under GNOSTIKA, so selling there keeps ads, payments and invoices in one company.
 
 ## 2026-10-20: start date and rhythm
 **Decided (Lenka and Štěpánka, agreed in person, recorded in vault `projects/digistart.md` 2026-10-20):** four Mondays 17:00–20:00, 23 Nov, 30 Nov, 7 Dec and 14 Dec 2026. The fifth, optional consultative meeting comes after Christmas, on purpose with a gap so participants can try things first. Written into the B3 sales page concept on 2026-10-21.
