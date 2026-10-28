@@ -39,3 +39,4 @@ You can edit any of this by hand — it is your file. Flip a `fresh` idea to
 
 - [PLACEHOLDER: an idea — a post, an offer, a subject line, an angle, a question worth answering] — channel: social · status: fresh · added: 2026-01-01
 - [PLACEHOLDER: a bigger swing — a launch or new offer, and what would have to be true for it to be worth doing] — channel: strategy · status: fresh · added: 2026-01-01
+- Příběhy ze života s Claudem v delší verzi pro promo a reklamu: úklid disku (soubory s nic neříkajícími názvy, programy od Windows, zapomenutá hra, strach něco smazat, 36 → 572 GB volných), weby, ranní svodka. Zdroj vault `resources/pripady-z-praxe-claude.md`; krátká verze je v uvítacím mailu `work/course/digistart-proc-claude.md` (Lenka 2026-10-28) — channel: ads · status: fresh · added: 2026-10-28

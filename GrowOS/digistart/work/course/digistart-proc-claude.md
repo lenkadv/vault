@@ -13,7 +13,7 @@ kanban_order: V0
 
 # Proč DigiStart běží na Claudu
 
-**Verze 2 (28. 10. odpoledne), přepsaná podle Lenčiných poznámek.** První verze s jejími poznámkami +++ je v gitu (commit „Lenčina verze s poznámkami“). Co se změnilo: otvírá síla (vyčištěný disk, weby), ne třídění pošty; asistent místo chatu; místo argumentu „za půl roku“ to, že všechno v kurzu je vyzkoušené; aplikace v počítači místo nastavení paměti v chatu.
+**Verze 3 (28. 10. večer).** Lenčiny přepisy ve verzi 2 (začátek o disku, odstavec o webu, ChatGPT) zůstávají; podle její poznámky +++ dopsán úklid disku méně technicky a odstavec o webech opravený podle faktů (viz Notes). Starší verze s poznámkami jsou v gitu.
 
 ## A) Uvítací text pro účastnice (e-mail po zaplacení, případně scénář krátkého videa)
 
@@ -21,9 +21,13 @@ kanban_order: V0
 
 Dobrý den,
 
-před pár dny mi v počítači svítil disk červeně. Z 931 GB zbývalo volných 36. Claude za jeden den prošel 793 tisíc souborů, porovnal je s Google Diskem a našel duplicity i zapomenutou kopii z roku 2021. Já jsem jen schvalovala, co půjde pryč, bez mého souhlasu nesmazal nic. Večer byla volná víc než polovina disku.
+před pár dny mi v počítači svítila červená výstraha: z 931 GB na disku zbývalo volných jen 36. Vypadalo to, že mám problém a možná budu muset kupovat nový počítač. Pak jsem zaúkolovala svého AI asistenta.
 
-Ten samý týden jsme spolu předělaly moje weby. Stránka, na kterou se čekalo tři vteřiny, dnes odpoví za desetinu vteřiny. A Claude nakreslil mapu webu se 133 stránkami, takže konečně vidím, kam co vede a kde co chybí.
+Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Kopie kopií, programy, které si Windows nainstalovaly samy, a hra, kterou jsem si kdysi stáhla a dávno na ni zapomněla. Smazat něco, co nepoznám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?
+
+Claude prošel všech 793 tisíc souborů za jeden den. U každé věci mi vysvětlil, co to je a jestli ji ještě potřebuju. Já jsem jen schvalovala, co půjde pryč, bez mého souhlasu nesmazal nic. Večer byla volná víc než polovina disku.
+
+Ten samý týden jsme spolu předělaly moje weby. Jeden byl bumbrlíček, který se načítal několik vteřin (to znamená celou věčnost!), dnes odpoví za desetinu vteřiny. K druhému, který má 133 stránek, mi Claude nakreslil mapu, takže konečně vidím, kde co je a kam co vede. (A jen tak mimochodem opravil nefunkční odkazy v mých online kurzech.)
 
 Tohle je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, ale asistent, který pracuje přímo ve vašem počítači: s vašimi soubory, poštou, kalendářem i weby.
 
@@ -31,7 +35,7 @@ Tohle je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, 
 * **Pamatuje si vaši práci.** Co o vás ví, má uložené ve vašich dokumentech v počítači. Nemusíte mu pokaždé vysvětlovat, kdo jste, co prodáváte a jak píšete, ani znovu přikládat soubory. Po dobrém výcviku na vás zbyde hlavně rozhodování. Zbytek připraví on a vy jen schválíte.
 * **Všechno, co vás naučíme, jsme v něm samy vyzkoušely.** Příklady výš nejsou z reklamy, je to moje práce z posledních dnů. Neukazujeme nic, co jsme nezkusily na vlastních věcech.
 
-**A co když máte ráda ChatGPT?** Na rychlou otázku si ho klidně nechte. Kdo v něm má hodně odpracováno a chce u něj zůstat, může zkusit postupy z kurzu prošlápnout i tam, možná to půjde. My ale (a nejsme samy) považujeme pro tuhle práci za lepší Claude, a proto jsou ukázky i postupy v kurzu pro něj.
+Oblíbila jste si ChatGPT tak, že si už bez něj neumíte život představit? Nebudeme vás nutit do srdcervoucího rozchodu, klidně si ho nechte a používejte ho dál tak, jak jste zvyklá. Pro skutečnou práci, jak vás to budeme učit v kurzu, se (nejen) nám víc osvědčil Claude, proto máme návody a postupy připravené pro něj. 
 
 **Placený plán.** Budete potřebovat Claude Pro (nebo vyšší plán). Platí se přímo firmě Anthropic, ne nám, a podle jejího ceníku stojí 20 USD měsíčně (cena se může změnit).
 
@@ -55,7 +59,8 @@ Protože v kurzu si s AI nebudete jen povídat. Claude pracuje přímo ve vašem
 1. **A** jako první e-mail po zaplacení, nebo jako úvod materiálu „Připravte se“. Navazuje na úkol „Navrhnout s Claudem, co účastnice dostane po zaplacení“ v `projects/digistart.md`.
 2. **A** se dá namluvit jako krátké video: úvodní příběh, pak sdílená obrazovka se stažením aplikace a mikrofonem.
 3. **B** jako nová otázka ve FAQ stránky B3, vedle otázky „Kolik mě to bude stát kromě kurzu?“.
-4. Ranní svodka z pošty (z verze 1) se hodí jinam, např. jako jeden z příkladů v reklamě nebo na prvním setkání, ne jako otvírák.
+4. **Delší verze příběhů ze života** (úklid disku podle Lenčiny poznámky: soubory s nic neříkajícími názvy, programy, které si Windows nainstalovaly samy, zapomenutá hra, strach něco smazat; weby; svodka) se hodí do promo materiálů a reklamy, uvítací mail je pro platící zákaznice a má zůstat krátký (Lenka 28. 10.). Zapsáno v `brain/ideas.md`.
+5. Ranní svodka z pošty (z verze 1) se hodí jinam, např. jako jeden z příkladů v reklamě nebo na prvním setkání, ne jako otvírák.
 
 ## Notes
 
@@ -66,5 +71,7 @@ Protože v kurzu si s AI nebudete jen povídat. Claude pracuje přímo ve vašem
 - „Všechno jsme samy vyzkoušely“: Lenka na svých věcech, Štěpánka prošla zkušební průchod balíčkem (zpětná vazba 11. 10.). Pokud by to Štěpánka viděla jinak, upravit.
 - „(a nejsme samy)“ = Lenčino „(nejen) my“; nejmenuji Dannyho Inyho.
 - Vynecháno podle Lenky: nastavení paměti (v aplikaci leží „paměť“ v dokumentech), limity bezplatné verze, odstavec „nic jste nerozbila“.
+- **Verze 3, odstavec o webech (oprava faktů v Lenčině přepisu):** „bumbrlíček“ s několika vteřinami je lenkadvorakova.cz (odpověď serveru asi 3 s → 0,1 s), 133 stránek a mapa jsou lcenglish.cz. Lenčina verze je spojila do jednoho webu, proto „moje weby… Jeden… K druhému…“. „O den později“ nesedí (weby 24.–26. 10., disk 26. 10.), proto „Ten samý týden“. „Opravil nefunkční odkazy“ jsem nenašla u webu, ale v online kurzech ve FreshLearn (`projects/lcenglish-freshlearn-revize.md`, 25. 10., 17 odkazů ve 13 lekcích), proto „v mých online kurzech“. Místo „/ještě něco/“ nic dalšího nepřidávám.
+- **Verze 3, odstavec o disku:** „dva roky“, programy od Windows, zapomenutá hra a strach smazat neznámou věc jsou z Lenčiny poznámky. Že byla mezi odinstalovanými programy i hra, sedí s `resources/pripady-z-praxe-claude.md` („hry, vývojové nástroje, staré editory“). „U každé věci mi vysvětlil, co to je“ je moje shrnutí „prošli jsme po položkách“, Lenka potvrdí. Google Disk a kopie z roku 2021 vypuštěné (méně technicky).
 - Rod: „AI“ = ona, „Claude“ / „asistent“ = on. Účastnice v ženském rodě, „vy“ s malým v.
 - Placeholders left for the owner: 1 (návod na stažení a instalaci aplikace).
