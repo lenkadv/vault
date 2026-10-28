@@ -7,7 +7,9 @@
 
 ## Aktuální stav
 
-261028 večer: **Rozhodnuto se Štěpánkou: reklamu i prodej dělá GNOSTIKA, prodej přes SimpleShop GNOSTIKY, faktury vystavuje SimpleShop.** Meta je odblokovaná: portfolio DigiStart (za GNOSTIKU) běží, je k němu přiřazená FB stránka DigiStart i nový reklamní účet. V SimpleShopu GNOSTIKY Lenka založila první produkt DigiStart; teď se ladí prodejní formulář do stylu DigiStartu (samostatné vlákno), pak obchodní podmínky, testovací objednávka a tlačítko objednávky na B3. Další v pořadí mapy: pixel a reklama (kreativa a texty). Vedle B3 čeká na schválení text varianty **B4** (inspirace Danny Iny, `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`).
+261028 21:00: **Objednávkový formulář DigiStartu v SimpleShopu GNOSTIKY je nastavený** (https://form.simpleshop.cz/V5KQb/buy/, detail s popisem https://form.simpleshop.cz/V5KQb/): 15 000 Kč, karta (Stripe) a převod (KB), barvy a texty DigiStartu, faktury vystavuje SimpleShop. Reklamu i prodej dělá GNOSTIKA; portfolio DigiStart s FB stránkou a reklamním účtem běží. **Další krok: obchodní podmínky GNOSTIKY** (kontakt ulicna@gnostika.cz, Stripe, bez odstoupení u živého kurzu), pak zprovoznit Stripe, děkovací stránka, tlačítko objednávky na B3 a testovací objednávka. Další v pořadí mapy: pixel a reklama. Vedle B3 čeká na schválení text varianty **B4** (`GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`).
+
+Předchozí stav 261028 večer: rozhodnuto se Štěpánkou, prodej přes SimpleShop GNOSTIKY; Lenka založila produkt DigiStart.
 
 Předchozí stav 261027: projektová mapa hotová (oddíl níž); visí na tom, kdo prodává, a na Štěpánce (portfolio).
 
@@ -218,10 +220,17 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 
 **5. Fakturace a platba** (limit st 21. 10.)
 - [x] Rozhodnout se Štěpánkou, přes co GNOSTIKA prodává kurz ✅ 2026-10-28 — SimpleShop GNOSTIKY (reklama i prodej přes GNOSTIKU)
-- [ ] Vylepšit s Claudem prodejní formulář DigiStartu v SimpleShopu GNOSTIKY do stylu DigiStartu #next-action #online
-    - Kontext (Lenka 261028): produkt DigiStart v SimpleShopu GNOSTIKY založila Lenka (je tam přihlášená); 15 000 Kč, karta + převod, správná věta o tom, kdy se platí. Běží v samostatném vlákně. Faktury: SimpleShop má vlastní fakturaci, s Fakturoidem jen přes placený doplněk platic.cz (zjištěno 261028, viz Záznam); **rozhodnuto 261028: faktury vystavuje sám SimpleShop** (bez Fakturoidu a platic.cz).
-- [ ] Obchodní podmínky a ochrana osobních údajů GNOSTIKY (vrácení peněz při neotevření, bez garance, prodávající s IČ) — L s C (Š by nevěděla, co se tím myslí; Lenka 261017)
+- [x] Vylepšit s Claudem prodejní formulář DigiStartu v SimpleShopu GNOSTIKY ✅ 2026-10-28 — nastaveno, viz Záznam 261028 21:00
+- [ ] Upravit s Claudem obchodní podmínky GNOSTIKY pro DigiStart #next-action #online
+    - Kontext (Lenka 261028): kontakt GNOSTIKA ulicna@gnostika.cz (teď je tam lenka@publicspeaking.cz), platební brána Stripe (teď ThePay a PayPal), odstoupení u živého kurzu nebude možné, GDPR místo zákona 101/2000 Sb., prodávající GNOSTIKA s IČ. Dnešní PDF z roku 2022: https://storage-panda.vyfakturuj.cz/company/0/38/38797/op/obchodni-podminky-z-textoveho-pole.pdf (výchozí soubor v SimpleShopu GNOSTIKY). Rozbor v `GrowOS/digistart/work/pages/digistart-simpleshop-formular.md`.
+- [ ] Zprovoznit platby kartou přes Stripe v SimpleShopu GNOSTIKY #online
+- [ ] Ověřit účet pro bankovní převod (zatím KB) v SimpleShopu GNOSTIKY #online
+- [ ] Připravit s Claudem děkovací stránku DigiStartu po zaplacení (Leadpages) #online
+    - Kontext (Lenka 261028): po zaplacení kartou přesměrovat na vlastní děkovací stránku (vzhled B3, noindex, text z mailu po zaplacení, později pixel). Výstup přes frontu GrowOS; adresu pak doplnit v SimpleShopu (Ostatní → přesměrování po zaplacení).
+- [ ] Rozhodnout, kam povede tlačítko objednávky z B3: detail s popisem, nebo rovnou formulář #online
+    - Kontext (261028): popis kurzu ve SimpleShopu je na detailu https://form.simpleshop.cz/V5KQb/, samotný formulář https://form.simpleshop.cz/V5KQb/buy/ je bez popisu.
 - [ ] Testovací objednávka celou cestou — L
+    - Kontext (261028): kartou až po zprovoznění Stripe. Převodem zkontrolovat, kde se na stránce po objednání ukážou platební údaje a QR kód, a jestli mail po zaplacení obsahuje text (proměnná `productMailText` musí být v šabloně e-mailu, SimpleShop → Šablony).
 
 **6. Reklamy** (až bude účet a pixel; reklamy od 2. 11. do poloviny listopadu)
 - [ ] Výzkum reklam konkurence v Meta Ad Library (`ads-meta-research`) — C, jde už teď
@@ -263,6 +272,10 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Naplánovat harmonogram (min. 50 h, max. 25 účastníků/skupina) a vložit do Databáze nejpozději 7 dní před začátkem, kurz zveřejnit nejdřív 90 / nejpozději 30 dní před začátkem
 
 ## Záznam (nejnovější nahoře)
+
+**261028 20:45–20:55 — B4: Lenčiny komentáře zapracovány, koncept v Leadpages.** Kolo 2 textu: oddíl „tah“ stojí na živém setkání s pomocí na místě (ne na hlídání mezi setkáními), příběh s diskem v 1. osobě, nový bod o obsahu 3. a 4. setkání podle účastnic, háček „pilot“ přepsán (od 2023, cena příště vyšší, kurz na míru, čekáme zapojení), čtyři nové FAQ z Dannyho stránky. Koncept: https://leadpages.com/edit/t4oow6qi3394so3jl4jsy336 (nepublikovaný). K rozhodnutí: web jako téma setkání a „příště bude vyšší“ zatím nejsou v brainu (`compliance.md`, `decisions.md`).
+
+**261028 19:00–21:00 — Objednávkový formulář v SimpleShopu GNOSTIKY nastaven (samostatné vlákno v GrowOS).** Položka fronty `GrowOS/digistart/work/pages/digistart-simpleshop-formular.md` (id w6ypuhg9vi): návrh → Lenčiny úpravy (rod: u nákupu množné číslo/neutrálně, ne generické femininum; poučení `GrowOS/digistart/brain/lessons/2026-10-28-formular-rod-a-hlas.md`) → schváleno 20:46 → nastaveno a ověřeno na veřejném formuláři https://form.simpleshop.cz/V5KQb/buy/. Cena 15 000 Kč, platby karta (Stripe) a převod (KB), hotovost a dobírka vypnuté; jméno a příjmení povinné, firma, adresa, IČ, DIČ a telefon nepovinné; barvy z brand.md; popis, stránka po objednání a po uhrazení, povinný checkbox o placeném Claude, souhlas s obchodními podmínkami GNOSTIKY; skryto ve vyhledávačích. **Rozhodnutí Lenky 19:19:** deset účastnic na formulář nepatří (kdy kurz spustit, je jejich rozhodnutí); faktury v SimpleShopu OK (Štěpánka s účetní); obchodní podmínky upravit (kontakt GNOSTIKA, Stripe); Stripe zprovoznit, převod zatím KB a Lenka účet ověří; odstoupení nebude možné (živý kurz); kontakt ulicna@gnostika.cz; strop míst zatím ne; po zaplacení přesměrovat na děkovací stránku, tu vyrobit. Zjištěno: popis je na detailu (`/V5KQb/`), ne na formuláři; mail po zaplacení jen přes šablonu s `productMailText`; cena v řádku „15000 Kč“ bez mezery (chování SimpleShopu). Úkoly výš v oddílu 5.
 
 **261028 20:00 — Prodejní stránka B4 ve frontě (samostatné vlákno v GrowOS).** Nová varianta vedle B3 podle stavby prodejní stránky Agents Immersion Sprint (Danny Iny, rozbor v `GrowOS/digistart/library/danny-iny-ai-strategist/zivy-den-3-vytah.md`): úvod scénou jednoho rána, rámec „buď to udělá AI, nebo nikdo“, krátká verze nahoře s tlačítkem na přihlášku, „tah, ne informace“, Lenčin příběh s diskem, rytmus týdne, pravidlo „Na co jste se zeptala Clauda?“, tři přiznané háčky, rozšířené „nesedne vám“. Výchozí text B3 z Leadpages v561. Položka `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md` je v `review`, čeká na Lenku; stavba v Leadpages až po schválení. Otevřené: odkaz na objednávku SimpleShop, podpora mezi setkáními (jak lektorky hlídají, aby účastnice nevypadla), čas mezi setkáními, záznam, pravidlo konzultací.
 

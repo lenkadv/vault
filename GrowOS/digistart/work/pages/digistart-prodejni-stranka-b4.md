@@ -1,6 +1,6 @@
 ---
 type: sales-page
-headline: "B4: Co pořád odkládáte, udělá AI. Vy jen schválíte."
+headline: "B4: Vy to odkládáte, AI to bude mít za chvilku. Vy jen schválíte."
 skill: landing-page-write
 arc: mechanism
 parent: shegn11kj8
@@ -10,11 +10,14 @@ business: digistart
 channel: pages
 created: 2026-10-28
 note: ""
+kanban_order: V1
 ---
 
 # DigiStart pilot: prodejní stránka, koncept B4 „Buď AI, nebo nikdo“
 
-**Co to je:** nová varianta vedle B3 (B3 se nemění). Text a struktura, ne hotová stránka v Leadpages. Stavba až po schválení.
+**Co to je:** nová varianta vedle B3 (B3 se nemění).
+
+**Kde to vidět (od 28. 10. 20:55):** soukromý nepublikovaný koncept v Leadpages https://leadpages.com/edit/t4oow6qi3394so3jl4jsy336 („DigiStart – B4 Buď AI, nebo nikdo (koncept)“, slug `JVOVVq7o6D`, noindex). Na Lenčin pokyn postaven před schválením, další úpravy jdou v editoru; **po prvním zásahu Lenky v editoru je zdrojem pravdy Leadpages**, Claude úpravy přenese zpět sem. Zdrojové HTML: `_digistart-prodejni-stranka-b4/B4.html`. Fotky lektorek se načítají z assetů stránky B3.
 
 **Výchozí verze B3:** Leadpages v561 (28. 10. 2026), tedy už s Lenčinými úpravami: titulek „Chatovat s AI umíte…“, fotky v úvodu, „Co říkaly účastnice minulých AI workshopů“, bez věty o deseti účastnicích. Lokální HTML B3 je starší a nepoužívala jsem ho.
 
@@ -51,13 +54,13 @@ note: ""
 ---
 
 ## Section 1: Úvod
-**Headline:** Co pořád odkládáte, udělá AI. Vy jen schválíte.
+**Headline:** Vy to odkládáte, AI to bude mít za chvilku. Vy jen schválíte.
 **Body:**
 Nad titulkem malými písmeny: kurz online · 4 pondělní večery · živá vysílání
 Pod tím kulaté fotky obou lektorek: Lenka Dvořáková a Štěpánka Uličná
 
-Na čtyřech živých setkáních si s námi krok za krokem postavíte AI asistenta. Nebude vám jen radit. Udělá práci, na kterou vám nikdy nezbyde čas, a nechá vám jen rozhodnutí.
-
+Na čtyřech živých setkáních si s námi krok za krokem postavíte AI asistenta. Nebude vám jen radit. Udělá práci, na kterou vám nezbývá čas, chuť či energie - a na vás bude jen rozhodnutí.
+(Přepínač asistent/asistentka jako na B3: „AI asistenta“ ↔ „AI asistentku“, „Kdo vám bude pomáhat?“ a „(my dvě se o tom pořád dohadujeme)“.)
 [Chci konzultaci zdarma] · [Krátká verze: co, kdy a za kolik]
 Nebo se rovnou přihlaste do kurzu
 **Addresses objection:** structural – none
@@ -79,13 +82,13 @@ Nic z toho neodešlo samo a nic se nesmazalo bez vás. Všechno čekalo na vaše
 **Layout notes:** jeden úzký sloupec, větší písmo než zbytek stránky, bez obrázku. Krátké odstavce, poslední věta rukou psaným písmem v bordó.
 
 ## Section 3: Buď AI, nebo nikdo
-**Headline:** Nevybíráte mezi AI a sebou. Vybíráte mezi AI a „nikdy“.
+**Headline:** Otázka není, jestli to uděláte vy, nebo AI. Ve skutečnosti je to AI, nebo „nikdy“.
 **Body:**
-Úklid v souborech. Nabídka pro bývalé klientky. Příspěvek, který měl jít ven minulý týden. Leží to na seznamu celé měsíce, protože vždycky přijde něco naléhavějšího.
+Úklid v souborech. Nabídka pro bývalé klienty. Příspěvek, který měl jít ven minulý týden. Web s designem z roku 2005. Leží to na seznamu celé měsíce, protože vždycky přijde něco naléhavějšího.
 
-AI vám práci nebere. Bere si tu, na kterou byste se nikdy nedostala.
+Bojíte se, že vám AI vezme práci? Dejte jí tu, ke které byste se nikdy nedostala.
 
-A když se na své podnikání podíváte takhle, vrátí se ke slovu i nápady, které jste dávno vzdala, protože by zabraly moc času.
+Pak dostanou konečně příležitost i nápady, které jste dávno vzdala, protože by zabraly moc času.
 **Addresses objection:** „Bojím se, že mi AI bere práci / nechci, aby za mě něco dělala.“
 **Visual:** pull-quote
 **Weight:** anchor
@@ -94,9 +97,9 @@ A když se na své podnikání podíváte takhle, vrátí se ke slovu i nápady,
 ## Section 4: Krátká verze
 **Headline:** Krátce, pro ty, které už vědí
 **Body:**
-DigiStart jsou čtyři živá online setkání, vždy v pondělí 17:00–20:00: 23. 11., 30. 11., 7. 12. a 14. 12. 2026. Krok za krokem si na nich postavíte AI asistenta, který pracuje s vašimi soubory a poštou. Po Vánocích je ještě páté, konzultační setkání.
+DigiStart jsou čtyři živá online setkání, vždy v pondělí 17:00–20:00: 23. 11., 30. 11., 7. 12. a 14. 12. 2026. Krok za krokem si na nich postavíte AI asistenta, který pracuje s vašimi soubory a poštou. Po Vánocích bude ještě páté, konzultační setkání.
 
-Pilotní cena je 15 000 Kč, platí se jednou. K tomu potřebujete předplatné Claude Pro, které platíte přímo firmě Anthropic. Přihlásit se můžete až do začátku kurzu.
+Pilotní cena je 15 000 Kč (konečná cena, jedna splátka). Navíc potřebujete předplatné Claude (alespoň ve verzi Pro, platíte přímo firmě Anthropic). 
 
 [Přihlásit se do kurzu] [PLACEHOLDER: odkaz na objednávkový formulář SimpleShop GNOSTIKY]
 Chcete si to nejdřív probrat? Konzultace se Štěpánkou je zdarma.
@@ -110,32 +113,34 @@ A jestli chcete vědět víc, čtěte dál. Začneme tím, proč to většině l
 ## Section 5: Tah, ne informace
 **Headline:** Nechybí vám informace. Chybí vám tah.
 **Body:**
-Návodů je všude dost. Video „takhle mi AI vyřizuje poštu“ jste si možná uložila a od té doby leží hned vedle receptu na skvělou bábovku.
+Návodů je všude dost. Video „takhle vám AI může vyřizovat e-maily“ jste si možná uložila a od té doby leží hned vedle receptu na skvělou bábovku.
 
-Problém je jinde. Pustíte se do toho sama, něco začne fungovat, a v úterý večer se to zasekne. Nevíte, na co se zeptat, a řeknete si, že to vyřešíte o víkendu. Víkend se zaplní. A čím déle to leží, tím těžší je se k tomu vrátit.
+Problém je jinde. Pustíte se do toho sama, něco zprovozníte, a pak vám dojdou síly. V úterý večer se to zasekne. Nevíte, na co se zeptat, a řeknete si, že to vyřešíte o víkendu. O víkendu to nevyjde. A čím déle to leží, tím těžší je se k tomu vrátit.
 
 Proto DigiStart stojí na dvou věcech:
-* **Claude odpoví hned.** Kdykoli se zaseknete, provede vás dalším krokem na vašem počítači. Ve dne i v noci, bez čekání na příští hodinu.
-* **My dvě hlídáme, abyste nevypadla.** [PLACEHOLDER: jak to bude prakticky – kde se mezi setkáními ozvete (e-mail, skupina?), kdo odpovídá a kdy si všimneme, že se účastnice odmlčela]
+* **Všechno zkusíte hned, když jsme u toho.** Setkání jsou živá. Ukážeme postup, vysvětlíme ho a vy ho na místě použijete na vlastním počítači. Když se něco zasekne, pomůžeme vám hned, ne až příští týden.
+* **Claude odpoví kdykoli.** Když se zaseknete mezi setkáními, zeptáte se ho a provede vás dalším krokem. Ve dne i v noci, bez čekání na příští pondělí.
 
 Nejde o to, že byste to nezvládla. Jen jste na všechno sama.
 **Addresses objection:** „To si najdu zadarmo na YouTube.“ / „Další kurz, který nedokončím.“
 **Visual:** contrast table
 **Weight:** anchor
-**Layout notes:** vlevo krátký „příběh zaseknutí“ jako časová osa ve čtyřech krocích (úterý večer → „o víkendu“ → víkend se zaplní → leží to), šedě; vpravo dvě karty „Claude odpoví hned“ a „Hlídáme, abyste nevypadla“ v bordó. Věta „Nejde o to…“ rukou psaná pod tím (z B3). Bábovka z B3 zůstává, jen se přesunula sem.
+**Layout notes:** vlevo krátký „příběh zaseknutí“ jako časová osa ve čtyřech krocích (dojdou síly → úterý večer → „o víkendu“ → leží to), šedě; vpravo dvě karty „Zkusíte hned, když jsme u toho“ a „Claude odpoví kdykoli“ v bordó. Věta „Nejde o to…“ rukou psaná pod tím (z B3). Bábovka z B3 zůstává, jen se přesunula sem.
 
 ## Section 6: Jak to vypadá u nás
-**Headline:** Lenka a disk, který by jinak neuklidil nikdo
+**Headline:** Disk, který by jinak neuklidil nikdo
 **Body:**
-Nedávno Lence v počítači svítila červená výstraha: disk byl skoro plný. Vypadalo to, že bude muset kupovat nový počítač.
+Nedávno mi v počítači svítila červená výstraha: disk byl skoro plný. Vypadalo to, že budu muset kupovat nový počítač.
 
-Úklid odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Mazat něco, co nepoznává, si netroufla. Co kdyby pak počítač přestal fungovat?
+Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Mazat něco, co nepoznávám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?
 
-Tak zaúkolovala svého AI asistenta. Prošel celý disk, všech 793 tisíc souborů. Lenka jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.
+Tak jsem zaúkolovala svého AI asistenta. Prošel celý disk, všech 793 tisíc souborů. Já jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.
 
-„Bez AI by ten úklid neudělal nikdo. Ani já.“ [PLACEHOLDER: potvrdit, že smím tuhle větu dát Lence do úst]
+Bez AI by ten úklid neudělal nikdo. Obzvlášť já ne.
 
-A každé ráno? Místo hromady newsletterů a reklamních mailů jí stačí přečíst jednu svodku. Co je potřeba vyřídit, je nahoře. Koncepty odpovědí čekají na schválení.
+A každé ráno? Místo hromady newsletterů a reklamních mailů mi stačí přečíst jednu svodku. Co je potřeba vyřídit, je nahoře. Koncepty odpovědí čekají na moje schválení.
+
+Lenka
 
 **Naše pravidlo: AI připraví, vy rozhodnete**
 * AI píše maily jako koncepty. Odesíláte vy.
@@ -155,7 +160,7 @@ Ty nejdůležitější kroky na začátek už pro vás máme nachystané. Část
 
 1. setkání, 23. 11.: **Pořádek v souborech.** AI se seznámí s vašimi dokumenty a pomůže je uklidit.
 2. setkání, 30. 11.: **Váš styl vyjadřování.** AI se z vašich textů naučí, jak píšete.
-3. setkání, 7. 12.: **Vybereme společně.** Pošta, tabulky, nabídky, příspěvky, obrázky? Pustíme se do toho, co potřebujete nejvíc.
+3. setkání, 7. 12.: **Vybereme společně.** Pošta, tabulky, nabídky, příspěvky, obrázky, web? Pustíme se do toho, co potřebujete nejvíc.
 4. setkání, 14. 12.: **Vybereme společně.** Další kus práce, který si AI vezme na sebe. Odejdete s tím, co hned použijete.
 Po Vánocích: páté setkání, dobrovolné a konzultační. Záměrně s odstupem, abyste si všechno stihla vyzkoušet v běžném provozu. V ceně kurzu.
 
@@ -165,13 +170,14 @@ Po Vánocích: páté setkání, dobrovolné a konzultační. Záměrně s odstu
 * **Příští pondělí:** navážeme dalším krokem. Nic nečeká na chvíli, „až bude čas“.
 
 **Když se zaseknete**
-Až nám napíšete, první otázka bude: „Na co jste se zeptala Clauda a co vám odpověděl?“ Napoprvé vás to možná zarazí. Jenže umět se AI správně zeptat je přesně to, co vám po kurzu zůstane. [PLACEHOLDER: potvrdit jako pravidlo kurzu – Lenka a Štěpánka]
+Dost možná budete potřebovat nějakou technickou podporu. Když nám napíšete o pomoc, naše první reakce nejspíš bude: „Na co jste se zeptala Clauda a co vám odpověděl?“ Napoprvé vás to možná zarazí. Jenže umět se AI správně zeptat a zadávat mu práci je přesně to, co vám po kurzu zůstane. [PLACEHOLDER: potvrdit jako pravidlo kurzu – Lenka a Štěpánka]
 
 **Na setkáních mimo jiné zjistíte:**
 * Jak AI naučit váš styl psaní, abyste koncepty nemusela přepisovat.
 * Jak najít loňskou nabídku, i když nevíte, jak se soubor jmenoval.
 * Proč u nás AI nesmí nic odeslat ani smazat.
 * Kterou práci AI svěřit a kterou si nechat – a jak poznat, že se spletla.
+* O obsahu třetího a čtvrtého setkání rozhodujete vy. Chcete, aby vám AI předělala zastaralý web, z vašich poznámek připravila příspěvky na sítě na celý měsíc dopředu, nebo vám každé ráno roztřídila poštu? Vyberete, co vám ušetří nejvíc času.
 
 [Ano, chci konzultaci zdarma]
 **Addresses objection:** „Nemám čas, další kurz je další starost.“ + „Bude to moc technické.“
@@ -180,7 +186,7 @@ Až nám napíšete, první otázka bude: „Na co jste se zeptala Clauda a co v
 **Layout notes:** kalendářní listy z B3 (čtyři vedle sebe, 3. a 4. tmavé „vyberete vy“). Pod nimi týden jako vodorovná osa Pondělí → Během týdne → Příští pondělí. Rámeček „Když se zaseknete“ jako lísteček s otázkou psanou rukou. Bullety z B3 pod tím.
 
 ## Section 8: Kdo vás provede
-**Headline:** Samy jsme si tím prošly, krok po kroku
+**Headline:** Samy jsme si tím prošly
 **Body:**
 Lenka Dvořáková a Štěpánka Uličná
 
@@ -211,11 +217,11 @@ Jde o dřívější webináře a workshopy o AI, ne o DigiStart. Ten je úplně 
 **Body:**
 Zní to možná až moc jednoduše. Tak vám drobné písmo řekneme samy.
 
-**1. Čtyři pondělní večery u počítače.** Setkání jsou živá, 17:00–20:00, a pracujete na nich s vlastními soubory. Poslouchat z kuchyně u plotny se to dá, ale přijdete o dost. [PLACEHOLDER: bude záznam? Rozhodnutí Lenky a Štěpánky]
+**1. Čtyři pondělní večery u počítače.** Setkání jsou živá, 17:00–20:00, a pracujete na nich s vlastními soubory. Poslouchat na telefonu z gauče se to dá, ale o dost byste přišla. [PLACEHOLDER: bude záznam? Rozhodnutí Lenky a Štěpánky]
 
 **2. Claude Pro platíte navíc.** Předplatné se platí na měsíc dopředu přímo firmě Anthropic, ne nám. Verze Pro teď stojí 20 USD měsíčně.
 
-**3. Je to pilot.** DigiStart ještě nikdo neabsolvoval, takže reference od jeho účastnic nemáme. První dvě setkání máme připravená, třetí a čtvrté skládáme s vámi podle toho, co potřebujete. Proto pilotní cena.
+**3. Je to pilot.** Práci s AI školíme už od roku 2023, ale DigiStart je úplně nový kurz, s novými možnostmi, které teď AI nabízí. Reference od jeho účastnic proto zatím nemáme. Pilotní cena je výhodná právě proto, že jde o první běh, příště bude vyšší. A máte výhodu navíc: o obsahu třetího a čtvrtého setkání spolurozhodujete, takže kurz bude ušitý na míru vaší skupině. Na oplátku od vás čekáme, že se zapojíte a řeknete nám, co funguje a co ne.
 
 Jestli si nejste jistá, jestli vám to sedne, proberte to se Štěpánkou. Řekne vám to na rovinu.
 **Addresses objection:** „Musím platit předplatné AI navíc?“ + „Nemáte reference.“ + „Nemám čas.“
@@ -292,13 +298,25 @@ Kromě kurzovného budete potřebovat placený plán Claude, který se platí p�
 [PLACEHOLDER: kolik času týdně mezi setkáními – neslibovat, dokud není ověřené]
 
 **Co když se mezi setkáními zaseknu?**
-Nejdřív se zeptejte Clauda, odpoví hned. Když to nepomůže, napište nám. [PLACEHOLDER: kam a do kdy odpovíme]
+Nejdřív se zeptejte Clauda, odpoví hned. Když to nepomůže, napište nám. A na dalším setkání to spolu doladíme.
 
 **Co když jedno pondělí nestihnu?**
 [PLACEHOLDER: záznam ano/ne – rozhodnutí Lenky a Štěpánky]
 
 **Co když mi kurz nesedne?**
 Využijte úvodní konzultaci zdarma, ať můžeme probrat vaše potřeby a očekávání. Řekneme vám upřímně, jestli se pro vás kurz hodí, nebo zda potřebujete něco jiného.
+
+**Musím dopředu vědět, s čím chci, aby mi AI pomáhala?**
+Nemusíte. První dvě setkání máme připravená a na nich zjistíte, co všechno AI ve vaší práci zvládne. Třetí a čtvrté pak vybereme společně. Pokud už seznam máte, přineste ho.
+
+**Musím být technicky zdatná?**
+Nemusíte. Programovat nebudeme. Všechno vysvětlíme krok za krokem, běžnými slovy a na příkladech z vaší práce.
+
+**Co když mi listopadový termín nevyhovuje?**
+[PLACEHOLDER: další běh kurzu – ano/ne, kdy; nebo „napište nám, ozveme se, až budeme vědět“]
+
+**Můžu se zeptat své AI, jestli je kurz pro mě?**
+Klidně. Popište jí svou práci, pošlete jí odkaz na tuhle stránku a zeptejte se jí, co pro a co proti. A pak si to ověřte na konzultaci se Štěpánkou.
 **Addresses objection:** všechny zbývající (cena navíc, bezpečí, čas, začátečnice, ChatGPT)
 **Visual:** FAQ accordion
 **Weight:** standard
@@ -339,12 +357,12 @@ Projdete spolu, co ve své práci děláte a jestli vám DigiStart sedne. Řekne
 ---
 
 ## Skimmable Story
-1. Co pořád odkládáte, udělá AI. Vy jen schválíte.
+1. Vy to odkládáte, AI to bude mít za chvilku. Vy jen schválíte.
 2. Představte si pondělní ráno
-3. Nevybíráte mezi AI a sebou. Vybíráte mezi AI a „nikdy“.
+3. Otázka není, jestli to uděláte vy, nebo AI. Ve skutečnosti je to AI, nebo „nikdy“.
 4. Krátce, pro ty, které už vědí
 5. Nechybí vám informace. Chybí vám tah.
-6. Lenka a disk, který by jinak neuklidil nikdo
+6. Disk, který by jinak neuklidil nikdo
 7. Čtyři pondělí. Každé staví na tom předchozím.
 8. Samy jsme si tím prošly, krok po kroku
 9. Co říkaly účastnice minulých AI workshopů
@@ -390,5 +408,7 @@ Projdete spolu, co ve své práci děláte a jestli vám DigiStart sedne. Řekne
 - **Podpora mezi setkáními** (oddíly 5, 7, 13) je v DigiStartu zatím nepopsaná; argument „tah, ne informace“ na ní stojí. Bez ní oddíl 5 oslabit na „Claude odpoví hned + každé pondělí navážeme“.
 - **Editor gate (reviewer, 28. 10.):** verdikt „fix“. Opraveno: vymyšlené „třicet“ u svodky zobecněno (jedno číslo na příběh), u ceny Claude Pro v nabídce „podle jejího ceníku“. Ponecháno vědomě: citáty v oddílu 9 a „páté setkání… v ceně kurzu“ jsou doslova z Lenčiny B3 v Leadpages (v561), ne z proof souboru; „Claude odpoví hned“ je vlastnost nástroje, slib lektorek je v PLACEHOLDER.
 - **Humanize (28. 10.):** skóre 16 → 16 (zbytek zásahů je v notaci a tabulkách). Čtyři drobnosti: „Problém je jinde“, čárka v pravidlu, „přijdete o dost“ místo neověřené „poloviny“, bez ohlášené pointy „A ještě něco:“. Označeno, nezměněno: cena Claude Pro bez „podle ceníku“ v háčku 2 a ve FAQ (FAQ je doslova B3); chybějící provozovatel prodeje v patičce (PLACEHOLDER).
+- **Kolo 2 (Lenčiny úpravy a +++ komentáře, 28. 10. večer):** její titulek a úpravy textu ponechány (jen „Web s designem“). Oddíl 5: druhá opora už není „hlídáme mezi setkáními“, ale živé setkání s pomocí na místě (Lenka: „takhle to není, náš kurz je živé vysílání“); placeholder o podpoře mezi setkáními zrušen. Oddíl 6 v 1. osobě, podpis Lenka; větu „Obzvlášť já ne.“ Lenka sama upravila, proto bez placeholderu. Oddíl 7: nový bod, že obsah 3. a 4. setkání určují účastnice, s příklady (zastaralý web, příspěvky na měsíc, ranní pošta). Háček 3 přepsán podle jejího zadání (od 2023, nový kurz, cena příště vyšší, kurz na míru, čekáme zapojení a zpětnou vazbu). FAQ: z Dannyho stránky převzaty čtyři otázky, které u nás dávají smysl (Musím vědět, co chci? · Musím být technicky zdatná? · Termín nevyhovuje · Můžu se zeptat své AI?). Nepřevzaty: tým a kolegyně, stavění pro klientky, rozdíl proti jinému kurzu (pro nás nedávají smysl nebo nemáme odpověď).
 - Rod: „AI“ = ona, „AI asistent“ / „Claude“ = on, přepínač asistent/asistentka z B3 zůstává. Účastnice v ženském rodě (popis cílové čtenářky), „vy“ s malým v.
-- Placeholders left for the owner: 7 témat (objednávka SimpleShop, podpora mezi setkáními, čas mezi setkáními, záznam, pravidlo „Na co jste se zeptala Clauda“, Lenčina věta, patička GNOSTIKY), některá na stránce víckrát.
+- Placeholders left for the owner: 6 témat (objednávka SimpleShop, čas mezi setkáními, záznam, pravidlo „Na co jste se zeptala Clauda“, další běh / termín nevyhovuje, patička GNOSTIKY), některá na stránce víckrát.
+- **Editor gate kolo 2 (pass-with-notes):** odstraněna ohlášená pointa „A pak to hlavní:“. K rozhodnutí Lenky (její zadání, brain to zatím nemá): web jako téma 3./4. setkání (`brain/compliance.md` říká, že dokud to obsah setkání nezahrne, nepsat, že si účastnice web postaví) a „příště bude vyšší“ (cena po pilotu není v `brain/decisions.md` rozhodnutá, další běh taky ne).

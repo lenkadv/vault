@@ -1,0 +1,516 @@
+<!DOCTYPE html><html lang="cs" class="m"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DigiStart – Vy to odkládáte, AI to bude mít za chvilku (koncept B4)</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,700;62..125,800&amp;family=Caveat:wght@600&amp;family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F1ECE6;--bg2:#E8DFD5;--ink:#231A1D;--mut:#5E5155;--b:#9B224F;--bd:#74183B;--pink:#F3D3E0;--paper:#FBF8F4;
+ --h:"Archivo","Arial Narrow",Arial,sans-serif;--t:"DM Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;--hand:"Caveat","Segoe Script",cursive}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:19px/1.6 var(--t);-webkit-font-smoothing:antialiased}
+a{color:var(--b)}img{max-width:100%}
+.w{max-width:1080px;margin:0 auto;padding:0 28px}.n{max-width:720px}
+.review{background:#FFF1A8;color:#4a3f00;font:14px/1.45 var(--t);padding:9px 24px;text-align:center}
+.ph{background:#FFF1A8;color:#4a3f00;padding:0 .3em;border-radius:2px;font-size:.78em;font-weight:500;font-family:var(--t);letter-spacing:0;font-style:normal}
+h1,h2,h3{font-family:var(--h);font-stretch:85%;font-weight:800;margin:0;letter-spacing:-.02em;word-spacing:.08em}
+h2{font-size:clamp(32px,4.4vw,52px);line-height:1.06;margin-bottom:22px}
+.kick{font:700 14px/1.3 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--b);margin:0 0 18px}
+section{padding:90px 0}
+.btn{display:inline-block;background:var(--b);color:#fff;text-decoration:none;font:700 18px/1.2 var(--t);padding:18px 28px;border-radius:4px;border:2px solid var(--b)}
+.btn:hover{background:var(--bd);border-color:var(--bd)}
+.btn.sm{padding:10px 16px;font-size:15px}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--ink)}
+.btn.ghost:hover{background:var(--ink);color:#fff}
+.btn.inv{background:#fff;color:var(--b);border-color:#fff}
+.btn.out{background:transparent;color:#fff;border-color:rgba(255,255,255,.75)}
+.cta{display:flex;flex-wrap:wrap;gap:12px 14px;align-items:center}
+.alt{font-size:16px;color:var(--mut);margin:14px 0 0}
+.top{padding:22px 0}.top .w{display:flex;justify-content:space-between;align-items:center}
+.mark{font:800 28px/1 var(--h);font-stretch:80%;letter-spacing:-.03em;color:var(--ink);text-decoration:none}.mark span{color:var(--b)}
+.hero{padding:34px 0 60px}
+.hero .w{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:center}
+.hero h1{font-size:clamp(42px,5.6vw,76px);line-height:1.02;letter-spacing:-.035em;margin-bottom:26px}
+.hero h1 em{font-style:normal;color:var(--b)}
+.lede{font-size:clamp(19px,2vw,23px);line-height:1.5;margin:0 0 30px;color:#3a2e32}
+.hduo{display:flex;align-items:center;gap:12px;margin:-4px 0 22px}
+.hduo img{width:56px;height:56px;border-radius:50%;object-fit:cover;object-position:50% 18%;border:3px solid #fff;box-shadow:0 0 0 2px var(--ink)}
+.hduo img+img{margin-left:-22px}
+.hduo span{font:600 26px/1.1 var(--hand);color:var(--b)}
+.note{background:var(--paper);border:2px solid var(--ink);padding:22px 24px;border-radius:3px;box-shadow:6px 6px 0 var(--ink)}
+.note .lab{font:700 13px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;margin-bottom:12px;display:block}
+.note.list{transform:rotate(-2.5deg);width:86%}
+.note.list .lab{color:var(--mut)}
+.note.list ul{list-style:none;margin:0;padding:0}
+.note.list li{padding:5px 0;font-size:17px;color:var(--mut);text-decoration:line-through;text-decoration-color:var(--b);text-decoration-thickness:2px}
+.note.task{position:relative;margin:-14px 0 0 auto;width:84%;transform:rotate(2deg);background:#fff;border-color:var(--b);box-shadow:6px 6px 0 var(--b)}
+.note.task .lab{color:var(--b)}
+.note.task ul{list-style:none;margin:0;padding:0}
+.note.task li{padding:6px 0 6px 30px;position:relative;font-size:17px;line-height:1.4}
+.note.task li::before{content:"✓";position:absolute;left:0;top:5px;font-weight:700;color:var(--b)}
+.note.task .you{font:600 26px/1.1 var(--hand);color:var(--b);margin-top:10px}
+.gsw{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px;margin:30px 0 46px;text-align:center}
+.gsw .gq{width:100%;margin:0 0 2px;font:700 13px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+.gsw .gh{width:100%;margin:4px 0 0;font:600 22px/1.1 var(--hand);color:var(--b);transform:rotate(-2deg)}
+.gsw button{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;padding:0;border-radius:50%;border:2px solid var(--ink);background:transparent;color:var(--ink);cursor:pointer}
+.gsw button:hover{background:var(--pink)}
+.gsw button[aria-pressed="true"]{background:var(--ink);color:#fff}
+[data-m]{color:var(--b);background:linear-gradient(transparent 62%,var(--pink) 62%)}
+.sv-from [data-m],.note .lab [data-m]{background:none}
+/* scéna */
+.scene{background:var(--paper);border-top:2px solid var(--ink);border-bottom:2px solid var(--ink)}
+.scene p{font-size:clamp(20px,2.2vw,25px);line-height:1.55;margin:0 0 22px}
+.scene .hand{font:600 clamp(32px,3.6vw,42px)/1.15 var(--hand);color:var(--b);transform:rotate(-1.5deg);margin-top:10px}
+/* rámec */
+.frame h2{font-size:clamp(34px,5vw,60px);max-width:16em}
+.strike{display:flex;flex-wrap:wrap;gap:10px 28px;list-style:none;margin:26px 0 30px;padding:0}
+.strike li{font:800 22px/1.2 var(--h);font-stretch:88%;color:var(--mut);text-decoration:line-through;text-decoration-color:var(--b);text-decoration-thickness:3px}
+.pull{font:600 clamp(36px,4.4vw,52px)/1.1 var(--hand);color:var(--b);margin:10px 0 24px;transform:rotate(-1.5deg);max-width:18em}
+/* krátká verze */
+.short{background:var(--bg2)}
+.facts dl{display:grid;grid-template-columns:repeat(4,1fr);margin:0 0 30px;border-top:4px solid var(--ink);border-bottom:4px solid var(--ink)}
+.facts div{padding:20px 18px 22px;border-left:1px solid rgba(35,26,29,.25)}
+.facts div:first-child{border-left:0;padding-left:0}
+.facts dt{font:700 13px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-bottom:10px}
+.facts dd{margin:0;font:800 23px/1.2 var(--h);font-stretch:88%}
+.facts dd small{display:block;font:400 15px/1.4 var(--t);color:var(--mut);margin-top:4px;letter-spacing:0}
+.short p{margin:0 0 18px;max-width:760px}
+/* tah */
+.drive .w{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start}
+.drive p{margin:0 0 18px}
+.stall{list-style:none;margin:24px 0 0;padding:0;border-left:3px solid rgba(35,26,29,.25)}
+.stall li{padding:6px 0 6px 22px;color:var(--mut);position:relative}
+.stall li::before{content:"";position:absolute;left:-8px;top:15px;width:13px;height:13px;border-radius:50%;background:var(--bg);border:3px solid rgba(35,26,29,.35)}
+.cards2{display:grid;gap:22px}
+.card{background:#fff;border:2px solid var(--b);border-radius:3px;box-shadow:6px 6px 0 var(--b);padding:24px 26px}
+.card b{display:block;font:800 23px/1.2 var(--h);font-stretch:88%;color:var(--b);margin-bottom:8px}
+.card p{margin:0;font-size:18px}
+.calm{font:600 34px/1.15 var(--hand);color:var(--b);margin:30px 0 0;transform:rotate(-1.5deg)}
+/* příběh */
+.case .w{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start;row-gap:56px}
+.case p{margin:0 0 18px}
+.quote{font:600 clamp(34px,4vw,44px)/1.12 var(--hand);color:var(--b);margin:6px 0 18px;transform:rotate(-1.5deg)}
+.sign{font:600 36px/1 var(--hand);color:var(--b);transform:rotate(-2deg);display:inline-block}
+.rule{background:var(--ink);color:#F6EFE9;border-radius:3px;grid-column:1/-1;display:grid;grid-template-columns:.75fr 1.25fr;gap:10px 44px;align-items:center;padding:36px 40px}
+.rule h3{color:#fff;font-size:28px;margin:0}
+.rule ul{margin:0;padding-left:20px;columns:2;column-gap:40px}
+.rule li{break-inside:avoid;margin:0 0 12px}
+.sv{background:#fff;border:2px solid var(--ink);border-radius:3px;box-shadow:6px 6px 0 var(--ink);transform:rotate(-1deg);font-size:16px;line-height:1.5}
+.sv-hd{padding:18px 22px 14px;border-bottom:2px solid var(--ink)}
+.sv-from{font:700 12px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+.sv-hd h3{font:800 26px/1.1 var(--h);font-stretch:85%;margin:8px 0 2px;letter-spacing:-.02em}
+.sv-meta{font-size:14px;color:var(--mut)}
+.sv-sec{padding:14px 22px;border-bottom:1px dashed rgba(35,26,29,.3)}
+.sv-lab{font:700 12px/1 var(--t);letter-spacing:.14em;text-transform:uppercase;color:var(--b);margin:0 0 10px}
+.sv ul{list-style:none;margin:0;padding:0}
+.sv li{padding:5px 0 5px 22px;position:relative;font-size:15px;line-height:1.4}
+.sv-todo li::before{content:"";position:absolute;left:2px;top:9px;width:11px;height:11px;border:2px solid var(--b);border-radius:2px}
+.sv-news li::before{content:"–";position:absolute;left:4px;color:var(--mut)}
+.sv-news li{color:var(--mut)}.sv-news b{color:var(--ink);font-weight:500}
+.sv-del{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--paper)}
+.sv-del p{margin:0;font-size:15px}
+.sv-n{font:800 34px/1 var(--h);font-stretch:78%;color:var(--b)}
+.sv-hand{font:600 24px/1.1 var(--hand);color:var(--b);text-align:right;padding:6px 22px 14px;transform:rotate(-2deg)}
+.sv-cap{font-size:14px;color:var(--mut);margin:16px 0 0}
+/* pondělí */
+.mondays{background:var(--bg2)}
+.cal{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin-top:38px}
+.sheet{background:#fff;border-radius:3px;box-shadow:0 1px 0 rgba(35,26,29,.2),0 10px 24px -14px rgba(35,26,29,.45);overflow:hidden;display:flex;flex-direction:column}
+.sheet .hd{background:var(--b);color:#fff;padding:12px 18px;font:700 14px/1 var(--t);letter-spacing:.12em;text-transform:uppercase}
+.sheet .d{font:800 64px/1 var(--h);font-stretch:75%;padding:16px 18px 2px;letter-spacing:-.03em}
+.sheet .m{font:500 15px/1 var(--t);color:var(--mut);padding:0 18px 14px;border-bottom:1px dashed rgba(35,26,29,.3)}
+.sheet .c{padding:16px 18px 20px;font-size:17px;line-height:1.45}
+.sheet .c b{display:block;font:800 21px/1.2 var(--h);font-stretch:88%;margin-bottom:6px}
+.sheet.you .hd{background:var(--ink)}.sheet.you .c b{color:var(--b)}
+.fifth{margin:22px 0 0;font-size:17px;color:var(--mut)}
+.week{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:56px;border-top:4px solid var(--ink)}
+.week div{padding:22px 24px 24px 0}
+.week div+div{padding-left:24px;border-left:1px solid rgba(35,26,29,.25)}
+.week b{display:block;font:800 23px/1.2 var(--h);font-stretch:88%;color:var(--b);margin-bottom:8px}
+.week p{margin:0;font-size:17px}
+.week h3{grid-column:1/-1;font-size:28px;padding:22px 0 0}
+.stuck{margin-top:46px;background:#fff;border:2px solid var(--ink);border-radius:3px;box-shadow:6px 6px 0 var(--ink);padding:26px 30px;max-width:780px;transform:rotate(-.6deg)}
+.stuck h3{font-size:26px;margin-bottom:10px}
+.stuck p{margin:0 0 10px}
+.stuck .q{font:600 30px/1.15 var(--hand);color:var(--b)}
+.fasc{margin-top:56px;max-width:760px}
+.fasc h3{font-size:28px;margin-bottom:14px}
+.fasc ul{list-style:none;margin:0;padding:0}
+.fasc li{padding:10px 0 10px 34px;position:relative;font-size:19px;border-top:1px solid rgba(35,26,29,.2)}
+.fasc li::before{content:"→";position:absolute;left:0;top:10px;color:var(--b);font-weight:700}
+.fasc li.big{font-weight:500}
+/* kdo */
+.who .w{display:grid;grid-template-columns:auto 1fr;gap:40px 56px;align-items:start}
+.duo{display:flex;gap:16px}
+.por{margin:0;width:190px}
+.por img{display:block;width:100%;height:auto;border-radius:3px;box-shadow:6px 6px 0 var(--ink)}
+.por:nth-child(2){margin-top:34px}
+.por figcaption{font:600 28px/1 var(--hand);color:var(--b);margin-top:12px;transform:rotate(-2deg)}
+.who p{margin:0 0 18px}
+.voices{background:var(--pink)}
+.vnote{color:#4a3a3f;font-size:17px;margin:0 0 30px;max-width:720px}
+.vq{display:grid;grid-template-columns:1fr 1fr;gap:26px 40px}
+.vq blockquote{margin:0;padding:24px 26px 22px;background:#fff;border-top:6px solid var(--b);border-radius:3px;box-shadow:6px 6px 0 var(--b);font-size:18px}
+.vq blockquote:nth-child(odd){transform:rotate(-.6deg)}.vq blockquote:nth-child(even){transform:rotate(.6deg)}
+.vq cite{display:block;font:600 24px/1 var(--hand);color:var(--b);font-style:normal;margin-top:8px}
+/* háčky */
+.catch .lead{max-width:720px;margin:0 0 34px}
+.hooks{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:2px solid var(--ink)}
+.hooks div{padding:26px 26px 26px 0}
+.hooks div+div{padding-left:26px;border-left:1px solid rgba(35,26,29,.25)}
+.hooks .no{font:800 54px/1 var(--h);font-stretch:80%;color:var(--b)}
+.hooks b{display:block;font:800 23px/1.2 var(--h);font-stretch:88%;margin:10px 0 8px}
+.hooks p{margin:0;font-size:17px}
+/* pro koho */
+.types{background:var(--paper);border-top:2px solid var(--ink)}
+.persons{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:34px;border-top:2px solid var(--ink)}
+.person{padding:24px 26px 26px 0}
+.person+.person{padding-left:26px;border-left:1px solid rgba(35,26,29,.25)}
+.person .say{font:600 27px/1.15 var(--hand);color:var(--ink);margin:0 0 14px}
+.person .t{font:700 13px/1.2 var(--t);letter-spacing:.12em;text-transform:uppercase;color:var(--b);margin:0 0 8px}
+.person p{margin:0;font-size:17px}
+.not{margin-top:46px;display:grid;grid-template-columns:auto 1fr;gap:24px}
+.not h3{font-size:24px}
+.not ul{margin:0;padding-left:20px;color:var(--mut)}
+.not li{margin:4px 0}
+.not .ok{grid-column:2;margin:6px 0 0;font-size:17px}
+/* nabídka */
+.offer .w{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:start}
+.box{background:var(--pink);padding:38px 40px;border-radius:3px}
+.box h3{font-size:34px;margin-bottom:12px}
+.box ul{margin:0 0 22px;padding-left:22px}.box li{margin:8px 0}
+.anchor{font:700 18px/1.4 var(--t);margin:0 0 6px}
+.price{font:800 76px/1 var(--h);font-stretch:78%;color:var(--b);letter-spacing:-.03em}
+.price small{display:block;font:500 17px/1.45 var(--t);color:var(--ink);letter-spacing:0;margin:10px 0 24px}
+.need h3{font-size:26px;margin-bottom:14px}
+.need ul{list-style:none;margin:0;padding:0}
+.need li{padding:14px 0;border-top:2px solid var(--ink)}
+.need li:last-child{border-bottom:2px solid var(--ink)}
+.need b{display:block}
+details{border-top:2px solid var(--ink);padding:16px 0}
+details:last-of-type{border-bottom:2px solid var(--ink)}
+summary{cursor:pointer;font:800 22px/1.25 var(--h);font-stretch:88%;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";float:right;color:var(--b)}
+details[open] summary::after{content:"–"}
+details p{margin:10px 0 0}
+.letter p{margin:0 0 20px}
+.letter .big{font:700 26px/1.35 var(--h);font-stretch:90%}
+.sig{font:600 44px/1 var(--hand);color:var(--b);transform:rotate(-2deg);display:inline-block;margin:10px 0 30px}
+.contact{background:var(--b);color:#fff}
+.contact h2{color:#fff;font-size:clamp(40px,6vw,80px);line-height:1}
+.contact p{font-size:22px;line-height:1.5;max-width:32em;margin:24px 0 32px}
+footer{padding:50px 0;font-size:15px;color:var(--mut)}
+.bar{display:none}
+@media (max-width:900px){
+ .hero .w,.drive .w,.case .w,.offer .w,.who .w{grid-template-columns:1fr;gap:36px}
+ .note.task,.note.list{width:92%}
+ .facts dl{grid-template-columns:1fr 1fr}
+ .facts div:nth-child(3){border-left:0;padding-left:0}
+ .facts div:nth-child(n+3){border-top:1px solid rgba(35,26,29,.25)}
+ .cal{grid-template-columns:1fr 1fr}
+ .persons,.hooks,.week{grid-template-columns:1fr}
+ .person+.person,.hooks div+div,.week div+div{padding-left:0;border-left:0;border-top:1px solid rgba(35,26,29,.25)}
+ .rule{display:block;padding:30px 28px}.rule h3{margin-bottom:14px}.rule ul{columns:1}
+ .vq{grid-template-columns:1fr}
+}
+@media (max-width:560px){
+ body{font-size:18px}.w{padding:0 20px}
+ section{padding:60px 0}
+ .hero{padding:16px 0 46px}
+ .btn{width:100%;text-align:center}.top .btn{width:auto}
+ .facts div{padding-left:0;border-left:0}
+ .cal{grid-template-columns:1fr}
+ .not{grid-template-columns:1fr}.not .ok{grid-column:1}
+ .box{padding:28px 22px}
+ .por{width:calc(50% - 8px)}
+ .bar{display:block;position:fixed;left:0;right:0;bottom:0;background:var(--paper);border-top:2px solid var(--ink);padding:10px 16px;z-index:9}
+ .bar .btn{padding:14px}
+ footer{padding-bottom:110px}
+}
+</style>
+</head>
+<body>
+<div class="review">Koncept B4 k připomínkám. Žlutá místa čekají na doplnění.</div>
+
+<header class="top"><div class="w"><a class="mark" href="#">Digi<span>Start</span></a><a class="btn sm" href="https://tidycal.com/ulicna/digistart">Konzultace zdarma</a></div></header>
+
+<section class="hero"><div class="w">
+ <div>
+  <p class="kick">kurz online · 4 pondělní večery · ŽIVÁ VYSÍLÁNÍ</p>
+  <div class="hduo"><img src="https://lenka-dvorakova.lpcontent.net/api/pages/iYfYzG6Yg_/assets/xvgjm4poxosd29v66fimnj75?w=1200&amp;fit=scale-down&amp;format=auto&amp;quality=82" alt="Lenka Dvořáková"><img src="https://lenka-dvorakova.lpcontent.net/api/pages/iYfYzG6Yg_/assets/mbskw0friz7fbwtp7i6bh67b?w=1200&amp;fit=scale-down&amp;format=auto&amp;quality=82" alt="Štěpánka Uličná"><span>Lenka Dvořáková a Štěpánka Uličná</span></div>
+  <h1>Vy to odkládáte, AI to bude mít <em>za chvilku.</em> Vy jen schválíte.</h1>
+  <p class="lede">Na čtyřech živých setkáních si s námi krok za krokem postavíte <span data-m="AI asistenta" data-f="AI asistentku">AI asistenta</span>. Nebude vám jen radit. Udělá práci, na kterou vám nezbývá čas, chuť či energie – a na vás bude jen rozhodnutí.</p>
+  <div class="cta">
+   <a class="btn" href="https://tidycal.com/ulicna/digistart">Chci konzultaci zdarma</a>
+   <a class="btn ghost" href="#kratce">Krátce: co, kdy a za kolik</a>
+  </div>
+  <p class="alt">Nebo se <a href="#prihlaska">rovnou přihlaste do kurzu</a></p>
+ </div>
+ <div class="notes">
+  <div class="note list">
+   <span class="lab">Na seznamu od září</span>
+   <ul><li>Uklidit soubory</li><li>Nabídka pro bývalé klienty</li><li>Příspěvek na sítě</li></ul>
+  </div>
+  <div class="gsw" role="group" aria-label="AI asistentka, nebo AI asistent"><span class="gq">Kdo vám bude pomáhat?</span><button type="button" data-g="f" aria-pressed="false" aria-label="AI asistentka" title="AI asistentka"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" fill="currentColor"><circle cx="12" cy="5" r="3.2"></circle><path d="M12 9.5c-2.2 0-3.6 1.4-4.2 3.6L6 19h3.2l.8 4h4l.8-4H18l-1.8-5.9C15.6 10.9 14.2 9.5 12 9.5z"></path></svg></button><button type="button" data-g="m" aria-pressed="true" aria-label="AI asistent" title="AI asistent"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" fill="currentColor"><circle cx="12" cy="5" r="3.2"></circle><path d="M8.5 10h7c.8 0 1.5.7 1.5 1.5V17h-2v6H9v-6H7v-5.5C7 10.7 7.7 10 8.5 10z"></path></svg></button><span class="gh">(my dvě se o tom pořád dohadujeme)</span></div>
+  <div class="note task">
+   <span class="lab">Dnes ráno hotovo</span>
+   <ul><li>Soubory roztříděné, nic se nesmazalo bez vás</li><li>Nabídka připravená z té loňské</li><li>Koncept příspěvku z vašich poznámek</li></ul>
+   <div class="you">Vy jen schválíte.</div>
+  </div>
+ </div>
+</div></section>
+
+<section class="scene"><div class="w n">
+ <p class="kick">Jedno ráno</p>
+ <h2>Představte si pondělní ráno</h2>
+ <p>Ještě nemáte dopitou kávu a v počítači na vás čeká krátký přehled. Tři maily, které je potřeba vyřídit, a u každého koncept odpovědi, napsaný vaším stylem. Nabídka pro novou klientku, poskládaná z té loňské. A ve složce s dokumenty, do které se už dva roky bojíte podívat, je konečně pořádek.</p>
+ <p>Upravíte dvě slova, odešlete a jdete po své práci.</p>
+ <p class="hand">Nic z toho neodešlo samo a nic se nesmazalo bez vás. Všechno čekalo na vaše „ano“.</p>
+</div></section>
+
+<section class="frame"><div class="w">
+ <p class="kick">Buď AI, nebo nikdo</p>
+ <h2>Otázka není, jestli to uděláte vy, nebo AI. Ve skutečnosti je to AI, nebo „nikdy“.</h2>
+ <ul class="strike"><li>Úklid v souborech</li><li>Nabídka pro bývalé klienty</li><li>Příspěvek, který měl jít ven minulý týden</li><li>Web s designem z roku 2005</li></ul>
+ <p class="n">Leží to na seznamu celé měsíce, protože vždycky přijde něco naléhavějšího.</p>
+ <p class="pull">Bojíte se, že vám AI vezme práci? Dejte jí tu, ke které byste se nikdy nedostala.</p>
+ <p class="n">Pak dostanou konečně příležitost i nápady, které jste dávno vzdala, protože by zabraly moc času.</p>
+</div></section>
+
+<section class="short facts" id="kratce"><div class="w">
+ <p class="kick">Krátká verze</p>
+ <h2>Krátce, pro ty, které už vědí</h2>
+ <dl>
+  <div><dt>Kdy</dt><dd>4 pondělí<small>23. 11., 30. 11., 7. 12. a 14. 12. 2026</small></dd></div>
+  <div><dt>Čas</dt><dd>17:00–20:00<small>živě, s lektorkami</small></dd></div>
+  <div><dt>Kde</dt><dd>Online<small>z vašeho počítače, s vašimi soubory</small></dd></div>
+  <div><dt>Cena</dt><dd>15 000 Kč<small>pilotní cena, jedna splátka</small></dd></div>
+ </dl>
+ <p>DigiStart jsou čtyři živá online setkání, vždy v pondělí 17:00–20:00. Krok za krokem si na nich postavíte <span data-m="AI asistenta" data-f="AI asistentku">AI asistenta</span>, <span data-m="který" data-f="která">který</span> pracuje s vašimi soubory a poštou. Po Vánocích bude ještě páté, konzultační setkání.</p>
+ <p>Pilotní cena je 15 000 Kč (konečná cena, jedna splátka). Navíc potřebujete předplatné Claude (alespoň ve verzi Pro, platíte přímo firmě Anthropic).</p>
+ <div class="cta"><a class="btn" href="#prihlaska">Přihlásit se do kurzu</a> <span class="ph">odkaz na objednávkový formulář SimpleShop GNOSTIKY</span></div>
+ <p class="alt">Chcete si to nejdřív probrat? <a href="https://tidycal.com/ulicna/digistart">Konzultace se Štěpánkou je zdarma.</a></p>
+ <p class="alt">A jestli chcete vědět víc, čtěte dál. Začneme tím, proč to většině lidí samo nejde.</p>
+</div></section>
+
+<section class="drive"><div class="w">
+ <div>
+  <p class="kick">Proč to samo nejde</p>
+  <h2>Nechybí vám informace. Chybí vám tah.</h2>
+  <p>Návodů je všude dost. Video „takhle vám AI může vyřizovat e-maily“ jste si možná uložila a od té doby leží hned vedle receptu na skvělou bábovku.</p>
+  <p>Problém je jinde. Pustíte se do toho sama, něco zprovozníte, a pak vám dojdou síly. V úterý večer se to zasekne. Nevíte, na co se zeptat, a řeknete si, že to vyřešíte o víkendu. O víkendu to nevyjde. A čím déle to leží, tím těžší je se k tomu vrátit.</p>
+  <ul class="stall"><li>něco zprovozníte</li><li>úterý večer se to zasekne</li><li>„vyřeším to o víkendu“</li><li>leží to</li></ul>
+ </div>
+ <div>
+  <p class="kick">Proto DigiStart stojí na dvou věcech</p>
+  <div class="cards2">
+   <div class="card"><b>Všechno zkusíte hned, když jsme u toho.</b><p>Setkání jsou živá. Ukážeme postup, vysvětlíme ho a vy ho na místě použijete na vlastním počítači. Když se něco zasekne, pomůžeme vám hned, ne až příští týden.</p></div>
+   <div class="card"><b>Claude odpoví kdykoli.</b><p>Když se zaseknete mezi setkáními, zeptáte se ho a provede vás dalším krokem. Ve dne i v noci, bez čekání na příští pondělí.</p></div>
+  </div>
+  <p class="calm">Nejde o to, že byste to nezvládla.<br>Jen jste na všechno sama.</p>
+ </div>
+</div></section>
+
+<section class="case"><div class="w">
+ <div>
+  <p class="kick">Jak to vypadá u nás</p>
+  <h2>Disk, který by jinak neuklidil nikdo</h2>
+  <p>Nedávno mi v počítači svítila červená výstraha: disk byl skoro plný. Vypadalo to, že budu muset kupovat nový počítač.</p>
+  <p>Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Mazat něco, co nepoznávám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?</p>
+  <p>Tak jsem zaúkolovala svého AI asistenta. Prošel celý disk, všech 793 tisíc souborů. Já jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.</p>
+  <p class="quote">Bez AI by ten úklid neudělal nikdo. Obzvlášť já ne.</p>
+  <p>A každé ráno? Místo hromady newsletterů a reklamních mailů mi stačí přečíst jednu svodku. Co je potřeba vyřídit, je nahoře. Koncepty odpovědí čekají na moje schválení.</p>
+  <span class="sign">Lenka</span>
+ </div>
+ <div>
+  <div class="sv" aria-label="Ukázka ranní svodky">
+   <div class="sv-hd"><div class="sv-from">Od: <span data-m="váš AI asistent" data-f="vaše AI asistentka">váš AI asistent</span></div><h3>Ranní svodka · úterý</h3><div class="sv-meta">od včerejška 31 nových mailů</div></div>
+   <div class="sv-sec sv-todo"><p class="sv-lab">Vyřídit dnes (3)</p><ul>
+    <li><b>Faktura za hosting</b> – splatná v pátek</li>
+    <li><b>Jana</b> chce posunout čtvrteční lekci. Koncept odpovědi je připravený.</li>
+    <li><b>Maminka</b> se ptá na neděli – osobní zpráva</li>
+   </ul></div>
+   <div class="sv-sec sv-news"><p class="sv-lab">Newslettery v kostce (12)</p><ul>
+    <li><b>Marketing:</b> jak psát předmět e-mailu, aby ho lidé otevřeli</li>
+    <li><b>Canva:</b> nové šablony na Vánoce</li>
+    <li>…a deset dalších, každý jednou větou</li>
+   </ul></div>
+   <div class="sv-sec sv-del"><p>Reklamy a akce označené štítkem <b>„smazat“</b>.<br>Smazat je musíte vy.</p><div class="sv-n">16</div></div>
+   <div class="sv-hand">místo 31 mailů jeden text</div>
+  </div>
+  <p class="sv-cap">Ilustrační ukázka, ne skutečná pošta.</p>
+ </div>
+ <div class="rule">
+  <h3>Naše pravidlo: AI připraví, vy rozhodnete</h3>
+  <ul>
+   <li>AI píše maily jako koncepty. Odesíláte vy.</li>
+   <li>Když se AI splete, opravíte ji a domluvíte pravidlo pro příště.</li>
+   <li>Mazat ani přeposílat sama nesmí.</li>
+   <li>Ukážeme, co AI svěřit a co ne, a jak bezpečně pracovat s hesly a přístupy.</li>
+  </ul>
+ </div>
+</div></section>
+
+<section class="mondays" id="jak"><div class="w">
+ <p class="kick">Jak DigiStart funguje</p>
+ <h2>Čtyři pondělí. Každé staví na tom předchozím.</h2>
+ <p class="n" style="margin:0">Ty nejdůležitější kroky na začátek už pro vás máme nachystané. Část obsahu určíte vy podle toho, co nejvíc potřebujete. Kurz budete stavět spolu s námi – proto je to pilot za pilotní cenu.</p>
+ <div class="cal">
+  <div class="sheet"><div class="hd">1. setkání</div><div class="d">23</div><div class="m">listopad · pondělí</div><div class="c"><b>Pořádek v souborech</b>AI se seznámí s vašimi dokumenty a pomůže je uklidit.</div></div>
+  <div class="sheet"><div class="hd">2. setkání</div><div class="d">30</div><div class="m">listopad · pondělí</div><div class="c"><b>Váš styl vyjadřování</b>AI se z vašich textů naučí, jak píšete.</div></div>
+  <div class="sheet you"><div class="hd">3. setkání</div><div class="d">7</div><div class="m">prosinec · pondělí</div><div class="c"><b>Vybereme společně</b>Pošta, tabulky, nabídky, příspěvky, obrázky, web? Pustíme se do toho, co potřebujete nejvíc.</div></div>
+  <div class="sheet you"><div class="hd">4. setkání</div><div class="d">14</div><div class="m">prosinec · pondělí</div><div class="c"><b>Vybereme společně</b>Další kus práce, který si AI vezme na sebe. Odejdete s tím, co hned použijete.</div></div>
+ </div>
+ <p class="fifth">Po Vánocích: páté setkání, dobrovolné a konzultační. Záměrně s odstupem, abyste si všechno stihla vyzkoušet v běžném provozu. V ceně kurzu.</p>
+
+ <div class="week">
+  <h3>Jak vypadá jeden týden</h3>
+  <div><b>Pondělí 17:00–20:00</b><p>Ukážeme vám postup a vysvětlíme, jak a proč funguje. Zkusíte si ho hned, na vlastním počítači a s vlastními soubory. Lektorka je po ruce, kdyby se něco zaseklo.</p></div>
+  <div><b>Během týdne</b><p>Používáte, co jste postavila, ve své běžné práci. <span class="ph">kolik času týdně mezi setkáními · neslibovat, dokud není ověřené</span></p></div>
+  <div><b>Příští pondělí</b><p>Navážeme dalším krokem. Nic nečeká na chvíli, „až bude čas“.</p></div>
+ </div>
+
+ <div class="stuck">
+  <h3>Když se zaseknete</h3>
+  <p>Dost možná budete potřebovat nějakou technickou podporu. Když nám napíšete o pomoc, naše první reakce nejspíš bude:</p>
+  <p class="q">„Na co jste se zeptala Clauda a co vám odpověděl?“</p>
+  <p>Napoprvé vás to možná zarazí. Jenže umět se AI správně zeptat a zadávat mu práci je přesně to, co vám po kurzu zůstane. <span class="ph">potvrdit jako pravidlo kurzu · Lenka a Štěpánka</span></p>
+ </div>
+
+ <div class="fasc">
+  <h3>Na setkáních mimo jiné zjistíte:</h3>
+  <ul>
+   <li>Jak AI naučit váš styl psaní, abyste koncepty nemusela přepisovat.</li>
+   <li>Jak najít loňskou nabídku, i když nevíte, jak se soubor jmenoval.</li>
+   <li>Proč u nás AI nesmí nic odeslat ani smazat.</li>
+   <li>Kterou práci AI svěřit a kterou si nechat – a jak poznat, že se spletla.</li>
+   <li class="big">O obsahu třetího a čtvrtého setkání rozhodujete vy. Chcete, aby vám AI předělala zastaralý web, z vašich poznámek připravila příspěvky na sítě na celý měsíc dopředu, nebo vám každé ráno roztřídila poštu? Vyberete, co vám ušetří nejvíc času.</li>
+  </ul>
+ </div>
+ <div class="cta" style="margin-top:40px"><a class="btn" href="https://tidycal.com/ulicna/digistart">Ano, chci konzultaci zdarma</a></div>
+</div></section>
+
+<section class="who"><div class="w">
+ <div class="duo"><figure class="por"><img src="https://lenka-dvorakova.lpcontent.net/api/pages/iYfYzG6Yg_/assets/xvgjm4poxosd29v66fimnj75?w=1200&amp;fit=scale-down&amp;format=auto&amp;quality=82" alt="Lenka Dvořáková" width="600" height="800" loading="lazy"><figcaption>Lenka</figcaption></figure><figure class="por"><img src="https://lenka-dvorakova.lpcontent.net/api/pages/iYfYzG6Yg_/assets/mbskw0friz7fbwtp7i6bh67b?w=1200&amp;fit=scale-down&amp;format=auto&amp;quality=82" alt="Štěpánka Uličná" width="600" height="800" loading="lazy"><figcaption>Štěpánka</figcaption></figure></div>
+ <div class="n">
+  <p class="kick">Kdo vás provede</p>
+  <h2>Samy jsme si tím prošly</h2>
+  <p>Lenka Dvořáková a Štěpánka Uličná</p>
+  <p>Víme, jaké je mít všechno zdánlivě na dosah a přesto nevědět, čím začít. Proto v kurzu bude mít každé setkání jasný cíl a pořadí kroků, které na sebe navazují. Nemusíte to zjišťovat sama večer po práci.</p>
+ </div>
+</div></section>
+
+<section class="voices"><div class="w">
+ <p class="kick">práci s AI školíme už od roku 2023</p>
+ <h2>Co říkaly účastnice minulých AI workshopů</h2>
+ <p class="vnote">Jde o dřívější webináře a workshopy o AI, ne o DigiStart. Ten je úplně nový, s novými nástroji a možnostmi, které teď AI nabízí.</p>
+ <div class="vq">
+  <blockquote>„O AI a nástrojích jsem toho slyšela hodně, jenže když hovoří ajťáci, je to někdy trochu problém. […] Vy všechno vysvětlíte, ukážete, neházíte termíny.“<cite>Lenka S.</cite></blockquote>
+  <blockquote>„Vše, o čem jste mluvila, jsem pochopila, bylo to v souvislostech a srozumitelně vysvětleno. Líbila se mi ta jednoduchá přirovnání.“<cite>Monika V.</cite></blockquote>
+  <blockquote>„Výhodou je i to, že jsme si vše hned vyzkoušeli.“<cite>Irena</cite></blockquote>
+  <blockquote>„Díky, přestala jsem mít před AI ostych.“<cite>Zdenka J.</cite></blockquote>
+ </div>
+</div></section>
+
+<section class="catch"><div class="w">
+ <p class="kick">Drobné písmo</p>
+ <h2>Kde je háček? Jsou tři.</h2>
+ <p class="lead">Zní to možná až moc jednoduše. Tak vám drobné písmo řekneme samy.</p>
+ <div class="hooks">
+  <div><span class="no">1</span><b>Čtyři pondělní večery u počítače.</b><p>Setkání jsou živá, 17:00–20:00, a pracujete na nich s vlastními soubory. Poslouchat na telefonu z gauče se to dá, ale o dost byste přišla. <span class="ph">bude záznam? · rozhodnutí Lenky a Štěpánky</span></p></div>
+  <div><span class="no">2</span><b>Claude Pro platíte navíc.</b><p>Předplatné se platí na měsíc dopředu přímo firmě Anthropic, ne nám. Verze Pro teď stojí 20 USD měsíčně.</p></div>
+  <div><span class="no">3</span><b>Je to pilot.</b><p>Práci s AI školíme už od roku 2023, ale DigiStart je úplně nový kurz, s novými možnostmi, které teď AI nabízí. Reference od jeho účastnic proto zatím nemáme. Pilotní cena je výhodná právě proto, že jde o první běh, příště bude vyšší. A máte výhodu navíc: o obsahu třetího a čtvrtého setkání spolurozhodujete, takže kurz bude ušitý na míru vaší skupině. Na oplátku od vás čekáme, že se zapojíte a řeknete nám, co funguje a co ne.</p></div>
+ </div>
+ <p class="alt">Jestli si nejste jistá, jestli vám to sedne, <a href="https://tidycal.com/ulicna/digistart">proberte to se Štěpánkou</a>. Řekne vám to na rovinu.</p>
+</div></section>
+
+<section class="types"><div class="w">
+ <p class="kick">Pro koho DigiStart je</p>
+ <h2>Poznáváte se?</h2>
+ <div class="persons">
+  <div class="person"><p class="t">Máte malou živnost</p><p class="say">„Každou nabídku píšu prakticky od nuly.“</p><p>Seznámíte AI se svou prací, aby se mohla učit z toho, co už jste udělala. Připraví první verzi, měnit bude potřeba jen detaily.</p></div>
+  <div class="person"><p class="t">Školíte, koučujete, radíte</p><p class="say">„Školím, konzultuju, koučuju. A k tomu sama vyřizuju poštu, faktury, příspěvky na sítě a milion dalších věcí.“</p><p>Ukážeme, jak AI předat psaní, které se pořád opakuje.</p></div>
+  <div class="person"><p class="t">AI používáte</p><p class="say">„ChatGPT mám otevřený skoro pořád. A pořád kopíruju nebo vysvětluju, co jsem chtěla jinak.“</p><p>Nebudeme vás učit psát lepší prompty, místo toho naučíte AI pracovat se svými soubory či poštou.</p></div>
+ </div>
+ <div class="not">
+  <h3>Kurz vám nesedne, pokud:</h3>
+  <ul>
+   <li>s AI začínáte úplně od nuly,</li>
+   <li>chcete programovat,</li>
+   <li>hledáte hlavně kurz marketingu na sociálních sítích,</li>
+   <li>čekáte hotový systém, který jen zapnete – u nás si ho postavíte sama, s námi po boku,</li>
+   <li>nemůžete v pondělí večer sedět u počítače,</li>
+   <li>preferujete jako lektory namachrované týpky s ostře řezanými rysy.</li>
+  </ul>
+  <p class="ok">Pokud vás něco z toho odradilo, nevadí. Jen to znamená, že DigiStart teď není pro vás.</p>
+ </div>
+</div></section>
+
+<section class="offer"><div class="w">
+ <div class="box" id="prihlaska">
+  <h3>DigiStart pilot</h3>
+  <ul>
+   <li>4 živá setkání online</li>
+   <li>23. 11.–14. 12. 2026, pondělí 17:00–20:00</li>
+   <li>první dvě setkání na nastavení systému a první úkoly, další obsah podle vašich potřeb</li>
+   <li>páté, konzultační setkání po Vánocích v ceně</li>
+   <li>příležitost vyzkoušet si všechno přímo během setkání, s lektorkou po ruce</li>
+  </ul>
+  <p class="anchor">Celkem 12 hodin živě s lektorkami ve 4 setkáních.</p>
+  <div class="price">15 000 Kč<small>Pilotní cena, jednorázově.</small></div>
+  <a class="btn" href="https://tidycal.com/ulicna/digistart">Chci konzultaci zdarma</a>
+  <p class="alt">Půl hodiny se Štěpánkou, nezávazně. Nebo se <a href="#">rovnou přihlaste</a>. <span class="ph">odkaz na objednávku SimpleShop</span></p>
+ </div>
+ <div class="need">
+  <h3>Co budete potřebovat</h3>
+  <ul>
+   <li><b>Počítač nebo notebook.</b>Na cvičení telefon nestačí.</li>
+   <li><b>Placený plán Claude Pro.</b>Kurz staví na Claudu, protože umí pracovat s vašimi soubory. Předplatné se platí přímo firmě Anthropic, ne nám. Podle jejího ceníku teď stojí 20 USD měsíčně.</li>
+   <li><b>Zkušenost s AI.</b>Umíte chatovat třeba s ChatGPT a nemáte obavy vyzkoušet to s Claudem.</li>
+  </ul>
+ </div>
+</div></section>
+
+<section style="padding-top:0"><div class="w n">
+ <p class="kick">možná vás zajímá</p>
+ <details><summary>Používám AI docela hodně. Nebude to pro mě málo?</summary><p>Podle našich zkušeností ani zdatní uživatelé AI často netuší, co všechno pro ně může AI dělat. Nebudeme vás učit lépe promptovat, postavíte si s námi vlastní AI asistenty, kteří pak budou pracovat s vaší poštou či soubory a budou umět vytvářet další věci, které si zvolíte sama. Pokud si nejste jistá, rezervujte si konzultaci se Štěpánkou, probere s vámi podrobnosti.</p></details>
+ <details><summary>S AI teprve začínám. Zvládnu to?</summary><p>Pokud jste AI ještě nikdy nezkusila, kurz pro vás zatím nebude. Jestli už s AI zkušenosti máte, ale nejste si jistá, zda to stačí, proberte to se Štěpánkou na konzultaci zdarma.</p></details>
+ <details><summary>Musím dopředu vědět, s čím chci, aby mi AI pomáhala?</summary><p>Nemusíte. První dvě setkání máme připravená a na nich zjistíte, co všechno AI ve vaší práci zvládne. Třetí a čtvrté pak vybereme společně. Pokud už seznam máte, přineste ho.</p></details>
+ <details><summary>Musím být technicky zdatná?</summary><p>Nemusíte. Programovat nebudeme. Všechno vysvětlíme krok za krokem, běžnými slovy a na příkladech z vaší práce.</p></details>
+ <details><summary>Proč Claude, a ne ChatGPT?</summary><p>Protože v kurzu si s AI nebudete jen povídat. Claude pracuje přímo ve vašem počítači, s vaší poštou, kalendářem a soubory, a co o vaší práci ví, má uložené ve vašich dokumentech. Všechno, co v kurzu ukazujeme, jsme v něm samy vyzkoušely. ChatGPT si klidně nechte na rychlé otázky. To, co v kurzu postavíte, poběží v Claudu.</p></details>
+ <details><summary>Bude v bezpečí moje pošta a moje soubory?</summary><p>Dodržujeme pravidlo, že AI nic sama neodesílá ani nemaže. Tak to budeme nastavovat i v kurzu.</p></details>
+ <details><summary>Kolik mě to bude stát?</summary><p>Kromě kurzovného budete potřebovat placený plán Claude, který se platí přímo firmě Anthropic. Verze Pro stojí momentálně 20 USD měsíčně.</p></details>
+ <details open><summary>Kolik času mi to zabere?</summary><p><span class="ph">kolik času týdně mezi setkáními · neslibovat, dokud není ověřené</span></p></details>
+ <details><summary>Co když se mezi setkáními zaseknu?</summary><p>Nejdřív se zeptejte Clauda, odpoví hned. Když to nepomůže, napište nám. A na dalším setkání to spolu doladíme.</p></details>
+ <details open><summary>Co když jedno pondělí nestihnu?</summary><p><span class="ph">záznam ano/ne · rozhodnutí Lenky a Štěpánky</span></p></details>
+ <details open><summary>Co když mi listopadový termín nevyhovuje?</summary><p><span class="ph">další běh kurzu ano/ne, kdy · nebo „napište nám, ozveme se“</span></p></details>
+ <details><summary>Můžu se zeptat své AI, jestli je kurz pro mě?</summary><p>Klidně. Popište jí svou práci, pošlete jí odkaz na tuhle stránku a zeptejte se jí, co pro a co proti. A pak si to ověřte na konzultaci se Štěpánkou.</p></details>
+ <details><summary>Co když mi kurz nesedne?</summary><p>Využijte úvodní konzultaci zdarma, ať můžeme probrat vaše potřeby a očekávání. Řekneme vám upřímně, jestli se pro vás kurz hodí, nebo zda potřebujete něco jiného.</p></details>
+</div></section>
+
+<section class="letter" style="padding-top:0"><div class="w n">
+ <h2>Chcete se do toho pustit. Jenže kdy a jak?</h2>
+ <p class="big">Víte, že by vám AI mohla ušetřit práci. Víte, že to nechcete odkládat.</p>
+ <p>A taky víte, jak vypadá váš týden: práce, pošta, faktury... a večer už na zkoumání možností AI není ani pomyšlení. Proto pro vás máme připravený návod krok za krokem a všechno s námi vyzkoušíte a aplikujete přímo během online setkání. Nic se nepřidá na seznam „až bude čas“.</p>
+ <p>Z kurzu si odnesete <span data-m="AI asistenta" data-f="AI asistentku">AI asistenta</span>, <span data-m="který" data-f="která">který</span> pro vás pracuje. A až příště narazíte na věc, která by jinak ležela na seznamu měsíce, nebudete čekat, až na ni bude čas. Prostě ji zadáte.</p>
+ <p>Vzpomeňte si na to pondělní ráno z úvodu.</p>
+ <p>Můžete dál kopírovat odpovědi z chatu. Nebo dát AI práci a nechat si jen kontrolu.</p>
+ <p>Rády vás poznáme. Klidně nejdřív na konzultaci.</p>
+ <span class="sig">Lenka a Štěpánka</span>
+</div></section>
+
+<section class="contact" id="konzultace"><div class="w">
+ <h2>Půl hodiny se Štěpánkou. Zdarma.</h2>
+ <p>Projdete spolu, co ve své práci děláte a jestli vám DigiStart sedne. Řekne vám to na rovinu, i kdyby to znamenalo „zatím ne“. Rozhodnete se až potom.</p>
+ <div class="cta"><a class="btn inv" href="https://tidycal.com/ulicna/digistart">Rezervovat konzultaci</a><a class="btn out" href="#">Rovnou se přihlásit · 15 000 Kč</a></div>
+ <p style="font-size:16px;margin-top:18px"><span class="ph">odkaz na objednávkový formulář SimpleShop GNOSTIKY</span></p>
+</div></section>
+
+<footer><div class="w">DigiStart · Lenka Dvořáková a Štěpánka Uličná · GNOSTIKA <span class="ph">IČ, sídlo, obchodní podmínky, ochrana osobních údajů</span></div></footer>
+
+<div class="bar"><a class="btn" href="https://tidycal.com/ulicna/digistart">Ano, chci konzultaci zdarma</a></div>
+
+<script>(function(){var r=document.documentElement;function set(g){r.classList.toggle('m',g==='m');document.querySelectorAll('[data-m]').forEach(function(e){if(!e.hasAttribute('data-f'))e.setAttribute('data-f',e.textContent);e.textContent=g==='m'?e.getAttribute('data-m'):e.getAttribute('data-f');});document.querySelectorAll('.gsw button').forEach(function(b){b.setAttribute('aria-pressed',b.getAttribute('data-g')===g?'true':'false');});try{localStorage.setItem('ds-g',g);}catch(x){}}document.querySelectorAll('.gsw button').forEach(function(b){b.addEventListener('click',function(){set(b.getAttribute('data-g'));});});var s='f';try{s=localStorage.getItem('ds-g')||'f';}catch(x){}set(s==='m'?'m':'f');})();</script>
+</body></html>
