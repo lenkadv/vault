@@ -20,7 +20,7 @@ Platící účastnice, ne nový odběratel: série nic neprodává, jen ji přip
 | 3 | [PLACEHOLDER: asi týden před 23. 11.] | Připomenout instalaci, odkaz na první setkání | [PLACEHOLDER: nenapsáno] | 03-pripominka.md (zatím není) |
 
 ## Notes
-- Mail 2 nahrazuje ruční položku `work/course/digistart-proc-claude.md` (verze 1–4); obě jsou ve frontě ke srovnání.
+- **28. 10. večer:** mail 2 napsaný skillem Lenka zamítla (rejected); schválená je její upravená ruční verze `work/course/digistart-proc-claude.md` (approved). Její poznámka: jako jeden mail je text zbytečně dlouhý, dával by smysl v sérii před začátkem kurzu; až se rozhodne obsah série, vyjde se z té schválené verze (zkrátit nebo rozdělit).
 - Směr od Lenky: `brain/lessons/2026-10-28-proc-claude-sila-ne-pohodli.md` (tři kola poznámek 28. 10.).
 - Placeholder v mailu 2: odkaz na návod k instalaci aplikace (úkol v `projects/digistart.md`).
 - Kdo odesílá (Drip, Lenčino FAPI, nebo GNOSTIKA) není rozhodnuté; souvisí s rozhodnutím, kdo prodává.

@@ -2,8 +2,8 @@
 type: course-copy
 headline: "Proč DigiStart běží na Claudu: uvítací text pro účastnice + odpověď do FAQ"
 skill: ""
-status: review
-note: udělala jsem pár oprav a další poznámky připsala a označila +++
+status: approved
+note: je to asi zbytečně dlouhé - dávalo by to smysl, kdybychom před začátkem kurzu posílaly celou sérii e-mailů. Ale jako text to teď už funguje hezky a případně ho použijeme později v nějaké zkrácené podobě, nebo upravíme podle potřeby, jak se to vyvine.
 id: 4cnfo9rokc
 business: digistart
 channel: course
@@ -23,26 +23,24 @@ Dobrý den,
 
 před pár dny mi v počítači svítila červená výstraha: z 931 GB na disku zbývalo volných jen 36. Vypadalo to, že mám problém a možná budu muset kupovat nový počítač. Pak jsem zaúkolovala svého AI asistenta.
 
-Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Kopie kopií, programy, které si Windows nainstalovaly samy, a hra, kterou jsem si kdysi stáhla a dávno na ni zapomněla. Smazat něco, co nepoznám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?
+Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které mu nic neříkají? Kopie kopií, programy, které si Windows nainstalovaly samy, a hra, kterou jsem si kdysi stáhla a dávno na ni zapomněla. Mazat něco, co nepoznávám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?
 
-Claude to prošel za jeden den, všech 793 tisíc souborů. Já jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.
+Claude se úkolu nezalekl a hned celý disk prošel, všech 793 tisíc souborů (smajlík s otevřenou pusou nebo vybuchující hlavou). Já jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.
 
-Ten týden jsme spolu vzaly do parády i moje weby. Stránky, které se načítaly celou věčnost, dnes naskočí dřív, než stihnete mrknout. A Claude mi nakreslil mapu, takže konečně vidím, kde co je a kam co vede.
+O den později jsme spolu vzali do parády i moje weby. Stránky, které se načítaly celou věčnost, dnes naskočí dřív, než stihnete mrknout. A k ruce mám teď i mapu, takže konečně vidím, kde co je a kam co vede.
 
-Tohle je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, ale asistent, který pracuje přímo ve vašem počítači: s vašimi soubory, poštou, kalendářem i weby.
+To je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, ale asistent, který pracuje přímo ve vašem počítači: s vašimi soubory, poštou, kalendářem i weby.
 
-* **V kurzu si s AI nebudeme povídat.** Vycvičíte si ji jako asistenta, jakého by vám záviděl lecjaký generální ředitel. Takového, který vám každé ráno připraví poštu, rozepíše odpovědi a ohlídá termíny.
-* **Pamatuje si vaši práci.** Co o vás ví, má uložené ve vašich dokumentech v počítači. Nemusíte mu pokaždé vysvětlovat, kdo jste, co prodáváte a jak píšete, ani znovu přikládat soubory. Po dobrém výcviku na vás zbyde hlavně rozhodování. Zbytek připraví on a vy jen schválíte.
-* **Všechno, co vás naučíme, jsme v něm samy vyzkoušely.** Příklady výš nejsou z reklamy, je to moje práce z posledních dnů. Neukazujeme nic, co jsme nezkusily na vlastních věcech.
+* **V kurzu si s AI nebudeme povídat.** Vycvičíte si ji jako asistenta, jakého by vám záviděl lecjaký generální ředitel. Takového, který vám hlídá termíny, pamatuje si, co jste kde slíbili, a každé ráno roztřídí poštu - vy už dostanete jen to důležité a připravené odpovědi budou čekat na vaše schválení a odeslání.
+* **Pamatuje si vaši práci.** Co o vás ví, má uložené v dokumentech na vašem počítači. Nemusíte mu pokaždé vysvětlovat, kdo jste, co prodáváte a jak píšete, ani znovu přikládat soubory. Po dobrém výcviku na vás zbyde hlavně rozhodování. Ostatní odpracuje on.
+* **Všechno, co vás naučíme, jsme s Claudem prošly, vyzkoušely a vyladily** Příklady výš nejsou z reklamy, je to naše práce z posledních dnů. Neukazujeme nic, co jsme neotestovaly - od nás dostanete jen osvědčené postupy, takže nebudete ztrácet čas prozkoumáváním zbytečností (to už jsme udělaly za vás).
 
 Oblíbila jste si ChatGPT tak, že si už bez něj neumíte život představit? Nebudeme vás nutit do srdcervoucího rozchodu, klidně si ho nechte a používejte ho dál tak, jak jste zvyklá. Pro skutečnou práci, jak vás to budeme učit v kurzu, se (nejen) nám víc osvědčil Claude, proto máme návody a postupy připravené pro něj. 
 
-**Placený plán.** Budete potřebovat Claude Pro (nebo vyšší plán). Platí se přímo firmě Anthropic, ne nám, a podle jejího ceníku stojí 20 USD měsíčně (cena se může změnit).
+**Než se uvidíme v pondělí 23. listopadu, je potřeba udělat tyhle dvě věci:
 
-**Než se uvidíme v pondělí 23. listopadu, udělejte prosím dvě věci:**
-
-1. Pořiďte si Claude Pro a stáhněte si do počítače aplikaci Claude. Krok za krokem vás provede [PLACEHOLDER: návod na stažení a instalaci aplikace, odkaz].
-2. Zkuste mluvit místo psaní. Klikněte na ikonu mikrofonu a řekněte, co potřebujete. Já skoro všechno diktuji, je to rychlejší a mnohem pohodlnější.
+1. Pořiďte si Claude Pro a stáhněte si do počítače aplikaci Claude. Krok za krokem vás provede [PLACEHOLDER: návod na stažení a instalaci aplikace, odkaz]. Předplatné se platí na měsíc dopředu přímo firmě Anthropic (verze Pro momentálně stojí 20 USD měsíčně). 
+2. Až budete mít aplikaci na svém počítači nainstalovanou, zkuste si s ní promluvit. Klikněte na ikonu mikrofonu a řekněte... cokoliv - jde o to, abyste si byla jistá, že hlasové zadávání funguje. Pro absolvování kurzu to není bezpodmínečně nutné, ale oceníte to. Sama jsem se tomu dlouho bránila, ale teď už skoro všechno diktuji: je to rychlejší a mnohem pohodlnější. /obrázek/
 
 Těšíme se na vás.
 

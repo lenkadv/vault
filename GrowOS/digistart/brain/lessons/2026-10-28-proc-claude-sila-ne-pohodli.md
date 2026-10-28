@@ -16,3 +16,12 @@
 - **Check facts in her rewrite too.** Her version merged two websites into one and dated the web work "o den později"; I kept her wording and fixed only the facts, and said so in the item notes.
 
 **Third round (Lenka 17:13):** "do copy ale nemůžeme psát každou podrobnost. abstrahuj, zevšeobecni, zkrať tak, aby to bylo dobré copy, ne dokumentární záznam." When a fact in her rewrite is off, fix it by generalising (drop the number, merge the details), never by adding more precise detail. Exact numbers, dates and names stay in the item notes and in the vault, not in the copy. One strong number per story is enough.
+
+**Fourth round (her approved version, 2026-10-28 evening; the email-write version was rejected):**
+- **Her story, her timeline.** She put back "O den později" after I had "corrected" it to "Ten týden". In her own story a small shift in timing that serves the rhythm is her call; do not correct it again (see memory: do not verify Lenka's own experiences).
+- **Name concrete everyday wins.** She replaced my abstract assistant line with: hlídá termíny, pamatuje si, co jste kde slíbili, každé ráno roztřídí poštu, a připravené odpovědi čekají na vaše schválení a odeslání. Small conveniences work as proof of the assistant, after the big story, not as the opener.
+- **Sell the saved time.** "od nás dostanete jen osvědčené postupy, takže nebudete ztrácet čas prozkoumáváním zbytečností (to už jsme udělaly za vás)". "Ostatní odpracuje on."
+- **Optional steps say they are optional, with a personal confession.** Microphone: "Pro absolvování kurzu to není bezpodmínečně nutné, ale oceníte to. Sama jsem se tomu dlouho bránila…"
+- **Price goes inside the step, not a separate heading:** "Předplatné se platí na měsíc dopředu přímo firmě Anthropic (verze Pro momentálně stojí 20 USD měsíčně)."
+- **Emotion markers are fine in a mail to customers:** she noted a smiley ("s otevřenou pusou nebo vybuchující hlavou") and a picture at the microphone step.
+- **Length:** her note: as a single welcome mail it is too long; it would make sense in a series before the course starts. The text is kept as approved and will be shortened or adapted when the welcome series is decided.

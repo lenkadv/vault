@@ -2,16 +2,17 @@
 type: welcome-seq
 headline: "Uvítání 2: proč kurz běží na Claudu + dvě věci před prvním setkáním"
 skill: email-write
-subject: "Červená výstraha na mém počítači"
-preview: "Co s ní udělal Claude a co si připravit do 23. listopadu."
+subject: Červená výstraha na mém počítači
+preview: Co s ní udělal Claude a co si připravit do 23. listopadu.
 project: welcome-ucastnice
-source: "adhoc"
-status: review
+source: adhoc
+status: rejected
 id: tbh4umjy22
 business: digistart
 channel: email
 created: 2026-10-28
 note: ""
+kanban_order: V0
 ---
 
 # Uvítání 2: proč kurz běží na Claudu
