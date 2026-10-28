@@ -31,16 +31,16 @@ O den později jsme spolu vzali do parády i moje weby. Stránky, které se nač
 
 To je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, ale asistent, který pracuje přímo ve vašem počítači: s vašimi soubory, poštou, kalendářem i weby.
 
-* **V kurzu si s AI nebudeme povídat.** Vycvičíte si ji jako asistenta, jakého by vám záviděl lecjaký generální ředitel. Takového, který vám hlídá termíny, pamatuje si, co jste kde slíbili, a každé ráno roztřídí poštu - vy už dostanete jen to důležité a připravené odpovědi budou čekat na vaše schválení a odeslání.
+* **V kurzu si s AI nebudeme povídat.** Vycvičíte si ji jako asistenta, jakého by vám záviděl lecjaký generální ředitel. Takového, který vám hlídá termíny, pamatuje si, co jste kde slíbila, a každé ráno roztřídí poštu - vy už dostanete jen to důležité a připravené odpovědi budou čekat na vaše schválení a odeslání.
 * **Pamatuje si vaši práci.** Co o vás ví, má uložené v dokumentech na vašem počítači. Nemusíte mu pokaždé vysvětlovat, kdo jste, co prodáváte a jak píšete, ani znovu přikládat soubory. Po dobrém výcviku na vás zbyde hlavně rozhodování. Ostatní odpracuje on.
-* **Všechno, co vás naučíme, jsme s Claudem prošly, vyzkoušely a vyladily** Příklady výš nejsou z reklamy, je to naše práce z posledních dnů. Neukazujeme nic, co jsme neotestovaly - od nás dostanete jen osvědčené postupy, takže nebudete ztrácet čas prozkoumáváním zbytečností (to už jsme udělaly za vás).
+* **Všechno, co vás naučíme, jsme s Claudem prošly, vyzkoušely a vyladily.** Příklady výš nejsou z reklamy, je to naše práce z posledních dnů. Neukazujeme nic, co jsme neotestovaly - od nás dostanete jen osvědčené postupy, takže nebudete ztrácet čas prozkoumáváním zbytečností (to už jsme udělaly za vás).
 
-Oblíbila jste si ChatGPT tak, že si už bez něj neumíte život představit? Nebudeme vás nutit do srdcervoucího rozchodu, klidně si ho nechte a používejte ho dál tak, jak jste zvyklá. Pro skutečnou práci, jak vás to budeme učit v kurzu, se (nejen) nám víc osvědčil Claude, proto máme návody a postupy připravené pro něj. 
+Oblíbila jste si ChatGPT tak, že si už bez něj neumíte život představit? Nebudeme vás nutit do srdcervoucího rozchodu, klidně si ho nechte a používejte ho dál tak, jak jste zvyklá. Pro skutečnou práci, jak vás to budeme učit v kurzu, se (nejen) nám víc osvědčil Claude, proto máme návody a postupy připravené pro něj.
 
-**Než se uvidíme v pondělí 23. listopadu, je potřeba udělat tyhle dvě věci:
+**Než se uvidíme v pondělí 23. listopadu, je potřeba udělat tyhle dvě věci:**
 
-1. Pořiďte si Claude Pro a stáhněte si do počítače aplikaci Claude. Krok za krokem vás provede [PLACEHOLDER: návod na stažení a instalaci aplikace, odkaz]. Předplatné se platí na měsíc dopředu přímo firmě Anthropic (verze Pro momentálně stojí 20 USD měsíčně). 
-2. Až budete mít aplikaci na svém počítači nainstalovanou, zkuste si s ní promluvit. Klikněte na ikonu mikrofonu a řekněte... cokoliv - jde o to, abyste si byla jistá, že hlasové zadávání funguje. Pro absolvování kurzu to není bezpodmínečně nutné, ale oceníte to. Sama jsem se tomu dlouho bránila, ale teď už skoro všechno diktuji: je to rychlejší a mnohem pohodlnější. /obrázek/
+1. Pořiďte si Claude Pro a stáhněte si do počítače aplikaci Claude. Krok za krokem vás provede [PLACEHOLDER: návod na stažení a instalaci aplikace, odkaz]. Předplatné se platí na měsíc dopředu přímo firmě Anthropic (verze Pro momentálně stojí 20 USD měsíčně).
+2. Až budete mít aplikaci na svém počítači nainstalovanou, zkuste si s ní promluvit. Klikněte na ikonu mikrofonu a řekněte… cokoliv - jde o to, abyste si byla jistá, že hlasové zadávání funguje. Pro absolvování kurzu to není bezpodmínečně nutné, ale oceníte to. Sama jsem se tomu dlouho bránila, ale teď už skoro všechno diktuji: je to rychlejší a mnohem pohodlnější. /obrázek/
 
 Těšíme se na vás.
 
