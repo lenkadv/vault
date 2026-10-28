@@ -80,7 +80,7 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Ptát se AI umíte. Teď jí dejte práci.**
 >
-> Za čtyři pondělní večery si s námi vycvičíte AI asistenta, který hlídá termíny, každé ráno roztřídí poštu a připraví odpovědi, které jen schválíte a odešlete. Rozhodování zůstane vám, ostatní odpracuje on.
+> Za čtyři pondělní večery si s námi vycvičíte AI asistenta, který hlídá termíny, každé ráno roztřídí poštu a připraví odpovědi, které jen schválíte a odešlete. Rozhodování zůstane vám, ostatní odpracuje on. +++udělej lepší znění - viz dnes připravený text "Proč Claude"+++
 >
 > **Kdy:** pondělí 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, živé vysílání online s Lenkou Dvořákovou a Štěpánkou Uličnou. Po Vánocích se sejdeme ještě jednou, až budete mít za sebou první vlastní zkušenosti.
 >
@@ -94,7 +94,7 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Děkujeme, přihláška je odeslaná.**
 >
-> Pokud jste zvolili bankovní převod, platební údaje najdete tady a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol – když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
+> Pokud jste zvolili bankovní převod, platební údaje najdete na této stránce dole +++je to dole správně?+++ a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol – když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
 >
 > Potřebujete se na něco zeptat? Napište na: ulicna@gnostika.cz
 
@@ -102,7 +102,7 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Místo v kurzu DigiStart je vaše!**
 >
-> Fakturu najdete v příloze. Před prvním setkáním vám pošleme uvítací mail: jak se na první pondělí připravit a kde najdete odkaz na vysílání. Do té doby nemusíte nic dělat.
+> Fakturu najdete v příloze. Před prvním setkáním se vám ještě ozveme, abyste věděl/a, jak se na první pondělí připravit a kde najdete odkaz na vysílání. Do té doby nemusíte nic dělat. Ale můžete se těšit! :-)
 >
 > Těšíme se na vás v pondělí 23. 11. v 17 h.
 >
@@ -112,7 +112,7 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 ### 4. Věty nad tlačítkem
 
 - Souhlas s obchodními podmínkami GNOSTIKY (už tam je).
-- Návrh přidat povinný checkbox: „Beru na vědomí, že na kurz potřebuji vlastní předplatné Claude Pro (platí se zvlášť firmě Anthropic).“ (Odpovídá rozhodnutí z 17. 10.: Claude Pro je nutný a stránka to říká otevřeně.)
+- Přidat povinný checkbox: „Beru na vědomí, že pro plnohodnotnou práci v kurzu potřebuji placenou verzi Claude (alespoň Pro, momentálně 20 USD měsíčně, platí se zvlášť firmě Anthropic).“ 
 
 ### 5. Děkovací stránka (nová)
 
