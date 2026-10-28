@@ -199,6 +199,8 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [x] Porovnat B2 a B3 a vybrat ✅ 2026-10-24 — Lenka (tabule): dál pracujeme s B3; můžou vzniknout další varianty, když přijde lepší nápad. B2 zatím nemazat.
 - [ ] Doplnit žlutá místa v B3: datum, setkání, Claude Pro, věta o deseti účastnicích, údaje GNOSTIKY #next-action #online
     - Kontext: L s C; rozhodnuto 261017: Claude Pro nutný, věta o deseti účastnicích platí. B3 = https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2
+- [ ] Doupravit stránku DigiStart B4 v Leadpages #next-action #online
+    - Kontext: koncept https://leadpages.com/edit/t4oow6qi3394so3jl4jsy336 (nepublikovaný); text a komentáře zapracovány 261028, další úpravy přímo v editoru. Pak Claude přenese změny do položky `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`.
 - [ ] Věty o Lence a Štěpánce napsat (zatím na stránce žádné nejsou), Š schválí svou — L s C, pak Š
 - [ ] Fotky do sekce o lektorkách (portréty 2024) a snímek webu GNOSTIKY o auditech — C
 - [ ] Kontrola textu 9 body, mobil, popis a náhled pro sdílení — C
