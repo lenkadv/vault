@@ -13,7 +13,7 @@ kanban_order: V0
 
 # Proč DigiStart běží na Claudu
 
-**Verze 3 (28. 10. večer).** Lenčiny přepisy ve verzi 2 (začátek o disku, odstavec o webu, ChatGPT) zůstávají; podle její poznámky +++ dopsán úklid disku méně technicky a odstavec o webech opravený podle faktů (viz Notes). Starší verze s poznámkami jsou v gitu.
+**Verze 4 (28. 10. večer), zkrácená a zobecněná podle Lenky; předtím verze 3:** Lenčiny přepisy ve verzi 2 (začátek o disku, odstavec o webu, ChatGPT) zůstávají; podle její poznámky +++ dopsán úklid disku méně technicky a odstavec o webech opravený podle faktů (viz Notes). Starší verze s poznámkami jsou v gitu.
 
 ## A) Uvítací text pro účastnice (e-mail po zaplacení, případně scénář krátkého videa)
 
@@ -25,9 +25,9 @@ před pár dny mi v počítači svítila červená výstraha: z 931 GB na disku 
 
 Úklid jsem odkládala dva roky. Kdo by se taky prokousával tisíci souborů, z nichž polovina má názvy, které nic neříkají? Kopie kopií, programy, které si Windows nainstalovaly samy, a hra, kterou jsem si kdysi stáhla a dávno na ni zapomněla. Smazat něco, co nepoznám, jsem si netroufla. Co kdyby pak počítač přestal fungovat?
 
-Claude prošel všech 793 tisíc souborů za jeden den. U každé věci mi vysvětlil, co to je a jestli ji ještě potřebuju. Já jsem jen schvalovala, co půjde pryč, bez mého souhlasu nesmazal nic. Večer byla volná víc než polovina disku.
+Claude to prošel za jeden den, všech 793 tisíc souborů. Já jen schvalovala, co půjde pryč. Večer byla volná víc než polovina disku.
 
-Ten samý týden jsme spolu předělaly moje weby. Jeden byl bumbrlíček, který se načítal několik vteřin (to znamená celou věčnost!), dnes odpoví za desetinu vteřiny. K druhému, který má 133 stránek, mi Claude nakreslil mapu, takže konečně vidím, kde co je a kam co vede. (A jen tak mimochodem opravil nefunkční odkazy v mých online kurzech.)
+Ten týden jsme spolu vzaly do parády i moje weby. Stránky, které se načítaly celou věčnost, dnes naskočí dřív, než stihnete mrknout. A Claude mi nakreslil mapu, takže konečně vidím, kde co je a kam co vede.
 
 Tohle je Claude. Ne okno, do kterého napíšete otázku a dostanete odpověď, ale asistent, který pracuje přímo ve vašem počítači: s vašimi soubory, poštou, kalendářem i weby.
 
@@ -71,7 +71,6 @@ Protože v kurzu si s AI nebudete jen povídat. Claude pracuje přímo ve vašem
 - „Všechno jsme samy vyzkoušely“: Lenka na svých věcech, Štěpánka prošla zkušební průchod balíčkem (zpětná vazba 11. 10.). Pokud by to Štěpánka viděla jinak, upravit.
 - „(a nejsme samy)“ = Lenčino „(nejen) my“; nejmenuji Dannyho Inyho.
 - Vynecháno podle Lenky: nastavení paměti (v aplikaci leží „paměť“ v dokumentech), limity bezplatné verze, odstavec „nic jste nerozbila“.
-- **Verze 3, odstavec o webech (oprava faktů v Lenčině přepisu):** „bumbrlíček“ s několika vteřinami je lenkadvorakova.cz (odpověď serveru asi 3 s → 0,1 s), 133 stránek a mapa jsou lcenglish.cz. Lenčina verze je spojila do jednoho webu, proto „moje weby… Jeden… K druhému…“. „O den později“ nesedí (weby 24.–26. 10., disk 26. 10.), proto „Ten samý týden“. „Opravil nefunkční odkazy“ jsem nenašla u webu, ale v online kurzech ve FreshLearn (`projects/lcenglish-freshlearn-revize.md`, 25. 10., 17 odkazů ve 13 lekcích), proto „v mých online kurzech“. Místo „/ještě něco/“ nic dalšího nepřidávám.
-- **Verze 3, odstavec o disku:** „dva roky“, programy od Windows, zapomenutá hra a strach smazat neznámou věc jsou z Lenčiny poznámky. Že byla mezi odinstalovanými programy i hra, sedí s `resources/pripady-z-praxe-claude.md` („hry, vývojové nástroje, staré editory“). „U každé věci mi vysvětlil, co to je“ je moje shrnutí „prošli jsme po položkách“, Lenka potvrdí. Google Disk a kopie z roku 2021 vypuštěné (méně technicky).
+- **Verze 4 (Lenka 28. 10. 17:13):** copy nemá vypisovat každou podrobnost, má zobecnit a zkrátit. Odstavec o webech proto bez počtu webů, stránek a vteřin a bez odkazů v kurzech; disk bez výčtu, co Claude vysvětloval. Fakta drží: weby byly dva (lenkadvorakova.cz zrychlen z asi 3 s na 0,1 s, lcenglish.cz má mapu), „Ten týden“ = 24.–26. 10.. Podrobnosti zůstávají ve vaultu `resources/pripady-z-praxe-claude.md` a v nápadu na delší verzi v `brain/ideas.md`.
 - Rod: „AI“ = ona, „Claude“ / „asistent“ = on. Účastnice v ženském rodě, „vy“ s malým v.
 - Placeholders left for the owner: 1 (návod na stažení a instalaci aplikace).

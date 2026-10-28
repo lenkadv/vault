@@ -14,3 +14,5 @@
 - **Objection as a joke, not an argument.** Her ChatGPT paragraph: "Oblíbila jste si ChatGPT tak, že si už bez něj neumíte život představit? Nebudeme vás nutit do srdcervoucího rozchodu… Pro skutečnou práci… se (nejen) nám víc osvědčil Claude." No "prošlápnout cestu" caveat, no bold rhetorical heading.
 - **The welcome mail stays short.** Long versions of these real-life stories belong in promo materials and ads (`brain/ideas.md`), the mail is for paying customers.
 - **Check facts in her rewrite too.** Her version merged two websites into one and dated the web work "o den později"; I kept her wording and fixed only the facts, and said so in the item notes.
+
+**Third round (Lenka 17:13):** "do copy ale nemůžeme psát každou podrobnost. abstrahuj, zevšeobecni, zkrať tak, aby to bylo dobré copy, ne dokumentární záznam." When a fact in her rewrite is off, fix it by generalising (drop the number, merge the details), never by adding more precise detail. Exact numbers, dates and names stay in the item notes and in the vault, not in the copy. One strong number per story is enough.
