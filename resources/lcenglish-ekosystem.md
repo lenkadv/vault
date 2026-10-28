@@ -45,7 +45,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Web lcenglish.cz (WordPress)
 
-- **Ověřeno:** 261027 (3 rozbité odkazy ven v článcích opraveny, u 94 článků s videem nahoře skrytý hlavní obrázek, komentáře zavřené u všech článků i jako výchozí, ověřeno živě; staging smazán, živý web 200 a bez vazby na staging; nadpis úvodu a nejčtenější články 261026; přestavba 261024–25)
+- **Ověřeno:** 261028 (do 10 nejčtenějších článků odstavec s dárkem nebo kurzem, v How are you nefunkční video Yarn nahrazeno odkazem, ověřeno živě, přehled [[mapa-webu#Nejčtenější články: dárek a kurz (Lenka schválila 261028)]]; 261027: 3 rozbité odkazy ven v článcích opraveny, u 94 článků s videem nahoře skrytý hlavní obrázek, komentáře zavřené u všech článků i jako výchozí, ověřeno živě; staging smazán, živý web 200 a bez vazby na staging; nadpis úvodu a nejčtenější články 261026; přestavba 261024–25)
 - **K čemu:** blog (112 článků, hlavní zdroj z vyhledávání; na hlavní stránce od 261026 vybrané nejčtenější články místo 6 nejnovějších, výběr v zkratce `[lce-posledni-clanky clanky="…"]`), stránky Home, Blog, Kurzy, Kontakt, Newsletter (`/newsletter/`, přihlášení k Art for English bez dárku, od 261026), objednávkové stránky `/irregular-cho/` a `/hele-checkout/`; prodejní stránky na doméně vkládá plugin Leadpages.
 - **Kde běží:** WordPress 7.1.3 u HOSTINGSOLUTIONS (Plesk, server web54, IP 176.227.168.166, PHP 8.3.36), šablona Kadence, jazyk webu čeština (od 261027, administrace účtů Lenky anglicky), od 261024 bez Elementoru (plugin vypnutý, nesmazaný). Na stejném tarifu i lenkadvorakova.cz a publicspeaking.cz (jen přesměrování). Zkušební kopie `staging.lcenglish.cz` smazána 261027 (záloha na Disku `Zálohy webů/staging.lcenglish.cz 261027` do 27. 1. 2027). Místo: tarif 10 GB, prostor lcenglish.cz 3 000 MB, po úklidu 261027 1,8 GB (62 %; překročení web neomezuje). Jazyky jádra jen čeština (+ vestavěná angličtina), dřív 25 jazyků. Rozbor v [[kontext-ukolu#Weby mimo WordPress]]. Hosting cca 3 071 Kč ročně, zaplaceno do 9. 5. 2027.
 - **Přístup:** Lenka (2 admin účty: lnk.dvorakova@gmail.com, 07pmtalk@gmail.com), zákaznický účet https://cp.hostingsolutions.cz. Claude pracuje v Chromu, když se Lenka přihlásí; soubory do `mu-plugins` nahrává Claude ve Správci souborů Plesku, když se Lenka přihlásí přes klientskou sekci (Mé služby → lcenglish.cz → Otevřít ovládací panel = jednotné přihlášení; přímá stránka `web54…:8443` chce jiné údaje, viz [[kontext-ukolu#Weby mimo WordPress]] 261026).
@@ -88,7 +88,7 @@ Prodejní stránka (Leadpages na lcenglish.cz) → objednávka FAPI → po zapla
 
 ### Drip
 
-- **Ověřeno:** 261026 (nové přihlášení k newsletteru bez dárku otestováno; webhooky a oslovení 261025)
+- **Ověřeno:** 261028 (akce oken To be → A a Nepravidelná slovesa 50 → B přečtené v Dripu; 261026: nové přihlášení k newsletteru bez dárku otestováno; webhooky a oslovení 261025)
 - **K čemu:** e-mailový seznam, dárky, uvítání (Controller a vagóny podle Email Marketing Heroes), newsletter Art for English, záznam nákupů.
 - **Kde běží:** getdrip.com, účet LCEnglish 2094497, odesílá `lenka@lcenglish.cz`. Druhý účet AI lektoři (8879539) není LCEnglish.
 - **Přístup:** Lenka. Claude: konektor (čtení, odběratelé, maily ve workflow); workflow a integrace jen v prohlížeči. API klíč `DRIP_API_KEY` v `GrowOS/lcenglish/.env`.
