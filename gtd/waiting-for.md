@@ -13,6 +13,10 @@ sort by due
 ---
 
 ## Čeká na datum
+- [ ] Zkontrolovat v Claude (Scheduled → Kontrola A4E → History), že úloha v 9:00 proběhla a sedí 📅 2026-11-03
+    - Kontext (261028): první zkušební naplánovaná úloha v claude.ai podle návodu AI Signal ([[SLU – Scheduled tasks]]); jen čte Drip a Substack, nic nemění. Ruční kontrolu při denním plánu zatím dělám dál.
+- [ ] Rozhodnout: nechat, nebo smazat naplánovanou úlohu Kontrola A4E 📅 2026-11-11
+    - Kontext (261028): po dvou bězích (3. a 10. 11.). Ušetřila čas a hlásila správně? Nechat a ruční kontrolu při denním plánu vypustit; jinak smazat (Scheduled → tři tečky → Delete).
 - [ ] Pozastavit FB skupinu MABO (rozlučka visí od 27. 10.) 📅 2026-11-03
     - Kontext: archivace v rozhraní není, jen „Pozastavit skupinu“; postup v `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`.
 
@@ -41,8 +45,6 @@ sort by due
     - Kontext (Lenka 261026 20:37): „zkusím napsat dnes, zkontroluj mě zítra“.
 - [ ] Vyzkoušet najednou prompty z AI Strategist 📅 2026-10-29 → [[kontext-ukolu#AI Strategist (Danny Iny)]]
     - Kontext (Lenka 261026): během kurzu (26.–28. 10.) je nezkouší, všechny až po něm.
-- [ ] Vrátit nebo prodloužit v knihovně KTF knihu Svět včerejška (Zweig) 📅 2026-10-29
-    - Kontext: upozornění knihovny 26. 10. (svodka č. 27); prodloužit jde v kontě https://cuni.primo.exlibrisgroup.com/discovery/account?vid=420CKIS_INST:UKAZ, pokud kniha není rezervovaná.
 - [ ] Navrhnout s Claudem curriculum Art for English na leden–červen 2027 📅 2026-11-30 → [[lcenglish-art-for-english]]
     - Kontext (Zápisník 261025): současný plán v `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md` končí v prosinci; tenhle úkol je pojistka, aby další plán vznikl včas a nečekal se na náhodu. Na leden zařadit Klanění tří králů (Botticelli, k 5. 1. 2027, nedogmaticky; Lenka 261027); otevřené body v curriculu.
 
@@ -76,14 +78,12 @@ sort by due
 - [x] **Zrušit Coursera Plus (7denní trial)** — **zrušeno 261009 (Lenka), přístup ke kurzům trvá do 11. 10.** Původní zadání: trial spuštěn 4. 10., zdarma do 11. 10. 2026, od 12. 10. strhne 49 USD měsíčně. Zrušit na https://www.coursera.org/my-purchases → Cancel subscription **nejpozději 10. 10.** (ideálně hned po posledním bloku Coursera v pá 9. 10.). Build Anything with AI je celý stažený a zapsaný (261004, [[coursera-build-anything-with-ai]]); jediný zbývající důvod trial držet je případný další kurz (AI Agent Skills for Leaders), rozhodnutí viz [[claude-academy]]. **Claude připomíná v denním plánu od 7. 10. a znovu 9. 10.** 📅 2026-10-10
 
 ## Čeká na někoho
+- [ ] Čekám na Štěpánku ohledně Stripe a převodu na nový účet v SimpleShopu GNOSTIKY 📅 2026-11-02
+    - Kontext (Lenka 261028 21:56, předáno Štěpánce): zprovoznit platby kartou přes Stripe a založit platbu převodem na účet 3124063015/3030 místo KB. Pak Claude u produktu DigiStart přepne platbu z KB na nový účet a může proběhnout testovací objednávka. Projekt [[digistart]] oddíl 5; reklamy od cca 9. 11.
 - [x] (261027: Frank odpověděl 26. 10. – pozadí portálu změnit nejde, Custom Script systémová nastavení neupraví, jde jen barva tlačítek; svodka č. 28) Čekám na podporu FreshLearn ohledně růžového pozadí portálu a nefunkčního Custom Script pro Member Portal 📅 2026-10-30
     - Kontext: mail odeslala Lenka 261025 ~21:00 na support@freshlearn.com. Oprava 17 v [[lcenglish-freshlearn-revize]]; vlastní CSS je v administraci uložené (Custom Script → Member Portal), jen se nenačítá.
 - [x] (261025 12:01: Jaroslav Podhradský odpověděl „koš vyprázdněn dle požadavku“, svodka č. 27) Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28 ✅ 2026-10-26
     - Kontext: mail odeslala Lenka 261025 z Gmailu na info@hostingsolutions.cz (složky `elementor`, `elementor 1`, `core`, `modules` v `.trash`, chyba Operation not permitted). Detail [[kontext-ukolu#Weby mimo WordPress]].
-- [ ] Zavolat si se Štěpánkou k připojení stránky DigiStart k portfoliu Meta → [[digistart]] 📅 2026-10-28
-    - Kontext: Lenka jí připomněla 261027 večer, domluvily se, že si 28. 10. zavolají.
-    - Kontext (Zápisník 261024 23:31): Štěpánka portfolio DigiStart založila, připojení stránky Meta odložila zhruba do po 26. 10. 15:30. Pak zkusit znovu a ověřit, že projde.
-    - Kontext: návod nasdílen 261024 (https://claude.ai/code/artifact/39ecf5c7-8338-49bc-bbfe-ea6fa7721db3); Lenčino portfolio Meta neodblokovala.
 - [x] Čekám na Štěpánku Uličnou: datum začátku pilotu DigiStart → domluveno ústně, viz [[digistart]] ✅ 2026-10-20
 - [x] (261024: TidyCal běží, `tidycal.com/ulicna/konzultace`, Lenka ho 23. 10. otestovala; úprava popisků je úkol v [[digistart]]) Čekám na Štěpánku Uličnou: odkaz na TidyCal s termíny konzultací DigiStart (pro prodejní stránku) → [[digistart]] 📅 2026-10-28 ✅ 2026-10-24
 - [x] ~~Čekám na Metu — odblokování portfolia DigiStart~~ ✅ 2026-10-24 — uzavřeno bez výsledku: Meta nic, žádný kód nepřichází, AI chat vrací ke kódu (Lenka 261024). Jde se přes Štěpánku → úkol v [[digistart]].
