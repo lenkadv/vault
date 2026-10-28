@@ -68,9 +68,9 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 **Nadpis formuláře** (místo „Objednávka“): Přihláška do kurzu DigiStart
 
-**Nadpis údajů** (místo „Fakturační údaje“): Vaše údaje (na ně vystavíme fakturu)
+**Nadpis údajů** (místo „Fakturační údaje“): Na koho vystavíme fakturu
 
-**Nadpis plateb:** Jak chcete zaplatit
+**Nadpis plateb:** Jak zaplatíte
 
 **Tlačítko odeslání** (místo „Potvrďte nákup“). Zákon chce, aby z tlačítka bylo jasné, že objednávka zavazuje k platbě:
 - A: Závazně se přihlásit a zaplatit
@@ -78,23 +78,23 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 **Popis nad formulářem**
 
-> **DigiStart: čtyři pondělí, kdy AI začne dělat práci za vás**
+> **Ptát se AI umíte. Teď jí dejte práci.**
 >
-> Čtyři živá vysílání s Lenkou Dvořákovou a Štěpánkou Uličnou: pondělí 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, online. Páté konzultační setkání bude po Vánocích.
+> Za čtyři pondělní večery si s námi vycvičíte AI asistenta, který hlídá termíny, každé ráno roztřídí poštu a připraví odpovědi, které jen schválíte a odešlete. Rozhodování zůstane vám, ostatní odpracuje on.
 >
-> Cena 15 000 Kč, konečná (nejsme plátkyně DPH).
+> **Kdy:** pondělí 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, živé vysílání online s Lenkou Dvořákovou a Štěpánkou Uličnou. Po Vánocích se sejdeme ještě jednou, až budete mít za sebou první vlastní zkušenosti.
 >
-> **Kdy se platí:** hned při přihlášení, kartou nebo převodem. Místo máte jisté, jakmile platba dorazí.
+> **Cena:** 15 000 Kč. Je konečná, DPH se nepřičítá. Platí se hned při přihlášení, kartou nebo převodem. Jakmile platba dorazí, místo v kurzu je vaše.
 >
-> **Co budete potřebovat:** počítač (notebook nebo stolní počítač) a placený Claude Pro (20 USD měsíčně, platí se zvlášť společnosti Anthropic).
+> **Co budete potřebovat:** počítač (notebook nebo stolní počítač) a předplatné Claude Pro (nebo vyšší verzi). Předplatné se platí na měsíc dopředu přímo firmě Anthropic, verze Pro teď stojí 20 USD měsíčně.
 >
-> Nejste si jistí? [Domluvte si nejdřív konzultaci zdarma](https://tidycal.com/ulicna/digistart).
+> Ještě váháte? [Domluvte si nejdřív konzultaci zdarma](https://tidycal.com/ulicna/digistart) se Štěpánkou.
 
 **Stránka po objednání** (vidí ji hned po odeslání, hlavně kdo platí převodem)
 
 > **Děkujeme, přihláška je odeslaná.**
 >
-> Pokud jste zvolili bankovní převod, platební údaje najdete tady a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol - když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
+> Pokud jste zvolili bankovní převod, platební údaje najdete tady a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol – když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
 >
 > Potřebujete se na něco zeptat? Napište na: ulicna@gnostika.cz
 
@@ -102,17 +102,17 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Místo v kurzu DigiStart je vaše!**
 >
-> Faktura je v příloze. Do [PLACEHOLDER: kdy, např. „pátku 20. 11.“] vám pošleme uvítací mail: jak se na první pondělí připravit a kde budou odkazy na vysílání.
+> Fakturu najdete v příloze. Před prvním setkáním vám pošleme uvítací mail: jak se na první pondělí připravit a kde najdete odkaz na vysílání. Do té doby nemusíte nic dělat.
 >
-> Na první setkání 23. 11. v 17 h se těšíme.
+> Těšíme se na vás v pondělí 23. 11. v 17 h.
 >
 > Za nás obě zdraví
-> Lenka a Štěpánka
+> Lenka
 
 ### 4. Věty nad tlačítkem
 
 - Souhlas s obchodními podmínkami GNOSTIKY (už tam je).
-- Návrh přidat povinný checkbox: „Beru na vědomí, že pro kurz potřebuji placený Claude Pro, který si platím sama.“ (Odpovídá rozhodnutí z 17. 10.: Claude Pro je nutný a stránka to říká otevřeně.)
+- Návrh přidat povinný checkbox: „Beru na vědomí, že na kurz potřebuji vlastní předplatné Claude Pro (platí se zvlášť firmě Anthropic).“ (Odpovídá rozhodnutí z 17. 10.: Claude Pro je nutný a stránka to říká otevřeně.)
 
 ### 5. Děkovací stránka (nová)
 
