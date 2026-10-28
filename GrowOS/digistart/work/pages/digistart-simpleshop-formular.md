@@ -3,12 +3,18 @@ type: checkout-form
 headline: Objednávkový formulář DigiStartu v SimpleShopu GNOSTIKY
 note: ""
 id: w6ypuhg9vi
-status: changes
+status: published
 business: digistart
 channel: pages
 created: 2026-10-28
 skill: ""
 kanban_order: V0
+publish_destination: "simpleshop-gnostika"
+publish_ref: "160078"
+publish_attempted_at: "2026-10-28T19:50:00Z"
+publish_state: "prepared"
+publish_note: "Formulář nastaven a uložen v SimpleShopu GNOSTIKY po Lenčině schválení; ověřeno na veřejném formuláři https://form.simpleshop.cz/V5KQb/buy/. Z B3 na něj zatím nic nevede."
+published_at: "2026-10-28T20:05:00Z"
 ---
 
 # DigiStart: objednávkový formulář v SimpleShopu GNOSTIKY (návrh úprav)
@@ -140,3 +146,15 @@ Nastavím v SimpleShopu body 1–4 (vybrané varianty), uložím, otevřu veřej
 - **Kde jsou platební údaje (Lenka 28. 10.: „je to dole správně?“):** nápověda SimpleShopu říká jen, že při převodu se na stránce po objednání vygeneruje QR kód a instrukce k platbě a že vlastní text jde doplnit; jestli jsou nad, nebo pod naším textem, neuvádí (https://podpora.redbit.cz/navod/stranka-po-objednani/). Proto text bez „dole“; polohu ověřit při testovací objednávce převodem.
 - **Platba kartou:** při vlastní adrese přesměrování jde zákaznice po zaplacení kartou rovnou na ni (stejný zdroj), proto má děkovací stránka (bod 5) stejný text jako mail po zaplacení.
 - Věta o asistentovi v popisu je převzatá z Lenčina schváleného textu „Proč Claude“ (`work/course/digistart-proc-claude.md`), jen „slíbila“ → „slíbili“ kvůli rodu na formuláři.
+
+## Výsledek (2026-10-28 20:50)
+
+Nastaveno a uloženo v SimpleShopu GNOSTIKY, ověřeno na veřejném formuláři https://form.simpleshop.cz/V5KQb/buy/ (detail s popisem: https://form.simpleshop.cz/V5KQb/). Cena, platby karta + převod, pole, nadpisy, tlačítko, barvy, popis, stránka po objednání a po uhrazení, povinný checkbox Claude a souhlas s obchodními podmínkami (výchozí PDF GNOSTIKY).
+
+Zjištěno při nastavení:
+- **Popis nad formulářem se zobrazuje na stránce detailu** (`/V5KQb/`), ne na samotném objednávkovém formuláři (`/V5KQb/buy/`). Kam povede tlačítko z B3, je potřeba rozhodnout.
+- **Cena bez desetinných míst** se v řádku produktu ukazuje jako „15000 Kč“ (bez mezery), součet „Celkem“ dál jako „15 000,00 Kč“. Je to chování SimpleShopu; jde vrátit na „15 000,00 Kč“ všude.
+- **Text do mailu po zaplacení** je v SimpleShopu proměnná `productMailText`. Do mailu se dostane jen tehdy, když ji obsahuje e-mailová šablona (Šablony). Ověřit při testovací objednávce.
+- Na „Stránce po uhrazení“ je stejný text jako v mailu, jen první věta zní „Fakturu najdete na této stránce a poslaly jsme vám ji i do mailu.“
+- Odstraněn nefunkční řádek „Zadejte název“ ve vlastních polích (skrytý).
+- Ve stránce po zaplacení kartou se zatím nepřesměrovává; adresa děkovací stránky přijde po jejím schválení.
