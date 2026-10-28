@@ -221,10 +221,12 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 **5. Fakturace a platba** (limit st 21. 10.)
 - [x] Rozhodnout se Štěpánkou, přes co GNOSTIKA prodává kurz ✅ 2026-10-28 — SimpleShop GNOSTIKY (reklama i prodej přes GNOSTIKU)
 - [x] Vylepšit s Claudem prodejní formulář DigiStartu v SimpleShopu GNOSTIKY ✅ 2026-10-28 — nastaveno, viz Záznam 261028 21:00
-- [ ] Upravit s Claudem obchodní podmínky GNOSTIKY pro DigiStart #next-action #online
+- [ ] Upravit s Claudem obchodní podmínky GNOSTIKY pro DigiStart (zbývá kontakt, odstoupení, GDPR, datum účinnosti) #next-action #online
+    - 261028 21:05: Stripe hotový. Nové PDF `obchodni-podminky-gnostika-stripe.pdf` (text beze změny, jen v čl. 10.1 „platební brána Stripe“ místo ThePay a PayPal) nahrané v SimpleShopu a nastavené jen u produktu DigiStart; výchozí podmínky GNOSTIKY pro ostatní produkty zůstaly původní. Zdroj a originál: `resources/gnostika-obchodni-podminky/`.
     - Kontext (Lenka 261028): kontakt GNOSTIKA ulicna@gnostika.cz (teď je tam lenka@publicspeaking.cz), platební brána Stripe (teď ThePay a PayPal), odstoupení u živého kurzu nebude možné, GDPR místo zákona 101/2000 Sb., prodávající GNOSTIKA s IČ. Dnešní PDF z roku 2022: https://storage-panda.vyfakturuj.cz/company/0/38/38797/op/obchodni-podminky-z-textoveho-pole.pdf (výchozí soubor v SimpleShopu GNOSTIKY). Rozbor v `GrowOS/digistart/work/pages/digistart-simpleshop-formular.md`.
 - [ ] Zprovoznit platby kartou přes Stripe v SimpleShopu GNOSTIKY #online
-- [ ] Ověřit účet pro bankovní převod (zatím KB) v SimpleShopu GNOSTIKY #online
+- [ ] Založit v SimpleShopu GNOSTIKY platbu převodem na nový účet 3124063015/3030 #online
+    - Kontext (Lenka 261028 20:58): nový účet místo KB. Číslo účtu do SimpleShopu zadává Lenka sama (Nastavení → Platby / způsoby úhrady), Claude ho do formulářů nevyplňuje. Pak u produktu DigiStart zapnout novou platbu a KB vypnout (to udělá Claude, stačí říct).
 - [ ] Připravit s Claudem děkovací stránku DigiStartu po zaplacení (Leadpages) #online
     - Kontext (Lenka 261028): po zaplacení kartou přesměrovat na vlastní děkovací stránku (vzhled B3, noindex, text z mailu po zaplacení, později pixel). Výstup přes frontu GrowOS; adresu pak doplnit v SimpleShopu (Ostatní → přesměrování po zaplacení).
 - [ ] Rozhodnout, kam povede tlačítko objednávky z B3: detail s popisem, nebo rovnou formulář #online
