@@ -24,3 +24,21 @@ Lenka nahrává bloky do Voicenotes, Claude ukládá přepisy a ke každému dni
 | 2 (27. 10.) | 1: energie | [[13-zivy-d2-b1-prepis]] | [[zivy-den-2-vytah]] |
 | 2 (27. 10.) | 2: provedení | [[14-zivy-d2-b2-prepis]] | [[zivy-den-2-vytah]] |
 | 2 (27. 10.) | 3: pasti AI, dotazy | [[15-zivy-d2-b3-prepis]] | [[zivy-den-2-vytah]] |
+| 3 (28. 10.) | 1: shrnutí, licence pro facilitátory, zadání laboratoře | [[16-zivy-d3-b1-prepis]] | [[zivy-den-3-vytah]] |
+| 3 (28. 10.) | 2: prodej Agents Immersion Sprint (výklad o agentech chybí) | [[17-zivy-d3-b2-prepis]] | [[zivy-den-3-vytah]] |
+| 3 (28. 10.) | 3: bez nového obsahu, nenahráváno | — | — |
+
+## Lenčino hodnocení cvičení (dny 1–2)
+
+Výstupy jsou na jejím Disku, odkazy v dokumentu [AI Strategist D1-3](https://docs.google.com/document/d/1-pN5Qb4wPH-LLm65DqHFo61cXbBt7oK6VlmJfQzlOWY/edit?tab=t.0).
+
+| Cvičení | Hodnocení (Lenka, zkráceně) |
+|---|---|
+| D1S1 Unlocking Your 10x Genius | k ničemu, jen řeči, jalový výstup |
+| D1S2 Growth Acceleration Trifecta Gap | taky k ničemu, méně otravné; k čemu výstup slouží? |
+| D1S3 Goals-to-Strategy Alignment Audit | nikam nevedlo, ukončeno před koncem |
+| D2S1 Energy Audit and Optimization | tváří se, že najde geniální řešení; nenašlo |
+| D2S2 Execution Opportunity Focus | ukončeno předčasně; psychoterapeutický AI fluff („patová smyčka“, „systémový konflikt“) |
+| D2S3 Responsible AI Exploration | (zatím bez záznamu) |
+
+Mail po dni 2 („[AIS] The pieces are coming together“, 27. 10. 23:02 UTC) přidal dva bonusové prompty: Acute Drain Recovery Protocol a [Project Scoping Protocol](https://docs.google.com/document/d/1_4qfOt57T96nFR-lpSFFWshF8rDNHZu0poblmHXrlnw/edit?tab=t.0) (pět kroků z bloku 2: výpis, zrcadlení, otázky, steelman, „project charter“). Mail zmiňuje „Reimagination Roadmap“, které v živém programu nebylo.

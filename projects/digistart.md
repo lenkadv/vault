@@ -157,11 +157,11 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
     - 261026: staženy všechny přepisy k AI Strategist, které jsou ve Voicenotes (video 1, video 4 a úvodní video pro přihlášené) → `GrowOS/digistart/library/danny-iny-ai-strategist/`. Videa 2 a 3 ve Voicenotes nejsou; zbývá je nahrát do Voicenotes (pak je Claude stáhne) a udělat rozbor do swipe.
 - [ ] Vybrat s Claudem z [[pripady-z-praxe-claude]] příklady pro DigiStart a reklamu #next-action #online
     - Kontext (Lenka 261026): úklid disku, ranní svodka, weby a mapa webu jako vlastní případové studie, „abych tě mohla chválit i jinde“.
-- [ ] Zpracovat s Claudem přepisy živého AI Strategist (26.–28. 10.) do výtahu #next-action #online 📅 2026-10-30
+- [x] Zpracovat s Claudem přepisy živého AI Strategist (26.–28. 10.) do výtahu ✅ 2026-10-28
     - Kontext (261026): Lenka nahrává každý blok (16:00, 18:30, 20:30) zvlášť; od bloku 3 dne 1 do Easy Voice Recorderu jako přednášky a soubor pak nahraje do Voicenotes (nativní nahrávání Voicenotes se u dlouhých bloků zasekávalo), prompty a odkazy píše do dokumentu na Disku v `00 Inbox`. Claude stáhne přepisy do `GrowOS/digistart/library/danny-iny-ai-strategist/` a ke každému dni udělá výtah: DigiStart (stavba kurzu, prodej, funnel), práce s Claudem (postupy, prompty), LCEnglish. Úvody a opakování vynechat, použitelné do swipe nebo jako úkoly.
     - 261026: den 1 hotový (bloky 1–3) → [[zivy-den-1-vytah]].
     - 261027: den 2 hotový (bloky 1–3) → [[zivy-den-2-vytah]].
-    - 261028: den 3 bloky 1 a 2 (prodej Agents Immersion Sprint) → [[zivy-den-3-vytah]]; blok 3 zbývá.
+    - 261028: den 3 bloky 1 a 2 (prodej Agents Immersion Sprint) → [[zivy-den-3-vytah]]. Blok 3 bez nového obsahu, Lenka trénink uzavřela. Z inspirace vznikla prodejní stránka B4 (review).
 - [x] Ověřit, jestli si Claude stáhne přepisy z Voice Notes sám ✅ 2026-10-26 — ano, viz Záznam 261026
 - [x] Zapnout v Claude konektor Voicenotes ✅ 2026-10-26 — funguje, ověřeno 09:20
     - Kontext (261026): oficiální konektor, přihlášení jen kliknutím (bez hesla a klíče), Claude pak přepisy stahuje sám bez Chromu. Odkaz: https://claude.ai/directory/connectors/1c34a7fb-93a7-4a21-8fc8-2287034ecc8c → Add → Connect → Continue. Postup [[resources/postupy/voicenotes]].
