@@ -7,7 +7,7 @@
 
 ## Aktuální stav
 
-261028 večer: **Rozhodnuto se Štěpánkou: reklamu i prodej dělá GNOSTIKA, prodej přes SimpleShop GNOSTIKY.** Meta je odblokovaná: portfolio DigiStart (za GNOSTIKU) běží, je k němu přiřazená FB stránka DigiStart i nový reklamní účet. V SimpleShopu GNOSTIKY Lenka založila první produkt DigiStart; teď se ladí prodejní formulář do stylu DigiStartu (samostatné vlákno), pak obchodní podmínky, testovací objednávka a tlačítko objednávky na B3. Další v pořadí mapy: pixel a reklama (kreativa a texty).
+261028 večer: **Rozhodnuto se Štěpánkou: reklamu i prodej dělá GNOSTIKA, prodej přes SimpleShop GNOSTIKY, faktury vystavuje SimpleShop.** Meta je odblokovaná: portfolio DigiStart (za GNOSTIKU) běží, je k němu přiřazená FB stránka DigiStart i nový reklamní účet. V SimpleShopu GNOSTIKY Lenka založila první produkt DigiStart; teď se ladí prodejní formulář do stylu DigiStartu (samostatné vlákno), pak obchodní podmínky, testovací objednávka a tlačítko objednávky na B3. Další v pořadí mapy: pixel a reklama (kreativa a texty). Vedle B3 čeká na schválení text varianty **B4** (inspirace Danny Iny, `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`).
 
 Předchozí stav 261027: projektová mapa hotová (oddíl níž); visí na tom, kdo prodává, a na Štěpánce (portfolio).
 
@@ -161,7 +161,7 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
     - Kontext (261026): Lenka nahrává každý blok (16:00, 18:30, 20:30) zvlášť; od bloku 3 dne 1 do Easy Voice Recorderu jako přednášky a soubor pak nahraje do Voicenotes (nativní nahrávání Voicenotes se u dlouhých bloků zasekávalo), prompty a odkazy píše do dokumentu na Disku v `00 Inbox`. Claude stáhne přepisy do `GrowOS/digistart/library/danny-iny-ai-strategist/` a ke každému dni udělá výtah: DigiStart (stavba kurzu, prodej, funnel), práce s Claudem (postupy, prompty), LCEnglish. Úvody a opakování vynechat, použitelné do swipe nebo jako úkoly.
     - 261026: den 1 hotový (bloky 1–3) → [[zivy-den-1-vytah]].
     - 261027: den 2 hotový (bloky 1–3) → [[zivy-den-2-vytah]].
-    - 261028: den 3 blok 1 → [[zivy-den-3-vytah]]; bloky 2 (18:30, AI agenti) a 3 zbývají.
+    - 261028: den 3 bloky 1 a 2 (prodej Agents Immersion Sprint) → [[zivy-den-3-vytah]]; blok 3 zbývá.
 - [x] Ověřit, jestli si Claude stáhne přepisy z Voice Notes sám ✅ 2026-10-26 — ano, viz Záznam 261026
 - [x] Zapnout v Claude konektor Voicenotes ✅ 2026-10-26 — funguje, ověřeno 09:20
     - Kontext (261026): oficiální konektor, přihlášení jen kliknutím (bez hesla a klíče), Claude pak přepisy stahuje sám bez Chromu. Odkaz: https://claude.ai/directory/connectors/1c34a7fb-93a7-4a21-8fc8-2287034ecc8c → Add → Connect → Continue. Postup [[resources/postupy/voicenotes]].
@@ -219,7 +219,7 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 **5. Fakturace a platba** (limit st 21. 10.)
 - [x] Rozhodnout se Štěpánkou, přes co GNOSTIKA prodává kurz ✅ 2026-10-28 — SimpleShop GNOSTIKY (reklama i prodej přes GNOSTIKU)
 - [ ] Vylepšit s Claudem prodejní formulář DigiStartu v SimpleShopu GNOSTIKY do stylu DigiStartu #next-action #online
-    - Kontext (Lenka 261028): produkt DigiStart v SimpleShopu GNOSTIKY založila Lenka (je tam přihlášená); 15 000 Kč, karta + převod, správná věta o tom, kdy se platí. Běží v samostatném vlákně. Faktury: SimpleShop má vlastní fakturaci, s Fakturoidem jen přes placený doplněk platic.cz (zjištěno 261028, viz Záznam); jak to bude, zatím nezapsáno.
+    - Kontext (Lenka 261028): produkt DigiStart v SimpleShopu GNOSTIKY založila Lenka (je tam přihlášená); 15 000 Kč, karta + převod, správná věta o tom, kdy se platí. Běží v samostatném vlákně. Faktury: SimpleShop má vlastní fakturaci, s Fakturoidem jen přes placený doplněk platic.cz (zjištěno 261028, viz Záznam); **rozhodnuto 261028: faktury vystavuje sám SimpleShop** (bez Fakturoidu a platic.cz).
 - [ ] Obchodní podmínky a ochrana osobních údajů GNOSTIKY (vrácení peněz při neotevření, bez garance, prodávající s IČ) — L s C (Š by nevěděla, co se tím myslí; Lenka 261017)
 - [ ] Testovací objednávka celou cestou — L
 
@@ -264,7 +264,9 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 
 ## Záznam (nejnovější nahoře)
 
-**261028 17:00 a večer — Call se Štěpánkou, rozhodnutí (Lenka v denním vlákně).** Portfolio DigiStart (GNOSTIKA) je zprovozněné, přiřazená FB stránka DigiStart a vytvořený reklamní účet. **Rozhodnutí: reklama i prodej jdou přes GNOSTIKU, konkrétně přes její SimpleShop.** Lenka je v SimpleShopu GNOSTIKY přihlášená a založila první produkt DigiStart. Prodejní formulář je potřeba upravit do stylu DigiStartu → samostatné vlákno. Úkol „Rozhodnout, přes co GNOSTIKA prodává“ splněn, next action posunuta na formulář.
+**261028 20:00 — Prodejní stránka B4 ve frontě (samostatné vlákno v GrowOS).** Nová varianta vedle B3 podle stavby prodejní stránky Agents Immersion Sprint (Danny Iny, rozbor v `GrowOS/digistart/library/danny-iny-ai-strategist/zivy-den-3-vytah.md`): úvod scénou jednoho rána, rámec „buď to udělá AI, nebo nikdo“, krátká verze nahoře s tlačítkem na přihlášku, „tah, ne informace“, Lenčin příběh s diskem, rytmus týdne, pravidlo „Na co jste se zeptala Clauda?“, tři přiznané háčky, rozšířené „nesedne vám“. Výchozí text B3 z Leadpages v561. Položka `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md` je v `review`, čeká na Lenku; stavba v Leadpages až po schválení. Otevřené: odkaz na objednávku SimpleShop, podpora mezi setkáními (jak lektorky hlídají, aby účastnice nevypadla), čas mezi setkáními, záznam, pravidlo konzultací.
+
+**261028 17:00 a večer — Call se Štěpánkou, rozhodnutí (Lenka v denním vlákně).** Portfolio DigiStart (GNOSTIKA) je zprovozněné, přiřazená FB stránka DigiStart a vytvořený reklamní účet. **Rozhodnutí: reklama i prodej jdou přes GNOSTIKU, konkrétně přes její SimpleShop.** Lenka je v SimpleShopu GNOSTIKY přihlášená a založila první produkt DigiStart. Prodejní formulář je potřeba upravit do stylu DigiStartu → samostatné vlákno. Úkol „Rozhodnout, přes co GNOSTIKA prodává“ splněn, next action posunuta na formulář. 19:56 Lenka: faktury za kurz vystavuje SimpleShop (ne Fakturoid přes platic.cz).
 
 **261028 17:41–17:55 — Objednávkový systém pro GNOSTIKU zjištěn (denní vlákno).** Fakturoid GNOSTIKY: tarif „Na každý den“ (roční), neplátce DPH, GoPay i PayPal vypnuté (platí se jen na webfaktuře, přesměrování po platbě až na tarifu „Na maximum“), objednávkový formulář nemá; napojení jen přes API (3 000 požadavků/měs.) nebo eshopové pluginy. Lenčino FAPI (ID 23202, START do 4. 10. 2027) má jednoho dodavatele; druhá firma = druhý účet FAPI na jiný e-mail, přepínání pod jedním přihlášením ([nápověda FAPI](https://napoveda.fapi.cz/article/113-mam-2-firmy-2x-jine-ico-mohu-je-mit-v-jednom-fapi)). FAPI s Fakturoidem napojené není (nápověda FAPI ani katalog Fakturoidu). SimpleShop má vlastní fakturaci; s Fakturoidem jen přes placený doplněk platic.cz ([nápověda SimpleShop](https://podpora.redbit.cz/navod/fakturace-v-simpleshopu/)). Faktury za kurz by tedy v obou případech vznikaly mimo Fakturoid.
 

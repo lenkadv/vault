@@ -5,7 +5,7 @@ skill: landing-page-write
 arc: mechanism
 parent: shegn11kj8
 id: krby85gr8x
-status: draft
+status: review
 business: digistart
 channel: pages
 created: 2026-10-28
@@ -112,7 +112,7 @@ A jestli chcete vědět víc, čtěte dál. Začneme tím, proč to většině l
 **Body:**
 Návodů je všude dost. Video „takhle mi AI vyřizuje poštu“ jste si možná uložila a od té doby leží hned vedle receptu na skvělou bábovku.
 
-Problém přijde jinde. Pustíte se do toho sama, něco začne fungovat, a v úterý večer se to zasekne. Nevíte, na co se zeptat, a řeknete si, že to vyřešíte o víkendu. Víkend se zaplní. A čím déle to leží, tím těžší je se k tomu vrátit.
+Problém je jinde. Pustíte se do toho sama, něco začne fungovat, a v úterý večer se to zasekne. Nevíte, na co se zeptat, a řeknete si, že to vyřešíte o víkendu. Víkend se zaplní. A čím déle to leží, tím těžší je se k tomu vrátit.
 
 Proto DigiStart stojí na dvou věcech:
 * **Claude odpoví hned.** Kdykoli se zaseknete, provede vás dalším krokem na vašem počítači. Ve dne i v noci, bez čekání na příští hodinu.
@@ -135,13 +135,13 @@ Tak zaúkolovala svého AI asistenta. Prošel celý disk, všech 793 tisíc soub
 
 „Bez AI by ten úklid neudělal nikdo. Ani já.“ [PLACEHOLDER: potvrdit, že smím tuhle větu dát Lence do úst]
 
-A každé ráno? Místo třiceti newsletterů a reklamních mailů jí stačí přečíst jednu svodku. Co je potřeba vyřídit, je nahoře. Koncepty odpovědí čekají na schválení.
+A každé ráno? Místo hromady newsletterů a reklamních mailů jí stačí přečíst jednu svodku. Co je potřeba vyřídit, je nahoře. Koncepty odpovědí čekají na schválení.
 
 **Naše pravidlo: AI připraví, vy rozhodnete**
 * AI píše maily jako koncepty. Odesíláte vy.
 * Když se AI splete, opravíte ji a domluvíte pravidlo pro příště.
 * Mazat ani přeposílat sama nesmí.
-* Ukážeme, co AI svěřit a co ne a jak bezpečně pracovat s hesly a přístupy.
+* Ukážeme, co AI svěřit a co ne, a jak bezpečně pracovat s hesly a přístupy.
 **Addresses objection:** „Je v bezpečí moje pošta a moje soubory?“ + „Nemáte reference.“ (Lenčin vlastní případ místo referencí)
 **Visual:** case study block
 **Weight:** standard
@@ -211,7 +211,7 @@ Jde o dřívější webináře a workshopy o AI, ne o DigiStart. Ten je úplně 
 **Body:**
 Zní to možná až moc jednoduše. Tak vám drobné písmo řekneme samy.
 
-**1. Čtyři pondělní večery u počítače.** Setkání jsou živá, 17:00–20:00, a pracujete na nich s vlastními soubory. Poslouchat z kuchyně u plotny se to dá, ale o polovinu přijdete. [PLACEHOLDER: bude záznam? Rozhodnutí Lenky a Štěpánky]
+**1. Čtyři pondělní večery u počítače.** Setkání jsou živá, 17:00–20:00, a pracujete na nich s vlastními soubory. Poslouchat z kuchyně u plotny se to dá, ale přijdete o dost. [PLACEHOLDER: bude záznam? Rozhodnutí Lenky a Štěpánky]
 
 **2. Claude Pro platíte navíc.** Předplatné se platí na měsíc dopředu přímo firmě Anthropic, ne nám. Verze Pro teď stojí 20 USD měsíčně.
 
@@ -263,7 +263,7 @@ Půl hodiny se Štěpánkou, nezávazně. Nebo se rovnou přihlaste. [PLACEHOLDE
 
 **Co budete potřebovat**
 * **Počítač nebo notebook.** Na cvičení telefon nestačí.
-* **Placený plán Claude Pro.** Kurz staví na Claudu, protože umí pracovat s vašimi soubory. Předplatné se platí přímo firmě Anthropic, ne nám. Momentálně stojí 20 USD měsíčně.
+* **Placený plán Claude Pro.** Kurz staví na Claudu, protože umí pracovat s vašimi soubory. Předplatné se platí přímo firmě Anthropic, ne nám. Podle jejího ceníku teď stojí 20 USD měsíčně.
 * **Zkušenost s AI.** Umíte chatovat třeba s ChatGPT a nemáte obavy vyzkoušet to s Claudem.
 **Addresses objection:** „Kolik mě to bude stát kromě kurzu?“
 **Visual:** value-stack visual
@@ -311,7 +311,7 @@ Víte, že by vám AI mohla ušetřit práci. Víte, že to nechcete odkládat.
 
 A taky víte, jak vypadá váš týden: práce, pošta, faktury... a večer už na zkoumání možností AI není ani pomyšlení. Proto pro vás máme připravený návod krok za krokem a všechno s námi vyzkoušíte a aplikujete přímo během online setkání. Nic se nepřidá na seznam „až bude čas“.
 
-Z kurzu si odnesete AI asistenta, který pro vás pracuje. A ještě něco: až příště narazíte na věc, která by jinak ležela na seznamu měsíce, nebudete čekat, až na ni bude čas. Prostě ji zadáte.
+Z kurzu si odnesete AI asistenta, který pro vás pracuje. A až příště narazíte na věc, která by jinak ležela na seznamu měsíce, nebudete čekat, až na ni bude čas. Prostě ji zadáte.
 
 Vzpomeňte si na to pondělní ráno z úvodu.
 
@@ -388,5 +388,7 @@ Projdete spolu, co ve své práci děláte a jestli vám DigiStart sedne. Řekne
 - **Bez věty o vrácení peněz:** Lenka ji z B3 vyškrtla (lesson 2026-10-21). Dannyho háček „žádné vracení peněz“ proto nepřebírám; místo něj háček „pilot bez referencí“. Kdyby ho Lenka chtěla: „DigiStart je živý workshop, proto nenabízíme garanci ani vrácení peněz. Pokud se kurz neotevře, peníze vám vrátíme.“ (`brain/compliance.md`).
 - **„Přihlásit se můžete až do začátku kurzu“** odpovídá `brain/business.md` (přihlášky otevřené do začátku kurzu, končí jen reklama). Pokud SimpleShop prodej uzavře dřív, upravit.
 - **Podpora mezi setkáními** (oddíly 5, 7, 13) je v DigiStartu zatím nepopsaná; argument „tah, ne informace“ na ní stojí. Bez ní oddíl 5 oslabit na „Claude odpoví hned + každé pondělí navážeme“.
+- **Editor gate (reviewer, 28. 10.):** verdikt „fix“. Opraveno: vymyšlené „třicet“ u svodky zobecněno (jedno číslo na příběh), u ceny Claude Pro v nabídce „podle jejího ceníku“. Ponecháno vědomě: citáty v oddílu 9 a „páté setkání… v ceně kurzu“ jsou doslova z Lenčiny B3 v Leadpages (v561), ne z proof souboru; „Claude odpoví hned“ je vlastnost nástroje, slib lektorek je v PLACEHOLDER.
+- **Humanize (28. 10.):** skóre 16 → 16 (zbytek zásahů je v notaci a tabulkách). Čtyři drobnosti: „Problém je jinde“, čárka v pravidlu, „přijdete o dost“ místo neověřené „poloviny“, bez ohlášené pointy „A ještě něco:“. Označeno, nezměněno: cena Claude Pro bez „podle ceníku“ v háčku 2 a ve FAQ (FAQ je doslova B3); chybějící provozovatel prodeje v patičce (PLACEHOLDER).
 - Rod: „AI“ = ona, „AI asistent“ / „Claude“ = on, přepínač asistent/asistentka z B3 zůstává. Účastnice v ženském rodě (popis cílové čtenářky), „vy“ s malým v.
 - Placeholders left for the owner: 7 témat (objednávka SimpleShop, podpora mezi setkáními, čas mezi setkáními, záznam, pravidlo „Na co jste se zeptala Clauda“, Lenčina věta, patička GNOSTIKY), některá na stránce víckrát.
