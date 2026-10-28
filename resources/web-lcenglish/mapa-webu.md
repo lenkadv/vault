@@ -80,6 +80,7 @@ Ke každému z 12 nejčtenějších článků (seznam a zobrazení: [[mapa-webu-
 Adresy: dárky https://lenka-dvorakova.lpcontent.net/shadowloop-texty, `/7onlinetools`, `/stinovani`, newsletter https://lcenglish.cz/newsletter/; kurzy https://lcenglish.cz/10x-english/, `/hele/`, `/irregular/` (všechny vrátily 200, 261028).
 
 **Provedeno 261028 ~21:30** (REST WordPressu v Chromu, texty schválené na nástěnce GrowOS, položka `htbag2myul` `GrowOS/lcenglish/work/pages/clanky-darek-kurz.md`, Lenka je před schválením přepsala): na konec 10 článků oddělovač + 1–2 odstavce, začínají komentářem `<!-- lce-darek-kurz -->` (podle něj se dají najít). Ověřeno živě, odkazy na stránkách jsou. Původní znění je v revizích WordPressu. /anglicka-slovicka/ beze změny, YouTube kanály vynechány. Akce oken Dripu se čtou jen v prohlížeči: `getdrip.com/2094497/forms/<id>/actions`.
+Úpravy po kontrole Lenky (261028 21:45): /anki-navod/ smazán odstavec s odběrem YouTube (a jeden oddělovač), /anglicky-za-tyden/ smazán odstavec s odkazem na Angličtinu na dovolenou, /to-be/ mezera 32 px nad oddělovačem (lepil se na fotky galerie). /how-are-you/: vložené video z getyarn.io se nenačítá (Yarn je za ochranou Cloudflare, v rámečku jen šedá plocha), nesouvisí s úpravou, rozhoduje Lenka.
 
 ## Identita a obrázek pro sdílení
 
