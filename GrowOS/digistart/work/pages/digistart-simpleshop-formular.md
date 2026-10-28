@@ -80,7 +80,9 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Ptát se AI umíte. Teď jí dejte práci.**
 >
-> Za čtyři pondělní večery si s námi vycvičíte AI asistenta, který hlídá termíny, každé ráno roztřídí poštu a připraví odpovědi, které jen schválíte a odešlete. Rozhodování zůstane vám, ostatní odpracuje on. +++udělej lepší znění - viz dnes připravený text "Proč Claude"+++
+> V kurzu si s AI nebudeme jen povídat. Za čtyři pondělní večery si ji vycvičíte jako asistenta, jakého by vám záviděl lecjaký generální ředitel: hlídá termíny, pamatuje si, co jste kde slíbili, každé ráno roztřídí poštu a připravené odpovědi nechá čekat na vaše schválení. Na vás zbyde hlavně rozhodování, ostatní odpracuje on.
+>
+> Všechno, co vás naučíme, jsme samy vyzkoušely a vyladily. Dostanete jen osvědčené postupy, takže nebudete ztrácet čas zbytečnostmi.
 >
 > **Kdy:** pondělí 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, živé vysílání online s Lenkou Dvořákovou a Štěpánkou Uličnou. Po Vánocích se sejdeme ještě jednou, až budete mít za sebou první vlastní zkušenosti.
 >
@@ -94,7 +96,7 @@ Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 > **Děkujeme, přihláška je odeslaná.**
 >
-> Pokud jste zvolili bankovní převod, platební údaje najdete na této stránce dole +++je to dole správně?+++ a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol – když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
+> Pokud jste zvolili bankovní převod, platební údaje i QR kód pro mobilní bankovnictví najdete na této stránce a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol – když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
 >
 > Potřebujete se na něco zeptat? Napište na: ulicna@gnostika.cz
 
@@ -132,3 +134,9 @@ Po zaplacení přesměrovat na vlastní děkovací stránku DigiStartu (Leadpage
 ## Po schválení udělám
 
 Nastavím v SimpleShopu body 1–4 (vybrané varianty), uložím, otevřu veřejný formulář a zkontroluji ho na počítači i v úzkém okně. Testovací objednávku dělá Lenka, kartou až po zprovoznění Stripe.
+
+## Notes
+
+- **Kde jsou platební údaje (Lenka 28. 10.: „je to dole správně?“):** nápověda SimpleShopu říká jen, že při převodu se na stránce po objednání vygeneruje QR kód a instrukce k platbě a že vlastní text jde doplnit; jestli jsou nad, nebo pod naším textem, neuvádí (https://podpora.redbit.cz/navod/stranka-po-objednani/). Proto text bez „dole“; polohu ověřit při testovací objednávce převodem.
+- **Platba kartou:** při vlastní adrese přesměrování jde zákaznice po zaplacení kartou rovnou na ni (stejný zdroj), proto má děkovací stránka (bod 5) stejný text jako mail po zaplacení.
+- Věta o asistentovi v popisu je převzatá z Lenčina schváleného textu „Proč Claude“ (`work/course/digistart-proc-claude.md`), jen „slíbila“ → „slíbili“ kvůli rodu na formuláři.
