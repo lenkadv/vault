@@ -3,13 +3,14 @@ type: sales-page
 headline: "B3: Ptát se AI umíte. Teď jí dejte práci."
 skill: landing-page-write
 arc: mechanism
-status: review
+status: approved
 parent: 08nsvlhil6
-note: ""
+note: dál ladíme přímo v Leadpages
 id: shegn11kj8
 business: digistart
 channel: pages
 created: 2026-10-21
+kanban_order: V3
 ---
 
 # DigiStart pilot: prodejní stránka, koncept B3 „Rada, nebo práce“

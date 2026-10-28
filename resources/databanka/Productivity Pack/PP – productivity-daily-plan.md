@@ -30,7 +30,7 @@ Poznámky z použití:
 
 <!-- zneni-skillu:start (generuje gen_zneni_skillu.py, needitovat) -->
 
-> [!quote]- Znění skillu (aktualizováno 261027)
+> [!quote]- Znění skillu (aktualizováno 261029)
 > ```yaml
 > name: productivity-daily-plan
 > description: Sestaví denní plán — 2–3 nejdůležitější úkoly (MITs) s časovými bloky, zbytek flexibilně. Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
@@ -239,6 +239,10 @@ Poznámky z použití:
 > 3. `Artifact` publish: `file_path` = uložený `index.html`, `url` = adresa tabule, `label: "Denní vlákno YYMMDD"`, bez `capabilities` a bez `icon` (zůstanou). Obsah se nemění. Lenka publikování jen odklikne.
 > 4. Ověř `ArtifactComments` `action: "watch"` (bez url), že u tabule je „auto-replies armed“. Když ne, napiš to do plánu jednou větou ⚠️.
 > Pak při každém komentáři z tlačítka: synchronizace podle [[resources/postupy/tabule]], větší práce do samostatného vlákna (založit a odpojit). Večer se sledování ukončí se zavřením vlákna. Zároveň přečti `meta/vyzva`: kliknutí novější než `meta/tabule.syncIso` z doby, kdy nikdo nehlídal, zpracuj hned při plánu.
+>
+> **e6. Kontrola tabule proti vaultu (od 261028; až po e4, aby byly založené úkoly ze Zápisníku).**
+>
+> `ArtifactData` `list` tabule, `collection: "ukoly"`, `query.limit: 1000`, `out_dir` = složka ve scratchpadu; pak `python -I "G:/Můj disk/vault/resources/tabule/tabule_vs_vault.py" <ta složka>`. Co skript vypíše, oprav hned podle oddílu „Kontrola tabule proti vaultu“ v [[resources/postupy/tabule]] (chybějící karty založit s polem `ukol`, hotové srovnat). Do plánu jednou větou jen to, co čeká na Lenku (např. projekt s víc next actions v jedné linii). Nic k opravě = nic nepsat.
 >
 > **f. Uživatelovy tasky.**
 >

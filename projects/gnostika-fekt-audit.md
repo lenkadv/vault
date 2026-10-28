@@ -6,7 +6,9 @@
 
 ## Aktuální stav
 
-261020: Závěrečná zpráva je na Štěpánčině straně, pracuje na ní ona. Lenka teď nemá žádnou akci a není to ani čekání ve waiting-for; Štěpánka se ozve, až bude něco potřebovat (Lenka 261020). Projekt proto záměrně nemá next action.
+261028: Štěpánka poslala zprávu ke společné kontrole ([Word na SharePointu, adresář FEKT](https://gnostika-my.sharepoint.com/:w:/g/personal/ulicna_gnostika_cz/IQBH-NosfUMjSbEDFzTjs-yhATep7-MUFOTCmyYNw73VIg8?e=fzx8dS)). Chybí v ní ještě část „Župka“; Štěpánka ji v pátek 30. 10. pošle (podle zprávy i s fakturou). Další krok: zítra 29. 10. projít zprávu s Claudem.
+
+Dříve 261020: Závěrečná zpráva je na Štěpánčině straně, pracuje na ní ona. Lenka teď nemá žádnou akci a není to ani čekání ve waiting-for; Štěpánka se ozve, až bude něco potřebovat (Lenka 261020). Projekt proto záměrně nemá next action.
 
 Dříve 261018: Pracovní verze závěrečné zprávy ([Google Doc, 261017](https://docs.google.com/document/d/1jG0WYEAuoADXhE_VGtrv5u9KJjd-HvD4_zU3kLQiSuE/edit)) a briefing pro AI asistenta Štěpánky jsou od 17. 10. u Štěpánky. Čeká se na její vyjádření → [[waiting-for]]. Potom se zapracují připomínky; kontrolu si rozdělí Lenka, Štěpánka a Tereza. Cíl: připraveno k odevzdání před koncem října 2026 (harmonogram zakázky: nejpozději listopad). Podklady od paní Ivany Hruškové (rozpočty a čerpání, reporty pro vedení) dál chybí, Lenka je nevyžaduje. **Next action záměrně žádná** (čeká se na Štěpánku).
 
@@ -27,9 +29,12 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 
 ## Next actions
 
-_Žádná otevřená — čeká se na Štěpánku (viz Aktuální stav)._
+- [ ] Projít s Claudem závěrečnou zprávu od Štěpánky #next-action #online 📅 2026-10-29
+  - Kontext: zpráva od Štěpánky 261028 (Lenka vložila do denního vlákna 21:45): „projdi s Claudem zprávu, ještě mi chybí Župka... v pátek to pošlu i s fakturou“. Dokument: https://gnostika-my.sharepoint.com/:w:/g/personal/ulicna_gnostika_cz/IQBH-NosfUMjSbEDFzTjs-yhATep7-MUFOTCmyYNw73VIg8?e=fzx8dS (adresář FEKT). Otevírat v Chromu v přihlášené relaci.
 
 ## Záznam (nejnovější nahoře)
+
+261028 21:45: Štěpánka poslala odkaz na zprávu (Word, SharePoint) s prosbou, ať ji Lenka projde s Claudem; chybí část „Župka“, v pátek ji Štěpánka pošle i s fakturou. Založen úkol na 29. 10.
 
 261017: Briefing pro AI asistenta Štěpánky i závěrečnou zprávu Lenka Štěpánce poslala (Lenka 23:28); zprávu předtím s Claudem dopracovala ve vlákně o FEKT (otázky z přílohy G zodpovězeny). Čeká se na Štěpánčino vyjádření → [[waiting-for]]. Celá pracovní verze převedena do Google Docu (odkaz výš).
 

@@ -5,11 +5,11 @@ skill: landing-page-write
 arc: mechanism
 parent: shegn11kj8
 id: krby85gr8x
-status: review
+status: approved
 business: digistart
 channel: pages
 created: 2026-10-28
-note: ""
+note: dál budeme ladit přímo v Leadpages
 kanban_order: V1
 ---
 

@@ -62,6 +62,10 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 18  | 261026 | 15 min | DigiStart: Voicenotes, jak si Claude stáhne přepisy (konektor zapnut a ověřen), rozbor úvodního videa Dannyho Inyho „proč Claude“, přepisy k AI Strategist (09:10–09:25) → `GrowOS/digistart/library/danny-iny-proc-claude.md` |
 | 19  | 261027 | 42 min | DigiStart: projektová mapa priorit (do 9. 11.: platba → Meta → reklama → B3 → po zaplacení → konzultace), dashboard, platforma AI Strategist jako vzor (20:18–21:00) → [[digistart]], `resources/digistart-vzor-platforma-ai-strategist.md` |
 | 20  | 261028 | 2 h 15 min | DigiStart: objednávkový formulář v SimpleShopu GNOSTIKY: rozbor nastavení a obchodních podmínek GNOSTIKY, návrh, tři kola textů s Lenkou, nastavení a ověření formuláře; nové obchodní podmínky GNOSTIKY (Stripe, Drip, kontakt, GDPR, odstoupení u živých kurzů) nahrané do SimpleShopu (19:00–20:05, 20:46–21:56) → [[projects/digistart]] |
+| 21  | 261028 | 1 h 03 min | DigiStart: text „proč kurz běží na Claude“ pro účastnice, verze 1–4 a mail přes skill, Lenka schválila ruční verzi (12:20–12:45, 16:52–17:30) → `GrowOS/digistart/work/course/digistart-proc-claude.md` |
+| 22  | 261028 | 26 min | DigiStart: prodejní stránka B4 podle Agents Immersion Sprint, dvě kola úprav, rozhodnutí do brainu (19:58–20:10, 20:45–20:55, 21:58–22:02) → [[digistart]] |
+| 23  | 261028 | 22 min | DigiStart: děkovací stránka po zaplacení (text ze schváleného formuláře SimpleShopu, 22:28–22:50) → [[digistart]] |
+| 24  | 261028 | — (call, bez hodinové evidence) | Call se Štěpánkou k DigiStartu v 17:00: prodej a reklama přes GNOSTIKU, SimpleShop, faktury ze SimpleShopu; zápis 18:59–19:10 → [[digistart]] |
 
 **Součet práce na počítači k 261021 (jen zapsané řádky):** DigiStart 17 h 20 min (řádky 1–5, 8–13) + firemní workshop 1 h 45 min (řádek 7) = **19 h 05 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **33 h 37 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně. Bloky DigiStartu z 18.–20. 10. v tabulce zatím nejsou (zapisuje je denní vlákno, pokud proběhly).
 

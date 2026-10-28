@@ -90,6 +90,28 @@ Lenka 261025: generátor je nástroj na výrobu balíčků do Shadowloopu, potř
 - **Náklady:** platí se Google Translate a Text-to-Speech podle počtu znaků (hlasy Chirp3-HD jsou dražší než základní); ceny neověřeny.
 - ⚠️ Při nasazování funkcí z repozitáře vždy jmenovat funkce (`--only functions:sale,…`), jinak by Firebase generátor smazal.
 
+## Záloha a obnova (od 261028)
+
+Lenka 261028: placené zálohy Googlu nechce (ani zlomky centu), dat přibývá málo. Proto: **ochrana proti smazání + vlastní měsíční export na Disk zdarma**, spouští Claude při měsíční údržbě (1. v měsíci se Staženými, [[resources/postupy/udrzba-pocitace]]).
+
+- **Ochrana proti smazání databáze:** zapnutá 261028 22:33 (`deleteProtectionState: DELETE_PROTECTION_ENABLED`, ověřeno). Databázi `(default)` nejde smazat, dokud ji někdo (Owner) výslovně nevypne. Na data, aplikaci ani cenu to vliv nemá. Pozor: proti smazání **jednotlivých dokumentů** nechrání, na to je export.
+- **Skript:** `C:\Users\Lenka\source\repos\shadowloop-zaloha\zaloha.py` (mimo vault), přihlašuje se tokenem Firebase CLI (`firebase.cmd login`, účet lnk.dvorakova@gmail.com), žádné heslo ani klíč v souboru. Spouštět `python -I zaloha.py <příkaz>`, nápověda bez příkazu.
+- **Měsíčně:**
+  ```
+  cd "C:\Users\Lenka\source\repos\shadowloop-zaloha"; python -I zaloha.py info; python -I zaloha.py zaloha; python -I zaloha.py storage-stahni
+  ```
+  - `info`: ochrana, PITR, počty dokumentů po kolekcích.
+  - `zaloha`: všechny kolekce (a případné podkolekce) do `G:\Můj disk\Zálohy webů\shadowloop-firestore\firestore-YYMMDD.json`, hodnoty v původním typovaném tvaru REST API (obnova je bezztrátová).
+  - `storage-stahni`: soubory balíčků do `G:\Můj disk\Zálohy webů\shadowloop-storage\decks\<id>\…`; stahuje jen nové nebo změněné (porovná velikost a MD5), takže **nový balíček se doplní sám** při dalším spuštění, nebo hned po nahrání balíčku stejným příkazem.
+- **Stav 261028 (první záloha):** Firestore 770 dokumentů (`decks` 200, `freebies` 2, `preregistered` 357, `products` 7, `users` 204), soubor 2,7 MB, čtení ≈ 770 (limit zdarma 50 000 denně, takže i desetinásobek dat je bez problému). Storage 4 975 objektů (4 807 souborů + 168 prázdných záznamů složek), 384 MB, jen složka `decks/` (200 balíčků); úplná kopie stažena 261028 do `shadowloop-storage` (370 MB na Disku), druhé spuštění už nestáhlo nic.
+- **Postup studentů aplikace neukládá** (ověřeno v kódu 261028, `App.jsx`, `DecksList.jsx`): dokument `users/<uid>` má jen `uid`, `displayName`, `email`, `premiumDecks` (které balíčky má) a `archived` (které si schoval). Kolik vět kdo přehrál, se nikam nezapisuje. Záloha jednou měsíčně tedy ztrátou hrozí jen u nových účtů a nákupů za poslední měsíc; ty jdou dohledat ve fapipi a znovu přidat adresou `sale`.
+- **Obnova** (vždy nejdřív nanečisto):
+  - `python -I zaloha.py obnova "<soubor>" --nanecisto`: jen vypíše, co by se zapsalo.
+  - `python -I zaloha.py obnova "<soubor>" --do-prefixu test_obnova_ [--kolekce products]`: zapíše do zkušebních kolekcí `test_obnova_<kolekce>`; úklid `python -I zaloha.py smazat-prefix test_obnova_`.
+  - `python -I zaloha.py obnova "<soubor>" --prepsat-ziva [--kolekce users]`: **skutečná obnova živých dat, jen po havárii a se souhlasem Lenky**; chce potvrzení „ANO“. Dokumenty ze zálohy přepíše, dokumenty vzniklé po záloze nechá být.
+  - Vyzkoušeno 261028: nanečisto všech 770, naostro `products` → `test_obnova_products` (7 ze 7 shodných s originálem), pak smazáno; živé kolekce beze změny.
+- **Obnova Storage:** soubory ze `shadowloop-storage\decks\<id>\` nahrát zpět ve Firebase konzoli (Storage → decks → složka `<id>` → Upload file), stejně jako u nového balíčku výš.
+
 ## Změna vzhledu a nasazení (od 261025)
 
 Kód je stažený v `C:\Users\Lenka\source\repos\shadowloop` (mimo vault, kvůli knihovnám). Barvy a písma jsou v `src/App.jsx` (motiv), spodní panel přehrávače v `src/Components/Pages/DeckDetail/Controls.jsx`, písma v `public/index.html`. Náhled: v Claude Code spustit `shadowloop` z `.claude/launch.json` (http://localhost:3000).

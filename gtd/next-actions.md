@@ -49,20 +49,18 @@ sort by due
 ---
 
 ## @online
-- [ ] Prozkoumat s Claudem frontu GrowOS: proč některé texty ke schválení vznikají bez id → [[resources/postupy/growos]]
-    - Kontext (Lenka 261028): jak fronta s texty ke schválení funguje a proč se některé položky nezakládají rovnou s id. Známá příčina (paměť `feedback_growos_items_jen_v_growos_sezeni`, 261026): razítko (`id`, `status`) doplňuje hlídač jen v sezení otevřeném ve složce GrowOS (`GrowOS/.claude/settings.json`); položka založená ze sezení ve vaultu ho nemá a nástěnka [[GrowOS fronta.base]] ji nevidí.
-    - Kontext (doctor 261028 13:20): bez id je 6 položek: `lcenglish/work/social/mabo-rozlouceni-facebook.md`, `email/drip-uvitani/gtky-01-ucim-se-jinak.md`, `email/drip-uvitani/overture-c-10x-english.md` a `overture-b-mail-6.md` (staré, nahrazené `-v2`), `email/newsletter-prihlaseni-prvni-dil.md`, `pages/newsletter-prihlaseni.md`. Prověřit, jestli vznikly jen ve vaultu, nebo hlídač selhává i v GrowOS, a co se staršími položkami (znovu založit, nebo do Koše). Kontrola: `node system/tools/growos.js doctor`. Systémové cesty GrowOS upravuje jen Lenka.
-- [ ] Založit v claude.ai zkušební naplánovanou úlohu Kontrola A4E 📅 2026-11-02 → [postup a prompt](https://claude.ai/artifact/1PN5VhoScmfDsQ8e5jEhsW)
+- [x] Založit v claude.ai zkušební naplánovanou úlohu Kontrola A4E ✅ 2026-10-29 (Lenka, úterý 16:01, zkušební běh OK) → [postup a prompt](https://claude.ai/artifact/1PN5VhoScmfDsQ8e5jEhsW)
     - Kontext (261028): podle návodu AI Signal ([[SLU – Scheduled tasks]]); úloha každé úterý 9:00 ověří Drip a Substack, jen čte. První běh 3. 11., kontrola a rozhodnutí ve [[waiting-for]]. Karta na tabuli `kontrola-a4e-uloha`.
 - [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
     - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
 - [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
     - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
     - Kontext (261027): maily číst nemusí. Claude při denním plánu ověří ve schránce, že došly GTKY 3/4 a 4/4, dá jim `Svodka/smazat` a v pátek Lence řekne, že kontakty může smazat.
+- [ ] Zkontrolovat s Claudem novou tabuli: poslat zkušební zprávu do karty a projít filtry → [[resources/postupy/tabule]]
+    - Kontext (261028 23:40–00:05, vlákno Tabule: rozhovor v kartách): odeslání zprávy na publikované stránce nebylo vyzkoušené; víc next actions u claude-academy, patnáctky a 10x ENGLISH čeká v daily 261028 „Pro denní vlákno“.
 - [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
     - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
-- [ ] Rozhodnout o zálohování databáze Shadowloopu → [[lcenglish-ekosystem]]
-    - Kontext (261025): Firestore nemá žádné zálohy ani ochranu proti smazání. Claude navrhuje zapnout ochranu proti smazání a denní automatickou zálohu (pár korun ročně).
+- [x] Rozhodnout o zálohování databáze Shadowloopu → [[lcenglish-ekosystem]] (261028: ochrana zapnutá, měsíční vlastní záloha na Disk, [[shadowloop-admin#Záloha a obnova (od 261028)]])
 - [ ] Rozhodnout, co dál s AI Sborovnou: rozvíjet a otevřít novým lidem, nebo nechat v klidu dožít → [[kontext-ukolu#AI Sborovna]]
 - [ ] Pustit si večer Andrewa Graham-Dixona na YouTube místo další práce 📅 2026-10-31
 - [ ] italki: objednat 2. hodinu němčiny u Philippa Kocha 📅 2026-11-01
@@ -71,7 +69,7 @@ sort by due
 - [ ] Připravit pro dr. Štěrbovou kostru bakalářky o Vojtěchovi → [[kontext-ukolu#Paní doktorka Štěrbová, sborník Transitorius mundus]]
 - [ ] Rozhodnout, co s teoretickými kartami Anki z Přehledovky (dr. Pech)
 - [ ] Vybrat termín výletu Frankfurt – Paříž – Londýn (výstavy končí 17. 1. 2027) → [[resources/mista-k-navstiveni]]
-- [ ] Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B 📅 2026-10-25 → [[drip-lcenglish-uvitani]]
+- [x] (261028: Lenka prošla, obě karty dala do changes s poznámkami; přepisuje Claude při denním plánu 29. 10.) Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B ✅ 2026-10-28 → [[drip-lcenglish-uvitani]]
     - Kontext (261026 19:10): založeny znovu s razítkem, na nástěnce v `review`: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english-v2.md`, `…/overture-b-mail-6-v2.md`. Soubory bez `-v2` jsou staré.
     - Kontext (261024 23:00): přepsáno podle dossieru EMH 008, karty v review: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `overture-b-mail-6.md`. Po schválení Claude postaví Overture C v Dripu.
 - [ ] Postavit s Claudem v Dripu vagón A (HELE) po uvítání → [[drip-lcenglish-uvitani]]

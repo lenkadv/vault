@@ -4,6 +4,12 @@ Seznam konkrétních výsledků práce Lenky s Claudem s čísly a jejími slovy
 
 Úkol využít je v [[digistart]].
 
+## Od 261024: Tabule úkolů místo seznamu MITů
+
+- **Výsledek:** jedna stránka se všemi otevřenými úkoly rozdělenými podle toho, kdo je vede: Claude, spolu, nebo Lenka. K 28. 10. na ní je 79 karet. Úkoly, které vede Claude, si Claude posouvá sám a o vstupy si říká, až je potřebuje („Potřebuju od tebe“). Lenka odpovídá rovnou do karty a jedním tlačítkem pošle Claudovi pokyn, ať se na tabuli podívá.
+- **Co se dělo:** místo denního výběru 2–3 nejdůležitějších úkolů (MIT), který svazoval, vznikla tabule jako artefakt s vlastní databází. Samostatná vlákna si své karty přepínají sama (běží, hotovo, čeká na Lenku), zdroj pravdy zůstává v Obsidianu ([[resources/postupy/tabule]]).
+- **Lenčinými slovy (261024):** „osvobodit se od vězení MIT“.
+
 ## 261026: Vyčištěný počítač
 
 - **Výsledek:** disk C: měl volných 36,6 GB z 931 GB a svítil červeně. Po jednom dni úklidu je volných 572,7 GB, tedy víc než polovina disku.

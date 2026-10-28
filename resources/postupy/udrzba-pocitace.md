@@ -15,6 +15,14 @@ Platí pravidlo úklidu z 26. 10. (paměť `feedback_uklid_smysl_ne_misto`): roz
 
 Úkol ve [[waiting-for]] (🔁 každý měsíc): Claude vypíše obsah Staženého starší než týden a navrhne ke každé položce, kam patří. Lenka potvrdí a Claude přesune. K tomu jedna věta o volném místě na C:.
 
+**Záloha Shadowloopu (od 261028, ve stejném úkolu):** Claude spustí
+
+```
+cd "C:\Users\Lenka\source\repos\shadowloop-zaloha"; python -I zaloha.py info; python -I zaloha.py zaloha; python -I zaloha.py storage-stahni
+```
+
+`info` musí ukázat `DELETE_PROTECTION_ENABLED`. `zaloha` uloží `G:\Můj disk\Zálohy webů\shadowloop-firestore\firestore-YYMMDD.json` (zdarma, čtení hluboko v denním limitu). `storage-stahni` dotáhne jen nové nebo změněné soubory balíčků. Starší zálohy Firestore nechat, jsou malé; mazat rozhoduje Lenka. Lence jedna věta: počet dokumentů a souborů proti minulé záloze. Postup a obnova: [[shadowloop-admin#Záloha a obnova (od 261028)]].
+
 ## Čtvrtletně (spolu, jeden blok)
 
 Úkol ve [[waiting-for]] (🔁 každé 3 měsíce, první 26. 1. 2027), patří i do Quarterly Sprint. Claude:
@@ -29,7 +37,7 @@ Platí pravidlo úklidu z 26. 10. (paměť `feedback_uklid_smysl_ne_misto`): roz
 
 | Co | Spouštěč | Kde je zapsaný |
 |---|---|---|
-| Měsíční Stažené | úkol 🔁 ve [[waiting-for]] (1. v měsíci); denní plán ho v ten den dá do „Dnes na stole“ | skill `productivity-daily-plan`, krok 2b2 |
+| Měsíční Stažené + záloha Shadowloopu | úkol 🔁 ve [[waiting-for]] (1. v měsíci); denní plán ho v ten den dá do „Dnes na stole“ | skill `productivity-daily-plan`, krok 2b2 |
 | Čtvrtletní údržba | úkol 🔁 ve [[waiting-for]] (26. 1., 26. 4. …); denní plán stejně jako výš; Quarterly Sprint kontroluje, že proběhla | krok 2b2 denního plánu, skill `productivity-quarterly-sprint` (Session 4, bod 4b) |
 | Instalace na zkoušku | pravidlo v `CLAUDE.md` (načítá se v každém sezení) → úkol za 14 dní | `CLAUDE.md`, Pravidla |
 

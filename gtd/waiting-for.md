@@ -13,9 +13,10 @@ sort by due
 ---
 
 ## Čeká na datum
-- [ ] Zkontrolovat v Claude (Scheduled → Kontrola A4E → History), že úloha v 9:00 proběhla a sedí 📅 2026-11-03
+- [ ] Zkontrolovat v Claude (Scheduled → Kontrola A4E → History), že úloha v 16:01 proběhla, sedí (i řádek Facebook) a přišlo oznámení 📅 2026-11-03
     - Kontext (261028): první zkušební naplánovaná úloha v claude.ai podle návodu AI Signal ([[SLU – Scheduled tasks]]); jen čte Drip a Substack, nic nemění. Ruční kontrolu při denním plánu zatím dělám dál.
 - [ ] Rozhodnout: nechat, nebo smazat naplánovanou úlohu Kontrola A4E 📅 2026-11-11
+    - Kontext (Lenka 261029 00:08): push do telefonu je „celkem k ničemu“; chtěla by, aby se výsledek dostal rovnou ke Claudovi a ten mohl posunout frontu na `published`. Při rozhodnutí probrat, jak to propojit (např. hlášení e-mailem, které přečte denní plán).
     - Kontext (261028): po dvou bězích (3. a 10. 11.). Ušetřila čas a hlásila správně? Nechat a ruční kontrolu při denním plánu vypustit; jinak smazat (Scheduled → tři tečky → Delete).
 - [ ] Pozastavit FB skupinu MABO (rozlučka visí od 27. 10.) 📅 2026-11-03
     - Kontext: archivace v rozhraní není, jen „Pozastavit skupinu“; postup v `GrowOS/lcenglish/work/social/mabo-rozlouceni-facebook-v2.md`.
@@ -43,7 +44,7 @@ sort by due
 - [ ] Projít návrhy v [[newslettery-ai]] a rozhodnout, co odhlásit (při weekly review) 📅 2026-10-31
 - [x] (261026 23:18 Lenka na tabuli: hotovo) Zkontrolovat, že Lenka odpověděla Jiřině Mankové z Tandemu 📅 2026-10-27 ✅ 2026-10-26
     - Kontext (Lenka 261026 20:37): „zkusím napsat dnes, zkontroluj mě zítra“.
-- [ ] Vyzkoušet najednou prompty z AI Strategist 📅 2026-10-29 → [[kontext-ukolu#AI Strategist (Danny Iny)]]
+- [x] Vyzkoušet najednou prompty z AI Strategist 📅 2026-10-29 ✅ 2026-10-28 → [[kontext-ukolu#AI Strategist (Danny Iny)]]
     - Kontext (Lenka 261026): během kurzu (26.–28. 10.) je nezkouší, všechny až po něm.
 - [ ] Navrhnout s Claudem curriculum Art for English na leden–červen 2027 📅 2026-11-30 → [[lcenglish-art-for-english]]
     - Kontext (Zápisník 261025): současný plán v `GrowOS/lcenglish/brain/research/art-bites-curriculum-2026.md` končí v prosinci; tenhle úkol je pojistka, aby další plán vznikl včas a nečekal se na náhodu. Na leden zařadit Klanění tří králů (Botticelli, k 5. 1. 2027, nedogmaticky; Lenka 261027); otevřené body v curriculu.
@@ -52,8 +53,8 @@ sort by due
 - [ ] Reorganizace Disku: vrátit `#next-action` na úkol „Projít `01 PRIVATE` po položkách s Claudem“ v [[disk-reorganizace]] (odloženo z weekly review 261018) 📅 2026-11-02
 - [x] (261016: díl #3 nevyšel, nový termín po 19. 10. 15:00–17:00, blok v Todoist kalendáři přesunut) Pá 16. 10. odpoledne: vyhodnotit, jestli se stihl díl #3 tadylenky → [[tadylenka-publishing]]
 - [ ] Odeslat přiznání k DPH za předchozí měsíc 🔁 every month on the 20th 📅 2026-11-20
-- [ ] Projít s Claudem Stažené a zařadit, co má zůstat 🔁 every month on the 1st 📅 2026-11-01
-    - Kontext: měsíční kontrola podle [[resources/postupy/udrzba-pocitace]] (Lenka 261026, po úklidu disku C:).
+- [ ] Projít s Claudem Stažené a zálohovat Shadowloop 🔁 every month on the 1st 📅 2026-11-01
+    - Kontext: měsíční kontrola podle [[resources/postupy/udrzba-pocitace]] (Lenka 261026, po úklidu disku C:). Od 261028 i záloha Shadowloopu (Firestore + Storage na Disk), spouští ji Claude: [[shadowloop-admin#Záloha a obnova (od 261028)]].
 - [ ] Čtvrtletní údržba počítače s Claudem (programy, složky, duplicity, místo) 🔁 every 3 months 📅 2027-01-26
     - Kontext: postup [[resources/postupy/udrzba-pocitace]]; výchozí soupis programů [[pc-programy-261026.csv]], volno 571,7 GB (261026).
     - Kontext: výpisy Air Bank chodí 1.–2. do mailu, svodka na ně upozorní; Lenka odheslí a uloží, Claude připraví XML. Postup [[resources/postupy/dph]]. Za říjen: Anthropic Pro 18 € + přechod na Max 5x 82,46 € (doklad QRVMHXKX-0008).
@@ -80,6 +81,7 @@ sort by due
 ## Čeká na někoho
 - [ ] Čekám na Štěpánku ohledně Stripe a převodu na nový účet v SimpleShopu GNOSTIKY 📅 2026-11-02
     - Kontext (Lenka 261028 21:56, předáno Štěpánce): zprovoznit platby kartou přes Stripe a založit platbu převodem na účet 3124063015/3030 místo KB. Pak Claude u produktu DigiStart přepne platbu z KB na nový účet a může proběhnout testovací objednávka. Projekt [[digistart]] oddíl 5; reklamy od cca 9. 11.
+    - 261028 22:55 (Claude, čteno v SimpleShopu): platba převodem „AirBank“ má účet 3124063015/3030 a formulář nabízí kartu i převod; KB v seznamu metod už není. Stripe je v Platebních branách připojený; jestli je účet Stripe ostrý, nebo zatím neschválený, odtud vidět není.
 - [x] (261027: Frank odpověděl 26. 10. – pozadí portálu změnit nejde, Custom Script systémová nastavení neupraví, jde jen barva tlačítek; svodka č. 28) Čekám na podporu FreshLearn ohledně růžového pozadí portálu a nefunkčního Custom Script pro Member Portal 📅 2026-10-30
     - Kontext: mail odeslala Lenka 261025 ~21:00 na support@freshlearn.com. Oprava 17 v [[lcenglish-freshlearn-revize]]; vlastní CSS je v administraci uložené (Custom Script → Member Portal), jen se nenačítá.
 - [x] (261025 12:01: Jaroslav Podhradský odpověděl „koš vyprázdněn dle požadavku“, svodka č. 27) Čekám na podporu Hosting Solutions ohledně smazání zamčených složek v koši lcenglish 📅 2026-10-28 ✅ 2026-10-26
@@ -125,7 +127,7 @@ sort by due
     - Kontext: připomínku z konceptu v Gmailu odeslala Lenka 27. 10. (z lnk.dvorakova@gmail.com, vlákno „Návrat na tréninky Po + St od 18:00“).
     - Kontext (261027 11:40): koncept je v Gmailu jako odpověď ve vlákně „Návrat na tréninky Po + St od 18:00“ (z lnk.dvorakova@gmail.com), čeká na odeslání Lenkou.
 
-- [ ] AI Strategist: kurz živě 26.–28. 10. (16–22 h) → [[kontext-ukolu#AI Strategist (Danny Iny)]] 📅 2026-10-26
+- [x] AI Strategist: kurz živě 26.–28. 10. (16–22 h) → [[kontext-ukolu#AI Strategist (Danny Iny)]] 📅 2026-10-26 ✅ 2026-10-28
 
 - [ ] Vítek — doplnit seznam oprav ([[projects/hodinovy-manzel]]) a sehnat někoho, kdo je udělá (Vítek sám opravář nebude). Lenka připomněla 260926 a znovu 261004. Posunuto 261009 (Lenka, víkend), 261011 (weekly review) a 261018 (weekly review: Vítek stále nekoná, Lenka ho upomíná). 📅 2026-10-25
 - [x] (vyřešeno 5. 10., víc to nejde — Lenka 261006) Štěpánka Uličná — smazat staré složky a volné soubory na SharePointu `FEKT VUT Brno` (mail odeslán 260929), vyjádřit se k útržkům Dokument4/7, případně poslat čistopis zápisu z ekonomického; **od 3. 10. Lenka nevidí nadřazenou složku `FEKT VUT Brno` (přístup odepřen) — Štěpánka ví, vrací se 4. 10. večer** ([[gnostika-fekt-audit]]); původní sdílený odkaz od Štěpánky (13. 8., bez přihlášení; vede do podsložky „Podklady pro audit FEKT“): https://gnostika-my.sharepoint.com/:f:/g/personal/ulicna_gnostika_cz/IgBr6EheT2a4T4RzPiiZtgArAcgTuninhQy_HvMvT7p3J1o?e=6HRGbh 📅 2026-10-05

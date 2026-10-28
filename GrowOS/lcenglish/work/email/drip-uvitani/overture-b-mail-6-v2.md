@@ -6,10 +6,10 @@ source: resources/drip-lcenglish-uvitani.md
 subject: Chyby se taky učí
 date: ""
 skill: ""
-note: ""
+note: Doslovné opakování toho, co už jsme psali v minulých mailech, nechci. Je potřeba být kreativnější. Taky si nejsem jistá, jestli je tohle skutečně ta "osobní naléhavost", kterou 008 požaduje. Podívej se pořádně, bývají tam v těch kampaních ukázky, tak se inspiruj, nebo mi to aspoň vypiš do poznámek, abych to mohla posoudit. Ideálně tam i přidej přímý odkaz na tu kampaň, abych si to mohla dohledat.
 kanban_order: V1
 id: sei0nxyugn
-status: review
+status: changes
 business: lcenglish
 channel: email
 created: 2026-10-26

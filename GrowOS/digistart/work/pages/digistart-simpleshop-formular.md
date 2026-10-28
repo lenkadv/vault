@@ -158,3 +158,14 @@ Zjištěno při nastavení:
 - Na „Stránce po uhrazení“ je stejný text jako v mailu, jen první věta zní „Fakturu najdete na této stránce a poslaly jsme vám ji i do mailu.“
 - Odstraněn nefunkční řádek „Zadejte název“ ve vlastních polích (skrytý).
 - Ve stránce po zaplacení kartou se zatím nepřesměrovává; adresa děkovací stránky přijde po jejím schválení.
+
+## Děkovací stránka po zaplacení (2026-10-28 22:28–22:50)
+
+Bod 5 dokončen v samostatném vlákně (ve vaultu, proto bez samostatné karty ve frontě). Text = schválený text po zaplacení z bodu 3, jen „Fakturu najdete v příloze“ → „Fakturu jsme vám poslaly do mailu“; přidán řádek s termíny setkání a patička (GNOSTIKA, obchodní podmínky). **Lenka schválila v chatu 22:32 („Schvaluju“).**
+
+- Stránka: https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 (Leadpages, editor https://leadpages.com/edit/x3lph1iq1ji8i1vhh03r061a), vzhled B3, portréty Lenky a Štěpánky, noindex/nofollow, titulek „Děkujeme | DigiStart“. Zdroj HTML: `_digistart-dekovaci-stranka/dekovaci-stranka.html`. Obchodní podmínky jako asset stránky (kopie `resources/gnostika-obchodni-podminky/obchodni-podminky-gnostika.pdf`; při změně podmínek nahrát znovu).
+- SimpleShop → produkt DigiStart → Ostatní → **URL po uhrazení** = adresa výš. Uloženo a ověřeno po novém načtení.
+- **Proč ne „URL po objednání“:** podle nápovědy v SimpleShopu přesměruje u online plateb po zaplacení, ale u převodu hned po objednání, takže by kupující převodem neviděl QR kód a četl by „místo je vaše“ ještě před platbou.
+- **Neověřeno:** jestli po platbě kartou SimpleShop přesměruje na „URL po uhrazení“, nebo ukáže svou stránku po objednání (nápověda u pole „URL po objednání“ zmiňuje karty). Ukáže testovací objednávka kartou. Kdyby přesměrování nenastalo, kupující uvidí SimpleShopovou stránku po uhrazení se stejným textem, takže nic nechybí.
+- Nastavením vlastní adresy zákazníci na stránce SimpleShopu nevidí doklady ke stažení (upozornění SimpleShopu); faktura chodí mailem.
+- Pixel Meta zatím na stránce není (až s reklamním účtem). `og:locale` je výchozí en_US z Leadpages, u stránky s noindex nevadí.

@@ -6,10 +6,10 @@ source: resources/drip-lcenglish-uvitani.md
 subject: 6 mailů, 1 denně, po sérii 000 GTKY
 date: ""
 skill: ""
-note: ""
+note: Myslím, že obsah mailů neodpovídá tomu, jak to popisuje EMH - jdeš rovnou v prvním mailu k prodeji, to tam tak myslím není. Nastuduj ten návod pořádně.
 kanban_order: V0
 id: ot8892fnpd
-status: review
+status: changes
 business: lcenglish
 channel: email
 created: 2026-10-26

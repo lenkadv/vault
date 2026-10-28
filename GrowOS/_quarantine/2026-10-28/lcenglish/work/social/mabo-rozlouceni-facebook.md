@@ -1,14 +1,15 @@
 ---
 type: social-post
-headline: "Poslední příspěvek do FB skupiny Mluvte anglicky bez obav (MABO) před archivací"
+headline: Poslední příspěvek do FB skupiny Mluvte anglicky bez obav (MABO) před archivací
 skill: social-write
 platform: facebook
 intent: story
-status: draft
+status: approved
 business: lcenglish
 channel: social
 created: 2026-10-26
-note: ""
+note: příspěvek zveřejněn, waiting for pro zavření skupiny nastaveno
+kanban_order: V2
 ---
 
 # Facebook skupina MABO — rozloučení

@@ -28,9 +28,10 @@ Denní rutina 15 minut bez Anki: jeden nový gramatický bod z Genki II (pravidl
 - [x] Ověřit opravu ukládání v artefaktu ✅ 2026-10-11 — zatržítko Shun a odpověď dne po znovunačtení stránky fungují (Lenka)
 - [ ] Dělat denní patnáctku v artefaktu „Japonská patnáctka“ — jeden den = ~15 min, den po dni (13 dnů); po dni se vyplní, co šlo a co ne #next-action #online
 - [ ] Zpracovat s Claudem další epizodu Shuna (`/shun-podcast`) #next-action #online
-    - Kontext: zpracované 275, 276, 278; nezpracovaná 277 (vyšla dřív) a každá nová. Skill bere nejvyšší nezpracované číslo.
+    - Kontext: zpracované 275, 276, 278 (Docs ve složce „Shun to Nihongo“); nezpracovaná 277 (vyšla dřív) a každá nová. Skill bere nejvyšší nezpracované číslo.
 - [ ] Po 13. dni napsat Claude „hotovo“ → z Přehledu postavit pravidelnou frontu opakování (po 13 dnech)
 
 ## Záznam (nejnovější nahoře)
 
+- 261028: blok „nová epizoda Shuna“ (st 13:00) zrušen: Lenka potvrdila, že hotová je Ep278 z 25. 10. (Doc [278](https://docs.google.com/document/d/14QRwqeuOwoGzTn_88RP5zKjIfm6ssiUOeen-qzHkwnw/edit), složka „Shun to Nihongo“). Nová epizoda dnes zpracovaná nebyla.
 - 261025: zpracována **Ep278** „How to make a good relationship with people“ (vyšla 23. 10.) → Google Doc [278](https://docs.google.com/document/d/14QRwqeuOwoGzTn_88RP5zKjIfm6ssiUOeen-qzHkwnw/edit), video https://www.youtube.com/watch?v=_Oi-9tGMxyM. Paralelní text JA↔EN, přepis, přepis s furiganou, 23 slovíček, opravy titulků (hlavně 気づく → 築く). Dvě opravy k ověření poslechem. Ep277 zatím nezpracovaná. Ve složce jsou 3 epizody (připomínka podpory Shuna až při 10). Rozhodnutí Lenky: nová slova z epizod zpracovává průběžně v rámci denní patnáctky, ne jako samostatný krok „vytáhni slova“ po epizodě (samostatný úkol proto nezaložen). Při čtení Docu ověřit poslechem dvě opravy z jeho konce (úvodní řádky, それから).

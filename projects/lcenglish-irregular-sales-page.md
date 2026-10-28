@@ -12,7 +12,7 @@
 
 ## Next actions
 
-- [ ] Připravit a spustit reklamní kampaň na Nepravidelná slovesa #next-action #online
+- Reklamní kampaň na Nepravidelná slovesa: od 261028 součást jednoho úkolu „Připravit s Claudem první reklamní kampaň LCEnglish (10x ENGLISH, nebo Nepravidelná slovesa)“ v [[lcenglish-10x-english-sales-page]] (Lenka: sloučit reklamu LCEnglish).
     - Kontext: Zatím jen připomínka (Lenka 261024), kampaň má víc kroků. Kampaň LCEnglish poběží asi jen na jeden produkt, 10x ENGLISH, nebo Nepravidelná slovesa; otevřené (viz [[lcenglish-10x-english-sales-page]]). Před spuštěním testovací nákup a ověření události ve Správci událostí Meta (Lenka 261014).
 
 ## Záznam (nejnovější nahoře)
