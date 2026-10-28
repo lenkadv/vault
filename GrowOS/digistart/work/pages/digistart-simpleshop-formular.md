@@ -1,13 +1,14 @@
 ---
 type: checkout-form
-headline: "Objednávkový formulář DigiStartu v SimpleShopu GNOSTIKY"
+headline: Objednávkový formulář DigiStartu v SimpleShopu GNOSTIKY
 note: ""
 id: w6ypuhg9vi
-status: draft
+status: changes
 business: digistart
 channel: pages
 created: 2026-10-28
 skill: ""
+kanban_order: V0
 ---
 
 # DigiStart: objednávkový formulář v SimpleShopu GNOSTIKY (návrh úprav)
@@ -60,12 +61,10 @@ Obrázek produktu: **zatím žádný.** DigiStart nemá logo a logo GNOSTIKY pat
 
 ### 3. Texty
 
-Varianty tam, kde je volba. Vykání s malým v, účastnice v ženském rodě.
+Varianty tam, kde je volba. Vykání s malým v, slovesa vztahující se k účastníkům v množném čísle generické maskulinum (nemůžeme vyloučit, že se přihlásí nějaký muž).
 
 **Veřejný název produktu** (nahoře na formuláři i na faktuře)
-- A: DigiStart – živý kurz, 4 pondělí od 23. 11. 2026
-- B: DigiStart – pilotní kurz AI pro podnikatelky
-- C: DigiStart (pilot)
+Kurz DigiStart – 4 pondělí od 23. 11. 2026
 
 **Nadpis formuláře** (místo „Objednávka“): Přihláška do kurzu DigiStart
 
@@ -75,33 +74,33 @@ Varianty tam, kde je volba. Vykání s malým v, účastnice v ženském rodě.
 
 **Tlačítko odeslání** (místo „Potvrďte nákup“). Zákon chce, aby z tlačítka bylo jasné, že objednávka zavazuje k platbě:
 - A: Závazně se přihlásit a zaplatit
-- B: Přihlásit se a zaplatit 15 000 Kč
+
 
 **Popis nad formulářem**
 
 > **DigiStart: čtyři pondělí, kdy AI začne dělat práci za vás**
 >
-> Čtyři živá vysílání s Lenkou Dvořákovou a Štěpánkou Uličnou: po 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, online. Páté konzultační setkání bude po Vánocích.
+> Čtyři živá vysílání s Lenkou Dvořákovou a Štěpánkou Uličnou: pondělí 23. 11., 30. 11., 7. 12. a 14. 12. 2026, vždy 17–20 h, online. Páté konzultační setkání bude po Vánocích.
 >
 > Cena 15 000 Kč, konečná (nejsme plátkyně DPH).
 >
 > **Kdy se platí:** hned při přihlášení, kartou nebo převodem. Místo máte jisté, jakmile platba dorazí.
 >
-> **Co budete potřebovat:** počítač a placený Claude Pro (20 USD měsíčně, platí se zvlášť společnosti Anthropic, ne nám).
+> **Co budete potřebovat:** počítač (notebook nebo stolní počítač) a placený Claude Pro (20 USD měsíčně, platí se zvlášť společnosti Anthropic).
 >
-> Nejste si jistá? [Domluvte si nejdřív konzultaci zdarma](https://tidycal.com/ulicna/digistart).
+> Nejste si jistí? [Domluvte si nejdřív konzultaci zdarma](https://tidycal.com/ulicna/digistart).
 
 **Stránka po objednání** (vidí ji hned po odeslání, hlavně kdo platí převodem)
 
 > **Děkujeme, přihláška je odeslaná.**
 >
-> Pokud jste zvolila převod, platební údaje máte níž i v mailu. Prosíme o správný variabilní symbol, jinak platbu nespárujeme. Jakmile peníze dorazí, pošleme vám fakturu a potvrzení místa.
+> Pokud jste zvolili bankovní převod, platební údaje najdete tady a poslaly jsme vám je i do mailu. Při zadávání platby dejte pozor na variabilní symbol - když ho netrefíte, nedozvíme se o vaší platbě včas. Jakmile peníze dorazí, potvrdíme vám místo v kurzu a přijde vám od nás faktura.
 >
-> Otázky: ulicna@gnostika.cz
+> Potřebujete se na něco zeptat? Napište na: ulicna@gnostika.cz
 
 **Text do mailu po zaplacení** (a stejný text na děkovací stránce, bod 5)
 
-> **Máte místo v kurzu DigiStart.**
+> **Místo v kurzu DigiStart je vaše!**
 >
 > Faktura je v příloze. Do [PLACEHOLDER: kdy, např. „pátku 20. 11.“] vám pošleme uvítací mail: jak se na první pondělí připravit a kde budou odkazy na vysílání.
 >
