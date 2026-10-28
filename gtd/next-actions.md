@@ -49,8 +49,11 @@ sort by due
 ---
 
 ## @online
-- [ ] Vymyslet s Claudem dárek nebo odkaz na kurz do nejčtenějších článků lcenglish.cz → [[mapa-webu-skutecna#Kam vést návštěvníka]]
-    - Kontext (261026): z 12 nejčtenějších článků (885–63 zobrazení za rok) jen jeden odkazuje v textu na kurz, a to na starou `/hele-sp/` (Slovíčka). Žádný dárek nemá 5 z nich: How are you (nejčtenější), Xmas, 7 YouTube kanálů, Don't poop, Czech Easter. Cíl: u každého jeden dárek, který vede do správného vagónu v Dripu, nebo odkaz na kurz, který k tématu sedí. Ostatní články neřešit, návštěvnost je malá.
+- [ ] Prozkoumat s Claudem frontu GrowOS: proč některé texty ke schválení vznikají bez id → [[resources/postupy/growos]]
+    - Kontext (Lenka 261028): jak fronta s texty ke schválení funguje a proč se některé položky nezakládají rovnou s id. Známá příčina (paměť `feedback_growos_items_jen_v_growos_sezeni`, 261026): razítko (`id`, `status`) doplňuje hlídač jen v sezení otevřeném ve složce GrowOS (`GrowOS/.claude/settings.json`); položka založená ze sezení ve vaultu ho nemá a nástěnka [[GrowOS fronta.base]] ji nevidí.
+    - Kontext (doctor 261028 13:20): bez id je 6 položek: `lcenglish/work/social/mabo-rozlouceni-facebook.md`, `email/drip-uvitani/gtky-01-ucim-se-jinak.md`, `email/drip-uvitani/overture-c-10x-english.md` a `overture-b-mail-6.md` (staré, nahrazené `-v2`), `email/newsletter-prihlaseni-prvni-dil.md`, `pages/newsletter-prihlaseni.md`. Prověřit, jestli vznikly jen ve vaultu, nebo hlídač selhává i v GrowOS, a co se staršími položkami (znovu založit, nebo do Koše). Kontrola: `node system/tools/growos.js doctor`. Systémové cesty GrowOS upravuje jen Lenka.
+- [ ] Založit v claude.ai zkušební naplánovanou úlohu Kontrola A4E 📅 2026-11-02 → [postup a prompt](https://claude.ai/artifact/1PN5VhoScmfDsQ8e5jEhsW)
+    - Kontext (261028): podle návodu AI Signal ([[SLU – Scheduled tasks]]); úloha každé úterý 9:00 ověří Drip a Substack, jen čte. První běh 3. 11., kontrola a rozhodnutí ve [[waiting-for]]. Karta na tabuli `kontrola-a4e-uloha`.
 - [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
     - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
 - [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31

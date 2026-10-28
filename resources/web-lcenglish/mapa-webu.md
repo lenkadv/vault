@@ -58,6 +58,29 @@ Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní s
 - **Hlavní obrázek u článků s videem nahoře skrytý (Lenka 261027):** u 94 ze 112 článků, které začínají videem, se nahoře zdvojoval hlavní obrázek a náhled videa. Kadence přepínač u článku „Zobrazit hlavní obrázek“ (meta `_kad_post_feature: hide`, nastaveno přes REST). Obrázek zůstává nastavený: ukazuje se v seznamu blogu a jako náhled pro sdílení. 3 články s videem níž a 15 textových mají obrázek dál. **Nový článek s videem nahoře:** přepínač nastavit ručně v editoru (nastavení Kadence u článku).
 - **Komentáře vypnuté (Lenka 261027):** byly otevřené u 13 článků z let 2017–2020 a chodil do nich spam (Take 61 Survival Kit). Zavřeno u všech 112 článků, výchozí stav pro nové články `default_comment_status: closed` (pingbacky už byly zavřené). Tři staré schválené komentáře (2018, /public-transport/, /how-are-you/) zůstávají vidět.
 
+## Nejčtenější články: dárek a kurz (Lenka schválila 261028)
+
+Ke každému z 12 nejčtenějších článků (seznam a zobrazení: [[mapa-webu-skutecna#Kam vést návštěvníka]]) jeden dárek do vagónu v Dripu a odkaz na kurz, který k tématu sedí. Forma: pod článek krátký odstavec s odkazem ve větě (ne tlačítko „ZDE“, podle `GrowOS/lcenglish/brain/voice.md`) na stránku dárku v Leadpages, které jsou od 261024 napojené na Drip. Kurz jednou větou v textu. Popupy Leadpages zatím ne: při ~100 zobrazeních ročně se nedají změřit a soupeřily by se starými okny Dripu. Vagóny: [[drip-lcenglish-uvitani]]. Do 28. 10. 2026 funguje až ke kurzu jen B, C čeká na schválení Overture C, A (HELE) postavené není.
+
+| Článek | Dárek → vagón | Kurz v textu |
+|---|---|---|
+| /how-are-you/ | **nový:** Texty a nahrávky v Shadowloopu → C | 10x ENGLISH |
+| /anglicky-chatgpt/ | ChatGPT tahák (beze změny) → C | 10x ENGLISH |
+| /to-be/ | okno To be (beze změny, formulář 991221353 „To Be ContUp“) → A (ověřeno 261028) | Angličtina s příběhem (HELE) |
+| /anki-navod/ | Anki (beze změny) → A | 10x ENGLISH (Lenka 261028) |
+| /predpritomny-cas/ | Present Perfect (beze změny) → B | Nepravidelná slovesa |
+| /anglicka-slovicka/ | 3x25 (beze změny) → A | už odkazuje na /hele/, nic neměnit |
+| /proc-se-vanoce-anglicky-pisou-xmas/ | **nový:** přihláška k Art for English (/newsletter/) → C | – |
+| /nepravidelna-slovesa/ | okno „50 sloves“ (beze změny, formulář 778588959) → B (ověřeno 261028) | Nepravidelná slovesa |
+| /7-nejlepsich-youtube-kanalu-na-uceni-anglictiny/ | nic (Lenka 261028: článek je starý, kanály možná neexistují) | – |
+| /dont-poop/ | **nový:** Stínování → C | 10x ENGLISH |
+| /czech-easter/ | **nový:** přihláška k Art for English → C | – |
+| /anglicky-za-tyden/ | 3x25 (beze změny) → A | Angličtina s příběhem (HELE) |
+
+Adresy: dárky https://lenka-dvorakova.lpcontent.net/shadowloop-texty, `/7onlinetools`, `/stinovani`, newsletter https://lcenglish.cz/newsletter/; kurzy https://lcenglish.cz/10x-english/, `/hele/`, `/irregular/` (všechny vrátily 200, 261028).
+
+**Provedeno 261028 ~21:30** (REST WordPressu v Chromu, texty schválené na nástěnce GrowOS, položka `htbag2myul` `GrowOS/lcenglish/work/pages/clanky-darek-kurz.md`, Lenka je před schválením přepsala): na konec 10 článků oddělovač + 1–2 odstavce, začínají komentářem `<!-- lce-darek-kurz -->` (podle něj se dají najít). Ověřeno živě, odkazy na stránkách jsou. Původní znění je v revizích WordPressu. /anglicka-slovicka/ beze změny, YouTube kanály vynechány. Akce oken Dripu se čtou jen v prohlížeči: `getdrip.com/2094497/forms/<id>/actions`.
+
 ## Identita a obrázek pro sdílení
 
 - **Identita:** vizuální identita LCEnglish „Galerie“ (261025) je v `GrowOS/lcenglish/brain/brand.md` a ve vzorníku https://claude.ai/artifact/YR59A2aWtN8eTQYshtiNCF. Samostatný soubor identity webu jako u [[resources/web-lenkadvorakova/identita]] lcenglish.cz nemá.

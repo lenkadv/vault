@@ -5,7 +5,7 @@ project: web-lcenglish-clanky-darek-kurz
 source: resources/web-lcenglish/mapa-webu.md
 note: ""
 id: htbag2myul
-status: approved
+status: published
 business: lcenglish
 channel: pages
 created: 2026-10-28

@@ -56,6 +56,8 @@ Pojistky z Blueprintu, které v tom jsou:
 | Fall Outfit | ⚠️ spouštěč nevyplněný | c | nic |
 | Stínování, Gonna Wanna, Shopping, Mugcake, Chyby rodiláků, Dovolená, 7 online tools | Leadpages, Drip formulář nebo štítek | c / C | nic |
 | ChatGPT tahák, Iversen | vyskakovací formulář Dripu, akce ve formuláři (bez workflow) | C | nic |
+| To be (okno 991221353 „To Be ContUp“, /to-be/) | akce ve formuláři, štítek `freebie: tobe` (ověřeno 261028) | A | nic |
+| **Nepravidelná slovesa 50** (okno 778588959, /nepravidelna-slovesa/) | akce ve formuláři, štítek `freebie: irregular` (ověřeno 261028) | **B** | **008 Overture B** |
 
 Za posledních 12 měsíců poslaly dárkové workflow 154 mailů. Nejvíc 7 online tools (82), Anki (27), Present Perfect (21), TOP 3x25 (13). Dárek nejvíc kliknutý: Anki (63 % kliknutí).
 
