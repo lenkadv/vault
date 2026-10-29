@@ -2,7 +2,11 @@
 
 **Oblast:** [[areas/ai-nastroje]]
 **Založeno:** 260926
-**Stav:** aktivní — 1.1 hotová 261004; 261024 (weekly review) zrušen úkol Humanize Writing z AI Black Magic (Lenka: společné psaní je dost lidské, potřeba není), další krok = marketingový kurz (souvisí s Email Marketing Heroes na tabuli)
+**Stav:** aktivní
+
+## Aktuální stav
+
+261029: Marketingové kurzy procházíme průběžně, zatím dva: WinningAds s kurzem Winning With Meta Ads (261025) a Email Marketing Heroes (261024). Další krok = vybrat s Claudem další kurz z [[kurzy-marketing]]. Ochutnávky z katalogu: hotová 1.1, na řadě 1.2 `strategy-offer`.
 
 ## Cíl
 
@@ -20,6 +24,13 @@ Tempo: ochutnávky po 30–45 min se Claudem.
 - [ ] 1.3 `research-audience` · 1.4 `research-competitors` · 1.5 `campaign-plan`
 - [ ] Sekce 3 Weby: **cíleně projít Impeccable (18 skillů, Paul Bakaus)**, k čemu je který (polish, critique, layout, typeset…), na jednom reálném webu. Výsledek zapsat do poznámek v Databance, složka `Impeccable/` (Lenka chce brzy, 260929).
 - [ ] Sekce 2 Texty, které prodávají → 3 Weby → 4 Sítě, obsah, reklamy → 5 Vizuál, video, hlas → 6 Studium → 7 Produktivita
+
+## Záznam (nejnovější nahoře)
+
+- 261029: srovnáno podle tabule (Lenka: „pořád to není srovnané“): Aktuální stav nahoře, projité kurzy zapsané sem.
+- 261025: projit WinningAds a kurz Winning With Meta Ads ([[APP – WinningAds a kurz Winning With Meta Ads]]).
+- 261024: projit Email Marketing Heroes ([[email-marketing-heroes]]); weekly review zrušilo Humanize Writing z AI Black Magic (společné psaní je dost lidské).
+- 261004: ochutnávka 1.1 `marketing-strategy` hotová.
 
 ## Související
 

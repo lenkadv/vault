@@ -49,33 +49,17 @@ sort by due
 ---
 
 ## @online
-- [x] Založit v claude.ai zkušební naplánovanou úlohu Kontrola A4E ✅ 2026-10-29 (Lenka, úterý 16:01, zkušební běh OK) → [postup a prompt](https://claude.ai/artifact/1PN5VhoScmfDsQ8e5jEhsW)
-    - Kontext (261028): podle návodu AI Signal ([[SLU – Scheduled tasks]]); úloha každé úterý 9:00 ověří Drip a Substack, jen čte. První běh 3. 11., kontrola a rozhodnutí ve [[waiting-for]]. Karta na tabuli `kontrola-a4e-uloha`.
-- [ ] Projít s Claudem, k čemu je záloha vaultu na GitHubu a jak ji využít → [[resources/postupy/git-zaloha]]
-    - Kontext (Zápisník 261027, `inbox/telefon/zarazeno/261027-1137 K čemu mi je GitHub.md`): Lenka commituje a pushuje svědomitě, ale neví proč, vault je přece i na Disku Google. Chce pochopit, k čemu je to dobré a jestli vůbec.
-- [ ] Smazat po kontrole uvítání 2 zkušební kontakty newsletteru v Dripu (`lnk.dvorakova+newsletter@gmail.com`, `+newsletter2@`) 📅 2026-10-31
-    - Kontext (261026): přihlášení přes lcenglish.cz/newsletter/; do pátku jim dojdou 4 maily GTKY, ať je vidět, že uvítání běží. Mazat smí jen Lenka (People → kontakt → Delete).
-    - Kontext (261027): maily číst nemusí. Claude při denním plánu ověří ve schránce, že došly GTKY 3/4 a 4/4, dá jim `Svodka/smazat` a v pátek Lence řekne, že kontakty může smazat.
+- [ ] Postavit s Claudem finanční dashboard z výpisů Air Bank
+    - Kontext (Lenka 261029): kam plynou peníze (výdaje podle kategorií, měsíční trend, předplatná). Vzor zadání: cvičení Map/Reduce v [[coursera-build-anything-with-ai]] (modul 5). Až bude hotový, zapsat jako případ do [[pripady-z-praxe-claude]] (příklad pro DigiStart). Výpisy v `G:\Můj disk\01 PRIVATE 🏡\Finance\Výpisy Air Bank\`, Claude s hesly nepracuje.
 - [ ] Zkontrolovat s Claudem novou tabuli: poslat zkušební zprávu do karty a projít filtry → [[resources/postupy/tabule]]
     - Kontext (261028 23:40–00:05, vlákno Tabule: rozhovor v kartách): odeslání zprávy na publikované stránce nebylo vyzkoušené; víc next actions u claude-academy, patnáctky a 10x ENGLISH čeká v daily 261028 „Pro denní vlákno“.
-- [ ] Upravit s Claudem skill denního plánu podle tabule úkolů (bez MIT) → [[resources/postupy/tabule]]
-    - Kontext (Zápisník 261025): v postupu tabule stojí „úprava skillu se dělá s Lenkou (zatím neprovedena)“ a nic ji nehlídalo. Skill už tabuli zapíná (krok 2e5), ale výběr MITů v něm zůstal.
-- [x] Rozhodnout o zálohování databáze Shadowloopu → [[lcenglish-ekosystem]] (261028: ochrana zapnutá, měsíční vlastní záloha na Disk, [[shadowloop-admin#Záloha a obnova (od 261028)]])
 - [ ] Rozhodnout, co dál s AI Sborovnou: rozvíjet a otevřít novým lidem, nebo nechat v klidu dožít → [[kontext-ukolu#AI Sborovna]]
 - [ ] Pustit si večer Andrewa Graham-Dixona na YouTube místo další práce 📅 2026-10-31
 - [ ] italki: objednat 2. hodinu němčiny u Philippa Kocha 📅 2026-11-01
-    - Kontext: až po návratu z Drážďan (Lenka 261024).
+    - Kontext: až po víkendu 31. 10. (Lenka 261024; Drážďany zrušeny 261028, místo nich exkurze doc. Sládka).
 - [ ] Upravit článek o sv. Terezii (Mundus symbolicus) pro sborník Transitorius mundus a poslat ho dr. Štěrbové → [[kontext-ukolu#Paní doktorka Štěrbová, sborník Transitorius mundus]]
 - [ ] Připravit pro dr. Štěrbovou kostru bakalářky o Vojtěchovi → [[kontext-ukolu#Paní doktorka Štěrbová, sborník Transitorius mundus]]
-- [ ] Rozhodnout, co s teoretickými kartami Anki z Přehledovky (dr. Pech)
 - [ ] Vybrat termín výletu Frankfurt – Paříž – Londýn (výstavy končí 17. 1. 2027) → [[resources/mista-k-navstiveni]]
-- [x] (261028: Lenka prošla, obě karty dala do changes s poznámkami; přepisuje Claude při denním plánu 29. 10.) Projít na nástěnce GrowOS nové verze Overture C a 6. mailu Overture B ✅ 2026-10-28 → [[drip-lcenglish-uvitani]]
-    - Kontext (261026 19:10): založeny znovu s razítkem, na nástěnce v `review`: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english-v2.md`, `…/overture-b-mail-6-v2.md`. Soubory bez `-v2` jsou staré.
-    - Kontext (261024 23:00): přepsáno podle dossieru EMH 008, karty v review: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`, `overture-b-mail-6.md`. Po schválení Claude postaví Overture C v Dripu.
-- [ ] Postavit s Claudem v Dripu vagón A (HELE) po uvítání → [[drip-lcenglish-uvitani]]
-    - Kontext (Lenka 261024): prodejní stránka HELE funguje, i když není vyladěná, takže cesta může běžet. Nejdřív Overture C (10x ENGLISH), pak HELE.
-    - Kontext (261024 23:00): po převodu z Elementoru /hele/ vypadá špatně (patička vybíhá, velké písmo) → nejdřív stránka v Leadpages (úkol níže).
-    - Kontext (261025): stránka HELE běží z Leadpages na `/hele/`, objednávka na `/hele-checkout/` předělaná ([[kontext-ukolu#Weby mimo WordPress]]).
 
 
 ```tasks
@@ -88,6 +72,12 @@ path does not include lcenglish
 (no due date) OR (due before in 4 days)
 sort by path
 ```
+- [ ] Napsat s Claudem e-mail uživatelům Shadowloopu o vylepšeních aplikace → [[shadowloop-admin]]
+    - Kontext (Lenka 261029): až bude Shadowloop „vytuněný“ (nový vzhled, přihlášení s názvem Shadowloop, případně instalace do telefonu), poslat rozjásaný e-mail, co všechno je nového; uvést v něm i upřesnění zásad ochrany osobních údajů (článek o Shadowloopu). Lenka to nebere jako změnu zásad, jen lepší formulaci.
+- [ ] Promyslet s Claudem, jak navést studenty k instalaci Shadowloopu jako aplikace v telefonu → [[shadowloop-admin]]
+    - Kontext (Zápisník 261029, `inbox/telefon/zarazeno/261029-0105 Instalace Shadow Loop jako aplikace.md`): Chrome v telefonu teď nabízí „Install“ (ne jen zástupce) a Shadowloop pak vypadá jako běžná aplikace. Lenka chce vědět, odkud se to vzalo, a využít to pro technicky méně zdatné studenty (jedna paní se ptala, jestli to není složité).
+- [ ] Najít ubytování ve Vídni na Erasmus (od března 2027) → [[deutsch]]
+    - Kontext (Zápisník 261029, `inbox/telefon/zarazeno/261029-0932 Ubytování ve Vídni na Erasmus.md`): Lenka namluvila jen „hledat ubytování ve Vídni na Erasmus“. Termín pobytu podle [[deutsch]].
 
 ## @telefon
 

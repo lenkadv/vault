@@ -2,7 +2,7 @@
 
 > Nastaveno při weekly review 261024. Toto čte skill při denním plánování celý týden.
 > **Bez MIT** (Lenka 261024, paměť `feedback_no_mit_prison`): orientace na týden, pevné časy z kalendáře, úkoly podle toho, kdo je vede, na [Tabuli úkolů](https://claude.ai/artifact/FD5CytwrHaAQhq43PV586N) ([[resources/postupy/tabule]]).
-> Kontext: školní týden (po Metodologie + Barokní architektura, út Přehledovka + Vizuálka, st 28. 10. státní svátek + japonština 14:00, čt muzeologie + hagiografie, pá Přehledovka 2). **Po–st večer AI Strategist (16–22), celý ho Lenka nesedí; žádné další večerní bloky.** So 31. 10. celý den Drážďany. Bloky jsou v Todoist kalendáři.
+> Kontext: školní týden (po Metodologie + Barokní architektura, út Přehledovka + Vizuálka, st 28. 10. státní svátek + japonština 14:00, čt muzeologie + hagiografie, pá Přehledovka 2). **Po–st večer AI Strategist (16–22), celý ho Lenka nesedí; žádné další večerní bloky.** So 31. 10. ~~celý den Drážďany~~ místo toho fakultní exkurze v krajině (doc. Sládek; Drážďany Lenka zrušila 261028). Bloky jsou v Todoist kalendáři.
 
 ## Orientace
 

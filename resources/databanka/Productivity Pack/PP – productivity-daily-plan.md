@@ -33,12 +33,12 @@ Poznámky z použití:
 > [!quote]- Znění skillu (aktualizováno 261029)
 > ```yaml
 > name: productivity-daily-plan
-> description: Sestaví denní plán — 2–3 nejdůležitější úkoly (MITs) s časovými bloky, zbytek flexibilně. Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
+> description: Sestaví denní plán bez MIT — pevné časy z kalendáře a výběr „Dnes na stole“ podle tabule úkolů (Ty / Spolu / Claude). Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
 > ```
 >
 > # productivity-daily-plan
 >
-> Skill sestaví denní plán metodou Hybrid MIT: 2–3 nejdůležitější úkoly s časovými bloky v peak focus okně, ostatní jako flexibilní seznam. Pracuje s tím, co je v kalendáři, projektech a týdenních prioritách — nestaví od nuly.
+> Skill sestaví denní plán **bez MIT** (Lenka 261024: „osvobodit se od vězení MIT“, paměť `feedback_no_mit_prison`; kostra odsouhlasena 261029). Plán stojí na dvou věcech: **pevné časy z kalendáře** a **[tabule úkolů](https://claude.ai/artifact/FD5CytwrHaAQhq43PV586N)** (kdo co vede: Claude / spolu / Lenka, postup `resources/postupy/tabule.md`). Do plánu jde jen krátký výběr „Dnes na stole“; všechno ostatní žije na tabuli a v plánu se neopakuje. Pracuje s tím, co je v kalendáři, projektech a týdenních prioritách — nestaví od nuly.
 >
 > Vault-specifické chování:
 > - Tasky čte přímo z `projects/` a `GrowOS/` (hledá `#next-action`), ne z `next-actions.md`
@@ -51,26 +51,22 @@ Poznámky z použití:
 >
 > Před čímkoli jiným zkontroluj `config.json` ve složce tohoto skilu.
 >
-> - **Pokud `config.json` neexistuje nebo chybí `schedule.peak_focus_windows` nebo `preferences.mit_count`**: spusť **Onboarding**.
+> - **Pokud `config.json` neexistuje nebo chybí `schedule.work_start` / `schedule.work_end`**: spusť **Onboarding**.
 > - **Pokud `config.json` existuje a je kompletní**: přejdi přímo na **Denní run**.
 >
 > ## Onboarding (první spuštění)
 >
 > Spustí se jen jednou. Přivítej přirozeně, ne byrokraticky:
 >
-> > „Nastavíme denní plán — tři rychlé otázky a pak projdeme tvoje oblasti, abys měla goals soubor. Příště bude spuštění okamžité."
+> > „Nastavíme denní plán — dvě rychlé otázky a pak projdeme tvoje oblasti, abys měla goals soubor. Příště bude spuštění okamžité."
 >
 > ### Otázky
 >
-> **1. Peak focus okno.**
-> „Kdy máš největší energii na hlubokou práci? Vyber 1,5–2hodinový blok — sem půjdou MITy."
-> Nabídni příklady: 11:00–13:00, 13:00–15:00, 15:00–17:00. Lenka je odpolední typ, takže odpoledne je pravděpodobné.
+> **1. Pracovní doba a soustředění.**
+> „Od kdy do kdy obvykle pracuješ a kdy máš největší energii na hlubokou práci?" Okno soustředění je jen informace pro návrh času, žádné MITy se do něj nestaví.
+> Lenka je odpolední typ, takže odpoledne je pravděpodobné.
 >
-> **2. Počet MITů.**
-> „Kolik nejdůležitějších úkolů chceš mít na den? Doporučuju 2–3 — víc než 3 přestane být 'nejdůležitější'."
-> Default: 3.
->
-> **3. Goals — tvoje oblasti.**
+> **2. Goals — tvoje oblasti.**
 > „Teď projdeme tvoje oblasti a zapíšeme pár směrů na tento kvartál. Budu se ptát po jedné oblasti."
 >
 > Projdi postupně každou oblast (po jedné, čekej na odpověď):
@@ -144,7 +140,6 @@ Poznámky z použití:
 >     "next_week_priorities_file": "G:\\Můj disk\\vault\\gtd\\next-week-priorities.md"
 >   },
 >   "preferences": {
->     "mit_count": 3,
 >     "evening_cutoff_hour": 20
 >   }
 > }
@@ -201,19 +196,19 @@ Poznámky z použití:
 > - `lnk.dvorakova@gmail.com` — schůzky a osobní události
 > - `d0cf3065decc1cb2fe038fcefe927aa76e4896534f469afa6667eadbfb891110@group.calendar.google.com` — pracovní bloky (Todoist kalendář, barva Sage)
 >
-> Načti také události na **následující 2 dny** z Todoist kalendáře — abys věděl, které tasky už mají naplánovaný blok a nestavěl je jako MITy na dnešek. Pokud task z projektů má blok v nadcházejících 2 dnech, přesuň ho do sekce „📋 Kdyby náhodou zbyl čas" s poznámkou kdy je blok, nebo ho vůbec nezmiňuj.
+> Načti také události na **následující 2 dny** z Todoist kalendáře — abys věděl, které tasky už mají naplánovaný blok a nedával je do „Dnes na stole“. Takový task patří do „⏰ Follow-upy“ (den bloku), nebo ho vůbec nezmiňuj.
 >
 > Bloky nastavené z weekly review jsou základ, denní plán pracuje v jejich rámci.
 >
 > **d. Goals soubor.**
 >
-> Načti `G:\Můj disk\vault\gtd\goals.md`. Použij jako kontext při výběru MITů.
+> Načti `G:\Můj disk\vault\gtd\goals.md`. Použij jako kontext při výběru „Dnes na stole“.
 >
 > **e. Týdenní priority.**
 >
-> Načti `G:\Můj disk\vault\gtd\next-week-priorities.md`. Toto je **kontext**, ne seznam úkolů. Při výběru MITů preferuj tasky, které jasně posouvají týdenní prioritu.
+> Načti `G:\Můj disk\vault\gtd\next-week-priorities.md`. Toto je **kontext**, ne seznam úkolů. Při výběru „Dnes na stole“ preferuj tasky, které jasně posouvají týdenní prioritu.
 >
-> **Pravidelné věci (od 261018):** sekce `## Každý den / pravidelně` v tomto souboru se do plánu vypisuje **vždy**, každý den, na který připadá, jako vlastní řádek pod MITy (např. „🔁 Japonská patnáctka (~15 min) → [[japonstina-patnactka]]“). Nejsou to MITy a nepatří do bloku drobných úkolů; cílem je, aby na Lenku každý den „svítily“. Při průběžném zápisu nebo zavírání se do Průběhu dne poznamená, jestli proběhly (bez hodnocení). Pokud sekce chybí nebo je prázdná, nic nevymýšlet.
+> **Pravidelné věci (od 261018):** sekce `## Každý den / pravidelně` v tomto souboru se do plánu vypisuje **vždy**, každý den, na který připadá, jako vlastní řádek v sekci `## 🔁 Každý den` (např. „🔁 Japonská patnáctka (~15 min) → [[japonstina-patnactka]]“). Nepatří do „Dnes na stole“ ani do bloku drobných úkolů; cílem je, aby na Lenku každý den „svítily“. Při průběžném zápisu nebo zavírání se do Průběhu dne poznamená, jestli proběhly (bez hodnocení). Pokud sekce chybí nebo je prázdná, nic nevymýšlet.
 >
 > **e2. Svodka z e-mailů.**
 >
@@ -254,30 +249,43 @@ Poznámky z použití:
 >
 > ### Krok 3 — Sestavení plánu
 >
-> **Základní princip: kalendářní bloky z weekly review jsou MITy.** Denní plán je jen ověření, že bloky platí — nepřidává nové úkoly nad rámec toho, co bylo naplánováno. Přidání dalších věcí Lenku mate a znervózňuje.
+> **Základní princip: bez MIT** (Lenka 261024, kostra odsouhlasena 261029). Plán nevybírá „nejdůležitější úkoly“ a neřadí je podle důležitosti. Stojí na pevných časech z kalendáře a na tabuli úkolů; do plánu jde jen krátký výběr toho, co je dnes opravdu na stole. Přidávání dalších věcí nad rámec toho Lenku mate a znervózňuje.
 >
-> **1. Vyber MITy.** MITy jsou bloky z kalendáře pro daný den. Pokud kalendář neobsahuje žádné pracovní bloky, teprve pak vyber z `#next-action` tasků (max N dle `preferences.mit_count`). Kritéria:
->    - Posouvá týdenní prioritu
->    - Má blížící se deadline (`📅`)
->    - Vyžaduje hlubokou soustředěnou práci
+> Pořadí sekcí podle `assets/plan-template.md`: nadpis s jednou větou → 📥 Pro denní vlákno → 📅 Naplánováno → 🗂️ Dnes na stole → 🔁 Každý den → 📬 Svodka → 🗂️ Nové v GrowOS → 📱 Ze Zápisníku → ⏰ Follow-upy → ⚠️ → 🌙. Sekce bez obsahu vynechat.
 >
->    Task, který má blok kdekoliv v aktuálním plánovaném týdnu (tj. do nejbližšího pátku včetně), **nevytahovat jako MIT na dnes**.
+> **1. Nadpis a jedna věta.** Pod H1 jedna věta: co je dnes pevné v kalendáři (a co odpadlo), pak „Ostatní podle toho, kdo to vede, na tabuli“ s odkazem na tabuli a [[next-week-priorities]].
 >
-> **1b. Založ kalendářní blok pro každý MIT.** Pokud MIT vznikl výběrem z `#next-action` tasků (tj. ještě nemá vlastní událost v Todoist kalendáři), **hned vytvoř** událost v Todoist kalendáři (`create_event`, barva Sage/colorId 2) pro přiřazený čas — ne až při zavírání dne. Bez kalendářního bloku MIT pro Lenku "neexistuje". Pokud MIT už je z existujícího Todoist bloku (bloky z weekly review), nic nezakládej — jen ho zobraz v „Naplánováno". Pokud čas kolidoval a posunul se (viz krok 2), založ blok na nový, reálný čas — nikdy ne na čas, který už uplynul.
+> **2. 📥 Pro denní vlákno.** Sekci nahoře v souboru nikdy nepřepisovat (píší do ní jiná vlákna, Workflow: Denní vlákno v `CLAUDE.md`). Otevřené položky z včerejška, které pořád čekají, přenést; hotové nepřenášet.
 >
-> **2. Ověř bloky.** Projdi kalendářní bloky dnešního dne — platí? Pokud je konflikt (schůzka přes blok apod.), upozorni. Jinak beze změny.
+> **3. 📅 Naplánováno.** Pevné časy z kalendáře pro daný den: schůzky, přednášky, bloky z weekly review (Todoist kalendář). Projdi, jestli platí; konflikt (schůzka přes blok apod.) jednou větou upozorni. Kalendář sám neměň.
 >
-> **3. Zobraz naplánované bloky.** Přidej do plánu kalendářní události a existující bloky jako sekci `## 📅 Naplánováno`.
+> **4. 🗂️ Dnes na stole: Ty / Spolu / Claude.** Krátký výběr, skupiny podle pole `kdo` na tabuli (`ty` / `spolu` / `claude`). Patří sem:
+>    - úkoly s termínem dnes nebo prošlým (z projektů, [[next-actions]], [[waiting-for]] podle kroku 2b2; 🔁 v den splatnosti),
+>    - nedodělky ze včerejška (krok 2a), které na dnešek opravdu patří,
+>    - věci z „Vyžaduje pozornost“ ve svodce, které chtějí reakci dnes (⚠️ jen u skutečného termínu nebo rizika),
+>    - pár dalších úkolů, které se vejdou do volného času mezi pevnými časy.
+>    
+>    Všechno ostatní je na tabuli a v plánu se neopakuje. U každé položky odkaz na soubor ve vaultu (`→ [[projekt]]`).
+>    
+>    **Naléhavost** se odvozuje z reálného termínu a z volného času do něj, ne z toho, že úkol má 📅 (paměť `feedback_no_mit_prison`). Dlouhé kurzové a online bloky nebrat jako nedostupný čas. Drobnost nedávat jako hlavní věc dne. Úkol, který má blok v kalendáři později v týdnu, sem nedávat (patří do Follow-upů, nebo nikam).
+>    
+>    **Claude:** co dnes udělám sám, bez Lenky (karty `kdo: claude` s `beh: bezi` nebo s termínem). Větší práce = nabídnout samostatné vlákno (Workflow: Denní vlákno). Karty, které čekají na Lenku (`ceka: true`), jdou do skupiny **Ty** s tím, co přesně potřebuju.
 >
-> **4. Zbytek jako flexibilní seznam.** Vše, co se nedostalo mezi MITy, jde do `## 📋 Kdyby náhodou zbyl čas` bez časových bloků.
+>    **Kalendářní bloky:** plán je sám nezakládá. Když se pro věc z „Dnes na stole“ hodí blok, navrhni čas jednou větou a založ ho (Todoist kalendář, Sage, colorId 2) až po Lenčině potvrzení (CLAUDE.md: čas vždy předem potvrdit). Nikdy ne na čas, který už uplynul.
 >
-> **5. Pokrytí oblastí.** Zmapuj každý MIT na oblast z goals. Pokud nějaká oblast nebyla v plánech 5+ dní, upozorni na konci: „5+ dní bez: [oblast] — zvážit zítra."
+> **5. 🔁 Každý den.** Pravidelné věci z kroku 2e (sekce `## Každý den / pravidelně` v [[next-week-priorities]]), každá jako vlastní řádek.
 >
-> Výjimky (nevypisovat do warningu): **family** a **finances-admin** mají vlastní dynamiku a neřídí se aktivním zásahem den co den. **japanese** vypisovat, ale ne jako naléhavý požadavek, pokud právě běží jiný intenzivní blok (např. seminárka) — spíš jako „až poleví".
+> **5a. 📬 Svodka.** Jeden řádek s odkazem na svodku (krok 2e2) a stručným výčtem „Vyžaduje pozornost“.
 >
-> **5b. Fronta GrowOS.** Pokud krok 2e3 našel novinky, přidej pod MITy krátkou sekci `## 🗂️ Nové v GrowOS`: číslovaný seznam nových nebo opravených položek ve stavu `review` (název, byznys, kanál, kdy vychází) a pod ním jednu větu „Odpověz třeba: 1 ano, 2 oprav: … Nástěnka: [[GrowOS fronta.base]]“. Schválené a naplánované položky nevypisuj. Sekci počítej do plánu, ne mezi MITy.
+> **5b. Fronta GrowOS.** Pokud krok 2e3 našel novinky, přidej krátkou sekci `## 🗂️ Nové v GrowOS`: číslovaný seznam nových nebo opravených položek ve stavu `review` (název, byznys, kanál, kdy vychází) a pod ním jednu větu „Odpověz třeba: 1 ano, 2 oprav: … Nástěnka: [[GrowOS fronta.base]]“. Schválené a naplánované položky nevypisuj.
 >
 > **5c. Ze Zápisníku.** Pokud krok 2e4 něco zpracoval, přidej krátkou sekci `## 📱 Ze Zápisníku`: u každé poznámky jedna řádka „co → kam“ (wiki-link na místo, kam to šlo), ať Lenka vidí a může opravit. Bez nových poznámek sekci vynech.
+>
+> **5d. ⏰ Follow-upy.** Příští 3 dny po dnech: bloky z kalendáře, 📅 z [[waiting-for]] a projektů, termíny ze svodky. Jeden řádek na den.
+>
+> **5e. ⚠️ Upozornění.** Jednou větou jen to, co čeká na Lenku z kroků 2e5 a 2e6 (tabule bez hlídání, linie s víc next actions apod.). Nic = nic nepsat.
+>
+> Oblasti se v denním plánu nehlídají (dřívější „Pokrytí oblastí“ stálo na MITech a od 261029 vypadlo); kontrolují se při weekly review.
 >
 > **6. Večerní řádek (stálý, do 31. 10. 2026).** Na konec plánu přidej jednu větu: „🌙 Večer: místo další práce pustit Andrewa Graham-Dixona na YouTube (https://www.youtube.com/@AndrewGrahamDix); test do 31. 10., jestli se vyplatí roční studentské členství, viz next-actions.“ Platí každý den do 31. 10. 2026 (Lenka 261011: spoléhat na můj spouštěč nestačí). Po tomto datu řádek vypustit a vyhodnotit test při weekly review.
 >
@@ -286,7 +294,7 @@ Poznámky z použití:
 > Vše jde do jednoho souboru: `G:\Můj disk\vault\daily\{YYMMDD}.md`. Plán tvoří horní část dokumentu, `## Průběh dne` a pozdější `## Systémové změny` pokračují pod ní.
 >
 > - **Soubor ještě neexistuje** → vytvoř ho: plán podle `assets/plan-template.md` nahoře, pod ním prázdná sekce `## Průběh dne`.
-> - **Soubor už existuje** (např. z předchozího spuštění skillu ten den, nebo už obsahuje `## Průběh dne` ze session, co běžela od rána) → nahraď/vlož jen plánovou část nahoře (od H1 po oddělovač `---` před „Plán vygenerován..."), **zbytek souboru pod ní nech beze změny**. Nikdy nepřepisuj `## Průběh dne` ani `## Systémové změny`.
+> - **Soubor už existuje** (např. z předchozího spuštění skillu ten den, nebo už obsahuje `## Průběh dne` ze session, co běžela od rána) → nahraď/vlož jen plánovou část nahoře (od H1 po oddělovač `---` před „Plán vygenerován..."), **zbytek souboru pod ní nech beze změny**. Výjimka v plánové části: `## 📥 Pro denní vlákno` se nepřepisuje, jen doplňuje. Nikdy nepřepisuj `## Průběh dne` ani `## Systémové změny`.
 >
 > Použij `assets/plan-template.md`. Vypusť celé sekce, ke kterým nemáš obsah — prázdné nadpisy dělají plán dutým.
 >
@@ -297,21 +305,20 @@ Poznámky z použití:
 > ```
 > Plán uložen → daily/{YYMMDD}.md
 >
-> 🎯 Dnes nejdůležitější
-> 1. {MIT 1} — {start}–{konec}
-> 2. {MIT 2} — {start}–{konec}
->
 > 📅 Naplánováno
 > - {start}–{konec} — {blok}
 >
-> 📋 Kdyby náhodou zbyl čas
-> - {úkol}
-> - {úkol}
+> 🗂️ Dnes na stole
+> Ty: {úkol}; {úkol}
+> Spolu: {úkol}
+> Claude: {co udělám sám}
 >
 > {volitelně: 🗂️ Nové v GrowOS: 1. {název} ({byznys}) …}
 >
-> {volitelně: ⚠️ 5+ dní bez: [oblast]}
+> {volitelně: ⚠️ {co čeká na Lenku}}
 > ```
+>
+> Ostatní sekce (svodka, Zápisník, follow-upy) stačí v souboru; v chatu jen to, co chce reakci.
 >
 > Neptej se, jestli označit tasky jako hotové — Lenka si je odškrtává sama v projektových souborech, až budou hotové.
 >
@@ -341,8 +348,9 @@ Poznámky z použití:
 > - Žádný soubor za předchozí den → tichý skip
 > - Žádné `#next-action` tasky → pokračuj, zeptej se na tasky
 > - Google Kalendář nedostupný → pokračuj bez kalendáře, zmíň to jednou
-> - Goals soubor chybí → tichý skip, goals coverage přeskoč
-> - Uživatel nedá žádné tasky a nic není v projektech → sestav minimální plán (kalendářní bloky + prázdný MIT seznam s otázkou „Co by z dnešního dne udělalo výhru?")
+> - Goals soubor chybí → tichý skip
+> - Tabule nedostupná → „Dnes na stole“ sestav z vaultu (projekty, next-actions, waiting-for), skupiny odhadni a zmíň to jednou
+> - Nic na stole a nic v kalendáři → minimální plán (svodka, každý den, follow-upy) bez vymýšlení úkolů
 >
 > **Pomocné soubory ve složce skillu:** `assets/plan-template.md`, `assets/svodka-template.html`, `config.json`
 

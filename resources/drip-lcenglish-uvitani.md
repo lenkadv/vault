@@ -10,7 +10,7 @@ Postavila jste to v červenci 2023 podle Email Hero Blueprintu (modul **Build Yo
 
 - **Uvítání (000 GTKY) funguje.** Ověřeno na kontaktech z února až října 2026, dostanou všechny 4 maily.
 - **Funguje i větev B (Nepravidelná slovesa).** Po uvítání přijde 5 mailů 008 Overture B, ověřeno na kontaktu z 13. 10. 2026.
-- **Větve A (HELE) a C (10x ENGLISH) jsou nedostavěné.** Controller je přijme a hned je pustí ven. Většina nových lidí (všechny dárky kromě Present Perfect) tak po uvítání nedostane žádné představení produktu, jen týdenní A4E.
+- **Větev A (HELE) je nedostavěná** (C postavená a zapnutá 261029: Overture C). Controller A lidi přijme a hned je pustí ven. Většina nových lidí (všechny dárky kromě Present Perfect) tak po uvítání nedostane žádné představení produktu, jen týdenní A4E.
 
 ## Cesta krok za krokem
 
@@ -87,7 +87,7 @@ V EMH má Overture 6 mailů, každý z jiného úhlu: zasít myšlenku, proměna
 
 ## ⚠️ Co nesedí (k rozhodnutí, nic jsem neměnila)
 
-1. **Vagóny A (HELE) a C (10x ENGLISH) nejsou postavené.** Návrh textů Overture C (6 mailů) je na nástěnce: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english.md`. Šestý mail Overture B: `…/overture-b-mail-6.md`. HELE chce Lenka zprovoznit taky (prodejní stránka funguje). Pro 10x ENGLISH by stačila „Overture C“: 5–6 mailů podle šablony Carriage, napojit do prázdné větve v Controller C. To je nejsilnější další krok.
+1. **Vagóny A (HELE) a C (10x ENGLISH) nejsou postavené.** Návrh textů Overture C (6 mailů) je na nástěnce: `GrowOS/lcenglish/work/email/drip-uvitani/overture-c-10x-english-v2.md`. Šestý mail Overture B: `…/overture-b-mail-6-v2.md`. Obě schválené 261029; od 261029 v Dripu **zapnuté**: série „008 Overture C“ (id 486091131, aktivní), „Carriage C Overture workflow“ (id 232510381, aktivní, napojený z Controller C ve větvi No pod carriage_C_overture), 6. mail B „Co v nás zkamení“ v 008 Overture B (id 12271198, publikovaný). Vagón C je tím postavený, zbývá vagón A (HELE) (staré verze bez -v2 v karanténě `GrowOS/_quarantine/2026-10-28/`). HELE chce Lenka zprovoznit taky (prodejní stránka funguje). Pro 10x ENGLISH by stačila „Overture C“: 5–6 mailů podle šablony Carriage, napojit do prázdné větve v Controller C. To je nejsilnější další krok.
 2. **Uvítací mail 1 slibuje věci, které neplatí** (návrh přepisu 261024: `GrowOS/lcenglish/work/email/drip-uvitani/gtky-01-ucim-se-jinak.md`): „každý všední den posílám tipy“ (teď chodí jednou týdně A4E), YouTube a FB skupina Mluvte anglicky bez obav. Přepsat podle současnosti.
 3. **Anki, Shadowloop 10xE texty a Fall Outfit nemají v Dripu spouštěč, a Anki opravdu nedoručuje (test 261024).** Lenka to chce opravit.
    - **Kde se lidé přihlašují:** stránky v Leadpages https://lenka-dvorakova.lpcontent.net/anki, `/shadowloop-texty`, `/fall-outfit` (všechny tři zkopírované 16. 6. 2026). Formulář je ve vyskakovacím okně (leadbox) na doméně lenkadvorakova.lpages.co a jmenuje se `anki`. Ostatní dárky z Leadpages mají v Dripu spouštěč „Submitted a landing page“ s názvem formuláře (např. `Shopping`). Těmto třem chybí.

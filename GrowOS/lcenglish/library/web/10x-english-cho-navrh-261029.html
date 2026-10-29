@@ -1,0 +1,62 @@
+<!-- Návrh 261029: objednávka 10x ENGLISH podle /hele-checkout/ (WP 7446) a /irregular-cho/ (WP 7433).
+     Obsah stránky WordPressu (blok Vlastní HTML se stylem + skupina s nadpisem, čárou a dvěma sloupci).
+     Formulář FAPI 10x ENGLISH (150342) beze změny, jen vložený skriptem místo samostatné stránky form.fapi.cz.
+     Navržená adresa: lcenglish.cz/10x-english-cho/ · titulek „Objednávka: 10x ENGLISH | LCEnglish“ · noindex. -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:ital,wght@0,400;0,700;1,400&display=swap');
+.lce-cho{max-width:1100px;margin:0 auto;box-sizing:border-box;padding:56px 20px 64px;font-family:'Karla',Arial,sans-serif;color:#1A1416}
+.lce-cho h1{font-family:'DM Serif Display',Georgia,serif !important;font-weight:400;color:#1A1416;font-size:clamp(2.2rem,5vw,3.4rem);line-height:1.15;margin:0 0 12px;text-align:center}
+.lce-cho-podnadpis{font-family:'Karla',Arial,sans-serif;font-size:1.25rem;color:#5E5254;margin:0 0 20px;text-align:center}
+.lce-cho-cara{border:0 !important;border-top:4px solid #FF0044 !important;width:100% !important;max-width:100% !important;margin:0 0 40px !important;opacity:1}
+.lce-cho-cols{display:flex !important;gap:48px;align-items:flex-start}
+.lce-cho-cols>.wp-block-column{min-width:0}
+.lce-cho-cols>.lce-cho-form{flex:0 0 60% !important}
+.lce-cho-cols>.lce-cho-reference{flex:1 1 0 !important}
+@media (max-width:781px){.lce-cho-cols{flex-direction:column;gap:32px}.lce-cho-cols>.wp-block-column{flex:1 1 auto !important;width:100%}}
+.lce-cho-shrnuti{margin:0 0 28px;padding:18px 20px;background:#EFE6DB;border-radius:8px;font-family:'Karla',Arial,sans-serif;font-size:16px;line-height:1.6;color:#1A1416;text-align:left}
+.lce-cho-shrnuti ul{margin:8px 0 0;padding-left:20px}
+.lce-cho-shrnuti li{margin:0 0 4px}
+.lce-ref{margin:0 0 28px;padding:0 0 28px;border-bottom:1px solid #E2D6C8;text-align:center;position:relative}
+.lce-ref::after{content:"★";position:absolute;left:50%;bottom:-0.75em;transform:translateX(-50%);background:#fff;color:#E6A93B;padding:0 8px;font-size:18px}
+.lce-ref blockquote{margin:0 0 16px;padding:0;border:0;font-family:'Karla',Arial,sans-serif;font-style:normal;font-size:16px;line-height:1.7;color:#1A1416}
+.lce-ref figcaption{display:flex;align-items:center;justify-content:center;gap:12px;font-family:'Karla',Arial,sans-serif;font-size:16px;font-weight:700;color:#1A1416}
+.lce-ref img{width:60px;height:60px;border-radius:50%;object-fit:cover}
+.lce-ref .lce-ref-inicialy{width:60px;height:60px;border-radius:50%;background:#F2D79B;color:#1A1416;display:inline-flex;align-items:center;justify-content:center;font-family:'DM Serif Display',Georgia,serif;font-weight:400;font-size:22px;letter-spacing:.5px}
+.lce-cho .fapi-submit-button{background:#D1003A !important;color:#fff !important;border:0 !important;border-radius:8px !important;font-family:'Karla',Arial,sans-serif !important;font-weight:700 !important;font-size:17px !important;padding:12px 28px !important;transition:background .15s}
+.lce-cho .fapi-submit-button:hover,.lce-cho .fapi-submit-button:focus{background:#A8002E !important;color:#fff !important}
+.lce-cho .fapi-submit-button *{color:#fff !important}
+.lce-cho .fapi-order-form{--color:#1A1416 !important;--input-color:#D1003A !important;--sale-color:#D1003A !important;--container-header-background-color:#EFE6DB !important;--container-header-color:#1A1416 !important;--submit-button-background-color:#D1003A !important;--submit-button-text-color:#FFFFFF !important;--submit-button-border-radius:8px !important;--submit-button-font-size:17px !important;--order-bump-container-header-color:#FFFFFF !important;--order-bump-container-header-background-color:#D1003A !important;--order-bump-container-content-background-color:#F7F1EA !important;--order-bump-container-content-item-background-color:#F2D79B !important;font-family:'Karla',Arial,sans-serif}
+.lce-cho .fapi-order-form form{border-radius:8px !important;overflow:hidden;border-color:#E2D6C8 !important}
+.lce-cho .fapi-container-header{background:#EFE6DB !important;color:#1A1416 !important;font-family:'Karla',Arial,sans-serif !important}
+.lce-cho .fapi-form-float-price{background:#EFE6DB !important;border-color:#E2D6C8 !important;color:#1A1416 !important}
+.lce-cho-form a{color:#D1003A !important}
+.lce-cho .f-form-radio,.lce-cho input[type=checkbox]{color:#D1003A !important;accent-color:#D1003A}
+.lce-cho .f-form-radio:checked,.lce-cho input[type=checkbox]:checked{background-color:#D1003A !important;border-color:#D1003A !important}
+.lce-cho .fapi-form-payment-method [role=button] img,.lce-cho .fapi-form-payment-method [role=button] svg{filter:grayscale(1);opacity:.6;transition:filter .2s,opacity .2s}
+.lce-cho .fapi-form-payment-method [role=button]:hover img,.lce-cho .fapi-form-payment-method [role=button]:hover svg,.lce-cho .fapi-form-payment-method .payment-method-selected img,.lce-cho .fapi-form-payment-method .payment-method-selected svg{filter:none;opacity:1}
+.lce-cho .fapi-form-payment-method .payment-method-selected{border-color:#D1003A !important}
+body.page .site{background:#fff}
+</style>
+<div class="wp-block-group lce-cho"><div class="wp-block-group__inner-container is-layout-constrained wp-container-core-group-is-layout-b22fb561 wp-block-group-is-layout-constrained">
+<h1 class="wp-block-heading has-text-align-center">10x ENGLISH</h1>
+<p class="has-text-align-center lce-cho-podnadpis wp-block-paragraph">Přestaňte překládat v hlavě. Začněte mluvit a rozumět rovnou.</p>
+<hr class="wp-block-separator has-alpha-channel-opacity lce-cho-cara"/>
+<div class="wp-block-columns lce-cho-cols is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column lce-cho-form is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<script type="text/javascript" src="https://form.fapi.cz/script.php?id=08e6875e-2992-46e3-baa0-8871ead20575"></script>
+</div>
+<div class="wp-block-column lce-cho-reference is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
+<div class="lce-cho-shrnuti"><strong>Co dostanete:</strong>
+<ul>
+<li>100 dialogů ze skutečného života v aplikaci Shadowloop</li>
+<li>nahrávky v plné rychlosti i zpomalené na 80 %</li>
+<li>český překlad u každého textu</li>
+<li>kurz s postupem den za dnem</li>
+<li>doživotní přístup, žádné měsíční poplatky</li>
+</ul></div>
+<figure class="lce-ref"><blockquote>Takhle jsem s angličtinou ještě nikdy nepracovala. Nejúžasnější byl pocit, že opravdu mluvím plynule anglicky. Že to není něco, co bych nedokázala.</blockquote><figcaption><span class="lce-ref-inicialy" aria-hidden="true">DN</span><span>Dáša N.</span></figcaption></figure>
+<figure class="lce-ref"><blockquote>Rozhovory jsou super, i když ne všemu rozumím:))) […] Líbí se mi tam i obraty, které bych v životě nepoužila.:-D Je to bezvadně udělané.</blockquote><figcaption><span class="lce-ref-inicialy" aria-hidden="true">PL</span><span>Petra L.</span></figcaption></figure>
+<figure class="lce-ref"><blockquote>Zvlášť bych chtěla vyzdvihnout kurz 10x English. […] Za měsíc mi kurzy pomohly naučit se lépe rozumět mluvené angličtině a dodat si odvahu a začít mluvit.</blockquote><figcaption><img decoding="async" src="https://lcenglish.cz/wp-content/uploads/2022/04/RomanaSvobodova-e1661866773534.jpg" alt="Romana S." width="60" height="60" loading="lazy"><span>Romana S.</span></figcaption></figure>
+</div>
+</div>
+</div></div>

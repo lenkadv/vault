@@ -19,6 +19,7 @@ Filtrování přes `Content Bank.base`.
 project: tadylenka
 type: content-idea
 rubrika: "zeny-v-obraze"      # viz níž — povinné
+rubrika_dalsi: "co-vidis"     # nepovinné — druhá rubrika, kam námět taky sedí (od 261029)
 status: fresh                 # fresh | used | retired
 temata: ["mytologie"]         # volné příčné tagy (baroko, cesky-uhel, tajny-jazyk, mytologie…)
 datum_zachyceno: "260507"     # VŽDY YYMMDD (= GrowOS "added")
@@ -54,6 +55,8 @@ sekce `## Inspirační zdroje` se doplňuje, až se námět rozvíjí, ne zpětn
 | `vsichni-svati` | rotující rubrika — ikonografie a hagiografie světců |
 | `jine` | námět, který nezapadá do žádné ze tří rubrik — pool (portréty umělců, eseje, praktické). Použitelné na vlajkový esej, IG, cokoli. |
 | `mimo` | není námět (kontakty, banka titulků, definice sérií/formátů, časově vázané seznamy) → `status: retired` |
+
+Námět, který sedí do dvou rubrik (Lenka 261029, Eggovi Spolucestující): hlavní do `rubrika`, druhou do `rubrika_dalsi`. Pohledy rubrik v `Content Bank.base` ukazují obě pole.
 
 `tajny-jazyk` a `cesky-uhel` jsou příčné `temata` tagy, ne rubriky.
 

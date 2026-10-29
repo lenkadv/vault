@@ -6,7 +6,7 @@
 
 ## Aktuální stav
 
-261028: Štěpánka poslala zprávu ke společné kontrole ([Word na SharePointu, adresář FEKT](https://gnostika-my.sharepoint.com/:w:/g/personal/ulicna_gnostika_cz/IQBH-NosfUMjSbEDFzTjs-yhATep7-MUFOTCmyYNw73VIg8?e=fzx8dS)). Chybí v ní ještě část „Župka“; Štěpánka ji v pátek 30. 10. pošle (podle zprávy i s fakturou). Další krok: zítra 29. 10. projít zprávu s Claudem.
+261029: Lenka i Claude prošli zprávu od Štěpánky; komentáře obou (Claude jako samostatný autor) jsou v `Stažené\Závěrečná zpráva FEKT VUT_revLD+Claude261029.docx`. Lenka je 29. 10. večer poslala Štěpánce. Na SharePointu se nic neměnilo (tam půjde až odladěná verze, zapracovává Štěpánka). Část za pana Župku (vedoucí OSIS) pošle Štěpánka v pátek 30. 10. i s fakturou. Lenka teď nemá akci, projekt proto záměrně nemá next action (stejně jako 261020: Štěpánka se ozve).
 
 Dříve 261020: Závěrečná zpráva je na Štěpánčině straně, pracuje na ní ona. Lenka teď nemá žádnou akci a není to ani čekání ve waiting-for; Štěpánka se ozve, až bude něco potřebovat (Lenka 261020). Projekt proto záměrně nemá next action.
 
@@ -29,10 +29,15 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 
 ## Next actions
 
-- [ ] Projít s Claudem závěrečnou zprávu od Štěpánky #next-action #online 📅 2026-10-29
-  - Kontext: zpráva od Štěpánky 261028 (Lenka vložila do denního vlákna 21:45): „projdi s Claudem zprávu, ještě mi chybí Župka... v pátek to pošlu i s fakturou“. Dokument: https://gnostika-my.sharepoint.com/:w:/g/personal/ulicna_gnostika_cz/IQBH-NosfUMjSbEDFzTjs-yhATep7-MUFOTCmyYNw73VIg8?e=fzx8dS (adresář FEKT). Otevírat v Chromu v přihlášené relaci.
+_Žádná. Čeká se na Štěpánku (zapracování připomínek, část za pana Župku a faktura 30. 10.)._
 
 ## Záznam (nejnovější nahoře)
+
+261029 19:41: Lenka poslala zprávu s komentáři Štěpánce (soubor `Závěrečná zpráva FEKT VUT_revLD+Claude261029.docx`). Práce na zprávě celkem 16:50–19:41 (Lenka pracovala i mimo chat) → evidence hodin ř. 16.
+
+261029 17:59–19:27: Lenka vpisovala vlastní komentáře a změny do stažené kopie (na SharePoint až odladěná verze). Claude vložil svých 38 připomínek skriptem jako komentáře a sledované změny autora „Claude“ (skript `pripominky_do_wordu.py` ve scratchpadu seance 1e3035ab), Word soubor ověřen. Lenka zprávu dočetla (25 jejích komentářů, mj. vypustit z přílohy G úkoly pro GNOSTIKU, příloha F je spíš interní, nezmiňovat neoficiální materiál v kap. 7). Tabulka agend OSIS není v poště ani v kopii SharePointu, opravdu nedodána. Koncept mailu Štěpánce v Gmailu s upozorněním, že název souboru i část komentářů jsou od Clauda a ve finální verzi nesmí zůstat.
+
+261029 16:50–17:07: Kontrola závěrečné zprávy (Word, stav 29. 10., zatím bez části Župka). Claude přečetl celou zprávu včetně příloh A–H, přepočítal čísla (kap. 5g, tabulky přílohy A, saldo pohledávek, počty míst a rozhovorů – sedí) a porovnal s podklady v lokální kopii SharePointu a se sestavou 08/26. Výsledek: 18 věcných rozporů (např. počet PDF snímků ve správě areálu, horizont controllingu v 4.3 × matice, datum controllingu v A.2, rozdělení ústavů v personálním), seznam míst ke změně po dodání Župkovy části, 10 nejasných míst (mj. interní otázka v příloze G č. 5 o mzdových zdrojích, nevysvětlené zkratky, neověřitelná data novely ZP) a 12 formálních oprav (číslování schémat, styly, překlepy). Ve zprávě se nic neměnilo. Úkol „projít zprávu“ splněn, next action posunuta na schválení připomínek.
 
 261028 21:45: Štěpánka poslala odkaz na zprávu (Word, SharePoint) s prosbou, ať ji Lenka projde s Claudem; chybí část „Župka“, v pátek ji Štěpánka pošle i s fakturou. Založen úkol na 29. 10.
 

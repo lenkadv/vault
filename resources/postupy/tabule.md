@@ -70,4 +70,4 @@ Malý projekt má jednu `#next-action`. Velký projekt (DigiStart) má **linie**
 
 ## Vztah k dennímu plánu
 
-Denní plán nemá MITy (Lenka 261024, paměť `feedback_no_mit_prison`): pevné časy z kalendáře, odkaz na tabuli a krátký výběr „Dnes na stole“ podle termínů a volného času. Úprava skillu `productivity-daily-plan` podle tohohle postupu se dělá s Lenkou (zatím neprovedena).
+Denní plán nemá MITy (Lenka 261024, paměť `feedback_no_mit_prison`): pevné časy z kalendáře, odkaz na tabuli a krátký výběr „Dnes na stole“ podle termínů a volného času, rozdělený na **Ty / Spolu / Claude** podle pole `kdo`. Skill `productivity-daily-plan` je podle toho přepsaný (kostru odsouhlasila Lenka 261029, šablona `assets/plan-template.md`). Do plánu jde jen to, co je dnes opravdu na stole; ostatní žije na tabuli a v plánu se neopakuje.

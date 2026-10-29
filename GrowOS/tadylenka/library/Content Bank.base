@@ -45,7 +45,9 @@ views:
     name: Ženy v obraze
     filters:
       and:
-        - note.rubrika == "zeny-v-obraze"
+        - or:
+            - note.rubrika == "zeny-v-obraze"
+            - note.rubrika_dalsi == "zeny-v-obraze"
         - note.status == "fresh"
     order:
       - file.name
@@ -58,7 +60,9 @@ views:
     name: Co vidíš
     filters:
       and:
-        - note.rubrika == "co-vidis"
+        - or:
+            - note.rubrika == "co-vidis"
+            - note.rubrika_dalsi == "co-vidis"
         - note.status == "fresh"
     order:
       - file.name
@@ -71,7 +75,9 @@ views:
     name: Všichni svatí
     filters:
       and:
-        - note.rubrika == "vsichni-svati"
+        - or:
+            - note.rubrika == "vsichni-svati"
+            - note.rubrika_dalsi == "vsichni-svati"
         - note.status == "fresh"
     order:
       - file.name

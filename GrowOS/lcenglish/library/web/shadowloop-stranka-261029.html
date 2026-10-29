@@ -1,0 +1,163 @@
+<!-- Stránka lcenglish.cz/shadowloop/ (domovská stránka aplikace Shadowloop, kvůli ověření značky u Googlu).
+     Text schválen 261029 (GrowOS work/pages/shadowloop-stranka-a-zasady.md, verze 3). Obsah = jeden blok Vlastní HTML.
+     Kadence jako 7583: bez titulku, plná šířka, unboxed, bez odsazení. Titulek Rank Math „Shadowloop: aplikace na trénink mluvení anglicky | LCEnglish“, index. -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:ital,wght@0,400;0,700;1,400&display=swap');
+.lce-sl{font-family:'Karla',Arial,sans-serif;color:#1A1416;font-size:18px;line-height:1.65;background:#F7F1EA}
+.lce-sl *{box-sizing:border-box}
+.lce-sl h1,.lce-sl h2{font-family:'DM Serif Display',Georgia,serif !important;font-weight:400;color:inherit;line-height:1.15;margin:0 0 18px}
+.lce-sl h1{font-size:clamp(2.3rem,5.5vw,3.6rem)}
+.lce-sl h2{font-size:clamp(1.8rem,4vw,2.5rem)}
+.lce-sl h3{font-family:'Karla',Arial,sans-serif;font-weight:700;font-size:1.1rem;margin:0 0 6px;color:inherit}
+.lce-sl p{margin:0 0 16px}
+.lce-sl a{color:#D1003A}
+.lce-sl-in{max-width:1080px;margin:0 auto;padding:72px 20px}
+.lce-sl-uzky{max-width:720px}
+.lce-sl-tmava{background:#1A1416;color:#fff}
+.lce-sl-tmava a{color:#fff}
+.lce-sl-tmavsi{background:#EFE6DB}
+.lce-sl-fixa{background:linear-gradient(transparent 55%,#F2D79B 55%);padding:0 .1em}
+.lce-sl-tmava .lce-sl-zlata{color:#E6A93B}
+.lce-sl-btn{display:inline-block;background:#D1003A;color:#fff !important;text-decoration:none !important;font-weight:700;font-size:18px;padding:14px 30px;border-radius:8px;transition:background .15s}
+.lce-sl-btn:hover,.lce-sl-btn:focus{background:#A8002E}
+.lce-sl-mala{font-size:15px;margin-top:14px;opacity:.85}
+.lce-sl-hero{display:flex;gap:56px;align-items:center}
+.lce-sl-hero-text{flex:1 1 55%}
+.lce-sl-hero-obr{flex:0 0 300px;text-align:center}
+.lce-sl-hero-obr img{width:100%;max-width:300px;height:auto;border-radius:28px;box-shadow:0 20px 50px rgba(0,0,0,.45)}
+.lce-sl-perex{font-size:20px}
+.lce-sl-citat{font-family:'DM Serif Display',Georgia,serif;font-size:clamp(1.5rem,3.2vw,2rem);line-height:1.3;border-left:4px solid #FF0044;padding-left:20px;margin:28px 0}
+.lce-sl-podpis{font-style:italic;color:#5E5254}
+.lce-sl-kroky{list-style:none;counter-reset:k;padding:0;margin:0 0 24px;display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.lce-sl-kroky li{counter-increment:k;background:#fff;border:1px solid #E2D6C8;border-radius:8px;padding:22px 22px 20px 70px;position:relative}
+.lce-sl-kroky li::before{content:counter(k);position:absolute;left:20px;top:18px;width:36px;height:36px;border-radius:50%;background:#D1003A;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.lce-sl-karty{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:24px 0}
+.lce-sl-karta{background:#fff;border:1px solid #E2D6C8;border-radius:8px;padding:24px;display:block;color:#1A1416 !important;text-decoration:none !important;transition:border-color .15s,transform .15s}
+a.lce-sl-karta:hover{border-color:#D1003A;transform:translateY(-2px)}
+.lce-sl-karta .lce-sl-ikona{color:#FF0044;font-size:26px;line-height:1;margin-bottom:10px;display:block}
+.lce-sl-karta p{margin:0;font-size:16px}
+.lce-sl-karta-zlata{background:#FBF1DA;border-color:#F2D79B}
+.lce-sl-karty-2{grid-template-columns:repeat(2,1fr);margin-top:0}
+.lce-sl-sipka{font-weight:700;color:#D1003A;margin-top:10px;display:block;font-size:16px}
+.lce-sl-ref{background:#fff;border-radius:8px;padding:26px;border:1px solid #E2D6C8;margin:0;display:flex;flex-direction:column}
+.lce-sl-ref blockquote{margin:0 0 18px;padding:0;border:0;font-size:16px;line-height:1.7;flex:1}
+.lce-sl-ref blockquote::before{content:"„";font-family:'DM Serif Display',Georgia,serif;color:#E6A93B;font-size:48px;line-height:0;display:block;height:22px}
+.lce-sl-ref figcaption{display:flex;align-items:center;gap:12px;font-size:15px;color:#5E5254}
+.lce-sl-ref figcaption strong{color:#1A1416}
+.lce-sl-ref img,.lce-sl-inicialy{width:48px;height:48px;border-radius:50%;object-fit:cover;flex:0 0 48px}
+.lce-sl-inicialy{background:#F2D79B;display:inline-flex;align-items:center;justify-content:center;font-family:'DM Serif Display',Georgia,serif;font-size:19px;color:#1A1416}
+.lce-sl-faq details{border-bottom:1px solid #E2D6C8;padding:18px 0}
+.lce-sl-faq summary{cursor:pointer;font-weight:700;font-size:18px;list-style:none;position:relative;padding-right:32px}
+.lce-sl-faq summary::-webkit-details-marker{display:none}
+.lce-sl-faq summary::after{content:"+";position:absolute;right:4px;top:-2px;color:#D1003A;font-size:24px}
+.lce-sl-faq details[open] summary::after{content:"–"}
+.lce-sl-faq details p{margin:12px 0 0}
+.lce-sl-stred{text-align:center}
+@media (max-width:781px){
+ .lce-sl-in{padding:52px 16px}
+ .lce-sl-hero{flex-direction:column;gap:36px;text-align:left}
+ .lce-sl-hero-obr{flex:0 0 auto;width:100%}
+ .lce-sl-hero-obr img{max-width:240px;display:block;margin:0 auto}
+ .lce-sl-kroky,.lce-sl-karty,.lce-sl-karty-2{grid-template-columns:1fr}
+ .lce-sl{font-size:17px}
+}
+body.page .site{background:#F7F1EA}
+</style>
+<div class="lce-sl">
+
+<section class="lce-sl-tmava"><div class="lce-sl-in lce-sl-hero">
+<div class="lce-sl-hero-text">
+<h1>Anglické věty, které vám půjdou <span class="lce-sl-zlata">z pusy samy</span></h1>
+<p class="lce-sl-perex"><strong>Shadowloop</strong> je aplikace na trénink mluvení. Uslyšíte anglickou větu, uvidíte ji napsanou i s českým překladem a v pauze ji zopakujete nahlas. Pak další. A znovu. Až vám to začne jít samo.</p>
+<p>Funguje v prohlížeči na mobilu i na počítači. Nic neinstalujete.</p>
+<p><a class="lce-sl-btn" href="https://lenka-dvorakova.lpcontent.net/shadowloop-texty">Chci vyzkoušet 5 textů zdarma</a></p>
+<p class="lce-sl-mala">Začínáte úplně od nuly, nebo už máte kurz? <a href="https://shadowloop.lcenglish.cz">Otevřít Shadowloop →</a></p>
+</div>
+<div class="lce-sl-hero-obr"><img src="https://lenka-dvorakova.lpcontent.net/api/pages/Ytf0hlJeNc/assets/th2hwio6tt6lb623j29pq8vs?w=600&amp;fit=scale-down&amp;format=auto&amp;quality=82" alt="Aplikace Shadowloop v telefonu: anglická věta s českým překladem, posuvník pauzy a přepínače Anglicky / Česky" width="300" height="474"></div>
+</div></section>
+
+<section><div class="lce-sl-in lce-sl-uzky">
+<h2>Nejvíc času mi nezabíralo učení, ale hledání</h2>
+<p>Učím se japonsky. A materiály si chystám podle metody, o které vím, že funguje – stínování. Brzy jsem zjistila, kde je háček: najít texty a nahrávky, zpracovat je, nahrát do nějaké aplikace… Než se člověk skutečně začne učit, musí udělat několik kroků. A právě na nich nejčastěji ztroskotá.</p>
+<p class="lce-sl-citat">Proto jsem postavila Shadowloop.</p>
+<p>Věty v něm najdete nachystané a namluvené. Nic nehledáte, nic nezpracováváte. Otevřete aplikaci a trénujete.</p>
+<p class="lce-sl-podpis">– Lenka Dvořáková</p>
+</div></section>
+
+<section class="lce-sl-tmavsi"><div class="lce-sl-in">
+<h2>Poslechnout, zopakovat, znovu</h2>
+<ol class="lce-sl-kroky">
+<li><h3>Věta zazní třikrát.</h3>Mezi opakováními je pauza a v ní větu nahlas zopakujete po mluvčím.</li>
+<li><h3>Tempo určujete vy.</h3>Délku pauzy si nastavíte podle sebe.</li>
+<li><h3>Text, jak se vám hodí.</h3>Anglicky, česky, obojí – nebo ho schováte úplně a jen posloucháte. Hned poznáte, jestli už rozumíte bez nápovědy.</li>
+<li><h3>Těžká věta? Smyčka.</h3>Tlačítkem se dvěma šipkami si ji pustíte pořád dokola, dokud nesedí.</li>
+</ol>
+<p>Některé balíčky v Shadowloopu vyprávějí krátký příběh: věty se pak přehrávají v pevném pořadí, aby dávaly smysl. Při tréninku slovní zásoby a gramatiky se věty pokaždé zamíchají, aby si žádná nepřipadala zanedbávaná (a vy se nenaučili jen ty první).</p>
+</div></section>
+
+<section><div class="lce-sl-in">
+<div class="lce-sl-uzky">
+<h2>Jako tlumočník, jen bez překládání</h2>
+<p>Víte, jak pracuje simultánní tlumočník? Ve sluchátkách slyší řečníka a s malým zpožděním mluví sám. Stínování (anglicky <em>shadowing</em>) funguje podobně, jen nic nepřekládáte: posloucháte a hned po mluvčím opakujete.</p>
+<p><strong>Co tím trénujete:</strong></p>
+</div>
+<div class="lce-sl-karty">
+<div class="lce-sl-karta"><span class="lce-sl-ikona">◆</span><h3>Plynulost</h3><p>Mluvíte bez nepřirozených pauz.</p></div>
+<div class="lce-sl-karta"><span class="lce-sl-ikona">◆</span><h3>Výslovnost a intonaci</h3><p>Nasajete rytmus rodilých mluvčích.</p></div>
+<div class="lce-sl-karta"><span class="lce-sl-ikona">◆</span><h3>Slovíčka a gramatiku</h3><p>Nenápadně, bez biflování.</p></div>
+</div>
+<div class="lce-sl-uzky">
+<p>Nemusíte být pokročilí. Stínovat jde i na úrovni, kdy ještě zdaleka plynule nemluvíte.</p>
+<p>Víc o metodě: <a href="https://lcenglish.cz/stinovani/">Stínování: jak natrénovat správnou anglickou výslovnost</a></p>
+</div>
+<p class="lce-sl-stred" style="margin-top:28px"><a class="lce-sl-btn" href="https://lenka-dvorakova.lpcontent.net/shadowloop-texty">Vyzkoušet zdarma</a></p>
+</div></section>
+
+<section class="lce-sl-tmavsi"><div class="lce-sl-in">
+<h2>Balíčky vět ke každému kurzu</h2>
+<p>Shadowloop je aplikace, kterou využívají všechny moje kurzy. Materiály máte v aplikaci nachystané hned po zaplacení.</p>
+<div class="lce-sl-karty">
+<a class="lce-sl-karta" href="https://lcenglish.cz/10x-english/"><h3>10x ENGLISH</h3><p>Dialogy ze skutečného života: ztracené klíče, zmeškaný hovor, pracovní pohovor. Pro mírně pokročilé až pokročilé.</p><span class="lce-sl-sipka">Více o kurzu →</span></a>
+<a class="lce-sl-karta" href="https://lcenglish.cz/hele/"><h3>Angličtina s příběhem (HELE)</h3><p>Věty z příběhu, který vás vtáhne. Krátká opakovací cvičení na každý den.</p><span class="lce-sl-sipka">Více o kurzu →</span></a>
+<a class="lce-sl-karta" href="https://lcenglish.cz/irregular/"><h3>Nepravidelná slovesa za 14 dní</h3><p>Věty, se kterými se slovesa ve vaší hlavě zabydlí natrvalo, stačí postupovat podle návodu.</p><span class="lce-sl-sipka">Více o kurzu →</span></a>
+</div>
+<div class="lce-sl-karty lce-sl-karty-2">
+<a class="lce-sl-karta lce-sl-karta-zlata" href="https://shadowloop.lcenglish.cz"><h3>Zdarma pro každého</h3><p>Balíčky 3x25 nejčastějších anglických slov (podstatná jména, přídavná jména, slovesa). Jsou v aplikaci pořád a pro všechny, bez přihlášení. Jednoduchá slovíčka, ideální, když začínáte úplně od nuly.</p><span class="lce-sl-sipka">Otevřít Shadowloop →</span></a>
+<a class="lce-sl-karta lce-sl-karta-zlata" href="https://lenka-dvorakova.lpcontent.net/shadowloop-texty"><h3>Dárek</h3><p>5 krátkých textů na různých úrovních pokročilosti, ať si Shadowloop vyzkoušíte, ať umíte anglicky, kolik umíte.</p><span class="lce-sl-sipka">Chci texty zdarma →</span></a>
+</div>
+</div></section>
+
+<section><div class="lce-sl-in">
+<h2>Do hlavy, uší i pusy</h2>
+<div class="lce-sl-karty">
+<figure class="lce-sl-ref"><blockquote>Jako vždy si cením Vašeho nadšení a nápadů, jak si s angličtinou hrajete a jak se mi ji snažíte nacpat do hlavy, uší, pusy.</blockquote><figcaption><span class="lce-sl-inicialy" aria-hidden="true">K</span><span><strong>Kamila</strong><br>Nepravidelná slovesa</span></figcaption></figure>
+<figure class="lce-sl-ref"><blockquote>Za měsíc mi kurzy pomohly naučit se lépe rozumět mluvené angličtině a dodat si odvahu a začít mluvit.</blockquote><figcaption><img src="https://lcenglish.cz/wp-content/uploads/2022/04/RomanaSvobodova-e1661866773534.jpg" alt="Romana" width="48" height="48" loading="lazy"><span><strong>Romana</strong><br>10x ENGLISH</span></figcaption></figure>
+<figure class="lce-sl-ref"><blockquote>mám 77 let a snažím se učit angličtinu na internetu a tudíž mohu posoudit, co se mi líbí. A ten váš přístup k učení se mi líbil mooc.</blockquote><figcaption><span class="lce-sl-inicialy" aria-hidden="true">H</span><span><strong>Hanka</strong><br>Angličtina s příběhem</span></figcaption></figure>
+</div>
+<p class="lce-sl-stred" style="margin-top:28px"><a class="lce-sl-btn" href="https://lenka-dvorakova.lpcontent.net/shadowloop-texty">Chci vyzkoušet 5 textů zdarma</a></p>
+</div></section>
+
+<section class="lce-sl-tmavsi"><div class="lce-sl-in lce-sl-uzky lce-sl-faq">
+<h2>Časté otázky</h2>
+<details open><summary>Musím něco instalovat?</summary><p>Ne. Shadowloop běží v počítači i telefonu na adrese <a href="https://shadowloop.lcenglish.cz">shadowloop.lcenglish.cz</a>. V telefonu si ho můžete přidat na plochu jako ikonu a otevírat jako běžnou aplikaci.</p></details>
+<details><summary>Jak se přihlásím?</summary><p>E-mailem a heslem, nebo účtem Google. Použijte stejný e-mail, se kterým jste si koupili kurz – podle něj aplikace pozná, které balíčky jsou vaše.</p></details>
+<details><summary>Kolik to stojí?</summary><p>Aplikace je součástí kurzů, nic se za ni neplatí zvlášť. Balíčky 3x25 nejčastějších slov jsou zdarma pro každého, i bez přihlášení.</p></details>
+<details><summary>Má smysl to ještě zkoušet? Není už pro mě pozdě?</summary><p>Není. Stínování stojí na poslechu a opakování po mluvčím. A to funguje v každém věku.</p></details>
+<details><summary>Musím umět dobře anglicky, abych mohl Shadowloop používat?</summary><p>Nemusíte. Začnete na úrovni, která vám sedí, a pomůže vám český překlad a pauza tak dlouhá, jak potřebujete. Pokud začínáte úplně od nuly, pusťte si nejdřív balíčky 3x25 nejčastějších slov.</p></details>
+</div></section>
+
+<section><div class="lce-sl-in lce-sl-uzky">
+<h2>Co o vás Shadowloop ví</h2>
+<p>Při přihlášení si aplikace uloží vaše jméno a e-mailovou adresu, aby věděla, které balíčky jsou vaše. Když se přihlásíte účtem Google, dostane od Googlu jen tyhle údaje a identifikátor účtu. K vašim kontaktům, souborům ani poště přístup nemá.</p>
+<p>Údaje slouží jen k přihlášení a k tomu, aby vám aplikace ukázala vaše balíčky. Nepoužívám je k reklamě a nikomu je neprodávám. Podrobnosti najdete v <a href="https://lcenglish.cz/privacy-policy/">zásadách ochrany osobních údajů</a>, oddíl Aplikace Shadowloop.</p>
+<p>Máte otázku? Napište mi na <a href="mailto:lenka@lcenglish.cz">lenka@lcenglish.cz</a>.</p>
+</div></section>
+
+<section class="lce-sl-tmava"><div class="lce-sl-in lce-sl-uzky lce-sl-stred">
+<h2>Zkuste první větu ještě dnes</h2>
+<p>Pošlu vám zdarma 5 krátkých textů na různých úrovních pokročilosti. Najdete je rovnou v Shadowloopu – stačí poslouchat a opakovat.</p>
+<p><a class="lce-sl-btn" href="https://lenka-dvorakova.lpcontent.net/shadowloop-texty">Chci vyzkoušet 5 textů zdarma</a></p>
+<p class="lce-sl-mala">Začínáte úplně od nuly? Balíčky 3x25 nejčastějších slov si <a href="https://shadowloop.lcenglish.cz">pusťte rovnou</a>, bez přihlášení. Už máte kurz? <a href="https://shadowloop.lcenglish.cz">Otevřít Shadowloop →</a></p>
+</div></section>
+
+</div>

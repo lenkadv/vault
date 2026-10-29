@@ -22,9 +22,9 @@ Z čeho je web postavený, pravidla a co na něj vede zvenku (reklama, e-maily).
 
 | Kurz | Prodejní stránka | Objednávka | Po zaplacení |
 |---|---|---|---|
-| 10x ENGLISH | `/10x-english/` (Leadpages `Ytf0hlJeNc`, vkládá plugin Leadpages) | tlačítka vedou rovnou na formulář FAPI (`form.fapi.cz`) | FAPI → fapipi → Drip, Shadowloop, FreshLearn ([[hele-funnel]]) |
-| Nepravidelná slovesa za 14 dní | `/irregular/` (Leadpages, plugin Leadpages) | **5 tlačítek vede na `/irregular-cho/`** = objednávková stránka s formulářem FAPI (790 Kč) a 3 referencemi, z bloků WordPressu (od 261024, ID 7433, bez hlavičky a patičky, noindex) | FAPI → fapipi |
-| Angličtina s příběhem (HELE) | `/hele/` (Leadpages `1ViPiydGxm`, plugin Leadpages, od 261025; 9 tlačítek na `/hele-checkout/`, banner ThePay v patičce) | `/hele-checkout/` = objednávková stránka jako `/irregular-cho/` (WP 7446, formulář FAPI 5 970 Kč, 3 reference k HELE, styl vložený přímo ve stránce, noindex, titulek „Objednávka: Angličtina s příběhem“) | FAPI → fapipi (segment `hele`) |
+| 10x ENGLISH | `/10x-english/` (Leadpages `Ytf0hlJeNc`, vkládá plugin Leadpages) | `/10x-english-cho/` = objednávková stránka (WP 7583, od 261029; formulář FAPI 1 270 Kč, rámeček „Co dostanete“, 3 reference, celý vzhled ve stylu stránky podle značky: DM Serif Display + Karla, barvy z loga, formulář FAPI přebarvený proměnnými, šedá loga plateb, noindex, titulek „Objednávka: 10x ENGLISH“). 5 tlačítek na prodejní stránce vede sem (od 261029) | FAPI → fapipi → Drip, Shadowloop, FreshLearn ([[hele-funnel]]) |
+| Nepravidelná slovesa za 14 dní | `/irregular/` (Leadpages, plugin Leadpages) | **5 tlačítek vede na `/irregular-cho/`** = objednávková stránka s formulářem FAPI (790 Kč) a 3 referencemi, z bloků WordPressu (od 261024, ID 7433, bez hlavičky a patičky, noindex; od 261029 jednotný vzhled podle značky jako `/10x-english-cho/`) | FAPI → fapipi |
+| Angličtina s příběhem (HELE) | `/hele/` (Leadpages `1ViPiydGxm`, plugin Leadpages, od 261025; 9 tlačítek na `/hele-checkout/`, banner ThePay v patičce) | `/hele-checkout/` = objednávková stránka jako `/irregular-cho/` (WP 7446, formulář FAPI 5 970 Kč, 3 reference k HELE, od 261029 jednotný vzhled podle značky jako `/10x-english-cho/`, noindex, titulek „Objednávka: Angličtina s příběhem“) | FAPI → fapipi (segment `hele`) |
 
 Pozor: `/nepravidelna-slovesa/` je blogový článek z roku 2020, ne prodejní stránka.
 

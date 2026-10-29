@@ -4,6 +4,13 @@ Seznam konkrétních výsledků práce Lenky s Claudem s čísly a jejími slovy
 
 Úkol využít je v [[digistart]].
 
+## Od 261025: Přiznání k DPH z výpisů banky
+
+- **Výsledek:** měsíční přiznání k DPH (Lenka je identifikovaná osoba) připraví Claude jako hotový soubor XML pro Moje daně. Lenka ho jen nahraje, zkontroluje a odešle. Přiznání za září 2026 Moje daně přijaly napoprvé, Lenka ho odeslala a zaplatila (25. 10.).
+- **Co se dělo:** Claude přečte výpisy Air Bank z obou účtů, najde platby za Claude a k nim účtenky v Gmailu, vypíše tabulku k potvrzení a z posledního podaného přiznání připraví nové XML. Ostatní zahraniční služby jen vypíše, rozhoduje Lenka. S hesly k výpisům Claude nepracuje. Postup [[resources/postupy/dph]].
+- **Lenčinými slovy:** [PLACEHOLDER: Lenčina věta, jak to bylo dřív a jak teď]
+- Lenka 261029: případ ano, a jako další příklad a úkol finanční dashboard z výpisů (kam plynou peníze), viz [[next-actions]] @online.
+
 ## Od 261024: Tabule úkolů místo seznamu MITů
 
 - **Výsledek:** jedna stránka se všemi otevřenými úkoly rozdělenými podle toho, kdo je vede: Claude, spolu, nebo Lenka. K 28. 10. na ní je 79 karet. Úkoly, které vede Claude, si Claude posouvá sám a o vstupy si říká, až je potřebuje („Potřebuju od tebe“). Lenka odpovídá rovnou do karty a jedním tlačítkem pošle Claudovi pokyn, ať se na tabuli podívá.

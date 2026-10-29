@@ -37,6 +37,10 @@ Nápady a záměry, které teď nechci řešit, ale nechci je ztratit.
   - **První krok při obnovení:** rozhodnout, pro koho a k čemu: nástroj pro klienty (art consulting, „Rande s uměním“ výš), nebo veřejný lead magnet pro čtenáře tadylenka se starým copyright-free uměním (zjistí, co se jim líbí, Lenka je osloví s odpovídajícím obsahem; jiná databáze obrazů a jiný výstup). Pak sestavit A/B páry pro Fázi 2 (izolované proměnné).
   - Fronta, pokud se rozjede: zhodnotit charakteristiku z prvního testu, doladit generateProfile · napojit výsledkový profil na Anthropic API místo if/else šablony · vizualizace profilu (radar chart) · produkční platforma (Lovable vs. Claude Code) · později doporučovací algoritmus (collaborative/content-based filtering) po nasbírání větší databáze.
   - Oblasti: [[areas/tadylenka]] · [[areas/finances-admin]]
+- **Shadowloop: nápady na vylepšení** (sbírka, Lenka 261029: neimplementovat hned, sbírat, pak se do toho pustit; zdroj `inbox/telefon/zarazeno/261029-0116 Nápady na vylepšení Shadow Loop.md`, technika [[shadowloop-admin]]):
+  - Šipka „dál“ u vět: posunout se hned, bez čekání na pauzu a trojí přehrání (hlavně příběhové balíčky, asi i ostatní).
+  - Plán průchodu balíčky přímo v aplikaci: 10x English má 100 balíčků, návod na opakování je teď jen na kurzové platformě a chce velké odhodlání. Potřebuje víc promyslet.
+  - Vyřadit (archivovat) jednotlivou kartičku z opakování, když slovo nebo větu člověk zná (např. 3×25 nejpoužívanějších slov); pokročilá varianta: občas ji náhodně vrátit.
 
 ## Místa
 

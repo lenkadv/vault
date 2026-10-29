@@ -34,7 +34,8 @@ Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexib
 - **End of sign-up:** said once (one post, one message to warm contacts around 19–20 November), no countdown.
 - **Creatives:** more ads than 2–3: static ads, some made in WinningAds, and a test of AI video ads in the style of Kristine Mirelle (Google Flow). Lenka: "Chceme si to na tom vyzkoušet."
 - **Checking results:** bookings and orders checked every day during the ads.
-- Sharing the brief with Štěpánka: Lenka decides when she sees it.
+- Sharing the brief with Štěpánka: not a blocker. Štěpánka can add information or help with a decision; her consent is not needed to move on (Lenka, 14:09).
+- **Added 14:09 (Lenka, after reading the brief):** the story "Bez průvodce je to bolestné" may be used, Lenka and Štěpánka both agree. Drip account for the post-consultation sequence and any webinar mail: **AI lektoři** (0 contacts in it on 2026-10-29; Lenka keeps the old list exported). Whether to mail the old webinar list is **open**: against, the webinars were for lecturers and teachers (only part overlap) and some are VIP sborovna members Lenka does not want to remind; for, they know Lenka and AI has moved on in two years. Consent to e-mail after a consultation: open, to think about. New need: link Štěpánka's consultations to Drip (she marks it done and the stage of the decision, the e-mail goes to Drip with that stage), ideally automatic.
 **Why:** answers to the campaign-plan interview, made in one sitting on the Decision Board instead of question by question in chat.
 
 ## 2026-10-28: meetings 3–4 chosen by the group; price after the pilot higher

@@ -58,4 +58,5 @@ Pozor: Wilco mluví o reklamách ve stovkách, protože je testuje ve velkém. P
 
 ## Poznámky z použití
 
+- 261029: **první použití, na plánu kampaně DigiStart** (místo rozhovoru skillu `campaign-plan` po jedné otázce). Claude udělal rešerši z brainu a postavil stránku s 10 kartami (možnosti + doporučení, „předpokládám“ žlutě) a kartou malých rozhodnutí „Nechat / Změnit“; odpovědi se ukládají přímo do stránky (db), Claude je čte sám, kopírování není potřeba. Lenka proklikala asi za 15 minut, u 4 karet zvolila jinak než doporučení nebo vlastní odpověď. Stránka https://claude.ai/artifact/Q5trYatrHksUQ3GktQa8ff, soubor `resources/decision-board/digistart-kampan.html` (vzor pro další kampaně). Výsledek: brief kampaně ve frontě GrowOS. Pilot na LCEnglish ([[lcenglish-10x-english-sales-page]]) dál platí.
 - 261024: mail přečten a vysvětlen na žádost Lenky („mám pocit, že se míjíme a nechápu přesně, o čem mluví“). Pilot zatím neproběhl.

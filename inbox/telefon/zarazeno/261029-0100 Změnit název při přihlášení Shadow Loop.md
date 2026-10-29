@@ -1,0 +1,1 @@
+Při přihlášení do Shadow Loop přes Google účet se objevuje tohleto povolení, což je v pořádku, jenom by mě zajímalo, jestli by náhodou nešel změnit ten název Shadow Loop Firebase, Firebase App, Google něco (shadowloop-firebase.firebaseapp.com).

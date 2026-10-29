@@ -1,0 +1,1 @@
+Už jsem to jednou poptávala, ale nevím, jestli to někde nezapadlo, jestli se to někde nestratilo, takže si to radši poznamenávám znova, že potřebuju zjistit, proč dělám ty commity a pushe. Když už to mám na Google disku, k čemu je mi to dobré to commitovat a pushovat na GitHub a jak by se toho dalo eventuálně využít, nebo jestli obě tyhle ty dvě věci dělat nemusím.

@@ -55,7 +55,7 @@ In Lenka's words (setup chat, 2026-10-14), shortened, not word for word:
 - No time spent on "open ChatGPT" basics: DigiStart aims at women who already tried AI.
 - When people are at different levels, a single day fails: whoever falls behind takes in nothing more. Ongoing support, trying things during the workshop and direct contact with the lecturers are better.
 
-- A package of tools, or a video that shows what AI can do, is not enough. Without a guide who says "today we try this" and leads you through the steps, it stays painful. DigiStart is that guide, and the steps are prepared in advance. Lenka's own story and the test run with Štěpánka, in her words: [[stories/2026-10-14-bez-pruvodce-je-to-bolestne]] (internal for now). — **confirmed** (Lenka, 2026-10-14)
+- A package of tools, or a video that shows what AI can do, is not enough. Without a guide who says "today we try this" and leads you through the steps, it stays painful. DigiStart is that guide, and the steps are prepared in advance. Lenka's own story and the test run with Štěpánka, in her words: [[stories/2026-10-14-bez-pruvodce-je-to-bolestne]] (cleared for use by Lenka and Štěpánka, 2026-10-29). — **confirmed** (Lenka, 2026-10-14)
 
 Lenka said she has **not seen** other one-day courses, so what she says about them is her belief, not a checked fact. Marketing must not describe competitors as "nalejvárna" or say what their courses lack. The research found that Umeligence and Digitari sell one-day courses (see [[competitors]], **unchecked**).
 

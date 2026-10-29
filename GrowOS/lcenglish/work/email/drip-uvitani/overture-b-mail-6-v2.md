@@ -3,19 +3,21 @@ type: email
 headline: Drip 008 Overture B – chybějící 6. mail (osobní naléhavost), Nepravidelná slovesa
 project: drip-uvitani
 source: resources/drip-lcenglish-uvitani.md
-subject: Chyby se taky učí
+subject: Kámen na srdci (a na jazyku)
 date: ""
 skill: ""
-note: Doslovné opakování toho, co už jsme psali v minulých mailech, nechci. Je potřeba být kreativnější. Taky si nejsem jistá, jestli je tohle skutečně ta "osobní naléhavost", kterou 008 požaduje. Podívej se pořádně, bývají tam v těch kampaních ukázky, tak se inspiruj, nebo mi to aspoň vypiš do poznámek, abych to mohla posoudit. Ideálně tam i přidej přímý odkaz na tu kampaň, abych si to mohla dohledat.
-kanban_order: V1
+note: +++ten úvod se mi nelíbí. Problém není, že by to studenti říkali opakovaně špatně a tím chybu fosilizovali. Spíš to prostě neumějí, koktají, zadrhávají, jsou rádi, když to řeknou aspoň s chybou. To, co se fosilizuje, je ten pocit, že to neumí, až úplně zkamení v představě, že se to nikdy nenaučí+++
+kanban_order: V2
 id: sei0nxyugn
-status: changes
+status: published
 business: lcenglish
 channel: email
 created: 2026-10-26
 ---
 
 <!-- Verze 2 (261024 23:25), přepsáno podle Lenčiny poznámky (výše v poli note). Lenčina Overture B končí mailem 5 (Kamila), tenhle by šel den po něm. Fakta: Nepravidelná slovesa za 14 dní, 790 Kč, lcenglish.cz/irregular, 50 sloves v kontextu (brain/business.md). Kam v Dripu: série „008 Overture B“ → Add Email (6.), zpoždění 1 den. -->
+
+> **261029 (12:20) – přepsáno podle vaší poznámky:** úvod už není o chybě, kterou člověk opakuje, až zkamení. Zkamení pocit „neumím“: koktání a zadrhávání → „tohle neumím“ → „tohle se nikdy nenaučím“. Naléhavost: čím déle se čeká, tím je to přesvědčení tvrdší. Slovo „fosilizace“ a Selinker vypuštěny (v odborném smyslu jde o chyby, tady by zavádělo). Zbytek oddílu o EMH beze změny.
 
 ## Co EMH myslí „osobní naléhavostí“ (pro posouzení)
 
@@ -24,43 +26,51 @@ Kampaň 008 The Overture: https://member.emailmarketingheroes.com/training/fyeo-
 - **Pravidlo z dossieru (shrnuto):** na konci kampaně se běžně dává termín nebo sleva. Tady ne, protože po Overture jdou další kampaně ke stejnému produktu. Důvod jednat teď musí vycházet **z čtenáře**, ne z termínu, který si vymyslíte. Otázka zní: proč je to pro něj naléhavé právě teď?
 - **Jejich dva příklady úhlu:** (1) to, co teď děláte, vám nepřináší výsledky, a přitom vás to každý den něco stojí; (2) každý den čekání je den, kdy zájem vašich lidí slábne. Jak dlouho si můžete dovolit čekat?
 - **Ukázkový mail 6 (stavba):** všichni hledají zkratky a rychlá řešení → v tomhle zkratka není, čím déle ji hledáte, tím víc času ztratíte a tím dál jsou výsledky → nejde o skok přes noc, ale o malé zlepšení každý den („pomalu a vytrvale je nejrychleji“) → PS: bude to chtít vaši práci, žádné rychlé zbohatnutí.
-- **Proč první verze nesedělo:** „kdy budete příště vyprávět, co se stalo?“ je spíš budoucí příležitost než naléhavost, a opakovala dovolenou a večeři pro dva z mailu 4.
+- **Proč první verze neseděla:** „kdy budete příště vyprávět, co se stalo?“ je spíš budoucí příležitost než naléhavost, a opakovala dovolenou a večeři pro dva z mailu 4.
 
-Nový úhel: **každý den čekání chybu neodkládá, ale upevňuje.** To je příklad (1) z dossieru převedený na slovesa: to, co teď děláte (mluvíte s chybou nebo minulému času uhýbáte), vás každý den stojí. Lingvisté tomu říkají fosilizace: chyba, kterou člověk dlouho opakuje, ztuhne a odnaučit se ji je těžší než naučit se to rovnou správně.
+Nový úhel (261029, podle vaší poznámky): **každý den čekání neupevňuje chybu, ale pocit „tohle neumím“.** To je příklad (1) z dossieru převedený na slovesa: to, co teď děláte (zadrhnete se, vykoktáte to nějak, nebo minulému času uhnete), vás každý den něco stojí. Z „neumím“ časem zkamení „nikdy se to nenaučím“ a to drží člověka stranou déle než jakákoli chyba.
 
-## Subject: Chyby se taky učí
+## Subject: Kámen na srdci (a na jazyku)
+
+(Lenka změnila v Dripu 261029; původní návrh „Co v nás zkamení“.)
 
 Další varianty:
-- Co dělá chyba, když na ni nesaháte
-- „I have went“ a jiné zkameněliny
+- „Tohle se nikdy nenaučím“
+- Když se to zasekne v půlce věty
 
 ## Text
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
-chyby se taky učí.
+znáte ten okamžik?
 
-Pokaždé, když řeknete *I have went* (místo *I have gone*), procvičíte si to. Pusa si zvykne, ucho si zvykne. Napodruhé to jde samo. Napodesáté to zní správně.
+Chcete říct, co jste {% if subscriber.tags contains "M" %}dělal{% elsif subscriber.tags contains "F" %}dělala{% else %}dělali{% endif %} o víkendu. A v půlce věty se to zasekne. *I... I have... I goed... I went?*
 
-Lingvisté tomu mají krásné slovo: fosilizace. Chyba, kterou člověk dlouho opakuje, zkamení. A zkamenělinu se odnaučit je mnohem těžší, než se to rovnou naučit správně.
+Nakonec to nějak vykoktáte. Možná s chybou. Hlavně že je to venku.
 
-Druhá možnost je, že minulému času prostě uhnete. Vyprávíte v přítomném, nebo radši nevyprávíte vůbec. Taky to člověk umí natrénovat k dokonalosti.
+Jenže v té chvíli se kromě anglické věty rodí ještě něco. Malá tichá myšlenka: *tohle prostě neumím.*
 
-Takže čekání není neutrální. Každý den, kdy nepravidelná slovesa necháte na „někdy“, se něco upevňuje. Jen to bohužel není ten správný tvar.
+Napoprvé se nestane nic. Každé další zadrhnutí ale kousek přidá. A když to trvá dost dlouho, z malé tiché myšlenky je obrovský balvan: „Tohle se nikdy nenaučím“.
 
-Dobrá zpráva: správné tvary se dají natrénovat stejně. Ve větách, nahlas, každý den kousek.
+A to je horší než jakákoli chyba. Chybu opravíte za pár dní. Zkamenělé přesvědčení vás drží na místě ještě dlouho potom, co byste to už dávno {% if subscriber.tags contains "M" %}mohl{% elsif subscriber.tags contains "F" %}mohla{% else %}mohli{% endif %} zvládnout. 
 
-Přesně tak to děláme v programu Nepravidelná slovesa za 14 dní ( https://lcenglish.cz/irregular ). Padesát sloves, která v angličtině potkáte nejčastěji, v reálných větách. Čtrnáct dní, které můžou začít dnes.
+Minulému času se pak začnete raději vyhýbat a vyprávíte v přítomném.
 
-Ať se upevňují ty správné tvary.
+Proto na čekání záleží. Slovesa zůstanou stejná, ale skála přesvědčení o vlastní neschopnosti roste.
+
+Dobrá zpráva: dá se rozbít. Nejlíp zkušeností, že to jde. Jedna věta, která vyjde napoprvé. Pak druhá.
+
+Přesně na tom stojí program Nepravidelná slovesa za 14 dní ( https://lcenglish.cz/irregular ). Padesát sloves, která v angličtině potkáte nejčastěji, v reálných větách, nahlas, každý den kousek. A až vám minulý čas poprvé sklouzne z jazyka jako nic, bude to ten nejlepší důkaz, že to umíte.
 
 Zdraví L.
 
-P.S. Zkamenělinu poznáte podle toho, že vám správný tvar zní divně. Jestli vám *I have gone* zní hůř než *I have went*, je nejvyšší čas ( https://lcenglish.cz/irregular ) ;-)
+P.S. Mluvit za vás ani nejlepší výukový program nebude. Ale může vám dát každý den malý úkol, který vám postupně rozhýbe jazyk. Začít můžete hned dnes ( https://lcenglish.cz/irregular ).
 
 ## K rozhodnutí
 
 - Mail neopakuje motivy z mailů 1–5 (14 dní jako výzva, mapa a kompas, Robert a „brang/brung“, „když otevřete pusu“, dovolená a večeře pro dva, Kamila). Opakuje se jen nutné: název kurzu, 14 dní, 50 sloves.
-- „Fosilizace“ je skutečný pojem z výzkumu osvojování jazyka (Selinker, 1972). Jestli je to pro mail moc odborné, dá se slovo vypustit a nechat jen „zkamenět“.
-- Příklad *I have went* je běžná chyba, ⚠️ můj výběr, ne z vašich materiálů. Klidně ho nahraďte chybou, kterou slýcháte od studentů vy.
+- Zadrhnutí *I... I have... I goed... I went?* je ⚠️ můj příklad, ne z vašich materiálů. Klidně ho nahraďte tím, co slýcháte od studentů vy.
+- Motivy, kterým se mail vyhýbá: „bez zadrhnutí“ z mailu 2 (proto „vyjde hladce“), Kamilino „znovu a znovu na začátku“ z mailu 5.
+- Kontrola kvality (261029) proběhla ve vlákně podle pravidel `humanize`, ne samostatným agentem; vypuštěna obrácená pointa „Ne kvůli slovesům, ale…“ a trojice krátkých vět.
 - Cena v mailu není (EMH ji v mailu 6 nemá a v mailu 4 už je).
+

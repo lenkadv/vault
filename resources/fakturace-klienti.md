@@ -28,6 +28,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 13  | 261011 | cca 45 min | SharePoint `FEKT VUT Brno` po Štěpánčině přesunu: `Neutříděná hromada` zařazena a vyprázdněna, zip od paní Hruškové (74 MB) rozbalen do 03/03, duplicity do koše, mapa podkladů přegenerována (88 souborů) a koncept i odeslání mailu Štěpánce „co ještě chybí od paní Hruškové“ (20:00–20:55, blok denního vlákna 20:07–20:55 je smíšený s PENTOU a Londýnem, uvedeno jako odhad) |
 | 14  | 261013 | 1 h 27 min | Osnova závěrečné zprávy z auditu FEKT: lokální kopie SharePointu na Disku + převod na text, přepis skenů místním OCR (čeština), Statut a Organizační řád (intranet), prošlá nabídka, smlouva, mapa, průběžné výstupy a souhrny rozhovorů, návrh osnovy se slepými místy, Google Doc pro Štěpánku, nasdíleno Lenkou (13:37–15:04; blok v kalendáři upraven ze 12:15–14:15 na skutečný čas) |
 | 15  | 261014 | cca 30 min (odhad) | Mapa podkladů FEKT: porovnání živého SharePointu s lokální kopií, přegenerování mapy (stav k 14. 10.), nahrání Statutu FEKT a Organizačního řádu 2026 do 02 Celofakultní podklady, nahrání mapy, aktualizace lokální kopie na Disku (cca 16:25–16:35 a 16:45–17:01; čas odhadnut podle souborů a pořadí kroků, ne podle bloku v kalendáři) |
+| 16  | 261029 | 2 h 51 min | Kontrola závěrečné zprávy FEKT od Štěpánky: Lenka zprávu celou prošla a okomentovala, Claude připravil 40 připomínek (kontrola čísel a proti podkladům, `FEKT VUT\Závěrečná zpráva\Připomínky k závěrečné zprávě 261029.md`) a vložil je do Lenčiny verze jako komentáře autora Claude; odesláno Štěpánce (16:50–19:41, podle Lenky celou dobu práce na zprávě, i mimo chat) |
 
 **Součet práce na počítači k 261014 (bez dnů v Brně a Jičíně):** audit FEKT 12 h 02 min (řádky 1, 2, 5, 7, 8, 10, 11, 13, 14, 15) + web GNOSTIKY o auditech 2 h 30 min (řádek 9) = **14 h 32 min**. Fakturace se nedělá po hodinách, evidence slouží Lence a případně Štěpánce jako přehled.
 
@@ -67,6 +68,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 23  | 261028 | 22 min | DigiStart: děkovací stránka po zaplacení (text ze schváleného formuláře SimpleShopu, 22:28–22:50) → [[digistart]] |
 | 24  | 261028 | 1 h | Call se Štěpánkou k DigiStartu (17:00–18:00, podle Lenky asi hodinu): prodej a reklama přes GNOSTIKU, SimpleShop, faktury ze SimpleShopu → [[digistart]] |
 |     | **261028 celkem** | **asi 4 h** | Podle Lenky (261029): skutečný čas dne za DigiStart byl asi 4 hodiny. Řádky 20–24 se časem překrývají, protože vlákna běžela souběžně a call byl současně s vláknem Proč Claude; jejich součet (5 h 06 min) proto není čas Lenky. |
+| 25  | 261029 | 1 h 43 min | DigiStart: plán kampaně skillem `campaign-plan` a Decision Board, brief kampaně (Lenčiny připomínky, scénář konzultace, schváleno 16:48), projekt srovnán do šesti linií, 4 statické reklamy do review (13:02–13:55, 14:09–14:20, 16:46–17:25) → [[digistart]], `GrowOS/digistart/work/strategy/digistart-pilot-kampan.md` |
 
 **Součet práce na počítači k 261021 (jen zapsané řádky):** DigiStart 17 h 20 min (řádky 1–5, 8–13) + firemní workshop 1 h 45 min (řádek 7) = **19 h 05 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **33 h 37 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně. Bloky DigiStartu z 18.–20. 10. v tabulce zatím nejsou (zapisuje je denní vlákno, pokud proběhly).
 
@@ -153,7 +155,7 @@ Nový balíček (10 hodin, domluveno 260806) — faktura č. 426508 vystavena 26
 ## Martin Blažek (PENTA)
 
 **Typ:** fakturovat po skončení
-**Plán:** 3–5 hodin · **Stav 261009:** mail s odkazem na rezervační kalendář odeslán (13:11), čeká se na rezervaci ([[waiting-for]])
+**Plán:** 3–5 hodin · **Stav 261029:** zarezervoval 3 termíny; po 23. 11. a po 14. 12. v 15:00 potvrzeny, pá 13. 11. zamítnut (let do Říma), vybírá náhradní termín
 
 | #   | Datum  | Poznámka |
 | --- | ------ | -------- |

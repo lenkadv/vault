@@ -7,15 +7,17 @@ subject: 6 mailů, 1 denně, po sérii 000 GTKY
 date: ""
 skill: ""
 note: Myslím, že obsah mailů neodpovídá tomu, jak to popisuje EMH - jdeš rovnou v prvním mailu k prodeji, to tam tak myslím není. Nastuduj ten návod pořádně.
-kanban_order: V0
+kanban_order: Uz
 id: ot8892fnpd
-status: changes
+status: published
 business: lcenglish
 channel: email
 created: 2026-10-26
 ---
 
 <!-- Verze 2 (261024 23:20), přepsáno podle Lenčiny poznámky: „obsah mailů neodpovídá tomu, jak to popisuje EMH - jdeš rovnou v prvním mailu k prodeji, to tam tak myslím není. Nastuduj ten návod pořádně.“ Každý mail teď kopíruje stavbu příslušného mailu z dossieru EMH 008 (stejně jako to dělá Lenčina Overture B), obsah je vlastní. Fakta jen z prodejní stránky lcenglish.cz/10x-english (přečtena 261024), brain/business.md, brain/stories/proc-vznikl-10x-english-a-shadowloop.md, brain/methodology.md a brain/proof/ (Petra Laluhová se jménem; Dáša Nastulczyková se jménem na prodejní stránce; Romana S. a Ivana L. jen zkráceně, jak jsou na prodejní stránce). Kam v Dripu: nová série „008 Overture C“ (zkopírovat 008 Overture B), napojit do prázdné větve v workflow Controller C přes nový „Carriage C Overture workflow“ (zkopírovat Carriage B, pole carriage_C_overture, cíl Purchased: 10x ENGLISHonly). Dostanou ji lidé s controller = C (Stínování, Gonna Wanna, Shopping, Mugcake, Chyby rodiláků, Dovolená, 7 online tools, Shadowloop texty, Fall Outfit, ChatGPT tahák, Iversen). Nic se nevkládá, dokud Lenka neschválí. -->
+
+> **261029 (12:20) – zapracováno podle vašich poznámek v textu (+++), vaše úpravy textu ponechány:** mail 1 poslední věta už neslibuje nahlédnutí zdarma (odkazuje na stránku kurzu, kde je přehled situací); Liquid pro rod doplněn v mailu 2 („mohl/mohla/mohli“) a v mailu 6 („prošel/prošla/prošli“, „mluvil/mluvila/mluvili“); v mailu 3 opraven překlep „je nějak je zpracovat“. Ostatní maily jiné rodové tvary neobsahují.
 
 ## Jak to dělá EMH (pro posouzení)
 
@@ -35,82 +37,78 @@ Kampaň 008 The Overture: https://member.emailmarketingheroes.com/training/fyeo-
 ## Mail 1 – Zasít myšlenku
 
 **Předmět:** Co mají společného ztracené klíče a pracovní pohovor?
-Další varianty: „Ztracené klíče, zmeškaný hovor, pohovor“ · „Hádanka na dnešek“
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
 malá hádanka na úvod.
 
-Co mají společného ztracené klíče, zmeškaný hovor a pracovní pohovor?
+Co má společného hledání ztracených klíčů, důležitý telefonát a pracovní pohovor?
 
-*Že se při nich člověk zapotí?*
+*Že se při tom člověk zapotí?*
 
-*Že se nikdy nestanou ve vhodnou chvíli?*
+*Že na to nikdy nejsme dokonale připravení?*
 
-Obojí platí. Ale já myslím něco jiného: ve všech třech se dá anglicky krásně zaseknout.
+Obojí platí. Ale je tu ještě mnohem větší výzva: když tyhle situace musíte řešit anglicky.
 
-A všechny tři najdete mezi stovkou krátkých rozhovorů ze skutečného života, které jsem vám nachystala v 10x ENGLISH ( https://lcenglish.cz/10x-english ).
+Proto všechny tři najdete mezi stovkou krátkých textů, které jsem vám nachystala v 10x ENGLISH ( https://lcenglish.cz/10x-english ).
 
-Mrkněte, co v nich je.
+Uvnitř na vás pak čeká ještě 97 dalších situací, které přinesl sám život. 
 
 Zdraví L.
 
 ## Mail 2 – Proměna
 
-**Předmět:** Co kdyby vám přestalo překládat v hlavě?
-Další varianty: „Rozhovor bez překladače v hlavě“ · „Mezi dvěma schůzkami“
+**Předmět:** Mezi dvěma schůzkami
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
 co kdybych vám nabídla, že vaše ucho naučím rozumět angličtině v normálním tempu...
 
-... takže ve filmu bez titulků přestanete chytat jen každé druhé slovo?
+... takže ve filmu bez titulků přestanete chytat jen každé (sto)páté slovo?
 
-A co kdybych k tomu přidala, že na otázku v angličtině odpovíte rovnou, bez dlouhého skládání věty z češtiny?
+A co kdybych k tomu přidala, že na otázku v angličtině zvládnete odpovědět rovnou, bez dlouhého skládání věty v hlavě?
 
-To nezní špatně, ne?
+Zní to až příliš neuvěřitelně?
 
-Přesně proto jsem připravila 10x ENGLISH ( https://lcenglish.cz/10x-english ).
+Díky 10x ENGLISH ( https://lcenglish.cz/10x-english ) se každopádně této neuvěřitelné představě dokážete přiblížit mnohem rychleji a mnohem snáz, než čekáte.
 
-Sto rozhovorů, jak lidé doopravdy mluví. Každý ve dvou tempech, v plné rychlosti i zpomalený na 80 %, s českým překladem. Posloucháte a nahlas opakujete po mluvčím. Až vám věty začnou z pusy vycházet samy.
+Sto krátkých textů a rozhovorů, jaké můžete opravdu zaslechnout. Každý ve dvou tempech, v plné rychlosti i zpomalený na 80 %, s českým překladem. Posloucháte, opakujete - a najednou zjistíte, že vám věty začnou z pusy vycházet samy.
 
 A trénovat můžete i v pauze mezi dvěma schůzkami, stačí mobil.
 
-Jenže nechci vám dát jen sto rozhovorů. Chci, abyste {% if subscriber.tags contains "M" %}věděl{% elsif subscriber.tags contains "F" %}věděla{% else %}věděli{% endif %}, jak s nimi trénovat, a mohli to pak dělat s jakoukoli angličtinou, která vám přijde pod ruku. Proto je u kurzu postup den za dnem a návody, jak na to.
+Jenže nechci vám dát jen sto rozhovorů. Chci, abyste {% if subscriber.tags contains "M" %}věděl{% elsif subscriber.tags contains "F" %}věděla{% else %}věděli{% endif %}, jak s nimi trénovat. Proto je v kurzu taky postup den za dnem a návody, jak na to.
 
 Tady jsou podrobnosti a možnost se přidat ( https://lcenglish.cz/10x-english ).
 
 Zdraví L.
 
-P.S. Sady jsou seřazené podle obtížnosti. Začnete první a když vám půjde snadno, poskočíte dál. Prvních deset rozhovorů na vás čeká hned po zaplacení ( https://lcenglish.cz/10x-english ).
+P.S. Sady jsou seřazené podle obtížnosti. Začnete tou první a když vám půjde snadno, poskočíte dál. Čekají na vás a můžete se do nich pustit hned ( https://lcenglish.cz/10x-english ).
 
 ## Mail 3 – Zranitelnost a důvěryhodnost
 
-**Předmět:** Moje japonština a ztracený čas
-Další varianty: „Učím se taky. Japonsky.“ · „Přiznání lektorky“
+**Předmět:** Přiznání
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
 musím se vám k něčemu přiznat.
 
-Učím se japonsky. A dlouho mi to šlo pomaleji, než bych chtěla.
+Učím se japonsky. Už dlouho. Jde mi to výrazně pomaleji, než bych chtěla.
 
-Ne kvůli znakům. Kvůli tomu, že nejvíc času mi nezabíralo učení, ale hledání materiálů. Najít text, najít k němu nahrávku, nějak je zpracovat, nahrát do aplikace... a když jsem konečně byla připravená, chuť na učení byla ta tam.
+Japonština je těžký jazyk a znakové písmo tomu taky nepomáhá. Ale to vlastně není ten největší problém. Hlavní brzdou pro mě není čas, který je potřeba věnovat studiu. Nejvíc času mi totiž zabírá hledání materiálů, se kterými bych mohla trénovat. Pár cvičení z učebnice totiž nestačí. A tak pořád dokola hledám texty, nahrávky, videa, aplikace a snažím se je nějak zpracovat, zorganizovat, uspořádat... a když je mám konečně připravené, chuť k učení je ta tam.
 
-Učím 25 let. Mluvím šesti jazyky. A stejně jsem uvízla na úplně stejném místě jako spousta mých studentů: ještě před začátkem.
+Angličtinu učím 30 let. Mluvím šesti jazyky. A stejně jsem uvízla na úplně stejném místě jako spousta mých studentů.
 
 Jenže právě díky tomu teď přesně vím, kde ten háček je.
 
-Tak jsem postavila aplikaci Shadowloop a připravila k ní hotové texty. Z toho vzniklo 10x ENGLISH ( https://lcenglish.cz/10x-english ): nic nehledáte, nic nezpracováváte, nic nikam nenahráváte. Otevřete aplikaci a trénujete.
+Tak jsem postavila aplikaci Shadowloop a připravila v ní hotové texty a nahrávky k procvičování. Z toho vzniklo 10x ENGLISH ( https://lcenglish.cz/10x-english ): nic nehledáte, nic nezpracováváte, nic nikam nenahráváte. Otevřete aplikaci a trénujete.
 
 Zdraví L.
 
-P.S. Japonsky se učím pořád. Teď už bez hledání ;-) Angličtinu si můžete nachystat stejně ( https://lcenglish.cz/10x-english ).
+P.S. Japonsky se učím pořád. Teď už to jde mnohem snáz. Stejně to může platit i pro vás ( https://lcenglish.cz/10x-english ).
 
 ## Mail 4 – Popřít obecné přesvědčení
 
-**Předmět:** Stačí hodně poslouchat?
-Další varianty: „Seriály s titulky vás mluvit nenaučí“ · „Tisíc hodin poslechu a pořád ticho“
+**Předmět:** Seriály s titulky vás mluvit nenaučí
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
@@ -118,13 +116,13 @@ Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni
 
 Tuhle radu slýchá skoro každý, kdo se učí anglicky. A kus pravdy v ní je.
 
-Jenže má to háček...
+Jenže to má háček...
 
-Můžete naposlouchat stovky hodin. A když máte sami promluvit, pusa neví, co s tím.
+Můžete naposlouchat stovky hodin. Tisíce. Ale když máte sami promluvit, pusa neví, co si počít.
 
 Protože poslouchat a mluvit jsou dvě různé věci. Ucho se učí posloucháním. Pusa se učí jen tím, že mluví.
 
-Proto se v 10x ENGLISH ( https://lcenglish.cz/10x-english ) jen neposlouchá. Každou větu si pustíte, zopakujete ji nahlas po mluvčím a až když sedí, jdete dál. A když se vám nějaká věta pořád zadrhává, pustíte si ji ve smyčce, dokud ji pusa nezvládne.
+Proto se v 10x ENGLISH ( https://lcenglish.cz/10x-english ) jen neposlouchá. Každou větu si pustíte, zopakujete ji nahlas po mluvčím a když to sedí, jdete dál. Pokud se vám nějaká věta pořád zadrhává, pustíte si ji ve smyčce, dokud ji pusa nezvládne.
 
 Seriály si pouštějte dál. Jen k nim přidejte trénink, kde mluvíte vy.
 
@@ -133,7 +131,6 @@ Zdraví L.
 ## Mail 5 – Lidé jako já
 
 **Předmět:** Zpráva od Petry
-Další varianty: „Obraty, které bych v životě nepoužila“
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
@@ -143,9 +140,7 @@ Ne s dotazem. Jen mi chtěla napsat, jak se jí daří s 10x ENGLISH:
 
 „Rozhovory jsou super, i když ne všemu rozumím :))) Líbí se mi tam i obraty, které bych v životě nepoužila. :-D Je to bezvadně udělané.“
 
-A o pár dní později dodala, že jí to přijde dokonalé. Obsahově i těmi obraty, které neznala.
-
-Mám z toho radost dodnes.
+Mám z toho doteď radost.
 
 Všimněte si, co Petra píše: *ne všemu rozumím*. A stejně ji to baví. Nemusíte rozumět všemu hned. Stačí poslouchat, opakovat a nechat ty obraty, ať se usadí.
 
@@ -165,31 +160,31 @@ Přidejte se k nim tady ( https://lcenglish.cz/10x-english ).
 
 ## Mail 6 – Osobní naléhavost
 
-**Předmět:** Hledáte pořád tu správnou metodu?
-Další varianty: „Ještě jedna aplikace a pak už začnu“ · „Nejlepší metoda na angličtinu“
+**Předmět:** Nejlepší metoda na angličtinu
 
 Dobrý den{% if subscriber.osloveni == nil %},{% else %}, {{ subscriber.osloveni }},{% endif %}
 
-znáte to hledání?
+taky jste si tím {% if subscriber.tags contains "M" %}prošel{% elsif subscriber.tags contains "F" %}prošla{% else %}prošli{% endif %}?
 
-Ještě jedna aplikace. Ještě jedna učebnice. Ještě jedno video „Jak se naučit anglicky za 30 dní“. Tahle už to bude.
+Ještě jedna aplikace. Ještě jedna učebnice. Ještě jedno video „Jak se naučit anglicky za 30 dní“. Tentokrát už to vyjde.
 
-Jenže v angličtině žádná zkratka není. Mluvit se člověk naučí jen tím, že mluví. Pořád dokola, kousek po kousku.
+Jenže v angličtině žádná zkratka není. Mluvit se člověk naučí jen tím, že mluví. Pořád dokola, slovo za slovem, větu po větě.
 
-A čím déle hledáme tu dokonalou metodu, tím víc času nám uteče. Času, který mohl být tréninkem.
+A čím déle hledáme dokonalou metodu, tím víc času uteče. Času, který mohl být tréninkem.
 
-Nebude to během týdne. Bude to deset minut dnes a deset zítra. Pomalu, ale pravidelně. (A pravidelně je v jazycích nakonec nejrychlejší.)
+Nebude to během týdne. Bude to deset minut dnes a deset zítra. Příští týden, i příští měsíc. Pomalu, ale pravidelně. (A "pravidelně" je v jazycích nakonec "nejrychleji".)
 
-10x ENGLISH ( https://lcenglish.cz/10x-english ) vám to hledání ušetří. Sto rozhovorů je nachystaných, postup den za dnem taky. Zbývá jen otevřít první.
+10x ENGLISH ( https://lcenglish.cz/10x-english ) vám ušetří hledání. Sto textů a rozhovorů je nachystaných, postup den za dnem taky. Zbývá jen otevřít ten první.
 
 Zdraví L.
 
-P.S. Upřímně: bude to chtít, abyste opravdu mluvili nahlas. Kurz vás nenaučí sám. Ale ukáže vám, jak na to, a dá vám, s čím trénovat ( https://lcenglish.cz/10x-english ).
+P.S. Upřímně: bude to vyžadovat, abyste opravdu {% if subscriber.tags contains "M" %}mluvil{% elsif subscriber.tags contains "F" %}mluvila{% else %}mluvili{% endif %}. Nahlas. Sebelepší kurz se to za vás sám nenaučí. Ale dobrý kurz vám ukáže, jak na to, a dá vám to, s čím můžete trénovat. Jako 10x ENGLISH ( https://lcenglish.cz/10x-english ).
 
 ## K rozhodnutí
 
 - **Mail 2 už nepotřebuje vaši situaci ze života.** V EMH je mail 2 nabídka „co kdyby“ bez příběhu, takže [PLACEHOLDER] jsem vypustila.
 - **Mail 4 je nový úhel.** Místo „nejdřív gramatika“ (to už řeší Overture B, mail 4 „Problém s učením“) je přesvědčení „stačí hodně poslouchat“. Že jde o aktivní opakování nahlas, ne pasivní poslech, máte v `brain/methodology.md`.
 - **Mail 6:** „deset minut dnes a deset zítra“ je obrazné, ⚠️ ověřit, jestli to sedí k doporučení v kurzu („postup den za dnem“). Cena v mailu není, EMH ji v mailu 6 nemá.
-- Mail 1 jmenuje tři témata dialogů (ztracené klíče, zmeškaný hovor, pracovní pohovor) z prodejní stránky.
+- Mail 1 jmenuje tři témata dialogů z prodejní stránky (ztracené klíče, telefonát, pracovní pohovor). ⚠️ Ve vaší úpravě je „důležitý telefonát“; na prodejní stránce bylo „zmeškaný hovor“, ověřit, že takový text v kurzu je.
+- Mail 3: dvě věty za sebou říkají totéž („Jedna učebnice totiž nestačí. Na skutečné osvojení si jazyka totiž pár cvičení z učebnice nestačí.“), obsah jsem neměnila, rozhodněte, kterou nechat.
 - Workflow v Dripu (Carriage C, série 008 Overture C) postavím v Chromu až po schválení.

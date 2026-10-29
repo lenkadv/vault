@@ -1,53 +1,68 @@
-# [Úterý, 27. května 2026] — Denní plán
+# [Čtvrtek, 29. října 2026] — Denní plán
 
-> [Záměr dne — jen pokud uživatel zadal nebo vychází z MITů. Jinak vynechat.]
+> [Jedna věta: co je dnes pevné v kalendáři. Ostatní podle toho, kdo to vede, na [tabuli](https://claude.ai/artifact/FD5CytwrHaAQhq43PV586N) ([[next-week-priorities]], bez MIT).]
 
-## 🎯 Dnes nejdůležitější
+## 📥 Pro denní vlákno
 
-1. **[MIT 1]** — [čas začátku]–[čas konce]
-   > [Proč je důležité / jak poznám, že je hotové]
-
-2. **[MIT 2]** — [čas začátku]–[čas konce]
-   > [kontext volitelný]
-
-3. **[MIT 3]** — [čas začátku]–[čas konce]
+- [ ] [položka z jiného vlákna — zdroj, co se čeká]
 
 ## 📅 Naplánováno
 
-- [čas]–[čas] — [blok nebo schůzka]
-- [čas]–[čas] — [blok nebo schůzka]
+- [čas]–[čas] [blok nebo schůzka] → [[projekt]]
+- [čas]–[čas] [blok nebo schůzka]
 
-## 📋 Kdyby náhodou zbyl čas
+## 🗂️ Dnes na stole
 
-- [ ] [sekundární úkol]
-- [ ] [sekundární úkol]
+**Ty:**
+- [úkol s termínem dnes / prošlým, nebo co se vejde do volného času] → [[soubor]]
 
-## 🔄 Přeneseno z včerejška
+**Spolu:**
+- [úkol] → [[soubor]]
 
-- [ ] [nedokončený úkol]
+**Claude:**
+- [co dnes udělám sám] → [[soubor]]
 
-## 🎯 Pokrytí oblastí
+## 🔁 Každý den
 
-- **[oblast]**: [MIT nebo úkol]
-- **[oblast]**: [MIT nebo úkol]
+- 🔁 [pravidelná věc] → [[soubor]]
 
-> _5+ dní bez: [oblast] — zvážit zítra._
+## 📬 Svodka
+
+- [Svodka č. NN](odkaz) ([období], [počet] vláken): [stručně Vyžaduje pozornost].
+
+## 🗂️ Nové v GrowOS
+
+1. [název] ([byznys], [kanál], vychází [kdy])
+
+Odpověz třeba: 1 ano, 2 oprav: … Nástěnka: [[GrowOS fronta.base]]
+
+## 📱 Ze Zápisníku
+
+- [co] → [kam]
+
+## ⏰ Follow-upy
+
+- [Den D. M.]: [co] → [[soubor]]
+
+> ⚠️ [jen když je co: tabule proti vaultu čeká na Lenku, tabule bez hlídání apod. — jednou větou]
 
 ---
 
-_Plán vygenerován [datum čas]._
+🌙 [Večerní řádek — jen pokud platí, viz SKILL.md krok 3.7]
+
+---
+
+_Plán vygenerován [YYMMDD HH:MM]._
 
 ---
 
 ## Poznámky pro skill (nepatří do výstupu)
 
+- Plán je **bez MIT** (Lenka 261024, paměť `feedback_no_mit_prison`). Žádné „nejdůležitější úkoly“, žádné číslované pořadí důležitosti.
 - Nahraď VŠECHNY závorky skutečnými hodnotami.
-- **Vypusť celé sekce**, ke kterým nemáš obsah:
-  - Žádný carryover → odstraň „Přeneseno z včerejška"
-  - Žádné sekundární úkoly → odstraň „Kdyby náhodou zbyl čas"
-  - Goals soubor není → odstraň „Pokrytí oblastí"
-  - Žádné kalendářní bloky → odstraň „Naplánováno"
-  - Záměr dne jen pokud uživatel zadal nebo je jeden jasný motiv
+- **Vypusť celé sekce (i skupiny Ty / Spolu / Claude)**, ke kterým nemáš obsah. Prázdné nadpisy dělají plán dutým.
+- `## 📥 Pro denní vlákno`: když soubor už existuje, sekci **nepřepisuj** — jen do ní přidej nové položky. Když nic nečeká, sekci při zakládání souboru vynech (jiná vlákna ji založí sama).
+- „Dnes na stole“ neopakuje celou tabuli: jen termín dnes / prošlý, waiting-for se dnešním 📅, nedodělky ze včerejška, které na dnešek opravdu patří, a pár věcí do volného času. Skupiny odpovídají poli `kdo` na tabuli (`ty` / `spolu` / `claude`).
 - Časy vždy v 24h formátu (např. 13:00, 15:30)
-- Datum v H1: plný formát, česky (např. „Úterý, 27. května 2026")
-- Soubor: `daily/YYMMDD.md` — tato šablona je jen horní (plánová) část dokumentu; pod oddělovačem `---` na konci pokračuje/zůstává `## Průběh dne` a případně `## Systémové změny`, ty tato šablona nepokrývá a nesmí se přepsat
+- Datum v H1: plný formát, česky (např. „Čtvrtek, 29. října 2026")
+- Soubor: `daily/YYMMDD.md` — tato šablona je jen horní (plánová) část dokumentu; pod ní pokračuje/zůstává `## Průběh dne` a případně `## Systémové změny`, ty tato šablona nepokrývá a nesmí se přepsat
