@@ -21,6 +21,22 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), the exact price after the pilot (decided after the pilot; that it will be higher is settled, entry 2026-10-28).
 
+## 2026-10-29: campaign decisions (Decision Board for the campaign brief)
+**Decided (Lenka, clicked through the Decision Board https://claude.ai/artifact/Q5trYatrHksUQ3GktQa8ff, 13:43):**
+- **Warm contacts:** Štěpánka's acquaintances personally, plus one personal e-mail to participants of Lenka's earlier AI webinars, after the list size and permission to contact are checked.
+- **Page:** one page, no A/B test. B3 for now; B4 gets finished and then Lenka and Štěpánka choose; it may replace B3.
+- **Ad optimisation:** landing page views (too few purchases for Meta to learn from).
+- **Ads end Friday 20 November** (replaces "mid-November" from 2026-10-17). Sign-up stays open until Sunday 22 November; the course starts Monday 23 November.
+- **Rome 13–18 November:** Štěpánka takes consultations from Rome, at times she picks herself.
+- **Spending cap:** 5 000 Kč for the whole round, provisional (may be revisited with Štěpánka).
+- **Facebook page:** 2 posts a week from 2 to 22 November.
+- **After a consultation:** a short Drip sequence (2–3 e-mails) for women who do not buy at once. This replaces "no e-mail sequences" in [[plan]] for this one job. Which Drip account, and consent to e-mail, are open.
+- **End of sign-up:** said once (one post, one message to warm contacts around 19–20 November), no countdown.
+- **Creatives:** more ads than 2–3: static ads, some made in WinningAds, and a test of AI video ads in the style of Kristine Mirelle (Google Flow). Lenka: "Chceme si to na tom vyzkoušet."
+- **Checking results:** bookings and orders checked every day during the ads.
+- Sharing the brief with Štěpánka: Lenka decides when she sees it.
+**Why:** answers to the campaign-plan interview, made in one sitting on the Decision Board instead of question by question in chat.
+
 ## 2026-10-28: meetings 3–4 chosen by the group; price after the pilot higher
 **Decided (Lenka, in the chat 21:58, "Ano, zapiš", confirming her own wording in the B4 sales page):**
 - **Participants choose the content of meetings 3 and 4.** Examples the page may give: AI remakes an outdated website, prepares a month of social posts from her notes, sorts her mail every morning. So a website **may** be a topic of meetings 3–4, if the group picks it. The first two meetings still do not include a website.

@@ -1,0 +1,231 @@
+<title>Kampaň DigiStart: rozhodnutí</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,600..800&family=DM+Sans:opsz,wght@9..40,400;9..40,600&display=swap">
+<style>
+/* Layout: jedna karta uprostřed, nahoře průběh, dole ovládání; na telefonu přes celou šířku. Barvy podle brandu DigiStart (GNOSTIKA audit). */
+:root{
+  --bg:#F1ECE6; --panel:#FBF8F5; --line:#E0D5CA; --fg:#231A1D; --muted:#5E5155;
+  --accent:#9B224F; --accent-ink:#FFFFFF; --soft:#F3D3E0; --pick:#74183B; --assume:#FFF1A8; --assume-ink:#4A3B00;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif; --body:"DM Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1C1517; --panel:#261D20; --line:#3C2F33; --fg:#F3ECEE; --muted:#B9A9AE;
+  --accent:#D9568A; --accent-ink:#1C1517; --soft:#3F2230; --pick:#F08DB4; --assume:#4A4113; --assume-ink:#FFF1A8; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1C1517; --panel:#261D20; --line:#3C2F33; --fg:#F3ECEE; --muted:#B9A9AE;
+  --accent:#D9568A; --accent-ink:#1C1517; --soft:#3F2230; --pick:#F08DB4; --assume:#4A4113; --assume-ink:#FFF1A8; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5}
+.wrap{max-width:640px;margin:0 auto;padding-block:20px 40px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-direction:column;gap:8px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-stretch:80%;font-weight:800;font-size:clamp(24px,6vw,32px);line-height:1.1;margin:0;text-wrap:balance}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.meta{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.card h2{font-family:var(--display);font-stretch:85%;font-weight:700;font-size:22px;line-height:1.2;margin:0;text-wrap:balance}
+.ctx{color:var(--muted);margin:0;font-size:15px}
+.assume{background:var(--assume);color:var(--assume-ink);border-radius:8px;padding:8px 12px;font-size:14px}
+.opts{display:flex;flex-direction:column;gap:10px}
+.opt{display:flex;flex-direction:column;gap:2px;text-align:left;width:100%;font:inherit;color:var(--fg);background:var(--bg);border:1.5px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer}
+.opt:hover{border-color:var(--accent)}
+.opt:focus-visible,button:focus-visible,textarea:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.opt[aria-pressed="true"]{border-color:var(--accent);background:var(--soft)}
+.opt b{font-weight:600}
+.opt small{color:var(--muted);font-size:14px}
+.tag{align-self:flex-start;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--pick);border:1px solid var(--pick);border-radius:999px;padding:1px 8px;margin-bottom:4px}
+.why{font-size:14px;color:var(--muted);border-left:3px solid var(--accent);padding-left:10px}
+label{font-size:13px;color:var(--muted);display:block;margin-bottom:4px}
+textarea,input[type=text]{width:100%;box-sizing:border-box;font:inherit;font-size:15px;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+textarea{min-height:60px;resize:vertical}
+.small{display:flex;flex-direction:column;gap:10px}
+.srow{display:flex;flex-direction:column;gap:6px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.srow:last-child{border-bottom:0}
+.seg{display:flex;gap:6px}
+.seg button{flex:1;font:inherit;font-size:14px;padding:6px;border-radius:8px;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+.seg button[aria-pressed="true"]{border-color:var(--accent);background:var(--soft)}
+.nav{display:flex;gap:10px;flex-wrap:wrap}
+.btn{font:inherit;font-weight:600;padding:10px 16px;border-radius:10px;border:1.5px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);margin-left:auto}
+.btn:disabled{opacity:.45;cursor:default}
+.status{font-size:13px;color:var(--muted);min-height:1.2em}
+.sum{display:flex;flex-direction:column;gap:8px;margin:0;padding:0;list-style:none}
+.sum li{display:grid;grid-template-columns:2.2em 1fr;gap:8px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.sum .n{font-variant-numeric:tabular-nums;color:var(--muted)}
+.sum .a{min-width:0;overflow-wrap:anywhere}
+pre.out{white-space:pre-wrap;overflow-wrap:anywhere;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px;font-size:13px;user-select:all;margin:0}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">DigiStart · plán kampaně · podklad pro campaign-plan</div>
+    <h1>Velká rozhodnutí ke kampani</h1>
+    <div class="bar" aria-hidden="true"><i id="bar"></i></div>
+    <div class="meta"><span id="pos">Karta 1 z 11</span><span id="saved"></span></div>
+  </header>
+  <main id="card" class="card" aria-live="polite"></main>
+  <div class="nav">
+    <button class="btn" id="back" type="button">Zpět</button>
+    <button class="btn" id="undo" type="button">Vrátit odpověď</button>
+    <button class="btn primary" id="next" type="button">Další</button>
+  </div>
+  <div class="status" id="status"></div>
+</div>
+
+<script>
+const CARDS=[
+ {id:"kontakty",label:"Teplé kontakty",q:"Oslovíme kromě reklamy i lidi, kteří vás už znají?",
+  ctx:"Bez teplých kontaktů musí všech 10 účastnic přijít ze studené reklamy na kurz za 15 000 Kč.",
+  assume:"Předpokládám, že seznam „AI lektoři“ v Dripu je malý a souhlas k oslovení pochází z dřívějších webinářů. Ověřím, než se něco pošle.",
+  opts:[
+   ["Štěpánčiny známé osobně","10–20 jmen, Štěpánka jim napíše nebo zavolá sama."],
+   ["Známé + jeden osobní mail účastnicím dřívějších webinářů","Nejdřív ověřím velikost seznamu a souhlas, pak jeden mail z vaší adresy."],
+   ["Jen reklama","Žádné osobní oslovení."]],
+  pick:1,why:"Lidé z vašich webinářů vás znají a ohlasy od nich už máte. Jeden mail je malá práce s nejvyšší šancí na první přihlášky."},
+ {id:"stranka",label:"Cílová stránka",q:"Na kterou stránku povede reklama?",
+  ctx:"B3 je zveřejněná a tlačítka vedou na formulář SimpleShopu. B4 je zatím koncept v Leadpages.",
+  opts:[
+   ["B3 „Chatovat s AI umíte. Teď jí dejte práci.“","Hotová, nalinkovaná."],
+   ["B4 „Vy to odkládáte, AI to bude mít za chvilku.“","Až ji doupravíte a zveřejníme."],
+   ["Obě, A/B test","Reklama rozdělí provoz napůl."]],
+  pick:0,why:"Při malém rozpočtu a cíli 10 prodejů A/B test nic průkazného neukáže. B3 je připravená hned; B4 můžeme vyměnit, až bude hotová."},
+ {id:"cilreklamy",label:"Cíl reklamy",q:"Na co má Meta reklamu optimalizovat?",
+  ctx:"Meta se učí z událostí. Nákup za 15 000 Kč přijde jednou za čas, takže se z něj nestihne naučit.",
+  assume:"Předpokládám, že pixel půjde vložit na stránku B3 i na děkovací stránku.",
+  opts:[
+   ["Návštěvy stránky","Meta hledá lidi, kteří stránku opravdu otevřou a čtou."],
+   ["Nákup (prodej)","Optimalizace na zaplacení v SimpleShopu."],
+   ["Rezervace konzultace","Optimalizace na kliknutí do TidyCalu."]],
+  pick:0,why:"Je to jediná událost, které bude dost. Nákupy i rezervace budeme stejně počítat, jen na ně Meta neoptimalizuje."},
+ {id:"konecreklam",label:"Konec reklam",q:"Kdy přesně reklamy vypneme?",
+  ctx:"Rozhodnuto 17. 10.: reklamy končí v polovině listopadu, přihlášky běží do začátku kurzu 23. 11. Jde jen o přesný den.",
+  opts:[
+   ["Čtvrtek 12. 11.","Před odjezdem do Říma. Reklama běží 4 dny."],
+   ["Neděle 15. 11.","Polovina listopadu, jak bylo rozhodnuto. 7 dní."],
+   ["Neděle 22. 11.","Až do konce přihlášek. 14 dní, mění rozhodnutí ze 17. 10."]],
+  pick:1,why:"Sedí s tím, co jste rozhodly. Čtyři dny jsou na reklamu málo, Meta se ještě nic nenaučí."},
+ {id:"rim",label:"Konzultace a Řím",q:"Co s konzultacemi, když jste 13.–18. 11. v Římě?",
+  ctx:"Reklama poběží i ve dnech, kdy nikdo nemůže telefonovat.",
+  opts:[
+   ["TidyCal zablokovat, konzultace až od 19. 11.","Zájemkyně si rezervují termín po návratu (19.–22. 11.)."],
+   ["Štěpánka telefonuje i z Říma","Pár krátkých oken denně."],
+   ["V Římě jen přímý nákup","Na stránce dočasně skrýt tlačítko konzultace."]],
+  pick:0,why:"Nejméně práce a nic se neslibuje navíc. Volné termíny 19.–22. 11. jsou ještě před začátkem kurzu."},
+ {id:"strop",label:"Strop útraty",q:"Kolik nejvýš utratíme za celé kolo reklam?",
+  ctx:"Rozhodujete se Štěpánkou, platí GNOSTIKA. U 10x ENGLISH je plán 2 000 Kč na 14 dní.",
+  assume:"Částky jsou odhad. Nemám data o ceně kliknutí ani konzultace na českém trhu.",
+  opts:[
+   ["3 000 Kč","Asi 430 Kč denně při 7 dnech."],
+   ["5 000 Kč","Asi 710 Kč denně při 7 dnech."],
+   ["8 000 Kč","Asi 1 140 Kč denně při 7 dnech."]],
+  pick:1,why:"Jedna prodaná účastnice reklamu zaplatí třikrát. Při 3 000 Kč nemusí přijít dost lidí, aby se dalo cokoli vyhodnotit."},
+ {id:"fbstranka",label:"Příspěvky na FB",q:"Kolik příspěvků na FB stránce DigiStart během kampaně?",
+  ctx:"Reklama vede ze stránky DigiStart. Příspěvky jdou přes frontu a Metricool, vy je jen schválíte.",
+  opts:[
+   ["2 týdně od 2. 11. do 22. 11.","Asi 6 příspěvků. První týden ještě bez reklamy."],
+   ["3 týdně od 2. 11.","Asi 9 příspěvků."],
+   ["Žádné nové","Jen reklama."]],
+  pick:0,why:"Kdo klikne na stránku z reklamy, uvidí, že žije. Šest příspěvků je zvládnutelné schvalování."},
+ {id:"pokonzultaci",label:"Po konzultaci",q:"Co ženám, které po konzultaci hned nekoupí?",
+  ctx:"Plán říká: žádné e-mailové sekvence.",
+  opts:[
+   ["Osobní mail od Štěpánky do 2 dnů","Claude připraví vzor, Štěpánka ho upraví podle rozhovoru."],
+   ["Krátká sekvence v Dripu","2–3 maily automaticky."],
+   ["Nic","Rozhodnou se samy."]],
+  pick:0,why:"Je to osobní a sedí na pilot s 10–20 lidmi. Sekvence by znamenala stavět automatizaci pro pár žen."},
+ {id:"konecprihlasek",label:"Konec přihlášek",q:"Připomeneme, že přihlášky končí v neděli 22. 11.?",
+  ctx:"Je to skutečný termín: v pondělí 23. 11. začíná kurz. Žádný jiný termín ani slevu kampaň nemá.",
+  opts:[
+   ["Ano, jednou","Jeden příspěvek na FB a jedna zpráva teplým kontaktům kolem 19.–20. 11."],
+   ["Ne","Termín je jen na stránce."]],
+  pick:0,why:"Je to pravda a pomůže těm, kdo váhají. Jednou, bez odpočtu."},
+ {id:"video",label:"Video",q:"Bude v prvním kole reklam video?",
+  ctx:"Do startu reklam 9. 11. zbývá 11 dní. Statické reklamy jsou podle mapy nejdůležitější.",
+  opts:[
+   ["Ne, jen 2–3 statické reklamy","Video případně ve druhém kole."],
+   ["Selfie video jedné z vás, 30–60 s","Natočíte mobilem, Claude sestříhá a otitulkuje."],
+   ["AI klip z Google Flow","Jako u zkušebního klipu s kresleným guru."]],
+  pick:0,why:"Video je ambice, ne podmínka. Nejdřív ať jsou hotové statické reklamy, pixel a stránka."},
+ {id:"male",label:"Malá rozhodnutí",small:true,q:"Tohle rozhodnu sama. Změňte, co nesedí.",
+  items:[
+   "Typ kampaně: launch. Bez slevy a bez vymyšlených termínů.",
+   "Cíl: 10 zaplacených účastnic. Rezervace (TidyCal) a objednávky (SimpleShop) kontroluju 2× týdně.",
+   "Reklamy: 2–3 statické, texty přes ads-meta-create a kontrolu zásad Meta, zakládají se pozastavené, zapínáte vy.",
+   "„Příště bude cena vyšší“ smí zaznít, bez částky a bez odpočtu.",
+   "Ohlasy z dřívějších webinářů jen jako „Nejsme v tom nové“, ne jako reference DigiStartu.",
+   "Příběh „Bez průvodce je to bolestné“ zůstává interní.",
+   "Po schválení briefu ho pošlu Štěpánce ke čtení (sdílený odkaz)."]}
+];
+const DOC="board/digistart-kampan";
+let st={answers:{},i:0}, hist=[], db=null;
+try{const s=JSON.parse(localStorage.getItem("dsboard")||"null");if(s&&s.answers)st=s;}catch(e){}
+const $=id=>document.getElementById(id);
+function ans(c){return st.answers[c.id]||(st.answers[c.id]={})}
+function persistLocal(){try{localStorage.setItem("dsboard",JSON.stringify(st));}catch(e){}}
+let saveT=null;
+function save(){persistLocal();clearTimeout(saveT);saveT=setTimeout(async()=>{
+  if(!db){$("saved").textContent="uloženo jen v prohlížeči";return}
+  try{await db.doc(DOC).set({answers:st.answers,updatedAt:new Date().toISOString()});$("saved").textContent="uloženo";}
+  catch(e){$("saved").textContent="neuloženo: "+(e&&e.code||"chyba");}},500);}
+function record(){hist.push(JSON.stringify(st.answers));if(hist.length>50)hist.shift();}
+function el(t,cls,txt){const e=document.createElement(t);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
+function render(){
+  const n=CARDS.length, done=st.i>=n;
+  $("bar").style.width=(Math.min(st.i,n)/n*100)+"%";
+  $("pos").textContent=done?"Hotovo":"Karta "+(st.i+1)+" z "+n;
+  $("back").disabled=st.i===0; $("undo").disabled=!hist.length;
+  $("next").textContent=st.i===n-1?"Shrnutí":done?"Zpět na začátek":"Další";
+  const box=$("card"); box.replaceChildren();
+  if(done){renderSummary(box);return}
+  const c=CARDS[st.i], a=ans(c);
+  box.append(el("h2",null,c.q));
+  if(c.ctx)box.append(el("p","ctx",c.ctx));
+  if(c.assume)box.append(el("div","assume","Předpokládám: "+c.assume.replace(/^Předpokládám,?\s*/,"")));
+  if(c.small){
+    const w=el("div","small");
+    c.items.forEach((t,k)=>{const r=el("div","srow");r.append(el("div",null,t));
+      const seg=el("div","seg");["Nechat","Změnit"].forEach(v=>{const b=el("button",null,v);b.type="button";
+        b.setAttribute("aria-pressed",String((a["s"+k]||"Nechat")===v));
+        b.onclick=()=>{record();a["s"+k]=v;save();render();};seg.append(b)});
+      r.append(seg); if(a["s"+k]==="Změnit"){const inp=el("input");inp.type="text";inp.id="sn"+k;inp.placeholder="Co změnit";inp.value=a["n"+k]||"";
+        inp.oninput=()=>{a["n"+k]=inp.value;save()};r.append(inp)}
+      w.append(r)});
+    box.append(w);
+  }else{
+    const o=el("div","opts");
+    c.opts.forEach((op,k)=>{const b=el("button","opt");b.type="button";b.setAttribute("aria-pressed",String(a.choice===k));
+      if(k===c.pick)b.append(el("span","tag","Moje doporučení"));
+      b.append(el("b",null,op[0]),el("small",null,op[1]));
+      b.onclick=()=>{record();a.choice=k;a.custom="";save();render();};o.append(b)});
+    box.append(o, el("div","why","Proč doporučuju: "+c.why));
+    const lw=el("div");lw.append(el("label",null,"Nebo vlastní odpověď"));const ci=el("input");ci.type="text";ci.id="c-"+c.id;ci.value=a.custom||"";
+    ci.oninput=()=>{a.custom=ci.value;if(ci.value)a.choice=null;save();};ci.onchange=render;lw.querySelector("label").htmlFor=ci.id;lw.append(ci);box.append(lw);
+  }
+  const nw=el("div");const lb=el("label",null,"Poznámka");const ta=el("textarea");ta.id="n-"+c.id;lb.htmlFor=ta.id;ta.value=a.note||"";
+  ta.oninput=()=>{a.note=ta.value;save()};nw.append(lb,ta);box.append(nw);
+}
+function answerText(c){const a=st.answers[c.id]||{};
+  if(c.small){const ch=c.items.map((t,k)=>a["s"+k]==="Změnit"?("změnit "+(k+1)+(a["n"+k]?": "+a["n"+k]:"")):null).filter(Boolean);return ch.length?ch.join("; "):"vše nechat"}
+  if(a.custom)return a.custom; if(a.choice==null)return "(bez odpovědi)"; return c.opts[a.choice][0]+(a.choice===c.pick?" (doporučení)":"")}
+function renderSummary(box){
+  box.append(el("h2",null,"Vaše odpovědi"));
+  box.append(el("p","ctx","Odpovědi se ukládají samy, Claude si je přečte. Kdyby uložení selhalo, zkopírujte text níž do chatu."));
+  const ul=el("ul","sum");const lines=[];
+  CARDS.forEach((c,k)=>{const a=st.answers[c.id]||{};const t=answerText(c)+(a.note?" | pozn.: "+a.note:"");
+    const li=el("li");li.append(el("span","n",String(k+1)),el("span","a",c.label+": "+t));ul.append(li);lines.push((k+1)+". "+c.label+": "+t)});
+  box.append(ul);const pre=el("pre","out",lines.join("\n"));
+  const cb=el("button","btn","Zkopírovat odpovědi");cb.type="button";
+  cb.onclick=async()=>{try{await navigator.clipboard.writeText(pre.textContent);$("status").textContent="Zkopírováno."}catch(e){const r=document.createRange();r.selectNodeContents(pre);const s=getSelection();s.removeAllRanges();s.addRange(r);$("status").textContent="Text je označený, zkopírujte ho ručně."}};
+  box.append(cb,pre);
+}
+$("next").onclick=()=>{st.i=st.i>=CARDS.length?0:st.i+1;persistLocal();render();scrollTo(0,0)};
+$("back").onclick=()=>{if(st.i>0){st.i--;persistLocal();render()}};
+$("undo").onclick=()=>{if(!hist.length)return;st.answers=JSON.parse(hist.pop());save();render();$("status").textContent="Poslední odpověď vrácena."};
+document.addEventListener("keydown",e=>{if(e.target.matches("input,textarea"))return;if(e.key==="ArrowRight")$("next").click();if(e.key==="ArrowLeft")$("back").click()});
+render();
+(async()=>{try{db=await window.claude?.use?.("db")}catch(e){db=null}
+  if(!db){$("saved").textContent="uloží se jen v prohlížeči";return}
+  try{const s=await db.doc(DOC).get();if(s.exists){const d=s.data();if(d&&d.answers){st.answers=d.answers;persistLocal();render()}}$("saved").textContent="ukládá se"}catch(e){$("saved").textContent="úložiště nedostupné"}})();
+</script>
