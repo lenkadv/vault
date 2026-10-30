@@ -14,7 +14,7 @@ note: Varianta 1 (s úpravou), screenshoty přiloženy - z Androidu, doupravit s
 kanban_order: V1
 publish_attempted_at: "2026-10-30T14:40:00Z"
 publish_state: prepared
-publish_note: "261030: FreshLearn 3 lekce „Naučte se mluvit... s Shadowloop“ (HELE, 10x ENGLISH, NSUA) se 2 snímky, ověřeno novým načtením; Drip série Irregular, 1. mail NA START, tip za odstavec o archivaci, uloženo v editoru v Chromu, ověřeno API (HTML i text). HELE inside, dárek a web zatím ne (rozhodne Lenka)."
+publish_note: "261030: FreshLearn 3 lekce „Naučte se mluvit... s Shadowloop“ (HELE, 10x ENGLISH, NSUA) se 2 snímky, ověřeno novým načtením; Drip série Irregular, 1. mail NA START, tip za odstavec o archivaci, uloženo v editoru v Chromu, ověřeno API (HTML i text). HELE inside, dárek a web zatím ne (rozhodne Lenka). 15:50–16:10 (Lenka „ano“): Drip HELE inside 1. mail (za pondělní úkoly), Drip workflow delivery: Shadowloop 10xE texty mail Naučte se mluvit (za větu o přihlášení), web lcenglish.cz/aplikace-shadowloop/ (WP 1531, oddíl Jak se k aplikaci snadno dostat z telefonu, 2 snímky WP média 7599 a 7600); vše ověřeno API / živou stránkou."
 published_at: "2026-10-30T14:45:00Z"
 ---
 

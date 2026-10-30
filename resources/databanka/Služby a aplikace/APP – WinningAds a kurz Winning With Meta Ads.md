@@ -11,7 +11,7 @@ tema:
   - sociální sítě
   - obrázky
 pouzij_kdyz: "příprava FB/IG reklamy: generování statických reklam, inspirace z knihovny reklam, struktura kampaně (kurz Winning With Meta Ads)"
-stav: prohlédnuto
+stav: použito
 nainstalovano: ne
 verdikt: ""
 spousteni: "web app.winningads.com, kurz join.winningads.com/l/ (samostatné přihlášení)"
@@ -27,6 +27,8 @@ soubor: ""
 **Popis:** AI generátor statických FB reklam od Wilca de Kreije (stejný autor jako GrowOS). Má knihovnu cizích reklam (Ad Spy) a jako bonus k předplatnému krátký kurz o struktuře Meta kampaní. Předplatné je roční (platba 12. 9.), koupené 12. 8. 2025.
 
 Poznámky z použití:
+
+- 261030 první ostré použití (DigiStart, vlákno WinningAds, kolo `GrowOS/digistart/work/ads/digistart-pilot-winningads-1/`): projekt založený bez webu (Training Data Mode, popis z brainu); 19 kreditů. Obrázky (fotorealistické AI scény) použitelné, **texty slabé**: vymýšlely reference a naléhavost i přes Instructions, česká diakritika v nastavení se rozbíjí (Title Case), automatická pole Proof Assets a Desires nejdou upravit. Text v obrázku Lenka nechce („vypadá divně a není v brandu“) → nástroj **Remove Text From Image** v editoru reklamy (1 kredit), text se sází v Canvě. Editor umí i změnu textu v obrázku pokynem.
 
 - 261025 prohlédnuto v Chromu, jen čtení (vlákno „Průzkum winningads.com“). Podrobný zápis a návrh postupu pro první reklamu: [[lcenglish-10x-english-sales-page]] (záznam 261025).
   - Aplikace: Ad Creator (nabídky → reklamy podle šablon), Ad Spy (14 843 reklam, Curated Ads = swipe file, vlastní sledovaní inzerenti), Settings projektu (AI předvyplní publika, touhy a problémy; Training Data a Instructions se vkládají do každého promptu; jazyk generování nastavit na češtinu). 400 kreditů, 1 reklama = 1 kredit.

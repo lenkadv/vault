@@ -8,7 +8,7 @@ created: 2026-10-30
 id: nsv1og2tq0
 skill: ""
 note: ""
-kanban_order: V9
+kanban_order: VC
 ---
 
 # DigiStart: Meta pixel na stránky v Leadpages
@@ -24,7 +24,7 @@ kanban_order: V9
 | B3 | otevření stránky | PageView + ViewContent |
 | B3 | klik na „konzultace“ (6 odkazů na TidyCal) | Lead |
 | B3 | klik na „rovnou se přihlaste“ (2 odkazy na SimpleShop) | InitiateCheckout |
-| Děkovací | otevření po zaplacení | PageView + Purchase 15 000 CZK (jednou, obnovení stránky se nepočítá znovu) |
+| Děkovací | otevření po zaplacení | PageView + Purchase 14 970 CZK (od 30. 10.; jednou, obnovení stránky se nepočítá znovu) |
 
 Pozor: Lead je **klik** na tlačítko konzultace, ne skutečná rezervace v TidyCalu. Rezervaci pixel nevidí (TidyCal je cizí web).
 
@@ -43,15 +43,15 @@ Liší se jen řádek `var PAGE=`: na B3 `'b3'`, na děkovací `'dekuji'`.
 var PAGE='b3';
 fbq('init','1089566730377496');fbq('track','PageView');
 if(PAGE==='b3'){
- fbq('track','ViewContent',{content_name:'DigiStart',value:15000,currency:'CZK'});
+ fbq('track','ViewContent',{content_name:'DigiStart',value:14970,currency:'CZK'});
  document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href]');if(!a)return;
   if(a.href.indexOf('tidycal.com')>-1)fbq('track','Lead',{content_name:'Konzultace DigiStart'});
-  else if(a.href.indexOf('simpleshop.cz')>-1)fbq('track','InitiateCheckout',{content_name:'DigiStart',value:15000,currency:'CZK'});
+  else if(a.href.indexOf('simpleshop.cz')>-1)fbq('track','InitiateCheckout',{content_name:'DigiStart',value:14970,currency:'CZK'});
  },true);
 }
 if(PAGE==='dekuji'){
  var done=false;try{done=sessionStorage.getItem('ds-buy')==='1';}catch(x){}
- if(!done){fbq('track','Purchase',{content_name:'DigiStart',value:15000,currency:'CZK'});try{sessionStorage.setItem('ds-buy','1');}catch(x){}}
+ if(!done){fbq('track','Purchase',{content_name:'DigiStart',value:14970,currency:'CZK'});try{sessionStorage.setItem('ds-buy','1');}catch(x){}}
 }
 })();
 </script>

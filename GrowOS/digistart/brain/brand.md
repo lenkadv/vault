@@ -18,6 +18,8 @@ From the audit page's local font files (`fonty.css`, open-licence fonts):
 - Body text: DM Sans
 - Handwritten accent: Caveat (used sparingly on that page)
 
+**Canva brand kit „DigiStart“** (created 2026-10-30 at Lenka's request, https://www.canva.com/brand/kAHZhNXciJE): the 7 colours above (#9B224F, #231A1D, #F1ECE6, #E8DFD5, #5E5155, #74183B, #F3D3E0); text styles Název and Nadpis = **Archivo Narrow bold** (Canva has no plain Archivo, only Archivo Narrow and Archivo Black), Hlavní text = DM Sans. No logo (see below). The Canva connector cannot set a font family in a design, so text styles are applied by hand in Canva.
+
 ## Logo
 [PLACEHOLDER: DigiStart has no logo yet. The GNOSTIKA logo on the audit page belongs to GNOSTIKA, the seller, and is not the DigiStart logo. Decide whether DigiStart gets its own mark or appears under the GNOSTIKA name.]
 

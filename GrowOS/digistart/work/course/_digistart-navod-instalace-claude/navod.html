@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jak si nainstalovat Claude do počítače</title>
+<meta name="description" content="Návod krok za krokem pro Windows i Mac: účet, předplatné Claude Pro, stažení aplikace a první zpráva.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;800&family=DM+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F1ECE6;--bg2:#E8DFD5;--text:#231A1D;--muted:#5E5155;--accent:#9B224F;--accent-dark:#74183B;--soft:#F3D3E0;--card:#FFFDFB}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 "DM Sans",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 64px}
+.brand{font:800 14px/1 "Archivo",sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+h1{font:800 clamp(30px,6vw,44px)/1.1 "Archivo",sans-serif;font-stretch:90%;margin:0 0 14px}
+h1+p{font-size:19px;color:var(--muted);margin-top:0}
+h2{font:800 26px/1.2 "Archivo",sans-serif;margin:48px 0 14px;padding-top:20px;border-top:2px solid var(--bg2)}
+a{color:var(--accent)}a:hover{color:var(--accent-dark)}
+strong{font-weight:700}
+ol{padding-left:0;list-style:none;counter-reset:krok}
+ol>li{counter-increment:krok;position:relative;background:var(--card);border-radius:14px;padding:16px 18px 16px 62px;margin:0 0 14px;box-shadow:0 1px 0 var(--bg2)}
+ol>li::before{content:counter(krok);position:absolute;left:16px;top:14px;width:32px;height:32px;border-radius:50%;background:var(--accent);color:#fff;font:700 16px/32px "DM Sans",sans-serif;text-align:center}
+ol>li p{margin:.2em 0 .5em}
+ul{padding-left:1.2em}
+figure{margin:14px 0 6px}
+img{display:block;max-width:100%;height:auto;border:1px solid var(--bg2);border-radius:10px;background:#fff}
+figure img{max-width:min(100%,380px)}
+li figure img{max-width:min(100%,520px)}
+em{color:var(--muted);font-size:15px}
+@media print{
+ body{background:#fff;font-size:12pt}
+ main{max-width:none;padding:0}
+ ol>li{box-shadow:none;border:1px solid var(--bg2);break-inside:avoid}
+ figure{break-inside:avoid}
+ li figure img{max-width:min(100%,420px)}
+ h2{break-after:avoid}
+ a{text-decoration:none}
+}
+@page{size:A4;margin:16mm 16mm 18mm}
+</style>
+</head>
+<body>
+<main>
+<div class="brand">DigiStart · návod</div>
+<h1>Jak si nainstalovat Claude do počítače</h1>
+<p><strong>Krok za krokem pro Windows i Mac: účet, předplatné Claude Pro, stažení aplikace a první zpráva.</strong></p>
+<p>Claude je umělá inteligence od americké firmy Anthropic. Můžete s ním chatovat v prohlížeči, ale v aplikaci v počítači umí mnohem víc: pracuje přímo s vašimi soubory a dokumenty, takže mu je nemusíte pokaždé nahrávat. Práce se soubory v počítači je ale dostupná jen v placených plánech, proto návod počítá s plánem Pro.</p>
+<p>Celá příprava má tři části:</p>
+<ul>
+<li><strong>A.</strong> Založíte si účet a předplatíte Claude Pro.</li>
+<li><strong>B.</strong> Stáhnete a nainstalujete aplikaci.</li>
+<li><strong>C.</strong> Přihlásíte se a vyzkoušíte, že všechno funguje.</li>
+</ul>
+<h2>Co budete potřebovat</h2>
+<ul>
+<li><strong>Počítač</strong> s Windows 10 nebo novějšími, nebo Mac se systémem macOS 13 (Ventura) nebo novějším. Pro telefon ani tabletu tenhle návod není určen.</li>
+<li><strong>E-mailovou adresu</strong>, případně účet Google nebo Apple.</li>
+<li><strong>Platební kartu.</strong> Plán Pro se platí kartou.</li>
+</ul>
+<h2>A. Účet a předplatné Claude Pro</h2>
+<p>Předplatné platíte přímo firmě Anthropic. Podle ceníku Anthropicu stojí Claude Pro <strong>20 USD měsíčně</strong>. K ceně se může připočíst daň a Anthropic cenu může změnit. Aktuální ceník je na <a target="_blank" rel="noopener" href="https://claude.com/pricing">claude.com/pricing</a>.</p>
+<figure><img alt="Ceník Anthropicu, plán Pro: 20 USD při měsíční platbě, 17 USD měsíčně při roční platbě předem" src="img/04-cenik-pro.png" /></figure>
+<ol>
+<li>
+<p><strong>Otevřete v prohlížeči stránku <a target="_blank" rel="noopener" href="https://claude.ai">claude.ai</a>.</strong>
+    Uvidíte přihlašovací okno se třemi možnostmi.</p>
+<figure><img alt="Přihlášení na claude.ai: Continue with Google, Continue with Apple, nebo e-mail a Continue with email" src="img/05-prihlaseni.png" /></figure>
+</li>
+<li>
+<p><strong>Vyberte, jak se chcete přihlašovat.</strong> Buď klikněte na „Continue with Google“ nebo „Continue with Apple“, nebo napište svou e-mailovou adresu do políčka „Enter your email“ a klikněte na „Continue with email“.
+    Když zvolíte e-mail, přijde vám do schránky zpráva s odkazem na přihlášení. Klikněte na odkaz v ní. Pokud zprávu nevidíte, podívejte se i do složky Hromadné nebo Spam.
+    <strong>Zapamatujte si, kterou cestou jste se přihlásili.</strong> Stejnou budete potřebovat i v aplikaci.</p>
+</li>
+<li>
+<p><strong>Projděte úvodní otázky</strong> a vyplňte, co je potřeba (například jméno).
+    Pak uvidíte okno s políčkem na psaní. Účet máte založený, zatím zdarma.</p>
+</li>
+<li>
+<p><strong>Klikněte vlevo dole na své jméno nebo iniciály a vyberte „Settings“ (Nastavení).</strong></p>
+</li>
+<li>
+<p><strong>Otevřete „Billing“ (Platby) a klikněte na „Upgrade plan“.</strong>
+    Uvidíte nabídku plánů.</p>
+</li>
+<li>
+<p><strong>U plánu Pro klikněte na „Get Pro plan“.</strong></p>
+</li>
+<li>
+<p><strong>Vyberte měsíční, nebo roční platbu.</strong> Měsíční vás neváže na celý rok, předplatné můžete kdykoliv zrušit. Roční platba vychází levněji v přepočtu na jeden měsíc, ale platí se najednou na celý rok dopředu.</p>
+</li>
+<li>
+<p><strong>Zadejte údaje karty a klikněte na „Subscribe“.</strong>
+    Po zaplacení uvidíte v nastavení, že máte plán Pro.</p>
+</li>
+</ol>
+<p><strong>Dobré vědět:</strong> předplatné se každý měsíc (nebo rok) samo obnovuje, pokud ho sami nezrušíte. Zrušit ho můžete kdykoli ve stejném místě, Settings → Billing, tlačítkem „Cancel“. Plán Pro pak platí do konce zaplaceného období. Aby vám nestrhli další platbu, zrušte ho pro jistotu alespoň 24 hodin před dalším datem platby.</p>
+<h2>B. Stažení a instalace aplikace</h2>
+<ol>
+<li>
+<p><strong>Otevřete v prohlížeči stránku <a target="_blank" rel="noopener" href="https://claude.com/download">claude.com/download</a>.</strong>
+    Stránka pozná, jaký máte počítač, a nahoře nabídne správné tlačítko.</p>
+<p>Na Windows uvidíte „Download for Windows“:</p>
+<figure><img alt="Stránka ke stažení na Windows: tlačítko Download for Windows, vedle Windows (arm64) a Microsoft Store" src="img/01-stazeni-windows.png" /></figure>
+<p>Na Macu uvidíte „Download for macOS“:</p>
+<figure><img alt="Stránka ke stažení na Macu: tlačítko Download for macOS" src="img/02-stazeni-mac.png" /></figure>
+</li>
+<li>
+<p><strong>Klikněte na velké černé tlačítko.</strong>
+    Na Windows platí pro většinu počítačů právě „Download for Windows“. Verze „Windows (arm64)“ je jen pro počítače se speciálním typem procesoru (například Snapdragon). Nevíte-li si rady, zvolte obyčejné „Download for Windows“.
+    Kdyby stránka nabídla něco jiného, než máte, sjeďte níž k rámečku „Desktop“ a vyberte svůj systém tam:</p>
+<figure><img alt="Rámeček Desktop: macOS, Windows a Windows (arm 64), každý s tlačítkem Download" src="img/03-stazeni-vyber.png" /></figure>
+<p>Do počítače se stáhne instalační soubor. Najdete ho ve složce Stažené soubory.</p>
+</li>
+<li>
+<p><strong>Otevřete stažený soubor dvojklikem a postupujte podle pokynů na obrazovce.</strong></p>
+<ul>
+<li><strong>Windows:</strong> instalace proběhne sama. Zeptá-li se počítač, jestli aplikaci dovolíte provádět změny, klikněte na „Ano“.</li>
+<li><strong>Mac:</strong> otevře se okno s ikonou Clauda. Přetáhněte ikonu do složky Aplikace (Applications).</li>
+</ul>
+</li>
+<li>
+<p><strong>Spusťte Clauda.</strong></p>
+<ul>
+<li><strong>Windows:</strong> v nabídce Start.</li>
+<li><strong>Mac:</strong> ve složce Aplikace. Při prvním spuštění se Mac může zeptat, jestli opravdu chcete otevřít aplikaci staženou z internetu. Klikněte na „Otevřít“.</li>
+</ul>
+<p>Uvidíte okno aplikace Claude s nabídkou přihlášení.</p>
+</li>
+</ol>
+<h2>C. Přihlášení a kontrola</h2>
+<ol>
+<li>
+<p><strong>Přihlaste se stejnou cestou jako v části A</strong>: stejným e-mailem, nebo stejným účtem Google či Apple. Uvidíte okno s políčkem na psaní.</p>
+</li>
+<li>
+<p><strong>Zkontrolujte, že máte Pro.</strong> Klikněte vlevo dole na své jméno.
+    U jména nebo v nastavení uvidíte „Pro“. Pokud tam vidíte „Free“, přihlásili jste se nejspíš jiným e-mailem nebo jiným účtem než v části A. Odhlaste se a přihlaste se tím, kterým jste platili.</p>
+</li>
+<li>
+<p><strong>Napište Claudovi první zprávu</strong>, třeba „Dobrý den, zkouším, jestli mi to funguje.“, a stiskněte Enter.
+    Za chvilku vám Claude odpoví. Hotovo, aplikace je připravená.</p>
+</li>
+</ol>
+<h2>Když se něco zasekne</h2>
+<p>Udělejte si snímek obrazovky toho, co vidíte, a podívejte se do nápovědy Anthropicu na <a target="_blank" rel="noopener" href="https://support.claude.com">support.claude.com</a>. Návod k instalaci tam najdete pod názvem „Install Claude Desktop“.</p>
+<p><em>Návod připravily Lenka Dvořáková a Štěpánka Uličná (DigiStart). Ověřeno podle stránek Anthropicu 30. 10. 2026. Anthropic svoje stránky i aplikaci průběžně mění, takže některé obrázky nebo názvy tlačítek mohou vypadat trochu jinak. Obrázky jsou snímky stránek claude.com a claude.ai.</em></p>
+</main>
+</body>
+</html>

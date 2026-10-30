@@ -6,7 +6,7 @@
 DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvořáková and Štěpánka Uličná, teach solo businesswomen to let AI do real work for them, not only to answer questions. The course is built live with the participants.
 
 ## What we sell
-- **DigiStart pilot** — **15 000 Kč** one-off, pilot price — women who already tried AI and want it to do real work; the core group is solo businesswomen and sole traders (lecturers, coaches, advisers), but the wording does not narrow it.
+- **DigiStart pilot** — **14 970 Kč** one-off, pilot price — women who already tried AI and want it to do real work; the core group is solo businesswomen and sole traders (lecturers, coaches, advisers), but the wording does not narrow it.
   - 4 live meetings, one per week. A fifth, optional and consultative, may follow later.
   - The first two meetings are fixed and do **not** include building a website (Lenka, 2026-10-14). Participants choose the topics of meetings 3 and 4; a website (AI remakes an outdated one) may be one of them, as may a month of social posts or daily mail sorting (Lenka, 2026-10-28).
   - Minimum 10 participants. 20 is a flexible upper limit: Lenka would not turn women away if more wanted to join. The page may say: "Kurz otevřeme, když se přihlásí alespoň deset účastnic." (Lenka, 2026-10-17). Sign-up stays open until the course starts; only the ads stop around mid-November.
@@ -15,17 +15,17 @@ DigiStart is a live, step-by-step pilot course in which two lecturers, Lenka Dvo
   - [PLACEHOLDER: price of other variants. None are decided.]
   - **No guarantee and no refund**, because the meetings are live workshops (Lenka, 2026-10-14).
   - **Payment is taken at once, at purchase. If the course does not open (fewer than 10 sign up), the money is returned** (Lenka, 2026-10-14). That is the one exception to "no refund".
-  - **No VAT.** Neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated or shown and the 15 000 Kč is the final price (Lenka, 2026-10-14: "DPH ne"; confirmed 2026-10-16).
+  - **No VAT.** Neither Lenka nor GNOSTIKA is a VAT payer, so no VAT is calculated or shown and the 14 970 Kč is the final price (Lenka, 2026-10-14: "DPH ne"; confirmed 2026-10-16).
   - [PLACEHOLDER: anything else in the price beyond the four meetings.]
 - **Introductory consultation** — **free**, about **30 minutes** (Lenka, 2026-10-14) — led by Štěpánka. It is before the course and **not part of it**.
 
 ## The ladder
 1. **Introductory consultation** (free, about 30 minutes, before the course, not part of it, led by Štěpánka) — a woman who wants to talk first, or buys directly.
-2. **DigiStart pilot, 15 000 Kč one-off** — four live weekly meetings with Lenka and Štěpánka; she is guided step by step through building her own AI system; the first two meetings are fixed, the later ones follow the group; no guarantee, no refund.
+2. **DigiStart pilot, 14 970 Kč one-off** — four live weekly meetings with Lenka and Štěpánka; she is guided step by step through building her own AI system; the first two meetings are fixed, the later ones follow the group; no guarantee, no refund.
 3. Optional fifth meeting, consultative, later. In the price if it is held (Lenka, 2026-10-14). [PLACEHOLDER: whether it will be held.]
 
 Path of the woman: Facebook ad → page → book a consultation, or buy straight away.
-The next run after the pilot will cost more than 15 000 Kč; the amount is not decided (Lenka, 2026-10-28).
+The next run after the pilot will cost more than 14 970 Kč; the amount is not decided (Lenka, 2026-10-28).
 [PLACEHOLDER: other variants, a free first step, and anything after the pilot such as an evergreen version are not decided.]
 
 ## The hard facts (never contradict these)
@@ -33,9 +33,11 @@ The next run after the pilot will cost more than 15 000 Kč; the amount is not d
 - Name: **DigiStart** — **confirmed** (Lenka, 2026-10-14)
 - Lecturers: Lenka Dvořáková and Štěpánka Uličná — **confirmed** (Lenka, 2026-10-14)
 - **GNOSTIKA** sells, invoices and pays for the ads. Fallback: Lenka's own system through FAPI, to be decided by 21 October — **confirmed** as the plan; the fallback decision is open
-- Pilot price **15 000 Kč** — **confirmed** (Lenka, 2026-10-14). The 35 000 Kč in the older pilot outline is replaced.
+- Pilot price **14 970 Kč** — **confirmed** (Lenka and Štěpánka, 2026-10-30: changed from 15 000 Kč because it looks better; first confirmed 15 000 Kč on 2026-10-14). The 35 000 Kč in the older pilot outline is replaced.
 - 4 meetings, one per week; min 10, flexible upper limit 20 (not a hard cap) — **confirmed** (Lenka, 2026-10-14)
 - Dates: **four Mondays 17:00–20:00, 23 Nov – 14 Dec 2026**, fifth optional meeting after Christmas — **confirmed** (Lenka and Štěpánka, 2026-10-20)
+- Meetings run on **Zoom**; links go out by e-mail. Every meeting is **recorded**, and the recording goes to all participants by e-mail the next morning. **No certificate** is offered (one may be issued on request, but the page and texts do not offer it) — **confirmed** (Lenka on the DigiStart map, 2026-10-30)
+- Participants' working folder is named **DigiStart** (not "dgs"; short enough to avoid path-length problems) — **confirmed** (Lenka, 2026-10-30)
 - Course must end in the middle of December; Thursday is impossible for Lenka (school until 19:00); Wednesday is better; Lenka and Štěpánka are in Rome from Friday 13 Nov to Wednesday 18 Nov — **confirmed** (internal planning, not for publication)
 - DigiStart itself is a **one-off course** with one price. It sells no subscription. Separate question: guiding participants to an AI system of their own in Claude is the chosen variant, and **each participant needs her own paid Claude Pro plan** (bought from Anthropic, not from DigiStart) — **confirmed** (Lenka, 2026-10-17). The page says it openly.
 - Price of that monthly Claude plan (Pro): "$20" billed monthly, or "$200" a year up front ("$17" a month); no EUR or CZK price shown; prices exclude tax — **checked on claude.com/pricing 2026-10-17**. The same page, same day: "Skills" Yes on Free and Pro (custom vs built-in not split); "Projects" Free up to 5; "Connectors" Yes on Free; "Claude for Microsoft Outlook" and "Claude Code" only on paid plans; Cowork (work with local files) "rolling out to Pro and Max". So variant B (Claude working with her own files and mail) in practice needs Pro — my reading, to confirm with Lenka against the content of the meetings before the page states it.

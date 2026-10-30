@@ -8,7 +8,7 @@ id: 4cnfo9rokc
 business: digistart
 channel: course
 created: 2026-10-28
-kanban_order: V0
+kanban_order: V3
 ---
 
 # Proč DigiStart běží na Claudu

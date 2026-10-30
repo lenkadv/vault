@@ -123,9 +123,11 @@ def main():
     all_tasks, all_karty = vault_tasks(), cards(sys.argv[1])
     tasks = [t for t in all_tasks if t["soubor"] not in OWN_MAP]
     on_map = lambda k: k["_soubor"] in OWN_MAP or k.get("oblast") in OWN_MAP.values()
-    pointers = [k for k in all_karty if k.get("typ") == "rozcestnik"]
-    karty = [k for k in all_karty if k.get("typ") != "rozcestnik" and not on_map(k)]
-    map_cards = [k for k in all_karty if k.get("typ") != "rozcestnik" and on_map(k)
+    # rozcestník může stát i v pruhu Průběžně (`typ: prubezne`, Lenka 261030)
+    is_pointer = lambda k: k.get("typ") == "rozcestnik" or (k.get("typ") == "prubezne" and on_map(k))
+    pointers = [k for k in all_karty if is_pointer(k)]
+    karty = [k for k in all_karty if not is_pointer(k) and not on_map(k)]
+    map_cards = [k for k in all_karty if not is_pointer(k) and on_map(k)
                  and (k.get("stav") or "otevreno") != "hotovo"]
     no_pointer = [f for f, o in OWN_MAP.items() if not any(k.get("oblast") == o for k in pointers)]
     by_key = {t["klic"]: t for t in tasks}
@@ -164,7 +166,7 @@ def main():
     missing = [t for t in vault_only if not (t["datum"] and t["datum"] > today)]
     dated = [t for t in vault_only if t["datum"] and t["datum"] > today]
     live = lambda k: (k.get("stav") or "otevreno") != "hotovo"
-    lost = [k for k in karty if k["id"] not in paired and live(k)]
+    lost = [k for k in karty if k["id"] not in paired and live(k) and k.get("stav") != "pozdeji"]  # pozdeji = someday
     in_gtd = lambda k: k["_soubor"].startswith("projects/") or k["_soubor"] == "gtd/next-actions.md"
     board_only = [k for k in lost if in_gtd(k)]
     no_task = [k for k in lost if not in_gtd(k)]

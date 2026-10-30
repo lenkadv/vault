@@ -7,16 +7,17 @@ platform: Substack (artforenglish.substack.com)
 title: Kolik času nám zbývá?
 subtitle: Maria van Oosterwijck, zátiší s lebkou a trpný rod
 date: 2026-11-03
-status: draft
+status: approved
 id: rwjlhfc9c7
 business: lcenglish
 channel: articles
 created: 2026-10-30
 skill: ""
 note: ""
+kanban_order: VD
 ---
 
-<!-- Zrcadlo schváleného NL #29 (methodology 6b): bez pozdravu a podpisu, pomlčky „–“, výzva k odpovědi převedena na komentáře, obrázek s proklikem na KHM, tlačítko Subscribe za odstavec před obrázkem, Share před P.S. Publikuje Lenka. -->
+<!-- Zrcadlo schváleného NL #29 (methodology 6b): bez pozdravu a podpisu, pomlčky „–“, výzva k odpovědi převedena na komentáře, obrázek s proklikem na KHM, tlačítko Subscribe za odstavec před obrázkem, Share před P.S. Publikuje Lenka. 261030 19:50 sladěno s finální verzí v Dripu (překlepy opomenotu/vyjádřuje opraveny), schváleno Lenkou v chatu („Substack dodělej podle Dripu“). -->
 
 # Kolik času nám zbývá?
 
@@ -26,9 +27,9 @@ Mám doma na zdi staré kyvadlové hodiny. Moje prababička je dostala jako svat
 
 Hodiny cestu přežily vcelku. Jenom nešly.
 
-Prababička je stejně pověsila na zeď. Byly krásné a nejspíš to byla ta nejcennější věc v celém jejich skromném hospodářství. Měření času jim asi ani nechybělo. I bez nich věděli, kdy sít, kdy podojit krávu a kdy jít do kostela.
+Prababička je stejně pověsila na zeď. Byly krásné a nejspíš to byla ta nejcennější věc v celém jejich skromném hospodářství. Měření času jim asi ani nechybělo. I bez hodin věděli, kdy sít, kdy podojit krávu a kdy jít do kostela.
 
-Před pár lety jsem je nechala opravit a každou celou hodinu krásně odbíjejí. Pokaždé mi připomenou, že čas běží, ať se mi to líbí, nebo ne.
+Před pár lety jsem je nechala opravit a každou celou hodinu teď krásně odbíjejí. Pokaždé mi připomenou, že čas běží, ať se mi to líbí, nebo ne.
 
 Včera byly Dušičky, den, kdy na ty, kdo už s námi nejsou, vzpomínáme víc než jindy. Na rodiče, dědečky, prababičky...
 
@@ -38,7 +39,7 @@ Pomíjivost času si lidé uvědomovali odedávna. A připomínali si to o dost 
 
 (IMAGE: nl-thumb.jpg – Maria van Oosterwijck, Vanitas, s proklikem https://www.khm.at/en/artworks/vanitas-still-life-1370-1)
 
-Tohle zátiší namalovala v roce 1668 holandská malířka Maria van Oosterwijck. Na první pohled je to přehlídka krásných věcí: kytice tulipánů, růží a karafiátů, glóbus, flétna, motýli.
+[Tohle zátiší](https://www.khm.at/en/artworks/vanitas-still-life-1370-1) namalovala v roce 1668 holandská malířka Maria van Oosterwijck. Na první pohled je to přehlídka krásných věcí: kytice tulipánů, růží a karafiátů, glóbus, flétna, motýli.
 
 A mezi nimi lebka, vedle ní přesýpací hodiny a na stole jen pár mincí.
 
@@ -50,12 +51,12 @@ Trochu se proti téhle pomíjivosti přece jenom bojovat dá. Můžete se třeba
 **Women *were not accepted* into the painters' guild.** Ženy do malířského cechu nepřijímali.
 **The clock *was given* to my great-grandmother as a wedding gift.** Hodiny dostala moje prababička jako svatební dar.
 
-Tvar *was / were* + třetí tvar slovesa (*painted, accepted, given*) je trpný rod. Hodí se, když je důležitější, co se stalo, než kdo to udělal. U hodin je důležitá moje prababička, ne to, kdo přesně je přinesl. A když přece jen chcete říct kdo, přidáte *by*: *It was painted by Maria van Oosterwijck.*
+Tvar *was / were* + třetí tvar slovesa (*painted, accepted, given*) je trpný rod. Hodí se, když je důležitější, co se stalo, než kdo to udělal. V případě mých hodin je mnohem důležitější svatba mé prababičky než ten, kdo hodiny přinesl. Ale kdybyste ho přece jen nechtěli opomenout, přidáte *by*: *It was painted by Maria van Oosterwijck.* (Kdo přinesl hodiny, nevím.)
 
-Čeština to často vyjádří jinak (ženy nepřijímali, babička dostala), proto nám Čechům trpný rod v angličtině připadá nepřirozený. Angličtina ho ale používá ráda – a vůbec u toho netrpí :-)
+Čeština to často vyjadřuje jinak (nepřijímali ženy, babička dostala), proto nám Čechům trpný rod v angličtině připadá nepřirozený. Angličtina ho ale používá ráda – a vůbec u toho netrpí :-)
 
 Máte i vy doma věc po někom blízkém? Zkuste o ní napsat jednu větu anglicky do komentářů: *It was given to me by… / It was made in…*
 
 [TLAČÍTKO: Share]
 
-P.S. Kolik času máte na angličtinu? Jestli jen pár minut denně, zkuste kurz [10x ENGLISH](https://lcenglish.cz/10x-english): sto krátkých dialogů ze skutečného života, nahrávky v plné rychlosti i na 80 % tempa. *It was made for* lidi, kteří moc času nemají.
+P.S. Kolik času máte na angličtinu? Jestli jen pár minut denně, zkuste kurz [10x ENGLISH](https://lcenglish.cz/10x-english): sto krátkých textů a dialogů ze skutečného života. *It was made for* lidi, kteří moc času nemají.

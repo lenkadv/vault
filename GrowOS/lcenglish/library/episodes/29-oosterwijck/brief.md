@@ -5,12 +5,12 @@ painting: "Vanitas-Stillleben (Vanitas Still Life; Vanitas, zátiší)"
 artist: "Maria van Oosterwijck (1630–1693)"
 year: "1668 (datováno na hraně stolu)"
 institution: "Kunsthistorisches Museum Wien, Gemäldegalerie, GG 5714 (vystaveno, sál XII)"
-grammar: "quantifiers (revize): a lot of / a few / a little / much / many"
+grammar: "trpný rod v minulém čase: was / were + 3. tvar (změněno z quantifiers, které byly v #21; Lenka 2026-10-30)"
 publish-newsletter: 2026-11-03
 publish-carousel: pozastaveno
 ---
 
-# Epizoda 29 — Maria van Oosterwijck: Vanitas, quantifiers
+# Epizoda 29 — Maria van Oosterwijck: Vanitas, trpný rod
 
 Připraveno dopředu 2026-10-19 (test jednotného postupu přes frontu GrowOS). **Rekapitulace podle curricula** (řádek #29): 3. 11., quantifiers (revize), Zátiší, **dílo „k upřesnění“**, hook 2. 11. Dušičky — klidnější téma.
 
@@ -28,7 +28,21 @@ Připraveno dopředu 2026-10-19 (test jednotného postupu přes frontu GrowOS). 
 - **Prodej v P.S. (návrh):** 10x ENGLISH, 1.270 Kč, https://lcenglish.cz/10x-english — fakta z business.md: 100 krátkých dialogů z reálného života, nahrávky v plné rychlosti i na 80 % tempa. Navázáno na „kolik času nám zbývá“ (krátké dialogy = málo času). Rotace: #27 10x, #28 HELE, #29 10x, #30 Nepravidelná slovesa.
 - **Úvod:** vstup přes včerejší Dušičky (ne „zítra je“ jako #28).
 
+## Změna 2026-10-30
+
+Lenka v poznámce k frontě: quantifiers už byly v #21 Colosseum (8. 9.). Gramatika změněna na trpný rod (was/were + 3. tvar), v A4E zatím nebyl. Hook z Lenčina proslovu na Toastmasters o kyvadlových hodinách po prababičce: Google Doc „TM4“ https://docs.google.com/document/d/1qb0p5oT9hNf4h4PZuHDPrzgkvK1mZvWSZECvat6izDo/edit (francouzská verze „Des horloges et des hommes“ ve stejné složce). Fakta z proslovu: svatební dar 7. 10. 1907, stěhování vozem asi 30 km, hodiny nešly, ale visely na zdi; Lenka je nechala opravit, odbíjejí každou hodinu.
+
 ## Kanonické věty (zdroj pravdy — změna zde = update ve všech souborech)
+
+| # | Anglicky | Highlight | Česky |
+|---|---|---|---|
+| 1 | This still life **was painted** in 1668. | was painted | Tohle zátiší bylo namalováno v roce 1668. |
+| 2 | Women **were not accepted** into the painters' guild. | were not accepted | Ženy do malířského cechu nepřijímali. |
+| 3 | The clock **was given** to my great-grandmother as a wedding gift. | was given | Hodiny dostala moje prababička jako svatební dar. |
+
+Věta 2 podle EN Wikipedie (viz Ověřená fakta), věta 3 podle Lenčina proslovu.
+
+### Původní kanonické věty (quantifiers, nepoužito)
 
 | # | Anglicky | Highlight | Česky |
 |---|---|---|---|
@@ -51,9 +65,12 @@ Gramatický klíč:
 | Soubor | Popis | Stav |
 |---|---|---|
 | [brief.md](brief.md) | Tento soubor | ✅ |
-| `work/email/29-oosterwijck/newsletter.md` | Work item, fronta GrowOS | ⏳ review |
+| `work/email/29-oosterwijck/newsletter.md` | Work item, fronta GrowOS | ✅ approved 261030 |
+| Drip 477195050 | Naplánováno út 3. 11. 8:04 (Lenka); duplikát #28, text = schválená verze, thumbnail s proklikem na KHM, preheader „Hodiny po prababičce, lebka mezi květinami a trpný rod, který vůbec netrpí“; čas odeslání nastaví Lenka (z kopie zůstal 31. 10.) | ⏳ naplánovat |
+| `work/articles/29-oosterwijck/substack.md` | Substack zrcadlo (approved 261030), koncept https://artforenglish.substack.com/publish/post/222831462 s tlačítky a proklikem obrázku | ✅ naplánováno út 3. 11. 8:32 (https://artforenglish.substack.com/p/kolik-casu-nam-zbyva) |
+| `work/social/29-oosterwijck/facebook-vanitas.md` | FB upoutávka varianta C (approved), koncept v Metricoolu út 3. 11. 12:30 https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-3579729961484464345 | ⏳ zveřejní Lenka |
 | van-oosterwijck-vanitas-still-life-1668.jpg | Reprodukce 1420 × 1165 px, 0,5 MB, Wikimedia Commons, public domain | ✅ |
-| nl-thumb.png | Thumbnail z Canvy (Lenka) | ⏳ |
+| nl-thumb.jpg | Thumbnail 1200 × 800 z Canvy: strana 1 návrhu „Art4English Episodes thumbnail“ (obraz z KHM https://www.khm.at/pics/1370/GG_5714_202111_benetzt_2.jpg, 3000 px); uloženo a staženo Claudem přes konektor 2026-10-30 | ✅ |
 
 ## Text pro Canvu (thumbnail)
 
@@ -61,7 +78,7 @@ Gramatický klíč:
 MARIA VAN OOSTERWIJCK: VANITAS STILL LIFE
 1668, Kunsthistorisches Museum, Vienna, Austria
 ```
-Pill (gramatický cíl): `quantifiers`
+Pill (gramatický cíl): na thumbnailu žádný štítek s gramatikou není (ověřeno v Canvě 2026-10-30).
 
 ## Obraz
 

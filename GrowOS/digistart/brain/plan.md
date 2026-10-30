@@ -3,7 +3,7 @@
 > DigiStart's marketing on one page. Written 2026-10-14 from the brief, the campaign plan (`resources/digistart-kampan-plan.md`, vault), the two research dossiers and Lenka's answers in the setup chat. It is Lenka's file: edit it when the focus changes. Strategy and `#next-action` steps live in the vault project `projects/digistart.md`. Production lives here as work items.
 
 ## What we sell and who it is for
-**The DigiStart pilot, 15 000 Kč**: four live weekly meetings, built step by step with the participants, where AI does real work for a solo businesswoman. It is for solo businesswomen and sole traders (lecturers, coaches, advisers) who already tried AI and are disappointed that it stayed at asking questions. Details in [[business]] and [[audience]]. The audience picture is thin and **unchecked**: it comes from the two lecturers' own view, not from customers.
+**The DigiStart pilot, 14 970 Kč**: four live weekly meetings, built step by step with the participants, where AI does real work for a solo businesswoman. It is for solo businesswomen and sole traders (lecturers, coaches, advisers) who already tried AI and are disappointed that it stayed at asking questions. Details in [[business]] and [[audience]]. The audience picture is thin and **unchecked**: it comes from the two lecturers' own view, not from customers.
 
 ## Where we are today
 

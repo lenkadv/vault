@@ -10,7 +10,7 @@ id: shegn11kj8
 business: digistart
 channel: pages
 created: 2026-10-21
-kanban_order: V8
+kanban_order: VB
 ---
 
 # DigiStart pilot: prodejní stránka, koncept B3 „Rada, nebo práce“

@@ -34,7 +34,7 @@ The system will steer clear of these.
 ## Rules of thumb
 - Talk to the participant as a woman in her own business who already tried AI as a smarter search engine. *(rough: persona in `projects/digistart.md`)*
 - Say what she can do, not what she will be given. *(rough: zadání 2026-10-14)*
-- Participants are written in the generic feminine: "účastnice", "zaneprázdněná". *(confirmed by Lenka in the brief)* **But with care (Lenka 2026-10-28):** a man may sign up too, so transactional texts (order form, payment, confirmations) use the plural or neutral wording ("Nejste si jistí?", "Ještě váháte?"). See `lessons/2026-10-28-formular-rod-a-hlas.md`.
+- Participants are written in the generic feminine: "účastnice", "zaneprázdněná". *(confirmed by Lenka in the brief)* **But with care (Lenka 2026-10-28):** a man may sign up too, so transactional texts (order form, payment, confirmations) use the plural or neutral wording ("Nejste si jistí?", "Ještě váháte?"). See `lessons/2026-10-28-formular-rod-a-hlas.md`. **Sales pages (Lenka with Štěpánka, 2026-10-30):** the reader is addressed in the plural, as a group ("nedostali", "jste si jistí", "sami"), not in the feminine, so a man who lands on the page is not put off. Feminine stays only where women speak about themselves (the lecturers, Lenka's own story, real testimonials). See `lessons/2026-10-30-prodejni-stranka-plural.md`.
 - Never mention the reader's age in any text, especially ads. *(confirmed in the brief; Meta policy)*
 - The word is "hook", never "hák". *(confirmed in the brief)*
 - No puffed-up marketing: not "revoluční", not "zázračné", nothing in that spirit. It is about tone, not a fixed word list. *(confirmed by Lenka, 2026-10-14)*

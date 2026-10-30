@@ -121,8 +121,10 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] FB k #26: koncept v Metricoolu (Tady Lenka, 13. 10. 15:00, text „Dvě svatby, jeden rozvod…“, thumbnail z Dripu, první komentář s odkazem na Substack; https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-2452399304780397900) — zkontrolovat a naplánovat / zveřejnit ✅ 2026-10-13 — Lenka: vše nastavené, zbývá jen zveřejnění z Metricoolu; kontrola, že prošlo, je ve [[waiting-for]] (14. 10.)
 - [x] Po odeslání #26 (13. 10.): finální text z Dripu do `library/episodes/26-kahlo/newsletter.md`, porovnání se zveřejněnou verzí → lekce, kopie do `brain/samples/`, „Vydané díly“, curriculum, Substack zrcadlo ověřit, čas epizody je zapsaný ✅ 2026-10-13 — Lenka 13. 10.: vše je už všude nastavené
 - [x] Po odeslání #27: ověřeno, fronta `published`, finální text v `library/episodes/27-friedrich/newsletter.md` a `brain/samples/`, Vydané díly, curriculum ✅ 2026-10-20 — Drip 919204975 sent 7:53, Substack 7:24, FB Tady Lenka 12:30 published; jediná Lenčina změna v Dripu „někde“ → „někdy“ (bez nové lekce)
-- [ ] Dopsat hook do A4E #29 Oosterwijck a schválit ho #next-action #online 📅 2026-11-02
-    - Kontext: #29 vychází út 3. 11.; draft je v GrowOS frontě (`work/email/29-oosterwijck/`, review), chybí jen Lenčin hook k Dušičkám (otázky v draftu).
+- [x] Dopsat hook do A4E #29 Oosterwijck a schválit ho ✅ 2026-10-30 — hook hodiny po prababičce (proslov TM4), gramatika změněna na trpný rod (quantifiers byly v #21), Lenka schválila ve frontě (`approved`)
+- [x] Připravit A4E #29 v Dripu, na Substacku a na FB k odeslání 3. 11. ✅ 2026-10-30
+- [ ] Po odeslání #29 ověřit Drip, Substack a FB a uzavřít epizodu #next-action #online 📅 2026-11-03
+    - Kontext: schválený text v `GrowOS/lcenglish/work/email/29-oosterwijck/newsletter.md`. 261030: vše připraveno na út 3. 11.: Drip 477195050 (8:04), Substack https://artforenglish.substack.com/p/kolik-casu-nam-zbyva (8:32), FB upoutávka Tady Lenka jako koncept v Metricoolu na 12:30 (https://app.metricool.com/planner/calendar?blogId=6083106&openWithPostUuid=-3579729961484464345), zveřejní Lenka. ⚠️ V Dripu opravit překlepy „opomenotu“ a „vyjádřuje“.
 
 ### Přihlašovací stránka /newsletter/
 
@@ -138,7 +140,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 
 - **Poslední newsletter:** #28 Alfons Mucha, Apoteóza ze Slovanské epopeje (řadové číslovky a data), „Dárek s podmínkou“ — odesláno út 27. 10. 2026 8:01 (Drip 53124723), Substack 8:27 (https://artforenglish.substack.com/p/darek-s-podminkou), FB Tady Lenka zveřejněno. **Epizoda uzavřena 261027** (finální text v `library/episodes/28-mucha/`, kopie v `brain/samples/`, fronta `published`).
 - **Přihlašovací stránka /newsletter/ (261030):** od 30. 10. na ní je obraz Fragonard, *Čtoucí dívka* (Vermeer vyměněn, byl moc tmavý; ověřeno na počítači i mobilu).
-- **Další výstup:** NL #29 Oosterwijck, út 3. 11. (v review, hook bez termínu); #30 El Greco 10. 11. rozpracované (261024).
+- **Další výstup:** NL #29 Oosterwijck, út 3. 11. (vše naplánováno 261030: Drip 8:04, Substack 8:32, FB koncept 12:30); #30 El Greco 10. 11. rozpracované (261024).
 - **Curriculum (261027):** listopad–prosinec schválen, #29–#37 až do 29. 12. (Delacroix, af Klint, Hiroshige, Morisot, Lilly Martin Spencer, Lada, Whistler). Plán na leden–červen 2027 do 30. 11. ([[waiting-for]]).
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.
 - **#25 (261004):** gramatika upřesněna na mustn't × don't have to (nesmíš × nemusíš); výřez z Bosche vybírá Lenka; FB upoutávka se zkusí už k #25 (nemusí vyjít ve stejný den, odběratelé mají díl dřív); v NL zkusit přechod k nabídce po vzoru Kennedyho místo stálého podpisu.

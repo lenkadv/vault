@@ -10,10 +10,14 @@ business: digistart
 channel: pages
 created: 2026-10-28
 note: dál budeme ladit přímo v Leadpages
-kanban_order: V4
+kanban_order: V7
 ---
 
 # DigiStart pilot: prodejní stránka, koncept B4 „Buď AI, nebo nikdo“
+
+**Zveřejněno 30. 10. 20:05** na Lenčin pokyn: https://lenka-dvorakova.lpcontent.net/JVOVVq7o6D (noindex, nofollow). Před zveřejněním smazán žlutý pruh „Koncept B4“ a „(koncept B4)“ z titulku. Ověřeno stažením: žádná žlutá místa, 8 odkazů na TidyCal, 4 na SimpleShop, odkaz na ochranu osobních údajů; v prohlížeči pixel poslal PageView a ViewContent. Chybí popis a obrázek pro sdílení (Facebook ukáže „View this page published on Leadpages“).
+
+**Stav 30. 10. 19:40:** Lenka prošla koncept v Leadpages a dala poznámky; Claude zapracoval do konceptu (verze 229, nezveřejněno): prázdná zatržítka na lístku „Na seznamu od dubna“, přepínač asistent/asistentka i ve scéně, v Lenčině příběhu a ve FAQ, oslovení v plurálu (lesson 2026-10-30), text mezi claimy v bloku „Buď AI, nebo nikdo“, odkazy na SimpleShop a TidyCal, patička s IČ, sídlem a obchodními podmínkami (ochrana údajů = čl. 10 podmínek), vyrovnaná výška bloku „Proč to samo nejde“, text „Během týdne“, háček, FAQ (čas, záznamy, další běh), 6 referencí. Lokální `B4.html` je starší, zdroj pravdy je Leadpages.
 
 **Co to je:** nová varianta vedle B3 (B3 se nemění).
 
@@ -99,7 +103,7 @@ Pak dostanou konečně příležitost i nápady, které jste dávno vzdala, prot
 **Body:**
 DigiStart jsou čtyři živá online setkání, vždy v pondělí 17:00–20:00: 23. 11., 30. 11., 7. 12. a 14. 12. 2026. Krok za krokem si na nich postavíte AI asistenta, který pracuje s vašimi soubory a poštou. Po Vánocích bude ještě páté, konzultační setkání.
 
-Pilotní cena je 15 000 Kč (konečná cena, jedna splátka). Navíc potřebujete předplatné Claude (alespoň ve verzi Pro, platíte přímo firmě Anthropic). 
+Pilotní cena je 14 970 Kč (konečná cena, jedna splátka). Navíc potřebujete předplatné Claude (alespoň ve verzi Pro, platíte přímo firmě Anthropic). 
 
 [Přihlásit se do kurzu] [PLACEHOLDER: odkaz na objednávkový formulář SimpleShop GNOSTIKY]
 Chcete si to nejdřív probrat? Konzultace se Štěpánkou je zdarma.
@@ -262,7 +266,7 @@ Pokud vás něco z toho odradilo, nevadí. Jen to znamená, že DigiStart teď n
 * příležitost vyzkoušet si všechno přímo během setkání, s lektorkou po ruce
 
 Celkem 12 hodin živě s lektorkami ve 4 setkáních.
-**15 000 Kč** · Pilotní cena, jednorázově.
+**14 970 Kč** · Pilotní cena, jednorázově.
 
 [Chci konzultaci zdarma]
 Půl hodiny se Štěpánkou, nezávazně. Nebo se rovnou přihlaste. [PLACEHOLDER: odkaz na objednávkový formulář SimpleShop GNOSTIKY]
@@ -348,7 +352,7 @@ Lenka a Štěpánka
 **Body:**
 Projdete spolu, co ve své práci děláte a jestli vám DigiStart sedne. Řekne vám to na rovinu, i kdyby to znamenalo „zatím ne“. Rozhodnete se až potom.
 
-[Rezervovat konzultaci] [Rovnou se přihlásit · 15 000 Kč] [PLACEHOLDER: odkaz na objednávkový formulář SimpleShop GNOSTIKY]
+[Rezervovat konzultaci] [Rovnou se přihlásit · 14 970 Kč] [PLACEHOLDER: odkaz na objednávkový formulář SimpleShop GNOSTIKY]
 **Addresses objection:** „Nevím, jestli je to pro mě.“
 **Visual:** plain text
 **Weight:** standard

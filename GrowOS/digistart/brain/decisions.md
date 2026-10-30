@@ -5,6 +5,14 @@
 > reason is not lost. Newest goes on top. The system reads this to understand your
 > thinking; you and the system both add to it over time.
 
+## 2026-10-30: the sales page is B4
+**Decided (Lenka with Štěpánka, 30. 10. 20:11):** the campaign uses sales page B4 („Vy to odkládáte, AI to bude mít za chvilku“), https://lenka-dvorakova.lpcontent.net/JVOVVq7o6D . B3 stays as it is and is not fixed further.
+**Why:** not stated in the chat.
+
+## 2026-10-30: the sales page speaks in the plural
+**Decided (Lenka with Štěpánka):** the sales page addresses the reader in the plural, as if speaking to a group, not in the generic feminine. The audience is still women.
+**Why:** people are used to it, and a man who finds the page should not feel it is not for him.
+
 _Add a new entry at the top. A date, what you decided, and the why in a line or two
 is all it needs._
 
@@ -20,6 +28,16 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 7. **Quoting Štěpánka:** she agrees (Lenka). With her name, or anonymously? Confirm when first used.
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), the exact price after the pilot (decided after the pilot; that it will be higher is settled, entry 2026-10-28).
+
+## 2026-10-30: sales page B4 on digistart.cz
+- Lenka, 21:30: the agreed sales page is **B4**, not B3. B4 is the home page of digistart.cz (Leadpages site DigiStart); B3 is off the domain. This settles the B3/B4 choice from the 2026-10-29 Decision Board.
+
+## 2026-10-30: payment due in 1 day, two reminders within a week
+- Lenka, 19:12: an order is due **1 day** after sign-up (people book a consultation and should pay right away). Reminder 1 goes 2 days after the due date, reminder 2 two days later; no third reminder. Everything fits within a week. Set in SimpleShop (product DigiStart due days 1; account reminders 2 and 4 days after due, sending switched on).
+- Lenka, 19:27: SimpleShop e-mails go out from **ulicna@gnostika.cz** instead of the SimpleShop address; Štěpánka sets it up (own sender address, DKIM on gnostika.cz).
+
+## 2026-10-30: price 14 970 Kč
+- Lenka (with Štěpánka), 18:19: the pilot price is **14 970 Kč** instead of 15 000 Kč, "because it looks better". Already set in SimpleShop (product 160078). Test orders went through by bank transfer and by card (Stripe). Lenka approved the change on the live B3, the pixel values (B3 and thank-you page), the B4 draft and the call script; published 18:44.
 
 ## 2026-10-30: Meta pixel without a cookie consent bar
 - Lenka, 14:57: the Meta pixel goes on B3 and the thank-you page **without a cookie consent bar**; it fires on page open. Claude had proposed a consent bar (its reading of the Czech e-communications law, opt-in since 2022, not checked with a lawyer). Pixel "DigiStart dataset" 1089566730377496, linked to ad account GNOSTIKA DigiStart (Lenka, checked 14:58).
