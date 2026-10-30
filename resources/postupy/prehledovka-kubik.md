@@ -41,6 +41,22 @@ Každé téma běží ve **vlastním vlákně** (šetří kontext hlavního vlá
 4. Pilot jednoho tématu (návrh: Karolínská a otonská renesance, II. 4), schválení vzoru, pak po jednom tématu.
 5. Stav zpracování vést v tabulce níže.
 
+## Lenčiny ruční poznámky 2024/25 přes Gemini (261030)
+
+Lenka fotí ruční poznámky z přednášek 2024/25 a nechává je přepsat v Gemini (přepis má chyby, ale dá se číst). Slouží k doplnění mezer v nahrávkách. Prověřeno 261030:
+
+| Zdroj | Přednáška | K čemu |
+|---|---|---|
+| Doc [Kubík přednáška 241015 1](https://docs.google.com/document/d/10AdafAeTtsq2sIp8gKgtXF8f5tqrQLkp4sTbwiHmU1g/edit) | 2. přednáška, 15. 10. 2024: paleolit, mezolit, neolit (Göbekli Tepe, Bylany), začátek eneolitu | **mezera v 01**: paleolit (v nahrávkách chybí, dosud jen slajdy) |
+| Gemini chat „Přepis poznámek z dějin umění“ (gemini.google.com/app/d36fc6dffaa56922), 1 odpověď | bez data; dějiny oboru (Hegel, Waagen, Winckelmann, Berenson, Caylus). Odhad: 1. přednáška 8. 10. 2024 (nenahraná), neověřeno | úvod předmětu, do témat 01–19 nepatří |
+| Gemini chat „Přepis pravěku“ (gemini.google.com/app/144ac37c8c1b9d5a), odpovědi 1–4 | 29. 10. 2024: Egypt (Abydos, Stará, Střední, Nová říše, Tutanchamon) | téma 02, nahrávka existuje, jen kontrola |
+| tamtéž, odpovědi 5–6 | 5. 11. 2024: kykladská kultura (jen řádek a nákres idolů), Kréta, Mykény, protogeometrický styl | **mezera v 03**: Kyklady, ale jen heslovitě |
+| tamtéž, odpovědi 7–10 | 12. 11. 2024: dórský řád, tyranie, vázy, perské války, Periklés, peloponéská válka, Myrón, Diův chrám, Polykleitos | téma 04a, nahrávka existuje, jen kontrola |
+
+**Postup (Lenka 261030):** do Docu „Kubík přednáška 241015 1“ jde jen to, co doplňuje mezery (15. 10. paleolit až eneolit; 5. 11. jedna stránka „Mínojská kultura … Agamemnonova maska – abstrakce“, vložena 261030 za zalomení stránky). Lenka přepis opraví podle ručních poznámek, **teprve pak** Claude doplní do Doců 01 a 03 jen to, co v nich není (zdroj v Poznámkách ke kontrole: Lenčiny ruční poznámky 2024/25). Do té doby z přepisů Gemini nic nepřebírat, jsou v nich chyby čtení.
+
+**Alexandrijská škola (04b) doplněna 261030** z Lenčiných ručních poznámek z 19. 11. 2024 (nadiktovala v chatu; nahrávka `7a Řecko` = pravděpodobně 26. 11. 2024, začíná pergamskou školou). Doplněno i do odstavce Urbanismus (podíl městského obyvatelstva, pouliční osvětlení). **01 a 03 doplněny 261030** z opravených přepisů: 01 oddíl 2 (starší paleolit až Göbekli Tepe, 9 bodů), Shrnutí, Poznámky (rozpor stanová × sedlová střecha, data k ověření); 03 kykladská kultura a Evans (oddíl 1), keramika 18. století (oddíl 5), Poznámky, tabulka Ke státnicím. Mezery v nahrávkách tím pokryté; Becho (Závist) a Amiens v poznámkách nejsou.
+
 ## Stav
 | Krok | Stav |
 |---|---|

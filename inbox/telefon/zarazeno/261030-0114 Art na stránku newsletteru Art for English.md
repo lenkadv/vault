@@ -1,0 +1,1 @@
+Dát na stránku s přihlášením k newsletteru Art for English nějaký art.

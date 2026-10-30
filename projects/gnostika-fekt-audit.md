@@ -6,7 +6,9 @@
 
 ## Aktuální stav
 
-261029: Lenka i Claude prošli zprávu od Štěpánky; komentáře obou (Claude jako samostatný autor) jsou v `Stažené\Závěrečná zpráva FEKT VUT_revLD+Claude261029.docx`. Lenka je 29. 10. večer poslala Štěpánce. Na SharePointu se nic neměnilo (tam půjde až odladěná verze, zapracovává Štěpánka). Část za pana Župku (vedoucí OSIS) pošle Štěpánka v pátek 30. 10. i s fakturou. Lenka teď nemá akci, projekt proto záměrně nemá next action (stejně jako 261020: Štěpánka se ozve).
+261029 22:40: Tajemnice FEKT poprosila Lenku, co by měl obsahovat kompetenční příkaz děkana směrem k proděkanům a tajemnici. Ve smlouvě ani v nabídce výslovně slíbený není, ale spadá pod sjednané „pracovní podklady pro tajemnici“ (smlouva čl. III odst. 1 c). Claude připravil osnovu ([Google Doc](https://docs.google.com/document/d/1AS89Th8upLRZGZt7Pfvw1r6674-Q8a70HhsqX1LAqQg/edit)); jednorázový výstup, žádný navazující úkol (Lenka 22:50). Jinak se čeká na Štěpánku (připomínky ke zprávě, část za pana Župku, faktura 30. 10.), projekt záměrně bez next action.
+
+Dříve 261029: Lenka i Claude prošli zprávu od Štěpánky; komentáře obou (Claude jako samostatný autor) jsou v `Stažené\Závěrečná zpráva FEKT VUT_revLD+Claude261029.docx`. Lenka je 29. 10. večer poslala Štěpánce. Na SharePointu se nic neměnilo (tam půjde až odladěná verze, zapracovává Štěpánka). Část za pana Župku (vedoucí OSIS) pošle Štěpánka v pátek 30. 10. i s fakturou. Lenka teď nemá akci, projekt proto záměrně nemá next action (stejně jako 261020: Štěpánka se ozve).
 
 Dříve 261020: Závěrečná zpráva je na Štěpánčině straně, pracuje na ní ona. Lenka teď nemá žádnou akci a není to ani čekání ve waiting-for; Štěpánka se ozve, až bude něco potřebovat (Lenka 261020). Projekt proto záměrně nemá next action.
 
@@ -32,6 +34,10 @@ Rozsah: 10 oddělení děkanátu FEKT, ~65 zaměstnanců. Cena zakázky 493 000 
 _Žádná. Čeká se na Štěpánku (zapracování připomínek, část za pana Župku a faktura 30. 10.)._
 
 ## Záznam (nejnovější nahoře)
+
+261029 22:42–22:50: Osnova opravena v Google Docu i v kopii na Disku (bod 6: příkazce a správce na děkanátu upravuje R 39/2020, děkan příkazce, tajemnice správkyně; zmírněné body 4 a 5; bez odkazů na kapitoly zprávy). Lenka: jednorázový výstup, úkol a karta na tabuli zrušeny.
+
+261029 22:23–22:40: Dotaz tajemnice na kompetenční příkaz. Claude prošel nabídku z 21. 8. (příloha č. 1), podepsanou smlouvu o dílo 015974/2026/00, zápis z rozhovoru s tajemnicí 12. 8., OŘ FEKT 2026, RD 4/2026 a kap. 3 a 6 závěrečné zprávy. Výslovně slíbený není; spadá pod doporučení k vymezení pravomocí (smlouva čl. I/3, III/1b) a pracovní podklady pro tajemnici (III/1c); hotové právní znění normy by bylo nad rámec (čl. VI/6). Osnova (10 oddílů + podpisový řád jako příloha) v `FEKT VUT\Průběžné výstupy\Kompetenční příkaz – osnova pro tajemnici (261029).md`, navazuje na doporučení č. 1 zprávy.
 
 261029 19:41: Lenka poslala zprávu s komentáři Štěpánce (soubor `Závěrečná zpráva FEKT VUT_revLD+Claude261029.docx`). Práce na zprávě celkem 16:50–19:41 (Lenka pracovala i mimo chat) → evidence hodin ř. 16.
 

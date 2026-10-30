@@ -94,8 +94,9 @@ the answer you wrote is never used.
 
 ### Ads
 - Channel: ads
-- Provider: Meta Ads (Lenka's choice, 2026-10-14). The DigiStart ad account does not exist yet. LCEnglish's accounts are another business and are not used.
-- Destination id: [PLACEHOLDER: the ad account ID, exactly as the platform shows it — the account the system writes to]
+- Provider: Meta Ads (Lenka's choice, 2026-10-14). LCEnglish's accounts are another business and are not used. The first DigiStart portfolio (1997193427623921) was restricted by Meta; everything runs in the portfolio "DigiStart" owned via GNOSTIKA (business id 28970423829284366).
+- Destination id: 1810451009996396 (ad account "GNOSTIKA DigiStart", CZK, Europe/Prague, GNOSTIKA's card; checked via the Meta connector and confirmed by Lenka 2026-10-30)
+- Pixel (dataset): 1089566730377496 ("DigiStart dataset", created 2026-10-30 in the GNOSTIKA portfolio; cannot be moved or deleted). Linked to the ad account GNOSTIKA DigiStart: yes (Lenka, checked via the connector 2026-10-30 14:58). Code for the pages: `work/pages/digistart-meta-pixel.md` (no cookie bar, Lenka's decision 2026-10-30). Live on B3 and the thank-you page since 2026-10-30 15:02 (first event received).
 - Page or asset id: [PLACEHOLDER: the page the ads run from, by ID]
 - Route: [PLACEHOLDER: connector / api / manual]
 - How far to go: safe-state
@@ -119,7 +120,7 @@ the answer you wrote is never used.
 
 ### Other tools
 - Consultation booking: TidyCal, Štěpánka's own account (ulicna@gnostika.cz). **Booking link: https://tidycal.com/ulicna/digistart** (Lenka 2026-10-24; the older slug /ulicna/konzultace now redirects). Every consultation button on every sales page variant (B2, B3 and any new one) links here directly, from the first draft.
-- Selling, invoicing: **SimpleShop of GNOSTIKA CONSULTING, s.r.o.** (decided by Lenka and Štěpánka 2026-10-28; SimpleShop issues the invoices itself, no Fakturoid). Product DigiStart, product id 160078 (edit: https://app.simpleshop.cz/produkty/crud/160078/). Order form: https://form.simpleshop.cz/V5KQb/buy/ ; product detail with description: https://form.simpleshop.cz/V5KQb/ . Payments: card via Stripe (still to be activated), bank transfer KB (account to be checked by Lenka). Contact on the form: ulicna@gnostika.cz. Settings are changed only after Lenka approves a queue item (`work/pages/digistart-simpleshop-formular.md`). Thank-you page after payment (approved by Lenka 2026-10-28): Leadpages https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 (noindex; editor https://leadpages.com/edit/x3lph1iq1ji8i1vhh03r061a), set in the product as "URL po uhrazení" (not "URL po objednání", which would redirect bank-transfer buyers before they pay). Meta pixel not on it yet.
+- Selling, invoicing: **SimpleShop of GNOSTIKA CONSULTING, s.r.o.** (decided by Lenka and Štěpánka 2026-10-28; SimpleShop issues the invoices itself, no Fakturoid). Product DigiStart, product id 160078 (edit: https://app.simpleshop.cz/produkty/crud/160078/). Order form: https://form.simpleshop.cz/V5KQb/buy/ ; product detail with description: https://form.simpleshop.cz/V5KQb/ . Payments: card via Stripe (still to be activated), bank transfer KB (account to be checked by Lenka). Contact on the form: ulicna@gnostika.cz. Settings are changed only after Lenka approves a queue item (`work/pages/digistart-simpleshop-formular.md`). Thank-you page after payment (approved by Lenka 2026-10-28): Leadpages https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 (noindex; editor https://leadpages.com/edit/x3lph1iq1ji8i1vhh03r061a), set in the product as "URL po uhrazení" (not "URL po objednání", which would redirect bank-transfer buyers before they pay). Meta pixel on it since 2026-10-30 (Purchase event, `work/pages/digistart-meta-pixel.md`).
 
 ## How far GrowOS may go
 

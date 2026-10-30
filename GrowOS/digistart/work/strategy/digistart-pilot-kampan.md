@@ -10,7 +10,7 @@ business: digistart
 channel: strategy
 created: 2026-10-29
 note: ještě potřebujeme připravit scénář konzultace pro Štěpánku
-kanban_order: V0
+kanban_order: V2
 ---
 
 # DigiStart pilot – plán kampaně

@@ -7,9 +7,7 @@
 
 ## Aktuální stav
 
-261029 16:48: **Brief kampaně je schválený** ([[GrowOS/digistart/work/strategy/digistart-pilot-kampan|brief kampaně]], `approved`): reklamy **9.–20. 11.** (návštěvy stránky, strop 5 000 Kč předběžně), stránka B3, teplé kontakty, FB 2× týdně 2.–22. 11., scénář konzultace a sekvence v Dripu „AI lektoři“ po konzultaci, víc kreativ (statické, WinningAds, AI video). Checklist přípravy je srovnaný do šesti linií, každá má jednu next action; výstupy kampaně žijí jen v briefu a vyrábějí se po řádcích na Lenčino „go“. **Další krok: go na statické reklamy (řádek 3)**; souběžně scénář konzultace, ověření reklamního účtu, B4 a co účastnice dostane po zaplacení. Otevřené body briefu: starý webinářový seznam, souhlas s maily po konzultaci.
-
-Předchozí stav 261029 13:55: plán kampaně ve frontě ke schválení (Decision Board https://claude.ai/artifact/Q5trYatrHksUQ3GktQa8ff).
+261030 15:45: **Příprava kampaně do ne 8. 11., reklamy 9.–20. 11., kurz od 23. 11.** Hotové: brief kampaně (29. 10.), 4 statické reklamy schválené (30. 10.), pixel běží na B3 a děkovací stránce (30. 10.), prodej přes SimpleShop GNOSTIKY. **Na prvním místě je teď prodejní stránka** (bez ní reklamy nepoběží): nejdřív se Štěpánkou rozhodnout B3, nebo B4, pak ji dokončit (brief řádek 14). Souběžně scénář konzultace a co účastnice dostane po zaplacení; FB příspěvky, WinningAds a video až po nich. Čeká na Štěpánku: Stripe, převod, pozvánka do FB stránky. Přehled a rozhovory u kroků: [dashboard](https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j).
 
 Předchozí stav 261028 22:50: **Prodejní cesta v SimpleShopu GNOSTIKY je nastavená až po děkovací stránku.** Formulář https://form.simpleshop.cz/V5KQb/buy/ (detail s popisem https://form.simpleshop.cz/V5KQb/): 15 000 Kč, karta (Stripe) a převod, faktury vystavuje SimpleShop, obchodní podmínky GNOSTIKY upravené. Po zaplacení vede na děkovací stránku https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 (Leadpages, noindex, „URL po uhrazení“). Stripe a převod na nový účet 3124063015/3030 má Štěpánka (waiting-for). **Další krok: rozhodnout, kam povede tlačítko objednávky z B3**, pak testovací objednávka (ověří i přesměrování po kartě). Další v pořadí mapy: pixel a reklama. Vedle B3 se ladí varianta **B4** (koncept v Leadpages).
 
@@ -21,13 +19,13 @@ Předchozí stav 261024 (weekly review): Staví se komerční pilot (varianta B,
 
 ## Projektová mapa (261027)
 
-**Dashboard:** https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j (soukromý; kroky, termíny, Štěpánka, rozhodnutí; Lenka tam odškrtává dílčí kroky a píše poznámky). Při každé změně mapy nebo dokončení kroku ho Claude přepíše přes ArtifactData (kolekce `kroky`, `rozhodnuti`, `milniky`, doc `dash/stav`); zdroj pravdy zůstává tenhle soubor.
+**Dashboard:** https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j (soukromý; od 261030 přestavěný jako tabule: linie podle priority, v každé karta „teď na řadě“ a další kroky, u každé karty rozhovor; Lenka může linie přeřadit šipkami a krok označit Hotovo). Data v db artefaktu: `linie/*`, `ukoly/*`, `milniky/*`, `dash/stav` (staré kolekce `kroky` a `rozhodnuti` už stránka nečte). Při každé změně v projektu ho Claude přepíše; zdroj pravdy zůstává tenhle soubor. Postup [[resources/postupy/tabule]] („Dashboard DigiStartu“).
 
 Co je důležité a co počká. Schválila Lenka 261027 s úpravami: „co dostane účastnice po zaplacení“ patří před start prodeje a hned po fakturaci a Metě je nejdůležitější reklama. Při změně priorit mapu přepsat, ne přidávat další.
 
 **Větve:** (1) cesta zájemkyně: reklama → stránka B3 → konzultace nebo objednávka → platba → uvítání; (2) Meta a reklama; (3) kurz: setkání, technika, záznamy a odkazy pro účastnice; (4) inspirace a výzkum: Danny Iny, případy z praxe, videoreklama.
 
-**TEĎ, do 9. 11. (start reklam):** přepsáno 261029 po schválení briefu kampaně. Platí linie v oddíle „Příprava kampaně: linie“ níž, v tomto pořadí priority: (1) výroba kampaně podle briefu, (2) Meta a pixel, (3) konzultace, (4) prodejní stránka, (5) co účastnice dostane po zaplacení a kurz, (6) platba (čeká na Štěpánku). Kdo prodává (SimpleShop GNOSTIKY) a Meta přes Štěpánku jsou vyřešené (28. 10.).
+**TEĎ, do 9. 11. (start reklam):** přeřazeno 261030. Platí linie v oddíle „Příprava kampaně: linie“ níž, v tomto pořadí priority: (1) prodejní stránka, (2) konzultace, (3) co účastnice dostane po zaplacení a kurz, (4) výroba kampaně podle briefu, (5) Meta a FB stránka, (6) platba (čeká na Štěpánku). Kdo prodává (SimpleShop GNOSTIKY) a Meta přes Štěpánku jsou vyřešené (28. 10.).
 
 **POTOM, do 23. 11. (start kurzu):** technika setkání (délka, záznam, osvědčení, Zoom/Meet); cíl a výstup setkání 1–2; úpravy balíčku podle Štěpánčiny zpětné vazby; vysvětlení „proč Claude“ (hodí se i do „Připravte se“ a FAQ).
 
@@ -166,47 +164,41 @@ Přesně **50 hodin**, 4 bloky. Sestaveno pro personu výše (žena 40+, chce le
 - [x] Projít seznam otevřených rozhodnutí DigiStartu (brain `decisions.md`) — 261017 rozhodnuto: reklamy končí v polovině listopadu, přihlášky běží až do začátku kurzu; věta o deseti účastnicích platí; Claude Pro je nutný; FAQ přepsat; zbylé otevřené body jsou v checklistu níž ✅ 2026-10-17
 
 ### Příprava kampaně: linie (srovnáno 261029 po schválení briefu)
-Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Linie na sobě nezávisí a jsou seřazené podle priority; v každé je nanejvýš jedna `#next-action`, ostatní kroky jsou bez tagu a přijdou na řadu po ní. Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
+Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně). Linie na sobě nezávisí a jsou seřazené podle priority (přeřazeno 261030: stránka první, protože bez ní reklamy nepoběží; pořadí se dá měnit šipkami na dashboardu); v každé je nanejvýš jedna `#next-action`, ostatní kroky jsou bez tagu a přijdou na řadu po ní. Přehled pro Štěpánku: viz níž „Přehled pro Štěpánku“.
 
 **Výstupy kampaně sem nepatří.** Příspěvky na FB, reklamy (statické, WinningAds, AI video), založení reklam, maily, texty TidyCalu, úpravy B3 a vyhodnocení jsou řádky schváleného [[GrowOS/digistart/work/strategy/digistart-pilot-kampan|briefu kampaně]] (`approved` 261029, id 4jmspo7toz). Vyrábějí se po jednom na Lenčino „go“ a každý výstup jde přes frontu GrowOS ke schválení. Tady je jen jedna next action, která ukazuje na další řádek briefu.
 
-#### Linie 1: Výroba kampaně podle briefu (všechno hotové do ne 8. 11., reklamy 9.–20. 11.)
-- [ ] Schválit 4 statické reklamy DigiStartu ve frontě GrowOS #next-action #online
-    - Kontext (261029 17:25): řádek 3 briefu hotový do `review`: `GrowOS/digistart/work/ads/digistart-pilot-staticke-1/` (DGS-IMG-1029-01 Rada, nebo práce · 02 Návod uložený na potom · 03 Lenčina ranní svodka · 04 Cena předem a otevřeně). Kontrola zásad Meta prošla s poznámkou: před spuštěním musí být hotová B3 (řádek 14). Po schválení next action = go na FB příspěvky 3. a 6. 11. (řádky 1–2).
-    - Kontext (261029): po hotovém řádku se next action posune na další řádek briefu podle data: FB příspěvky 3. a 6. 11. (řádky 1–2), WinningAds (4, nejdřív tam založit projekt DigiStart), AI video ve stylu Kristine Mirelle (5), založení reklam pozastavených v ne 8. 11. (6; zapíná L 9. 11.). Ke statickým reklamám: výzkum reklam konkurence (`ads-meta-research`), postup [[ABM – Static Ad Framework]], texty bez věku čtenářky (`ads-meta-compliance`), projít [[pripady-z-praxe-claude]].
-- [ ] Vybrat s Claudem z [[pripady-z-praxe-claude]] příklady pro DigiStart a reklamu
-    - Kontext (Lenka 261026): úklid disku, ranní svodka, weby a mapa webu jako vlastní případové studie, „abych tě mohla chválit i jinde“. Udělat při psaní textů reklam (řádek 3).
+#### Linie 1: Prodejní stránka (B3 https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2 · B4 https://leadpages.com/edit/t4oow6qi3394so3jl4jsy336 · B2 https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u, zatím nemazat)
+- [ ] Doupravit stránku DigiStart B4 v Leadpages #next-action #online
+    - Kontext (Lenka 261030): o B3, nebo B4 se rozhodne, až bude B4 hotová.
+    - Kontext (Lenka 261028): koncept nepublikovaný; text a komentáře zapracovány 261028, další úpravy přímo v editoru. Pak Claude přenese změny do položky `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`. Kampaň zatím běží na B3; jestli B4 B3 nahradí (nebo A/B test), rozhodne L se Š, až bude B4 hotová (brief 261029). Žlutá místa Claude zkontroluje na obou stránkách před spuštěním.
+    - Úpravy B3 jsou brief řádek 14 (C, na „go“): žlutá místa (datum, setkání, Claude Pro, věta o deseti účastnicích, údaje GNOSTIKY; rozhodnuto 261017), věty o Lence a Štěpánce (Š schválí svou), fotky lektorek (portréty 2024) a snímek webu GNOSTIKY o auditech, FAQ včetně „Je moje pošta v bezpečí?“ (Lence se současné FAQ nelíbí), kontrola textu 9 body, mobil, český popis a náhled pro sdílení (audit 261021: zatím anglický výchozí text Leadpages, og:locale en_US).
+- [ ] Rozhodnout se Štěpánkou, jestli kampaň poběží na B3, nebo B4
+    - Kontext (261030): dřív než se stránka dodělá (brief řádek 14), ať se nedodělává B3, kterou pak B4 nahradí. Zatím platí B3 (brief 29. 10.). Bez hotové stránky reklamy 9. 11. nespustíme.
+- [ ] Kde hostovat digistart.cz: Leadpages (vlastní doména), nebo Lenčin hosting (lenkadvorakova.cz, lcenglish.cz) — L
+- [ ] Doména digistart.cz napojit (podle rozhodnutí o hostingu) — L s C
+    - Kontext (Lenka 261028): na doménu převést prodejní stránku i děkovací stránku. Pak v SimpleShopu GNOSTIKY (produkt DigiStart → Ostatní → „URL po uhrazení“) přepsat adresu děkovací stránky z https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 na novou a změnit odkazy na B3 (reklamy, FB, lenkadvorakova.cz). Tlačítka objednávky na B3 vedou na form.simpleshop.cz, ta se mění jen tehdy, kdyby formulář dostal vlastní doménu.
+- [ ] Před spuštěním: zapnout indexování, smazat koncepty A, B, C — C
+- [ ] Přidat kartu DigiStart do nabídky na lenkadvorakova.cz (třetí karta vedle školení), až bude prodejní stránka venku — C
 
-#### Linie 2: Meta a pixel (do 8. 11.)
-- [ ] Ověřit v reklamním účtu měnu (CZK), časové pásmo a kartu GNOSTIKY #next-action #online
-    - Kontext: L/Š, portfolio DigiStart za GNOSTIKU je od 28. 10. hotové.
-- [ ] Pixel, propojení stránky, účtu a pixelu, ID do `setup.md` — C
-- [ ] Š přijme pozvánku jako správkyně FB stránky (pozvána 17. 10.) — Š
-- [ ] Vymyslet systém, jak pohodlně přidávat příspěvky na FB stránku (Metricool je připojený, značka DigiStart) — L s C
-    - Kontext (brief 261029): příspěvky 2× týdně 2.–22. 11. se píšou skillem `social-write` a plánují přes Metricool; tenhle krok řeší jen pohodlí a rytmus.
 
-#### Linie 3: Konzultace (do 8. 11.)
-- [ ] Připravit s Claudem scénář konzultace pro Štěpánku #next-action #online
+#### Linie 2: Konzultace (do 8. 11.)
+- [ ] Schválit scénář konzultace pro Štěpánku ve frontě GrowOS #next-action #online
+    - Kontext (261030): návrh `GrowOS/digistart/work/sales/digistart-scenar-konzultace.md` (`review`) z Lenčina dokumentu „Sales Call“ (2022, https://docs.google.com/document/d/1FG5sKGxQox2i7HoHDMutuBwOSIUX411JfFaMz72mwcs/edit) a „Phone Sales Training“ z kurzu High Ticket Courses (https://drive.google.com/file/d/130uASb8f0w6XxkZwgvMMm5cxHWSEMICG/view). Upraveno: cena otevřeně, bez nátlaku, fáze rozhodování A–D pro Drip. Pak Štěpánka upraví do svého hlasu.
     - Kontext (Lenka 261029, brief kampaně řádek 12b): průběh 30 minut, otázky, komu kurz nepomůže, jak říct cenu, odpovědi na námitky, na konci fáze rozhodování. C návrh, Š upraví. Jde první, protože fáze rozhodování z něj převezme propojení se Dripem i sekvence. Hotové do 8. 11.
 - [ ] Vymyslet s Claudem propojení konzultací se Dripem
     - Kontext (Lenka 261029, brief kampaně řádek 12a): Štěpánka po konzultaci někde zaškrtne, že proběhla, a v jaké fázi rozhodování zájemkyně je; e-mail se předá do Dripu „AI lektoři“ a podle fáze běží sekvence 2–3 mailů (brief řádek 12). Ideálně automaticky. Souvisí se souhlasem se zasíláním mailů (rezervace v TidyCalu souhlas není; Lenka ještě rozhodne). Hotové do 8. 11.
 - [ ] Formulář před konzultací — C návrh, L schválí
 - [ ] Tabulka zájemkyň (kdo, kdy, výsledek) — C
 
-#### Linie 4: Prodejní stránka (B3 https://leadpages.com/edit/w5t2224tp5cwkeek7afhldy2 · B4 https://leadpages.com/edit/t4oow6qi3394so3jl4jsy336 · B2 https://leadpages.com/edit/l90xuuhf7w95rv2890tl2j6u, zatím nemazat)
-- [ ] Doupravit stránku DigiStart B4 v Leadpages #next-action #online
-    - Kontext (Lenka 261028): koncept nepublikovaný; text a komentáře zapracovány 261028, další úpravy přímo v editoru. Pak Claude přenese změny do položky `GrowOS/digistart/work/pages/digistart-prodejni-stranka-b4.md`. Kampaň zatím běží na B3; jestli B4 B3 nahradí (nebo A/B test), rozhodne L se Š, až bude B4 hotová (brief 261029). Žlutá místa Claude zkontroluje na obou stránkách před spuštěním.
-    - Úpravy B3 jsou brief řádek 14 (C, na „go“): žlutá místa (datum, setkání, Claude Pro, věta o deseti účastnicích, údaje GNOSTIKY; rozhodnuto 261017), věty o Lence a Štěpánce (Š schválí svou), fotky lektorek (portréty 2024) a snímek webu GNOSTIKY o auditech, FAQ včetně „Je moje pošta v bezpečí?“ (Lence se současné FAQ nelíbí), kontrola textu 9 body, mobil, český popis a náhled pro sdílení (audit 261021: zatím anglický výchozí text Leadpages, og:locale en_US).
-- [ ] Kde hostovat digistart.cz: Leadpages (vlastní doména), nebo Lenčin hosting (lenkadvorakova.cz, lcenglish.cz) — L
-- [ ] Doména digistart.cz napojit (podle rozhodnutí o hostingu) — L s C
-    - Kontext (Lenka 261028): na doménu převést prodejní stránku i děkovací stránku. Pak v SimpleShopu GNOSTIKY (produkt DigiStart → Ostatní → „URL po uhrazení“) přepsat adresu děkovací stránky z https://lenka-dvorakova.lpcontent.net/DEsHgCcug9 na novou a změnit odkazy na B3 (reklamy, FB, lenkadvorakova.cz). Tlačítka objednávky na B3 vedou na form.simpleshop.cz, ta se mění jen tehdy, kdyby formulář dostal vlastní doménu.
-- [ ] Před spuštěním: pixel na stránce, zapnout indexování, smazat koncepty A, B, C — C
-- [ ] Přidat kartu DigiStart do nabídky na lenkadvorakova.cz (třetí karta vedle školení), až bude prodejní stránka venku — C
 
-#### Linie 5: Co účastnice dostane po zaplacení, a kurz (po zaplacení do 9. 11., kurz do 23. 11.)
-- [ ] Navrhnout s Claudem, co účastnice dostane po zaplacení #next-action #online
+#### Linie 3: Co účastnice dostane po zaplacení, a kurz (po zaplacení do 9. 11., kurz do 23. 11.)
+- [ ] Navrhnout s Claudem, co účastnice dostane po zaplacení
     - Kontext (Lenka 261027): musí být jasné do 9. 11., než se začne prodávat. Uvítací mail, „Připravte se“ (vzor Get Ready v [[resources/digistart-vzor-platforma-ai-strategist]]) a kam půjdou záznamy a odkazy. Kurz je záměrně živý; záznamy asi přes YouTube a jedna stránka, kde je vše pohromadě, možná na vlastním webu místo platformy (platforma není o moc bezpečnější, přihlašovací údaje se dají sdílet taky). Nerozhodnuto.
-- [ ] Napsat s Claudem pro účastnice návod na stažení a instalaci aplikace Claude
+- [ ] Schválit návod na instalaci aplikace Claude ve frontě GrowOS #next-action #online
+    - Kontext (261030): návod napsalo samostatné vlákno, je v `GrowOS/digistart/work/course/` v `review`; pár míst ověřit naostro (viz položka).
+    - Kontext (261030 15:45): návod napsán, čeká na Lenčino schválení ve frontě GrowOS (`GrowOS/digistart/work/course/digistart-navod-instalace-claude.md`, `review`). Po schválení doplnit odkaz do uvítacího textu (placeholder v `digistart-proc-claude.md`).
+    - Kontext (Lenka 261030): předřazeno, budeme ho potřebovat každopádně.
     - Kontext (Lenka 261028, poznámka k textu „proč Claude“): kurz běží v aplikaci v počítači, ne v chatu; uvítací text na návod odkazuje (placeholder v `GrowOS/digistart/work/course/digistart-proc-claude.md`). Patří do balíčku „co účastnice dostane po zaplacení“.
 - [ ] Délka a čas setkání, záznam ano/ne, osvědčení ano/ne — L + Š
 - [ ] Technika setkání (Zoom nebo Meet, odkaz, nahrávání) — L + Š
@@ -214,16 +206,31 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
     - Kontext: Obsah setkání 1–2: cíl a co si účastnice odnese — L; představa: v podstatě to, co Lenka testovala se Štěpánkou při zkušebním průchodu (balíček); může počkat (261018)
 - [ ] Projít se Štěpánčinou zpětnou vazbou ze zkušebního průchodu (mail z 11. 10.) a zapracovat úpravy do skillů a návodů balíčku (krátká cesta C:\dgs, kontrola délky cest, citlivé údaje ve vzorcích, nevymýšlet fakta v osobním profilu, pojistky u pošty, blok „pod pokličkou“) — L s C
 
-#### Linie 6: Platba (čeká na Štěpánku, sleduje [[waiting-for]]; next action tu proto není)
-- [ ] Zprovoznit platby kartou přes Stripe v SimpleShopu GNOSTIKY — předáno Štěpánce 261028
-- [ ] Založit v SimpleShopu GNOSTIKY platbu převodem na nový účet 3124063015/3030 — předáno Štěpánce 261028
-    - Kontext (Lenka 261028 20:58): nový účet místo KB. Číslo účtu do SimpleShopu zadává Lenka sama (Nastavení → Platby / způsoby úhrady), Claude ho do formulářů nevyplňuje. Pak u produktu DigiStart zapnout novou platbu a KB vypnout (to udělá Claude, stačí říct).
-- [ ] Testovací objednávka celou cestou — L
+
+#### Linie 4: Výroba kampaně podle briefu (všechno hotové do ne 8. 11., reklamy 9.–20. 11.)
+- [ ] Dát Claudovi „go“ na reklamy z WinningAds (brief řádek 4) #next-action #online
+    - Kontext (261030): nejdřív ve WinningAds založit projekt DigiStart. Pak AI video (řádek 5), založení reklam pozastavených v ne 8. 11. (řádek 6). FB příspěvky přesunuty do linie 5 (Lenka 261030).
+- [ ] Vybrat s Claudem z [[pripady-z-praxe-claude]] příklady pro DigiStart a reklamu
+    - Kontext (Lenka 261026): úklid disku, ranní svodka, weby a mapa webu jako vlastní případové studie, „abych tě mohla chválit i jinde“. Udělat při psaní textů reklam (řádek 3).
+
+
+#### Linie 5: FB stránka a příspěvky (příspěvky přes frontu GrowOS a Metricool)
+- [ ] Dát Claudovi „go“ na FB příspěvky 3. a 6. 11. (brief řádky 1–2) #next-action #online
+    - Kontext (261030): statické reklamy (řádek 3) schválené 30. 10., `GrowOS/digistart/work/ads/digistart-pilot-staticke-1/`; zakládají se pozastavené v ne 8. 11. (řádek 6), až bude pixel a hotová B3 (řádek 14). Další řádky podle data: WinningAds (4), AI video (5).
+- [ ] Š přijme pozvánku jako správkyně FB stránky (pozvána 17. 10.) — Š
+
+
+#### Linie 6: Platba (karta i převod nastavené, zbývá test)
+- [ ] Udělat se Štěpánkou testovací objednávku celou cestou #next-action #online
+    - Kontext (261030): karta (Stripe) i převod na účet 3124063015/3030 jsou v SimpleShopu nastavené (Claude 28. 10. 22:55, formulář 30. 10. nabízí obojí); test ověří platbu, fakturu, děkovací stránku, pixel u nákupu a jestli je účet u Stripe ostrý.
     - 261028 23:05: návod pro Štěpánku (testovací režim, převod s ruční úhradou, karta testovací kartou nebo 15 Kč, úklid, co poslat Lence): https://claude.ai/artifact/QacHz5aWBn4BZZ8P75LGt2 (soukromý, Lenka ho musí nasdílet).
     - Postup (zjištěno 261028 22:55, nápověda SimpleShopu https://podpora.redbit.cz/navod/testovaci-rezim/ a https://podpora.redbit.cz/navod/platebni-brana-stripe/): u produktu zapnout Testovací režim (Obecné informace) → doklady dostanou vodoznak a vlastní číselnou řadu, nepočítají se do poplatku, ve formuláři je vidět štítek „test“. Převod: objednat na vlastní mail, zkontrolovat stránku po objednání (QR, variabilní symbol) a mail; pak v SimpleShopu zadat úhradu ikonou platby u dokladu (ne psát datum do pole „Zaplaceno“) a zkontrolovat mail po zaplacení. Karta: testovací karty Stripe jen u ještě neschváleného účtu Stripe; u ostrého účtu nápověda radí dočasně cenu 15 Kč, zaplatit vlastní kartou a vrátit ve Stripe. Číslo karty zadává Lenka. Nakonec testovací režim vypnout a nabídnutou volbou smazat testovací doklady.
     - Kontext (261028): kartou až po zprovoznění Stripe. Převodem zkontrolovat, kde se na stránce po objednání ukážou platební údaje a QR kód, a jestli mail po zaplacení obsahuje text (proměnná `productMailText` musí být v šabloně e-mailu, SimpleShop → Šablony).
 
+
 #### Hotové z přípravy kampaně (checklist 261017–261029, ponecháno kvůli kontextu)
+- [x] Platby kartou (Stripe) a převodem na nový účet 3124063015/3030 v SimpleShopu GNOSTIKY ✅ 2026-10-28 — ověřeno Claudem 28. 10. 22:55, formulář nabízí obojí (30. 10.); ostrost účtu Stripe ukáže testovací objednávka
+- [x] Vymyslet systém, jak pohodlně přidávat příspěvky na FB stránku ✅ 2026-10-30 — Lenka: už je připravený (skill social-write → fronta GrowOS ke schválení → Metricool, značka DigiStart)
 - [x] Š: kolik konzultací týdně zvládne a v jakých časech; zablokovat Řím 13.–18. 11. — odškrtnuto na dashboardu (Lenka, do 27. 10.); Decision Board 261029: z Říma konzultace běží, Štěpánka si časy volí sama
 - [x] Schválit brief kampaně DigiStart ve frontě GrowOS ✅ 2026-10-29 — Lenka schválila 16:48 po dvou kolech úprav; kampaň naplánována skillem `campaign-plan` přes Decision Board (Záznam 261029). Lenka 261024 chtěla skill vyzkoušet na DigiStartu i LCEnglish ([[lcenglish-10x-english-sales-page]]); poznámka [[GOS – campaign-plan]].
 - [x] Doladit s Claudem projektový dashboard DigiStartu ✅ 2026-10-29 — checklist srovnán do linií s jednou next action, dashboard a tabule přepsané (Lenka 261028: devět karet DigiStartu na tabuli bylo „proti smyslu next action“)
@@ -262,6 +269,20 @@ Kdo: **L** = Lenka, **Š** = Štěpánka, **C** = Claude (s Lenkou ve vlákně).
 - [ ] Naplánovat harmonogram (min. 50 h, max. 25 účastníků/skupina) a vložit do Databáze nejpozději 7 dní před začátkem, kurz zveřejnit nejdřív 90 / nejpozději 30 dní před začátkem
 
 ## Záznam (nejnovější nahoře)
+
+**261030 15:35–15:45 — Návod na instalaci aplikace Claude napsán (samostatné vlákno).** Položka fronty `GrowOS/digistart/work/course/digistart-navod-instalace-claude.md` (`review`, id ylbelk8llh): co je potřeba, (A) účet a Claude Pro na claude.ai (Settings → Billing → Upgrade plan → Get Pro plan, měsíčně, karta; zrušení), (B) stažení z claude.com/download a instalace na Windows i Macu, (C) přihlášení a kontrola, že je vidět Pro. Fakta ověřena 30. 10. na claude.com/download, claude.com/pricing a v nápovědě Anthropicu (zdroje v Notes položky); cena „podle ceníku Anthropicu 20 USD měsíčně“, bez daně, může se změnit. Neověřeno (v Notes): jak vypadá přihlášení přímo v aplikaci, instalace na Macu a dotazy Windows, kde přesně se ukáže „Pro“, jestli je rozhraní česky. Doporučení: projít návod jednou naostro na Lenčině počítači a pořídit snímky. Čeká na schválení ve frontě.
+
+**261030 15:28–15:45 — Vzkazy z dashboardu a scénář konzultace.** Lenka v kartách: B3/B4 rozhodne až po dokončení B4 (next action linie 1 = doupravit B4); návod na aplikaci Claude předřazen; systém FB příspěvků je hotový a FB příspěvky přesunuty do linie 5; scénář připravit z jejích materiálů. Scénář konzultace hotový do `review` (z „Sales Call“ 2022 a „Phone Sales Training“, High Ticket Courses). Linie Platba má na dashboardu kartu s rozhovorem, úkoly Stripe a převod rozepsané.
+
+**261030 14:18–15:45 — Pořadí práce a nový dashboard (vlákno DigiStart kampaň).** Lenka: „možná děláme méně podstatné věci (FB příspěvky) a důležitější čekají (dokončení prodejní stránky)“ a dashboard jí nedával smysl. Linie přeřazeny: stránka první (nový první krok: se Štěpánkou rozhodnout B3, nebo B4), pak konzultace, po zaplacení, výroba kampaně, Meta a FB stránka, platba. Dashboard přestavěn podle tabule úkolů: linie s kartou „teď na řadě“ a dalšími kroky, rozhovor u každé karty, šipky na přeřazení, tlačítko „Koukni na DigiStart“. Popisek reklamy 03 sjednocen; náhledy a texty reklam pro Štěpánku ve složce Disku `06 F2F BIZ 👥/Aktivní klienti/Štěpánka/Digistart/Reklamy DigiStart 261030/`.
+
+**261030 14:57–15:05 — Meta pixel vložen a ověřen (samostatné vlákno).** Lenka propojila pixel s účtem GNOSTIKA DigiStart (ověřeno konektorem 14:58), rozhodla bez lišty cookies (`GrowOS/digistart/brain/decisions.md`; příprava lišty do [[someday-maybe]], kód v `GrowOS/digistart/work/pages/_digistart-meta-pixel/lista-cookies.md`) a schválila kód. Vložen přes konektor Leadpages a zveřejněn: B3 (PageView, ViewContent, Lead na klik na TidyCal, InitiateCheckout na klik na SimpleShop) a děkovací stránka (Purchase 15 000 CZK). Ověřeno: obě stránky kód obsahují, B3 v prohlížeči poslala ViewContent, Meta hlásí poslední signál 15:02:29. Děkovací stránka záměrně neotevřena (falešný nákup). Položka fronty zůstává `approved`: přepnout na `published` hlídač nedovolí bez cíle publikace (vkládání přes konektor Leadpages ho nemá).
+
+**261030 14:34–14:55 — Meta pixel (samostatné vlákno).** Konektor Meta našel pixel „DigiStart dataset“ (1089566730377496), založený 30. 10. 14:32 v portfoliu DigiStart za GNOSTIKU (28970423829284366), aktivní, bez událostí; s reklamním účtem zatím nepropojený. ID pixelu a reklamního účtu zapsány do `GrowOS/digistart/setup.md`. Kód pro B3 a děkovací stránku ve frontě GrowOS (`work/pages/digistart-meta-pixel.md`, id nsv1og2tq0, `review`): PageView a ViewContent na B3, Lead na klik na konzultaci (TidyCal), InitiateCheckout na klik na SimpleShop, Purchase 15 000 CZK na děkovací; pixel se spustí až po souhlasu s cookies (lišta dole, výklad zákona je Claudův, neověřený právníkem). Po schválení Claude vloží přes konektor Leadpages a ověří příjem událostí.
+
+**261030 14:14 — Statické reklamy schválené.** Lenka schválila 01, 02 a 04 (po drobných úpravách 14:09: text v kartě 01, spodní řádek 02, barevné číslovky v nadpisu 04); 03 už dřív. Všechny čtyři `approved`. Next action posunuta na řádky 1–2 briefu (FB příspěvky 3. a 6. 11.).
+
+**261030 13:52–14:20 — Připomínky k reklamám zapracovány.** Lenka schválila 03 (svůj text), u 01, 02 a 04 připomínky v položkách. Vizuály: 01 bez spodního řádku se jmény, 02 „na online setkáních“ místo „živě online“, 04 bez ceny (dlaždice KDY a KDE na výšku, nový text dole). Texty: Lenčiny úpravy u 01 a 02 převzaty (opraveno „SPOUSTU“ kvůli zásadám Meta), 04 přepsána celá bez ceny, nové nadpisy u 02 a 04. Poučení do brainu (`brain/lessons/2026-10-30-reklamy-bez-ceny-a-zive-online.md`, `compliance.md`: v reklamě žádná cena). 01, 02, 04 znovu v `review`, 03 `approved`.
 
 **261029 16:54–17:25 — Statické reklamy (řádek 3 briefu), skill `ads-meta-create`.** Lenka dala go. Čtyři opravdu různé reklamy 1080×1350 v barvách a písmech DigiStartu, bez AI obrázků (DigiStart nemá klíč kie.ai; AI vizuály řeší řádky 4 a 5): 01 Rada, nebo práce (chat radí × koncept čeká ve schránce), 02 Návod uložený „na potom“ (vedle receptu na bábovku), 03 Lenčina ranní svodka (její portrét a citát z B3), 04 Cena předem a otevřeně (oba portréty, 15 000 Kč, konzultace zdarma). Před vykreslením živé čtení B3. Kontrola zásad Meta (`ads-meta-compliance`): u 02 byly ikony „přehrát“ na statickém obrázku (zakázané falešné ovládání), nahrazeny štítkem VIDEO; všechny `pass-with-note` s podmínkou dokončit B3 (řádek 14) před spuštěním. Založena paměť reklam `GrowOS/digistart/brain/ads/` (config, dna-log, taste-profile). Položky v `review`, čekají na Lenku.
 

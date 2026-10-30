@@ -10,7 +10,7 @@ business: digistart
 channel: pages
 created: 2026-10-28
 note: dál budeme ladit přímo v Leadpages
-kanban_order: V1
+kanban_order: V4
 ---
 
 # DigiStart pilot: prodejní stránka, koncept B4 „Buď AI, nebo nikdo“

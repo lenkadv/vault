@@ -11,3 +11,5 @@ Zdroj: Lenčiny úpravy návrhu `work/pages/shadowloop-stranka-a-zasady.md` (str
 - Otázky v FAQ přepsala do celých vět čtenáře: „Má smysl to ještě zkoušet? Není už pro mě pozdě?“, „Musím umět dobře anglicky, abych mohl Shadowloop používat?“
   **Pravidlo:** otázky v FAQ psát tak, jak by je čtenář opravdu položil, i s pochybností, ne heslovitě.
 - Fakt, který jsem neznala: balíčky 3x25 nejčastějších slov jsou v aplikaci pro všechny a bez přihlášení; dárek 5 textů je kvůli e-mailu a je na různých úrovních. Začátečníky posílat rovnou do aplikace, ostatní na dárek.
+
+- **Oprava 261030:** při přenosu jsem Lenčino „v Shadowloop“ měnila na „v Shadowloopu“. Chyba: Shadowloop se nesklonňuje (viz `261030-shadowloop-darek-texty.md`).

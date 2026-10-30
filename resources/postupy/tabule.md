@@ -62,11 +62,20 @@ Porovná otevřené úkoly ve vaultu (`projects/*.md` řádky `- [ ]` s `#next-a
 
 **Kdy:** při denním plánu (skill, krok e6), při každé synchronizaci (krok 5) a při „zavírám“ v denním vlákně (CLAUDE.md krok 6a).
 
-**Kdo založí úkol ve vaultu, založí i kartu** (od 261028, platí pro každé vlákno): nový `#next-action` v projektu nebo nový řádek v ruční sekci [[next-actions]] = hned i karta na tabuli s `ukol`, `odkaz`, `oblast`, `kdo`. Výjimky: úkoly čekající na datum (viz krok 5 synchronizace) a druhá a další next action v téže linii (ty by neměly vzniknout). Když vlákno úkol odškrtne, přepne i kartu.
+**Kdo založí úkol ve vaultu, založí i kartu** (od 261028, platí pro každé vlákno): nový `#next-action` v projektu nebo nový řádek v ruční sekci [[next-actions]] = hned i karta na tabuli s `ukol`, `odkaz`, `oblast`, `kdo`. Výjimky: úkoly čekající na datum (viz krok 5 synchronizace), druhá a další next action v téže linii (ty by neměly vzniknout) a **projekty s vlastní mapou (DigiStart, od 261030): úkol jde na mapu projektu, ne na tabuli** (viz „Dashboard DigiStartu“). Když vlákno úkol odškrtne, přepne i kartu.
 
 ## Jedna next action na projekt, u velkého projektu na linii (Lenka 261028)
 
 Malý projekt má jednu `#next-action`. Velký projekt (DigiStart) má **linie**: samostatné cesty, které na sobě nezávisí; každá linie má nanejvýš jednu `#next-action` a linie mají prioritu. Linie = nadpis v projektovém souboru, pod kterým úkoly stojí (u DigiStartu se linie a priority domluví v jeho projektovém plánu, dashboard [[reference_digistart_dashboard]]). Ostatní kroky linie zůstávají v projektu bez tagu, na tabuli nejdou. Ne každý projekt potřebuje vlastní dashboard. Skript vypíše linie s víc next actions; rozhoduje Lenka (při denním plánu jednou větou, nebo při weekly review).
+
+## Dashboard DigiStartu (od 261030)
+
+Velký projekt DigiStart má vedle tabule vlastní mapu: https://claude.ai/artifact/GpJREkrDcHnoLeDHaEyc2j (zdroj `resources/digistart-dashboard/index.html`). Lenka 261030: „mohlo by to vypadat víc jako tabule úkolů, jen s následujícími úkoly, a abychom tam mohli vést konverzaci a nemuseli otvírat extra vlákno.“
+
+- **Co ukazuje:** linie projektu podle priority (stejné jako nadpisy linií v `projects/digistart.md`), v každé kartu „teď na řadě“ (= `#next-action` linie) a další kroky linie; dole Počká a Hotovo. Dashboard ukazuje celý projekt. **Od 261030 15:45 (Lenka: „aby nám tabuli nezaplevelovaly všechny úkoly z DigiStartu“):** na tabuli úkolů je z DigiStartu **jen jedna karta-rozcestník** `digistart-mapa` (`typ: "rozcestnik"`, `oblast: digistart`, `url` na mapu, `kdo: spolu`), žádné jiné karty DigiStartu; úkoly, rozhovory a stavy kroků žijí jen na mapě. Skript `tabule_vs_vault.py` má projekty s vlastní mapou v `OWN_MAP`: jejich `#next-action` nehlásí jako chybějící karty, hlásí každou jinou kartu takového projektu (smazat) a chybějící rozcestník. Další velký projekt s vlastní mapou = přidat do `OWN_MAP` a založit rozcestník.
+- **Data:** `linie/<id>` (nazev, poradi, termin, popis, ceka, pocka), `ukoly/<id>` (linie, poradi, text, kdo L | Š | C | L+C | L+Š, next, stav otevreno | ceka | hotovo, termin, kontext, url, url_text, ceka_na, vlakno, zmeneno, zpracovano), `milniky/<id>` (nazev, datum), `dash/stav` (text, datum, aktualizovano), `meta/vyzva`.
+- **Co dělá Lenka:** píše do karty (rozhovor jako na tabuli), mění pořadí linií šipkami, krok označí Hotovo, tlačítkem „Koukni na DigiStart“ pošle Claudovi upozornění.
+- **Co dělá Claude:** při každé práci na DigiStartu, při denním plánu a na „Koukni na DigiStart“ přečte `ukoly` a `linie`: nepřečtené zprávy zpracuje a odpoví do karty (`vlakno` + `zpracovano`, stejně jako na tabuli), `stav: hotovo` odškrtne v projektu + next-action advancement, změněné `poradi` linií přepíše do pořadí nadpisů linií v projektu. Když se změní projekt (nový krok, hotovo, nová next action), přepíše i dashboard (`next` na nové kartě, `dash/stav`, `aktualizovano`). Zdroj pravdy zůstává projekt.
 
 ## Vztah k dennímu plánu
 

@@ -1,16 +1,22 @@
 ---
 type: opt-in-page
-headline: "5 textů na trénink mluvení, rovnou v Shadowloopu"
+headline: 5 textů na trénink mluvení, rovnou v aplikaci Shadowloop
 project: shadowloop-admin
 source: resources/shadowloop-admin.md
-note: ""
-status: review
+note: upravila jsem, zpracuj
+status: published
 skill: landing-page-write
-arc: "capture-first"
+arc: capture-first
 id: rxvlmli864
 business: lcenglish
 channel: pages
 created: 2026-10-29
+kanban_order: V4
+publish_destination: manual
+publish_attempted_at: "2026-10-30T13:05:00Z"
+publish_state: prepared
+publish_note: "Leadpages shadowloop-texty nahrazena (update_page, Lenka „nahraď“ 261030 14:04); test lnk.dvorakova+slt-261030: poděkování na stránce, kontakt v Dripu se štítkem, mail za 1 s, odkaz přidal 5 balíčků"
+published_at: "2026-10-30T13:10:00Z"
 ---
 
 # Dárek „Texty a nahrávky do Shadowloopu“: přestavba stránky (návrh 261029)
@@ -26,17 +32,17 @@ created: 2026-10-29
 **Technika (nic se nemění v napojení):** formulář dál `name="shadowloop_10xe_texty"`, pole `first_name` a `email_address` (ověřeno v kódu stránky: nový formulář posílá stejný název i klíče jako starý), takže automatizace v Leadpages → Drip zůstává. Formulář bude přímo ve stránce (ne ve vyskakovacím okně), po odeslání se okno nezavře a ukáže se česká hláška. Obrázek s popisky: nový snímek aplikace ve vzhledu značky + popisky jako text na stránce (ostré, upravitelné; na mobilu čísla v obrázku a seznam pod ním).
 
 ## Section 1: Úvod s formulářem
-**Headline:** 5 textů na trénink mluvení, rovnou v Shadowloopu
+**Headline:** 5 textů na trénink mluvení, rovnou v aplikaci Shadowloop
 **Body:**
-Pošlu vám 5 krátkých anglických textů na různých úrovních. Najdete je v aplikaci Shadowloop: věta po větě, s nahrávkou a českým překladem, a nakonec celý text v kuse.
+Vyzkoušejte Shadowloop s 5 krátkými anglickými texty různé pokročilosti. Najdete je přímo v aplikaci: každou větu zvlášť, s nahrávkou a českým překladem, a nakonec celý text v kuse pro trénink poslechu.
 
 - 5 krátkých textů různé pokročilosti
 - nahrávky jednotlivých vět i celého textu
 - trénink porozumění, mluvení, slovíček i gramatiky
-- funguje v prohlížeči na mobilu i na počítači
+- funguje v prohlížeči, na mobilu i na počítači
 
 Formulář (vpravo vedle textu):
-Jméno · E-mail · [tlačítko] **Pošlete mi texty**
+Jméno · E-mail · [tlačítko] **Chci vyzkoušet Shadowloop**
 Pod tlačítkem malým písmem (Lenčin původní text, beze změny obsahu): „Vaše jméno a e-mail potřebuju, abych vám mohla posílat další potřebné informace. Budu je střežit jako oko v hlavě a nakládat s nimi jen s tímto vaším [souhlasem](https://lcenglish.cz/privacy-policy/).“
 
 Po odeslání místo formuláře (zůstane na stránce):
@@ -50,11 +56,11 @@ Nic nepřišlo? Podívejte se do složky Hromadné nebo Spam.
 **Layout notes:** dva sloupce na počítači (text vlevo, formulář v bílé kartě vpravo), na mobilu nadpis, formulář, pak odrážky. Tmavé pozadí (inkoust), „rovnou v Shadowloopu“ zlatě.
 
 ## Section 2: Jak to proběhne
-**Headline:** Za dvě minuty trénujete
+**Headline:** Za dvě minuty můžete začít
 **Body:**
 1. Vyplníte jméno a e-mail.
-2. V e-mailu najdete odkaz do aplikace Shadowloop.
-3. Přihlásíte se stejným e-mailem a texty tam na vás čekají.
+2. V e-mailu najdete zprávu z odkazem do aplikace Shadowloop.
+3. Přihlásíte se stejným e-mailem a texty tam na vás už budou čekat.
 **Addresses objection:** „bude to složité?“
 **Visual:** timeline
 **Weight:** standard
@@ -65,12 +71,12 @@ Nic nepřišlo? Podívejte se do složky Hromadné nebo Spam.
 **Body:**
 Obrázek aplikace s popisky (nový snímek ve vzhledu značky), popisky převzaté z původního obrázku:
 1. **Obrázek** pro lepší zapamatování
-2. **Věta anglicky a česky** (překlad i anglický text můžete vypnout)
-3. **Nedaří se vám věta?** Zapněte si přehrávání ve smyčce.
+2. **Věta anglicky a česky** (zobrazení textu můžete vypnout posuvníky dole)
+3. **Nejde vám to?** Zapněte si přehrávání ve smyčce.
 4. **Přehrávejte věty** jednu po druhé
 5. **Zvolte si délku pauzy** na opakování
 
-[Tlačítko] **Pošlete mi texty** (posune zpět k formuláři)
+[Tlačítko] **Chci trénovat v Shadowloop** (posune zpět k formuláři)
 **Addresses objection:** „jak to funguje?“
 **Visual:** product-in-action mock
 **Weight:** standard

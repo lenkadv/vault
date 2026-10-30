@@ -21,6 +21,7 @@
 - The Claude Pro price as a fixed koruna amount. Required plan confirmed (Lenka, 2026-10-17); say "podle ceníku Anthropicu 20 USD měsíčně", paid to Anthropic.
 - Anything about competitors' courses that is not on their own pages.
 - Hiding the price behind a consultation. The price is stated openly.
+- A price in an ad (image, text, headline, description). Lenka 2026-10-30: "v reklamě nechci žádnou cenu uvedenou rovnou". The price stays open on the sales page; the ad leads to the page and the free consultation.
 
 ## Words that carry weight
 

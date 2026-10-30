@@ -23,6 +23,9 @@ from datetime import date
 
 VAULT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 MANUAL = ("## @online", "## @telefon", "## @doma", "## @venku")
+# Projekty s vlastní mapou (dashboard): úkoly žijí tam, na tabuli jen jedna karta-rozcestník
+# s `typ: "rozcestnik"` a stejnou `oblast` (Lenka 261030).
+OWN_MAP = {"projects/digistart.md": "digistart"}
 TASK = re.compile(r"^- \[( |x|X|-)\] (.*)$")
 DUE = re.compile(r"📅\s*(\d{4}-\d{2}-\d{2})")
 
@@ -117,7 +120,14 @@ def main():
         sys.exit(__doc__)
     sys.stdout.reconfigure(encoding="utf-8")
     today = date.today().isoformat()
-    tasks, karty = vault_tasks(), cards(sys.argv[1])
+    all_tasks, all_karty = vault_tasks(), cards(sys.argv[1])
+    tasks = [t for t in all_tasks if t["soubor"] not in OWN_MAP]
+    on_map = lambda k: k["_soubor"] in OWN_MAP or k.get("oblast") in OWN_MAP.values()
+    pointers = [k for k in all_karty if k.get("typ") == "rozcestnik"]
+    karty = [k for k in all_karty if k.get("typ") != "rozcestnik" and not on_map(k)]
+    map_cards = [k for k in all_karty if k.get("typ") != "rozcestnik" and on_map(k)
+                 and (k.get("stav") or "otevreno") != "hotovo"]
+    no_pointer = [f for f, o in OWN_MAP.items() if not any(k.get("oblast") == o for k in pointers)]
     by_key = {t["klic"]: t for t in tasks}
     paired, guesses, unpaired, used = {}, [], [], set()
     for k in karty:
@@ -171,8 +181,11 @@ def main():
         ("KARTY BEZ ÚKOLU V PROJEKTU (odkaz na kontext-ukolu, GrowOS, resources…; jen pro informaci)",
          [f'{k["id"]}: {k.get("nazev", "")[:90]}  [{k.get("odkaz", "")}]' for k in no_task]),
         ("VÍC NEŽ JEDNA NEXT ACTION V JEDNÉ LINII (projekt, nadpis) → nechat jen krok s nejvyšší prioritou, ostatní bez #next-action",
-         many_next_actions(tasks)),
-        ("OBLAST MIMO areas/ A projects/ → opravit `oblast` karty", bad_area(karty)),
+         many_next_actions(all_tasks)),
+        ("OBLAST MIMO areas/ A projects/ → opravit `oblast` karty", bad_area(karty + pointers)),
+        ("KARTA PROJEKTU S VLASTNÍ MAPOU (úkoly patří na mapu, na tabuli jen rozcestník) → smazat kartu",
+         [f'{k["id"]}: {k.get("nazev", "")[:90]}' for k in map_cards]),
+        ("PROJEKT S VLASTNÍ MAPOU BEZ ROZCESTNÍKU NA TABULI → založit kartu `typ: rozcestnik`", no_pointer),
         ("SPÁROVÁNO ODHADEM → zapsat kartě pole `ukol` (návrh níže)", [f'{k["id"]} ({s:.2f}) → {show(t)}' for k, t, s in guesses]),
     ]
     for title, rows in sections:
@@ -184,7 +197,7 @@ def main():
         path = os.path.join(sys.argv[1], "navrh-ukol.json")
         json.dump(navrh, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"\nNávrh polí `ukol`: {path}")
-    print(f"\nVault: {len(tasks)} úkolů, tabule: {len(karty)} karet, spárováno {len(paired)} (z toho odhadem {len(guesses)}).")
+    print(f"\nVault: {len(tasks)} úkolů (bez projektů s vlastní mapou), tabule: {len(karty)} karet, spárováno {len(paired)} (z toho odhadem {len(guesses)}).")
 
 
 if __name__ == "__main__":

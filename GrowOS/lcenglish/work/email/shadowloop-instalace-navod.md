@@ -3,14 +3,19 @@ type: email-snippet
 headline: Shadowloop jako aplikace v telefonu (návod pro studenty)
 project: shadowloop-admin
 source: resources/shadowloop-admin.md
-status: draft
+status: published
 business: lcenglish
 channel: email
 created: 2026-10-30
 publish_destination: manual
 id: v68pwufnkv
 skill: ""
-note: ""
+note: Varianta 1 (s úpravou), screenshoty přiloženy - z Androidu, doupravit se zvýrazněním míst, kde je třeba něco udělat (šipkou nebo zakroužkováním). iPhone nemám, musí stačit jen popis.
+kanban_order: V1
+publish_attempted_at: "2026-10-30T14:40:00Z"
+publish_state: prepared
+publish_note: "261030: FreshLearn 3 lekce „Naučte se mluvit... s Shadowloop“ (HELE, 10x ENGLISH, NSUA) se 2 snímky, ověřeno novým načtením; Drip série Irregular, 1. mail NA START, tip za odstavec o archivaci, uloženo v editoru v Chromu, ověřeno API (HTML i text). HELE inside, dárek a web zatím ne (rozhodne Lenka)."
+published_at: "2026-10-30T14:45:00Z"
 ---
 
 # Shadowloop jako aplikace v telefonu: krátký návod (návrh 261030)
@@ -19,20 +24,27 @@ note: ""
 
 **Hlavní sdělení:** instalovat nemusíte. Kdo chce, má Shadowloop jedním klepnutím na ploše jako běžnou aplikaci.
 
-## 1. Odstavec do mailů (varianta k výběru)
+## 1. Odstavec do mailů (Lenka vybrala variantu 1 a upravila ji, 261030)
 
-**Varianta 1 (krátká, s odkazem na návod v kurzu / na webu):**
-
-> **Tip:** Shadowloop nemusíte nic instalovat, stačí ho otevřít v prohlížeči. Pokud ho ale chcete mít v telefonu po ruce jako ikonu na ploše, zabere to půl minuty:
+> **Tip:** Shadowloop nemusíte instalovat, stačí ho otevřít v prohlížeči. Pokud ho ale chcete mít v telefonu po ruce jako ikonu na ploše, je to snadné a nezabere to ani půl minuty:
 >
-> **Android (Chrome):** vpravo nahoře tři tečky → **Instalovat aplikaci** → Instalovat.
+> **Android (Chrome):** vpravo nahoře tři tečky → **Instalovat a vytvořit zástupce** → **Instalovat**.
 > **iPhone (Safari):** tlačítko Sdílet (čtvereček se šipkou) → **Přidat na plochu** → Přidat.
 >
-> Pak se Shadowloop otevírá z plochy jako každá jiná aplikace. Po prvním spuštění se v něm jednou přihlaste.
+> Pak se Shadowloop otevírá z plochy jako každá jiná aplikace. Po prvním spuštění se přihlaste svým e-mailem.
 
-**Varianta 2 (ještě kratší, jen pozvánka):**
+## 1b. Snímky k návodu (Android, pro lekce ve FreshLearn)
 
-> Chcete mít Shadowloop v telefonu jako aplikaci? V Chromu klepněte na tři tečky → **Instalovat aplikaci**, na iPhonu v Safari na Sdílet → **Přidat na plochu**. Instalovat ale nic nemusíte, funguje i v prohlížeči.
+Zvýrazněno žlutě s číslem kroku, jméno účtu v záhlaví skryté. Krok „tři tečky vpravo nahoře“ je jen v textu (na snímku ho zakrývá otevřené menu).
+
+**Krok 1:** v menu Chromu položka „Install and create shortcut“ (v češtině „Instalovat a vytvořit zástupce“, viz Notes).
+![[261030-1455_shadowloop_instalace-android-1.png]]
+
+**Krok 2:** v okně vybrat „Install“ (Instalovat), ne „Create shortcut“ (Vytvořit zástupce, ten se otevírá v Chromu).
+![[261030-1455_shadowloop_instalace-android-2.png]]
+
+iPhone: Lenka nemá, stačí popis v textu.
+
 
 ## 2. Kam to patří (pořadí podle Lenky 261030)
 
@@ -41,16 +53,13 @@ note: ""
 3. **Další maily, kde se student poprvé přihlašuje** (návrh, rozhoduje Lenka): HELE inside, 1. mail „[HELE] Vydáváme se na cestu!“ za „Přihlaste se do aplikace Shadowloop“; dárek „Texty a nahrávky“ (workflow `delivery: Shadowloop 10xE texty`, mail „Naučte se mluvit... s Shadowloop“). 10x ENGLISH vlastní sérii v Dripu nemá (mezi kampaněmi ji nevidím).
 4. **Web (nejnižší priorita):** článek o Shadowloopu na lcenglish.cz (příspěvek 1531) a případně lcenglish.cz/shadowloop/ níž na stránce, ne v otázce „Musím něco instalovat?“.
 
-## 3. Snímky obrazovky
+## 3. Původní snímky od Lenky (261030, Android, anglický Chrome)
 
-Potřebuju od Lenky snímky z telefonu (Claude je sám nepořídí, menu prohlížeče v počítači napodobit nejde):
-- **Android:** Shadowloop v Chromu s otevřeným menu (tři tečky), kde je vidět „Instalovat aplikaci“; okno „Instalovat“; ikona Shadowloop na ploše.
-- **iPhone (jestli je po ruce):** Safari s tlačítkem Sdílet; nabídka s „Přidat na plochu“; okno s přepínačem „Otevřít jako webovou aplikaci“.
-
-Claude je ořízne, skryje jméno účtu a doplní šipky.
+![[Pasted image 20261030144945.png]]![[Pasted image 20261030145143.png]]
 
 ## Notes
 
 - ⚠️ Před rozesláním vyzkoušet na telefonu: po instalaci otevřít Shadowloop z plochy a přihlásit se (přihlášení běží ve vyskakovacím okně; na iPhonu má aplikace z plochy vlastní úložiště, takže se student přihlásí znovu). Neověřeno.
-- Popisky menu: Android „Instalovat aplikaci“ (starší Chrome „Přidat na plochu“), iPhone iOS 26 „Přidat na plochu“ s přepínačem „Otevřít jako webovou aplikaci“, výchozí zapnutý. Česká znění podle anglických zdrojů, na telefonu neověřeno; upravit podle snímků.
+- Popisky menu: podle Lenčiných snímků má Chrome položku „Install and create shortcut“ a v okně „Install“ / „Create shortcut“. ⚠️ Český popisek „Instalovat a vytvořit zástupce“ je můj odhad překladu, na českém telefonu neověřeno; starší Chrome má „Instalovat aplikaci“ nebo „Přidat na plochu“. iPhone (iOS 26) „Přidat na plochu“ s přepínačem „Otevřít jako webovou aplikaci“, výchozí zapnutý; neověřeno, Lenka iPhone nemá.
+- Na snímku je ikona Shadowloopu ještě stará (červená klapka Lights Camera English) a název v manifestu „Lights Camera English Shadowloop“. Po instalaci ji studenti uvidí na ploše. Výměna ikony a názvu = úprava aplikace, jen s Lenčiným souhlasem (návrh, nespěchá).
 - Text je krátký návod do existujících mailů a lekcí, psaný ručně podle `brain/voice.md` (vykání, krátké věty), ne přes `email-write` (není to samostatný mail). Kdyby Lenka chtěla samostatný mail „Shadowloop jako aplikace“, napíše se skillem.

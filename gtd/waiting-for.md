@@ -86,7 +86,7 @@ sort by due
     - Kontext (261029): Martin Blažek (PENTA) si zarezervoval po 23. 11. 15:00–16:00 na Masaryčce, setkání začíná v 17:00. Lenka: „nemůžu mu zrušit rovnou dva termíny“, všechno nachystat předem. Stejná situace i po 14. 12. 15:00 (4. setkání), domluvit zároveň.
 
 ## Čeká na někoho
-- [ ] Čekám na Štěpánku ohledně Stripe a převodu na nový účet v SimpleShopu GNOSTIKY 📅 2026-11-02
+- [x] Čekám na Štěpánku ohledně Stripe a převodu na nový účet v SimpleShopu GNOSTIKY 📅 2026-11-02 ✅ 2026-10-30 (obojí nastavené, viz 28. 10. 22:55; zbývá testovací objednávka v projektu [[digistart]])
     - Kontext (Lenka 261028 21:56, předáno Štěpánce): zprovoznit platby kartou přes Stripe a založit platbu převodem na účet 3124063015/3030 místo KB. Pak Claude u produktu DigiStart přepne platbu z KB na nový účet a může proběhnout testovací objednávka. Projekt [[digistart]] oddíl 5; reklamy od cca 9. 11.
     - 261028 22:55 (Claude, čteno v SimpleShopu): platba převodem „AirBank“ má účet 3124063015/3030 a formulář nabízí kartu i převod; KB v seznamu metod už není. Stripe je v Platebních branách připojený; jestli je účet Stripe ostrý, nebo zatím neschválený, odtud vidět není.
 - [x] (261027: Frank odpověděl 26. 10. – pozadí portálu změnit nejde, Custom Script systémová nastavení neupraví, jde jen barva tlačítek; svodka č. 28) Čekám na podporu FreshLearn ohledně růžového pozadí portálu a nefunkčního Custom Script pro Member Portal 📅 2026-10-30

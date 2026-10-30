@@ -21,6 +21,7 @@ Přátelský, přímý, osobní, sebeironický, upřímně nadšený. Jako kamar
 
 ## Rules of thumb
 - **Stálá místa (web, prodejní stránky, automatické maily) bez údajů, které se mění** (Lenka 261026): žádný den vydání, přesný počet ani datum, když to jde bez nich („každý týden“, „přes 25 dílů“). Když údaj napsat musíme, přidat ho do `resources/lcenglish-hlidane-udaje.md` ve vaultu.
+- **Shadowloop se nesklonňuje** (Lenka 261030, opraveno podruhé): „v Shadowloop“, nebo „v aplikaci Shadowloop“, nikdy „v Shadowloopu“. Lekce `lessons/261030-shadowloop-darek-texty.md`.
 - Real-life triggery: věci, které Lenka skutečně zažila nebo viděla — fotka z okna, nápis v restauraci, zpráva z novin. Nevymýšlet.
 - Humor je intelektuální, sebeironický, observační — slovní hříčky, absurdní pozorování (gluten-free goose u McDonald's).
 - Jedna otázka na konci pro zapojení čtenáře, nikdy seznam.

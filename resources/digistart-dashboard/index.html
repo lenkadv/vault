@@ -1,0 +1,327 @@
+<title>DigiStart – mapa projektu</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,600..800&family=DM+Sans:opsz,wght@9..40,400;9..40,600;9..40,700&family=Caveat:wght@600&display=swap">
+<style>
+/* Layout: linie projektu pod sebou podle priority; v každé vlevo velká karta „teď na řadě“, vpravo další kroky linie. Každá karta má rozhovor jako tabule úkolů. Barvy a písma podle značky DigiStart. */
+:root {
+  --bg: #F1ECE6; --bg2: #E8DFD5; --panel: #FFFFFF; --ink: #231A1D; --muted: #5E5155; --line: #DCD1C6;
+  --accent: #9B224F; --accent-ink: #74183B; --accent-soft: #F3D3E0;
+  --ok: #2E7D4F; --ok-soft: #DDEFE3; --warn: #9A5B00; --warn-soft: #F8E7C9; --hot: #B3261E; --hot-soft: #FBE3E1;
+  --lenka: #6B3FA0; --lenka-soft: #ECE3F7; --claude: #0F6E6E; --claude-soft: #DDF0EE;
+  --display: "Archivo", "Arial Narrow", "Segoe UI", system-ui, sans-serif;
+  --body: "DM Sans", "Segoe UI", system-ui, sans-serif;
+  --hand: "Caveat", "Segoe Print", cursive;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1A1416; --bg2: #241C1F; --panel: #2A2125; --ink: #F1E9EC; --muted: #B7A7AD; --line: #3E3237;
+  --accent: #E07AA2; --accent-ink: #F2A3C2; --accent-soft: #46222F;
+  --ok: #7ACB98; --ok-soft: #1E3328; --warn: #E8B45E; --warn-soft: #3A2E1A; --hot: #F2857C; --hot-soft: #3A2221;
+  --lenka: #B993E8; --lenka-soft: #2A2238; --claude: #5CC4BD; --claude-soft: #17302F; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #1A1416; --bg2: #241C1F; --panel: #2A2125; --ink: #F1E9EC; --muted: #B7A7AD; --line: #3E3237;
+  --accent: #E07AA2; --accent-ink: #F2A3C2; --accent-soft: #46222F;
+  --ok: #7ACB98; --ok-soft: #1E3328; --warn: #E8B45E; --warn-soft: #3A2E1A; --hot: #F2857C; --hot-soft: #3A2221;
+  --lenka: #B993E8; --lenka-soft: #2A2238; --claude: #5CC4BD; --claude-soft: #17302F; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 28px 72px; }
+.wrap { max-width: 80rem; margin: 0 auto; display: flex; flex-direction: column; gap: 24px; }
+h1, h2, h3 { font-family: var(--display); font-stretch: 85%; margin: 0; text-wrap: balance; }
+h1 { font-size: clamp(2rem, 6vw, 3rem); font-weight: 800; line-height: 1; }
+h1 span { color: var(--accent); }
+h2 { font-size: 1.3rem; font-weight: 800; line-height: 1.15; }
+h3 { font-size: 1.15rem; font-weight: 700; line-height: 1.25; }
+.eyebrow { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
+.muted { color: var(--muted); }
+header.top { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 20px; align-items: end; }
+@media (max-width: 860px) { header.top { grid-template-columns: minmax(0, 1fr); } }
+.stats { display: flex; flex-wrap: wrap; gap: 8px; }
+.stat { background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+.stat b { font-family: var(--display); font-size: 1.05rem; color: var(--accent); }
+.stav { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.stav p { margin: 0; max-width: 72ch; }
+.ping-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+button.ping { font: inherit; font-family: var(--display); font-weight: 800; font-size: 1.05rem; background: var(--accent); color: #fff; border: none; border-radius: 10px; padding: 10px 18px; cursor: pointer; }
+button.ping:hover { background: var(--accent-ink); }
+.ping-st { font-size: 0.88rem; color: var(--muted); max-width: 40ch; }
+.how { font-size: 0.9rem; color: var(--muted); max-width: 90ch; margin: 0; }
+
+/* linie */
+.linie { display: flex; flex-direction: column; gap: 18px; }
+.lane { background: var(--bg2); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 12px; }
+.lane.wait { opacity: .92; }
+.lane-h { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.prio { font-family: var(--display); font-weight: 800; font-size: 2rem; line-height: 1; color: var(--accent); font-variant-numeric: tabular-nums; min-width: 1.6ch; }
+.lane-t { display: flex; flex-direction: column; gap: 2px; min-width: 0; flex: 1 1 16rem; }
+.lane-t .d { font-size: 0.86rem; color: var(--muted); }
+.lane-acts { display: flex; gap: 6px; align-items: center; }
+.lane-body { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 12px; align-items: start; }
+@media (max-width: 860px) { .lane-body { grid-template-columns: minmax(0, 1fr); } }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.card.next { border: 2px solid var(--accent); box-shadow: 0 6px 18px color-mix(in srgb, var(--accent) 14%, transparent); }
+.card.next .lab { font-family: var(--hand); font-size: 1.35rem; color: var(--accent); line-height: 1; }
+.card.hot { box-shadow: inset 0 0 0 2px var(--hot); }
+.t { font-weight: 700; margin: 0; overflow-wrap: anywhere; }
+.next .t { font-family: var(--display); font-stretch: 88%; font-size: 1.25rem; line-height: 1.2; }
+.kontext { font-size: 0.88rem; color: var(--muted); margin: 0; overflow-wrap: anywhere; white-space: pre-wrap; }
+.meta { display: flex; flex-wrap: wrap; gap: 5px; font-size: 0.78rem; align-items: center; }
+.pill { border-radius: 4px; padding: 1px 7px; background: var(--bg); color: var(--muted); font-weight: 700; white-space: nowrap; }
+.pill.L { background: var(--lenka-soft); color: var(--lenka); }
+.pill.C { background: var(--claude-soft); color: var(--claude); }
+.pill.S { background: var(--warn-soft); color: var(--warn); }
+.pill.due { background: var(--hot-soft); color: var(--hot); }
+.pill.ceka { background: var(--warn-soft); color: var(--warn); }
+.list { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.list h3 { font-size: 0.95rem; color: var(--muted); }
+details.item { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 8px 11px; min-width: 0; }
+details.item summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+details.item summary::-webkit-details-marker { display: none; }
+details.item summary .tx { font-size: 0.93rem; font-weight: 600; overflow-wrap: anywhere; min-width: 0; }
+details.item summary .dot { font-size: 0.72rem; color: var(--accent); font-weight: 700; white-space: nowrap; }
+details.item[open] { display: flex; flex-direction: column; gap: 8px; }
+details.item .inner { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+.empty { color: var(--muted); font-size: 0.9rem; margin: 0; }
+.acts { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn { font: inherit; font-size: 0.82rem; border-radius: 6px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); padding: 4px 10px; cursor: pointer; }
+.btn.done { border-color: var(--ok); color: var(--ok); font-weight: 700; }
+.btn.sm { padding: 2px 8px; }
+.btn:disabled { opacity: .45; cursor: default; }
+.btn:focus-visible, button:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+/* rozhovor */
+.thread { display: flex; flex-direction: column; gap: 5px; }
+.msg { font-size: 0.86rem; border-radius: 8px; padding: 5px 8px; overflow-wrap: anywhere; white-space: pre-wrap; max-width: 92%; }
+.msg.claude { background: var(--claude-soft); align-self: flex-start; }
+.msg.lenka { background: var(--lenka-soft); align-self: flex-end; }
+.msg .who { display: block; font-size: 0.72rem; font-weight: 700; margin-bottom: 1px; }
+.msg.claude .who { color: var(--claude); } .msg.lenka .who { color: var(--lenka); }
+button.older { align-self: flex-start; font: inherit; font-size: 0.78rem; color: var(--muted); background: none; border: none; padding: 0; cursor: pointer; text-decoration: underline; }
+.badge { align-self: flex-start; font-size: 0.74rem; font-weight: 700; border-radius: 4px; padding: 1px 6px; background: var(--warn-soft); color: var(--warn); }
+.badge.read { background: var(--bg); color: var(--muted); font-weight: 400; }
+.compose { display: flex; gap: 6px; align-items: flex-end; }
+textarea { width: 100%; font: inherit; font-size: 0.88rem; border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; background: var(--bg); color: var(--ink); resize: vertical; min-height: 2.8rem; height: 2.8rem; }
+a.go { font-size: 0.86rem; font-weight: 700; color: var(--accent); }
+/* spodní pásma */
+.bottom { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; align-items: start; }
+@media (max-width: 860px) { .bottom { grid-template-columns: minmax(0, 1fr); } }
+details.box { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; }
+details.box summary { cursor: pointer; font-family: var(--display); font-weight: 800; font-size: 1.05rem; }
+.done-list { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.done-list li { display: flex; justify-content: space-between; gap: 10px; align-items: center; font-size: 0.9rem; }
+.done-list li span { overflow-wrap: anywhere; min-width: 0; }
+.banner { background: var(--panel); border: 1px dashed var(--line); border-radius: 12px; padding: 14px; color: var(--muted); }
+.foot { font-size: 0.85rem; color: var(--muted); margin: 0; max-width: 90ch; }
+@media (prefers-reduced-motion: no-preference) { .card { transition: transform .15s ease; } .card:hover { transform: translateY(-1px); } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div style="display:flex;flex-direction:column;gap:10px;min-width:0">
+      <span class="eyebrow">Mapa projektu · Lenka a Štěpánka · GNOSTIKA</span>
+      <h1>Digi<span>Start</span></h1>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="stav">
+      <span class="eyebrow" id="stav-datum">Kde jsme</span>
+      <p id="stav-text">Načítám…</p>
+      <div class="ping-row"><button class="ping" id="ping" type="button">Koukni na DigiStart</button><span class="ping-st" id="ping-st" aria-live="polite"></span></div>
+    </div>
+  </header>
+  <p class="how"><b>Jak to funguje.</b> Linie jsou seřazené podle důležitosti, šipkami je můžeš přeházet. V každé linii je zvýrazněný krok, který je teď na řadě, vedle něj, co přijde potom. Do kterékoli karty můžeš napsat zprávu a stisknout <b>Koukni na DigiStart</b>; odpovím tady v kartě. Seznam úkolů zůstává v projektu v Obsidianu, tahle stránka ukazuje, co je na řadě.</p>
+  <div id="banner" class="banner" hidden></div>
+  <section class="linie" id="linie" aria-label="Linie projektu"></section>
+  <div class="bottom">
+    <details class="box" id="pocka-box"><summary id="pocka-sum">Počká (0)</summary><div id="l-pocka" class="list" style="margin-top:10px"></div></details>
+    <details class="box" id="done-box"><summary id="done-sum">Hotovo (0)</summary><ul class="done-list" id="l-done"></ul></details>
+  </div>
+  <p class="foot" id="sync"></p>
+</div>
+
+<script>
+(async function () {
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const SHOW = 3;
+  const KDO = { L: 'Lenka', 'Š': 'Štěpánka', C: 'Claude', 'L+C': 'Lenka s Claudem', 'L+Š': 'Lenka a Štěpánka', 'Š+C': 'Štěpánka s Claudem' };
+  const kdoCls = (k) => k === 'C' ? 'C' : (k || '').includes('Š') && !(k || '').includes('L') ? 'S' : (k || '').includes('L') ? 'L' : '';
+  let linie = [], ukoly = [], milniky = [], stav = null, db = null, canWrite = true;
+  const drafts = {}, expanded = new Set(), openItems = new Set();
+
+  const today = () => { const d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); };
+  const parseD = (s) => { if (!s) return null; const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
+  const daysTo = (s) => { const d = parseD(s); return d ? Math.round((d - today()) / 86400000) : null; };
+  const fmtD = (s) => { const d = parseD(s); return d ? `${d.getDate()}. ${d.getMonth() + 1}.` : ''; };
+  const fmtCas = (s) => { const d = s ? new Date(s) : null; return d && !isNaN(d) ? `${d.getDate()}. ${d.getMonth() + 1}. ${d.toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' })}` : ''; };
+  const dny = (n) => n === 1 ? 'den' : (n >= 2 && n <= 4) ? 'dny' : 'dní';
+  const msT = (s) => { const n = Date.parse(s || ''); return isNaN(n) ? 0 : n; };
+  const showBanner = (t) => { const b = $('banner'); b.textContent = t; b.hidden = false; };
+
+  const thread = (u) => Array.isArray(u.vlakno) ? u.vlakno.filter((m) => m && m.text) : [];
+  const unread = (u) => { const last = [...thread(u)].reverse().find((m) => m.kdo === 'lenka'); return !!last && (!u.zpracovano || msT(last.cas) > msT(u.zpracovano)); };
+
+  async function save(path, patch) {
+    if (!db || !canWrite) return;
+    try { await db.doc(path).update(Object.assign({ zmeneno: new Date().toISOString() }, patch)); }
+    catch (e) { showBanner('Uložení se nepovedlo, zkus to prosím znovu.'); }
+  }
+  async function send(u, text) {
+    if (!db || !canWrite || !text) return false;
+    const ref = db.doc('ukoly/' + u.id);
+    try {
+      const snap = await ref.get();
+      const cur = snap.exists ? snap.data() : u;
+      const cas = new Date().toISOString();
+      await ref.update({ vlakno: [...thread(cur), { kdo: 'lenka', text, cas }], zmeneno: cas });
+      return true;
+    } catch (e) { showBanner('Zprávu se nepovedlo uložit, zkus to prosím znovu.'); return false; }
+  }
+
+  function conversation(u, c) {
+    const th = thread(u);
+    if (th.length) {
+      const box = el('div', 'thread');
+      const hidden = expanded.has(u.id) ? 0 : Math.max(0, th.length - SHOW);
+      if (hidden) { const b = el('button', 'older', `Starší zprávy (${hidden})`); b.type = 'button'; b.onclick = () => { expanded.add(u.id); render(); }; box.appendChild(b); }
+      th.slice(hidden).forEach((m) => {
+        const d = el('div', 'msg ' + (m.kdo === 'claude' ? 'claude' : 'lenka'));
+        d.appendChild(el('span', 'who', (m.kdo === 'claude' ? 'Claude' : 'Ty') + (m.cas ? ' · ' + fmtCas(m.cas) : '')));
+        d.appendChild(document.createTextNode(m.text)); box.appendChild(d);
+      });
+      c.appendChild(box);
+      if (th.some((m) => m.kdo === 'lenka')) c.appendChild(unread(u) ? el('span', 'badge', 'Čeká, až si to přečtu') : el('span', 'badge read', 'Přečteno'));
+    }
+    const f = el('div', 'compose');
+    const ta = el('textarea'); ta.id = 'msg-' + u.id; ta.rows = 1; ta.placeholder = 'Napsat…';
+    ta.setAttribute('aria-label', 'Napsat zprávu ke kroku ' + (u.text || ''));
+    ta.value = drafts[u.id] || ''; ta.disabled = !canWrite; ta.oninput = () => { drafts[u.id] = ta.value; };
+    const b = el('button', 'btn done', 'Poslat'); b.type = 'button'; b.disabled = !canWrite;
+    b.onclick = async () => { const v = ta.value.trim(); if (!v) { ta.focus(); return; } b.disabled = true; if (await send(u, v)) { delete drafts[u.id]; ta.value = ''; } b.disabled = !canWrite; };
+    f.append(ta, b); c.appendChild(f);
+  }
+
+  function metaRow(u) {
+    const m = el('div', 'meta');
+    if (u.kdo) m.appendChild(el('span', 'pill ' + kdoCls(u.kdo), KDO[u.kdo] || u.kdo));
+    if (u.stav === 'ceka') m.appendChild(el('span', 'pill ceka', 'čeká' + (u.ceka_na ? ' na ' + u.ceka_na : '')));
+    if (u.termin) { const n = daysTo(u.termin); m.appendChild(el('span', 'pill' + (n !== null && n <= 2 ? ' due' : ''), n < 0 ? `po termínu (${fmtD(u.termin)})` : n === 0 ? 'dnes' : `do ${fmtD(u.termin)}`)); }
+    return m;
+  }
+  function body(u, c) {
+    if (u.kontext) c.appendChild(el('p', 'kontext', u.kontext));
+    if (u.url && /^https:\/\//.test(u.url)) { const a = el('a', 'go', u.url_text || 'Otevřít ↗'); a.href = u.url; a.target = '_blank'; a.rel = 'noopener'; c.appendChild(a); }
+    conversation(u, c);
+    const a = el('div', 'acts');
+    const d = el('button', 'btn sm', 'Hotovo'); d.type = 'button'; d.disabled = !canWrite; d.onclick = () => save('ukoly/' + u.id, { stav: 'hotovo' });
+    a.appendChild(d); c.appendChild(a);
+  }
+
+  function nextCard(u, waiting) {
+    const c = el('article', 'card next');
+    const n = daysTo(u.termin); if (n !== null && n <= 2) c.classList.add('hot');
+    c.appendChild(el('span', 'lab', waiting ? 'čeká se' + (u.ceka_na ? ' na ' + u.ceka_na : '') : 'teď na řadě'));
+    c.appendChild(el('p', 't', u.text));
+    c.appendChild(metaRow(u));
+    body(u, c);
+    return c;
+  }
+  function item(u) {
+    const d = el('details', 'item'); d.id = 'it-' + u.id;
+    if (openItems.has(u.id) || unread(u)) d.open = true;
+    d.addEventListener('toggle', () => { if (d.open) openItems.add(u.id); else openItems.delete(u.id); });
+    const s = el('summary'); s.appendChild(el('span', 'tx', u.text));
+    const th = thread(u); if (th.length) s.appendChild(el('span', 'dot', `${th.length} ${th.length === 1 ? 'zpráva' : th.length < 5 ? 'zprávy' : 'zpráv'}`));
+    d.appendChild(s);
+    const inner = el('div', 'inner'); inner.appendChild(metaRow(u)); body(u, inner); d.appendChild(inner);
+    return d;
+  }
+
+  function move(l, dir) {
+    const order = linie.filter((x) => !x.pocka).sort((a, b) => (a.poradi ?? 99) - (b.poradi ?? 99));
+    const i = order.findIndex((x) => x.id === l.id), j = i + dir;
+    if (j < 0 || j >= order.length) return;
+    const a = order[i], b = order[j];
+    save('linie/' + a.id, { poradi: b.poradi ?? j + 1 }); save('linie/' + b.id, { poradi: a.poradi ?? i + 1 });
+  }
+
+  function render() {
+    const act = document.activeElement, actId = act && act.id && act.id.startsWith('msg-') ? act.id : null;
+    const sel = actId ? [act.selectionStart, act.selectionEnd] : null;
+    if (stav) {
+      $('stav-text').textContent = stav.text || '';
+      $('stav-datum').textContent = 'Kde jsme' + (stav.datum ? ' · ' + stav.datum : '');
+      $('sync').textContent = (stav.aktualizovano ? 'Naposledy srovnáno s projektem v Obsidianu: ' + stav.aktualizovano + '. ' : '') + 'Zdroj pravdy je projects/digistart.md.';
+    }
+    const open = (u) => (u.stav || 'otevreno') !== 'hotovo';
+    const box = $('linie'); box.innerHTML = '';
+    const lanes = linie.filter((l) => !l.pocka).sort((a, b) => (a.poradi ?? 99) - (b.poradi ?? 99));
+    if (!lanes.length) box.appendChild(el('p', 'empty', 'Linie se ještě nenačetly. Claude je sem nahraje z projektu.'));
+    lanes.forEach((l, i) => {
+      const lane = el('section', 'lane'); lane.setAttribute('aria-label', l.nazev);
+      const items = ukoly.filter((u) => u.linie === l.id && open(u)).sort((a, b) => (a.poradi ?? 99) - (b.poradi ?? 99));
+      const nx0 = items.find((u) => u.next);
+      const nx = nx0 || items[0];
+      if (!nx0) lane.classList.add('wait');
+      const h = el('div', 'lane-h');
+      h.appendChild(el('span', 'prio', String(i + 1)));
+      const t = el('div', 'lane-t'); t.appendChild(el('h2', null, l.nazev));
+      const sub = [l.termin ? 'hotovo do ' + fmtD(l.termin) : '', l.popis || ''].filter(Boolean).join(' · ');
+      if (sub) t.appendChild(el('span', 'd', sub)); h.appendChild(t);
+      const la = el('div', 'lane-acts');
+      const up = el('button', 'btn sm', '↑'); up.type = 'button'; up.setAttribute('aria-label', 'Posunout linii výš'); up.disabled = !canWrite || i === 0; up.onclick = () => move(l, -1);
+      const dn = el('button', 'btn sm', '↓'); dn.type = 'button'; dn.setAttribute('aria-label', 'Posunout linii níž'); dn.disabled = !canWrite || i === lanes.length - 1; dn.onclick = () => move(l, 1);
+      la.append(up, dn); h.appendChild(la);
+      lane.appendChild(h);
+      const b = el('div', 'lane-body');
+      if (nx) b.appendChild(nextCard(nx, !nx0));
+      else { const c = el('div', 'card'); c.appendChild(el('p', 't', l.ceka ? 'Čeká se: ' + l.ceka : 'Teď tu není žádný krok na řadě.')); b.appendChild(c); }
+      const rest = items.filter((u) => u !== nx);
+      const list = el('div', 'list'); list.appendChild(el('h3', null, rest.length ? 'Potom v této linii' : 'Další kroky v linii nejsou'));
+      rest.forEach((u) => list.appendChild(item(u)));
+      b.appendChild(list); lane.appendChild(b); box.appendChild(lane);
+    });
+    const pocka = ukoly.filter((u) => open(u) && linie.some((l) => l.id === u.linie && l.pocka));
+    $('pocka-sum').textContent = `Počká (${pocka.length})`;
+    const lp = $('l-pocka'); lp.innerHTML = '';
+    if (!pocka.length) lp.appendChild(el('p', 'empty', 'Nic tu není.'));
+    pocka.sort((a, b) => (a.poradi ?? 99) - (b.poradi ?? 99)).forEach((u) => lp.appendChild(item(u)));
+    const done = ukoly.filter((u) => u.stav === 'hotovo').sort((a, b) => msT(b.zmeneno) - msT(a.zmeneno));
+    $('done-sum').textContent = `Hotovo (${done.length})`;
+    const ld = $('l-done'); ld.innerHTML = '';
+    done.forEach((u) => { const li = el('li'); li.appendChild(el('span', null, u.text)); const bb = el('button', 'btn sm', 'Vrátit'); bb.disabled = !canWrite; bb.onclick = () => save('ukoly/' + u.id, { stav: 'otevreno' }); li.appendChild(bb); ld.appendChild(li); });
+    const st = $('stats'); st.innerHTML = '';
+    const add = (v, l) => { const s = el('span', 'stat'); s.append(el('b', null, String(v)), document.createTextNode(' ' + l)); st.appendChild(s); };
+    milniky.filter((m) => m.datum && daysTo(m.datum) >= 0).sort((a, b) => a.datum.localeCompare(b.datum)).slice(0, 3).forEach((m) => { const n = daysTo(m.datum); add(n, `${dny(n)} do: ${m.nazev}`); });
+    add(ukoly.filter((u) => open(u) && unread(u)).length, 'nepřečtených zpráv');
+    if (actId && $(actId)) { const ta = $(actId); ta.focus(); try { ta.setSelectionRange(sel[0], sel[1]); } catch (e) {} }
+  }
+
+  async function ping() {
+    const btn = $('ping'), st = $('ping-st');
+    btn.disabled = true; st.textContent = 'Posílám…';
+    const pending = ukoly.filter(unread).length;
+    const text = `Koukni na mapu DigiStartu: ${pending} karet s nepřečtenou zprávou.`;
+    if (db && canWrite) { try { await db.doc('meta/vyzva').set({ at: new Date().toISOString(), text }); } catch (e) {} }
+    let sent = false;
+    try {
+      const com = await claude.use('comments');
+      if (com && (await com.canSendToClaude()) === 'available') { const anchor = await com.anchorFor(btn); await com.sendToClaude({ anchor, text }); sent = true; }
+    } catch (e) { sent = false; }
+    const hhmm = new Date().toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' });
+    st.textContent = sent ? `Posláno v ${hhmm}. Odpovím do karty.` : `Uloženo v ${hhmm}. Přečtu to při nejbližším denním plánu, nebo napiš ve vlákně „koukni na mapu DigiStartu“.`;
+    btn.disabled = false;
+  }
+  $('ping').addEventListener('click', ping);
+
+  render();
+  db = await claude.use('db');
+  if (!db) { $('stav-text').textContent = 'Mapa se teď nedá načíst. Otevři stránku přihlášená v claude.ai.'; return; }
+  const user = await claude.use('user');
+  if (user) { const w = await user.can('data.write'); if (w === false) { canWrite = false; render(); } }
+  const fail = () => showBanner('Mapa se přestala načítat. Obnov prosím stránku.');
+  db.doc('dash/stav').onSnapshot((s) => { stav = s.exists ? s.data() : null; render(); }, fail);
+  db.collection('linie').onSnapshot((s) => { linie = s.docs.map((d) => Object.assign({ id: d.id }, d.data())); render(); }, fail);
+  db.collection('ukoly').onSnapshot((s) => { ukoly = s.docs.map((d) => Object.assign({ id: d.id }, d.data())); render(); }, fail);
+  db.collection('milniky').onSnapshot((s) => { milniky = s.docs.map((d) => Object.assign({ id: d.id }, d.data())); render(); }, fail);
+})();
+</script>

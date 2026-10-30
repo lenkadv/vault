@@ -15,6 +15,13 @@ updated: 2026-10-29
 ## Approves
 
 ## Rejects
+- Cena v reklamě (obrázek, text, nadpis). Explicitní připomínka Lenky 2026-10-30 u DGS-IMG-1029-04 → pravidlo hned (`brain/lessons/2026-10-30-reklamy-bez-ceny-a-zive-online.md`).
+- „Živě online“ / „živá setkání online“. Explicitní připomínka Lenky 2026-10-30 u DGS-IMG-1029-02 → pravidlo hned.
+- Nadpis ze dvou útržků bez slovesa („Návody na potom. Teď krok za krokem.“). Lenka 2026-10-30 u DGS-IMG-1029-02.
+
+### Learned 2026-10-30
+- Schváleno bez úprav vizuálu: DGS-IMG-1029-03 (portrét lektorky + její citát + ilustrační ukázka výstupu). Text si Lenka přepsala do svého hlasu. Jeden příklad, zatím ne vzorec.
+- Vizuál DGS-IMG-1029-04 (dva portréty + fakta) se Lence líbil kromě ceny. Jeden příklad.
 
 ## Format preferences
 

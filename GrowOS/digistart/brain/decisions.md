@@ -21,6 +21,9 @@ Each line says who decides. When a line is decided, write it as a dated entry be
 
 Not tracked here on purpose (Lenka, 2026-10-14): capacity (the plan stays flexible and is not fixed in writing), the exact price after the pilot (decided after the pilot; that it will be higher is settled, entry 2026-10-28).
 
+## 2026-10-30: Meta pixel without a cookie consent bar
+- Lenka, 14:57: the Meta pixel goes on B3 and the thank-you page **without a cookie consent bar**; it fires on page open. Claude had proposed a consent bar (its reading of the Czech e-communications law, opt-in since 2022, not checked with a lawyer). Pixel "DigiStart dataset" 1089566730377496, linked to ad account GNOSTIKA DigiStart (Lenka, checked 14:58).
+
 ## 2026-10-29: campaign decisions (Decision Board for the campaign brief)
 **Decided (Lenka, clicked through the Decision Board https://claude.ai/artifact/Q5trYatrHksUQ3GktQa8ff, 13:43):**
 - **Warm contacts:** Štěpánka's acquaintances personally, plus one personal e-mail to participants of Lenka's earlier AI webinars, after the list size and permission to contact are checked.
