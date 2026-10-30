@@ -24,6 +24,8 @@ Před čímkoliv jiným: hledej `config.json` ve složce tohoto skillu.
 
 ## GTD kroky 1–10 (vždy první, bez ptaní)
 
+**Před krokem 1 přečti `resources/postupy/revize.md`** (úplný seznam kroků 1–12 s doplňky: runway tadylenka, Databanka, Přehledovky, LCEnglish, studijní bloky, pravidelné věci). Při rozporu s tímto skillem platí on.
+
 **Weekly review je reflexe Lenky, ne úkol, který Claude provede.** Claude vede, Lenka provádí a rozhoduje.
 
 Pravidla vedení (platí pro GTD kroky i Rituál):
@@ -32,7 +34,7 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 - **Žádný souhrnný přehled předem** a žádný seznam všech otázek naráz. Nepředkládat "co potřebuju od tebe: 1, 2, 3".
 - **Claude sám dělá jen mechanické kroky** (kontrola Disku, archivace dailies, aktualizace `posledni_kontrola`, čtení souborů). Rozhodnutí (keep/drop/defer, přesun, smazání) dělá Lenka; Claude zapíše až po její odpovědi.
 - Nic nemazat ani nepřesouvat bez její reakce.
-- **Žádný krok nepřeskakovat z vlastního rozhodnutí.** Pokud je krok nevhodný nebo pozastavený, Claude ho předloží a o přeskočení rozhodne Lenka. Platí i pro položky z CLAUDE.md (runway tadylenka, Zettelkasten review, kontrola Handy Library, master-dashboard, upozornění na úkoly bez pohybu 2+ týdny).
+- **Žádný krok nepřeskakovat z vlastního rozhodnutí.** Pokud je krok nevhodný nebo pozastavený, Claude ho předloží a o přeskočení rozhodne Lenka. Platí i pro položky z `resources/postupy/revize.md` (runway tadylenka, Zettelkasten review, kontrola Handy Library, master-dashboard, upozornění na úkoly bez pohybu 2+ týdny).
 - Po vyřízení jednoho bodu rovnou přejít na další. Po kroku 10 přejít na Rituál.
 
 1. [[master-dashboard]] — rychlý přehled: co má next action, co nemá, co čeká
@@ -42,7 +44,7 @@ Pravidla vedení (platí pro GTD kroky i Rituál):
 5. [[someday-maybe]] — projdi položku po položce: posunulo se něco do akce? Co je mrtvé? Každou věc aktivně zvažuj, neprojíždět jen "nechat."
 6. [[omnibus]] — zpracovat zachycené položky
 7. `areas/` — aktivní projekty v každé oblasti aktuální? U lcenglish navíc (od 261026): v `resources/lcenglish-ekosystem.md` vypsat systémy s „Ověřeno“ starším než 30 dní a nabídnout jeden ověřit; obnovit `resources/web-lcenglish/mapa-webu-navstevnost.json` z Metricoolu (značka 2215183, WTPA01/WTPA02, 12 měsíců), spustit `python -I resources/web-lcenglish/mapa_webu.py` a ukázat jen rozdíl proti minulé mapě; jednou otázkou ověřit sloupec „Platí“ v `resources/lcenglish-hlidane-udaje.md` a vypsat jen místa z mapy (oddíl Hlídané údaje), kde text nesedí.
-8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle `resources/postupy/knihovna.md` (odkaz z CLAUDE.md sekce Pravidelné revize). Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
+8. Zettelkasten — `#zettel` tasky: relevantní pro aktuální seminárku nebo bakalářku? Zároveň zkontroluj přírůstky do knihovny "knihy a články" (Google Disk) — viz [[knihovna-disk-checklist]] pole `posledni_kontrola`, postup a Drive dotaz podle `resources/postupy/knihovna.md` (odkaz z `resources/postupy/revize.md`). Po kontrole aktualizuj `posledni_kontrola` na dnešní datum/čas, i když nejsou žádné nové soubory.
 9. Note Inbox review — spustit `/note-inbox-review`
 10. **Archivace dailies** — přesuň všechny soubory `daily/YYMMDD*.md` (denní plány i deníky) do měsíční podsložky `daily/YYYY-MM/` podle jejich měsíce, **všechny starší než dnešní** (dnešní den ještě běží). Review běží mezi pátkem a nedělí, o víkendu dailies většinou nevznikají, takže se archivuje hned všechno předchozí, nic nevisí další týden. Vytvoř podsložku, pokud pro daný měsíc ještě neexistuje. Proveď automaticky, bez ptaní.
 

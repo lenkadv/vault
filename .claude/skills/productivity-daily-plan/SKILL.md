@@ -187,7 +187,7 @@ Projdi `G:\Můj disk\vault\GrowOS\*\work\` (bez souborů a složek začínajíc�
 
 **Po plánovaném čase odeslání ověřím tiše já** (Drip `get_broadcast`, Metricool `getScheduledPosts`, Substack stránka): prošlo → položku posunu na `published` a dodělám uzavření epizody bez ptaní; neprošlo → teprve pak řeknu Lence. Nikdy se jí neptat „odešlo to?“ (Lenka 261019).
 
-Když nic nového není, v plánu nic nepiš. Lenka rozhoduje ráno; při zavírání se jí na schvalování nikdy neptej (tam jen tichá kontrola, krok 5a v `CLAUDE.md`). Její odpověď v denním vlákně („1 ano, 2 oprav: …“) zapiš podle skillu `review-queue`: schválení `review → approved`, oprava `review → changes` s jejími přesnými slovy v `note`.
+Když nic nového není, v plánu nic nepiš. Lenka rozhoduje ráno; při zavírání se jí na schvalování nikdy neptej (tam jen tichá kontrola, krok 5a v `resources/postupy/zavirani.md`). Její odpověď v denním vlákně („1 ano, 2 oprav: …“) zapiš podle skillu `review-queue`: schválení `review → approved`, oprava `review → changes` s jejími přesnými slovy v `note`.
 
 **e4. Zápisník z telefonu (od 261025).**
 

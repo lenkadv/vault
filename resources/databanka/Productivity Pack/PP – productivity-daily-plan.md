@@ -30,7 +30,7 @@ Poznámky z použití:
 
 <!-- zneni-skillu:start (generuje gen_zneni_skillu.py, needitovat) -->
 
-> [!quote]- Znění skillu (aktualizováno 261029)
+> [!quote]- Znění skillu (aktualizováno 261030)
 > ```yaml
 > name: productivity-daily-plan
 > description: Sestaví denní plán bez MIT — pevné časy z kalendáře a výběr „Dnes na stole“ podle tabule úkolů (Ty / Spolu / Claude). Sestaví svodku z nevytříděných e-mailů. Čte Google Kalendář, prohledá projects/ a GrowOS/ pro #next-action tasky a zkontroluje týdenní priority. Uloží plán jako sekci nahoře v daily/YYMMDD.md (jeden soubor pro celý den). Spusť při: "plan my day", "denní plán", "naplánuj mi den", "co mám dnes dělat", "otevírací rituál", "s čím začít", "co je dnes na pořadu".
@@ -220,7 +220,7 @@ Poznámky z použití:
 >
 > **Po plánovaném čase odeslání ověřím tiše já** (Drip `get_broadcast`, Metricool `getScheduledPosts`, Substack stránka): prošlo → položku posunu na `published` a dodělám uzavření epizody bez ptaní; neprošlo → teprve pak řeknu Lence. Nikdy se jí neptat „odešlo to?“ (Lenka 261019).
 >
-> Když nic nového není, v plánu nic nepiš. Lenka rozhoduje ráno; při zavírání se jí na schvalování nikdy neptej (tam jen tichá kontrola, krok 5a v `CLAUDE.md`). Její odpověď v denním vlákně („1 ano, 2 oprav: …“) zapiš podle skillu `review-queue`: schválení `review → approved`, oprava `review → changes` s jejími přesnými slovy v `note`.
+> Když nic nového není, v plánu nic nepiš. Lenka rozhoduje ráno; při zavírání se jí na schvalování nikdy neptej (tam jen tichá kontrola, krok 5a v `resources/postupy/zavirani.md`). Její odpověď v denním vlákně („1 ano, 2 oprav: …“) zapiš podle skillu `review-queue`: schválení `review → approved`, oprava `review → changes` s jejími přesnými slovy v `note`.
 >
 > **e4. Zápisník z telefonu (od 261025).**
 >
