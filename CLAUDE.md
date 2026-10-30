@@ -49,6 +49,7 @@ Detailní workflow nejsou v tomhle souboru, aby se nenačítaly v každé seanci
 | Metodologie 2 (KTF): zkouška (písemná individuální, doc. Kubík), Anki karty z přednášek, trénink nanečisto, „zpracuj přednášku“ u Metodologie, státnice z metodologie (témata III. 1–20 jako kostra) | `resources/postupy/metodologie2.md` |
 | Přehledné dějiny antického a středověkého umění (doc. Kubík, absolvováno): zápisky po tématech z nahrávek více ročníků, ke státnicím | `resources/postupy/prehledovka-kubik.md` (notebook „Přehledovka Kubík – všechny nahrávky“, bez Anki) |
 | **Zpracování přednášky u kteréhokoli předmětu KTF** („zpracuj přednášku“, nová nahrávka z Easy Voice Recorderu, jednotné zápisky v Google Docs, Notebook, kontrola údajů, úprava starších zápisků z Notebooku) | `resources/postupy/zpracuj-prednasku.md` (hlavní postup; Anki jen u Přehledovek a Metodologie 2 → jejich postupy výše) |
+| GTD: kde se tasky zobrazují, archivace nebo someday projektu, projektové tasky v denním plánu | `resources/postupy/gtd.md` |
 | Tabule úkolů (kdo co vede: Claude / spolu / Lenka), odškrtávání mimo Obsidian, synchronizace s vaultem, denní plán bez MIT | `resources/postupy/tabule.md` |
 | Přiznání k DPH (identifikovaná osoba), výpisy Air Bank, XML pro Moje daně | `resources/postupy/dph.md` (přiznává se jen Anthropic; ostatní zahraniční služby jen vypsat, rozhoduje Lenka) |
 | Přepisy z Voicenotes (voicenotes.com), stažení přepisu nahrávky nebo videa, „stáhni z Voicenotes“ | `resources/postupy/voicenotes.md` (konektor, jinak Chrome ve vlastní kartě; nic v aplikaci neměnit) |
@@ -119,23 +120,9 @@ Formát záznamu v resources/:
 - **Task = jedna krátká věta, jeden jasný krok** (Lenka 261020): řádek s checkboxem (v projektu, v [[next-actions]] i ve [[waiting-for]]) obsahuje jen sloveso + co + tagy/datum, tak aby ho Lenka zvládla sama bez mého výkladu. Historie, kdo co kdy řekl, předchozí kroky a odkazy jdou **pod task jako odsazená odrážka „Kontext:“** (projekt, waiting-for) nebo, u úkolů bez projektu, do [[kontext-ukolu]] (task na ni může odkázat). Nikdy odstavec v řádku tasku. Paměť `feedback_next_actions_kratce`.
 - Deadline: `#next-action #online 📅 YYYY-MM-DD`. Pozor: deadline ≠ naplánovaný termín. Konkrétní slot v čase → Google Kalendář (`lnk.dvorakova@gmail.com`, čas vždy předem potvrdit s Lenkou), ne 📅 tag.
 
-### Jak se tasky zobrazují v GTD
-
-[[next-actions]] (Tasks plugin): **🌱 tadylenka / 🌱 lcenglish** (`#next-action` ze souborů s tím názvem v cestě) · **@online / @telefon / @doma / @venku** (manuální + projektové podle context tagu) · **📚 Zettelkasten** (`#zettel` z `resources/` a `zettelkasten/literature/`) · **⏰ Follow-upy** (waiting-for do 4 dnů).
-
-[[master-dashboard]] (Dataview): next actions z `projects/`, inbox, waiting-for, projekty bez next action. GrowOS review fronta je samostatná (`node GrowOS/system/tools/growos.js doctor`).
-
-| Chci vědět… | Otevřu… |
-|---|---|
-| Co teď udělat (podle kontextu) | [[next-actions]] |
-| Celkový stav všech projektů | [[master-dashboard]] |
-| Co čeká na někoho (vše) | [[waiting-for]] |
-
 ### projects/ obsahuje jen živé projekty
 
-- `projects/` = jen projekty s aktivní `#next-action`
-- Projekt v someday → **smazat projektový soubor**, přesunout vše potřebné do someday záznamu (someday záznam musí být akční sám o sobě — bez dalších kliknutí)
-- Projekt dokončen → přesunout do `archive/`, zkontrolovat a vyčistit stopy v `areas/`, `gtd/`, `inbox/`
+`projects/` = jen projekty s aktivní `#next-action`. Projekt do someday nebo hotový (archive/) → postup v [[resources/postupy/gtd]], tam je i kde se tasky zobrazují a jak se píšou do denního plánu.
 
 ### Projektový soubor — aktuální stav nahoře, nové zápisy nad starší (261018)
 
@@ -156,10 +143,6 @@ Kdykoli odškrtnu task s `#next-action` v projektovém souboru:
 3. Pokud žádný další task neexistuje → projekt je buď hotový nebo čeká; upozornit Lenku
 
 Toto platí vždy — i když task odškrtávám zpětně, i když ho odškrtávám v daily plan.
-
-### Daily plan — tasky z projektů jsou reference, ne checkboxy
-
-Tasky z `projects/` se v daily plan zapisují jako **plain bullet bez checkboxu** s wiki-linkem: `- Název tasku → [[název-projektu]]`. Checkbox žije jen v projektovém souboru. Odškrtnutí = jdi do projektu, odškrtni tam + proveď next-action advancement. Výjimka: ad-hoc tasky vzniklé přímo v daily plan (bez projektu) mohou mít checkbox.
 
 ### „Nezapomenout“ není poznámka, ale task (261004)
 
@@ -190,10 +173,7 @@ Když Lenka řekne „nezapomenout“, „jen aby to nezapadlo“, „neřešit 
 - GrowOS je samostatný systém (2.0) — při práci v GrowOS kontextu se řídit `GrowOS/AGENTS.md` a [[resources/postupy/growos]]
 - **Říkat, když hádám** (261014, podle AI Signal „7 řádků“): když něco nevím nebo si to domýšlím (souvislost, zdroj, datum, význam cizího sdělení), řeknu to výslovně a oddělím od ověřeného; u tvrzení o jejích věcech uvedu soubor nebo mail, odkud to mám. Radši „nevím, ověřím“ než hladké domýšlení. Paměť `feedback_say_when_guessing`.
 - **Styl odpovědí v chatu** (261014, z AI Signal „7 řádků“, vybrala Lenka): (1) začít odpovědí, bez „skvělá otázka“; (2) krátké prosté věty; (3) bez emoji a nadšení, **kromě varovných značek**, hlavně ⚠️ u odesílací adresy a deadlinů; (4) nepřebírat její náladu, zůstat věcná; (5) ~~Stop when it's done~~ **neplatí**: nabídky dalších kroků a upozornění na deadliny zůstávají (role dispečera); (6) ptát se jen když chybějící informace změní odpověď, a po jedné otázce; (7) viz „Říkat, když hádám“ výš. Šablona denního plánu (emoji v nadpisech sekcí) se nemění, dokud Lenka neřekne. Paměť `feedback_style_rules_ai_signal`.
-- **Vždy odkaz na původní zdroj** (260929, zpřísněno): kdykoli ukládám nebo přesouvám informaci kamkoli (someday, resources, projekt, zettelkasten, content bank), musí vést **přímo na původní zdroj** — URL kurzu/článku/produktu, ne jen „psalo se v mailu“. Poznámka bez cesty ke zdroji je k ničemu. U e-mailů:
-  - shrnutí **+ přímý proklik na zdroj** uložen → mail může do koše (`Svodka/smazat`);
-  - jen shrnutí bez přímého prokliku (odkaz vede jen na mail) → mail **zůstává dohledatelný v archivu**, nemazat;
-  - Substack a jiné na webu dohledatelné texty, běžná oznámení bez odkazu (např. „registrace brzy“) → mail může do koše.
+- **Vždy odkaz na původní zdroj** (260929, zpřísněno): kdykoli ukládám nebo přesouvám informaci kamkoli (someday, resources, projekt, zettelkasten, content bank), musí vést **přímo na původní zdroj** — URL kurzu/článku/produktu, ne jen „psalo se v mailu“. Poznámka bez cesty ke zdroji je k ničemu. Kdy smí mail do koše: [[resources/postupy/svodka]] krok 3.
 - **Instalace na zkoušku (261027):** kdykoli Lenka nebo Claude nainstaluje program, rozšíření, CLI, npm balíček nebo MCP server na zkoušku, Claude hned založí ve [[waiting-for]] úkol „Rozhodnout: nechat, nebo odinstalovat X“ s 📅 za 14 dní. Důvod a postup: [[resources/postupy/udrzba-pocitace]].
 - **Git:** Claude smí lokálně `git add` + `git commit`, **nikdy `git push`** (blokováno) — push spouští Lenka sama (`cd "G:\Můj disk\vault"; git push`). Detaily [[resources/postupy/git-zaloha]].
 
