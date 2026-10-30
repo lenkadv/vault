@@ -13,6 +13,10 @@ sort by due
 ---
 
 ## Čeká na datum
+- [ ] Vyhodnotit projekt „Přehledovka na cesty“ po týdnu používání 📅 2026-11-02
+    - Kontext (261030): přesunuto z [[claude-academy]], kde zůstává jako next action RECIPE (Lenka).
+    - Projekt Lenka založila 261026 23:45 (instrukce + 9 Docs připojených z Disku; připojování bylo pracné). Otázky k vyhodnocení v [[resources/postupy/prehledovky-pech]], oddíl „Projekt na cesty“.
+    - Kontext (261026): Lenka rozhodla, že Metodologie 2 zůstává ve Studovně a projekt se zkusí jen na Přehledovce dr. Pecha. Claude připravil instrukce [[resources/postupy/prehledovka-na-cesty-instrukce]] a návod se seznamem 9 Google Docs v [[resources/postupy/prehledovky-pech]] (oddíl „Projekt na cesty“). Po založení týden používat cestou, pak vyhodnotit (otázky v tomtéž oddílu).
 - [ ] Vyhodnotit test Overture C a rozhodnout o smazání testovacího kontaktu v Dripu 📅 2026-11-06
     - Kontext (261029 13:30): kontakt `lnk.dvorakova+overturec@gmail.com` (Drip id nqi9akzjfs3apiaceywn) poslán do Controller C; 13:32 prošel do Carriage C, pole carriage_C_overture vyplněné, přihlášen v sérii 008 Overture C. Maily jdou po–pá 8:04, první 30. 10., poslední 6. 11. Claude stav ověří přes API (last_sent_email_index) a Lenka v Gmailu zkontroluje oslovení, rodové tvary (kontakt nemá štítek M/F, takže vyjde tvar „-li“, pokud ho skript nedoplní) a odkazy. Smazat kontakt jen na Lenčino výslovné slovo. Detail [[drip-lcenglish-uvitani]].
 - [ ] Zkontrolovat v Claude (Scheduled → Kontrola A4E → History), že úloha v 16:01 proběhla, sedí (i řádek Facebook) a přišlo oznámení 📅 2026-11-03
