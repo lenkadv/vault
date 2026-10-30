@@ -13,7 +13,7 @@ target_cpl: ""
 target_roas: ""
 conversion_event: "landing_page_view"   # Decision Board 29. 10.: optimalizace na návštěvy stránky
 daily_budget: ""            # strop 5 000 Kč na 9.–20. 11. předběžně, asi 420 Kč denně
-landing_page_url: "https://lenka-dvorakova.lpcontent.net/iYfYzG6Yg_"   # B3; změní se s doménou digistart.cz nebo B4
+landing_page_url: "https://digistart.cz"   # B4 na vlastní doméně (Lenka 261030)
 business_language: "cs"
 ad_code_prefix: "DGS"
 research_mode: standard

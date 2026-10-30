@@ -70,7 +70,6 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 24  | 261028 | 1 h | Call se Štěpánkou k DigiStartu (17:00–18:00, podle Lenky asi hodinu): prodej a reklama přes GNOSTIKU, SimpleShop, faktury ze SimpleShopu → [[digistart]] |
 |     | **261028 celkem** | **asi 4 h** | Podle Lenky (261029): skutečný čas dne za DigiStart byl asi 4 hodiny. Řádky 20–24 se časem překrývají, protože vlákna běžela souběžně a call byl současně s vláknem Proč Claude; jejich součet (5 h 06 min) proto není čas Lenky. |
 | 25  | 261029 | 1 h 43 min | DigiStart: plán kampaně skillem `campaign-plan` a Decision Board, brief kampaně (Lenčiny připomínky, scénář konzultace, schváleno 16:48), projekt srovnán do šesti linií, 4 statické reklamy do review (13:02–13:55, 14:09–14:20, 16:46–17:25) → [[digistart]], `GrowOS/digistart/work/strategy/digistart-pilot-kampan.md` |
-| 26  | 261030 | 15 min | Firemní workshop (VOX, TA ČR): rada Štěpánce, jak s VOX naložit, koncept odpovědi v Gmailu (12:15–12:30) |
 | 27  | 261030 | 1 h 54 min | DigiStart: připomínky k reklamám (všechny 4 schválené), mapa projektu přestavěná jako tabule, scénář konzultace (13:52–14:20, 14:30–15:45, 16:24–16:35) → [[digistart]] |
 | 28  | 261030 | 31 min | DigiStart: Meta pixel ve správném portfoliu, propojení s účtem, kód na B3 a děkovací stránce (14:34–15:05) → [[digistart]] |
 | 29  | 261030 | 1 h 52 min | DigiStart: návod na instalaci Claude (web a PDF, zveřejněn), úvodní prompt a návod pro účastnice (15:35–16:05, 16:23–16:30, 18:48–19:15, 20:36–21:12, 22:33–22:45) → [[digistart]] |
@@ -79,7 +78,7 @@ Hodinová evidence platí jen pro práci na počítači. Fyzická přítomnost v
 | 32  | 261030 | 1 h 43 min | DigiStart: reklamy z WinningAds, Canva (sada značky DigiStart), kontrola compliance (20:37–22:20) → [[digistart]] |
 | 33  | 261030 | 35 min | DigiStart: vzkazy z mapy, vizuály a FB příspěvky 3. a 6. 11. naplánované v Metricoolu (20:35–20:50, 22:30–22:50) → [[digistart]] |
 | 34  | 261030 | 9 min | DigiStart: karta na lenkadvorakova.cz (22:57–23:06) → [[digistart]] |
-|     | **261030** | **odhad zbývá na Lence** | Řádky 27–34 se překrývají, vlákna běžela souběžně (součet 10 h 33 min není čas Lenky). Rámec dne pro DigiStart 13:52–23:06 s pauzami; skutečný čas může doplnit Lenka. |
+|     | **261030 celkem** | **6 h 37 min** | Čas Lenky bez překryvů (Lenka 261030: souběžná vlákna počítat jen jednou): 13:52–14:20, 14:30–16:05, 16:23–16:35, 18:19–19:15, 19:23–22:20, 22:30–22:50, 22:57–23:06. Řádky 27–34 se překrývají, jejich součet (10 h 33 min) čas Lenky není. |
 
 **Součet práce na počítači k 261021 (jen zapsané řádky):** DigiStart 17 h 20 min (řádky 1–5, 8–13) + firemní workshop 1 h 45 min (řádek 7) = **19 h 05 min**. S auditem FEKT a webem GNOSTIKY (14 h 32 min, viz výš) je to pro Štěpánku celkem **33 h 37 min** práce na počítači od 4. 8. 2026, plus dny v Brně a Jičíně. Bloky DigiStartu z 18.–20. 10. v tabulce zatím nejsou (zapisuje je denní vlákno, pokud proběhly).
 
