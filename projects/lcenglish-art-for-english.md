@@ -123,6 +123,12 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 - [x] Po odeslání #27: ověřeno, fronta `published`, finální text v `library/episodes/27-friedrich/newsletter.md` a `brain/samples/`, Vydané díly, curriculum ✅ 2026-10-20 — Drip 919204975 sent 7:53, Substack 7:24, FB Tady Lenka 12:30 published; jediná Lenčina změna v Dripu „někde“ → „někdy“ (bez nové lekce)
 - [ ] Dopsat hook do A4E #29 Oosterwijck a schválit ho #next-action #online 📅 2026-11-02
     - Kontext: #29 vychází út 3. 11.; draft je v GrowOS frontě (`work/email/29-oosterwijck/`, review), chybí jen Lenčin hook k Dušičkám (otázky v draftu).
+
+### Přihlašovací stránka /newsletter/
+
+- Hotovo 261030: obraz Vermeer, *Píšící dáma* je na stránce (médium WP 7593, vpravo vedle úvodu, na mobilu nad textem; položka GrowOS `s7tbe1lmqo` `published`). Linie nemá další krok.
+    - Kontext (Zápisník 261030, `inbox/telefon/zarazeno/261030-0114 Art na stránku newsletteru Art for English.md`): Lenka namluvila „dát na stránku s přihlášením k newsletteru Art for English nějaký art“. Stránka `/newsletter/` je od 261026 přihláška bez dárku (formulář Dripu 377807034), detail [[resources/web-lcenglish/mapa-webu]]. Že jde o tuhle stránku, je můj odhad.
+    - 261030 návrh (vlákno „obraz na /newsletter/“): Fragonard *The Love Letter* (https://www.metmuseum.org/art/collection/search/436322, díl #10), Fragonard *A Young Girl Reading* (https://commons.wikimedia.org/wiki/File:Fragonard,_The_Reader.jpg, NGA), Hokusai *Great Wave* (https://www.metmuseum.org/art/collection/search/45434, díl #4), Jan Steen *A School for Boys and Girls* (https://commons.wikimedia.org/wiki/File:Jan_Steen_-_A_School_for_Boys_and_Girls_-_Google_Art_Project.jpg, díl #20); všechna public domain. Na Lenčin dotaz doplněn Vermeer (návaznost na #2 Mlékařka): *Woman Reading a Letter* (https://www.rijksmuseum.nl/en/collection/SK-C-251), *The Love Letter* (https://www.rijksmuseum.nl/en/collection/SK-A-1595), *Girl Reading a Letter at an Open Window* (https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg, Drážďany), *A Lady Writing* (https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg, NGA); všechna public domain, všechna na výšku. Čeká na výběr díla a místa; pak položka GrowOS → review → approved → úprava stránky.
 - [x] Publikovat zpětně na Substacku díl #17 Rivera ✅ 2026-10-12 — publikovala Lenka, datum 11. 8., https://artforenglish.substack.com/p/ja-pri-tom-nehubnu
 - [x] Do Substack verze #26 vložit odkaz na díl #17 ✅ 2026-10-12 — vloženo do draftu (https://artforenglish.substack.com/p/ja-pri-tom-nehubnu)
 - [x] FB upoutávka k #25 ✅ 2026-10-05 — naplánována v Metricoolu (značka Tady Lenka) na út 6. 10. 15:00, Lenka text doladila; odkaz na Substack v prvním komentáři
@@ -131,6 +137,7 @@ Probíhající týdenní série — jeden umělec, 5 minut, 3 fráze + gramatika
 ## Aktuální stav
 
 - **Poslední newsletter:** #28 Alfons Mucha, Apoteóza ze Slovanské epopeje (řadové číslovky a data), „Dárek s podmínkou“ — odesláno út 27. 10. 2026 8:01 (Drip 53124723), Substack 8:27 (https://artforenglish.substack.com/p/darek-s-podminkou), FB Tady Lenka zveřejněno. **Epizoda uzavřena 261027** (finální text v `library/episodes/28-mucha/`, kopie v `brain/samples/`, fronta `published`).
+- **Přihlašovací stránka /newsletter/ (261030):** od 30. 10. na ní je obraz Vermeer, *Píšící dáma* (schváleno, zveřejněno, ověřeno na počítači i mobilu).
 - **Další výstup:** NL #29 Oosterwijck, út 3. 11. (v review, hook bez termínu); #30 El Greco 10. 11. rozpracované (261024).
 - **Curriculum (261027):** listopad–prosinec schválen, #29–#37 až do 29. 12. (Delacroix, af Klint, Hiroshige, Morisot, Lilly Martin Spencer, Lada, Whistler). Plán na leden–červen 2027 do 30. 11. ([[waiting-for]]).
 - **20. 10. doplněno (261004):** v curriculu chyběl termín, nejde o pauzu. Nový slot #27 (dílo i gramatika k upřesnění), Mucha a další přečíslovány na #28–36, data beze změny.

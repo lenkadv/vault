@@ -4,7 +4,12 @@ headline: Obraz na lcenglish.cz/newsletter/ – Vermeer, Píšící dáma
 project: lcenglish-art-for-english
 source: projects/lcenglish-art-for-english.md
 note: ""
-status: draft
+status: published
+publish_destination: manual
+publish_attempted_at: "2026-10-30T13:36:00Z"
+publish_state: prepared
+publish_note: "WordPress stránka 7546 lcenglish.cz/newsletter/: médium 7593, blok Obrázek vpravo 280 px s popiskem, CSS pro mobil v HTML bloku; ověřeno na počítači i na mobilu (375 px), bloky v editoru platné"
+published_at: "2026-10-30T13:38:00Z"
 business: lcenglish
 channel: pages
 created: 2026-10-30
